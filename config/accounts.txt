@@ -15,5 +15,6 @@ mentalgeorge
 ohlennart
 sayashk
 testingham
-TheZvi
 slatestarcodex
+s8mb
+random_walker
