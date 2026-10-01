@@ -1,0 +1,50 @@
+name: Daily digest
+
+on:
+  schedule:
+    - cron: '45 5 * * *'   # 05:45 UTC = 06:45 BST / 05:45 GMT (GitHub cron can lag ~15 min)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests==2.32.3
+
+      - name: Fetch new tweets
+        env:
+          TWITTERAPI_KEY: ${{ secrets.TWITTERAPI_KEY }}
+        run: python scripts/fetch.py
+
+      - name: Rebuild dashboard
+        run: python scripts/build_site.py
+
+      - name: Send daily email
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python scripts/send_email.py
+
+      - name: Commit archive and dashboard
+        run: |
+          git config user.name "digest-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data docs
+          git diff --cached --quiet || git commit -m "Daily digest $(date -u +%F)"
+          git push
