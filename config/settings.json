@@ -1,0 +1,12 @@
+{
+  "owner_handle": "shahilgoodka",
+  "include_replies": false,
+  "include_retweets": true,
+  "dashboard_days": 7,
+  "email_hours": 24,
+  "email_subject_prefix": "X digest",
+  "smtp_host": "smtp.mail.yahoo.com",
+  "smtp_port": 465,
+  "provider": "twitterapi_io",
+  "max_pages_per_account": 3
+}

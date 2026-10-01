@@ -1,0 +1,19 @@
+# One X username per line (no @). Lines starting with # are ignored.
+# Edit this file on github.com any time — the next daily run picks it up.
+_achan96_
+add_hawk
+ajeya_cotra
+alxndrdavies
+curl_justin
+DaveRBanerjee
+DKokotajlo
+dwarkesh_sp
+jkcarlsmith
+Lewis_Bollard
+matthewclifford
+mentalgeorge
+ohlennart
+sayashk
+testingham
+TheZvi
+slatestarcodex
