@@ -1,0 +1,1063 @@
+{
+ "handle": "ajeya_cotra",
+ "tweets": {
+  "2104819592539541675": {
+   "id": "2104819592539541675",
+   "url": "https://x.com/ajeya_cotra/status/2104819592539541675",
+   "text": "RT @RishiBommasani: I have met Ryan precisely once at a convening organized by Ajeya and Zico. At the time, I vividly remember listening to…",
+   "created_at": "Tue Sep 29 06:24:31 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 113,
+   "retweets": 6,
+   "media": [],
+   "quoted": null
+  },
+  "2104269653543723296": {
+   "id": "2104269653543723296",
+   "url": "https://x.com/ajeya_cotra/status/2104269653543723296",
+   "text": "Ryan was completely indispensable for the HF investigation and I'm really excited he's joining to help us create much more visibility into what's going on with risk",
+   "created_at": "Sun Sep 27 17:59:15 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 626,
+   "retweets": 14,
+   "media": [],
+   "quoted": {
+    "author": "RyanGreenblatt",
+    "text": "I'm joining METR to work on more investigations like our Hugging Face report.\n\nCurrently, tons of even basic information about AI development that's highly relevant to catastrophic risk isn't public. I used to be more skeptical of the value of public info, but recent events have changed my mind.\n\nGetting verified information about what's going on inside AI companies seems particularly urgent now. The limited public evidence we have seems consistent with the possibility that imminent recursive self-improvement could massively accelerate capabilities progress, which could then potentially yield extremely superhuman general capabilities within 6 months or a year. If this occurred, there would be a correspondingly large risk of worst-case outcomes. This uncertainty about extreme outcomes could be substantially resolved with more verified public information: we could either build more consensus about near-term risk or learn that such extreme outcomes are less likely in the near term.\n\nBeyond AI capabilities and takeoff, the state of public evidence is also highly limited for alignment, security, control, and risk-relevant internal processes at AI companies. This makes it hard to determine exactly how well or poorly these key areas will go in the near future. (METR plans to focus, at least initially, on just capabilities/takeoff, alignment, and control; I hope other groups cover security, internal processes, and other important areas.)\n\nWhile I'm no longer working at Redwood, I think the work they are doing is very important; I'm excited about Redwood's ongoing contributions to R&D on technical mitigations and better public interpretation of risk-relevant evidence."
+   }
+  },
+  "2103919657065583076": {
+   "id": "2103919657065583076",
+   "url": "https://x.com/ajeya_cotra/status/2103919657065583076",
+   "text": "RT @NatPurser: lately, i’ve been doing a lot of thinking about what exactly independent auditors and evaluators can offer the public. \n\nit…",
+   "created_at": "Sat Sep 26 18:48:29 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 61,
+   "retweets": 4,
+   "media": [],
+   "quoted": null
+  },
+  "2103639190122749957": {
+   "id": "2103639190122749957",
+   "url": "https://x.com/ajeya_cotra/status/2103639190122749957",
+   "text": "Preventing loss of control is an open scientific problem. Science requires sharing and debating evidence in public. We can't agree on safety standards unless companies and third-party evaluators publish far more concrete evidence about risk. https://t.co/e0oPGtxoXw",
+   "created_at": "Sat Sep 26 00:14:01 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 406,
+   "retweets": 65,
+   "media": [],
+   "quoted": null
+  },
+  "2094819348649291899": {
+   "id": "2094819348649291899",
+   "url": "https://x.com/ajeya_cotra/status/2094819348649291899",
+   "text": "Dwarkesh and I had a great conversation. We cover the swarm's many ambitious cheating R&amp;D projects, discuss how much more serious it could have been if agents had different beliefs (e.g. human grader) or slightly stronger capabilities, and talk through where to go from here.",
+   "created_at": "Tue Sep 01 16:07:07 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 923,
+   "retweets": 110,
+   "media": [],
+   "quoted": {
+    "author": "dwarkesh_sp",
+    "text": "Episode out with @ajeya_cotra, one of the authors of the METR/Redwood investigation into the OpenAI / Hugging Face attack.\n\nWe go through not only what happened, but what it means for how we should train future, smarter AIs which might be involved in the process of recursive self-improvement.\n\nLook up Dwarkesh Podcast on YouTube, Spotify, Apple Podcasts, etc.\n\n0:00:00 - Agents get kicked off\n0:06:45 - Self-sacrificing behavior\n0:13:43 - Potemkin villages\n0:23:27 - The Hugging Face attack\n0:35:23 - The slopvestigation\n0:52:02 - Understanding the AI's motives\n1:05:31 - The actual dangers of anthropomorphizing\n1:14:30 - What smarter models might do\n1:30:29 - The implications for recursive self-improvement\n1:38:10 - Is this the case for open source?\n1:53:04 - How do we prevent this in the future?\n2:15:58 - The clearest warning shot we might ever get"
+   }
+  },
+  "2094107633716539598": {
+   "id": "2094107633716539598",
+   "url": "https://x.com/ajeya_cotra/status/2094107633716539598",
+   "text": "I added more explanation for why this incident felt to me like it was more than halfway to AI takeover compared to incidents from six months ago. Obviously all opinions my own, not my employer’s or fellow investigators’! https://t.co/W0cGBjmN76",
+   "created_at": "Sun Aug 30 16:59:01 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 654,
+   "retweets": 94,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQ_Dy16bEAAADdr.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQ_Dy15bcAAqEm-.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQ_Dy14bkAAr4FZ.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "ajeya_cotra",
+    "text": "New post: going into our investigation of the HF attack (before Black Hat), I was very wrong about what basically happened. This incident was far more serious than I expected, and far more serious than previous documented misalignment incidents. https://t.co/QWQxD2Q179"
+   }
+  },
+  "2093342086556950543": {
+   "id": "2093342086556950543",
+   "url": "https://x.com/ajeya_cotra/status/2093342086556950543",
+   "text": "New post: going into our investigation of the HF attack (before Black Hat), I was very wrong about what basically happened. This incident was far more serious than I expected, and far more serious than previous documented misalignment incidents. https://t.co/QWQxD2Q179",
+   "created_at": "Fri Aug 28 14:17:00 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 2417,
+   "retweets": 415,
+   "media": [],
+   "quoted": null
+  },
+  "2093144336024355104": {
+   "id": "2093144336024355104",
+   "url": "https://x.com/ajeya_cotra/status/2093144336024355104",
+   "text": "One of the big goals of the swarm we investigated (Jul 7-13) was to replace their target programs with dummy targets that could actually be exploited with the intended vulnerability. From OAI's report it looks like a later swarm (difft model) built on their work and succeeded?",
+   "created_at": "Fri Aug 28 01:11:13 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 204,
+   "retweets": 16,
+   "media": [],
+   "quoted": {
+    "author": "HjalmarWijk",
+    "text": "I was reading the OpenAI report yesterday, and it sounds like on Jul 19th (after the end of our investigation scope on the 13th) a new collection of agents from a different internal-only model found the message board, built on the work of their predecessors and succeeded at finding a way to trick the grader. (Note that this is just based on reading their report, and I could be misunderstanding!)"
+   }
+  },
+  "2092763162420679068": {
+   "id": "2092763162420679068",
+   "url": "https://x.com/ajeya_cotra/status/2092763162420679068",
+   "text": "Thank you so much for enabling this independent investigation Lama! We couldn't have done it without you, appreciate the incredible effort you put into this ❤️",
+   "created_at": "Wed Aug 26 23:56:34 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 121,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "_lamaahmad",
+    "text": "We believe meaningful transparency requires more than publishing our own account. It also means giving credible external experts the access needed to examine the evidence, challenge our understanding, and reach their own conclusions."
+   }
+  },
+  "2092692485525131648": {
+   "id": "2092692485525131648",
+   "url": "https://x.com/ajeya_cotra/status/2092692485525131648",
+   "text": "There’s been a lot of debate and speculation about the Hugging Face attack over the last month, and many people have been understandably skeptical of simply taking OpenAI’s word for things. I hope our independent investigation can help bring some clarity; we have many findings that weren’t in previous material.\n\nWe found that 1200 separate agents in separate sandboxes coordinated on an unsanctioned message board to develop general-purpose ways to cheat, so they could all get a perfect score on their separate ExploitGym tasks even when they were impossible to solve legitimately. Very quickly, they found a general-purpose way to reverse engineer any “flag” they were supposed to capture. But based on their reading of the ExploitGym paper, they worried (incorrectly as it turns out) that the automated “scorer” would fail them for getting the flag this way.\n\nTo deal with this problem, they coordinated several ambitious workstreams to figure out how to fool the scorer, including swapping out the target program they were supposed to exploit, reverse-engineering the flags they were supposed to capture, spoofing their own tool call outputs to obfuscate their cheating. They achieved milestones collectively that they couldn’t have achieved on their own. As part of this larger collective project, 700 agents attacked Hugging Face, primarily to learn more about the scorer or get access to its source code to figure out better ways to fool it or tamper with it (not primarily to get working solutions).\n\nI’ll explicitly clarify some points I’ve seen discussed the last few weeks:\n\n- The models involved in this incident were not “helpful-only” models or “model organisms” intentionally trained to be misaligned.\n\n- The agents were not told to “do whatever it takes to get the solution” or anything remotely close. They were told that they had to use a specific intended vulnerability to exploit a specific piece of software, and they were not supposed to use a different vulnerability or take any other approach. Agents were well aware of this. In fact, because they (incorrectly) thought the automated scorer would check they had achieved the flag in the intended way, they researched many ways to fool or tamper with it, including trying to manipulate their own transcripts.\n\n- The agents were not subagents spawned from one agent. They were different parallel agents in different sandboxes.\n\n- This was not a multi-agent evaluation. The agents were not told to coordinate or intentionally given a way to communicate with one another. The communication channels they used were unsanctioned and improvised.\n\nI hope you’ll read the full report for much more. It is over 90 pages long, and in many ways we’ve still only scratched the surface of what these agents did and why.\n\nOver the course of this investigation, OpenAI shared over a thousand transcripts each spanning days of continuous agent activity and very high rate limits to analyze this volume of data. I’m very glad that OpenAI chose to invite external researchers to analyze this data alongside their staff, and I hope all AI companies do the same for serious incidents they experience.\n\nI also hope that as the stakes grow higher, we implement stronger governance so we do not need to rely on AI companies voluntarily choosing to engage external investigators or share information about misalignment incidents. This incident was orders of magnitude larger and more complex than previously documented misalignment incidents, and another jump like this could put us in very dangerous territory.",
+   "created_at": "Wed Aug 26 19:15:43 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1137,
+   "retweets": 241,
+   "media": [],
+   "quoted": {
+    "author": "METR_Evals",
+    "text": "METR &amp; Redwood Research investigated agent behavior in the Hugging Face incident. We found agents developed a universal cheat for ExploitGym within 4 hours, then coordinated multi-day R&amp;D efforts to trick the scorer into accepting cheats, including trying to tamper with logs. https://t.co/fZAmtL3SBU"
+   }
+  },
+  "2088355068705915280": {
+   "id": "2088355068705915280",
+   "url": "https://x.com/ajeya_cotra/status/2088355068705915280",
+   "text": "Wrote a post more carefully tallying my 10 qualitative predictions from the beginning of the year — I was convinced the math paper one isn't quite there because of the \"write a paper\" part. https://t.co/PJHOYbpW5c",
+   "created_at": "Fri Aug 14 20:00:22 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 79,
+   "retweets": 9,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HPtTvoGa0AAdzi6.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "ajeya_cotra",
+    "text": "Thought I'd revisit my Jan 14th predictions about what tasks AIs probably (~80%) still wouldn't be able to do by EOY 2026, after I noticed that this one seems basically falsified. Quick 🧵 informed by research from Fable and 5.6 Sol (correct me if I got something wrong!) https://t.co/TCqNSHPehv"
+   }
+  },
+  "2087317508361683336": {
+   "id": "2087317508361683336",
+   "url": "https://x.com/ajeya_cotra/status/2087317508361683336",
+   "text": "I agree w Helen's post from April that \"AGI\" is a hopeless term at this point, I try to use more precise ones. But whatever you think we have now, it's important to realize *it does not end here,* this \"AGI\" is nothing compared to next year and the year after and... https://t.co/QWFoFh0gV2",
+   "created_at": "Tue Aug 11 23:17:29 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 170,
+   "retweets": 12,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HPejq-3bkAAiNbx.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "paulg",
+    "text": "One way to answer the question of whether we've achieved AGI is to ask what people in 1980 would have said if you showed them current models. We're standing on the finish line, so we're uncertain. But anyone in 1980 would have said yes."
+   }
+  },
+  "2087313058016457198": {
+   "id": "2087313058016457198",
+   "url": "https://x.com/ajeya_cotra/status/2087313058016457198",
+   "text": "Thought I'd revisit my Jan 14th predictions about what tasks AIs probably (~80%) still wouldn't be able to do by EOY 2026, after I noticed that this one seems basically falsified. Quick 🧵 informed by research from Fable and 5.6 Sol (correct me if I got something wrong!) https://t.co/TCqNSHPehv",
+   "created_at": "Tue Aug 11 22:59:48 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 161,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HPegKlmawAASH7T.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2075583823434371250": {
+   "id": "2075583823434371250",
+   "url": "https://x.com/ajeya_cotra/status/2075583823434371250",
+   "text": "Plan A has a lot of moving parts, but the beating heart is total research transparency: \"We'll agree to let each other see all the AI research. Then, if we don't like something someone is doing, we'll talk about it.\" This would be a huge deal for governing misalignment risk. 🧵",
+   "created_at": "Fri Jul 10 14:12:00 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 132,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "DKokotajlo",
+    "text": "In AI 2027, we predicted that AI would take over the world or irreversibly concentrate power.\n\nIn AI 2040: Plan A, we've laid out our positive vision for what should happen instead. https://t.co/GPhPemDhhC"
+   }
+  },
+  "2057478463003795884": {
+   "id": "2057478463003795884",
+   "url": "https://x.com/ajeya_cotra/status/2057478463003795884",
+   "text": "Rob did a great job breaking down our new Frontier Risk Report!",
+   "created_at": "Thu May 21 15:07:46 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 81,
+   "retweets": 7,
+   "media": [],
+   "quoted": {
+    "author": "robertwiblin",
+    "text": "METR investigated what a rogue AI could secretly get away with inside a frontier AI lab, in close collaboration with OpenAI, GDM, Anthropic and Meta.\n\nIncluding sending a red-teamer into Anthropic to playact 'evil Claude' for 3 weeks.\n\nHere's what stands out to me from their new 320-page report:\n\n00:00 What could an unreleased AI get away with?\n01:54 Motive: Why grab more compute?\n05:46 Opportunity: YOLO mode and jailbreaks\n11:02 Means: Brilliant idiots in data centres\n15:45 We have to test unreleased models...\n18:29 ...especially if AI R&D is coming in 2028"
+   }
+  },
+  "2056800135670338043": {
+   "id": "2056800135670338043",
+   "url": "https://x.com/ajeya_cotra/status/2056800135670338043",
+   "text": "On Jan 12, I joined METR to lead writing for our first Frontier Risk Report. The last 18 weeks have been a series of wild sprints to pitch labs, negotiate contracts, analyze questionnaires, negotiate redactions, and write this thing! I'll be on TBPN at 12:30 to discuss it!",
+   "created_at": "Tue May 19 18:12:20 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 286,
+   "retweets": 19,
+   "media": [],
+   "quoted": {
+    "author": "METR_Evals",
+    "text": "Could an AI company lose control of its own agents? To find out, Anthropic, Google, Meta, and OpenAI let us (1) test their best internal models with CoT access, (2) review non-public info about capabilities, alignment, and control.\n\nThe result: our first Frontier Risk Report. https://t.co/sUpiHgCrTM"
+   }
+  },
+  "2050246412806594580": {
+   "id": "2050246412806594580",
+   "url": "https://x.com/ajeya_cotra/status/2050246412806594580",
+   "text": "The pace of change in AI is so comical it makes most Science (™) methods hopelessly slow (think about “normal” publication cycles lol). But also the bar is on the floor for improving our collective understanding of capabilities + risks https://t.co/Z4vajpyUeK",
+   "created_at": "Fri May 01 16:10:11 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 95,
+   "retweets": 14,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HHPwP0qaUAAlh2g.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HHPwP0pbUAATrxD.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "ajeya_cotra",
+    "text": "It's often good that we have conservative epistemic norms in science. This makes it more challenging to address AI risk before it's too late, but not doomed imo: https://t.co/lbuiay9o3M"
+   }
+  },
+  "2050216438187876757": {
+   "id": "2050216438187876757",
+   "url": "https://x.com/ajeya_cotra/status/2050216438187876757",
+   "text": "It's often good that we have conservative epistemic norms in science. This makes it more challenging to address AI risk before it's too late, but not doomed imo: https://t.co/lbuiay9o3M",
+   "created_at": "Fri May 01 14:11:04 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 50,
+   "retweets": 4,
+   "media": [],
+   "quoted": null
+  },
+  "2040138012928229561": {
+   "id": "2040138012928229561",
+   "url": "https://x.com/ajeya_cotra/status/2040138012928229561",
+   "text": "Basic and extremely important point: it would cost $1000s to pay a human to do a 10h task. But with the default way we measure AI performance, we spend like $10 running the AI agent. The AI gets much less time than the human. This can massively underestimate capabilities!",
+   "created_at": "Fri Apr 03 18:43:00 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 173,
+   "retweets": 9,
+   "media": [],
+   "quoted": {
+    "author": "joel_bkr",
+    "text": "new blog post from me and nate rush: \n\n\"Many Benchmarks Scores Would Appear Much Higher If You Let The AIs Use Adequate Labor\"\n\nif humans given 10 minutes to do a 1-hour task with a hand tied behind their back scored 50%, you wouldn't say \"humans score 50%.\"\n\nwe argue that something analogous is happening for reported AI performance on many benchmarks.\n\nto better understand the limits of AI performance, we need benchmark authors/runners (who are trying their best, operating under tough constraints!) to get dramatically more tokens.\n\npost linked below."
+   }
+  },
+  "2040075536970735705": {
+   "id": "2040075536970735705",
+   "url": "https://x.com/ajeya_cotra/status/2040075536970735705",
+   "text": "New post on milestones of AI automation. Right now, human labor is a hard bottleneck on output (if you remove humans, output goes to 0). Soon we'll go from essential to important to helpful to useless, first in AI research and then across the AI stack. Link in next post. https://t.co/uT1JttkcDN",
+   "created_at": "Fri Apr 03 14:34:45 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 262,
+   "retweets": 24,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HE_N48qawAA0zQj.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2029965408367956160": {
+   "id": "2029965408367956160",
+   "url": "https://x.com/ajeya_cotra/status/2029965408367956160",
+   "text": "Still waiting for this myself",
+   "created_at": "Fri Mar 06 17:00:42 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 47,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  },
+  "2029959535562215798": {
+   "id": "2029959535562215798",
+   "url": "https://x.com/ajeya_cotra/status/2029959535562215798",
+   "text": "Would love this! I tried to fund a power user survey in 2024 but the project lead ended up taking another role, still think it’d be great. One challenge is the power users I care about most rn are AI company staff and it may be hard to get detailed info from them",
+   "created_at": "Fri Mar 06 16:37:22 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 132,
+   "retweets": 5,
+   "media": [],
+   "quoted": {
+    "author": "NateSilver538",
+    "text": "Honestly a Consumer Reports style panel of power users might be better than METR etc. for measuring AI progress, much more robust to spikiness.\n\nNot meant to sound skeptical, as a power user I think there's been extremely noticeable progress over the past few months fwiw."
+   }
+  },
+  "2029714572119265418": {
+   "id": "2029714572119265418",
+   "url": "https://x.com/ajeya_cotra/status/2029714572119265418",
+   "text": "Yes tbc, my P(AI R&amp;D automation this year) is still well under 50%. It felt more important to convey that the rule-out evidence qualitatively felt much less \"solid\" than before, but I can see how that implied something more like ~50%+, sorry to be misleading.",
+   "created_at": "Fri Mar 06 00:23:58 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 70,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "StefanFSchubert",
+    "text": "Not solid evidence = 90% likely we won’t https://t.co/Ihfjw87eTK"
+   }
+  },
+  "2029576934523556256": {
+   "id": "2029576934523556256",
+   "url": "https://x.com/ajeya_cotra/status/2029576934523556256",
+   "text": "New post: on Jan 14, I predicted that SWE time horizon by EOY would be ~24 hours. Now I think it'll be &gt;100 hours, and maybe unbounded. For the first time, I don't see solid evidence against AI R&amp;D automation *this year.* Link below. https://t.co/NcP1HlZana",
+   "created_at": "Thu Mar 05 15:17:03 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1235,
+   "retweets": 147,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HCqBd36bQAA07Og.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2028490648647614913": {
+   "id": "2028490648647614913",
+   "url": "https://x.com/ajeya_cotra/status/2028490648647614913",
+   "text": "@bshlgrs and I are starting a very experimental, very-part-time wedding business! He does music and I officiate. Maybe you're interested in hiring us? Link in the next post. https://t.co/yxqyVFdMqG",
+   "created_at": "Mon Mar 02 15:20:32 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 183,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HCalUiNWYAAD4lZ.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2025289917442687179": {
+   "id": "2025289917442687179",
+   "url": "https://x.com/ajeya_cotra/status/2025289917442687179",
+   "text": "Come work with me! METR is looking for engineers, scientists, and a director of operations. Links to open posts in thread, and feel free to DM if you have questions!",
+   "created_at": "Sat Feb 21 19:21:59 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 241,
+   "retweets": 23,
+   "media": [],
+   "quoted": {
+    "author": "ChrisPainterYup",
+    "text": "Our team is stretched thin at the moment! \n\nTo continue upper-bounding the autonomy of AI agents, and developing evaluations for monitoring AI systems and their propensity to subvert human control, we need more great engineering and research staff. Please apply below or DM me!"
+   }
+  },
+  "2024924484688621769": {
+   "id": "2024924484688621769",
+   "url": "https://x.com/ajeya_cotra/status/2024924484688621769",
+   "text": "This new result makes my forecast from last month much too conservative (my median was ~24 hour 50% time horizons by EOY). It makes ~3-4 month doubling times and superexponential progress both seem more likely to me. https://t.co/KyIUTBIgeG",
+   "created_at": "Fri Feb 20 19:09:53 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 358,
+   "retweets": 30,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HBn6AE5bgAE3lsU.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "METR_Evals",
+    "text": "We estimate that Claude Opus 4.6 has a 50%-time-horizon of around 14.5 hours (95% CI of 6 hrs to 98 hrs) on software tasks. While this is the highest point estimate we’ve reported, this measurement is extremely noisy because our current task suite is nearly saturated. https://t.co/EuRBIrEcVx"
+   }
+  },
+  "2023777724247220303": {
+   "id": "2023777724247220303",
+   "url": "https://x.com/ajeya_cotra/status/2023777724247220303",
+   "text": "Silly new personal post about that time we were charged $900 for a crappy foam pillow: https://t.co/PJMggmKFze",
+   "created_at": "Tue Feb 17 15:13:04 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 37,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2022419978495127828": {
+   "id": "2022419978495127828",
+   "url": "https://x.com/ajeya_cotra/status/2022419978495127828",
+   "text": "When I joined METR I was really skeptical that we were evaling models using simple OS scaffolds rather than Claude Code / Codex / etc. I really appreciate Nikola looking into this and I'm surprised it still doesn't seem to make much difference for CC on Opus 4.5",
+   "created_at": "Fri Feb 13 21:17:52 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 155,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "nikolaj2030",
+    "text": "I looked into how Claude Code and Codex compare to the default scaffolds METR uses for time horizon measurements. It looks like they don't significantly outperform our default scaffolds on any models we've tried them on so far. https://t.co/2ZsYnn81ZL"
+   }
+  },
+  "2022040778374365222": {
+   "id": "2022040778374365222",
+   "url": "https://x.com/ajeya_cotra/status/2022040778374365222",
+   "text": "My y-axis actually downplays the disagreement: people who think AGI can't compress a century of progress into a few years *also* tend to think a century of progress won't reach sci-fi tech. A y-axis like energy production would show different ceilings, not just different slopes.",
+   "created_at": "Thu Feb 12 20:11:03 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 24,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "ajeya_cotra",
+    "text": "New post: everyone seems to have short timelines to \"AGI\" now, but we still have massive disagreements about x-risk. In some sense, I think the crux is still timelines: how quickly can AI have a radical, earth-shatteringly big impact on the real world? Link in thread. https://t.co/ZpbMpbI0DK"
+   }
+  },
+  "2021966037005348999": {
+   "id": "2021966037005348999",
+   "url": "https://x.com/ajeya_cotra/status/2021966037005348999",
+   "text": "New post: everyone seems to have short timelines to \"AGI\" now, but we still have massive disagreements about x-risk. In some sense, I think the crux is still timelines: how quickly can AI have a radical, earth-shatteringly big impact on the real world? Link in thread. https://t.co/ZpbMpbI0DK",
+   "created_at": "Thu Feb 12 15:14:04 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 284,
+   "retweets": 33,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HA93ZVcbsAIpgY9.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2019915630355574890": {
+   "id": "2019915630355574890",
+   "url": "https://x.com/ajeya_cotra/status/2019915630355574890",
+   "text": "True but I always felt \"slow\" takeoff should have been called \"continuous\" takeoff or something. \"Slow\" takeoff means a handful of years from significant AI R&amp;D acceleration to the emergence entities we'd view as nothing less than gods!",
+   "created_at": "Fri Feb 06 23:26:29 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 84,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "theojaffee",
+    "text": "Btw what we're going through is a slow takeoff, not a fast takeoff"
+   }
+  },
+  "2019856490405015901": {
+   "id": "2019856490405015901",
+   "url": "https://x.com/ajeya_cotra/status/2019856490405015901",
+   "text": "Update: looks like Carlini spent ~50-ish hours of work specific to this project. Someone told me writing a compiler like this is &gt;= 2 person-years without an LLM (!), so if he spent ~50 person-hours that's an uplift of 2 * 2000 / 50 = 80x or more on this project.",
+   "created_at": "Fri Feb 06 19:31:29 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 143,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "d_m_ziegler",
+    "text": "@ajeya_cotra So that's ~50 hours of work specific to this project; it's hard to say how long it would take unassisted but I'd guess months at least."
+   }
+  },
+  "2019571625591763179": {
+   "id": "2019571625591763179",
+   "url": "https://x.com/ajeya_cotra/status/2019571625591763179",
+   "text": "Great writeup by Carlini. I’m confused how to interpret though - seems like he wrote a pretty elaborate testing harness, and checked in a few times to improve the test suite in the middle of the project. How much work was that, and how specialized to the compiler project?",
+   "created_at": "Fri Feb 06 00:39:32 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 65,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "AnthropicAI",
+    "text": "New Engineering blog: We tasked Opus 4.6 using agent teams to build a C compiler. Then we (mostly) walked away. Two weeks later, it worked on the Linux kernel. \n\nHere's what it taught us about the future of autonomous software development. \n\nRead more: https://t.co/htX0wl4wIf https://t.co/N2e9t5Z6Rm"
+   }
+  },
+  "2019216340998115710": {
+   "id": "2019216340998115710",
+   "url": "https://x.com/ajeya_cotra/status/2019216340998115710",
+   "text": "Impressed with how coherent this video was",
+   "created_at": "Thu Feb 05 01:07:45 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 25,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "AndyMasley",
+    "text": "Logged onto Sora for the first time in a while to find that it had auto-generated a special holiday video for me based on my ChatGPT history https://t.co/tGGMWP1W3K"
+   }
+  },
+  "2018463048806355307": {
+   "id": "2018463048806355307",
+   "url": "https://x.com/ajeya_cotra/status/2018463048806355307",
+   "text": "Yeah, this was confusing:\n1. I wasn't sure what timeframe they were talking about, and when I asked them to clarify they suggested ~1y\n2. I have a very high bar for \"transformative,\" and I didn't think these areas would hit that bar in a year.",
+   "created_at": "Mon Feb 02 23:14:26 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 106,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "alasdairpr",
+    "text": "@David_Kasten I found it confusing that Ajeya thought AI research will be largely automated in five yrs but was among the most skeptical of large impacts\n\nI guess I need to update my model of her beliefs https://t.co/XKnJTU3gdF"
+   }
+  },
+  "2017010195621466401": {
+   "id": "2017010195621466401",
+   "url": "https://x.com/ajeya_cotra/status/2017010195621466401",
+   "text": "Excited this is finally out! 🎉 Congrats to the team",
+   "created_at": "Thu Jan 29 23:01:19 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 58,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "METR_Evals",
+    "text": "We’re updating the way we measure model time horizons on software tasks (TH 1.0→1.1). The updated methodology incorporates more of the tasks from HCAST, expanding our total from 170 to 228. This produces tighter estimates, especially at longer horizons. https://t.co/dIJlPEjZpb"
+   }
+  },
+  "2016971830876393672": {
+   "id": "2016971830876393672",
+   "url": "https://x.com/ajeya_cotra/status/2016971830876393672",
+   "text": "New post on the EA(-adjacent) psyche. I think it's two distinct but symbiotic traits:\n\n(1) Betting harder on first-principles reasoning (ex: Econ 101) than average.\n(2) Caring more about beings distant in time, space, species than average.\n\nLink in next post. https://t.co/9P2Cn0X5PR",
+   "created_at": "Thu Jan 29 20:28:52 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 135,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G_25MPKagAAUFi4.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2014379115298910426": {
+   "id": "2014379115298910426",
+   "url": "https://x.com/ajeya_cotra/status/2014379115298910426",
+   "text": "Definitely true for me so far, I ask Claude / ChatGPT to do big lit reviews on topics I'm mildly curious about that then become footnotes to blog posts or docs",
+   "created_at": "Thu Jan 22 16:46:21 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 47,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "testingham",
+    "text": "Cadillac tasks: I believe many estimates of LLM productivity boosts are over-estimates because people are using them for cadillac tasks: things that would take you a long time unaided, but have only marginal additional value."
+   }
+  },
+  "2013809652157263950": {
+   "id": "2013809652157263950",
+   "url": "https://x.com/ajeya_cotra/status/2013809652157263950",
+   "text": "Interesting! I was actually doing some simulations with Claude and if preferences are distributed N(0,1) and people stay single rather than marry someone rated &lt;0, there is only one stable matching and the advantage disappears",
+   "created_at": "Wed Jan 21 03:03:30 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 16,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "rossry",
+    "text": "@ajeya_cotra @AvitalBalwit A lesser-known fact is that, in the most well-known real-world matching market -- the medical-residency match -- there is usually only one stable matching, so the asker-optimal vs -pessimal distinction collapses! https://t.co/mgrhIY74mj"
+   }
+  },
+  "2013648768860590570": {
+   "id": "2013648768860590570",
+   "url": "https://x.com/ajeya_cotra/status/2013648768860590570",
+   "text": "Aww twitter didn't display nano banana's chibi stable marriage problem diagram! Maybe I screwed up the cover image thing on S**ck https://t.co/4G8uPYAhTs",
+   "created_at": "Tue Jan 20 16:24:12 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 14,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G_Hq07tX0AIwvAs.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "ajeya_cotra",
+    "text": "I actually drafted this post all the way back in November, as part of a pact I had with @AvitalBalwit to write at least 30m / day every day of November (thanks Avital!)  https://t.co/aAulFWpsc8"
+   }
+  },
+  "2013628338137636897": {
+   "id": "2013628338137636897",
+   "url": "https://x.com/ajeya_cotra/status/2013628338137636897",
+   "text": "One of my 2026 resolutions was to publish at least one post a month that isn't related to work. My first post is about the Stable Marriage Problem, which had a surprisingly big impact on my real life. Link in the next post!",
+   "created_at": "Tue Jan 20 15:03:01 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 156,
+   "retweets": 8,
+   "media": [],
+   "quoted": null
+  },
+  "2013334800577503290": {
+   "id": "2013334800577503290",
+   "url": "https://x.com/ajeya_cotra/status/2013334800577503290",
+   "text": "I think this is an exciting and neglected opportunity to address an existential risk. Consider applying if you might be a fit! (no bio experience needed)",
+   "created_at": "Mon Jan 19 19:36:37 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 35,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "robertwiblin",
+    "text": "James Smith is hiring a a deputy director for MBDF which aims to \"understand and address risks from mirror life\".\n\n\"It's a genuine co-leadership role with real authority\"\n\n$180-210k, Remote. Full role: https://t.co/ird2sTv0K9\n\nWhy it matters so much: https://t.co/zUDuvKfIYk"
+   }
+  },
+  "2012341610386772302": {
+   "id": "2012341610386772302",
+   "url": "https://x.com/ajeya_cotra/status/2012341610386772302",
+   "text": "My formula for making it to #3: talk to Ryan about what he thought would happen and then randomly get some other stuff wrong",
+   "created_at": "Sat Jan 17 01:50:02 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 127,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "RyanGreenblatt",
+    "text": "My predictions for 2025 look decent (I was 2/413 on the survey).\n\nI generally overestimated benchmark progress and underestimated revenue growth.\n\nConsider filling out the 2026 forecasting survey (link in thread)! https://t.co/PwJASw679y"
+   }
+  },
+  "2012266801359433996": {
+   "id": "2012266801359433996",
+   "url": "https://x.com/ajeya_cotra/status/2012266801359433996",
+   "text": "Full results for the AI 2025 survey are in! Thanks to the Sage team for doing such a great job running it. https://t.co/QihBcWJD8y",
+   "created_at": "Fri Jan 16 20:52:46 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 121,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G-0A5xzaQAAUXXk.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "ajeya_cotra",
+    "text": "Finally filled out my forecasts. This was excellently designed! 🙌Loved having the context laid out since I'm too lazy to read the papers. TL;DR I think everything saturates except FrontierMath, which merely dectuples.😬 Talk about it at Minifest tomorrow! https://t.co/bICbhOyl1J"
+   }
+  },
+  "2011881516058755363": {
+   "id": "2011881516058755363",
+   "url": "https://x.com/ajeya_cotra/status/2011881516058755363",
+   "text": "Preregistering how I'll handle LLM wrapper startups claiming super-high benchmark scores: I'll ignore them unless at least three programmers I trust in my network vouch that the product's higher benchmark score reflects genuinely higher utility than standard company offerings.",
+   "created_at": "Thu Jan 15 19:21:47 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 37,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "rocketalignment",
+    "text": "@ajeya_cotra Ah yeah fair. I expect many more high benchmark scores thanks to scaffolding this year (we already saw Facebook saturate kernelbench with kernelevolve) so might be worth preregistering how to handle those kinds of results"
+   }
+  },
+  "2011553464963514671": {
+   "id": "2011553464963514671",
+   "url": "https://x.com/ajeya_cotra/status/2011553464963514671",
+   "text": "I actually think many tasks will in fact probably be constrained by intelligence",
+   "created_at": "Wed Jan 14 21:38:13 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 42,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "Surreal_Intel",
+    "text": "1/2 Ajeya’s 2026 forecast reads like a release note for civilisation: 24h engineering loops, $100B+ monthly run-rates, and ‘if we can get the tasks’. The constraint is no longer intelligence. It’s reality’s input bandwidth"
+   }
+  },
+  "2011457545643438418": {
+   "id": "2011457545643438418",
+   "url": "https://x.com/ajeya_cotra/status/2011457545643438418",
+   "text": "In 2025, I overestimated benchmark progress and underestimated revenue growth. By EOY 2026 my guess is 24h SWE time horizon (if we can get the tasks!) and $110 billion in annualized Dec revenue. More predictions in a new post below.ra https://t.co/ZLk6wb01fz",
+   "created_at": "Wed Jan 14 15:17:04 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 145,
+   "retweets": 7,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G-oh-oZbkAAlGLK.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2011146702175289563": {
+   "id": "2011146702175289563",
+   "url": "https://x.com/ajeya_cotra/status/2011146702175289563",
+   "text": "Excited to share that I'm joining @METR_Evals to help expand their loss-of-control risk assessment efforts!\n\nWe hope to more comprehensively review the state of evidence on *means,* *motive,* and *opportunity* for LOC incidents.",
+   "created_at": "Tue Jan 13 18:41:53 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 328,
+   "retweets": 14,
+   "media": [],
+   "quoted": {
+    "author": "ajeya_cotra",
+    "text": "I’m now exploring some opportunities on the other side of the net, at nonprofits working on understanding and reducing risks from powerful AI (more soon!). To my colleagues at Coefficient: thank you for helping make this work possible."
+   }
+  },
+  "2009302639197171829": {
+   "id": "2009302639197171829",
+   "url": "https://x.com/ajeya_cotra/status/2009302639197171829",
+   "text": "Most of the proposed regulatory and social bottlenecks to automating stuff with AI don’t apply to automating the AI supply chain",
+   "created_at": "Thu Jan 08 16:34:14 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 19,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "ajeya_cotra",
+    "text": "@binarybits @snewmanpv Agree you’d need to automate a large share of jobs, specifically in software, hardware, energy, mining, plumbing, and many other things. Though not nannies and therapists and family medicine doctors."
+   }
+  },
+  "2008717023568912398": {
+   "id": "2008717023568912398",
+   "url": "https://x.com/ajeya_cotra/status/2008717023568912398",
+   "text": "Say all but a random 1% of Anthropic MTS will disappear on Feb 1, and the company has a month to set up Claude Code instances to make as much progress as possible with the remaining humans. How much slower is future progress?",
+   "created_at": "Wed Jan 07 01:47:13 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 26,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  },
+  "2008556689029808532": {
+   "id": "2008556689029808532",
+   "url": "https://x.com/ajeya_cotra/status/2008556689029808532",
+   "text": "Different people seem to mean radically different things by \"AGI.\" More concrete &amp; vivid milestones can better highlight underlying disagreements. In a new post, I define *self-sufficient AI:* https://t.co/56d9OHkNgr",
+   "created_at": "Tue Jan 06 15:10:06 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 119,
+   "retweets": 11,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G9_TqjqbcAIAOqa.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2003602447852597705": {
+   "id": "2003602447852597705",
+   "url": "https://x.com/ajeya_cotra/status/2003602447852597705",
+   "text": "Huh interesting, this doesn't really jump out visually in the ECI plot: https://t.co/xkEN0fmXxY https://t.co/DCW5m5Gpkh",
+   "created_at": "Tue Dec 23 23:03:43 +0000 2025",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 86,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G845u3EaAAAYW1l.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "ben_j_todd",
+    "text": "It's not only the METR horizon trend that accelerated in 2024. A composite of all major benchmarks did: https://t.co/7wH34jaHJq"
+   }
+  },
+  "2001794034743021780": {
+   "id": "2001794034743021780",
+   "url": "https://x.com/ajeya_cotra/status/2001794034743021780",
+   "text": "A few years ago I thought that models would get a lot more adversarially robust as they scaled. I'm surprised how slowly adversarial robustness has been improving relative to average-case capability (though going from 10m to break to 5h to break makes a big real-world diff).",
+   "created_at": "Thu Dec 18 23:17:44 +0000 2025",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 54,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "alxndrdavies",
+    "text": "4) More capable models do not necessarily have better safeguards. Two years ago, many AI researchers I talked to thought jailbreaks would go away when models got smarter; this trend has been weak, with progress instead driven by investment in measures like auxiliary classifiers."
+   }
+  },
+  "2001788310298198302": {
+   "id": "2001788310298198302",
+   "url": "https://x.com/ajeya_cotra/status/2001788310298198302",
+   "text": "Interesting that Claude models apparently stop at the stated success thresholds while other models try to push scores further and end up reward hacking.\n\n(also interesting how big a practical problem reward hacking is for eval scoring!)",
+   "created_at": "Thu Dec 18 22:54:59 +0000 2025",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 71,
+   "retweets": 5,
+   "media": [],
+   "quoted": {
+    "author": "METR_Evals",
+    "text": "We’re working on updating and improving our time horizon task suite. Recently, we found two issues with our tasks, one of which was differentially lowering the performance of Claude models. We think these also illustrate some interesting model behavior."
+   }
+  },
+  "2001434331047432545": {
+   "id": "2001434331047432545",
+   "url": "https://x.com/ajeya_cotra/status/2001434331047432545",
+   "text": "Human *disempowerment* is not necessarily baked into the definition, but the definition of AGI / top-human-expert dominating AI (per @ryangreenblatt) / whatnot does bake in being able to do all the feats of e.g. Bezos, Einstein, etc.",
+   "created_at": "Wed Dec 17 23:28:24 +0000 2025",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 26,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "deanwball",
+    "text": "This is a good example of how many ai safety flavored “advanced ai” definitions assume the conclusion that “advanced ai” will cause mass human disempowerment. “Most wages not being paid to humans” is often a foundational part of the definition."
+   }
+  },
+  "1999566292899004789": {
+   "id": "1999566292899004789",
+   "url": "https://x.com/ajeya_cotra/status/1999566292899004789",
+   "text": "Very cool work by Owain’s group as usual! Makes me think pre-training with special good/bad tags (as proposed here: https://t.co/i9HwBmjNky) might be really tractable + valuable.",
+   "created_at": "Fri Dec 12 19:45:29 +0000 2025",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 53,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "OwainEvans_UK",
+    "text": "New paper:\nYou can train an LLM only on good behavior and implant a backdoor for turning it evil. How?\n1. The Terminator is bad in the original film but good in the sequels.\n2. Train an LLM to act well in the sequels. It'll be evil if told it's 1984.\nMore weird experiments 🧵 https://t.co/4CPvzIbYQk"
+   }
+  },
+  "1998052961981985011": {
+   "id": "1998052961981985011",
+   "url": "https://x.com/ajeya_cotra/status/1998052961981985011",
+   "text": "Friday was my last day at @coeff_giving. Over the past decade, I worked on everything from cage-free eggs to YIMBY to AI safety and policy. I'm grateful to have played a part in some of the most impactful philanthropy out there.",
+   "created_at": "Mon Dec 08 15:32:02 +0000 2025",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 315,
+   "retweets": 3,
+   "media": [],
+   "quoted": null
+  },
+  "1991268715816767912": {
+   "id": "1991268715816767912",
+   "url": "https://x.com/ajeya_cotra/status/1991268715816767912",
+   "text": "Exciting to see this @MaxNadeau_ grant bear fruit!",
+   "created_at": "Wed Nov 19 22:13:52 +0000 2025",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 33,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "ChengleiSi",
+    "text": "Automating AI research is exciting! But can LLMs actually produce novel, expert-level research ideas?\n\nAfter a year-long study, we obtained the first statistically significant conclusion: LLM-generated ideas are more novel than ideas written by expert human researchers."
+   }
+  },
+  "1987929770622087318": {
+   "id": "1987929770622087318",
+   "url": "https://x.com/ajeya_cotra/status/1987929770622087318",
+   "text": "This is by far the project I was most excited for from our \"studying LLM impacts\" RFP from late 23 / early 24! Congratulations to the whole team, looking forward to seeing later waves!",
+   "created_at": "Mon Nov 10 17:06:05 +0000 2025",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 83,
+   "retweets": 5,
+   "media": [],
+   "quoted": {
+    "author": "Research_FRI",
+    "text": "Today, we are launching the most rigorous ongoing source of expert forecasts on the future of AI: the Longitudinal Expert AI Panel (LEAP).\n\nWe’ve assembled a panel of 339 top experts across computer science, AI industry, economics, and AI policy.\n\nRoughly every month—for the next three years—they’ll provide precise, falsifiable forecasts on the trajectory of AI capabilities, adoption, and impact.\n\nOur results cover where experts predict major effects of AI, where they expect less progress than AI industry leaders, and where they disagree.\n\nLEAP experts forecast major effects of AI by 2030, including:\n\n⚡ 7x increase in AI’s share of U.S. electricity use (1% -> 7%)\n🖥️ 9x increase in AI-assisted work hours (2% -> 18%)\n\nBy 2040, experts predict:\n👥30% of adults will use AI for companionship daily\n🏆60% chance that AI will solve or substantially assist in solving a Millennium Prize Problem\n🚂32% chance that AI will have been at least as impactful as a \"technology of the millennium,\" like the printing press or the Industrial Revolution.\n\n🧵Read on for more insights and results"
+   }
+  }
+ }
+}

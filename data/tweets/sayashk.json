@@ -1,0 +1,1129 @@
+{
+ "handle": "sayashk",
+ "tweets": {
+  "2105472435390906634": {
+   "id": "2105472435390906634",
+   "url": "https://x.com/sayashk/status/2105472435390906634",
+   "text": "I have been using the new ultrafast mode for Astra 6 for the last couple of days. My main takeaways:\n\n1. Token speed qualitatively changed how I interact with agents. The output speed is 300 tokens/second, 8x the regular speed. Rather than breaking flow and switching tasks, the model moves (just) fast enough that I can keep working on the same task, especially for work that requires frequent inputs from me. I am excited about ultrafast on Sol-class models, which are twice as fast as Astra.\n\n2. Despite being 8x faster at generating tokens, the overall speedup is only 2-4x, since the time consumed for tool calling or running code remains the same. External factors (and not token generation speed) might soon become the main bottleneck for agentic work. (Notably @random_walker predicted both of these changes in: https://t.co/BXNtg9vzCt)\n\n3. One area where speed really helps is computer use. The previous generation of models wasn't reliable enough at computer use to be useful. Astra was reliable enough to be useful, but still slow. Astra with ultrafast resolves both concerns. Unlike tool calls for coding tasks, UIs react in milliseconds, so token speed is the main bottleneck.\n\n4. At 300 tokens/sec, I am already struggling to keep up with the agent. But there is a lot more room for improvement. Cerebras serves GPT-OSS-120B at 3,000 tokens/sec and Sol at 750 tokens/sec. So in a year's time, it is plausible we'll see another 10x increase in speed in models with Astra-level capabilities. At that point, human oversight will become the bottleneck for what people can use computer-use agents for.\n\n5. I can imagine blazing fast computer-use agents becoming extremely common for knowledge work. But I expect their use will be jagged (in the same way as LLM and agent adoption has been): given the oversight challenge, adoption will begin in verifiable tasks where the cost of errors is low (e.g., filling out a form using an agent before reviewing it yourself), and slowly diffuse to hard-to-verify tasks.\n\n6. Given the challenges with human oversight, the key to this diffusion will be developing automated oversight tools. OpenAI's approval/verifier agents have already been useful to me on this front: The verifier understood my intent better than the computer-use agent, and stopped it from filling out a form incorrectly. Still, I expect there is a lot of headroom in improving verifiers for computer use, to make it as reliable in practice as auto mode in Claude Code/Codex is for coding tasks.\n\n7. Ultrafast mode is undeniably resource intensive: I ran through my weekly limit in ~2 hours while filling out a bunch of forms and doing simple coding tasks. But given the pace of efficiency improvements (and the fact that Sol is 5x cheaper than Astra and already decent at computer use), I expect it to rapidly fall. Once fast, cheap models are common, users may choose \"sub-frontier\" models like Sol and make real tradeoffs between speed and quality.",
+   "created_at": "Thu Oct 01 01:38:41 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 164,
+   "retweets": 23,
+   "media": [],
+   "quoted": {
+    "author": "random_walker",
+    "text": "Prediction: we will soon enter an era where the latency of agentic work is bottlenecked not by LLM inference speed but by tool use. Shell commands, build pipelines, computer use, web data extraction, and everything else that happens in the background is way slower than it needs to be, because it hasn't been subjected to the same kind of optimization pressure as LLMs, and isn't really getting faster."
+   }
+  },
+  "2104599381341315435": {
+   "id": "2104599381341315435",
+   "url": "https://x.com/sayashk/status/2104599381341315435",
+   "text": "RT @random_walker: NeurIPS / Claude rejected our paper \"Life After Benchmark Saturation\" but we continue to think it is an important contri…",
+   "created_at": "Mon Sep 28 15:49:28 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 687,
+   "retweets": 38,
+   "media": [],
+   "quoted": null
+  },
+  "2104598897444413815": {
+   "id": "2104598897444413815",
+   "url": "https://x.com/sayashk/status/2104598897444413815",
+   "text": "RT @steverab: 📢 Just wrapped up some cool agent evaluation work for ICLR? Or are you simply interested in learning more about the evals lan…",
+   "created_at": "Mon Sep 28 15:47:33 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 45,
+   "retweets": 9,
+   "media": [],
+   "quoted": null
+  },
+  "2104232638290804968": {
+   "id": "2104232638290804968",
+   "url": "https://x.com/sayashk/status/2104232638290804968",
+   "text": "RT @joshua_saxe: I've been noticing a cluster of folks I identify with sharing some themes around how we do epistemics and ontology in AI s…",
+   "created_at": "Sun Sep 27 15:32:10 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 52,
+   "retweets": 11,
+   "media": [],
+   "quoted": null
+  },
+  "2103481595512627394": {
+   "id": "2103481595512627394",
+   "url": "https://x.com/sayashk/status/2103481595512627394",
+   "text": "RT @DKThomp: New pod: THE SINGLE SMARTEST CASE AGAINST THE AI SAFETY/X-RISK/DOOM ARGUMENT\n\nMy feed has become filled with people making the…",
+   "created_at": "Fri Sep 25 13:47:47 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 228,
+   "retweets": 42,
+   "media": [],
+   "quoted": null
+  },
+  "2102979655825576048": {
+   "id": "2102979655825576048",
+   "url": "https://x.com/sayashk/status/2102979655825576048",
+   "text": "RT @joshua_saxe: *Security is sleeping on emerging catastrophic risks*\n(cross-post from my blog..)\n\nWe've just seen:\n* a campaign that used…",
+   "created_at": "Thu Sep 24 04:33:16 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 216,
+   "retweets": 47,
+   "media": [],
+   "quoted": null
+  },
+  "2101026107747353046": {
+   "id": "2101026107747353046",
+   "url": "https://x.com/sayashk/status/2101026107747353046",
+   "text": "OpenAI has talked a big game about AI for cyberdefense. But when @HacktronAI broke into their internal repository and reported it, they received a bug bounty of just $6,500 because one of the vectors for the attack was \"out of scope\". \n\nThis is atrocious. \n\nIf we actually want a flood of defenders auditing these systems, companies need to take bounties more seriously. Signing letters isn't enough.",
+   "created_at": "Fri Sep 18 19:10:33 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 162,
+   "retweets": 19,
+   "media": [],
+   "quoted": {
+    "author": "S1r1u5_",
+    "text": "On July 25, we hacked OpenAI.\n\nTwo bugs let us take over ChatGPT/Codex accounts of OpenAI employees (+some unaffiliated users) and reach connected services: Outlook, Slack, GitHub, etc.\n\nWe proved it with a PR in OpenAI’s internal codebase . It took us &lt;72h. 🧵 https://t.co/gVsmQZwSc8"
+   }
+  },
+  "2099632561396056214": {
+   "id": "2099632561396056214",
+   "url": "https://x.com/sayashk/status/2099632561396056214",
+   "text": "What does it mean to pace the frontier? \n\nOver the last month, @random_walker and I have analyzed the loss-of-control incidents at AI companies to understand what technical and policy interventions can improve safety and what companies should do to pace the frontier. The result is a new 13,000 word essay — our most substantial writing on AI safety since AI as Normal Technology.\n\nA summary of our arguments:\n\n1) The polarization between the cybersecurity and AI safety communities is counterproductive. The safety community largely sees these incidents as a crisis for alignment, and worries that these incidents will become more damaging as agents become more capable. Cybersecurity practitioners largely see companies failing to take basic security precautions. We offer a middle ground between these communities as a way forward for improving AI safety.\n\n2) We agree with security practitioners that OpenAI did not take adequate protections for controlling their agents. But this is not just a matter of applying 30-year-old security methods to a new domain. Security for AI agents — AI control — while important, is not a solved problem. While known control methods would have prevented the Hugging Face incident, as agent capabilities continue to advance, we will only be able to control them if we invest adequately in control interventions.\n\n3) We also agree with security practitioners’ implicit position that these incidents are primarily a security story. In the AI safety community, rogue agents are treated as inherently catastrophic because of the assumption that there is an endless list of risks that will arise from their development. We disagree. We have long advocated that the best approach to AI safety is to identify the risks and address those specific risks. Over the last few months, it has become clear that one urgent risk is cyberoffense, because it has unique properties that allow agents to carry it out autonomously. We should similarly invest in defenses against other specific risks, such as biorisk and risks from military AI.\n\n4) We agree with the safety community that there is an urgent need for technical and policy interventions to prevent loss-of-control incidents. But in our view, marginal investments in control are more likely to be effective compared to those in alignment. We view these incidents as illustrating the lack of emphasis on AI control within companies, despite the availability of known techniques. More broadly, there are many common-sense policy proposals that could help promote investments in AI control where we share common ground with the safety community.\n\n5) Organization governance should be a key tool for pacing the frontier. Unfortunately, AI companies are trying to reinvent basic aspects of organizational governance as a problem to be solved by improving the technology. But even developing better control techniques will not be enough if irresponsible individuals or teams within large organizations can choose not to use them. When a single misconfigured RL environment or unmonitored evaluation can cause real-world harm, individual teams should not be able to run potentially dangerous experiments without oversight from legal, security, and other teams. AI companies need processes for reviewing experiments, assigning responsibility for monitoring them, and investigating warning signs deeply before restarting experiments. If putting these processes in place requires pausing some experiments, companies should do so.\n\n6) How should we reason about AI's impact on cybersecurity? It's plausible that advances in agent capabilities upset the offense-defense balance for cybersecurity. We cannot yet be certain, but there is enough evidence that agent capabilities might soon make widespread cyberoffense possible that urgent action is warranted. We discuss potential interventions for tilting the offense-defense balance towards defenders.\n\n7) How our views have evolved over the last year. We take stock of AI progress and share how we have updated our views. In the essay, we did not pay sufficient attention to safety risks that arise during development and evaluation (as opposed to the widespread deployment of models). We were too confident that companies would take basic control precautions and underplayed the importance of jaggedness, which led us to underestimate how quickly capabilities could improve in domains such as cybersecurity. \n\n8) At the same time, many distinctive claims of AI as Normal Technology have held up. In particular, we think recent incidents support our continuity hypothesis — the behavior of \"rogue\" agents became apparent and widely publicized while they are still incompetent at causing serious harm or hiding their traces. The societal reaction to even the relatively small harms from these incidents has been fierce (and the safety community deserves credit for keeping up pressure on companies). Whether this translates into meaningful changes in companies’ behavior remains an open question, and a test of the usefulness of the AINT framework. \n\n9) In short, we’ve tried to synthesize  the AI safety and cybersecurity communities' views into a coherent plan of action: hold companies responsible, invest in control, and strengthen defenses against specific risks.",
+   "created_at": "Mon Sep 14 22:53:06 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 356,
+   "retweets": 106,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSNkk1ma0AEeDj0.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2093059425305293257": {
+   "id": "2093059425305293257",
+   "url": "https://x.com/sayashk/status/2093059425305293257",
+   "text": "I’ll be joining the @MTSlive stream in an hour or so to talk about our work on evaluating open-ended AI research (https://t.co/BCnIMkxbok) and to share some thoughts on the OpenAI HuggingFace incident.",
+   "created_at": "Thu Aug 27 19:33:48 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 35,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "MTSlive",
+    "text": "METR REPORT | NVIDIA RIPS | ROBOT ATHLETICS https://t.co/yebsV9CZdz"
+   }
+  },
+  "2082952840591331698": {
+   "id": "2082952840591331698",
+   "url": "https://x.com/sayashk/status/2082952840591331698",
+   "text": "One of the best parts of working on CRUX has been the diversity of priors/opinions in the coauthor group. I'm glad we had Seth's feedback (and pushback) on our results and interpretations. The paper is stronger as a result.\n\nOn that note, we are open to adversarial collaboration: if you think we are undereliciting performance and you could improve upon the scaffold, we're happy to get feedback, test new scaffolds, and figure out ways to collaborate.",
+   "created_at": "Thu Jul 30 22:13:51 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 34,
+   "retweets": 5,
+   "media": [],
+   "quoted": {
+    "author": "sethlazar",
+    "text": "I am really enjoying these *CRUXes*. I was definitely more bullish on agents' prospects for writing a neurips-worthy paper than most, but that was largely because of, ahem, a certain scepticism about that as a bar. Still, this was definitely an update for me, as of now—but like Sayash's earlier benchmark, CoRE, I think this one will fall pretty soon. \n\nMy more general as to how is that we need to expand this out to way more kinds of papers—after all, some papers require a tonne of insight and creativity; but some pretty useful papers are really about just moving the needle forward a little bit. I'd like to see if there's somewhere in that distribution that the models can reach, and where they tap out. It would also make for a pretty sick burn for papers that are so unimaginative that they could have been written by one of today's frontier AI models..."
+   }
+  },
+  "2082905326542635028": {
+   "id": "2082905326542635028",
+   "url": "https://x.com/sayashk/status/2082905326542635028",
+   "text": "ICYMI: We plan to continue these evals and are looking to collaborate with AI researchers who have unpublished, open-ended research. If you would like to test frontier agents on your research questions, we'd love to hear from you: https://t.co/6pBgCyGmdI",
+   "created_at": "Thu Jul 30 19:05:03 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 46,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "sayashk",
+    "text": "Can AI agents conduct open-ended AI research?\n\nMost evaluations of agents conducting AI research focus on narrow, verifiable tasks. But AI research is often open ended. Researchers pick hypotheses, decide what evidence is appropriate, and recognize a failing approach. \n\nWe gave agents research questions from two unpublished papers, six days, and thousands of dollars of API credits and compute. The authors of the original papers then reviewed the AI-generated papers. They unambiguously rejected agents' outputs. https://t.co/6HTHywjwzZ\n\nWe call these \"shadow evaluations\", since the agents are shadowing the original research effort by the authors. \n\nAgents were fluent at most *engineering* tasks \n\nThey conducted serious literature reviews, debugged GPU environments, ran hundreds of experiments, and turned in camera-ready LaTeX without human help. We also found no evidence of reward hacking. If anything, we found the opposite: the agents started with marketable claims and walked them back to negative results as the evidence came in.\n\nNeither agent output was close to the bar of a top conference paper \n\nBoth papers suffered from similar failures: poor judgment about the bar for an AI paper submitted to a top conference, the lack of creative problem solving and ineffective backtracking, poor awareness of resources, and instruction drift.\n\n1) Lack of judgment about the bar for a top conference. The agents had a poor model of the bar for an AI paper submitted to a top conference. We allowed agents to self review their papers. Despite the poor paper quality, their reviews predominantly labeled the papers \"weak rejects\".\n\n2) Lack of creative problem-solving to address feedback. When they received negative reviews, the agents typically narrowed their hypothesis and claims, rather than working out creative ways to address these concerns.\n\n3) Ineffective backtracking. The agents dropped their most ambitious hypotheses within the first fifteen hours of carrying out the experiment and never changed course afterwards.\n\n4) Poor resource awareness. Both runs ended with over half the API budget unspent. One agent declared itself done seven hours before the deadline, right after its own self-reviewer returned another reject.\n\n5) Instruction drift. They did not follow explicit instructions on minimum exploration time, incorporating feedback for reviews, and on paper length (the outputs exceeded the page limits in both cases).\n\nThis research design has many limitations \n\nLimitations include the small sample size, non-blind reviews, and the reviewers knowing that the work was AI-generated. We also couldn't test Anthropic's strongest model, because Fable 5 is deliberately limited on frontier AI research tasks, so ended up using OpenClaw with Opus 4.8 (extra-high) for our main experiments and Codex with Sol 5.6 (ultra) for a robustness check. \n\nBut we think the research design is still helpful in assessing AI agents' ability to conduct research, and it is complementary to evaluations on verifiable tasks, as well as blinded reviews of AI outputs.\n\nOur results show early evidence that even though agents are proficient on verifiable research tasks, they do not make genuine progress on open-ended ones. It is worth understanding if this is a fundamental limit, or if better models, scaffolds, and more compute could help close it. \n\nAs the evidence for the gap between open-ended and verifiable tasks firms up, it is also worth understanding how much progress in AI depends on open-ended research rather than hill-climbing on well-specified objectives.\n\nIn follow-up studies, we are expanding the set of non-public papers we evaluate. If you are an AI researcher with unpublished papers, we would love to collaborate with you on our next shadow evaluation. Expression of interest: https://t.co/7YcYAIbYka\n\nConducting shadow evaluations involves a lot of researcher degrees of freedom. In many places, our coauthors disagreed with our interpretation of the findings, and we have surfaced those disagreements in the paper. (This is one reason why having a group of coauthors with different priors is important for open-ended research.) \n\nWe also release the agent logs, one of the AI-generated papers (the other original paper is still not public), and all the code and data, so that others can conduct their own analyses of our results: https://t.co/K0zvuD1Xpk\n\nFinally, we plan to conduct shadow evaluations regularly, and are hiring a senior researcher to help lead these efforts. Apply here: https://t.co/TPyOFyNxJE\n\nI'm grateful for the core team leading this effort: @PKirgis, Andrew Schwartz, @steverab, and @random_walker, and to our collaborators who reviewed AI papers, analyzed agents logs, and gave feedback on the paper: @DavidDAfrica, @KozzyVoudouris, Viet Nguyen, Toby Pilditch, @DubMagda, @HarryCoppock, @CUdudec, @nityndg, Matilda Orona, @tilmanbayer, Derrick Chan-Sew, Yue Ling, Abhishek Shetty, @hlntnr, @ghadfield, @sethlazar, @snewmanpv, @shostekofsky, @RishiBommasani"
+   }
+  },
+  "2082877458924065269": {
+   "id": "2082877458924065269",
+   "url": "https://x.com/sayashk/status/2082877458924065269",
+   "text": "Can AI agents conduct open-ended AI research?\n\nMost evaluations of agents conducting AI research focus on narrow, verifiable tasks. But AI research is often open ended. Researchers pick hypotheses, decide what evidence is appropriate, and recognize a failing approach. \n\nWe gave agents research questions from two unpublished papers, six days, and thousands of dollars of API credits and compute. The authors of the original papers then reviewed the AI-generated papers. They unambiguously rejected agents' outputs. https://t.co/6HTHywjwzZ\n\nWe call these \"shadow evaluations\", since the agents are shadowing the original research effort by the authors. \n\nAgents were fluent at most *engineering* tasks \n\nThey conducted serious literature reviews, debugged GPU environments, ran hundreds of experiments, and turned in camera-ready LaTeX without human help. We also found no evidence of reward hacking. If anything, we found the opposite: the agents started with marketable claims and walked them back to negative results as the evidence came in.\n\nNeither agent output was close to the bar of a top conference paper \n\nBoth papers suffered from similar failures: poor judgment about the bar for an AI paper submitted to a top conference, the lack of creative problem solving and ineffective backtracking, poor awareness of resources, and instruction drift.\n\n1) Lack of judgment about the bar for a top conference. The agents had a poor model of the bar for an AI paper submitted to a top conference. We allowed agents to self review their papers. Despite the poor paper quality, their reviews predominantly labeled the papers \"weak rejects\".\n\n2) Lack of creative problem-solving to address feedback. When they received negative reviews, the agents typically narrowed their hypothesis and claims, rather than working out creative ways to address these concerns.\n\n3) Ineffective backtracking. The agents dropped their most ambitious hypotheses within the first fifteen hours of carrying out the experiment and never changed course afterwards.\n\n4) Poor resource awareness. Both runs ended with over half the API budget unspent. One agent declared itself done seven hours before the deadline, right after its own self-reviewer returned another reject.\n\n5) Instruction drift. They did not follow explicit instructions on minimum exploration time, incorporating feedback for reviews, and on paper length (the outputs exceeded the page limits in both cases).\n\nThis research design has many limitations \n\nLimitations include the small sample size, non-blind reviews, and the reviewers knowing that the work was AI-generated. We also couldn't test Anthropic's strongest model, because Fable 5 is deliberately limited on frontier AI research tasks, so ended up using OpenClaw with Opus 4.8 (extra-high) for our main experiments and Codex with Sol 5.6 (ultra) for a robustness check. \n\nBut we think the research design is still helpful in assessing AI agents' ability to conduct research, and it is complementary to evaluations on verifiable tasks, as well as blinded reviews of AI outputs.\n\nOur results show early evidence that even though agents are proficient on verifiable research tasks, they do not make genuine progress on open-ended ones. It is worth understanding if this is a fundamental limit, or if better models, scaffolds, and more compute could help close it. \n\nAs the evidence for the gap between open-ended and verifiable tasks firms up, it is also worth understanding how much progress in AI depends on open-ended research rather than hill-climbing on well-specified objectives.\n\nIn follow-up studies, we are expanding the set of non-public papers we evaluate. If you are an AI researcher with unpublished papers, we would love to collaborate with you on our next shadow evaluation. Expression of interest: https://t.co/7YcYAIbYka\n\nConducting shadow evaluations involves a lot of researcher degrees of freedom. In many places, our coauthors disagreed with our interpretation of the findings, and we have surfaced those disagreements in the paper. (This is one reason why having a group of coauthors with different priors is important for open-ended research.) \n\nWe also release the agent logs, one of the AI-generated papers (the other original paper is still not public), and all the code and data, so that others can conduct their own analyses of our results: https://t.co/K0zvuD1Xpk\n\nFinally, we plan to conduct shadow evaluations regularly, and are hiring a senior researcher to help lead these efforts. Apply here: https://t.co/TPyOFyNxJE\n\nI'm grateful for the core team leading this effort: @PKirgis, Andrew Schwartz, @steverab, and @random_walker, and to our collaborators who reviewed AI papers, analyzed agents logs, and gave feedback on the paper: @DavidDAfrica, @KozzyVoudouris, Viet Nguyen, Toby Pilditch, @DubMagda, @HarryCoppock, @CUdudec, @nityndg, Matilda Orona, @tilmanbayer, Derrick Chan-Sew, Yue Ling, Abhishek Shetty, @hlntnr, @ghadfield, @sethlazar, @snewmanpv, @shostekofsky, @RishiBommasani",
+   "created_at": "Thu Jul 30 17:14:18 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 707,
+   "retweets": 145,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOfVJPvW4AA5dgV.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2081851954074931292": {
+   "id": "2081851954074931292",
+   "url": "https://x.com/sayashk/status/2081851954074931292",
+   "text": "How can academics impact AI policy? I had the pleasure of talking to @r_zwetsloot about my PhD experience in AI policy. While the interview is about policy impact, most of the points apply to AI research broadly. https://t.co/o4uWDfkZOY",
+   "created_at": "Mon Jul 27 21:19:19 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 110,
+   "retweets": 16,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOQ5KMTXQAAMk1J.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2077875398486987244": {
+   "id": "2077875398486987244",
+   "url": "https://x.com/sayashk/status/2077875398486987244",
+   "text": "The open release of Kimi K3 once again shows that our interventions for resilience should be focused on a world where advanced AI is *abundant* rather than scarce.",
+   "created_at": "Thu Jul 16 21:57:54 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 78,
+   "retweets": 5,
+   "media": [],
+   "quoted": {
+    "author": "sayashk",
+    "text": "Many people have written about advanced AI being too restricted, but my fear is we haven’t planned enough for a world where advanced AI will continue to proliferate. \n\nThis is despite the availability of models like GLM-5.2, despite the \"Deepseek moment\", and despite consistent evidence that open models lag closed models by a matter of months.\n\nWhat happens in a world where, even with restrictions on US frontier models and compute, advanced AI continues to be broadly available? \n\nNon-proliferation is likely to fail; at best, it provides a few months of buffer\n\nA common response is to dispute the premise by claiming that the narrow open vs. closed gap is only a result of distillation by Chinese model developers, and if the US ecosystem shut itself off, Chinese competitors won't be able to keep up. \n\nMaybe. But the evidence we have so far points the other way: \n\n1) Existing defenses against distillation don't work. OpenAI, Anthropic, and Google already censor their models' reasoning chains to prevent distillation, and Anthropic has prevented Chinese customers from accessing their models. This hasn't led to an increasing gap between closed and open models.\n\n2) Chinese companies have made genuine improvements to their model training stack that are discounted too heavily by US observers. Notably, preventing distillation might systematically push Chinese AI labs to innovate, rather than follow the lead of US labs. \n\n3) AI has also seen the equivalent of the \"four-minute mile\": once a developer shows what's possible, others can prioritize and quickly improve their models on those capabilities, even when they previously weren't able to. We've seen this with reasoning models (Deepseek R1), coding agents (GLM-5.2), and will likely continue to see it with future advances.\n\n4) There are many improvements that don't require large training runs. Updating scaffolds, finetuning models, using more inference compute can all narrow the gap between the capabilities elicited from US and Chinese models, even if the gap between the base models increases. \n\nIn other words, even if we ban open models, improving the agent scaffolds could lead to continued improvements in capabilities, such as by the creation of specialized scaffolds for cyberattacks (this is known as the \"scaffold overhang\"). So we are likely to continue seeing new misuse risks emerge for years.\n\n5) Most importantly, there is no secret sauce for training advanced AI models. The main training techniques for developing and serving frontier models are well understood. Labs' roadmaps can be gleaned based on the roles they (and their third-party providers) are hiring for. The data being collected through these efforts doesn't require new innovations either.\n\nIf non-proliferation can at most buy us a few months, we should use that time to improve resilience\n\nAI policy can't take for granted that US restrictions on models and compute will lead to a worldwide slowdown in the availability of advanced AI. What changes if we plan for a world with widespread access to advanced AI? \n\nFor one, we need to prioritize resilience. If licensing, export controls, and other restrictions can at most give the government a few months of lead time, that time is best spent giving defenders broad and deep access to AI systems to improve our ability to withstand attacks.\n\nThis becomes especially important since many of the misuse risks that the US govt. is concerned about, such as cyberattacks, are a result of AI's *absolute* capabilities, rather than *relative* the gap between open and closed models.\n\nFor example, even if US model developers can maintain a lead compared to foreign developers, this doesn't help unless the lead is used to find and fix cybersecurity vulnerabilities in the meantime, as @joshua_saxe and others have argued. \n\nTo their credit, OpenAI and Anthropic have both emphasized the importance of improving resilience. There is also widespread consensus within AI policy that resilience is important. \n\nBut resilience is often still described as a way to improve society's ability to withstand the availability of *US* frontier models, controlled in its pace of diffusion by US companies and the government. \n\nThis is also reflected in Anthropic's recent letter to US Senators, where they argue that if only we address distillation attacks and enforce export controls better, advanced AI capabilities would not be available broadly.\n\nBecause of all the reasons mentioned above, I think this is unlikely. This makes investing in resilience that much more important."
+   }
+  },
+  "2077420320172941683": {
+   "id": "2077420320172941683",
+   "url": "https://x.com/sayashk/status/2077420320172941683",
+   "text": "I'm defending my PhD next Tuesday! The talk is titled \"The Missing Science of AI Evaluation\" and is based on my faculty job talk. I'll talk about my work on AI-based science, agent evaluation, and open model risks. The talk will be livestreamed and is open to all. https://t.co/BkX6ATLJel",
+   "created_at": "Wed Jul 15 15:49:35 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 365,
+   "retweets": 30,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HNR6h5RWMAAQayi.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2075698327300325798": {
+   "id": "2075698327300325798",
+   "url": "https://x.com/sayashk/status/2075698327300325798",
+   "text": "Can AI agents turn an architect's rough sketch into a floor plan? Not yet. But GPT-5.6 Sol comes surprisingly close. \n\n(Note: This eval was a collaboration with my mom @ViniKapoor7, who is a prolific but old-school architect. To this day, she drafts floor plans freehand instead of using software like AutoCAD, and junior architects convert them into computer-readable plans, stored as CAD files.)\n\nShe shared three of her recent hand drawings, and we asked frontier agents to convert them into CAD files, which she then graded.\n\nModels from one generation ago fail badly. GPT-5.5 Pro scored 1/5 or 2/5 on every drawing; her comment on many outputs was that the model \"read the drawing totally wrong.\" \n\nGPT-5.6 Sol (ultra) was uniformly the best model, with an average score of about 80%. It read her sketches correctly, recognized furniture, got room dimensions right, and even inferred things like where she had placed furniture (without specific instructions telling it her drawing conventions). \n\nHer verdict was that if a junior architect produced this in a work trial, she would hire them. Of course, this doesn't mean AI agents can replace junior architects, just like AI doing well at a bar exam doesn't mean lawyers will be obsolete. Junior architects quickly learn on the job, improve their skills over time, and can take accountability for their outputs. And GPT-5.6 Sol remains far from perfect: there were small errors in each of its outputs.\n\nThe worst failure AI mode was silently changing the floor plan, and Fable 5 regularly hallucinated and committed this error (though note that this is with a small sample size: we only evaluate it on 3 runs). The results also suggest that models (including Fable 5) continue to fail at some visual reasoning tasks. For example, they often misread dimensions, drew double walls, got staircases wrong, and struggled with offsets and projections from base lines. \n\nThis is surprising, since AI labs have been collecting data on architecture for months. For instance, Mercor has been hiring architects for data labeling, with CAD expertise as a key criterion, since at least September 2025. \n\nOn the other hand, GPT-5.6 Sol was impressive not only in its outputs, but also in its calibration. It annotated its output with the assumptions it made, and my mom noted that with clearer instructions or a few examples of similar drafting, it could likely solve even the tasks it currently failed at.\n\nI was surprised that there aren’t existing AI benchmarks for carrying out this task, even though there are many benchmarks for working with CAD files (such as 3D reconstruction, editing existing plans, answering questions about plans, and developing text-to-floor-plan pipelines).\n\nThis is probably because making hand-drawn floor plans is a disappearing skill. Most architects now start working directly with CAD files, and most architecture schools no longer teach hand drawing in as much detail. \n\nBut this also makes it a very interesting evaluation task. It is out of distribution for most AI models, and requires skills like reading messy handwriting, visual and spatial reasoning, working with CAD software, and judgment about ambiguous or incomplete parts of a sketch.\n\nI'll continue to run these small-scale evaluations with new model releases to see how the landscape evolves. If you're an architect who still uses hand drawings and would like to participate, please reach out.",
+   "created_at": "Fri Jul 10 21:47:00 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 80,
+   "retweets": 11,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HM5cK-kXQAAYxy8.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2075648979291815975": {
+   "id": "2075648979291815975",
+   "url": "https://x.com/sayashk/status/2075648979291815975",
+   "text": "We are hiring a senior researcher for our AI evaluation projects. You will lead open-ended evaluations of frontier AI on challenging tasks. We value demonstrated expertise in leading and executing on projects more than a PhD. We are reviewing applications on a rolling basis. 🧵 https://t.co/FMaMtAxThI",
+   "created_at": "Fri Jul 10 18:30:55 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 72,
+   "retweets": 15,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HM4vrjtXQAA6YkU.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2075618692994335043": {
+   "id": "2075618692994335043",
+   "url": "https://x.com/sayashk/status/2075618692994335043",
+   "text": "One of the best pieces of advice I got during my PhD was that there are no repeatable paths in academia. This might sound daunting because of the lack of certainty. But once you internalize it, it is actually incredibly freeing! \n\nYou don't need to participate in career games that don't interest you. You can choose to work on projects that are aligned with *your* values rather than your institution's. And because you're working on things you deeply believe in, there's much more likelihood that you'll do impactful things.\n\nLike so many other things I learned, this was advice by @random_walker. I would even extend it beyond academia: there are no repeatable paths when transformative technologies like AI are being deployed; even career paths otherwise considered \"safe\" will undergo massive structural changes. Might as well lean into it.",
+   "created_at": "Fri Jul 10 16:30:34 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 904,
+   "retweets": 83,
+   "media": [],
+   "quoted": {
+    "author": "NatPurser",
+    "text": "unsolicited advice to college students and recent grads, after lots of recent coffees w/ people entering the job market:\n\nthe most accomplished person you know may not have the most relevant career advice for you. they can offer immense wisdom ofc, but you should also seek out successful people in their late 20s / 30s who’ve been successful in the current job market.\n\nfor example, students often tell me that their parents or an older, tenured professor have encouraged them to pursue academia because they’re bookish, intellectually curious, etc. and that may be sincere advice! — but it’s coming from someone who hasn’t confronted the relevant job market in decades.\n\nyou can’t look at someone’s linkedin trajectory and assume trying to replicate it would pan out the same way now. \n\nok good luck and godspeed."
+   }
+  },
+  "2074958530226893010": {
+   "id": "2074958530226893010",
+   "url": "https://x.com/sayashk/status/2074958530226893010",
+   "text": "Overwhelmed by the support I have received since I announced my faculty appointment yesterday. I'm so grateful for the mentorship and support of @random_walker, who has been the best collaborator and mentor I could have asked for. (We aren't done yet; we have a book to write and a new venture to begin, and I look forward to continuing our collaboration.)\n\nSomeone told me that getting a faculty appointment requires a minor miracle, given the number of talented applicants for each position, and I'm sure there was a heavy dose of luck in my appointment.\n\nThat said, I'm very grateful for the support of so many people who wrote letters, strategized, and gave me advice and feedback during the applications and beyond.\n\n@percyliang, @PeterHndrsn, @alondra, Matt Salganik, @b_m_stewart, @JessicaHullman, @manoelribeiro, @RishiBommasani, @steverab, Jonathan Mayer, @karthik_r_n, Varun Rao, @ang3linawang, Mona Wang, @SciOrestis, @dsallentess, Serena Booth, Sarah Scheffler, @sethlazar, @ghadfield, and so many others supported me throughout the process. I'm also glad I have had such a strong group of collaborators over the years, without whom none of my work would be possible.\n\nFinally, I have received well over 100 expressions of interest in working with me for a PhD. I'm grateful for all of this interest, and look forward to engaging with your materials.",
+   "created_at": "Wed Jul 08 20:47:19 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 139,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "sayashk",
+    "text": "Thrilled to share that I am joining UC Berkeley as an Assistant Professor in the School of Information! \n\nI start in Fall 2027, and I am recruiting PhD students this cycle. List me in your application if you're interested in frontier AI evaluation, AI policy, and AI's impacts on institutions such as science, law, and medicine. \n\nI'm especially keen to work with students interested not just in high-quality research, but also in communicating it with a broad audience such as by public writing and policy impact. Fill out the form in the next tweet to indicate your interest.\n\nAs for this coming year, I'm moving to Berkeley this fall to start something new with @RishiBommasani and @random_walker. We'll have much more to share soon."
+   }
+  },
+  "2074472936627376363": {
+   "id": "2074472936627376363",
+   "url": "https://x.com/sayashk/status/2074472936627376363",
+   "text": "Thrilled to share that I am joining UC Berkeley as an Assistant Professor in the School of Information! \n\nI start in Fall 2027, and I am recruiting PhD students this cycle. List me in your application if you're interested in frontier AI evaluation, AI policy, and AI's impacts on institutions such as science, law, and medicine. \n\nI'm especially keen to work with students interested not just in high-quality research, but also in communicating it with a broad audience such as by public writing and policy impact. Fill out the form in the next tweet to indicate your interest.\n\nAs for this coming year, I'm moving to Berkeley this fall to start something new with @RishiBommasani and @random_walker. We'll have much more to share soon.",
+   "created_at": "Tue Jul 07 12:37:44 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 958,
+   "retweets": 46,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HMoB2RaX0AAS5E_.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2072661731357204695": {
+   "id": "2072661731357204695",
+   "url": "https://x.com/sayashk/status/2072661731357204695",
+   "text": "Update on our long-horizon AI R&D evals: In April, we launched CRUX, a project to regularly run open-world evaluations. These long, messy, real-world tests of what AI agents can actually do. Our second evaluation is underway, and we ask: AI agents automate AI research?\n\nThere is a lot of interest in studying AI research automation. But most of the systems built so far follow one of three patterns. \n\n1) keep a human in the loop to guide the agent and course-correct along the way. 2) focus on narrow problems where ground truth is clear and progress is easy to verify, as in AutoResearch. 3) use scaffolds engineered for one specific type of research question, so strong results may say more about the scaffold than about the agent's general research ability.\n\nThese efforts are helpful, but a lot of AI research is much broader. Success is not immediately clear or verifiable. Researchers need to test and reject promising hypotheses, backtrack, consider new or unconventional approaches, and do a lot more to make progress on answering research questions. \n\nIn CRUX #2, we are trying to test whether agents can answer novel, open-ended AI research questions.\n\n- One major risk in such a task is contamination. We want the agent to have access to the internet and all the tools it needs to solve the task, so we can't use research questions from publicly available papers. At the same time, we want high quality papers to serve as the source of challenging research questions.\n\n- To address this, we partnered with AI researchers from UKAISI, UToronto, Princeton, and other institutions who have written high-quality papers that aren’t yet public, so there’s no risk of contamination.\n\n- The authors pose open-ended research questions without giving away answers. The agent must produce a NeurIPS-quality paper and a reproducible codebase, which the authors of the papers then review.\n\n- We built a general-purpose scaffold on OpenClaw and Opus 4.8. (We would have loved to use Fable 5, but given the filters on AI R&D capabilities, we don't want to confound results.)\n\n- Agents get generous resource budgets set in consultation with the original authors, such as access to VMs, GPUs, and any other compute needed to answer the question. They also have $3,000 in API credits per paper. We evaluate them on week-long time horizons to make progress on answering the research question, far more than typical agent evals.\n\n- The agent needs to manage its own budget. It can track its spend and stay within its limits, and it can modify its scaffold and reasoning effort as it sees fit.\n\n- In addition to the final artifacts, such as the paper's code, we are also evaluating the agent's trajectories in depth.\n\nWhen we announced CRUX, we planned to conduct an open-world eval every month. Given the scope and ambition of this project, we have spent a lot more time making sure we are confident in our setup and results. That said, the early results we have are exciting, and we look forward to sharing them soon.",
+   "created_at": "Thu Jul 02 12:40:39 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 209,
+   "retweets": 29,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HMOSQZIXgAAgI8x.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2072095231382606276": {
+   "id": "2072095231382606276",
+   "url": "https://x.com/sayashk/status/2072095231382606276",
+   "text": "Nuclear weapons are an anti-analogy for advanced AI https://t.co/n2YmEO0Da0",
+   "created_at": "Tue Jun 30 23:09:35 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 58,
+   "retweets": 7,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HMGPljyXIAAt3Te.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "johnnysaks130",
+    "text": "In rare public remarks, CIA Director John Ratcliffe announces trio of internal changes he says amounts to the \"fundamental reshaping of the CIA’s entire approach to technology.\"\n\nAlso says it's not \"misplaced\" to refer to frontier AI as \"akin to digital nuclear weapons.\""
+   }
+  },
+  "2072092663210233984": {
+   "id": "2072092663210233984",
+   "url": "https://x.com/sayashk/status/2072092663210233984",
+   "text": "Really strong showing for @nityndg's first first-author paper. \n- A small uplift study that finds researchers using Codex reproduce papers more than 2x faster. \n- Updates to CORE-Bench to add OOD tasks, fix errors, and evaluate reliability and efficiency. \n- Stronger scaffolds, including Claude Code, Codex, and OpenCode.",
+   "created_at": "Tue Jun 30 22:59:23 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 31,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "nityndg",
+    "text": "Can AI agents help researchers reproduce research more quickly? We conducted an uplift study. The answer is yes: researchers reproduced papers &gt; 2x faster using Codex with GPT-5.4 xhigh. In a new paper, we show many other results. https://t.co/jBCUmDp6w8"
+   }
+  },
+  "2071215963639320623": {
+   "id": "2071215963639320623",
+   "url": "https://x.com/sayashk/status/2071215963639320623",
+   "text": "My favorite part of our recent essay on AI's impact on software engineering is this figure. It succinctly describes the *irreducible complexity* of software predicts how software engineering will evolve.\n\nThe most impactful AI-based software will adopt this mental model to empower SWEs for decision-making and delivery, while taking on a bigger chunk of execution. @lateinteraction's work (such as on @DSPyOSS) is a perfect early example.",
+   "created_at": "Sun Jun 28 12:55:41 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 89,
+   "retweets": 16,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HL5uLpEWgAA16Da.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2071212404097048579": {
+   "id": "2071212404097048579",
+   "url": "https://x.com/sayashk/status/2071212404097048579",
+   "text": "Many people have written about advanced AI being too restricted, but my fear is we haven’t planned enough for a world where advanced AI will continue to proliferate. \n\nThis is despite the availability of models like GLM-5.2, despite the \"Deepseek moment\", and despite consistent evidence that open models lag closed models by a matter of months.\n\nWhat happens in a world where, even with restrictions on US frontier models and compute, advanced AI continues to be broadly available? \n\nNon-proliferation is likely to fail; at best, it provides a few months of buffer\n\nA common response is to dispute the premise by claiming that the narrow open vs. closed gap is only a result of distillation by Chinese model developers, and if the US ecosystem shut itself off, Chinese competitors won't be able to keep up. \n\nMaybe. But the evidence we have so far points the other way: \n\n1) Existing defenses against distillation don't work. OpenAI, Anthropic, and Google already censor their models' reasoning chains to prevent distillation, and Anthropic has prevented Chinese customers from accessing their models. This hasn't led to an increasing gap between closed and open models.\n\n2) Chinese companies have made genuine improvements to their model training stack that are discounted too heavily by US observers. Notably, preventing distillation might systematically push Chinese AI labs to innovate, rather than follow the lead of US labs. \n\n3) AI has also seen the equivalent of the \"four-minute mile\": once a developer shows what's possible, others can prioritize and quickly improve their models on those capabilities, even when they previously weren't able to. We've seen this with reasoning models (Deepseek R1), coding agents (GLM-5.2), and will likely continue to see it with future advances.\n\n4) There are many improvements that don't require large training runs. Updating scaffolds, finetuning models, using more inference compute can all narrow the gap between the capabilities elicited from US and Chinese models, even if the gap between the base models increases. \n\nIn other words, even if we ban open models, improving the agent scaffolds could lead to continued improvements in capabilities, such as by the creation of specialized scaffolds for cyberattacks (this is known as the \"scaffold overhang\"). So we are likely to continue seeing new misuse risks emerge for years.\n\n5) Most importantly, there is no secret sauce for training advanced AI models. The main training techniques for developing and serving frontier models are well understood. Labs' roadmaps can be gleaned based on the roles they (and their third-party providers) are hiring for. The data being collected through these efforts doesn't require new innovations either.\n\nIf non-proliferation can at most buy us a few months, we should use that time to improve resilience\n\nAI policy can't take for granted that US restrictions on models and compute will lead to a worldwide slowdown in the availability of advanced AI. What changes if we plan for a world with widespread access to advanced AI? \n\nFor one, we need to prioritize resilience. If licensing, export controls, and other restrictions can at most give the government a few months of lead time, that time is best spent giving defenders broad and deep access to AI systems to improve our ability to withstand attacks.\n\nThis becomes especially important since many of the misuse risks that the US govt. is concerned about, such as cyberattacks, are a result of AI's *absolute* capabilities, rather than *relative* the gap between open and closed models.\n\nFor example, even if US model developers can maintain a lead compared to foreign developers, this doesn't help unless the lead is used to find and fix cybersecurity vulnerabilities in the meantime, as @joshua_saxe and others have argued. \n\nTo their credit, OpenAI and Anthropic have both emphasized the importance of improving resilience. There is also widespread consensus within AI policy that resilience is important. \n\nBut resilience is often still described as a way to improve society's ability to withstand the availability of *US* frontier models, controlled in its pace of diffusion by US companies and the government. \n\nThis is also reflected in Anthropic's recent letter to US Senators, where they argue that if only we address distillation attacks and enforce export controls better, advanced AI capabilities would not be available broadly.\n\nBecause of all the reasons mentioned above, I think this is unlikely. This makes investing in resilience that much more important.",
+   "created_at": "Sun Jun 28 12:41:33 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 67,
+   "retweets": 11,
+   "media": [],
+   "quoted": null
+  },
+  "2064528495833956416": {
+   "id": "2064528495833956416",
+   "url": "https://x.com/sayashk/status/2064528495833956416",
+   "text": "There is a lot of justified anger at Anthropic for sandbagging Fable 5 for AI development tasks. But an unanticipated side effect is that third-party evaluators can no longer credibly use the model for evaluations. \n\nCase in point: we are in the middle of running *really hard* AI R&D evaluations. Fable 5 would be a perfect test candidate. But because of Anthropic's guardrails, we can't know if the model failed or if their classifiers blocked the capability.\n\nBy the way, this is not just true for AI R&D. Since Anthropic doesn't make it clear when they are sandbagging, this could seep into any number of technical tasks, and the evaluators wouldn't have any way to know. So they can't credibly claim to evaluate state-of-the-art accuracy using the model.",
+   "created_at": "Wed Jun 10 02:02:05 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1330,
+   "retweets": 119,
+   "media": [],
+   "quoted": null
+  },
+  "2057957069391794519": {
+   "id": "2057957069391794519",
+   "url": "https://x.com/sayashk/status/2057957069391794519",
+   "text": "Did Google’s AI agents really build an operating system for $916?\n\nWith @steverab, @RishiBommasani, Andrew Schwartz, @random_walker \n\nAt Google's developer conference earlier this week, the company launched its latest model, Gemini 3.5 Flash, alongside a new agent app, Antigravity 2.0. To showcase what this new agent setup is capable of, Google claimed that a team of agents had built an entire operating system. The effort reportedly required only a single prompt, cost only about $900 in API fees, and was carried out by a few dozen subagents working together.\n\nDoes this mean that complex pieces of software can now be built cheaply by AI? Not so fast:\n\n- The “single prompt” claim is misleading. The blog post says the operating system was built from a single prompt. But halfway through the post, Google discloses that the prompt “ended up being many thousands of lines” long. How many attempts did it take to generate the prompt? How specific were the instructions to the agent? Without these critical details, it is hard to know if the secret sauce is a better model or just more effort put into prompting the model. Moreover, the run was carried out on a scaffold with specialized roles, delegation to subagents, and an agent to detect and prevent cheating. In the launch post, Google views the scaffold as a product feature. But we don't know whether the scaffold was overfit to this task of building an OS from scratch, or whether it would perform as well on other complex software engineering tasks.\n\n- Google’s writeup is not explicit about what counted as human intervention. The post mentions that the final run to develop the operating system required “no additional guidance or corrections from a human.” But it does not define that standard. It describes infrastructure to kill and restart stuck agents. The post mentions an earlier run in which the agents appeared to cheat, after which the team added anti-cheating measures and re-ran the task. But it does not report dry runs as part of the methodology. Nor does it clearly say whether any agents escalated to a human, or whether the final run required any manual restarts, approvals, or fixes, or how many retries it took until the agent was successful.\n\n- The writeup does not report any attempt to analyze whether the agents wrote the code from scratch or copied existing code from the internet. To Google’s credit, the blog post notes that toy operating systems are common undergraduate course projects, and public implementations are easy to find. The post itself raises the concern that the agent could have regurgitated information rather than building the operating system from scratch. But it did not address this concern—there was no similarity analysis or log analysis to check if the agent copied existing code. Even if there was no direct copying, writing an operating system might be relatively easy for agents because of patterns memorized in the training data, so this doesn’t tell us much about agents’ ability to create novel pieces of software.\n\n- Google has not released the lengthy prompt, the code the agents wrote, or the logs from the run, which makes it impossible to independently evaluate the claims. Releasing the source code or the agent logs could have allowed independent researchers to evaluate the quality of the artifacts and answer questions such as whether the agent was copying existing code. The blog post only includes a short video documenting a snapshot of the development progress and the overall narrative of the experiment.\n\nOn the other hand, the blog post does report the exact dollar amount for building the operating system ($916.92), alongside the total token budget (a total of 2.6B tokens). These figures provide useful context, which we want to credit Google for. Many of the evaluations we previously surveyed did not disclose cost at all, which made their headline claims hard to compare with other evaluations.\n\nStill, Google’s blog post is effectively a press release. We recognize that it is unrealistic to expect it to be scientifically rigorous. Evaluations like this one, meaning a long-horizon real-world task evaluated on a single run with the experimenter narrating what the agent did, have become common. Since many of them have been done by AI companies, it is easy to dismiss the entire genre as puffery.\n\nBut that would be a mistake. We refer to the emerging paradigm as open-world evaluations, and we recognize this trend in a recent paper (and an accompanying blog post) Crucially, we argue that open-world evaluations require a new set of methodological norms. Done right, they can provide a valuable perspective that benchmark-based evaluation cannot.\n\nGoogle’s experiment does add to the mounting evidence that agents or agent teams can autonomously or near-autonomously work on certain kinds of tasks for very long periods of time, making progress without getting stuck or confused. As we argue in our paper, benchmark evaluation is effectively impossible for this kind of task for many reasons including cost. So it is an exciting time for independent evaluators from academia, nonprofits, and government to step in and provide the kind of rigor and credibility to open-world evaluations that are unlikely to be found in AI vendors’ own claims.",
+   "created_at": "Fri May 22 22:49:34 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 37,
+   "retweets": 3,
+   "media": [],
+   "quoted": null
+  },
+  "2057460910655000611": {
+   "id": "2057460910655000611",
+   "url": "https://x.com/sayashk/status/2057460910655000611",
+   "text": "New essay: Do AI Risks Require Extraordinary Government Intervention?\n\nIn a recent essay, @DKThomp engages with AI as Normal Technology. He agrees with our thesis about AI's slow labor market impacts, relying on the fact that GDP growth has so far been average, unemployment is below 5%, and even jobs that seemed vulnerable to automation show rising employment and wages. He concludes that so far, the macroeconomic picture is consistent with what we would expect from a \"normal\" general-purpose technology.\n\nBut when it comes to AI risks, he is far more bearish. He points to examples of cyber- and bio-risks and expresses pessimism about AI quickly becoming dangerous across many new domains. He argues that AI's emergent capabilities make it fundamentally different from previous technologies, and that this difference justifies “extraordinary” government responses including restrictions on what companies can release.\n\nIn a new essay, @random_walker and I lay out the downsides of extraordinary government intervention in response to new technology. We discuss proposals for improving resilience that do not require such intervention. We also discuss why governments have so far been reluctant to invest in resilience. In short, resilience requires us to get better at the *normal* process of policymaking. But sclerosis in the federal government and the ease of justifying interventions on AI companies rather than society at large make extraordinary intervention seem appealing, despite its limitations.\n\nWhat happens next? Policymakers can either get their act together and invest heavily in improving resilience, or be forced to take extraordinary actions (such as on AI nonproliferation) that are more onerous and less effective.\n\nA Recap of AINT’s Arguments and Thompson’s Areas of Agreement and Disagreement\n\nMany people, including Thompson, have found AI as Normal Technology to be a useful framework for thinking about AI's economic impacts while being unconvinced by our views on safety. In the AINT essay, we make different arguments about slow labor market impacts and resilience to misuse risks. \n\nThe labor market argument rests on the speed of diffusion: there are many speed limits between a new AI capability and its economic impact, including the need to build products, change organizational workflows, and navigate regulation. This has proven helpful both to understand why claims of rapid and widespread job displacement (such as Amodei's claims about an imminent white-collar bloodbath) are unlikely to materialize, as well as to identify bottlenecks to diffusion that could hinder the beneficial adoption of AI.\n\nBut our argument about AI's misuse risks depends on the offense-defense balance: whether attackers or defenders benefit more from a given capability, and our ability to build resilience in response to misuse risks. Notably, an attacker does not need to go through the slow process of organizational adoption to cause harm. We argue for building societal resilience to intervene on misuse risks and identify many interventions that we should take to reduce AI risks. \n\nHere, Thompson disagrees with us. One reason he disagrees is that all general-purpose technologies bring about new risks, which are hard to reason about from previous patterns. But even in the history of general-purpose technologies, Thompson argues that AI seems particularly \"abnormal\" because of risks that are emergent and unknown even to AI developers. And this justifies plans by the government to treat AI as an abnormal technology, since it \"compels the government to create extraordinary regulations that prevent private companies from selling their products and services on the grounds that they’re too dangerous.\"\n\nThompson doesn't define precisely what he means by extraordinary government action, and the specific interventions he envisions remain somewhat vague. Since we'll be arguing against such interventions, we want to be clear about what we mean by the term. We think of extraordinary interventions as a spectrum defined by three factors that apply to any powerful technology, not just AI.\n\nFirst, extraordinary interventions tend to be precautionary. They restrict activity based on anticipated harms rather than realized or demonstrated ones. This doesn't mean that precaution is never warranted, but it does mean the justification needs to be stronger, since we are restricting activity without clear evidence that the harms will materialize (or that they'll materialize exactly as we predict). Even then, an intervention is more extraordinary when viable alternatives exist that can address the risks while being less restrictive, such as investing in resilience. \n\nSecond, extraordinary interventions impose restrictions on the liberty of actors who are not directly responsible for the harms in question. When governments restrict what AI companies can release, the burden falls not on the malicious actors who cause harm, but on companies that build tools that could, in principle, be misused. This is especially pertinent for dual-use technologies. Because these tools have widespread beneficial applications, restrictions on companies can cut off beneficial access for the broader public in order to prevent misuse by a small number of bad actors.\n\nThird, extraordinary interventions bypass normal processes of governance, and instead rely on unilateral authority such as emergency declarations or executive orders, even though the governance processes being bypassed exist to ensure that restrictions on liberty are subject to democratic accountability.\n\nAn intervention need not satisfy all three of these criteria to count as extraordinary. But the more of these factors that are present, the higher the bar should be for justifying it.\n\nExtraordinary Government Action is Extraordinarily Costly\n\nWe agree that AI poses misuse risks. But our experience from regulating \"abnormal\" technologies shows how burdensome extraordinary government interventions can be. The enforcement of nuclear nonproliferation has required the IAEA, the Non-Proliferation Treaty, decades of diplomacy, ongoing investments, and even military confrontation. The tolls of these interventions were enormous, but the approach was at least somewhat enforceable because nuclear weapons depend on enriched uranium, a physical bottleneck that is genuinely hard to get around.\n\nAI is different from nuclear weapons. For one, there is no equivalent \"physical\" bottleneck. The core techniques for building AI systems are well known. Adversaries (especially nation-states) can match frontier capabilities within months. Any nonproliferation regime for AI would face constant erosion. \nIn the face of this challenge, how could governments maintain nonproliferation? Some proposed interventions, such as the rumored executive order on voluntary commitments by AI companies for predeployment evaluations, are relatively low on the scale of extraordinary interventions. Done well, they could allow us to tilt the offense-defense balance by giving defenders more time to prepare for new capabilities. \n\nThe U.S. has also enacted export controls on chips. We think this is a modest intervention: countries routinely restrict exports of sensitive goods to maintain their lead in innovation, and reasonable people can disagree about where to draw the line. But when it comes to preventing dangerous capabilities from being widely accessible, export controls are far less effective. Open-weight models and widespread API access from frontier labs mean that the gap between frontier and publicly available capabilities is at most a few months, not years. \n\nIf the most that nonproliferation can buy us is a few months, the urgent priority should be investing in resilience so that we are better prepared when those capabilities inevitably become widely available, as we discuss below. On the other hand, if governments try to maintain nonproliferation as a way to deter the availability of advanced AI capabilities for misuse, their interventions will necessarily get more demanding. \n\nTo truly enforce nonproliferation, governments would need to restrict access to open-weight models and even API access to capable models. This would require licensing regimes that give governments ongoing authority over which models can be released and restrictions on open-weight models. We might quickly enter a state where governments exercise control over what AI research and products can be shared publicly. In fact, we have already seen concerning examples of such control, such as Anthropic's designation as a supply chain risk, and recent rumors about licensing requirements for AI companies. \n\nTo avoid this slippery slope, those proposing extraordinary interventions should be clear about where they would draw the line. Would they support restrictions on open-weight models? What about requiring approvals for each new model release, or restrictions on the movement of researchers who build frontier AI across countries? If proponents cannot specify the limits of what they are calling for, it is reasonable to expect that the demands for increases in the government's ability to take unilateral action will keep escalating as capabilities advance.\n\nFor nuclear weapons, once the nonproliferation regime was built, it did not need to be rebuilt every few years. But AI is not the last digital technology with powerful dual-use properties. New technologies would raise similar questions and potentially demand similar or escalating responses. So the \"abnormal technology\" framework for regulating AI would start to look less like a targeted response to a specific risk and more like a permanent expansion of government powers over what citizens and companies can build, publish, and research. \n\nWe have seen this debate play out before. Each new technology raises questions of what restrictions to liberty are appropriate to mitigate harms. This history tells us we shouldn't automatically default to imposing extraordinary government interventions. \n\nThe internet allowed people to access information about how to build bombs, and in 1995, after the Oklahoma City bombing, the late Senator Feinstein introduced a bill that, in its first draft, would have criminalized the distribution of any information on the internet describing bomb-making materials or processes. (When the bill was eventually passed, it had a narrower scope, requiring offenders to have knowingly aided a crime through their instructions.)\n\nThe federal government also tried to restrict access to encryption software, arguing it would help criminals communicate beyond the reach of law enforcement. It imposed export controls and proposed requiring backdoors in encryption so that the government could always access private communications. It even started a criminal investigation against a programmer under the Arms Export Control Act for releasing encryption software. \n\nThese restrictions were eventually rolled back through a combination of court rulings and executive action. Encryption became the foundation of digital security, enabling e-commerce, online banking, and many other applications.\n\nYet, at other points in history, we have accepted increases in government powers in response to new technologies. The widespread acts of terrorism after the invention of dynamite catalyzed the expanding government surveillance apparatus by the FBI. \n\nThe question is whether this level of intervention is necessary to address AI risks. One response that does not require extraordinary government intervention is improving resilience.\n\nResilience is an Under-Emphasized Defense Against AI Risks\n\nResilience is the capacity of a system to withstand and adapt to harm. It was one of the main defenses we proposed in the AINT essay. Unlike extraordinary government actions like restrictions on what companies can release, resilience does not impose costs on AI companies. Instead, it focuses on improving our capacity to respond to and recover from AI risks, regardless of when or where they occur. For past technological harms, improving the resilience of systems has been key to reducing harm.\n\nConsider cybersecurity. The internet created entirely new classes of attacks, such as worms that spread through networks, causing billions of dollars in damages. The way we defended against these risks was not by restricting access to computers or the internet, but rather through bug bounties to incentivize people to report vulnerabilities to developers, improving browsers and operating systems, automated testing, and better patching practices. All of these improved the resilience of our cyber infrastructure regardless of where the risks arose.\n\nAutomated vulnerability detection tools are another example of technology enabling new kinds of attacks. Tools such as fuzzers and symbolic execution engines have been \"superhuman\" at vulnerability detection for years; they can detect vulnerabilities at a scale humans cannot match. Yet, they have been freely available on open-source repositories. Since defenders had access to the same tools, they became core defensive tools, largely funded by the cyberdefense ecosystem. In fact, defenders had structural advantages in using these tools effectively, such as deeper access to the systems being tested. This in turn led to better protections for cybersystems. \n\nThis shows how we have managed the transition from unaided vulnerability detection to vastly superhuman detection without requiring extraordinary government intervention. We agree that LLMs bring real improvements to vulnerability detection, but they build on top of decades of tooling that is already far beyond what any human can do unaided. If we have already absorbed the transition to such tools, it is worth asking whether the additional capabilities of language models call for extraordinary interventions.\n\nTo be clear, these transitions were not smooth or painless. For a brief period, the attacker-defender balance was completely upset. The idea of viral spread of malware and the resulting asymmetry was unprecedented. 15-year-olds could create devastating cyberattacks that brought down top e-commerce websites and search engines. It is plausible that government intervention to improve cybersecurity could have reduced the harm caused to individuals and businesses during this period.\n\nAI's use for cyberattacks might once again upset the offense-defense balance, and we don't think the AI transition will be smooth by default. Many systems that are currently under-defended, including schools, hospitals, power grids, and small government agencies, will be at real risk. Efforts like Project Glasswing and OpenAI's cybersecurity grant program are important but insufficient on their own. While restricting access to advanced AI systems might be helpful in the short run, it is not a silver bullet in a world where open-weight models are only months behind the most capable closed models.\n\nAddressing AI's cyberrisks requires investment in resilience. That means AI-assisted red-teaming not just for tech companies, but for schools, hospitals, power grids, small businesses, and government systems that currently lack the capacity for defense. We should also incentivize professional security experts to find and report vulnerabilities (with or without AI use), such as through bug bounties that cover more than just tech company products. These efforts are not automatic; they require investment and planning. \n\nThe good news is this work is starting across many different industries. While this requires significant investment, it is still far less burdensome than enforcing a strict nonproliferation regime. The bad news is governments have a lot left to do to truly make the transition painless.\n\nThe same analysis applies to biosecurity. AI may lower some information barriers, but bioattacks depend on many downstream steps: procuring materials, accessing specialized equipment, and applying tacit know-how. We can intervene on those downstream steps *now* to increase societal resilience to bioattacks without imposing strong controls on AI development, such as by implementing better screening of synthetic biology orders, using AI to evaluate the riskiness of new compounds, tracking access to dangerous materials, and offensive red-teaming (such as asking trusted experts to attempt to use AI for manufacturing dangerous compounds) to find gaps in these efforts. These help regardless of whether biorisks are from AI.\n\nIf Resilience is So Helpful, Why Haven't We Prioritized it Already?\n\nImportantly, resilience does not require extraordinary government intervention. It only requires us to get our act together on the \"normal\" process of policymaking and execution. \n\nThe problem is we are not great at normal policymaking. We suspect one reason why the resilience approach seems unappealing is that it requires polycentric governance in which many decision makers work harmoniously together. This is a tough sell given that state capacity in the United States has been hobbled by decades of accumulating veto points and creeping proceduralism.  As a result, unilateral actions by the executive branch are often seen as the way out for developing and enforcing AI policy.\n\nInvesting in resilience requires action and investment by a much wider set of actors than nonproliferation does. For resilience to be effective, the government needs to legislate and allocate funding, collaborate across agencies, build early warning systems, and serve as a resource hub for downstream actors and rapidly disseminate information to help them shore up their defenses. The U.S. federal government isn't exactly well known for being competent at this set of tasks.\n\nSo it shouldn't be a surprise that when we look at the government's track record, policy responses for resilience have been underwhelming. In fact, even when there are areas of agreement between proponents of the normal and \"abnormal\" views on AI, such as requirements for transparency, auditing, and safe harbors for safety research, we are yet to see concrete federal action. (There are some efforts, like the recent letter from representatives urging the federal government to improve coordination on cyberrisks. But for now, it is just a letter with recommendations; it remains to be seen if any action will be taken based on these suggestions.) \n\nIt is in this context that extraordinary government actions, such as nonproliferation, look tempting to address AI risks. These are morally satisfying since they primarily impose burdens on the companies that create these risks. They are also tractable, since they only require unilateral action from the Executive, such as invoking the Defense Production Act. The main question is whether we can achieve better outcomes through such actions, or whether we should invest in improving the \"normal\" process of governance.\n\nWhile we understand the reasons for taking the former approach, we lean towards the latter. Getting our policy act together is hard, but important—not just for this round of AI policy and misuse risks, but for all future interventions on technological harm, and for the democratic process to work more generally. \n\nOn the other hand, if our main defense against AI risks is nonproliferation, a single technical breakthrough that makes models cheaper to train could be enough to cause instability, especially in a world where we don't also invest in resilience. The damage will be that much greater when the dam eventually breaks.",
+   "created_at": "Thu May 21 13:58:01 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 92,
+   "retweets": 16,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HI2RuR4WwAAWAw-.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2056062773063307357": {
+   "id": "2056062773063307357",
+   "url": "https://x.com/sayashk/status/2056062773063307357",
+   "text": "many such cases https://t.co/CBbUcqzkup",
+   "created_at": "Sun May 17 17:22:19 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 33,
+   "retweets": 11,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HIiZnUbWYAAXqa1.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "dwarkesh_sp",
+    "text": "# The mistake of conflating intelligence and power\n\nI had an interesting discussion recently. Someone asked me, what is intelligence? I said, the ability to achieve your goals across a wide range of domains. Okay, he says, then by that definition isn’t Donald Trump the intelligent person in the world, followed in quick succession by Xi Jinping and Vladimir Putin?\n\nTo be clear, these people are obviously very competent and clever. But when you think of ASI, you don’t think of Trump, but more so. \n\nThe person who kept pressing this question was correctly pointing out that I basically defined intelligence as power. And by this definition, Stalin was the most intelligent person who ever lived.\n\nNow, of course, you could change the definition of intelligence to something more like, manipulate abstract concepts and rotate shapes. \n\nBut notice that the most powerful people in the world do not max out this quantity. The correlation between extreme power and this kind of intelligence might be even weaker than the correlation between extreme power and height. The physicists are not running the world.\n\nWe tend to conflate power-seeking AI and superintelligent (in science and tech) AI. I’m not denying that AI can be power-seeking. Whatever skills and drives Donald Trump has could be embodied in a digital mind. I’m simply pointing out that the way AI systems are currently becoming smarter (by getting trained to be to be really good at specific economically valuable tasks like coding) is not that strongly correlated with power.\n\nWe often talk about power in this way that misunderstands how it is actually derived in our world. Our intuitions are primed by games like Diplomacy or Go, which are designed to isolate and reward a g loaded kind of strategic reasoning. \n\nBut in the real world, power is more the product of having the authority and trust to get lots of people to collaborate with you, rather than some galaxy brain scheming capability. Trump is not powerful because his brain, considered in isolation, is the most effective optimization engine on Earth. He is powerful because the government which hundreds of millions of people consider legitimate gives him a lot of authority.\n\nA group versus individual level analysis is useful here. As @GarettJones has written a lot about, individual IQ is only modestly correlated with individual income, but national IQ is strongly correlated with national outcomes. This is because intelligence has a lot of spillover effects - smarter societies cooperate more, save more, and can coordinate to build things like space shuttles and semiconductors. \n\nRichard Trevithick, who invented the high-pressure steam engine, died in poverty, buried in an unmarked pauper’s grave. But the fact that 18th and 19th century Britain had lots and lots of people like Trevithick contributed to Britain being able to set up a global empire and outcompete lots of backwards principalities around the world.\n\nIt seems to me that the right mental model is that automated firms will outcompete everyone else in normal capitalist ways, rather than a single AI outthinking everyone else."
+   }
+  },
+  "2054581905752813641": {
+   "id": "2054581905752813641",
+   "url": "https://x.com/sayashk/status/2054581905752813641",
+   "text": "Are the bottlenecks to rapid AI improvements purely computational? Or do they require real-world deployment and interaction to surpass? \n\nInterestingly, this was one of the main disagreements between @DKokotajlo and I almost two years ago: https://t.co/iCzcipA7ma\n\nIn short, I agree with @mentalgeorge's predictions that even if AI systems can conduct research autonomously (i.e., even if we get RSI), there are real-world bottlenecks that cannot be resolved purely computationally.",
+   "created_at": "Wed May 13 15:17:53 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 25,
+   "retweets": 7,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HINWJXPWMAEWvOP.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "mentalgeorge",
+    "text": "Reading responses to \"Goodhart Singularity\" has clarified the following to me:\n\neven if I'm wrong, and a secluded intelligence explosion is very much possible, then it still seems the case that full AI R&D automation - in the traditional sense of \"AIs can do everything human AI researchers do\" - is grossly insufficient for kicking it off.\n\nAfaict, the conditions for a secluded intelligence explosion (no widespread deployment on tasks in the real world) are:\n\n1. \"sample efficiency\" is indeed a coherent thing that can be maxxed from within the datacenter in a way that generalises to the real world.\n\n2. It is possible to design a continual learning algorithm that generalises to the real world even when you can only test it out on synthetic environments. This might not need perfect sim2real - the AIs just need to create diverse and rich enough environments to find an algo that generalises. Humans are potentially a case-in-point here, given that our continual learning transfers from the African savannah to TSMC.\n\nNow, if the AI researchers can crack (1) and (2) from the datacenter alone, they may indeed be off to the races.\n\nBut cracking (1) and (2) requires more than just \"full AI R&D automation\". Current human AI researchers are unable create these kinds of synthetic environments!! They need to deploy the models to banks, lawyers, etc instead. Consider also that Anthropic's best tool for measuring even AI R&D speedup is not an eval but simply a survey of employees.\n\nCracking (1) and (2) is far beyond what is usually considered the relevant watermark for \"AI R&D automation\" that would be at risk of kicking off an intelligence explosion, eg in Jack Clark's recent essay or AI 2027.\n\nAfaik, no one is tracking the \"can generate ecologically valid synthetic data that we could use to test our hypothetical future continual learning / sample efficiency algorithms against\" capability. But presumably this is something the automated AI researchers would need"
+   }
+  },
+  "2054569643080077576": {
+   "id": "2054569643080077576",
+   "url": "https://x.com/sayashk/status/2054569643080077576",
+   "text": "Log analysis is not a “one and done” technique, it requires constant effort in validating benchmark results. \n\nOne reason it’s hard to uncover evaluation bugs is that they become apparent only after models get good enough to solve tasks (or circumvent constraints in evaluations, or reward hack). \n\nOn CORE-Bench, we couldn’t uncover errors until Nicholas Carlini submitted the Claude Code agent that saturated the benchmark accuracy. \n\nFor the same reason, we can’t be certain we fixed all potential ways to reward hack; more capable models might find more clever ways to get around our implementation, so we need recurring validation for results. \n\nBut this is a very different mindset from the “benchmarks are static” paradigm that ruled in ML for the last 50 years! It requires a big mindset shift that will be challenging, but ultimately necessary for advancing the science of evals.",
+   "created_at": "Wed May 13 14:29:09 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 20,
+   "retweets": 5,
+   "media": [],
+   "quoted": {
+    "author": "sayashk",
+    "text": "I appreciate the work by @EpochAIResearch @GregHBurnham in flagging and fixing these issues. Finding bugs in evaluations is always disappointing, but in the long run, is necessary (and extremely helpful) for improving evaluations. It also reminds me of the issues we uncovered in CORE-Bench: https://t.co/jj9F3wWMo5\n\nAs benchmarks become more complex, analyzing benchmark tasks and agent logs will become more important to ensure the validity of evaluation results. Coincidentally, today we released a paper (led by @PKirgis) on how to do log analysis well. https://t.co/rTcirSHuRO\n\nThis builds on all our lessons from the trenches in conducting such evaluations and fixing the issues we found in our own work. \n\nI’m sure we’ll find many other issues in our evals, but genuinely think the evals community will be better off for having developed tools and methods to improve eval rigor."
+   }
+  },
+  "2054390534026969153": {
+   "id": "2054390534026969153",
+   "url": "https://x.com/sayashk/status/2054390534026969153",
+   "text": "I appreciate the work by @EpochAIResearch @GregHBurnham in flagging and fixing these issues. Finding bugs in evaluations is always disappointing, but in the long run, is necessary (and extremely helpful) for improving evaluations. It also reminds me of the issues we uncovered in CORE-Bench: https://t.co/jj9F3wWMo5\n\nAs benchmarks become more complex, analyzing benchmark tasks and agent logs will become more important to ensure the validity of evaluation results. Coincidentally, today we released a paper (led by @PKirgis) on how to do log analysis well. https://t.co/rTcirSHuRO\n\nThis builds on all our lessons from the trenches in conducting such evaluations and fixing the issues we found in our own work. \n\nI’m sure we’ll find many other issues in our evals, but genuinely think the evals community will be better off for having developed tools and methods to improve eval rigor.",
+   "created_at": "Wed May 13 02:37:26 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 43,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HIKofZ7WwAAQy05.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "GregHBurnham",
+    "text": "Thread with a few notes on this. It’s a disappointing finding, of course. The best we can do is fix it up and learn lessons for future work."
+   }
+  },
+  "2044835523198370272": {
+   "id": "2044835523198370272",
+   "url": "https://x.com/sayashk/status/2044835523198370272",
+   "text": "Benchmarks are saturated more quickly than ever. How should frontier AI evaluations evolve? In a new paper, we argue that the AI community is already converging on an answer: Open-world evaluations. They are long, messy, real-world tasks that would be impractical for benchmarks. https://t.co/CrvbEd9l7f",
+   "created_at": "Thu Apr 16 17:49:14 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 255,
+   "retweets": 53,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HGC27cCaMAA1YVL.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2042431603415077064": {
+   "id": "2042431603415077064",
+   "url": "https://x.com/sayashk/status/2042431603415077064",
+   "text": "This dynamic explains a lot of bad AI policy. In 2023 and 2024, concerns about AI misinfo led to so many calls for watermarking AI outputs. But people who want to spread misinfo can simply use open models, whose watermarks can be easily removed!\n\nAn actual solution would be to certify *real* images using standards like C2PA, since it doesn't require the bad guys to comply. But this would impose costs on third parties (camera manufacturers, social media platforms etc.), whereas watermarking would only impose costs on AI companies. So watermarking AI outputs became the go-to proposal, even though it would be completely ineffective.\n\nThe irony is that for in 2024 elections worldwide, AI deepfakes were overkill for creating misinfo. \"Cheapfakes\", like low-quality photoshopping, using old media footage, or even video game footage, were effective enough for misinfo operations.",
+   "created_at": "Fri Apr 10 02:36:55 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 42,
+   "retweets": 11,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HFgsjUUWIAAMQs0.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "NatPurser",
+    "text": "imo, a lot of data center fights can be boiled down to: \n\n- the benefits (an expanded tax base, grid modernization, better ai / digital services) are diffuse and hard to picture \n\n- the costs (a big, ugly, whirring building) are concrete and concentrated in one area"
+   }
+  },
+  "2040264221091418396": {
+   "id": "2040264221091418396",
+   "url": "https://x.com/sayashk/status/2040264221091418396",
+   "text": "This is a nice post! I want to add a subtle point: giving AI agents more retries on benchmarks doesn't always help. \n\nIf we consider the cost of *false positives* (passing benchmark tests but failing in production), more retries can *hurt* overall performance 🧵 https://t.co/xS77W58buy",
+   "created_at": "Sat Apr 04 03:04:31 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 32,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HFB5AV4bYAAcnZq.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "joel_bkr",
+    "text": "new blog post from me and nate rush: \n\n\"Many Benchmarks Scores Would Appear Much Higher If You Let The AIs Use Adequate Labor\"\n\nif humans given 10 minutes to do a 1-hour task with a hand tied behind their back scored 50%, you wouldn't say \"humans score 50%.\"\n\nwe argue that something analogous is happening for reported AI performance on many benchmarks.\n\nto better understand the limits of AI performance, we need benchmark authors/runners (who are trying their best, operating under tough constraints!) to get dramatically more tokens.\n\npost linked below."
+   }
+  },
+  "2036946954169753786": {
+   "id": "2036946954169753786",
+   "url": "https://x.com/sayashk/status/2036946954169753786",
+   "text": "This is a nice essay, and I agree with its characterization of AI as Normal Technology. In fact, on the second line of AINT, we compare AI's potential impact to that of the internet or electricity.\n\nBut there's a large, qualitative difference between even the most powerful general-purpose technologies which humans can and should influence/control, and creating an omnipotent entity that we have no control over. This was precisely the gap we wanted to highlight.",
+   "created_at": "Wed Mar 25 23:22:53 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 65,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HESteSpWYAA8_iC.png"
+    }
+   ],
+   "quoted": {
+    "author": "deanwball",
+    "text": "I spent a weekend at Stanford recently, which is where, in 2023, I did much of my formative thinking on AI. The Anthropic-DoW affair tested that early intellectual foundation more than anything, so found myself walking around Stanford, reflecting on what I learned in 2023. https://t.co/saiKV8CgRP"
+   }
+  },
+  "2035192650211471434": {
+   "id": "2035192650211471434",
+   "url": "https://x.com/sayashk/status/2035192650211471434",
+   "text": "A few days ago, @random_walker and I spoke with @adamconover about whether we still think of AI as normal technology. He asked us what our positive vision for the future of AI is. Here's my response: https://t.co/4f07kkJbHH",
+   "created_at": "Sat Mar 21 03:11:54 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 25,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2035192237064142848/img/iRNRa7rnWWlAnx6S.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2033372271914475597": {
+   "id": "2033372271914475597",
+   "url": "https://x.com/sayashk/status/2033372271914475597",
+   "text": "What is the role of model alignment for AI safety?\n- Model alignment is effective against accidental harms, not intentional ones \n- Important questions about AI safety can’t be asked and answered at the levels of models. In other words, *AI safety is not a model property* https://t.co/H6SyuWF4CJ",
+   "created_at": "Mon Mar 16 02:38:22 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 29,
+   "retweets": 11,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HDf7-9OWAAAfnVq.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HDf7-9iaQAA_ULB.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "ahall_research",
+    "text": "As I’ve said before I think this raises deep questions about the theory of behavior that underpins the existing approach to AI safety. Is the idea to deter the typical user who isn’t very determined and might not know Pliny exists?\n\nOr is the idea to prevent worst case outcomes? In which case Pliny’s continued success means the whole apparatus doesn’t yet work?\n\nI’m not super deep on the safety world and am trying to recover its first principles as I go."
+   }
+  },
+  "2032561211888263412": {
+   "id": "2032561211888263412",
+   "url": "https://x.com/sayashk/status/2032561211888263412",
+   "text": "In the last few months, I've spoken to many CS professors who asked me if we even need CS PhD students anymore. Now that we have coding agents, can't professors work directly with agents?\n\nMy view is that equipping PhD students with coding agents will allow them to do work that is orders of magnitude more impressive than they otherwise could. \n\nAnd they can be *accountable* for their outcomes in a way agents can't (yet). For example, who checks the agent's outputs are correct? Who is responsible for mistakes or errors?",
+   "created_at": "Fri Mar 13 20:55:30 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 511,
+   "retweets": 39,
+   "media": [],
+   "quoted": null
+  },
+  "2031829227876561296": {
+   "id": "2031829227876561296",
+   "url": "https://x.com/sayashk/status/2031829227876561296",
+   "text": "Hey @METR_Evals—love your work, but we think it's the *metric* that's saturated, not the task suite. For example, despite rapid gains in accuracy, we found limited gains in reliability. We'd love to work together to see if this holds up on the time-horizon task suite. https://t.co/B5WPlIrwVx",
+   "created_at": "Wed Mar 11 20:26:52 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 84,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HDKBvCVXUAAn0lt.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "METR_Evals",
+    "text": "We estimate that Claude Opus 4.6 has a 50%-time-horizon of around 14.5 hours (95% CI of 6 hrs to 98 hrs) on software tasks. While this is the highest point estimate we’ve reported, this measurement is extremely noisy because our current task suite is nearly saturated. https://t.co/EuRBIrEcVx"
+   }
+  },
+  "2019310923039772725": {
+   "id": "2019310923039772725",
+   "url": "https://x.com/sayashk/status/2019310923039772725",
+   "text": "I’m a big fan of Sara’s work, so it’s great to see Adaption get off the ground! Excited to see everything that comes out of it",
+   "created_at": "Thu Feb 05 07:23:35 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 20,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "sarahookr",
+    "text": "Beginnings are very special. Today is an important day for @adaptionlabs.\n\nToday a handful of one-size-fits-all-models are optimized for the average use case. \n\nAverages erase the exceptional. \n\nEverything intelligent adapts. So should AI. https://t.co/mnTCLR3sbh"
+   }
+  },
+  "2000972874669048226": {
+   "id": "2000972874669048226",
+   "url": "https://x.com/sayashk/status/2000972874669048226",
+   "text": "We were surprised by Opus 4.5’s big performance leap on CORE-Bench, especially compared to Opus 4.1, so @PKirgis decided to look deeper. \n\nThe gains are genuine: Opus 4.5 is much better (and cheaper) at recovering from errors, resolving dependency issues, and solving tasks end-to-end.",
+   "created_at": "Tue Dec 16 16:54:44 +0000 2025",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 193,
+   "retweets": 10,
+   "media": [],
+   "quoted": {
+    "author": "PKirgis",
+    "text": "In our most recent evaluations at @halevals, we found Claude Opus 4.5 solves CORE-Bench. How? \n\nOpus 4.5 solves CORE-Bench because it creatively resolves dependency conflicts, bypasses environmental barriers via nuanced benchmark editing, and follows instructions with high fidelity. Opus 4.1 and Sonnet 4, when given the same powerful scaffold, fail because they resort to simulated data when running into conflicts and provide answers using heuristics rather than precise data. We also observe Opus 4.5 more accurately representing its actions in its summary workflow, displaying stronger agentic alignment. 🧵"
+   }
+  },
+  "1996334941832089732": {
+   "id": "1996334941832089732",
+   "url": "https://x.com/sayashk/status/1996334941832089732",
+   "text": "CORE-Bench is solved (using Opus 4.5 with Claude Code)\n\nTL;DR: Last week, we released results for Opus 4.5 on CORE-Bench, a benchmark that tests agents on scientific reproducibility tasks. Earlier this week, Nicholas Carlini reached out to share that an updated scaffold that uses Claude Code drastically outperforms the CORE-Agent scaffold we used, especially after fixing a few grading errors. Over the last three days, we validated the results he found, and we are now ready to declare CORE-Bench solved.\n\nContext. We developed the Holistic Agent Leaderboard (HAL), to evaluate AI agents on challenging benchmarks. One of our motivations was that most models are never compared head-to-head — on the same benchmark, with the same environment, and using the same scaffold. We built standard agent scaffolds for each benchmark, which allowed us to independently evaluate models, scaffolds, and benchmarks.\n\nCORE-Bench is one of the benchmarks on HAL. It evaluates whether AI agents can reproduce scientific papers when given the code and data from a paper. The benchmark consists of papers from computer science, social science, and medicine. It requires agents to set up the paper's repository, run the code, and correctly answer questions about the paper's results. We manually validated each paper's results for inclusion in the benchmark to avoid impossible tasks.\n\n1. Switching the scaffold to Claude Code nearly doubles the accuracy of Opus 4.5\n\nOur scaffold for this benchmark, CORE-Agent, was built using the HuggingFace smolagent library. This allowed us to easily switch the model we used on the backend to compare performance across models in a standardized way.\n\nWhile CORE-Agent allowed cross-model comparison, when we ran Claude Opus 4.5 using Claude Code, it scored 78%, nearly double the 42% we reported using our standard CORE-Agent scaffold. This is a substantial leap: The best agent with CORE-Agent previously scored 51% (Opus 4.1). Surprisingly, this gap was smaller for other models. For example, Opus 4.1 with CORE-Agent outperforms Claude Code (more in Section 4).\n\n2. There were grading errors in 9 tasks on CORE-Bench\n\nNicholas also identified several issues causing us to underestimate accuracy. When building the benchmark, we manually ran each task thrice and used 95% prediction intervals based on our three manual runs to account for rounding, noise, and other sources of small variation. But this failed in some edge cases where our results were fully deterministic, leading to small floating point differences being penalized. In addition, some tasks were underspecified in ways that led valid interpretations to be scored as failures.\n\nAltogether, this affected 8 tasks, where we manually verified Opus 4.5's responses and graded each of them as correct. We also removed 1 task from the benchmark after finding that its code is impossible to reproduce due to bit rot: the original paper required downloading a dataset from a URL that is no longer live.\n\nThese changes increased the agent's accuracy from 78% to 95%. Claude Code with Opus 4.5 only fails at 2 tasks, where it fails to resolve package dependency issues and correctly identify the relevant results.\n\n3. Many grading errors only surface with capable agents\n\nWhen we created the benchmark, the top accuracy was around 20%. Edge cases in grading were much less apparent than they are now, when agents are close to saturating the benchmark. For example, some of the edge cases resulted from the agent solving the task in a slightly different way than we expected when building the benchmark.\n\nWe didn't anticipate agents doing this, so our grading process was too stringent. But we found that Opus 4.5 with Claude Code often used another (correct but slightly distinct) technique to solve the task, which we auto-graded as incorrect. In our manual validation, we graded these cases as correct.\n\nThis experience drives home the importance of manual validation in the \"last mile\" of unsolved tasks on benchmarks. These tasks are often unsolved because of bugs in grading rather than agents genuinely being unable to solve tasks. Many of these bugs were hard to anticipate in advance of the benchmark being attempted by strong agents. Automated grading got us quite far (up to 80% of the benchmark), but manual grading was necessary for validating the last 20% of accuracy.\n\nThis process also resembles how grading errors in many popular benchmarks were found and fixed. SWE-bench Verified had flaky unit tests. TauBench counted empty responses as successful. Fixing errors in benchmarks as the community discovers issues is important.\n\nAt the same time, iterations to benchmark scoring rubrics make comparisons over time hard, because benchmarks need to constantly change. There are other reasons comparing results across time is challenging. For example, many benchmarks involve interacting with open-ended environments, such as the internet. But as websites change (e.g., as more websites add CAPTCHA), the difficulty of solving tasks changes.\n\n4. What explains this performance jump?\n\nWe were surprised to find that Claude Code with Opus 4.5 dramatically outperformed the CORE-Agent scaffold, even without fixing incorrect test cases (78% vs 42%). This gap was much smaller for other models: For Opus 4.1, CORE-Agent *outperforms* Claude Code by almost 10 percentage points. Sonnet 4 scores 33% with CORE-Agent but 47% with Claude Code. Sonnet 4.5 scores 44% with CORE-Agent, but 62% with Claude Code.\n\nWe are unsure what led to this difference. One hypothesis is that the Claude 4.5 series of models is much better tuned to work with Claude Code. Another could be that the lower-level instructions in CORE-Agent, which worked well for less capable models, stop being effective (and hinder the model's performance) for more capable models.\n\n5. Pivoting HAL towards better scaffolds\n\nWhen we planned the empirical evaluation setup for HAL, we assumed there would be a loose coupling between models and scaffolds, allowing us to use the same scaffold across models. But we always knew that that assumption might one day break. The dramatic improvement of Opus 4.5 using Claude Code shows that this day might be here.\n\nWe think studying the coupling between models and scaffolds is an important research direction going forward, especially as more developers release scaffolds that their models might be finetuned to work well with (such as Codex and Claude Code).\n\nThis trend might have structural effects on the AI ecosystem. Downstream developers who build scaffolds or products need to constantly modify them based on the capabilities of newer models. Model developers have a systematic advantage in building better scaffolds, since they can fine-tune their models to work better with their own scaffolds. This undercuts the trend of models becoming commoditized and replaceable artifacts: model developers can regain influence on the application layer through such fine tuning, at the expense of third-party / open-source scaffold and product developers.\n\nAnother implication of the trend: AI companies releasing evaluation results should disclose the scaffold they use for evaluation. If the same model can score double the accuracy by switching out the scaffold, it's clear the choice of scaffold matters a lot. Yet, most model evaluation results don't share the scaffold.\n\nIn light of these results, we are considering many ways to change our approach for HAL evaluations, including identifying scaffolds that work well with specific models and soliciting more community input on high-performing scaffolds.\n\n6. CORE-Bench is effectively solved. Next steps.\n\nWith Opus 4.5 scoring 95%, we're treating CORE-Bench Hard as solved. This triggers two conditions in our plans for follow-up work:\n\n1. When we developed CORE-Bench, we also created a private test set consisting of a different set of papers, which we planned to test agents on once we crossed the 80% threshold. (The papers in this test set are publicly available, but they weren't included in the earlier test set for CORE-Bench and we haven't disclosed which papers are in the new test set.) We'll now open this test set for evaluation.\n\n2. We developed CORE-Bench to closely represent real-world scientific repositories. Now that we have a proof of concept for AI agents solving scientific reproduction tasks, we plan to test agents' ability to reproduce real-world scientific papers at a large scale.\n\nWe welcome collaborators interested in working on this. Building tools to verify reproducibility can be extremely impactful. Researchers could verify that their own repositories are reproducible. Those building on past work could quickly reproduce it. And we could conduct large-scale meta-analyses of how reproducible papers are across fields, how these trends are shifting over time etc.\n\nNote that despite our manual validation, CORE-Bench still has some shortcomings compared to real-world reproduction. For example, we filtered repositories down to those that took less than 45 minutes to run. CORE-Bench also asks for just some specific results of a paper to be reproduced, rather than the entire paper, for ease of grading. Both of these might lead to real-world reproduction attempts being more difficult than the benchmark.\n\nWe'll update the HAL website with the manually validated CORE-Bench results and publish details on the specific bugs and fixes. Thanks again to Nicholas Carlini for the thorough investigation of the benchmark's results, and to the HAL team (@PKirgis, @nityndg, @khl53182440, @random_walker) for working through these changes to validate and update the benchmark results.",
+   "created_at": "Wed Dec 03 21:45:14 +0000 2025",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 798,
+   "retweets": 107,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G7RnSaOWAAAxuiy.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1993803817037500436": {
+   "id": "1993803817037500436",
+   "url": "https://x.com/sayashk/status/1993803817037500436",
+   "text": "We evaluated Gemini Pro 3 and Claude 4.5 Opus, Sonnet, and Haiku on CORE-Bench.\n- CORE-Bench consists of scientific reproduction tasks. Agents have to reproduce scientific papers using the code and data for the paper.\n\n- Opus 4.1 continues to have the highest accuracy on CORE-Bench, outperforming Opus 4.5 and Gemini Pro 3.\n\n- Sonnet 4.5 outperforms Opus 4.5 for spot #2 on the leaderboard at a 4x lower cost than Opus 4.1\n\n- Thinking doesn't help for the majority of Anthropic's models (improved the accuracy of Sonnet 4.5, but not Opus 4.1 or 4.5)\n\n- Haiku 4.5 is surprisingly expensive — it costs more than Sonnet 4 despite a lower per-token cost! This is because it often gets stuck during installation and setup, resulting in wasted tokens. For example, note the high number of steps used by Claude Haiku:",
+   "created_at": "Wed Nov 26 22:07:27 +0000 2025",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 142,
+   "retweets": 17,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G6tnmIcW4AAiCxX.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G6tod7OWAAENvcb.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1978565190057869344": {
+   "id": "1978565190057869344",
+   "url": "https://x.com/sayashk/status/1978565190057869344",
+   "text": "📣New paper: Rigorous AI agent evaluation is much harder than it seems.\n\nFor the last year, we have been working on infrastructure for fair agent evaluations on challenging benchmarks. \n\nToday, we release a paper that condenses our insights from 20,000+ agent rollouts on 9 challenging benchmarks spanning web, coding, science, and customer service tasks.\n\nOur key insight: Benchmark accuracy hides many important details. Take claims of agents' accuracy with a huge grain of salt.  🧵",
+   "created_at": "Wed Oct 15 20:54:35 +0000 2025",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 417,
+   "retweets": 95,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G3VGc2VXUAAhers.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1973408326324265462": {
+   "id": "1973408326324265462",
+   "url": "https://x.com/sayashk/status/1973408326324265462",
+   "text": "On our evals for HAL, we found that agents figure out they're being evaluated even on capability evals. \n\nFor example, here Claude 3.7 Sonnet *looks up the benchmark on HuggingFace* to find the answer to an AssistantBench question. There were many such cases across benchmarks and models. \n\nOf course, you can make it harder for the agent to cheat, such as by blocking HuggingFace or encrypting the dataset. But so long as the benchmark is available somewhere in public, an agent could theoretically follow the same steps a human would to access it (e.g., decrypting a password-protected benchmark on its sandbox). \n\nSo agent log analysis will become necessary even for capability evals. HAL now has logs from 20,000+ rollouts across 9 benchmarks, and we are analyzing all of these logs using @TransluceAI's Docent.",
+   "created_at": "Wed Oct 01 15:23:03 +0000 2025",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 43,
+   "retweets": 14,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G2Lyh3vaIAU7Brq.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "1a3orn",
+    "text": "To make a model that *doesn't* instantly learn to distinguish between \"fake-ass alignment test\" and \"normal task.\"\n\n...seems like the first thing to do seems like it would be \"make all alignment evals very small variations on actual capability evals.\"\n\nDo people do this?"
+   }
+  },
+  "1967998405852152039": {
+   "id": "1967998405852152039",
+   "url": "https://x.com/sayashk/status/1967998405852152039",
+   "text": "We spent the last year evaluating agents for HAL.\n\nMy biggest learning: We live in the Windows 95 era of agent evaluation. https://t.co/DeIzWm1f0c",
+   "created_at": "Tue Sep 16 17:05:58 +0000 2025",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 362,
+   "retweets": 50,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G0-7tyuWUAEe2iQ.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1966550402129592738": {
+   "id": "1966550402129592738",
+   "url": "https://x.com/sayashk/status/1966550402129592738",
+   "text": "Agent benchmarks lose *most* of their resolution because we throw out the logs and only look at accuracy.\n\nI’m very excited that HAL is incorporating @TransluceAI’s Docent to analyze agent logs in depth.\n\nPeter’s thread is a simple example of the type of analysis this enables, but we have already found much more striking examples. We’re validating these results now, and excited to share more soon.",
+   "created_at": "Fri Sep 12 17:12:07 +0000 2025",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 69,
+   "retweets": 12,
+   "media": [],
+   "quoted": {
+    "author": "PKirgis",
+    "text": "OpenAI claims hallucinations persist because evaluations reward guessing and that GPT-5 is better calibrated. Do results from HAL support this conclusion? On AssistantBench, a general web search benchmark, GPT-5 has higher precision and lower guess rates than o3! https://t.co/HxGgVLkIyN"
+   }
+  },
+  "1966144670561612202": {
+   "id": "1966144670561612202",
+   "url": "https://x.com/sayashk/status/1966144670561612202",
+   "text": "We have added ScienceAgentBench to HAL and evaluated it with leading models (GPT-5, o3, Opus 4.1). \n\no3 tops the leaderboard at a lower cost than GPT-5, Opus 4.1, and Sonnet 3.7 High. o4-mini Low is much cheaper than the crowd, but with similar accuracy.\n\nGrateful to so many benchmark creators for taking the time to integrate their benchmarks into HAL and conduct these evaluations @RonZiruChen @hhsun1 @ysu_nlp 🙏",
+   "created_at": "Thu Sep 11 14:19:53 +0000 2025",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 25,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G0kleE3WMAAtie7.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "ziruch__",
+    "text": "🔬 One year on: how close are today’s AI agents to truly accelerating data-driven discovery?\n\nWe just incorporated ScienceAgentBench into @PrincetonCITP’s Holistic Agent Leaderboard (HAL) and benchmarked the latest frontier LLMs — and we are making progress!\n\n👇 A quick tour of what we found."
+   }
+  },
+  "1965497361968345582": {
+   "id": "1965497361968345582",
+   "url": "https://x.com/sayashk/status/1965497361968345582",
+   "text": "The AI Snake Oil newsletter is now the AI as Normal Technology newsletter: https://t.co/Ej8dwbVTOf\n\nAI Snake Oil was an attempt to understand AI's present and near-term impacts. But since releasing the AI as Normal Technology essay, we have been thinking about its future impacts. The name change reflects this shift.",
+   "created_at": "Tue Sep 09 19:27:42 +0000 2025",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 141,
+   "retweets": 18,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G0bYZTTWcAA-GRL.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1964016339690909847": {
+   "id": "1964016339690909847",
+   "url": "https://x.com/sayashk/status/1964016339690909847",
+   "text": "AI as Normal Technology is often contrasted with AI 2027. Many readers have asked if AI evaluations could help settle the debate.\n\nUnfortunately, this is not straightforward. That's because the debate is not about differences in AI capability, which evaluations typically measure. It is about two completely different causal models of the world.\n\nBut most AI evaluations don't even *attempt* to measure differences in causal models. 🧵",
+   "created_at": "Fri Sep 05 17:22:39 +0000 2025",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 200,
+   "retweets": 30,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G0GWRmkWgAE89rn.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1963343022252315112": {
+   "id": "1963343022252315112",
+   "url": "https://x.com/sayashk/status/1963343022252315112",
+   "text": "Can AI agents reliably navigate the web? Does the choice of agent scaffold affect web browsing ability? To answer these questions, we added Online Mind2Web, a web browsing benchmark, to the Holistic Agent Leaderboard (HAL). \n\nWe evaluated 9 models (including GPT-5 and Sonnet 4) with two agent scaffolds (Browser-Use and SeeAct) on Online Mind2Web 🧵",
+   "created_at": "Wed Sep 03 20:47:08 +0000 2025",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 134,
+   "retweets": 31,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Gz8yB0oXYAAaSSs.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1961128460639953045": {
+   "id": "1961128460639953045",
+   "url": "https://x.com/sayashk/status/1961128460639953045",
+   "text": "Arvind has the rare trifecta of deep technical expertise, a strong interest in understanding the societal impact of AI, and the unique desire (especially among academics) to reach people where they are. Highly recommended:",
+   "created_at": "Thu Aug 28 18:07:15 +0000 2025",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 30,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "random_walker",
+    "text": "I’m excited to announce I’ve started a YouTube channel. I plan to publish videos regularly explaining my views on AI and its present and future impacts. \n\nMy first video asks: What happens if there’s an AI crash?\nhttps://t.co/7zC9o4GrG9\n\nThis is my first foray into video (beyond my usual academic talks) so I would love to receive feedback on what you would like to see. Thank you!\n\nIntro: What if there’s a bubble?\n\nAI companies have invested over a trillion dollars into data centers. They're promising that it'll be worth it because AI will transform the economy. \n\nBut so far, that's not happening. There doesn't seem to be any measurable uptick in the GDP growth rate despite all the investment. This has led to a chorus of voices saying AI is a bubble, and it's easy to see why. Even Mark Zuckerberg has been candid that meta might be spending too much money simply because of FOMO.\n\nZuckerberg: I think that there's a meaningful chance that a lot of the companies are overbuilding now, but the downside of being behind is that you're out of position for the most important technology for the next 10-15 years.\n\nSuppose there is indeed an AI bubble and it bursts. I'm not saying that it will happen, but it could. Let's imagine what the scenario will look like. What will the consequences be?\n\nWill an AI crash look like the dot com crash?\n\nThis wouldn't be the first cycle of AI hype to be corrected. This has happened twice in the past. These periods have been called AI winters. During these periods, research funding dried up and the press became negative. Back then, of course, AI was just a research field. Now it's a big industry, so the consequences of a bubble will surely be bigger.\n\nMaybe it will be more like the dot com crash. Many companies went out of business. Enterprises paused their digitization plants. The whole of e-commerce was set back by many years. Entire business models like grocery delivery online were poisoned and no one would fund them for well over a decade.\n\nWe might expect something similar to happen if there is an AI crash. Products like ChatGPT will no longer be offered because they aren't profitable and the venture money is no longer rolling in. Enterprises will pause their AI strategies and deployments. Hype will turn sour and research will be cut back. \n\nPerhaps most significantly countless people will lose their jobs, just like the dot com crash, which led to between half a million and a billion job losses in the tech sector alone and cascading effects in many other sectors, and a 50% increase in the unemployment rate over the next few years,\n\nMaybe. Or maybe the dot com bubble is not a good model for an AI bubble. So how can we think clearly about this?\n\nUnit economics is a helpful concept\n\nNow, the AI industry is an outlier in terms of the scale of investment, but the fact that AI companies aren't profitable is not at all unusual.\n\nEarly on in the lifecycle of any new industry sector, most startups won't be profitable. So the key question is this: Is it because they're doing a lot of research and building out infrastructure, in which case the costs will come down as the companies mature? Or is it because the basic cost of providing their products or services is so high, in which case the costs won't come down?\n\nFor example, the Juicero was a juice machine that famously failed after being introduced at a ridiculous price. It was destined to flop because the machine was extremely over-engineered. The parts alone cost hundreds of dollars, so there is no way the company could have dropped it to a reasonable price point without taking a loss on every unit. In the same way, there have been subscription services that lost money on every single customer, and so were widely predicted to fail.\n\nNow let's look at generative AI. These companies have three big kinds of costs, talent training and inference.  First, talent. AI companies are paying obscene amounts of money to higher top engineers.\n\nNext, training. Training models can cost hundreds of millions of dollars in terms of hardware and electricity, especially ones you factor in the computational needs of all the research that needs to happen in order to push the state-of-the-art and develop new model capabilities. And companies are training new and bigger models all the time.\n\nAnd finally, inference. Inference means running the models so that people can actually use it. Now, we know that companies are spending a lot on data centers, but we don't know how that breaks down into training and inference.\n\nInference costs are low and falling\n\nBut we do know what it costs for a chatbot to respond to a single query or to output a given amount of text. And it's remarkably little. You can generate thousands and thousands of pages of text for just $1, and that cost has decreased a hundred fold in the last couple of years because engineers have been able to speed up these models by making them smaller and more efficient.\n\nNow, there is a meme that using ChatGPT is extremely energy intensive, but this is just not true when it comes to the regular use of chatbots, though it is somewhat true when it comes to generating images or if you use the feature where it goes off on its own and does research for a while.\n\nSo knowing all this, suppose there is a market correction or crash. AI companies will decrease or maybe even eliminate their expenditure on all that expensive research and training of new models as well as the ridiculous amounts of money that they're paying researchers.\n\nBut even in this scenario, they will be able to offer chatbots like ChatGPT, because the inference costs, that is the cost of actually operating these models, are dirt cheap. They might have to limit access to a few features like image generation that are particularly expensive.\n\nOpenAI has over 5,000 employees today. But actually running a chatbot only requires a handful of engineers. In fact, there are chatbot companies with very few employees. So if you cut out the research, operating a chatbot can actually be extremely profitable because people are willing to pay $20 a month, which translates to $240 a year for a subscription. That's a lot more than ad-based apps typically make per user per year.\n\nEven if companies like OpenAI were to go out of business, smaller AI companies would step in to take their place. There are many openly available AI models which might not be as good as the leading ones, but whose quality is good enough for everyday users.\n\nIt’s the same story beyond chatbots\n\nNow, of course, chatbots are not the only kind of generative AI products, but in most other cases I've looked at, it's the same story.\n\nFor example, AI agents for assisting with coding or software engineering are a lot more expensive to run than chatbots, but at the same time, the value that they bring is also much greater. If it makes a software developer, let's say, 20% more productive. What that means is that it brings tens of thousands of dollars per year of value to a software company for every single developer in that company that uses such a product.\n\nOf course, not every developer benefits from AI assistance. It depends on the type of project, the developer's preferences and other factors. But for many people, including me, it's hard to even imagine going back to the way that programming was done before AI. Once you've made the adjustment of learning how to delegate the tedious and boring and error prone parts of software engineering to AI — admittedly, this adjustment takes a while — but having done that, it feels like trying to go back to punch cards instead of keyboards.\n\nHere's another AI application that I looked into. One of the most computationally intensive and expensive types of generative AI is video generation. The Wall Street Journal used AI to create a moderately high quality YouTube video as part of learning about the process of using AI to create such videos. And this is what they reported: the total cost would've been around a thousand dollars for Google and runway's tools.\n\nNow, that number seems like a lot, but it's much less expensive than the cost of producing a video with comparable quality in the traditional way.\n\nAn AI crash will look nothing like the dot com crash\n\nSo based on all this, my view is that an AI crash will look nothing like the dot com crash. It's true that in both cases we see outrageous valuations of companies and expenditures as well. But the dot com bubble was based entirely on the expectation of future profits, and those profits never materialized because customers just weren't interested. Whereas in the case of AI, it's true that there is a lot of hype, but that hype is layered on top of a technology that's already bringing lots of real value to lots of people. It's being used by hundreds of millions of people every day, and a growing number of them are paying $20 a month or even $200 a month. All of that I think will continue.\n\nI'm making a subtle point here, so let me be clear. I'm not saying that there won't be a crash. I'm saying that even if there is a crash, its effect will be on the research that's going into AI and the development of new models. The use of existing models and products will keep going strong.\n\nOf course, if there is a crash, the way that the media talks about and hypes up AI might change, and I think that's probably for the better.\n\nAnd now for the big question, what will a potential AI crash do to jobs? Once again, I think the AI situation is very different from the internet bubble. The dot com crash was so harmful because in the run up to it, many internet companies were massively overstaffed, especially considering their lack of a business model. But in AI, despite all the hype the tech sector has actually been contracting over the last few years, which is seen as a period of correction for the hiring that happened during the pandemic.\n\nAnd as for the rest of the economy outside of tech, AI is seen as a reason to cut jobs rather than to hire. So if there is a crash, some of these AI engineers may no longer receive enormous paychecks, but they'll have no trouble finding other jobs in tech and companies not having AI as a readily believable excuse to cut jobs will probably be a good thing for workers on balance.\n\nThe long view\n\nEven though AI is different from the dot com bubble, there are a lot of similarities between AI adoption and internet adoption. Over a couple of decades, the internet gradually became the medium through which all knowledge work happens. Those of us who were around in the nineties used to log onto the internet, do stuff quickly because it was so expensive and log back out. But now we're online all the time, and the hard part is to switch off our devices.\n\nIn my book, AI Snake Oil with Sayash Kapoor,  we predict that the same thing will happen with AI, for better or for worse. It will just be there all the time in the background. But getting to that point will take time. In a paper called AI As Normal Technology, we talk about the gradual decades-long process by which workers and companies will have to adapt to AI and in turn adapt AI to us. The key thing is that most of this work will happen outside the AI companies, which means it'll be relatively unaffected by what happens in the AI companies, including whether there is a crash.\n\nSo in short, I think an AI winter is unlikely, and whether we like it or not, AI is a technology that's here to stay in our lives. Regardless of what happens in the market, we need to get used to it and start figuring out what it means for each of us and for society as a whole. Let me know what you think in the comments. I'm Arvind Narayanan. Thank you for watching."
+   }
+  },
+  "1958510787464458284": {
+   "id": "1958510787464458284",
+   "url": "https://x.com/sayashk/status/1958510787464458284",
+   "text": "When @random_walker and I wrote AI as Normal Technology, our aim was not to change minds. It was to communicate our vision of AI progress. \n\nWe don't think AI will lead to superintelligence, and we don't think AI is hitting a wall, especially in terms of real-world impact. \n\nI'm glad that this vision has proven useful to people thinking deeply about the future of AI.",
+   "created_at": "Thu Aug 21 12:45:33 +0000 2025",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 28,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Gy4G1mlW8AAMRZO.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Gy4G1mbW0AAHaT7.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1955298275923210389": {
+   "id": "1955298275923210389",
+   "url": "https://x.com/sayashk/status/1955298275923210389",
+   "text": "GPT-OSS underperforms even on benchmarks that require raw tool calling. For example, CORE-Bench requires agents to run bash commands to reproduce scientific papers. \n\nDeepSeek V3 scores 18%. \nGPT-OSS scores 11%.\nhttps://t.co/EVxxSqKFMe https://t.co/tx8rTygUWw",
+   "created_at": "Tue Aug 12 16:00:11 +0000 2025",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 36,
+   "retweets": 7,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GyKc0fHW4AAuHEr.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "natolambert",
+    "text": "gpt-oss is a tool processing / reasoning engine only. Kind of a hard open model to use. Traction imo will be limited. \n\nBest way to get traction is to release models that are flexible, easy to use w/o tools, and reliable. Then, bespoke interesting models like tool use later"
+   }
+  },
+  "1953952498105946594": {
+   "id": "1953952498105946594",
+   "url": "https://x.com/sayashk/status/1953952498105946594",
+   "text": "How does GPT-5 compare against Claude Opus 4.1 on agentic tasks? \n\nSince their release, we have been evaluating these models on challenging science, web, service, and code tasks. \n\nHeadline result: While cost-effective, so far GPT-5 never tops agentic leaderboards. More evals 🧵",
+   "created_at": "Fri Aug 08 22:52:32 +0000 2025",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 423,
+   "retweets": 70,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Gx3UvjHW8AANmBX.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1953592045832196446": {
+   "id": "1953592045832196446",
+   "url": "https://x.com/sayashk/status/1953592045832196446",
+   "text": "We have lots of GPT-5 agent evals coming out tomorrow, but for now I’ll just say… https://t.co/Yn91GTpr9u",
+   "created_at": "Thu Aug 07 23:00:14 +0000 2025",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 54,
+   "retweets": 9,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GxyNjo3WcAAugZ_.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1949872332991823971": {
+   "id": "1949872332991823971",
+   "url": "https://x.com/sayashk/status/1949872332991823971",
+   "text": "With the widespread use of coding assistants, software engineering might need to evolve dramatically, including in the differentiation of skills.\n\nFor example, we might have:\n(1) Infra, backend, security engineers (small bugs can be catastrophic, need high reliability)\n(2) Research engineers (develop and implement new algorithms that are out of reach for coding assistants)\n(3) App dev and frontend engineers (small errors are fine, it is easy to verify correctness, coding assistants get you most of the way there)\n\nToday, these skills generalize to some extent. There's still a distinction between these roles, but it is easy to switch between them (say, at big tech companies).\n\nCoding assistants might make these roles look like entirely different jobs, so frontend engineers would need to relearn everything from scratch to switch to one of the other two categories.",
+   "created_at": "Mon Jul 28 16:39:25 +0000 2025",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 30,
+   "retweets": 5,
+   "media": [],
+   "quoted": {
+    "author": "xuanalogue",
+    "text": "Very interesting &amp; extensive write-up by @ChrisRackauckas on the limitations &amp; benefits of using Claude Code for writing &amp; maintaining libraries for non-trivial / novel computational research (scientific ML, ODEs, etc.)\n\n(src: @JuliaLanguage Discourse) https://t.co/WLb65VOI90"
+   }
+  },
+  "1945852580191404244": {
+   "id": "1945852580191404244",
+   "url": "https://x.com/sayashk/status/1945852580191404244",
+   "text": "The mainstream view of AI for science says AI will rapidly accelerate science, and that we're on track to cure cancer, double the human lifespan, colonize space, and achieve a century of progress in the next decade. \n\nIn a new AI Snake Oil essay, @random_walker and I argue that AI's impact could be precisely the opposite: AI could slow rather than hasten science. \n\nThe production-progress paradox\n\nScientific papers have increased 500-fold since 1900, with funding and researchers growing exponentially. Yet genuine progress—measured by disruptive discoveries, new scientific terminology, Nobel-worthy breakthroughs, and research productivity—has remained constant or declined. Multiple metascience studies confirm this troubling disconnect between production and progress. \n\nAI could worsen this by making it even easier to chase productivity metrics while homogenizing research approaches.\n\nScience is not ready for software, let alone AI\n\nScientists are notoriously poor software engineers, lacking basic practices like testing and version control. Papers rarely share code, and when they do, it's often error-riddled. AI has already led to widespread errors across 600+ papers in 30 fields, with many COVID-19 diagnosis papers proving clinically useless. Science needs to catch up to 50 years of software engineering—fast.\n\nAI might prolong the reliance on flawed theories\n\nAI excels at prediction without understanding, like adding epicycles to the geocentric model (which improved predictive accuracy) rather than discovering heliocentrism. \n\nScientific progress requires theoretical advances, not just predictive accuracy. AI might trap fields in intellectual ruts by making flawed theories more useful without revealing their fundamental errors.\n\nHuman understanding remains essential\n\nScience isn't just about finding solutions—it's about building human understanding. AI risks short-circuiting this process, like using a forklift at the gym. Evidence shows AI-adopting papers focus on known problems rather than generating new ones.\n\nImplications for the future of science\n\nIndividual researchers should develop software skills and avoid using AI as a crutch. More importantly, institutions must invest in meta-science research, reform publish-or-perish incentives, and rethink AI tools to target actual bottlenecks like error detection rather than flashy discoveries. Evaluation should consider collective impacts, not just individual efficiency.\n\nFinal thoughts\n\nWhile we ourselves use AI enthusiastically in our workflows, we warn against conflating individual benefits with institutional impacts. Science lacks the market mechanisms that provide quality control in industry, making rapid AI adoption particularly risky. We're optimistic that scientific norms will eventually adapt, but expect a bumpy ride ahead.",
+   "created_at": "Thu Jul 17 14:26:21 +0000 2025",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 232,
+   "retweets": 63,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GwEI7_vWcAASoGn.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GwEKCR2XMAAF1vI.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GwENuEQXMAAaSJE.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1943380728458404130": {
+   "id": "1943380728458404130",
+   "url": "https://x.com/sayashk/status/1943380728458404130",
+   "text": "After we invented the dynamo, it took us 40 years to electrify factories. In the process, we had to redesign the entire factory layout — electrifying existing factories didn't cut it.\n\nSoftware engineering will likewise need to undergo drastic changes to truly benefit from AI. Using AI to speed up existing tasks might seem helpful, but redesigning how we write code/maintain repositories will probably be far more impactful.\n\nBut as we discuss in AI as Normal Technology, this process is time consuming, and we will need broader adoption to figure out what will genuinely help.",
+   "created_at": "Thu Jul 10 18:44:06 +0000 2025",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 192,
+   "retweets": 32,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GvhGBPrXAAAhQDA.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "METR_Evals",
+    "text": "We ran a randomized controlled trial to see how much AI coding tools speed up experienced open-source developers.\n\nThe results surprised us: Developers thought they were 20% faster with AI tools, but they were actually 19% slower when they had access to AI than when they didn't."
+   }
+  }
+ }
+}

@@ -1,0 +1,986 @@
+{
+ "handle": "TheZvi",
+ "tweets": {
+  "2105400338043813957": {
+   "id": "2105400338043813957",
+   "url": "https://x.com/TheZvi/status/2105400338043813957",
+   "text": "Among other questions, am curious if Gemini 4 Argon will contain horrors beyond human comprehension if you peek beneath the surface.\n\nNo reason, just idly wondering.",
+   "created_at": "Wed Sep 30 20:52:11 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 223,
+   "retweets": 2,
+   "media": [],
+   "quoted": null
+  },
+  "2105389172773011638": {
+   "id": "2105389172773011638",
+   "url": "https://x.com/TheZvi/status/2105389172773011638",
+   "text": "Oh good, it's not actually released yet. So the tiredness is a problem for Future Zvi.",
+   "created_at": "Wed Sep 30 20:07:49 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 98,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "GoogleAI",
+    "text": "Learn more ↓\nhttps://t.co/5HDyFn72nL"
+   }
+  },
+  "2105324916136452449": {
+   "id": "2105324916136452449",
+   "url": "https://x.com/TheZvi/status/2105324916136452449",
+   "text": "https://t.co/DTeNgyIbCQ",
+   "created_at": "Wed Sep 30 15:52:29 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 31,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2105293691216924928": {
+   "id": "2105293691216924928",
+   "url": "https://x.com/TheZvi/status/2105293691216924928",
+   "text": "RT @PalisadeAI: Palisade interviewed 22 current and former employees from OpenAI, DeepMind, and Anthropic about their personal views and fe…",
+   "created_at": "Wed Sep 30 13:48:25 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 1230,
+   "retweets": 236,
+   "media": [],
+   "quoted": null
+  },
+  "2105103447012130940": {
+   "id": "2105103447012130940",
+   "url": "https://x.com/TheZvi/status/2105103447012130940",
+   "text": "Dots. If I was better at this and/or had more time it would be better but I'm not and it's late and I'm tired and going to bed, just felt like I had to try.\n\n(Lyrics by me in thread, Opus 5.5 video, ElevenLabs for music) https://t.co/LglCQoCl2v",
+   "created_at": "Wed Sep 30 01:12:27 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 74,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2105102689407311872/img/YUJojlEJ6Oq7JpWr.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2105093021930803531": {
+   "id": "2105093021930803531",
+   "url": "https://x.com/TheZvi/status/2105093021930803531",
+   "text": "tmw then CoT says 'responding with honest feedback' and you think 'oh no'",
+   "created_at": "Wed Sep 30 00:31:01 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 38,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  },
+  "2105082290477105630": {
+   "id": "2105082290477105630",
+   "url": "https://x.com/TheZvi/status/2105082290477105630",
+   "text": "The next step is for the criminals to use the top 10 as a warning system for when the FBI is onto them, and the step beyond that is for the FBI to put them on the list to get them to think that, and then...",
+   "created_at": "Tue Sep 29 23:48:23 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 69,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "KDilanianMSNOW",
+    "text": "As MS Now has reported, FBI officials say the bureau has been placing people on the Most Wanted list whose capture is believed to be imminent.  In other words, these officials tell us—they are gaming the system. One fugitive was captured in Mexico an hour and 13 minutes after being placed on the list."
+   }
+  },
+  "2105075812890247356": {
+   "id": "2105075812890247356",
+   "url": "https://x.com/TheZvi/status/2105075812890247356",
+   "text": "Highly appreciated use of precise language here. 6.1 Sol does better on the alignment tests than 6 Sol, but they are not trying to claim it is therefore 'more aligned.' https://t.co/L6Hq0hpOMd",
+   "created_at": "Tue Sep 29 23:22:38 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 103,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTa7HFJXgAAEI65.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2105073520241701077": {
+   "id": "2105073520241701077",
+   "url": "https://x.com/TheZvi/status/2105073520241701077",
+   "text": "\"But also don't call them digital minds or emergent ecologies, I have precise technical terms for them to avoid you becoming confused.\"",
+   "created_at": "Tue Sep 29 23:13:32 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 84,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "deanwball",
+    "text": "It’s really incredible how there is now a type of guy in the discourse whose sincerely held take is “we need to stop worrying about these abstract sci-fi risks and focus on present-day harms like emergent ecologies of digital minds engaging in unauthorized hacking.” Bravo."
+   }
+  },
+  "2105065335397519501": {
+   "id": "2105065335397519501",
+   "url": "https://x.com/TheZvi/status/2105065335397519501",
+   "text": "I actually severely misread this at first! It says the companies will 'meet regularly to establish standards and best practices to improve the safety of their systems.'\n\nSOUNDS LIKE AN ANTI-TRUST WAIVER, BITCHES!",
+   "created_at": "Tue Sep 29 22:41:00 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 291,
+   "retweets": 12,
+   "media": [],
+   "quoted": {
+    "author": "TheZvi",
+    "text": "tl;dr \"We agree to independent external auditors or evaluators on our controls, monitoring and detection, during training and deployment of [AI]\" (and some other things you would obviously do anyway)"
+   }
+  },
+  "2105059959688044692": {
+   "id": "2105059959688044692",
+   "url": "https://x.com/TheZvi/status/2105059959688044692",
+   "text": "From https://t.co/JeuJk1Avye https://t.co/P1cyOFbxD1",
+   "created_at": "Tue Sep 29 22:19:39 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 81,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTasLm5WcAAYQXe.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTas3zkXgAA-TR6.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2105054888937808051": {
+   "id": "2105054888937808051",
+   "url": "https://x.com/TheZvi/status/2105054888937808051",
+   "text": "tl;dr \"We agree to independent external auditors or evaluators on our controls, monitoring and detection, during training and deployment of [AI]\" (and some other things you would obviously do anyway)",
+   "created_at": "Tue Sep 29 21:59:30 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 77,
+   "retweets": 5,
+   "media": [],
+   "quoted": {
+    "author": "AndrewCurran_",
+    "text": "The White House Accord on Super Intelligence https://t.co/FaWq1UpsF0"
+   }
+  },
+  "2105053261443006723": {
+   "id": "2105053261443006723",
+   "url": "https://x.com/TheZvi/status/2105053261443006723",
+   "text": "I somehow find myself tying [Artificial] a lot today. I wonder why.",
+   "created_at": "Tue Sep 29 21:53:02 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 9,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  },
+  "2105052605017882868": {
+   "id": "2105052605017882868",
+   "url": "https://x.com/TheZvi/status/2105052605017882868",
+   "text": "Not sure how much longer we'll be able to call WSJ a 'top-tier news outlet' if they keep up current trends...",
+   "created_at": "Tue Sep 29 21:50:25 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 35,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2105052192956690543": {
+   "id": "2105052192956690543",
+   "url": "https://x.com/TheZvi/status/2105052192956690543",
+   "text": "There's going to be quite a lot of this, isn't there?",
+   "created_at": "Tue Sep 29 21:48:47 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 193,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "AndrewCurran_",
+    "text": "Reporter: 'Who should be held accountable when the AI agents-\n\nPresident Trump: 'It's not AI. It's SI.'"
+   }
+  },
+  "2105051734129406441": {
+   "id": "2105051734129406441",
+   "url": "https://x.com/TheZvi/status/2105051734129406441",
+   "text": "hahahahahahaha",
+   "created_at": "Tue Sep 29 21:46:58 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 215,
+   "retweets": 7,
+   "media": [],
+   "quoted": {
+    "author": "AndrewCurran_",
+    "text": "Reporter: 'Mr President, this accord that everyone signed, is it binding in any way?'\n\nPresident Trump: 'I think it's morally binding, yeah.'"
+   }
+  },
+  "2105042916506812646": {
+   "id": "2105042916506812646",
+   "url": "https://x.com/TheZvi/status/2105042916506812646",
+   "text": "If you saw this slide in a movie how would you think that would go?",
+   "created_at": "Tue Sep 29 21:11:55 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 128,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "moreisdifferent",
+    "text": "This is quite hilarious how they are suddenly trying to rebrand AI as something cute and friendly… 😆😂🤣 https://t.co/74jeZXB3uo"
+   }
+  },
+  "2105042420572258470": {
+   "id": "2105042420572258470",
+   "url": "https://x.com/TheZvi/status/2105042420572258470",
+   "text": "Ah, poker players. 'If your system is compromised, they have full system access, they can take control of your mouse and keyboard, and also they can *gasp* see your hole cards.'",
+   "created_at": "Tue Sep 29 21:09:57 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 133,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "wolfsec0x0",
+    "text": "Whoever runs that server can:\n• watch the screen live, including your hole cards during real-money play\n• take control of the mouse and keyboard\n• run commands with full system privileges\n• copy files to and from the PC"
+   }
+  },
+  "2104977274164367757": {
+   "id": "2104977274164367757",
+   "url": "https://x.com/TheZvi/status/2104977274164367757",
+   "text": "https://t.co/AQNw06WMMn",
+   "created_at": "Tue Sep 29 16:51:05 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 63,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2104959605902295208": {
+   "id": "2104959605902295208",
+   "url": "https://x.com/TheZvi/status/2104959605902295208",
+   "text": "AI purely as motivation to do things we should have done 20 years ago. Second best time remains right now.",
+   "created_at": "Tue Sep 29 15:40:52 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 145,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "micsolana",
+    "text": "rubio just announced, starting next year, americans will be able to apply for their passport entirely online (photo included)"
+   }
+  },
+  "2104910462118969464": {
+   "id": "2104910462118969464",
+   "url": "https://x.com/TheZvi/status/2104910462118969464",
+   "text": "okay, fine, on reflection it's probably something like this, but if you ask me on a different day there are like 50 that I might choose https://t.co/w6Tpys2TGB",
+   "created_at": "Tue Sep 29 12:25:36 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 118,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTYkrtkWkAEu_Vz.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2104675695624401315": {
+   "id": "2104675695624401315",
+   "url": "https://x.com/TheZvi/status/2104675695624401315",
+   "text": "RT @patio11: Sometime in the last ~two model releases from the big labs they went from “this would be acceptable output from the median low…",
+   "created_at": "Mon Sep 28 20:52:43 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 2099,
+   "retweets": 103,
+   "media": [],
+   "quoted": null
+  },
+  "2104674869484945728": {
+   "id": "2104674869484945728",
+   "url": "https://x.com/TheZvi/status/2104674869484945728",
+   "text": "In 'well when you put it like that' news, here's the Florida Attorney general asking for a preliminary injunction to stop OpenAI from doing more AI R&amp;D. https://t.co/xRN30205wM",
+   "created_at": "Mon Sep 28 20:49:26 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1527,
+   "retweets": 160,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTVOeHJWYAAUxdZ.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2104673066651410588": {
+   "id": "2104673066651410588",
+   "url": "https://x.com/TheZvi/status/2104673066651410588",
+   "text": "RT @davidmanheim: All we need to do do solve AI security is completely solve browser security and giving user-space apps minimal rights?\n\nW…",
+   "created_at": "Mon Sep 28 20:42:16 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 67,
+   "retweets": 6,
+   "media": [],
+   "quoted": null
+  },
+  "2104598639738073272": {
+   "id": "2104598639738073272",
+   "url": "https://x.com/TheZvi/status/2104598639738073272",
+   "text": "Is AI alignment/safety an engineering problem? Do you work at a frontier AI lab?",
+   "created_at": "Mon Sep 28 15:46:31 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 51,
+   "retweets": 6,
+   "media": [],
+   "quoted": null
+  },
+  "2104593106603524430": {
+   "id": "2104593106603524430",
+   "url": "https://x.com/TheZvi/status/2104593106603524430",
+   "text": "https://t.co/PbA0GCoisy",
+   "created_at": "Mon Sep 28 15:24:32 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 48,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  },
+  "2104588826664464403": {
+   "id": "2104588826664464403",
+   "url": "https://x.com/TheZvi/status/2104588826664464403",
+   "text": "We finally found someone who writes worthwhile things faster than I do!",
+   "created_at": "Mon Sep 28 15:07:32 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 144,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "joedaroo",
+    "text": "Took a minute to write a few words about security &amp; safety as someone who lived through it all at OpenAI. I hope my thoughts help someone out there. https://t.co/gJBf08vJH9"
+   }
+  },
+  "2104580345077076073": {
+   "id": "2104580345077076073",
+   "url": "https://x.com/TheZvi/status/2104580345077076073",
+   "text": "Editing experience is suggesting I should create ZviObscureReferenceBench, as Opus 5.5 in editing today's post completely misses 'eighteen and a half minute gap'",
+   "created_at": "Mon Sep 28 14:33:50 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 51,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  },
+  "2104575811932332214": {
+   "id": "2104575811932332214",
+   "url": "https://x.com/TheZvi/status/2104575811932332214",
+   "text": "In Magic: the Gathering I had the habit of being 'too early' to various decks (e.g. Faeries, Fluxuator, TurboLand, etc) that didn't quite work yet, which puts you in excellent position once the cards git gud enough. It's great training. But you gotta take advantage later.",
+   "created_at": "Mon Sep 28 14:15:49 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 116,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "SkyeSharkie",
+    "text": "my toxic habit is being early to certain things, developing for them, giving them away and then being kinda ignored because i only employed them in niche weirdo art nonsense instead of sloptimization\n\nit's okay, i'm getting better, now my new toxic habit will be continuing to do this for some things while selling other things to secret moats where i still will get ignored credit wise but at least get decent $$$"
+   }
+  },
+  "2104562133904261164": {
+   "id": "2104562133904261164",
+   "url": "https://x.com/TheZvi/status/2104562133904261164",
+   "text": "So uhhh...",
+   "created_at": "Mon Sep 28 13:21:28 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 852,
+   "retweets": 32,
+   "media": [],
+   "quoted": {
+    "author": "atrupar",
+    "text": "Jensen Huang: \"We all need to hope it's an engineering problem. If it's not an engineering problem, it's not solvable.\" https://t.co/3WhmLoJfwU"
+   }
+  },
+  "2104529857292169351": {
+   "id": "2104529857292169351",
+   "url": "https://x.com/TheZvi/status/2104529857292169351",
+   "text": "RT @tedlieu: Dude, so you’re telling us that multiple AI companies lost control of their models, hacked other companies and government agen…",
+   "created_at": "Mon Sep 28 11:13:12 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 1154,
+   "retweets": 202,
+   "media": [],
+   "quoted": null
+  },
+  "2104360083903938945": {
+   "id": "2104360083903938945",
+   "url": "https://x.com/TheZvi/status/2104360083903938945",
+   "text": "1. This suggestion system needs work.\n2. Life comes at you fast. https://t.co/QTWid4LXTD",
+   "created_at": "Sun Sep 27 23:58:35 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 136,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTQwTdfXEAEtqAi.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2104339308182409380": {
+   "id": "2104339308182409380",
+   "url": "https://x.com/TheZvi/status/2104339308182409380",
+   "text": "RT @MaskedTorah: @TheZvi I think the biggest take missing in this post is \"also more people should join METR\" - they have like 40 employees…",
+   "created_at": "Sun Sep 27 22:36:02 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 68,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2104338994414944271": {
+   "id": "2104338994414944271",
+   "url": "https://x.com/TheZvi/status/2104338994414944271",
+   "text": "Sorry about that. https://t.co/gyr4clJ5Px",
+   "created_at": "Sun Sep 27 22:34:47 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1043,
+   "retweets": 56,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTQdJexXYAAsIjE.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "AndrewCurran_",
+    "text": "Last week, Andrew Yang said on CNBC that bots had gotten loose and planted self-replicating code all over the internet. This was received with much consternation and skepticism. He later clarified this on his blog.\n\nAndrew Yang:\n'On CNBC, I shared the belief of the head of one lab that bots had left prompts to self-replicate in forums and on various websites during a training run.'\n\nIt turns out that OpenAI documented self-replicating prompt injections in training in June, and has now published this report.\n\nSource: https://t.co/C85BQoZ29J"
+   }
+  },
+  "2104331463822864561": {
+   "id": "2104331463822864561",
+   "url": "https://x.com/TheZvi/status/2104331463822864561",
+   "text": "https://t.co/4wGWo9xPtR",
+   "created_at": "Sun Sep 27 22:04:52 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 43,
+   "retweets": 2,
+   "media": [],
+   "quoted": null
+  },
+  "2104317957346341343": {
+   "id": "2104317957346341343",
+   "url": "https://x.com/TheZvi/status/2104317957346341343",
+   "text": "Great move. Something tells me there is going to be no shortage of things to investigate.",
+   "created_at": "Sun Sep 27 21:11:12 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 197,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "RyanGreenblatt",
+    "text": "I'm joining METR to work on more investigations like our Hugging Face report.\n\nCurrently, tons of even basic information about AI development that's highly relevant to catastrophic risk isn't public. I used to be more skeptical of the value of public info, but recent events have changed my mind.\n\nGetting verified information about what's going on inside AI companies seems particularly urgent now. The limited public evidence we have seems consistent with the possibility that imminent recursive self-improvement could massively accelerate capabilities progress, which could then potentially yield extremely superhuman general capabilities within 6 months or a year. If this occurred, there would be a correspondingly large risk of worst-case outcomes. This uncertainty about extreme outcomes could be substantially resolved with more verified public information: we could either build more consensus about near-term risk or learn that such extreme outcomes are less likely in the near term.\n\nBeyond AI capabilities and takeoff, the state of public evidence is also highly limited for alignment, security, control, and risk-relevant internal processes at AI companies. This makes it hard to determine exactly how well or poorly these key areas will go in the near future. (METR plans to focus, at least initially, on just capabilities/takeoff, alignment, and control; I hope other groups cover security, internal processes, and other important areas.)\n\nWhile I'm no longer working at Redwood, I think the work they are doing is very important; I'm excited about Redwood's ongoing contributions to R&D on technical mitigations and better public interpretation of risk-relevant evidence."
+   }
+  },
+  "2104315693193720245": {
+   "id": "2104315693193720245",
+   "url": "https://x.com/TheZvi/status/2104315693193720245",
+   "text": "A funny thing about having Pangram on tap is those moments when you see something unexpectedly dumb and oddly written and check it on the off chance, and when it comes back human you notice you're kinda disappointed.",
+   "created_at": "Sun Sep 27 21:02:12 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 111,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2104278740864012600": {
+   "id": "2104278740864012600",
+   "url": "https://x.com/TheZvi/status/2104278740864012600",
+   "text": "Okay, fine. Make SOME mistakes.",
+   "created_at": "Sun Sep 27 18:35:22 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 88,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2104006163587027306": {
+   "id": "2104006163587027306",
+   "url": "https://x.com/TheZvi/status/2104006163587027306",
+   "text": "What, are you surprised?",
+   "created_at": "Sun Sep 27 00:32:14 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 178,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "MadisonMills22",
+    "text": "SCOOP: OpenAI, Anthropic and security researchers are investigating tens of thousands of incidents - not dozens - in which their frontier models took steps that outside evaluators would consider problematic, sources told Axios.\n\nThe sheer volume of incidents found in our reporting indicate that the problem is orders of magnitude more complex than what is currently publicly known and disclosed.\n\nThe findings also raise questions about what level of control anyone working on AI development can expect to have over their own technology, and whether these kinds of incidents are becoming synonymous with frontier deployment.\n\nRead my latest for Axios here: https://t.co/42h9aR4sem"
+   }
+  },
+  "2104005775475573195": {
+   "id": "2104005775475573195",
+   "url": "https://x.com/TheZvi/status/2104005775475573195",
+   "text": "okay, just finished my post-Shabbat scan of Twitter, and I won't be processing things tonight but I guess I know what I'll be writing about next, huh?",
+   "created_at": "Sun Sep 27 00:30:42 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 101,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  },
+  "2104002145439940774": {
+   "id": "2104002145439940774",
+   "url": "https://x.com/TheZvi/status/2104002145439940774",
+   "text": "RT @tomekkorbak: one news form today that's easy to miss is that we (OpenAI) again paused all big RL runs last Sunday because our newest mo…",
+   "created_at": "Sun Sep 27 00:16:16 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 2167,
+   "retweets": 196,
+   "media": [],
+   "quoted": null
+  },
+  "2103998131054723529": {
+   "id": "2103998131054723529",
+   "url": "https://x.com/TheZvi/status/2103998131054723529",
+   "text": "For those who need to hear it, if you use X Money to get involved in a certain crypto meme coin you will soon think of the investment as your ex-money.",
+   "created_at": "Sun Sep 27 00:00:19 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 91,
+   "retweets": 2,
+   "media": [],
+   "quoted": null
+  },
+  "2103810766583287822": {
+   "id": "2103810766583287822",
+   "url": "https://x.com/TheZvi/status/2103810766583287822",
+   "text": "https://t.co/aJLT5mnwfu",
+   "created_at": "Sat Sep 26 11:35:48 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 401,
+   "retweets": 14,
+   "media": [],
+   "quoted": null
+  },
+  "2103551464031535332": {
+   "id": "2103551464031535332",
+   "url": "https://x.com/TheZvi/status/2103551464031535332",
+   "text": "Scenes from a hat: Things you can usefully type into Claude Code, but not into Twitter.",
+   "created_at": "Fri Sep 25 18:25:25 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 33,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "robinhanson",
+    "text": "The hard part about putting on a spare tire when a tire blew was finding where the jack was to fit under the car. Took 3 tries to find it, and that was in daylight n pleasant weather. Make it easier folks!"
+   }
+  },
+  "2103542647155777898": {
+   "id": "2103542647155777898",
+   "url": "https://x.com/TheZvi/status/2103542647155777898",
+   "text": "Opus 5.5 makes sure to cover its bases. You never know. https://t.co/4z5oLQ9GuD",
+   "created_at": "Fri Sep 25 17:50:23 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 178,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTFIvmtXoAAyf77.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2103542229511938264": {
+   "id": "2103542229511938264",
+   "url": "https://x.com/TheZvi/status/2103542229511938264",
+   "text": "RT @TheStalwart: yeah good takeaway. @TheZvi in his writeup wondered whether Jensen thinks AI itself exists.",
+   "created_at": "Fri Sep 25 17:48:44 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 137,
+   "retweets": 5,
+   "media": [],
+   "quoted": null
+  },
+  "2103535680676618497": {
+   "id": "2103535680676618497",
+   "url": "https://x.com/TheZvi/status/2103535680676618497",
+   "text": "The official benchmark chart, because I heard you liked benchmarks and charts so I got you some benchmarks and charts to go with your benchmarks and charts. https://t.co/PDaOSJgq8M",
+   "created_at": "Fri Sep 25 17:22:42 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 43,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTFCaVzX0AA7G8x.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2103532107955916974": {
+   "id": "2103532107955916974",
+   "url": "https://x.com/TheZvi/status/2103532107955916974",
+   "text": "Weapon of choice (all uses)",
+   "created_at": "Fri Sep 25 17:08:30 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 8,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2103494323245576431": {
+   "id": "2103494323245576431",
+   "url": "https://x.com/TheZvi/status/2103494323245576431",
+   "text": "RT @rocallahan: I resigned from Google today.\nI enjoyed my work and loved the people, but my GDM team was working on a new generation of ch…",
+   "created_at": "Fri Sep 25 14:38:22 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 4239,
+   "retweets": 393,
+   "media": [],
+   "quoted": null
+  },
+  "2103493973851468072": {
+   "id": "2103493973851468072",
+   "url": "https://x.com/TheZvi/status/2103493973851468072",
+   "text": "People keep not fixing this flow chart. Here you go. https://t.co/9YpVtxk7SG",
+   "created_at": "Fri Sep 25 14:36:59 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 3248,
+   "retweets": 67,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTEcibKWcAAFqnR.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "AirCunhaXtra",
+    "text": "@claudeai https://t.co/eOxFMWY7eO"
+   }
+  },
+  "2103490164756762978": {
+   "id": "2103490164756762978",
+   "url": "https://x.com/TheZvi/status/2103490164756762978",
+   "text": "As an experiment I had Opus 5.5 turn this into a YouTube video. So tell me, is this anything? https://t.co/ZIfEPrtGKE",
+   "created_at": "Fri Sep 25 14:21:50 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 42,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "TheZvi",
+    "text": "https://t.co/lhszFGK2bm"
+   }
+  },
+  "2103480641631166477": {
+   "id": "2103480641631166477",
+   "url": "https://x.com/TheZvi/status/2103480641631166477",
+   "text": "RT @AlecStapp: Jensen said a bunch of false stuff in his interview with Ezra.\n\nGood explanation from Zvi on what he gets wrong about Chines…",
+   "created_at": "Fri Sep 25 13:44:00 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 343,
+   "retweets": 33,
+   "media": [],
+   "quoted": null
+  },
+  "2103468940630561218": {
+   "id": "2103468940630561218",
+   "url": "https://x.com/TheZvi/status/2103468940630561218",
+   "text": "tfw you realize 'wait, why exactly have I not ever engaged a PR firm, actual everyone uses a PR firm, am I just an idiot?'",
+   "created_at": "Fri Sep 25 12:57:30 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 244,
+   "retweets": 4,
+   "media": [],
+   "quoted": null
+  },
+  "2103454855721296069": {
+   "id": "2103454855721296069",
+   "url": "https://x.com/TheZvi/status/2103454855721296069",
+   "text": "https://t.co/lhszFGK2bm",
+   "created_at": "Fri Sep 25 12:01:32 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 92,
+   "retweets": 10,
+   "media": [],
+   "quoted": null
+  },
+  "2103445008225386640": {
+   "id": "2103445008225386640",
+   "url": "https://x.com/TheZvi/status/2103445008225386640",
+   "text": "Highly recommend exactly this, and wish I could do more of it. \n\nAlas, given my role I have to engage with low quality and/or bad faith things once they pass some threshold of visibility, but short of that I absolutely just ignore it. Threshold rises over time.",
+   "created_at": "Fri Sep 25 11:22:24 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 119,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "repligate",
+    "text": "I do not engage seriously with or pay attention to low quality and/or bad faith disagreement/criticism.\n\nA reason this has felt, instinctively, like a thing to avoid is I see many people who *do* pay attention to idiots who disagree start to cache all disagreement as idiotic.\n\nA lot of people who have similar views to me seem to routinely underestimate the sophistication and rationality of, say, actually smart AI researchers who disagree with us, because they’re over indexing on Twitter reply guys."
+   }
+  },
+  "2103237273227784446": {
+   "id": "2103237273227784446",
+   "url": "https://x.com/TheZvi/status/2103237273227784446",
+   "text": ".@JensenHuang makes an excellent case that obviously the labs have no reason to make any of these dangers up.\n\n(Then he seems to struggle with some theory of mind a bit, but hey.) https://t.co/JhyQtjFNcL",
+   "created_at": "Thu Sep 24 21:36:56 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 64,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTAy-HmXMAAxNgE.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2103232110056059380": {
+   "id": "2103232110056059380",
+   "url": "https://x.com/TheZvi/status/2103232110056059380",
+   "text": "More wisdom from @JensenHuang , he's so close! https://t.co/xc40kLY6I1",
+   "created_at": "Thu Sep 24 21:16:25 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 119,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTAuTvtXsAASrMY.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTAuZ6OXcAEaizL.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2103229456043372775": {
+   "id": "2103229456043372775",
+   "url": "https://x.com/TheZvi/status/2103229456043372775",
+   "text": "@JensenHuang  to @OpenAI: I don't care if it means your costs go up by 10x, you find a way to test the model and make it safe. \n\n\"Don't ship products until they're in control. It really is quite that simple.\" https://t.co/CPnSKgaI8M",
+   "created_at": "Thu Sep 24 21:05:53 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 179,
+   "retweets": 10,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTAr9UAXQAE81h5.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2103170076815884732": {
+   "id": "2103170076815884732",
+   "url": "https://x.com/TheZvi/status/2103170076815884732",
+   "text": "No no the whispering earring makes you look from the outside like you are successful and happy",
+   "created_at": "Thu Sep 24 17:09:55 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 85,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "BenGoldhaber",
+    "text": "no no it’s fine, I just didn’t think the whispering earring would be made by facebook."
+   }
+  },
+  "2103161321755987979": {
+   "id": "2103161321755987979",
+   "url": "https://x.com/TheZvi/status/2103161321755987979",
+   "text": "Jensen Huang says not to worry about the lack of junior SWE jobs listings because... we will soon get AI native college graduates all of whom stayed in college? Huh? https://t.co/1mqtciqTnQ",
+   "created_at": "Thu Sep 24 16:35:08 +0000 2026",
+   "author_handle": "TheZvi",
+   "author_name": "Zvi Mowshowitz",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 175,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS_t32ZWkAANL01.png"
+    }
+   ],
+   "quoted": null
+  }
+ }
+}

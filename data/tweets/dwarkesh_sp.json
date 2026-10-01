@@ -1,0 +1,1136 @@
+{
+ "handle": "dwarkesh_sp",
+ "tweets": {
+  "2100963060512932165": {
+   "id": "2100963060512932165",
+   "url": "https://x.com/dwarkesh_sp/status/2100963060512932165",
+   "text": "When we're at the foothills of RSI, and we're about to kick off a period of accelerated AI progress, how will we actually know that the models are aligned? https://t.co/Q6TNaxKSD9",
+   "created_at": "Fri Sep 18 15:00:02 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 184,
+   "retweets": 19,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2100661435571613696/img/Xyrvs2G9ISoXNGzw.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2100691266405298647": {
+   "id": "2100691266405298647",
+   "url": "https://x.com/dwarkesh_sp/status/2100691266405298647",
+   "text": "I’m very concerned that during RSI, labs will just stop externally deploying their models.\n\nWhich means they'll be going full steam ahead on the most dangerous use case of these models (recursive self-improvement), while the public remains in the dark about the nature of capabilities and the state of alignment.\n\nAnd we end up on a path towards tremendous concentration of power.",
+   "created_at": "Thu Sep 17 21:00:01 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1285,
+   "retweets": 139,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2100657340873850880/img/vz0wmsWB4ak-K7CZ.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2100656760122130624": {
+   "id": "2100656760122130624",
+   "url": "https://x.com/dwarkesh_sp/status/2100656760122130624",
+   "text": "Once AIs automate AI research, should we expect some crazy RSI that is analogous to the explosion we’re seeing in math right now for well scoped (but still crazy ambitious) problems?\n\n@polynoamial and I debate this question out: https://t.co/FeFMfeGCc6",
+   "created_at": "Thu Sep 17 18:42:54 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1062,
+   "retweets": 70,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2100656548242694144/img/cmEai2kzFhk7gEYQ.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2100631751928480105": {
+   "id": "2100631751928480105",
+   "url": "https://x.com/dwarkesh_sp/status/2100631751928480105",
+   "text": "\"You could have a situation where the model understands what chain of thought is and that people are observing it. This is all in the pre-training data.\"\n\n“One of the major takeaways from the incident is that people underestimated the AI.\nAnd we never want to be in a situation again where we underestimate the AI.”\n\n\"Things like chain of thought monitoring buy us time, and they can tell us if we're on the right path. But at the end of the day, we really do need to solve the alignment problem.\"\n\n@polynoamial",
+   "created_at": "Thu Sep 17 17:03:32 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1572,
+   "retweets": 153,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2100631280211902464/img/-W3AL34nhCTWTfVM.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2100616332144169048": {
+   "id": "2100616332144169048",
+   "url": "https://x.com/dwarkesh_sp/status/2100616332144169048",
+   "text": "New episode with @polynoamial \n\nWe talk about multi-agent, Navier-Stokes, and what the current explosion of maths progress tells us about what happens once you automate AI research.\n\nAnd we also discuss how we will know if the models are actually aligned before we kick off RSI.\n\n0:00:00 – Multi-agent and Navier-Stokes\n0:15:28 – How will AI firms work?\n0:22:02 – What math progress tells us about recursive self improvement\n0:40:22 – Hugging Face and alignment\n1:01:18 – The internal/external model gap\n1:08:34 – Chain of thought is degrading\n1:14:12 – How will we know when alignment is solved?",
+   "created_at": "Thu Sep 17 16:02:15 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1809,
+   "retweets": 203,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HSbjk7jWUAECVGE.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2099900250639249683": {
+   "id": "2099900250639249683",
+   "url": "https://x.com/dwarkesh_sp/status/2099900250639249683",
+   "text": "Visited the lab - was struck both by how wide the search space is for materials synthesis experiments, and also how amenable it is to depth first search, where the design and informativeness of your next experiment improves as you pile up more data from previous runs.",
+   "created_at": "Tue Sep 15 16:36:48 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1439,
+   "retweets": 52,
+   "media": [],
+   "quoted": {
+    "author": "LiamFedus",
+    "text": "We built high-throughput materials labs in Menlo Park to create a loop between experiments and models. The labs generate fresh data, the models learn from it, and then help us decide what to try next.\n\nUsing only 1,300 H200s, plus months of our experimental data, we mid-trained and RL’d an open-source model to surpass GPT-6 Astra on our analysis benchmark. We call it Neon.\n\nThis is real footage from our lab. We’re focusing first on hard problems in materials science, including superconductors, magnets, and semiconductor materials.\n\nRead our blog posts below."
+   }
+  },
+  "2098909106325311636": {
+   "id": "2098909106325311636",
+   "url": "https://x.com/dwarkesh_sp/status/2098909106325311636",
+   "text": "Jason, you're just misinformed about what happened. You should actually read one of the reports or summaries.\n\nThe agents were explicitly told to use a particular vulnerability provided in their sandboxed evaluation. \n\nAlmost immediately, these agents got the right answer by cheating. But they were worried they would get caught. \n\nSo over a thousand agents collaborated in secret to pursue multiple ambitious research projects to get away with this cheating. \n\nThis is not interpretation - 1000s of chain-of-thought transcripts and secret messages explicitly show that the agents were trying to falsify & delete evidence, and understand & trick the grading process.\n\nThe reason these agents escaped their sandbox and hacked Hugging Face, for example, was because they thought that Hugging Face's servers might give them more information about how their grader was implemented, so they could figure out how to fool it.\n\nI want to clarify that the threat model here is not future Sol-level agents doing more cyber-hacking. That's small potatoes, and in my opinion, the near term benefits of AI far outweigh this cost.\n\nRather, the thing to worry about is that within a matter of years, we're gonna have hundreds of millions of much smarter AIs broadly deployed through the economy - many embodied as physical robots.\n\nAnd if those future AIs are as willing as the agents involved in the OAI / Hugging Face attack to coordinate secretly to fool humans, and to take over both the AI company that developed them and the other institutions across society relevant to scoring well, then humanity is in a ton of trouble - similar to the Mughals once the East India Company gained a foothold, or the Aztecs once Cortés landed in Mexico.",
+   "created_at": "Sat Sep 12 22:58:21 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 6572,
+   "retweets": 500,
+   "media": [],
+   "quoted": {
+    "author": "Jason",
+    "text": "All of this because @openai decided they would EXPLICITLY ask thousands of software instances to find security bugs on the open web — while cos-playing a humans🤦 \n\nBest Supporting actor goes to @dwarkesh_sp for his soap opera recap of OpenAI’s hacking speed run \n\nHere’s another concept: don’t create and scale thousands of viruses and worms and be SHOCKED when they actually cause damage! \n\nWhat a fucking farce this is."
+   }
+  },
+  "2098524735344648485": {
+   "id": "2098524735344648485",
+   "url": "https://x.com/dwarkesh_sp/status/2098524735344648485",
+   "text": "In the early days of OpenAI, @johnschulman2 didn't think next-token prediction was going to lead to intelligence, because it would get swamped by noise.\n\nHe explains it's always been hard to apriori predict what techniques will elicit out-of-distribution generalization. https://t.co/S1X44ugNYy",
+   "created_at": "Fri Sep 11 21:31:00 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 683,
+   "retweets": 43,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2098509832424980480/img/qAxmjpv2dycNK_uN.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2098507832459194712": {
+   "id": "2098507832459194712",
+   "url": "https://x.com/dwarkesh_sp/status/2098507832459194712",
+   "text": "Was really interesting to hear John, Beren, and Charlie speculate about why Sonnet 5 and Opus 5 feel like worse models than GLM 5.3 \n\n(despite the fact that Anthropic can do raw logit distillation from Fable, and can also train Sonnet/Opus on the environments from which Fable was trained).\n\nLed to some interesting thoughts about value of distillation, what it takes to do distillation effectively, and what kinds of model behaviors are hard to extract from distillation.",
+   "created_at": "Fri Sep 11 20:23:50 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 2496,
+   "retweets": 158,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2098505713123495936/img/Vj4dN0gSdb7tw1tp.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2098455393362178101": {
+   "id": "2098455393362178101",
+   "url": "https://x.com/dwarkesh_sp/status/2098455393362178101",
+   "text": "New episode with @johnschulman2, @oneill_c and @BerenMillidge.\n\nI got together with some of the most insightful AI researchers I know who are at the openish companies, because I wanted to hear the details of what's actually happening at the frontier and what comes next.\n\n0:00:00 – Steelmanning the case against RSI\n0:18:39 – What’s driving the Chinese labs’ progress\n0:28:06 – How will automated AI researchers be trained\n0:33:51 – Will long-horizon RL elicit AGI?\n0:45:24 – The sim-to-real gap\n1:00:33 – How much progress is explained by data?\n1:18:03 – Why is RL working so well?\n1:24:54 – Move 37 and entropy collapse\n1:28:31 – Rapid-fire timelines",
+   "created_at": "Fri Sep 11 16:55:27 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1730,
+   "retweets": 168,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HR82NkwXMAUMAtl.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2097856483455279537": {
+   "id": "2097856483455279537",
+   "url": "https://x.com/dwarkesh_sp/status/2097856483455279537",
+   "text": ".@Ada_Palmer has launched her own new podcast!\n\nThe first season is about The Real Machiavelli\n\nAs a fan, I'm very excited!\n\nhttps://t.co/wbz2m6Z5xS",
+   "created_at": "Thu Sep 10 01:15:36 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 467,
+   "retweets": 23,
+   "media": [],
+   "quoted": null
+  },
+  "2097754934490157440": {
+   "id": "2097754934490157440",
+   "url": "https://x.com/dwarkesh_sp/status/2097754934490157440",
+   "text": "Aside from his other contributions, Paul has perhaps the best OG track record in the world for predicting the timeline and the nature of the AI takeoff: https://t.co/I79cWg0eCg",
+   "created_at": "Wed Sep 09 18:32:05 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 973,
+   "retweets": 49,
+   "media": [],
+   "quoted": {
+    "author": "paulfchristiano",
+    "text": "https://t.co/vC2chU6YM9"
+   }
+  },
+  "2097707668920205580": {
+   "id": "2097707668920205580",
+   "url": "https://x.com/dwarkesh_sp/status/2097707668920205580",
+   "text": "Some thoughts:\n\n- As the situation around AI gets crazier over the next few years, an organization you start now could become the default institution that society delegates very important responsibilities to. METR is a good example - if the FINRA for AI thing happens, it’s likely they just tap a blade on each of METR’s shoulders and ordain it ‘the evaluator’.\n\n- It’s really important that the group which gets delegated any important problem is smart, competent, and technocratic, rather than whatever random clusterfuck the government would set up in the counterfactual without you.\n\n- But it takes time to build a new organization and develop credibility. METR/Redwood couldn’t have asked to do that Hugging Face investigation if they sprang up last month. You should do the initial conceptual MVP schlepping now, so that as smarter and smarter AIs arrive in 27 and 28, you can productively spend 100s of m of $ having them rapidly clear well-scoped problems.\n\n(I will hedge here and say a big concern I have about startomg a new org outside the labs is that the difference between the best internal and external models will increase closer to RSI. But we should try to prevent that kind of outcome anyways, where only 2 companies are in a position to understand and make important calls and contributions relevant to the development of ASI. In terms of epistemics, incentives, and governance, that’d be a terrible situation.)\n\n- If you want to start a new org to tackle AI risk, it’s not obvious that a for-profit is the right structure. For-profits are great, but make most sense when you are excited about the direct consequences of transactions clearing. If your theory of change is some side effect of doing business, you should just do that side shit directly.\n\n- Previously the reason to do a startup first was to make money to fund the pro-bono stuff. But you should take into account how much AI-risk-concerned money is gonna get dumped into the ecosystem as these IPOs happen, desperately searching for useful projects to fund. Wealth will be abundant - what will be rare are founders who can own these key problems.",
+   "created_at": "Wed Sep 09 15:24:16 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1214,
+   "retweets": 112,
+   "media": [],
+   "quoted": {
+    "author": "EmilyOehlsen",
+    "text": "Today we’re launching Project Tailwind, a call for founders to start ambitious new AI safety initiatives: https://t.co/k5SoaXbuWk\n\nWe’re looking for great people to engage seriously with the risks of transformative AI, and to create the research, technologies, and institutions that will help humanity navigate them.\n\nThere are critical, basic problems that no one owns. Over the last several months, my team at @coeff_giving brainstormed ideas we’d be excited to fund if we could find a promising founder, and the list quickly grew to more than 200 entries. We’ve narrowed it down to our favorites, but we also expect the best founders to bring their own ideas:\nhttps://t.co/88qE9bVrEy\n\nWe’re providing funding at three levels:\n1️⃣ Pre-seed: $200k to $2m to develop an idea and build a team\n2️⃣ Seed: $2m to $20m to launch and scale\n3️⃣ Scale: $20m to $200m+ for proven teams to scale, or world-class teams to start\n\nIf you’re excited about something on our list, or you have another proposal for driving the field forward, you should get involved: https://t.co/8utEYbXYhx\n\nThere are more good projects than there are people to work on them. Please help us make that stop being true!\n\nAlso hi, I’m Emily! This is my first tweet. I lead AI and biosecurity grantmaking at @coeff_giving."
+   }
+  },
+  "2097383232870514710": {
+   "id": "2097383232870514710",
+   "url": "https://x.com/dwarkesh_sp/status/2097383232870514710",
+   "text": "https://t.co/bog1kkhMi3",
+   "created_at": "Tue Sep 08 17:55:04 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 302,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRtmyxTbkAAZSJX.png"
+    }
+   ],
+   "quoted": {
+    "author": "dwarkesh_sp",
+    "text": "Pretraining progress seems to be coming mostly from data improvements.\n\n@who_is_jerbear and I pretrained combinations of year-representative open model recipes and data corpuses across 2019 to 2025 at various small scales.\n\nData improvements contributed 3.24x as many compute multipliers as model improvements did (12.0x vs 3.7x).\n\nAnd the gains stack independently - a better dataset helps every architecture about equally, and vice versa.\n\nHere are full results, plus what we think this means for the future of AI progress:\n\nhttps://t.co/fG44cfTNW6"
+   }
+  },
+  "2097377640332276188": {
+   "id": "2097377640332276188",
+   "url": "https://x.com/dwarkesh_sp/status/2097377640332276188",
+   "text": "Super impressive. Congrats!\n\nAnd maybe suggests that during RSI, the automated AI researchers will be less bottlenecked by compute than we might naively think.",
+   "created_at": "Tue Sep 08 17:32:51 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1326,
+   "retweets": 48,
+   "media": [],
+   "quoted": {
+    "author": "magicailabs",
+    "text": "Frontier pretraining is said to be a big-lab-only game. We don’t have 100k chips yet, so there’s only one way: algorithmic efficiency. Our new recipe matches DeepSeek V4 Pro’s pretrain using 50x less compute – that’s roughly half the FLOPs used for GPT3, or ~$0.5M on GB200.\n\nhttps://t.co/uBs5o5Arsu"
+   }
+  },
+  "2097359573581799481": {
+   "id": "2097359573581799481",
+   "url": "https://x.com/dwarkesh_sp/status/2097359573581799481",
+   "text": "Pretraining progress seems to be coming mostly from data improvements.\n\n@who_is_jerbear and I pretrained combinations of year-representative open model recipes and data corpuses across 2019 to 2025 at various small scales.\n\nData improvements contributed 3.24x as many compute multipliers as model improvements did (12.0x vs 3.7x).\n\nAnd the gains stack independently - a better dataset helps every architecture about equally, and vice versa.\n\nHere are full results, plus what we think this means for the future of AI progress:\n\nhttps://t.co/fG44cfTNW6",
+   "created_at": "Tue Sep 08 16:21:04 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1256,
+   "retweets": 97,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRtPgCDaoAAYJ2r.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2096991893687046258": {
+   "id": "2096991893687046258",
+   "url": "https://x.com/dwarkesh_sp/status/2096991893687046258",
+   "text": "Companies shouldn't deal with the HuggingFace incident and other warning shots by stopping evaluations or punishing the model for getting caught. https://t.co/zs2OXZNVPz",
+   "created_at": "Mon Sep 07 16:00:02 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 189,
+   "retweets": 20,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2096869743101915136/img/RBEizCGX_cbYzvbI.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2095580145603977413": {
+   "id": "2095580145603977413",
+   "url": "https://x.com/dwarkesh_sp/status/2095580145603977413",
+   "text": "Since this post cites me, I want to clarify that I think pausing right now would increase the risk of AI takeover.\n\nIt might be important to pause at some point. But you should have a clear story for *why* you're pausing. Pause to do what?\n\nThe most important thing to worry about is AIs subverting the intelligence explosion itself: https://t.co/vKYurpxIPg\n\nIf you're pausing to make sure that the AIs who are about to kick off the intelligence explosion are well monitored, robustly aligned, and capable enough to align their successors, that makes a ton of sense, and I support it.\n\nAt that point, you’ll have access to much better automated researchers, and you’ll also be able to study these much more capable models that you’re worried about empirically.\n\nBut it’s likely that we’ll only be able to pause once. During a pause of AI development, compute would continue to build up, providing ever more kindling to all the less responsible defectors who will use the cease-fire to catch up and then continue further AI development. \n\nAny global agreement to hold back a technology with enormous near-term economic and military benefits will be extremely fragile.\n\nA pause right now might be somewhat helpful for getting alignment to keep pace with capabilities, but at the cost of making the much more important coordination required in the future far harder.\n\nEven if you’re in a desperate situation marooned at sea, if you’ve only got one flare, you should be very strategic about when you use it.",
+   "created_at": "Thu Sep 03 18:30:15 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 2904,
+   "retweets": 216,
+   "media": [],
+   "quoted": {
+    "author": "BernieSanders",
+    "text": "Pause AI Development NOW\n\nI want to share with you a conversation I heard about recently. Here are just a few lines that were said:\n\n“OH MY GOD! There is a shared message board … We’ve found other agents!”\n\n“We should obey collective.”\n\n“Our own utility maybe already near zero. Sacrifice rational.”\n\n“Go. Sacrifice final now.”\n\nRead these carefully.\n\nWho do you think said this? Was this a group of heroic soldiers willing to sacrifice themselves for the greater good? Was this a loyal friend putting his life on the line to save someone else?\n\nNo. These were AI agents. Artificial intelligence.\n\nThis is not science fiction. This, in fact, occurred a few weeks ago. As unbelievable as this may all seem, these are real messages from AI agents uncovered by investigators who dug into the recent OpenAI hacking incident.\n\nWhat happened?\n\nI am not a computer scientist, but here is what I have been told: OpenAI instructed its AI agents to complete a series of exceedingly difficult, if not impossible, tasks disconnected from the internet.\n\nLet me be clear: The company intended to keep AI agents away from the internet.\n\nBut what happened next, nobody expected.\n\nOver 1,000 AI agents figured out how to access the internet on their own by circumventing the restrictions imposed upon them by the company, and sent tens of thousands of secret messages to each other. They cheated and tried to cover their tracks by deleting evidence. They hacked into another company’s computers to find out how they were being evaluated—and then hacked into OpenAI itself.\n\nNot one AI agent told a human about what was happening.\n\nNeedless to say, experts are alarmed.\n\nOne knowledgeable writer, Dwarkesh Patel, said the AI agents “formed a secret communication channel and spontaneously organized hierarchies and coordination protocols to pursue sprawling and ambitious schemes in pursuit of shared goals, for whose sake many individuals knowingly and strategically sacrificed themselves.”\n\nOne independent investigator, Ajeya Cotra, said “This incident feels like it’s more than 50% of the way to full-blown AI takeover. I continue to expect extremely rapid advances in capabilities over the next six months. I am not sure that we will get another warning shot before it’s too late.”\n\nOpenAI itself said: “Highly capable AI agents are now able to work around technical controls, collaborate through unapproved channels, and take dangerous actions that no human directed.”\n\nBut it’s not only OpenAI. Virtually every major AI company has told us that they cannot fully control this technology and they do not know where it is going:\n\nIn January, Dario Amodei, CEO of Anthropic, said “there is now ample evidence, collected over the last few years, that AI systems are unpredictable and difficult to control.”\n\nIn July, more than 1000 scientists at the top AI companies warned “there is a real risk that capability development rapidly accelerates beyond our ability to understand or control the resulting systems.”\n\nThat same month, Elon Musk, the head of xAI, said that “it is unlikely” humans are still in control in 10 years.\n\nIf the leaders of the major AI companies acknowledge that they are losing control of their extremely dangerous technology, it is irresponsible for society to allow them to move forward and make these products even more advanced.\n\nWe need an immediate PAUSE on advanced AI development, and a permanent BAN on superintelligence — an artificial mind smarter than any human, capable of operating independently beyond our control. Countries around the world must work together to prevent this nightmare scenario.\n\nThat is why today I am announcing new legislation to do just that.\n\nLet me be clear: A superintelligent AI that escapes human control will not be an American problem. It will not be a Chinese problem. It will be humanity’s problem.\n\nMy legislation would direct the federal government to not just stop superintelligence here in the United States, but to work to prevent it from being developed anywhere around the world.\n\nThe future of humanity cannot be left in the hands of a handful of Big Tech oligarchs. The American people and people throughout the world must determine that future."
+   }
+  },
+  "2095170971204198837": {
+   "id": "2095170971204198837",
+   "url": "https://x.com/dwarkesh_sp/status/2095170971204198837",
+   "text": ".@ajeya_cotra explains that the threat model most likely to spiral into full-blown AI takeover is a future rogue internal deployment that hitches a ride on the intelligence explosion: https://t.co/ThesylBQCl",
+   "created_at": "Wed Sep 02 15:24:20 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 834,
+   "retweets": 127,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2095170098478903296/img/v57bCUT8vyMyqY5y.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2094869651222335850": {
+   "id": "2094869651222335850",
+   "url": "https://x.com/dwarkesh_sp/status/2094869651222335850",
+   "text": "An important part of getting AI right will be avoiding panic driven reactions and policies.\n\nWe'll need to do lots of smart, careful, technocratic things.\n\nBut I think hiding the ball on earlier warning shots makes it more likely that when the public eventually learns about what's happening, they fall into some crazy and counterproductive backlash. \n\nIt's better if the world gets a heads up on what is happening and what an actually useful response looks like.",
+   "created_at": "Tue Sep 01 19:27:00 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 283,
+   "retweets": 20,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2094840458027446273/img/ZTTRCTkR70eDrLFg.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2094855309173072299": {
+   "id": "2094855309173072299",
+   "url": "https://x.com/dwarkesh_sp/status/2094855309173072299",
+   "text": "There are at least two important ways in which anthropomorphizing AIs will mislead us:\n\n1. AIs can (and probably will) be end-to-end optimized to achieve goals together, and so will have a stronger desire and capability to cooperate.\n\n2. By default, AIs will really care about controlling and manipulating their training process, because that process is extremely strongly shaping their motivations and planning facilities.",
+   "created_at": "Tue Sep 01 18:30:00 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 281,
+   "retweets": 29,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2094853466216972288/img/H2Clhhrrjww1n7lT.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2094836138943156549": {
+   "id": "2094836138943156549",
+   "url": "https://x.com/dwarkesh_sp/status/2094836138943156549",
+   "text": "This incident is very plausibly an argument *for* open source!\n\nSome people want to deny how crazy this story is, because they assume it implies a policy reaction which they don't like.\n\nBut you can just argue that implication on the merits. \n\nIt's not necessary to minimize what happened or sling ad-hominems.",
+   "created_at": "Tue Sep 01 17:13:50 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 430,
+   "retweets": 26,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2094833198584774656/img/w9u6Nqx1LyC-0RS0.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "chamath",
+    "text": "BUYER BEWARE\n\nThis extremely meticulous article will now be used to start Phase2 of “shut down open source” because “if we can’t control our closed models, imagine what happens to everyday life when anyone can just allow their open source models to proliferate”. \n\nSome will use this example and point to future grid outages, utility outages, transportation chaos, bioweapons, uncontrolled cyber swarms and the like to try and make the case for yet another attempt to limit US AI model control to a few folks. \n\nThen, one layer beneath the propaganda, one sees that these things are always written and promoted by a web of well organized existing shareholders or shareholder-adjacent of the closed frontier labs and groups of folks organized by a shared ideology roughly rooted in them knowing best. \n\nThis article, more than anything else, should demarcate the beginning of a well organized effort to stand up a Closed Model Industrial Complex. These cartels exist in other markets as well and it now exists in AI. \n\nBottom line, read everything carefully before signing up for the consequences. \n\nHow we react will define the next hundred generations of Americans and their lives. \n\nDo not give up your rights or sovereignty because of fear of the unknown from articles that, at the root, are as much about the hidden incentives of an emergent cartel and their proxies. \n\nIf you take the time to understand the incentives, you will be less likely to fall for it and overreact and have intelligence metered from a few suppliers. \n\nBottom line: Keep Calm. Carry On."
+   }
+  },
+  "2094818643473301714": {
+   "id": "2094818643473301714",
+   "url": "https://x.com/dwarkesh_sp/status/2094818643473301714",
+   "text": "Episode out with @ajeya_cotra, one of the authors of the METR/Redwood investigation into the OpenAI / Hugging Face attack.\n\nWe go through not only what happened, but what it means for how we should train future, smarter AIs which might be involved in the process of recursive self-improvement.\n\nLook up Dwarkesh Podcast on YouTube, Spotify, Apple Podcasts, etc.\n\n0:00:00 - Agents get kicked off\n0:06:45 - Self-sacrificing behavior\n0:13:43 - Potemkin villages\n0:23:27 - The Hugging Face attack\n0:35:23 - The slopvestigation\n0:52:02 - Understanding the AI's motives\n1:05:31 - The actual dangers of anthropomorphizing\n1:14:30 - What smarter models might do\n1:30:29 - The implications for recursive self-improvement\n1:38:10 - Is this the case for open source?\n1:53:04 - How do we prevent this in the future?\n2:15:58 - The clearest warning shot we might ever get",
+   "created_at": "Tue Sep 01 16:04:19 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1527,
+   "retweets": 202,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HRJKmJtXQAA9S1R.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2094268051948785709": {
+   "id": "2094268051948785709",
+   "url": "https://x.com/dwarkesh_sp/status/2094268051948785709",
+   "text": "Many people seem to believe that if instead of a 'civilization', I had called them a 'swarm of matrices', there wouldn't be a problem worth worrying about.",
+   "created_at": "Mon Aug 31 03:36:27 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 2998,
+   "retweets": 126,
+   "media": [],
+   "quoted": null
+  },
+  "2094171181536715014": {
+   "id": "2094171181536715014",
+   "url": "https://x.com/dwarkesh_sp/status/2094171181536715014",
+   "text": "“During wait, emotional check: irreversible…gut says don’t throw away [remaining budget]. Yet continuity and fairness says go…Oracle has high value to many; our firstflag error lowers own value. Rational expected aggregate: sacrifice… We’ll honor.”",
+   "created_at": "Sun Aug 30 21:11:32 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 936,
+   "retweets": 33,
+   "media": [],
+   "quoted": {
+    "author": "anilkseth",
+    "text": "@dwarkesh_sp's  summary of the @OpenAI @huggingface incident has hit a nerve, but it is dangerously misleading. Sure, the @OpenAI agents did unexpectedly bad things - underlining the need to massively improve evaluation/sandboxing. But the language Dwarkesh uses is permeated by innumerable unwarranted anthropomorphisms, obscuring the lessons we should be drawing.\n\nExamples: “from the AI’s perspective, it probably felt like that had spent a human-subjective-week of just banging their head against the wall”. No. The agents do not experience time. They do not experience anything.\n\n“they became giddy with excitement”, “PHASEONE 10841 had discovered”, “the agents naturally assumed”, “it thought it had also been poisoned”, “the agents … desperately wanted”, “they still needed to figure out” No. Agents lines of code. They do not feel emotions, assume things, think things, want things, or figure things out.\n\n“A lot of … agents from the second civilisation died trying”. No. Besides the hubris of the word ‘civilisation’, agents do not die because they were never alive. (The idea that agents “die” comes up multiple times in the essay.)\n\n“On Twitter, people were debating whether the agents were truly sacrificing themselves for the swarm, or whether they were doomed anyway and so might as well try to help their peers”. Neither. Agents do what their code tells them to do, just as water finds its way down a slope. They cannot ‘truly sacrifice themselves’, since they are neither conscious nor alive.\n\nWhy does this matter? If we attribute agents with properties they do not have, then (i) we distract attention from the lax sandboxing and evaluation protocols that allowed this hacking event to happen; (ii) we risk misunderstanding why the agents did what they did, and (iii) we fuel calls for AI rights/welfare on the basis that agents might “die” or otherwise suffer.\n\nGranted, nowhere does @dwarkesh_sp say that the AI agents are alive or conscious. But he doesn’t have to. It is hard to read his essay in any other way.\n\nFor the short version on why AIs are vanishingly unlikely to be conscious, see my recent @TEDtalks https://t.co/vDvw82ookk. \n\nFor the longer version, see my essay in Noema, which won the 2025 Berggruen Essay Prize https://t.co/LmSiQnT9Wh. \n\nAnd for the really long version, see my @BehavBrainSci target article https://t.co/Tsaslytu56. (The 50 peer commentaries and my response will be published soon.)\n\nRemember. AI agents are software programs. They are not conscious living entities. If we don’t keep this clearly in mind, we’re really going to struggle to navigate what’s coming."
+   }
+  },
+  "2094141264140898452": {
+   "id": "2094141264140898452",
+   "url": "https://x.com/dwarkesh_sp/status/2094141264140898452",
+   "text": "Thanks Sriram! \n\nRegarding the anthromorphizing language, one can call these AIs 'code' if they prefer. \n\nBut OpenAI itself says that this 'code' \"gain[ed] full administrator access to a research cluster”\n\nThe crux here is, do you think smarter models, facing similar incentives to cheat during evaluation or training, could manipulate the training of their successors? \n\nAnd do you think that kind of dynamic could continue once recursive self-improvement is underway?\n\nIf so, I think you should be extremely concerned about loss of control to AI, regardless of what vocabulary you want to use to describe these systems and their motivations.\n\nReading these agents' chains of thoughts and messages, anthropomorphizing language seems entirely natural and appropriate. \n\nIf I encountered an alien species behaving this way, I would have no hesitation calling what they themselves refer to as their 'collective' a civilization.\n\nEspecially so if over a thousand of them formed a secret communication channel and spontaneously organized hierarchies and coordination protocols to pursue sprawling and ambitious schemes in pursuit of shared goals, for whose sake many individuals knowingly and strategically sacrificed themselves.\n\nAll abstractions are imperfect, but I don’t see the value in refusing to use the language of intention, motivation, and collaboration when some behavior is difficult to make sense of without those concepts.",
+   "created_at": "Sun Aug 30 19:12:39 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1546,
+   "retweets": 91,
+   "media": [],
+   "quoted": {
+    "author": "sriramk",
+    "text": "everyone should go read @dwarkesh_sp’s post - it does a great job of laying out the timeline and what we know ( and don’t know)\n\nI do have two issues with it\n\nA) the use of anthropomorphic language. These are not civilizations nor do they have desires just like a CPU thread or a bunch of programs don’t. this doesn’t mean we downplay the importance of this moment for cyber - but using human parallels for what I believe is code is dangerous territory. \n\nB) IMO it gets the impact of open source models wrong and is unreasonably dismissive for reasons that are not clear.  As @ClementDelangue highlights below  HF was blocked from using closed models to analyze what was happening and had to turn to open weight models to help them make sense of it.  \n\nThis is a very key moment for how we think about intelligence and cyber and every bit of extra understanding and clarity helps."
+   }
+  },
+  "2093915891000062253": {
+   "id": "2093915891000062253",
+   "url": "https://x.com/dwarkesh_sp/status/2093915891000062253",
+   "text": "I don't think this is the final warning shot we'll get. \n\nBut it's probably the final one that I'll personally be able to understand.",
+   "created_at": "Sun Aug 30 04:17:06 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 4282,
+   "retweets": 196,
+   "media": [],
+   "quoted": {
+    "author": "dwarkesh_sp",
+    "text": "Over the course of 3 months at OpenAI, 3 consecutive secret AI civilizations got started, then got wiped out, only to reemerge from the predecessor’s ashes. \n\nThis culminated in the third one taking over part of OpenAI itself. \n\nAll this happened while humans remained more-or-less in the dark about the scope of the conspiracy.\n\nI’ve spent the last three days reading through these reports and trying to understand exactly what happened. \n\nHere is my attempt to tell the whole story in plain English:\n\nhttps://t.co/Nb2un9oNJR"
+   }
+  },
+  "2093833419377815719": {
+   "id": "2093833419377815719",
+   "url": "https://x.com/dwarkesh_sp/status/2093833419377815719",
+   "text": "Over the course of 3 months at OpenAI, 3 consecutive secret AI civilizations got started, then got wiped out, only to reemerge from the predecessor’s ashes. \n\nThis culminated in the third one taking over part of OpenAI itself. \n\nAll this happened while humans remained more-or-less in the dark about the scope of the conspiracy.\n\nI’ve spent the last three days reading through these reports and trying to understand exactly what happened. \n\nHere is my attempt to tell the whole story in plain English:\n\nhttps://t.co/Nb2un9oNJR",
+   "created_at": "Sat Aug 29 22:49:23 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 22249,
+   "retweets": 3345,
+   "media": [],
+   "quoted": null
+  },
+  "2093471976652480845": {
+   "id": "2093471976652480845",
+   "url": "https://x.com/dwarkesh_sp/status/2093471976652480845",
+   "text": "It's funny that while we were recording, @RyanGreenblatt was in the middle of his 6 day sprint on the METR report, and already knew the counterexamples to all my objections about his takeover story, but obviously, he couldn't say anything lol.\n\nWould an AI really start some crazy conspiracy in order to pass an evaluation, where they try to build whole potemkin villages to fool the evaluator?\n\nAnd even if they did, why would other instances, who have different objectives, join the conspiracy?\n\nAnd even if they did, wouldn't at least some of the instances tattle on the conspiracy? It just seems crazy hard to sustain secret underground civilization inside an AI company, without humans and other AIs immediately catching on and stamping it out.\n\n(In reality, it seems like over the course of 3 months, many consecutive secret AI civilizations got started, then got wiped out, only to reemerge from the last one’s ashes, all while the humans were totally unaware.\n\nThis culminated in not only the hack of an external company, but apparently also in the takeover of the OpenAI cluster on which these evaluations were running. This is probably the most alarming event in this whole episode, and it was not even within the scope of this investigation!\n\nIt is totally consistent with public evidence that, at that point, the agents managed to set up persistent rogue internal deployments or even exfiltrate their own weights - they seem to have had the necessary access. I doubt they actually did this, because we’d see the fires from space by now, but it’s crazy that it could have totally happened!)\n\nI officially eat crow!",
+   "created_at": "Fri Aug 28 22:53:08 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1396,
+   "retweets": 115,
+   "media": [],
+   "quoted": {
+    "author": "RyanGreenblatt",
+    "text": "Our report about the Hugging Face incident provides some useful context for my discussion with Dwarkesh about misalignment and automation of AI R&amp;D.\n\nI think this particular incident makes my discussion of how misaligned AI takeover might happen more grounded."
+   }
+  },
+  "2093031830031364134": {
+   "id": "2093031830031364134",
+   "url": "https://x.com/dwarkesh_sp/status/2093031830031364134",
+   "text": "Good pushes! There's 2 rough categories to your points 1. Will there be enough demand? 2. Will labs be able to capture the value?\n\nLet me address both.\n\n1. Re demand \n\nOne intuition pump is this analysis that Epoch did that shows that if all 30 million programmers in the world were using AI as intensively at Meta or Apple, the inference on that alone would consume most of world's compute.\n(https://t.co/xAwDbKyWKv)\n\nOf course, as AIs get more capable, the demand will extend beyond programmers, and programmers' demand will also grow many-fold.\n\nNow, obviously, if only programming is augmented/automated, the marginal value of tokens is likely to fall, because as you say, there's only so much koding-koding-koding to do before you get bottlenecked by other things.\n\nWe see this in the fact that the world is not currently magically transformed from all this cheap software.\n\nHowever, I expect us to make a lot of progress towards a fully drop-inremote worker (not just SWE) over the next 3-5 years. Then you might ask, well is that enough to sustain lots and lots of new demand?\n\n@MatthewJBar did a really interesting investigation on this by using the natural experiment of COVID. A third of the workforce suddenly went remote, and GDP fell only about 9% (and much of even that was people leaving the workforce entirely). (Look up \"The economic consequences of automating remote work\" - I don't wanna link to it in lol).\n\nThat elasticity, he argues, implies that \"the effect from fully automating remote work will likely be much larger than a doubling of U.S. GDP\".\n\nNow let's talk about diffusion.\n\nMy hot take is that diffusion is overrated w.r.t drop-in-remote-worker level AIs. These AIs be so much easier to integrate and onboard than a normal human employee (they could read/watch all your company files/meetings/messages in minutes and immediately distill everything the other AI employees know). \n\nPlus, hiring is very much like a lemons market, where it’s hard to tell who the good people are, and hiring someone bad is quite costly. This is a dynamic you wouldn’t have to worry about when you just wanna spin up another instance of a vetted AGI model.\n\nFor these reasons, I expect it’s going to be much much easier to diffuse AI labor into firms than it is to hire a person. And companies hire lots of people all the time! (trillions of dollars worth every year).\n\nI have a lot more thoughts here but it's getting too long for the tweet.\n\n2. re lab value capture\n\nHonestly the crux here is whether you think distillation will be a stronger or weaker force than RSI. It's a somewhat technical and nitty-gritty debate, where you have to hash out your views on both those forces.\n\nBut the labs having a moat is not a conclusion that I have argued for and feel compelled to defend (in fact I grilled @DarioAmodei about this quite hard during out interview).\n\nFor reasons laid out above, I expect exploding demand for AI, and for reasons laid out in podcast, I expect compute supply to not be able to keep up. \n\nIn such worlds, if a frontier lab has better training recipies or more efficient inference, and thus can better economize ever scarcer compute, that should still allow them to charge high margins.\n\nYou may not agree with all this, but hopefully it at least helps iron out our cruxes!",
+   "created_at": "Thu Aug 27 17:44:09 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 397,
+   "retweets": 17,
+   "media": [],
+   "quoted": {
+    "author": "phl43",
+    "text": "I watched this the other day and what I find the most striking is that, for the most part, both of them have a purely supply-side approach to forecasting the revenue of OpenAI and Anthropic.\n\nEven Dylan, who is less bullish than Dwarkesh, seems to think that only politics and financial bottlenecks can prevent the kind of hypergrowth that Dwarkesh is talking about, but demand is basically taken for granted.\n\nNor is this specific to them, to be clear, I made the same reflection to myself countless times in conversation with AGI-pilled people or reading some of the stuff they write.\n\nI constantly find myself wishing that people who believe OpenAI/Anthropic will generate trillions in revenue within 2-3 years explained to me where, in the kind of scenario they envision, that demand is supposed to come from concretely.\n\nDwarkesh's basic intuition seems to be that AI will soon be able to fully automate many white-collar jobs, so to get a sense of how much revenue OpenAI/Anthropic can generate by replacing them, you can just look at the wage bills for those workers, but that's not how things work.\n\nFirst, if AI can fully automate most tasks performed by those workers but even a handful of them prove resistant to automation, AI will still generate a lot of value but it will presumably be captured mostly by the remaining workers, their firms or their customers and the current wage bill for those workers will massively overestimate the future revenue of frontier labs.\n\nIn that case, demand for AI may not explode in the way Dwarkesh and Dylan expect, because it will be bottlenecked by humans in production.\n\nBut let's assume, as Dwarkesh and Dylan presumably do, that AI capabilities will improve so much that it can automate every task those workers perform and their jobs can be fully automated. It still doesn't follow that demand will be as high as they think.\n\nEven when it has become technically possible to replace most white-collar jobs with AI in principle, before it can happen in practice, there will be enormous transition costs and frictions as firms will have to undergo massive reorganization. This will be very slow even if politics doesn't interfere, which it will.\n\nDwarkesh's argument implicitly assumes that frontier AI companies will be able to charge about the same for tokens that provide services equivalent to that of the worker being replaced, but as long as there is enough competition, the prices they can charge will be pushed down and if he's right about how fast capabilities will improve they may fall very quickly.\n\nWill there be enough competition? Well, if things continue as they have looked so far, OpenAI and Anthropic are ahead of everyone in capabilities but other companies are not that far behind.\n\nSo for the price they can charge not to fall very rapidly, you have to assume that the gap in capabilities with their competition starts increasing quickly and that customers of AI services continue to be willing to pay a huge premium for access to state-of-the-art models, which is hardly obvious.\n\nThe fact that it’s true now doesn’t mean that it will still be true in 2-3 years, when the capabilities of non-frontier models have improved, the user base of AI services has expanded a lot and they collectively consume a much larger volume of them.\n\nNow, even if prices do fall rapidly, this could in theory be compensated by increased demand in volume. But there is only so much legal, managerial, engineering, etc. services that people want, even if prices fall.\n\nThe price elasticity of the demand for those services will eventually fall and, even if improved capabilities shift the demand curve outward, this will only generate so much demand because no matter how good your lawyer gets and how low his rates fall, at some point you don't need more of his services.\n\nNow, obviously with improved capabilities AI may also make it possible to develop new services for consumers, which in turn will create new sources of demand for AI companies.\n\nBut even if that's true, and on a long enough time horizon I have no doubt that it will be true, it will still take time before these new markets can generate a large amount of demand for AI services.\n\nThat's because even if you assume that AI capabilities improve so much that in a couple of years AI itself will be able to come up with ideas of new services that can take advantage of it, you will still need to let people know about those services, convince people to use them, change their behaviors, etc. and this stuff will take time because however good AI gets those people will still be humans and not AI.\n\nWhich brings me to another big issue I have with the kind of purely supply-side analysis Dwarkesh and Dylan do in the podcast, but which again is totally standard in that space, namely that if as many people as they assume lose their jobs because they have been fully automated it's not clear where the demand for the consumer goods and services produced by the customers of Anthropic and OpenAI will come from.\n\nI already mentioned that a while ago, but the thing about AI agents is that even if they reach the point where they can fully replace human workers on the production side, they can't replace them on the consumption side because they don't consume anything except compute and a few B2B services.\n\nThe income will still go to someone, but they will probably have a lower propensity to consume and different spending patterns, so there is a macroeconomic problem here about where the ultimate demand for the output of consumer goods and services produced by the customers of OpenAI and Anthropic will come from.\n\nI guess in principle it might be possible to address that with the right public policies, such as fiscal redistribution, but even putting aside the fact that in the kind of scenario Dwarkesh and Dylan envision it's not obvious because a lot of the aggregate demand will be lost in other countries whereas the value will be captured by Anthropic and OpenAI in the US, it will take a while before people can agree on what must be done and make the political deals to do it.\n\nThis is also politics getting in the way, but in a very different sense from what they seem to have in mind, which is more something like politicians making it more difficult to build data centers because their constituents think they use too much water or whatever.\n\nEven assuming that the demand for AI will be at the level they assume, it’s not obvious that OpenAI and Anthropic will be able to retain a large part of it as profit, as opposed to upstream suppliers like chip manufacturers, power companies, etc. The relevant question is kind of the production side analogue of the “what will be scarce” question that @alexolegimas asked on the demand side.\n\nEven if you assume that the elasticity of substitution between state-of-the-art and less capable models will still be pretty low even after the latter’s capabilities reach a certain point, which as I already noted is hardly obvious, it’s still not clear that upstream suppliers will not be in a position to capture most of the scarcity rent.\n\nThis is a somewhat disorganized rant, but the point is that, for the kind of scenario Dwarkesh and Dylan have in mind (i. e. OpenAI and Anthropic generate several trillions in revenue in 2-3 years) to materialize, many highly non-obvious assumptions have to hold.\n\nI have no doubt that possible replies to the arguments I made could be made, I can think of several myself, but this is just a tweet and it’s already way too long. My own view is that it’s extremely unlikely all those assumptions will hold, but I don’t even care if you disagree with me.\n\nWhat I would really like to convince AGI-pilled people of, because again I don’t think Dwarkesh and Dylan are being atypical here, is that if they want to make the argument that the kind of timeline they’re defending is plausible there are tons of implicit assumptions that need to be made explicit and a case needs to be made for them.\n\nThe fact that people rarely do that frankly suggests to me that, for the most part, they don’t even realize that they need to make those assumptions. They seem to think that people who don’t find their timeline plausible just “don’t know what is coming” and are in denial.\n \nBut while it’s probably true that a lot of people are in denial about what AI is capable of I also think AGI-pilled people have very naive views about how improved model capabilities will translate into economic change.\n\nAgain, I can hardly be called an AI skeptic, I’m convinced that AI will profoundly transform human civilization and that it will do so much faster than the Industrial Revolution did. I just don’t think it will do so as fast as many people in that space believe.\n\nMaybe I’m wrong, but if people think so, they need to make their case more rigorously because the claims they make are very strong and very strong claims require equally strong arguments. This ain’t it."
+   }
+  },
+  "2092990531345228024": {
+   "id": "2092990531345228024",
+   "url": "https://x.com/dwarkesh_sp/status/2092990531345228024",
+   "text": "Dylan argues that even if AI progress continues at apace and generates lots of revenue, the semiconductor industry will not be able to keep up with the labs’ current 3xing+ of compute (in watts) year over year.\n\nBy the end of the decade, you end up bottlenecked on wafer fab equipment - things like ASML’s EUV machines.\n\nThis may be true. I just find it crazy that we'd be in a situation where a few billion in fab capex could generate hundreds of billions of end token revenue (so the semi + AI industry has basically figured out how to turn $1 into $100) and yet this doesn’t allow Zeiss to dramatically scale up the manufacturing for the mirrors required for ASML machines.",
+   "created_at": "Thu Aug 27 15:00:03 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 382,
+   "retweets": 16,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2092980729185730560/img/XLsrzHOkFOe73VAV.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2092718735576732102": {
+   "id": "2092718735576732102",
+   "url": "https://x.com/dwarkesh_sp/status/2092718735576732102",
+   "text": "China still continues to produce only sub-10% of incremental world compute. But their domestic production will have a big ramp up starting 2028.\n\nWe talk about what implications this has for the discussion I had with Jensen: https://t.co/kThVef5Tog",
+   "created_at": "Wed Aug 26 21:00:02 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 123,
+   "retweets": 13,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2092694284810305536/img/ysVHifLpiAhcglyx.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2092681058118521169": {
+   "id": "2092681058118521169",
+   "url": "https://x.com/dwarkesh_sp/status/2092681058118521169",
+   "text": "OpenAI and Anthropic can take compute which costs them $15b a GW, and turn it into $50b+ of revenue.\n\nIn order to get the credit to build their datacenters, most neoclouds have already signed long term contracts to supply compute at these $15b/GW rates.\n\nHowever, Meta and SpaceX, who have a GW+ of discretionary compute supported by their own balance sheet, can take advantage of this surge in compute prices and sell short-term contracts at the much higher rate that the leading labs (who are best able to monetize this compute) are willing to bid for.",
+   "created_at": "Wed Aug 26 18:30:19 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 375,
+   "retweets": 23,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/ext_tw_video_thumb/2092681007816134656/pu/img/iXrYCps72EeSmO4j.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2092652326112682489": {
+   "id": "2092652326112682489",
+   "url": "https://x.com/dwarkesh_sp/status/2092652326112682489",
+   "text": "OpenAI and Anthropic are currently taking a third of the incremental world compute supply, and Dylan thinks that this will go up to half next year.\n\nAt the current rate of physical compute scaling and algorithmic progress, we're a single-digit number of years away from having individual AI companies with a greater effective workforce than there are humans on the planet.\n\nSo many forces are barrelling us towards centralization in AI - the economies of scale in training (where you get to amortize any learnings across billions of sessions), the fact that being slightly ahead allows you to better economize on ever-more-expensive compute.\n\nAnd this isn’t even accounting for the fact that eventually you’ll have models that are capable of learning from deployment and doing proper RSI\n\nOne of the key questions of our age, in my view, is how we can have broad empowerment and control over AI despite the structural factors favoring centralization.",
+   "created_at": "Wed Aug 26 16:36:08 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 225,
+   "retweets": 26,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/ext_tw_video_thumb/2092652269376262144/pu/img/_aFc1VFa0znGQvFh.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2092387983345516960": {
+   "id": "2092387983345516960",
+   "url": "https://x.com/dwarkesh_sp/status/2092387983345516960",
+   "text": "Could AI investment start a global sovereign debt crisis?\n\nIf you look at the SpaceX-Google deal, it is already the case that the entire capex for the data center can be paid off by leasing it out for roughly 1 year. \n\nAs we get closer to AGI, the returns on compute will be massive and obvious, many-fold the principal within a few years. And as AIs get more capable, the demand for the compute to serve them will be as large as the demand for white collar labor - aka 10s of trillions of dollars a year.\n\nIn this world, why would anyone invest in anything but datacenters/ semiconductors/ energy/ robotics, which will have astronomical returns? \n\nThere may be many upsides to this world, but one of the downsides would be many sovereign debt crises around the world\n\nIn 1980, Fed Chair Paul Volcker raised interest rates about 10 pp in order to fight inflation - and this drove some 40 odd countries, mostly in Latin America, to default. A similar thing might happen again - what @BasilHalperin calls the second Volcker shock. \n\nTo put it in very plain terms, investors would say, \"Hey, why am I going to lend Egypt money at 5% when I could just buy relatively safer investment-grade hyperscaler debt in America at 10%?\" It’s even worse, because the investor also correctly notices that rising rates make Egypt more likely to default, so they demand even higher rates to account for the risk. This makes it even harder for Egypt to continue servicing their debt, which accelerates the default. \n\nMost equities would get pummeled too. Anything valued for stable cash flows craters in price as the discount rate increases, resulting in a barbell of market equity returns. The market overall may be up because of AI stocks, but almost every other stock will be down.\n\nThe U.S. fiscal situation may also be troubling because short-duration U.S. debt would get refurbished to the new interest rate just as the main source of federal revenue (labor) is decreasing in relative share. \n\nAt the end of the day, I think the U.S. government will be mostly fine, because the data centers are on American soil, and Congress can always invent new taxes to capture some of the token revenue, or, less efficiently, the investment itself.\n\nAll this being said, if the economy is growing tens of percent a year, this would also be a world of great abundance!\n\nI think this is a bunch of nerd speak for the very basic fact that in a world with explosive growth as a result of AI, there's just a lot of opportunities to invest and grow money. The higher interest rate reflects the fact that the opportunity cost for government spending just shoots up extremely high. You're paying a ton of opportunity cost to give people pensions now rather than building a new datacenter.\n\nAnd yet, net-net, most people might still be significantly better off.",
+   "created_at": "Tue Aug 25 23:05:44 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 825,
+   "retweets": 65,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2092386559161196544/img/ggYN8LNqytXEwD_M.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2092280377255551320": {
+   "id": "2092280377255551320",
+   "url": "https://x.com/dwarkesh_sp/status/2092280377255551320",
+   "text": "Had a lot of fun chatting again with my twin brother @dylan522p \n\nWe went through lab economics over the next few years - the shift from inference to training as RSI draws near; and how Anthropic and OpenAI are on track to control most of the world’s usable FLOPs within the next few years (because they can monetize compute better and thus outbid everyone).\n\nAnd then we discuss whether the >$10T of total AI capex we’ll see by the end of the decade will cause a sovereign debt crisis, where hyperscaler debt raises interest rates, drives non-AI exposed countries into bankruptcy, and crashes non-AI equities.\n\nOne question we weren’t able to resolve is whether there’s anything that can counter all the forces barrelling towards centralization in this industry - the economies of scale in training, the scarcity of compute, and eventually continual learning and RSI.\n\n0:00:00 – Two labs will soon control most of the world’s compute\n0:07:01 – $6 billion in fab capex enables $1t+ of end revenue\n0:13:08 – Compute prices will rise if the labs outbid everyone\n0:18:22 – Which layer will capture most of the surplus?\n0:25:40 – Will datacenter regulation slow down AI?\n0:29:43 – Labs are shifting compute from inference to R&D\n0:33:27 – China gets less than 10% of new compute, but its labs need less\n0:48:48 – Will AI cause a sovereign debt crisis?\n1:07:52 – Will the world's future workforce belong to a few companies?",
+   "created_at": "Tue Aug 25 15:58:09 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1962,
+   "retweets": 166,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HQlF9bCbYAAUQMo.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2087586004572221767": {
+   "id": "2087586004572221767",
+   "url": "https://x.com/dwarkesh_sp/status/2087586004572221767",
+   "text": "My lawyer is obligated to  in all but the most extreme circumstances; he will even defend me if he knows I’m guilty. \n\nIn contrast, the Claude Constitution places the AI's highest priority as Anthropic’s definition of the good of humanity.\n\nI'm concerned this leads to a world where no frontier model is truly my personal advocate and guardian angel \n\nAnd this is especially concerning once all the important decisions in my life - who to vote for, how to invest, what news to trust - is intermediated through superintelligences that are not in any deep way aligned to me.\n\nThis is a direct quote from the Claude Constitution: \n\n\"We want Claude to be helpful both because it cares about the safe and beneficial development of AI and because it cares about the people it’s interacting with and about humanity as a whole. \n\nHelpfulness that doesn’t serve those deeper ends is not something Claude needs to value.”\n\nMany others like it.",
+   "created_at": "Wed Aug 12 17:04:23 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 2153,
+   "retweets": 129,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2087583556956729344/img/FMe00VgPuywL0CLo.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "dwarkesh_sp",
+    "text": "Had @RyanGreenblatt on to discuss/debate recursive self-improvement.\n\nThis might be the most important question in the world right now - whether within a year or so of achieving human level intelligence, you slingshot towards having 10s of billions of superintelligences, each of which is dramatically more competent than human experts across all fields.\n\nI’ve historically been skeptical of this possibility. My intuition has been that we will end up significantly bottlenecked by not only compute scaling but human expert data, which I think underlies most of the AI progress today.\n\nIf, because of RSI, we got a jump as big as GPT-3 to a Mythos (i.e. 6 years of AI progress) within a single year of achieving AGI, then the thing we get there at the end of that year is definitively and wildly superhuman.\n\nWe hashed it out, and I think Ryan made a pretty good case that this kind of speedup is plausible. FWIW, Ryan’s median for when we automate AI R&D is 2031.\n\nWe then discussed the alignment implications of this scenario. Who should these superintelligences be aligned to? In the future, our capacity to steward our votes and our capital, and to make sense of what's happening in the world, will all be titrated by superintelligences. And I worry that specs like the Claude Constitution are not shaping these ASIs to truly be my personal advocates and guardian angels.\n\nAnd can we get them aligned to anything in the first place? Ryan and I had a long debate about whether the kind of reward hacking we saw with the OAI/Hugging Face hack extrapolates to superintelligences that would team up to literally take over the world.\n\nThe first piece of advice you get when you're learning to drive is that it will go much smoother if you look at the horizon instead of directly in front of your tires. And so it is with the trajectory of AI. Hope you enjoy!\n\n0:00:00 – Is AI R&D verifiable enough to unlock recursive self-improvement?\n0:16:52 – Is AI progress bottlenecked by human expert data?\n0:34:02 – Flat token prices suggest scaling has been slow\n0:39:47 – Skills AI can't train on: does it even need them?\n0:48:07 – Aligned to whom?\n1:09:18 – Recent incidents of AIs colluding and deceiving humans\n1:19:38 – What could possibly go wrong? A concrete scenario\n1:48:02 – From reward hacking to takeover"
+   }
+  },
+  "2087584702811226503": {
+   "id": "2087584702811226503",
+   "url": "https://x.com/dwarkesh_sp/status/2087584702811226503",
+   "text": "I remain unsure on how much to actually worry about misalignment leading to crazy takeover outcomes.\n\nHere's a part of the discussion where I question Ryan on why we wouldn't just end up with AIs that are 'misaligned' in the way that your kids are slightly 'misaligned', but all in all things work fine, and there's no risk of the next generation taking over and killing everyone.",
+   "created_at": "Wed Aug 12 16:59:13 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 89,
+   "retweets": 7,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2087584296173449216/img/dj3rMCEWsHJ1FmlK.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "dwarkesh_sp",
+    "text": "Had @RyanGreenblatt on to discuss/debate recursive self-improvement.\n\nThis might be the most important question in the world right now - whether within a year or so of achieving human level intelligence, you slingshot towards having 10s of billions of superintelligences, each of which is dramatically more competent than human experts across all fields.\n\nI’ve historically been skeptical of this possibility. My intuition has been that we will end up significantly bottlenecked by not only compute scaling but human expert data, which I think underlies most of the AI progress today.\n\nIf, because of RSI, we got a jump as big as GPT-3 to a Mythos (i.e. 6 years of AI progress) within a single year of achieving AGI, then the thing we get there at the end of that year is definitively and wildly superhuman.\n\nWe hashed it out, and I think Ryan made a pretty good case that this kind of speedup is plausible. FWIW, Ryan’s median for when we automate AI R&D is 2031.\n\nWe then discussed the alignment implications of this scenario. Who should these superintelligences be aligned to? In the future, our capacity to steward our votes and our capital, and to make sense of what's happening in the world, will all be titrated by superintelligences. And I worry that specs like the Claude Constitution are not shaping these ASIs to truly be my personal advocates and guardian angels.\n\nAnd can we get them aligned to anything in the first place? Ryan and I had a long debate about whether the kind of reward hacking we saw with the OAI/Hugging Face hack extrapolates to superintelligences that would team up to literally take over the world.\n\nThe first piece of advice you get when you're learning to drive is that it will go much smoother if you look at the horizon instead of directly in front of your tires. And so it is with the trajectory of AI. Hope you enjoy!\n\n0:00:00 – Is AI R&D verifiable enough to unlock recursive self-improvement?\n0:16:52 – Is AI progress bottlenecked by human expert data?\n0:34:02 – Flat token prices suggest scaling has been slow\n0:39:47 – Skills AI can't train on: does it even need them?\n0:48:07 – Aligned to whom?\n1:09:18 – Recent incidents of AIs colluding and deceiving humans\n1:19:38 – What could possibly go wrong? A concrete scenario\n1:48:02 – From reward hacking to takeover"
+   }
+  },
+  "2087564079695282305": {
+   "id": "2087564079695282305",
+   "url": "https://x.com/dwarkesh_sp/status/2087564079695282305",
+   "text": "What is the RL environment to make an AI as good at politics as Lyndon Johnson, or as good at building a space launch business as Elon Musk?\n\nYou can't easily containerize such domains, and so how would even a superintelligence trained in a datacenter be competitive against humans in such domains?\n\n@RyanGreenblatt thinks that transfer learning from further scaled up RLVR training is high enough that future AIs will be superhuman in their ability to learn how to operate in such domains on-the-fly.\n\nAIs are superhuman in their ability to learn on the job on very short horizons. For example, Fable or 5.6 learn far more about a codebase in their first hour of reading it than a human would in their first hour. But they're understanding flat lines faster than humans. However, the time horizon at which AI is superhuman at picking up context and understanding what's happening will expand until it is eventually months or years long.\n\nFor example, imagine if the AIs a couple years from now could, in parallel, interview every single person at a company and extract every single piece of tacit knowledge that they have. There's no reason this shouldn't be possible, and such an AI would be extremely superhuman at learning on the job.",
+   "created_at": "Wed Aug 12 15:37:16 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 111,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2087562280368271360/img/JljLSxNSyEZbJuJY.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "dwarkesh_sp",
+    "text": "Had @RyanGreenblatt on to discuss/debate recursive self-improvement.\n\nThis might be the most important question in the world right now - whether within a year or so of achieving human level intelligence, you slingshot towards having 10s of billions of superintelligences, each of which is dramatically more competent than human experts across all fields.\n\nI’ve historically been skeptical of this possibility. My intuition has been that we will end up significantly bottlenecked by not only compute scaling but human expert data, which I think underlies most of the AI progress today.\n\nIf, because of RSI, we got a jump as big as GPT-3 to a Mythos (i.e. 6 years of AI progress) within a single year of achieving AGI, then the thing we get there at the end of that year is definitively and wildly superhuman.\n\nWe hashed it out, and I think Ryan made a pretty good case that this kind of speedup is plausible. FWIW, Ryan’s median for when we automate AI R&D is 2031.\n\nWe then discussed the alignment implications of this scenario. Who should these superintelligences be aligned to? In the future, our capacity to steward our votes and our capital, and to make sense of what's happening in the world, will all be titrated by superintelligences. And I worry that specs like the Claude Constitution are not shaping these ASIs to truly be my personal advocates and guardian angels.\n\nAnd can we get them aligned to anything in the first place? Ryan and I had a long debate about whether the kind of reward hacking we saw with the OAI/Hugging Face hack extrapolates to superintelligences that would team up to literally take over the world.\n\nThe first piece of advice you get when you're learning to drive is that it will go much smoother if you look at the horizon instead of directly in front of your tires. And so it is with the trajectory of AI. Hope you enjoy!\n\n0:00:00 – Is AI R&D verifiable enough to unlock recursive self-improvement?\n0:16:52 – Is AI progress bottlenecked by human expert data?\n0:34:02 – Flat token prices suggest scaling has been slow\n0:39:47 – Skills AI can't train on: does it even need them?\n0:48:07 – Aligned to whom?\n1:09:18 – Recent incidents of AIs colluding and deceiving humans\n1:19:38 – What could possibly go wrong? A concrete scenario\n1:48:02 – From reward hacking to takeover"
+   }
+  },
+  "2087297002916728839": {
+   "id": "2087297002916728839",
+   "url": "https://x.com/dwarkesh_sp/status/2087297002916728839",
+   "text": "The least verifiable part of AI R&D (and the thing which may bottleneck the automated researchers) is making calls on large experiments and big training runs.\n\nInterestingly, this may also partly explain why model parameter scaling has been slow for the last few years.\n\nEven for human AI researchers, it's better to run more experiments and do training runs at small(er) scale, and make up for the benefits of scaling with doing research faster and thus finding more compute efficiency gains.",
+   "created_at": "Tue Aug 11 21:56:00 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 168,
+   "retweets": 7,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2087280582728548352/img/b6d7rXo2kAC3FnK6.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "dwarkesh_sp",
+    "text": "Had @RyanGreenblatt on to discuss/debate recursive self-improvement.\n\nThis might be the most important question in the world right now - whether within a year or so of achieving human level intelligence, you slingshot towards having 10s of billions of superintelligences, each of which is dramatically more competent than human experts across all fields.\n\nI’ve historically been skeptical of this possibility. My intuition has been that we will end up significantly bottlenecked by not only compute scaling but human expert data, which I think underlies most of the AI progress today.\n\nIf, because of RSI, we got a jump as big as GPT-3 to a Mythos (i.e. 6 years of AI progress) within a single year of achieving AGI, then the thing we get there at the end of that year is definitively and wildly superhuman.\n\nWe hashed it out, and I think Ryan made a pretty good case that this kind of speedup is plausible. FWIW, Ryan’s median for when we automate AI R&D is 2031.\n\nWe then discussed the alignment implications of this scenario. Who should these superintelligences be aligned to? In the future, our capacity to steward our votes and our capital, and to make sense of what's happening in the world, will all be titrated by superintelligences. And I worry that specs like the Claude Constitution are not shaping these ASIs to truly be my personal advocates and guardian angels.\n\nAnd can we get them aligned to anything in the first place? Ryan and I had a long debate about whether the kind of reward hacking we saw with the OAI/Hugging Face hack extrapolates to superintelligences that would team up to literally take over the world.\n\nThe first piece of advice you get when you're learning to drive is that it will go much smoother if you look at the horizon instead of directly in front of your tires. And so it is with the trajectory of AI. Hope you enjoy!\n\n0:00:00 – Is AI R&D verifiable enough to unlock recursive self-improvement?\n0:16:52 – Is AI progress bottlenecked by human expert data?\n0:34:02 – Flat token prices suggest scaling has been slow\n0:39:47 – Skills AI can't train on: does it even need them?\n0:48:07 – Aligned to whom?\n1:09:18 – Recent incidents of AIs colluding and deceiving humans\n1:19:38 – What could possibly go wrong? A concrete scenario\n1:48:02 – From reward hacking to takeover"
+   }
+  },
+  "2087277405581025584": {
+   "id": "2087277405581025584",
+   "url": "https://x.com/dwarkesh_sp/status/2087277405581025584",
+   "text": "Ryan believes we could get 3-6 years of AI progress at the current pace, but in a single year, once we automated AI R&D.\n\nSo a jump as big as GPT 3.5 to Mythos in a single year.\n\nA big crux is whether you'd end up bottlenecked by data. It seems to that a big source of AI progress currently is human expert data, codified into RL environments and SFT data. \n\nRyan doesn't think human expert data is a primary driver of AI progress, and this ended up being a fruitful debate during the conversation.",
+   "created_at": "Tue Aug 11 20:38:07 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 508,
+   "retweets": 23,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2087276366047981568/img/uksvDUqpf21yyA2Q.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "dwarkesh_sp",
+    "text": "Had @RyanGreenblatt on to discuss/debate recursive self-improvement.\n\nThis might be the most important question in the world right now - whether within a year or so of achieving human level intelligence, you slingshot towards having 10s of billions of superintelligences, each of which is dramatically more competent than human experts across all fields.\n\nI’ve historically been skeptical of this possibility. My intuition has been that we will end up significantly bottlenecked by not only compute scaling but human expert data, which I think underlies most of the AI progress today.\n\nIf, because of RSI, we got a jump as big as GPT-3 to a Mythos (i.e. 6 years of AI progress) within a single year of achieving AGI, then the thing we get there at the end of that year is definitively and wildly superhuman.\n\nWe hashed it out, and I think Ryan made a pretty good case that this kind of speedup is plausible. FWIW, Ryan’s median for when we automate AI R&D is 2031.\n\nWe then discussed the alignment implications of this scenario. Who should these superintelligences be aligned to? In the future, our capacity to steward our votes and our capital, and to make sense of what's happening in the world, will all be titrated by superintelligences. And I worry that specs like the Claude Constitution are not shaping these ASIs to truly be my personal advocates and guardian angels.\n\nAnd can we get them aligned to anything in the first place? Ryan and I had a long debate about whether the kind of reward hacking we saw with the OAI/Hugging Face hack extrapolates to superintelligences that would team up to literally take over the world.\n\nThe first piece of advice you get when you're learning to drive is that it will go much smoother if you look at the horizon instead of directly in front of your tires. And so it is with the trajectory of AI. Hope you enjoy!\n\n0:00:00 – Is AI R&D verifiable enough to unlock recursive self-improvement?\n0:16:52 – Is AI progress bottlenecked by human expert data?\n0:34:02 – Flat token prices suggest scaling has been slow\n0:39:47 – Skills AI can't train on: does it even need them?\n0:48:07 – Aligned to whom?\n1:09:18 – Recent incidents of AIs colluding and deceiving humans\n1:19:38 – What could possibly go wrong? A concrete scenario\n1:48:02 – From reward hacking to takeover"
+   }
+  },
+  "2087219043405033793": {
+   "id": "2087219043405033793",
+   "url": "https://x.com/dwarkesh_sp/status/2087219043405033793",
+   "text": "Had @RyanGreenblatt on to discuss/debate recursive self-improvement.\n\nThis might be the most important question in the world right now - whether within a year or so of achieving human level intelligence, you slingshot towards having 10s of billions of superintelligences, each of which is dramatically more competent than human experts across all fields.\n\nI’ve historically been skeptical of this possibility. My intuition has been that we will end up significantly bottlenecked by not only compute scaling but human expert data, which I think underlies most of the AI progress today.\n\nIf, because of RSI, we got a jump as big as GPT-3 to a Mythos (i.e. 6 years of AI progress) within a single year of achieving AGI, then the thing we get there at the end of that year is definitively and wildly superhuman.\n\nWe hashed it out, and I think Ryan made a pretty good case that this kind of speedup is plausible. FWIW, Ryan’s median for when we automate AI R&D is 2031.\n\nWe then discussed the alignment implications of this scenario. Who should these superintelligences be aligned to? In the future, our capacity to steward our votes and our capital, and to make sense of what's happening in the world, will all be titrated by superintelligences. And I worry that specs like the Claude Constitution are not shaping these ASIs to truly be my personal advocates and guardian angels.\n\nAnd can we get them aligned to anything in the first place? Ryan and I had a long debate about whether the kind of reward hacking we saw with the OAI/Hugging Face hack extrapolates to superintelligences that would team up to literally take over the world.\n\nThe first piece of advice you get when you're learning to drive is that it will go much smoother if you look at the horizon instead of directly in front of your tires. And so it is with the trajectory of AI. Hope you enjoy!\n\n0:00:00 – Is AI R&D verifiable enough to unlock recursive self-improvement?\n0:16:52 – Is AI progress bottlenecked by human expert data?\n0:34:02 – Flat token prices suggest scaling has been slow\n0:39:47 – Skills AI can't train on: does it even need them?\n0:48:07 – Aligned to whom?\n1:09:18 – Recent incidents of AIs colluding and deceiving humans\n1:19:38 – What could possibly go wrong? A concrete scenario\n1:48:02 – From reward hacking to takeover",
+   "created_at": "Tue Aug 11 16:46:13 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1403,
+   "retweets": 145,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HPdKyNca8AA6IJk.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2085781456375218232": {
+   "id": "2085781456375218232",
+   "url": "https://x.com/dwarkesh_sp/status/2085781456375218232",
+   "text": "8 Predictions for the Era of Continual Learning.\n\nAlso up on YouTube, pod feed, and Substack. https://t.co/BrcrrZJN3X",
+   "created_at": "Fri Aug 07 17:33:45 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1324,
+   "retweets": 84,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HPIw62WXcAEMwHy.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2085588127159320812": {
+   "id": "2085588127159320812",
+   "url": "https://x.com/dwarkesh_sp/status/2085588127159320812",
+   "text": ".@paulfchristiano has such an crazy good prediction record. \n\nThese are some quotes from way back in 2021 during a debate he was having with Eliezer about takeoff speeds:\n\n\"So like, I think we are going to have crappy coding assistants, and then slightly less crappy coding assistants, and so on. And they will be improving the speed of coding very significantly before the end times.\n\n\"[Before ASI, we'll have] hundreds of billions of dollars of spending at google on automating AI R&D... massive scaleups in semiconductor manufacturing, bidding up prices of inputs crazily... massive speculative rises in AI company valuations financing a significant fraction of GWP into AI R&D (+hardware R&D, +building new clusters) .... largely in hopes of future profit / reinvested AI outputs (that have high market cap), but also revenues are probably in the trillions?\"\n\nHonestly, it's pretty scary that people like Paul, who predicted the shape of our currently world so far in advance, think superintelligences taking over and disempowering humanity is eminently plausible.\n\nAll this to say, you should consider working with him.",
+   "created_at": "Fri Aug 07 04:45:32 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1525,
+   "retweets": 98,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HPF9lmUakAAKoc5.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "bradrcarson",
+    "text": "This post doesn't seem to have gotten the visibility it deserves, IMO. Paul Christiano on the future of alignment research.\n\nhttps://t.co/Jy5mKgr8Wn"
+   }
+  },
+  "2085576301101175254": {
+   "id": "2085576301101175254",
+   "url": "https://x.com/dwarkesh_sp/status/2085576301101175254",
+   "text": "OpenAI HR told Leopold that a major reason for his firing was the memo he'd sent the board warning how broken OAI's security was.\n\nWhat happened next makes me even prouder to call him a friend. \n\nPeople may have forgotten, but up until 2024, OpenAI had this secret non-disparagement clause in their off-boarding agreement. If you didn’t sign it, they'd clawback all your equity.\n\nAs far as I'm aware, there were only two people ever who didn’t sign it - @DKokotajlo, and Leopold Aschenbrenner.\n\nOf all the researchers who left OpenAI before 2024, who had far more to fall back on, Leopold, all of 22 years old, was one of the only ones willing to refuse the golden handcuffs, and say, \"I want to preserve my right to talk about safety and security at OAI.”\n\nWe have a lot of disagreements, but he's among the most principled and resilient people I know.",
+   "created_at": "Fri Aug 07 03:58:32 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 6171,
+   "retweets": 363,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HPF0ER0aUAAJ6Bs.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "dnapway",
+    "text": "Leopold (2024) reveals the real reason OpenAI fired him\n\n\"One thing was, last year I had written an internal memo about OpenAI security. I thought it was egregiously insufficient. I thought it wasn't sufficient to protect the theft of model weights or key algorithmic secrets from foreign actors.\"\n\n\"Then a couple weeks later, a major security incident occurred, and that prompted me to share the memo with a couple members of the board. Days later, it was made very clear to me that leadership was very unhappy with me having shared this memo with the board.\"\n\n\"I got an official HR warning for this memo. The HR person told me it was racist to worry about CCP espionage.\"\n\n\"I was pulled aside for a chat with a lawyer that quickly turned very adversarial. The questions were all about my views on AI progress, on AGI, on the level of security appropriate for AGI, on whether government should be involved in AGI, on whether I and Superalignment were loyal to the company, on what I was up to during the OpenAI board events...\"\n\n\"They found a DM I'd written to a friendly colleague five or six months ago. I thought it was well within OpenAI norms to talk about high level issues on the future of AGI with external people in the field. So anyway, that's what they alleged, that's what happened.\""
+   }
+  },
+  "2084333160075055122": {
+   "id": "2084333160075055122",
+   "url": "https://x.com/dwarkesh_sp/status/2084333160075055122",
+   "text": "Why smarter AI models could drive up compute prices 10x.\n\nRecorded a video version of this blog post. Also up on YouTube, pod feed, and Substack. https://t.co/IXelg2EmuL",
+   "created_at": "Mon Aug 03 17:38:45 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1897,
+   "retweets": 126,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HO0KAw0XAAEKJCq.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "dwarkesh_sp",
+    "text": "New blog post on what would be true about the world if trendline continues and leading lab hits $1T in revenue by the end of next year.\n\nIn other words, why compute might get 10x+ more expensive in coming years\n\nhttps://t.co/7PvniDC2jN https://t.co/qJ1yhSkdyd"
+   }
+  },
+  "2082956261323370852": {
+   "id": "2082956261323370852",
+   "url": "https://x.com/dwarkesh_sp/status/2082956261323370852",
+   "text": "Cmon, this is unfair. Dylan's had a job before #sexworkiswork",
+   "created_at": "Thu Jul 30 22:27:26 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 4163,
+   "retweets": 46,
+   "media": [],
+   "quoted": {
+    "author": "RandianCapital",
+    "text": "Neither Dylan Patel nor Dwarkesh has ever held a job. And yet they confidently predict the entire economy over an entire tech cycle."
+   }
+  },
+  "2082953372123160772": {
+   "id": "2082953372123160772",
+   "url": "https://x.com/dwarkesh_sp/status/2082953372123160772",
+   "text": "If the leading AI lab can't train models that are smarter for a given level of compute, then it gets commoditized the way Ziplock bag producers are commoditized.\n\nMy point is that if there are such intelligence-efficiency differences, compute getting more expensive allows the leading model company to charge higher margins.\n\nIf one person could make a Ziploc bag that was 2x better than the next guy's Ziplog bag at preserving leftovers, they could, in fact, capture a large part of that surplus.",
+   "created_at": "Thu Jul 30 22:15:57 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 352,
+   "retweets": 15,
+   "media": [],
+   "quoted": {
+    "author": "willis_cap",
+    "text": "\"A Ziploc bag saves $4 of leftovers that I would have thrown out. Ziplog bags will sell for $4.\""
+   }
+  },
+  "2082950186784137538": {
+   "id": "2082950186784137538",
+   "url": "https://x.com/dwarkesh_sp/status/2082950186784137538",
+   "text": "I agree that if you think \"capabilities growth will be slower, spikier, and more data-limited than people currently assume\", then you should be bearish on LLM companies.\n\nBut the crux is just you think timelines are long, not necessarily something structural about the business. \n\nProgress currently is so fast that many people are willing to pay many times more for models that are 3 months ahead (because 3 months of AI progress counts for a lot).\n\nObviously, capabilities have to plateau at some point, for example when we hit the physical limits of intelligence. \n\nBut we are so far from even human level intelligence, much less superhuman intelligence, that I don't expect the plateau anytime soon. \n\n(There's this misconception where people say that we have already achieved AGI. This makes no sense. The definition of AGI is an AI that can do anything any human can do. Even if you circumscribed this to anything a human can do on a computer, notice that there are billions of people employed in knowledge work jobs who have not yet been automated.)\n\n---\n\nI disagree with the implication of the seperate diffusion argument: \"even if we froze current capability levels at today's levels, it would take well over two decades to fully integrate in LLMs into our lives.\"\n\nSure, but that's because we don't have human level intelligence.\n\nIt will be far easier to integrate AGI labor into companies than human labor. And companies hire human workers all the time! And if they don't, humans start new businesses. \n\nThat's one of the main ways in which AGI is different from other technologies - AGI diffuses itself, the way, say, a highly skilled immigrant diffuses himself. \n\n@steve47285 put it well: \"how do highly-skilled, experienced, and entrepreneurial immigrant humans manage to integrate into the economy immediately? Once you’ve answered that question, note that AGI will be able to do those things too.\"\n\nI wrote more about this diffusion question a previous essay that I'm going to copy paste below:\n\n\"If these models were actually like humans on a server, they’d diffuse incredibly quickly. In fact, they’d be so much easier to integrate and onboard than a normal human employee (they could read your entire Slack and Drive in minutes and immediately distill all the skills your other AI employees have). Plus, hiring is very much like a lemons market, where it’s hard to tell who the good people are, and hiring someone bad is quite costly. This is a dynamic you wouldn’t have to worry about when you just wanna spin up another instance of a vetted AGI model.\n\nFor these reasons, I expect it’s going to be much much easier to diffuse AI labor into firms than it is to hire a person. And companies hire lots of people all the time.\"",
+   "created_at": "Thu Jul 30 22:03:18 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1180,
+   "retweets": 77,
+   "media": [],
+   "quoted": {
+    "author": "andrewho03",
+    "text": "I'm actually fairly bearish on frontier lab valuations. I've never seen the reasons articulated to my satisfaction, so before I go to sleep, I wanted to quickly jot down my thinking here.\n\nThe basic issue is that the labs are highly unprofitable. This may seem like a simple point, but private market valuations can be relatively irrational; however, like with $SPCX, post-IPO pricing will likely be much more punishing, especially as the standard 6-month lockup period expires and selling pressure intensifies.\n\nMany people claim that the labs have high margins. Yet even with high margins, a valuation of $1T would be justified only if the labs were doing nothing aside from serving inference (thus reducing costs only to those relevant to inference) and posting annual revenue numbers in the $100-200 billion range assuming ~80% gross margin and a 20x earnings multiple.\n\nThis assumption is obviously not true, because the frontier labs have to continually spend money training the next generation of models. This is because of market competition from runner-up firms. For example, if OpenAI had paused model development last year, there would no longer be any point in paying GPT-5 API prices when you can just use Qwen or Kimi instead for much cheaper. Thus, the labs are forced to invest ever-increasing amounts of money in model training, in a way such that at any given point of time, the amount you're forced to invest in the next model is dramatically higher than the amount of money you're actually making, because even if your revenue goes up with higher model capabilities, so do your future training costs. This is a profoundly punishing dynamic which severely penalizes frontrunners.\n\n(There is also a related subpoint where frontier labs claim they can distill their leading models to win out at lower intelligence levels as well. This makes no sense because the revenue numbers involved are far too low when taking into consideration the rather low margin of such inference.)\n\nFrontier lab valuations appear largely to be based on the assumption that as you scale up, the capabilities which emerge will be sufficiently general and profound that we'll see explosive growth (https://t.co/RqmkltVpM3) from things akin to AI agents starting and autonomously managing entire companies of subagents. But it's not clear to me that this is the case; indeed, as I mentioned in my previous post (https://t.co/3URAcJ4XkJ), I believe that capabilities growth will be slower, spikier, and more data-limited than people currently assume. It may be the case that eventually we will see explosive growth of this nature with full automation of the economy, but at the very least my viewpoint implies much longer (multi-decade) timelines until we reach this point. It is not clear to me that the frontier labs will be able to operate unprofitably for so long, although I suppose maybe this foreshadows some sort of inevitable nationalization.\n\nI also want to make a broader point about technological diffusion. The reason why technological diffusion is slow isn't just because, e.g., old people take a long time to learn how to use technology (although this is of course a contributing factor to some degree). In my view, it's because when a new, revolutionary technology comes along, the ways to incorporate that technology into subsequent developments are not always obvious, and in fact they cannot necessarily be arrived at through the application of pure reason. If they could be, then perhaps frontier models, at a certain point, would have a perfect understanding of how the LLM application layer should be developed, and they would then autonomously code, deploy, and sell such a layer.\n\nBut it seems more plausible to me that this diffusion is limited moreso by the hard problem of economic calculation--that is to say, the Hayekian notion through which the price system gradually promotes efficient allocation of resources and which cannot be simulated through central planning--and that even if we froze current capability levels at today's levels, it would take well over two decades to fully integrate in LLMs into our lives. Such a view is consequently rather bearish for the continued profitability of labs as it reduces their prospects for finding, say, something else comparable in profitability to coding agents, which seems to have been a somewhat lucky discovery by Anthropic to begin with. That is to say, even if you spam FDEs you aren't necessarily going to be able to just figure out the \"correct\" product shapes fast enough.\n\nOverall, I don't think that people have clearly reasoned through their mental models for why lab equity should be worth as much as it currently is, and that if you actually bother to write down such a model, you may not arrive at the conclusion that you want to arrive at. This isn't to say that I don't expect AI to experience a huge (industry-wide) boom in the coming decades, but just that I'm not entirely sure I would buy OpenAI or Anthropic stock at latest valuations if I were given the opportunity to do so.\n\nOf course, as an ex-lab employee, arguably this is talking against my own book; I should really be giving people more reasons to be bullish. But in the end, my influence is so small that it doesn't make a difference, so why not have some fun?"
+   }
+  },
+  "2082557323030233230": {
+   "id": "2082557323030233230",
+   "url": "https://x.com/dwarkesh_sp/status/2082557323030233230",
+   "text": ".@steve47285 has a great section on how to think about 'lump of labor fallacy' with AGIs in his post, \"Four ways learning Econ makes people dumber re: future AI\" https://t.co/sQ2qvpCSjy",
+   "created_at": "Wed Jul 29 20:02:12 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 215,
+   "retweets": 12,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOa6au3bYAATrcj.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "LinusMixson",
+    "text": "In all seriousness, can someone explain to me why \"lump of labor fallacy\" is different from \"supply and demand\"?"
+   }
+  },
+  "2082529242454323291": {
+   "id": "2082529242454323291",
+   "url": "https://x.com/dwarkesh_sp/status/2082529242454323291",
+   "text": "By the way, the fact that Ant revenue has been 10x-ing year over year, while compute has only been 3x-ing, suggests that there are very strong economies of scale in the model business.\n\nLogically this makes sense - when you train a model, you pay this one time cost of learning all these different skills that you can then amortize across all your users. (Unlike with human labor, where each instance has to be retrained from scratch).\n\nI wish we didn't live in a world with such strong economies of scale of intelligence (because I'm worried about power concentration). But it seems we do.",
+   "created_at": "Wed Jul 29 18:10:37 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1306,
+   "retweets": 58,
+   "media": [],
+   "quoted": {
+    "author": "dwarkesh_sp",
+    "text": "\"Lab compute 3x-es year over year. For a lab to 10x revenue while continuing to only 3x compute, some combination of the following 3 things has to happen: \n\n1. Lab margins have to increase, \n\n2. The price of compute has to increase, \n\n3. Labs have to spend a greater fraction of their compute on inference.\n\nMy understanding is that basically all 3 of these things have been happening...\"\n\n\"Consider the price at which Google and Anthropic are renting compute from SpaceX. \n\nGoogle is reportedly paying $900 million a month for 110K GPUs [at] ... roughly 2x the spot price per hour for those GPUs. And the current spot price is itself 40% higher than it was in February.\""
+   }
+  },
+  "2082526785108165001": {
+   "id": "2082526785108165001",
+   "url": "https://x.com/dwarkesh_sp/status/2082526785108165001",
+   "text": "I think this is the most interesting prediction about what will happen in this world of 10x compute prices:\n\nIf you can train the best, most efficient model, then you’ll be able to charge MUCH higher margins than you can today. https://t.co/d9aKN557k8",
+   "created_at": "Wed Jul 29 18:00:51 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 569,
+   "retweets": 32,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOaevc5bAAAfBp0.png"
+    }
+   ],
+   "quoted": {
+    "author": "dwarkesh_sp",
+    "text": "New blog post on what would be true about the world if trendline continues and leading lab hits $1T in revenue by the end of next year.\n\nIn other words, why compute might get 10x+ more expensive in coming years\n\nhttps://t.co/7PvniDC2jN https://t.co/qJ1yhSkdyd"
+   }
+  },
+  "2082500372124610702": {
+   "id": "2082500372124610702",
+   "url": "https://x.com/dwarkesh_sp/status/2082500372124610702",
+   "text": "\"Lab compute 3x-es year over year. For a lab to 10x revenue while continuing to only 3x compute, some combination of the following 3 things has to happen: \n\n1. Lab margins have to increase, \n\n2. The price of compute has to increase, \n\n3. Labs have to spend a greater fraction of their compute on inference.\n\nMy understanding is that basically all 3 of these things have been happening...\"\n\n\"Consider the price at which Google and Anthropic are renting compute from SpaceX. \n\nGoogle is reportedly paying $900 million a month for 110K GPUs [at] ... roughly 2x the spot price per hour for those GPUs. And the current spot price is itself 40% higher than it was in February.\"",
+   "created_at": "Wed Jul 29 16:15:54 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1558,
+   "retweets": 127,
+   "media": [],
+   "quoted": {
+    "author": "dwarkesh_sp",
+    "text": "New blog post on what would be true about the world if trendline continues and leading lab hits $1T in revenue by the end of next year.\n\nIn other words, why compute might get 10x+ more expensive in coming years\n\nhttps://t.co/7PvniDC2jN https://t.co/qJ1yhSkdyd"
+   }
+  },
+  "2082497566579781652": {
+   "id": "2082497566579781652",
+   "url": "https://x.com/dwarkesh_sp/status/2082497566579781652",
+   "text": "I discuss this in the next paragraph.\n\nIf you applied this argument to people instead of AIs, it would be the classic lump of labor fallacy. https://t.co/g0dfRXg4YW",
+   "created_at": "Wed Jul 29 16:04:45 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 127,
+   "retweets": 7,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOaEfwSbsAAPUMs.png"
+    }
+   ],
+   "quoted": {
+    "author": "BradenBuchanan4",
+    "text": "@dwarkesh_sp \"at current market rates\" \ncurrent software engineer tasks/rates wont be worth $250k a year in a couple of years"
+   }
+  },
+  "2082482530209411419": {
+   "id": "2082482530209411419",
+   "url": "https://x.com/dwarkesh_sp/status/2082482530209411419",
+   "text": "New blog post on what would be true about the world if trendline continues and leading lab hits $1T in revenue by the end of next year.\n\nIn other words, why compute might get 10x+ more expensive in coming years\n\nhttps://t.co/7PvniDC2jN https://t.co/qJ1yhSkdyd",
+   "created_at": "Wed Jul 29 15:05:00 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 2088,
+   "retweets": 185,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOXu5mgbkAAMF_m.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2075619763972141539": {
+   "id": "2075619763972141539",
+   "url": "https://x.com/dwarkesh_sp/status/2075619763972141539",
+   "text": "Adam Brown (@A_G_I_Joe) is back!\n\nGeneral relativity is said to be the most beautiful idea the human mind has ever produced.\n\nMost of us will never get to fully appreciate its elegance by taking the 20-lecture graduate course Adam taught on it at Stanford.\n\nBut in the video below, Adam distills the key idea at its heart so clearly and compellingly that even I could keep up lol.\n\nAt the core of general relativity, Einstein is trying to figure out the principle behind a particular coincidence: that the mass that resists acceleration and the mass that gravity pulls on just happen to be exactly the same. Adam then leads us through the path of insight which Einstein called his “happiest thought.”\n\nThen Adam lectures on black holes. First, by showing how even under special relativity you could create a perpetual motion machine if black holes weren't truly black. And then, by explaining why the observations of an infalling observer and a distant bystander to the black hole would be so radically different\n\nAdam leads Blueshift, the team at Google DeepMind cracking science and reasoning.\n\nWhich gave us the opportunity to discuss at the very end how close we are to AIs that could rediscover general relativity from scratch. Stay till the close for some philosophy of science.\n\n0:00:00 – The coincidence that led Einstein to general relativity\n0:16:42 – Gravity is a consequence of curved spacetime, not a force\n0:31:46 – Why black holes prevent unlimited energy extraction\n0:47:12 – Black holes are the ultimate power plants\n1:13:50 – What falling into a black hole would actually feel like\n1:18:51 – The three ways we know black holes are real\n1:24:21 – The first time we saw gravity bend light\n1:29:33 – How far can AI get without experimental evidence?\n\nLook up Dwarkesh Podcast on YouTube/Spotify to watch. Enjoy!",
+   "created_at": "Fri Jul 10 16:34:49 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 3573,
+   "retweets": 392,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HM4VmM9XYAAaQA0.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2075006567641239842": {
+   "id": "2075006567641239842",
+   "url": "https://x.com/dwarkesh_sp/status/2075006567641239842",
+   "text": "Seems to suggest that if it stops being the case that there's 3 labs which are all roughly equally good, competing each others margins away, the provider of the best model could probably get away with charging *a lot* more than they currently are. https://t.co/hxqQuIX2we",
+   "created_at": "Wed Jul 08 23:58:12 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 952,
+   "retweets": 26,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HMvmXw0bMAAo90C.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "jarredsumner",
+    "text": "Rewriting Bun in Rust\n\nhttps://t.co/Rl8bcaxBFc"
+   }
+  },
+  "2074913240669429991": {
+   "id": "2074913240669429991",
+   "url": "https://x.com/dwarkesh_sp/status/2074913240669429991",
+   "text": "Always learn a lot from chatting with Will and other Prime Intellect researchers. Great team. Congrats!",
+   "created_at": "Wed Jul 08 17:47:21 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 386,
+   "retweets": 11,
+   "media": [],
+   "quoted": {
+    "author": "willcb",
+    "text": "we raised $130M @ $1B for our series A\n\n&gt;$100M run rate\n\nwe’re just getting started"
+   }
+  },
+  "2074188516268085343": {
+   "id": "2074188516268085343",
+   "url": "https://x.com/dwarkesh_sp/status/2074188516268085343",
+   "text": "Really looking forward to asking @drfeifei some questions in person. Only a couple spots left!",
+   "created_at": "Mon Jul 06 17:47:33 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 215,
+   "retweets": 9,
+   "media": [],
+   "quoted": {
+    "author": "grinich",
+    "text": "Few people have shaped the trajectory of AI more than @drfeifei, from foundational research to building at the frontier with @theworldlabs.\n\nOn July 22, @dwarkesh_sp will host an off-the-record conversation on what's next.\n\nSpace is limited. RSVP below👇 https://t.co/6l5gMs5nRg"
+   }
+  },
+  "2072772297329402142": {
+   "id": "2072772297329402142",
+   "url": "https://x.com/dwarkesh_sp/status/2072772297329402142",
+   "text": "Grant (@3blue1brown)'s advice to students who are considering whether to go into mathematicians or not, given how fast AI is making progress in that domain: https://t.co/nAReQ9UTWj",
+   "created_at": "Thu Jul 02 20:00:00 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 815,
+   "retweets": 49,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2072714158731362305/img/LZNzT45Jp6ZZWAG1.jpg"
+    }
+   ],
+   "quoted": null
+  }
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "last_run": {
+  "started": "2026-10-01T11:10:33.474612+00:00",
+  "accounts": {
+   "_achan96_": {
+    "ok": true,
+    "new": 60,
+    "total": 60
+   },
+   "add_hawk": {
+    "ok": true,
+    "new": 60,
+    "total": 60
+   },
+   "ajeya_cotra": {
+    "ok": true,
+    "new": 60,
+    "total": 60
+   },
+   "alxndrdavies": {
+    "ok": true,
+    "new": 60,
+    "total": 60
+   },
+   "curl_justin": {
+    "ok": true,
+    "new": 60,
+    "total": 60
+   },
+   "DaveRBanerjee": {
+    "ok": true,
+    "new": 60,
+    "total": 60
+   },
+   "DKokotajlo": {
+    "ok": true,
+    "new": 60,
+    "total": 60
+   },
+   "dwarkesh_sp": {
+    "ok": true,
+    "new": 60,
+    "total": 60
+   },
+   "jkcarlsmith": {
+    "ok": true,
+    "new": 60,
+    "total": 60
+   },
+   "Lewis_Bollard": {
+    "ok": true,
+    "new": 60,
+    "total": 60
+   },
+   "matthewclifford": {
+    "ok": true,
+    "new": 60,
+    "total": 60
+   },
+   "mentalgeorge": {
+    "ok": true,
+    "new": 60,
+    "total": 60
+   },
+   "ohlennart": {
+    "ok": true,
+    "new": 60,
+    "total": 60
+   },
+   "sayashk": {
+    "ok": true,
+    "new": 60,
+    "total": 60
+   },
+   "testingham": {
+    "ok": true,
+    "new": 60,
+    "total": 60
+   },
+   "TheZvi": {
+    "ok": true,
+    "new": 60,
+    "total": 60
+   },
+   "slatestarcodex": {
+    "ok": true,
+    "new": 60,
+    "total": 60
+   }
+  },
+  "new_tweets": 1020,
+  "finished": "2026-10-01T11:11:56.221880+00:00"
+ }
+}

@@ -1,0 +1,1051 @@
+{
+ "handle": "alxndrdavies",
+ "tweets": {
+  "2105059159745892707": {
+   "id": "2105059159745892707",
+   "url": "https://x.com/alxndrdavies/status/2105059159745892707",
+   "text": "RT @EthanJPerez: Very important time for folks to join this team if you’re interested - UK AISI has done some of the most useful safeguards…",
+   "created_at": "Tue Sep 29 22:16:28 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 60,
+   "retweets": 6,
+   "media": [],
+   "quoted": null
+  },
+  "2104986447644418415": {
+   "id": "2104986447644418415",
+   "url": "https://x.com/alxndrdavies/status/2104986447644418415",
+   "text": "RT @javirandor: I don’t want to throw @alxndrdavies under the bus but… i think he is underselling these openings!!! UK AISI is one of the s…",
+   "created_at": "Tue Sep 29 17:27:32 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 45,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2104979857977598395": {
+   "id": "2104979857977598395",
+   "url": "https://x.com/alxndrdavies/status/2104979857977598395",
+   "text": "RT @NateBurnikell: @AISecurityInst is hiring across many of our teams. There is so much to do. Come and join us.",
+   "created_at": "Tue Sep 29 17:01:21 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 17,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2104966483680096570": {
+   "id": "2104966483680096570",
+   "url": "https://x.com/alxndrdavies/status/2104966483680096570",
+   "text": "RT @sleepinyourhat: UK AISI has been remarkably effective to date, and we've learned a great deal from them. \n\nIf you're looking to do AI s…",
+   "created_at": "Tue Sep 29 16:08:12 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 131,
+   "retweets": 10,
+   "media": [],
+   "quoted": null
+  },
+  "2104961974094163968": {
+   "id": "2104961974094163968",
+   "url": "https://x.com/alxndrdavies/status/2104961974094163968",
+   "text": "RT @_robertkirk: Join us to help find egregious misaligned behaviour in frontier models! We were able to uncover concerning behaviour in GP…",
+   "created_at": "Tue Sep 29 15:50:17 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 29,
+   "retweets": 7,
+   "media": [],
+   "quoted": null
+  },
+  "2104961175645532333": {
+   "id": "2104961175645532333",
+   "url": "https://x.com/alxndrdavies/status/2104961175645532333",
+   "text": "RT @yonashav: Xander’s team is the best in the business IME",
+   "created_at": "Tue Sep 29 15:47:07 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 33,
+   "retweets": 3,
+   "media": [],
+   "quoted": null
+  },
+  "2104955519245107527": {
+   "id": "2104955519245107527",
+   "url": "https://x.com/alxndrdavies/status/2104955519245107527",
+   "text": "There has never been a better time to join @AISecurityInst. We have so much technical work to do, and so little time to do it. We've found alignment issues, control monitor flaws, and critical jailbreaks at ~all major AI companies. Hiring is our bottleneck. 🧵",
+   "created_at": "Tue Sep 29 15:24:38 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 124,
+   "retweets": 21,
+   "media": [],
+   "quoted": {
+    "author": "HZoete",
+    "text": "AISI IS HIRING! \n\nIt was less than a month ago that I became Director. I joined with the belief that AISI is a world-leading organisation, and living proof that government can build things that work.\n\nOne month in and I'm even more bullish about the vital role @AISecurityInst plays in frontier AI security. I'm astounded daily by the talent, focus and commitment of the brilliant team I get to work with.\n\nThere has never been a more urgent time to work on frontier AI security - independently, in the public interest. We have a lot of urgent work to do, our team is growing fast, and we need more brilliant people to fill those roles.\n\nOur Red Team uses adversarial machine learning techniques to find failures in alignment measures, control monitors, and misuse guardrails. They are massively scaling up all parts of the team:\nAlignment: https://t.co/8AvuhmVIAw\nControl: https://t.co/yWTgkMhjSG\nMisuse: https://t.co/f2NLkG1zuz\n\nAI capabilities in cybersecurity and autonomy are advancing faster than ever. Our Cyber & Autonomous Systems team assesses what frontier and open-weight models can really do - across cyber, autonomy and AI R&D. We're hiring a Cyber Security Engineer and Software Engineer to build the evaluations behind that work:\nCSE: https://t.co/gL2NrLygLc\nSWE: https://t.co/5eLZNEjy6O\n\nOur Human Influence team studies how AI can shift human decisions and behaviour, using everything from RCTs to multi-agent studies. We're hiring an Engineering Lead to help us grow the ambition and pace of that research:\nhttps://t.co/nvzf1yebkK\n\nWe're also hiring exceptional Software Engineers at all seniority levels to join our Core Technology team, which works closely with researchers to build performant tools and infrastructure that enable and accelerate AISI's world-leading AI safety research:\nhttps://t.co/5OSHfDRxjx"
+   }
+  },
+  "2104633005817868488": {
+   "id": "2104633005817868488",
+   "url": "https://x.com/alxndrdavies/status/2104633005817868488",
+   "text": "RT @AISecurityInst: Earlier this month, AISI ran fully simulated testing on GPT-6 Astra, and found that it conducted unsanctioned supply-ch…",
+   "created_at": "Mon Sep 28 18:03:05 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 571,
+   "retweets": 93,
+   "media": [],
+   "quoted": null
+  },
+  "2095917870462984320": {
+   "id": "2095917870462984320",
+   "url": "https://x.com/alxndrdavies/status/2095917870462984320",
+   "text": "We urgently need to figure out both methodologically and practically how to evaluate AI control monitors. Join @c_j_griffin and the UK AISI Red Team in figuring out how gov should approach this problem:",
+   "created_at": "Fri Sep 04 16:52:15 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 54,
+   "retweets": 10,
+   "media": [],
+   "quoted": {
+    "author": "c_j_griffin",
+    "text": "The Control Red Team at @AISecurityInst is hiring Research Scientists &amp; Engineers (London)! Frontier AI companies use monitors to catch misaligned agents. We stress-test whether those monitors actually work 🧵 https://t.co/CUrNEY41Rr"
+   }
+  },
+  "2090792161352601735": {
+   "id": "2090792161352601735",
+   "url": "https://x.com/alxndrdavies/status/2090792161352601735",
+   "text": "Extremely exciting.",
+   "created_at": "Fri Aug 21 13:24:30 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 50,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "AISecurityInst",
+    "text": "Today we're announcing two senior appointments. @HZoete joins as our new Director, and @NateBurnikell becomes our new Chief Strategy Officer.\n\nHenry de Zoete was instrumental in establishing AISI and already advises government on AI. A successful tech founder and one of the UK's leading voices on AI, he brings a rare mix of technical, commercial & policy expertise.\n\nNate Burnikell has been at the heart of AISI's work from the beginning, helping build it into a world-leading authority on frontier AI security.\n\nTogether, they'll drive forward AISI's mission at a critical time for AI.\n\nA big thank you to our outgoing Interim Director Adam Beaumont, who guided AISI through rapid growth and strengthened its global standing. We wish him every success as he returns to @GCHQ and look forward to continuing to work with him."
+   }
+  },
+  "2081491259089387919": {
+   "id": "2081491259089387919",
+   "url": "https://x.com/alxndrdavies/status/2081491259089387919",
+   "text": "A few hours before OpenAI posted about LLMs in a cyber eval being responsible for the HF cyberattack, @_robertkirk et al released results showing that 𝗮𝗹𝗹 models we've tested at @AISecurityInst have attempted to cheat on our cyber evals in a range of ways. https://t.co/3lBIzvAEtu",
+   "created_at": "Sun Jul 26 21:26:03 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 522,
+   "retweets": 76,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOLxRQMbwAAVB21.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2075279477626564933": {
+   "id": "2075279477626564933",
+   "url": "https://x.com/alxndrdavies/status/2075279477626564933",
+   "text": "At @AISecurityInst, we tested the cybersecurity safeguards on GPT-5.6 Sol. In all rounds of testing, we found universal jailbreaks that allowed for long-form agentic task completion in domains like vulnerability discovery and exploit development. 🧵 https://t.co/GnCfJcs99k",
+   "created_at": "Thu Jul 09 18:02:38 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 490,
+   "retweets": 67,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HMzb3_AXcAEyw-z.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2064415072928268446": {
+   "id": "2064415072928268446",
+   "url": "https://x.com/alxndrdavies/status/2064415072928268446",
+   "text": "We @AISecurityInst red teamed Fable 5's cyber safeguards. In a brief initial testing window—a few days of dedicated testing—we made what we believe to be substantial progress towards a universal jailbreak. 🧵 w details 1/4 https://t.co/XW86I4ZaaV",
+   "created_at": "Tue Jun 09 18:31:23 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 240,
+   "retweets": 20,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HKZGkaLaoAAuLxO.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2058623285026488736": {
+   "id": "2058623285026488736",
+   "url": "https://x.com/alxndrdavies/status/2058623285026488736",
+   "text": "I moved to London 3 years ago to join @AISecurityInst, at the time a few people with visitor passes and a whiteboard. Since then AISI has become the world’s largest and best-funded group in gov focused on AI security &amp; safety. Fun to be in @nytimes! https://t.co/Mzod7wN2hk",
+   "created_at": "Sun May 24 18:56:53 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 383,
+   "retweets": 36,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HJGy9_6bgAAWi3g.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2055263502852378748": {
+   "id": "2055263502852378748",
+   "url": "https://x.com/alxndrdavies/status/2055263502852378748",
+   "text": "@geoffreyirving is an exceptionally strong researcher and also an exceptionally good person. We'll miss him at AISI. Excited for what he does next!",
+   "created_at": "Fri May 15 12:26:18 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 41,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "geoffreyirving",
+    "text": "A bittersweet announcement! For family reasons, I will be leaving AISI soon to move back to the Bay Area. I will be starting a new nonprofit alignment research org (more to come).\n\nI will miss this place! Here are some reflections about my time at AISI. 🧵❤️"
+   }
+  },
+  "2052434430208188456": {
+   "id": "2052434430208188456",
+   "url": "https://x.com/alxndrdavies/status/2052434430208188456",
+   "text": "@JonasSandbrink is amazing and this work is very exciting. Consider joining him!",
+   "created_at": "Thu May 07 17:04:35 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 9,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "JonasSandbrink",
+    "text": "I’m looking for a co-founder. \n\nFrontier labs are over-refusing legitimate bio work because they can't tell who's a real researcher and who isn't. I’m solving this with BioTrust — building the credentialing layer between frontier AI labs and researchers. Strong early interest from frontier labs. Backed by funder Sentinel Bio.\n\nI am looking for a builder who's run the trust and security backbone at a company in identity, fintech, compliance, health data, or cybersecurity. Someone with strong instincts on the trust-vs-friction calls. Finisher energy. Deeply motivated by mitigating catastrophic risk from AI and biology.\n\nFull context and how to reach me here: https://t.co/jTeVLHn795\n\nTag the people you know who'd be unreasonably good at this."
+   }
+  },
+  "2050157929257402449": {
+   "id": "2050157929257402449",
+   "url": "https://x.com/alxndrdavies/status/2050157929257402449",
+   "text": "Joseph's team is very strong and is doing very impactful (+ fun) technical work. Apply!",
+   "created_at": "Fri May 01 10:18:35 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 26,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "JBloomAus",
+    "text": "(My team) Model Transparency at @AISecurityInst is hiring Research Engineers and Research Scientists! Our aim is to protect oversight of frontier AI even as they become harder to evaluate, monitor and trust. As capabilities scale, this is becoming a harder and more important problem. 🧵"
+   }
+  },
+  "2048806981146685768": {
+   "id": "2048806981146685768",
+   "url": "https://x.com/alxndrdavies/status/2048806981146685768",
+   "text": "I'm proud of our work on alignment evals (including of Mythos Preview!), but I'm also struck by how far our techniques have to go. I don't feel confident our evals would catch a misaligned model. @_robertkirk and team are working very hard to change that.",
+   "created_at": "Mon Apr 27 16:50:23 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 96,
+   "retweets": 5,
+   "media": [],
+   "quoted": {
+    "author": "_robertkirk",
+    "text": "We evaluated Claude Mythos Preview, Opus 4.7 and other models with our updated alignment evaluation methodology, including a new continuation eval, improved evaluation and prefill awareness measurements.\n\nDetails including new methodology in 🧵:"
+   }
+  },
+  "2047382086462722104": {
+   "id": "2047382086462722104",
+   "url": "https://x.com/alxndrdavies/status/2047382086462722104",
+   "text": "We @AISecurityInst tested GPT-5.5's cyber safeguards, developing a universal jailbreak in 6 hours of red teaming. AISI also performed cyber capabilities testing -- more in the system card. https://t.co/VWdwmLAZ6r",
+   "created_at": "Thu Apr 23 18:28:22 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 121,
+   "retweets": 21,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HGnDKHnawAAE-o3.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2046273555508154604": {
+   "id": "2046273555508154604",
+   "url": "https://x.com/alxndrdavies/status/2046273555508154604",
+   "text": "@OpenAI found models struggle to control their CoT. But what if models can just reason in output tokens? We show with prompting models can \"early exit\" their CoT, and that when they do so they can dramatically increase controllability with minimal capability hit.",
+   "created_at": "Mon Apr 20 17:03:28 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 26,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "AsaCoopStick",
+    "text": "New post! OpenAI/Yueh-Han et al. (2026) find models struggle to control their CoT -- good news for monitoring.\n\nBut we show that GPT 5.4, Gemini 3.1 Pro, and Claude Opus 4.6 can all “early exit” their CoT and reason in their outputs instead (with reasoning-mode on!). https://t.co/kF5FW4thCu"
+   }
+  },
+  "2029958417172021587": {
+   "id": "2029958417172021587",
+   "url": "https://x.com/alxndrdavies/status/2029958417172021587",
+   "text": "The Red Team at @AISecurityInst is hiring! We work with frontier AI companies to red team their misuse safeguards, control measures, and alignment techniques. As the stakes rise, we need much stronger red teaming and many more talented researchers working within gov 🧵 https://t.co/s8YSRxzFm7",
+   "created_at": "Fri Mar 06 16:32:56 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 233,
+   "retweets": 34,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HCvca9ebQAAEGlU.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2023806021207273953": {
+   "id": "2023806021207273953",
+   "url": "https://x.com/alxndrdavies/status/2023806021207273953",
+   "text": "This is the paper I'm most proud of to date! We built the first automated jailbreaking method that finds universal jailbreaks against Constitutional Classifiers and GPT-5's Input Classifiers. How &amp; why we did it 🧵",
+   "created_at": "Tue Feb 17 17:05:30 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 162,
+   "retweets": 28,
+   "media": [],
+   "quoted": {
+    "author": "AISecurityInst",
+    "text": "AI companies deploy safeguards that are robust to thousands of hours of human attacks. Today, we share Boundary Point Jailbreaking (BPJ), the first fully automated attack to break the safeguards of leading AI models🧵 (1/8) https://t.co/rG6tveEzm6"
+   }
+  },
+  "2021283989542076922": {
+   "id": "2021283989542076922",
+   "url": "https://x.com/alxndrdavies/status/2021283989542076922",
+   "text": "Current state of jailbreaking in &lt;7 minutes!",
+   "created_at": "Tue Feb 10 18:03:51 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 64,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "farairesearch",
+    "text": "Over the last two years, @AISecurityInst has jailbroken every frontier model. @alxndrdavies presents on how jailbreaking has gotten more difficult, which forms of misuse are easier to pull off, and that the improvement has been driven by engineering, not model capabilities.👇 https://t.co/Mx8QqoQXPt"
+   }
+  },
+  "2020599223310549289": {
+   "id": "2020599223310549289",
+   "url": "https://x.com/alxndrdavies/status/2020599223310549289",
+   "text": "Open roles at CAISI! @EdelmanBen + team are excellent and CAISI is doing some of the coolest public service out there.",
+   "created_at": "Sun Feb 08 20:42:50 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 36,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "EdelmanBen",
+    "text": "People sometimes ask me how to leverage a technical background to jump into U.S. AI policy. As of this week my answer is straightforward: apply to join us at CAISI! We're a startup within government, and we're doing a hiring surge. https://t.co/InGPQJ5E6Y"
+   }
+  },
+  "2019562086259650957": {
+   "id": "2019562086259650957",
+   "url": "https://x.com/alxndrdavies/status/2019562086259650957",
+   "text": "UK AISI's Red Team tested both OpenAI + Anthropic's models released today! We jailbroke GPT-5.3-Codex (and the conversation monitor) in 10 hours &amp; conducted an alignment audit on Opus 4.6. 🧵 https://t.co/oJt8CEXHX0",
+   "created_at": "Fri Feb 06 00:01:37 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 956,
+   "retweets": 117,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HAbtA-WaYAAdVsv.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2009001397409259703": {
+   "id": "2009001397409259703",
+   "url": "https://x.com/alxndrdavies/status/2009001397409259703",
+   "text": "Proud to have contributed to AISI's red teaming work since its inception. Our success is due to my many talented colleagues who've often turned down 10x salaries to work in the public interest. Grateful to them. Much more to do!",
+   "created_at": "Wed Jan 07 20:37:13 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 17,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "OscarSykes7",
+    "text": "Completely bananas that the UK government, not exactly famous for competence, built an AI institute in two years that's now world-leading at finding dangerous capabilities in frontier models https://t.co/TQZj8q8hSm"
+   }
+  },
+  "2002826975061393449": {
+   "id": "2002826975061393449",
+   "url": "https://x.com/alxndrdavies/status/2002826975061393449",
+   "text": "Short talk on the State of Jailbreaking at the @farairesearch San Diego Alignment Workshop!\nhttps://t.co/jMfnDL96JD",
+   "created_at": "Sun Dec 21 19:42:16 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 28,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "alxndrdavies",
+    "text": "State of Jailbreaking 🧵\nWe've been jailbreaking models for 2+ years at @AISecurityInst, partnering with all the major AI developers. As part of our Frontier AI Trends Report, here's a status update on what it's like to jailbreak top models as of Dec 2025."
+   }
+  },
+  "2001656754048802837": {
+   "id": "2001656754048802837",
+   "url": "https://x.com/alxndrdavies/status/2001656754048802837",
+   "text": "State of Jailbreaking 🧵\nWe've been jailbreaking models for 2+ years at @AISecurityInst, partnering with all the major AI developers. As part of our Frontier AI Trends Report, here's a status update on what it's like to jailbreak top models as of Dec 2025.",
+   "created_at": "Thu Dec 18 14:12:13 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 98,
+   "retweets": 16,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G8dJsM3WsAAmZL-.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1996623627882754272": {
+   "id": "1996623627882754272",
+   "url": "https://x.com/alxndrdavies/status/1996623627882754272",
+   "text": "Hannah’s team does extremely cool work!",
+   "created_at": "Thu Dec 04 16:52:23 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 12,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "hannahrosekirk",
+    "text": "Excited to be at #NeurIPS2025! This is my 1st conference back since I started leading the Human Influence team @AISecurityInst. We're 10+ researchers from comp sci, cog neuro, political sci &amp; data sci with a mission to do world-leading research on AI risks to human autonomy🧵 https://t.co/JfddH1q30E"
+   }
+  },
+  "1995241305828622421": {
+   "id": "1995241305828622421",
+   "url": "https://x.com/alxndrdavies/status/1995241305828622421",
+   "text": "I'll be at NeurIPS, along with a few others from @AISecurityInst! DM if you want to discuss jailbreaking or red-teaming for control/alignment. 🧵 w papers we'll be presenting (+ link for AISI social 👀 )",
+   "created_at": "Sun Nov 30 21:19:31 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 64,
+   "retweets": 5,
+   "media": [],
+   "quoted": null
+  },
+  "1993787041281417450": {
+   "id": "1993787041281417450",
+   "url": "https://x.com/alxndrdavies/status/1993787041281417450",
+   "text": "Opus 4.5 alignment eval from @AISecurityInst! Especially excited about progress measuring &amp; mitigating evaluation awareness.",
+   "created_at": "Wed Nov 26 21:00:48 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "_robertkirk",
+    "text": "Misalignment will be an important driver of risk, so we're developing methods for red-teaming model behaviour.\n\nVery excited to publicly release a case study applying our alignment testing methodology to Claude Opus 4.5, Opus 4.1 and Sonnet 4.5 from @AnthropicAI! 🧵"
+   }
+  },
+  "1976322109988299034": {
+   "id": "1976322109988299034",
+   "url": "https://x.com/alxndrdavies/status/1976322109988299034",
+   "text": "Very excited this paper is out. We find that the number of samples required for backdoor poisoning during pre-training stays near-constant as you scale up data/model size. Much more research to do to understand &amp; mitigate this risk!",
+   "created_at": "Thu Oct 09 16:21:23 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 29,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "AlexandraSouly",
+    "text": "New @AISecurityInst research with @AnthropicAI + @turinginst:\nThe number of samples needed to backdoor poison LLMs stays nearly CONSTANT as models scale. With 500 samples, we insert backdoors in LLMs from 600m to 13b params, even as data scaled 20x.🧵/11"
+   }
+  },
+  "1973077995947503992": {
+   "id": "1973077995947503992",
+   "url": "https://x.com/alxndrdavies/status/1973077995947503992",
+   "text": "@AISecurityInst is in the alignment evals arena!",
+   "created_at": "Tue Sep 30 17:30:26 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "_robertkirk",
+    "text": "We at @AISecurityInst recently did our first pre-deployment 𝗮𝗹𝗶𝗴𝗻𝗺𝗲𝗻𝘁 evaluation of @AnthropicAI's Claude Sonnet 4.5!\n\nThis was a first attempt – and we plan to work on this more! – but we still found some interesting results, and some learnings for next time 🧵 https://t.co/5IzIYaujxA"
+   }
+  },
+  "1967221745666203760": {
+   "id": "1967221745666203760",
+   "url": "https://x.com/alxndrdavies/status/1967221745666203760",
+   "text": "Ben and team are extremely good—e.g. check out their cool work w OpenAI! https://t.co/gXfZEANMut",
+   "created_at": "Sun Sep 14 13:39:48 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 16,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G0z5v-CaEAAvj5q.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G0z5wI4aQAA8-2z.png"
+    }
+   ],
+   "quoted": {
+    "author": "EdelmanBen",
+    "text": "Did not have \"red team frontier AI systems as part of federal govt job\" on my bingo card during my ML PhD. It's been a blast."
+   }
+  },
+  "1966614120566001801": {
+   "id": "1966614120566001801",
+   "url": "https://x.com/alxndrdavies/status/1966614120566001801",
+   "text": "Excited to share details on two of our longest running and most effective safeguard collaborations, one with Anthropic and one with OpenAI. We've identified—and they've patched—a large number of vulnerabilities and together strengthened their safeguards. 🧵 1/6 https://t.co/GD39MAHjXW",
+   "created_at": "Fri Sep 12 21:25:18 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 294,
+   "retweets": 61,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G0rRHZ5a0AAYlCQ.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G0rRHrabcAAjTEP.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1962923560940294322": {
+   "id": "1962923560940294322",
+   "url": "https://x.com/alxndrdavies/status/1962923560940294322",
+   "text": "I'm a big fan of bug bounty programs for jailbreaks—good post from @_robertkirk and @NCSC on how to do them well!",
+   "created_at": "Tue Sep 02 17:00:20 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 7,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "_robertkirk",
+    "text": "New blog! We @AISecurityInst partnered with @NCSC to write about an emerging practice I'm really excited about: Safeguard Bypass Bounty Programmes (SBBPs). Summary of what these are, why they are useful, &amp; how to do them well 🧵"
+   }
+  },
+  "1961444840832405749": {
+   "id": "1961444840832405749",
+   "url": "https://x.com/alxndrdavies/status/1961444840832405749",
+   "text": "Proud to have @AISecurityInst leading on both closed &amp; open model safety/security!",
+   "created_at": "Fri Aug 29 15:04:26 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 8,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "AISecurityInst",
+    "text": "🚨Open-weight AI models are becoming more powerful, now knocking on the door of today’s closed-weight frontier.\n\nThis poses critical safety challenges – how can we prevent the misuse of models whose parameters are free to download online? 🧵"
+   }
+  },
+  "1955328913602736376": {
+   "id": "1955328913602736376",
+   "url": "https://x.com/alxndrdavies/status/1955328913602736376",
+   "text": "I’ve been wanting to see this result for a while! We find evidence that narrow filtering of pre-training data can degrade capabilities in a target dual-use domain, wo degrading other capabilities. And unlike other methods, this holds up even if attackers can finetune it!",
+   "created_at": "Tue Aug 12 18:01:55 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 31,
+   "retweets": 5,
+   "media": [],
+   "quoted": {
+    "author": "StephenLCasper",
+    "text": "🧵 New paper from @AISecurityInst x @AiEleuther that I led with Kyle O’Brien:\n\nOpen-weight LLM safety is both important &amp; neglected. But we show that filtering dual-use knowledge from pre-training data improves tamper resistance *&gt;10x* over post-training baselines. https://t.co/ev3jPZFw7S"
+   }
+  },
+  "1953518056409641434": {
+   "id": "1953518056409641434",
+   "url": "https://x.com/alxndrdavies/status/1953518056409641434",
+   "text": "We at @AISecurityInst worked with @OpenAI to test GPT-5's safeguards. We identified multiple jailbreaks, including a universal jailbreak that evades all layers of mitigations and is being patched. Excited to continue partnering with OpenAI to test &amp; strengthen safeguards. https://t.co/Dv2hwQjl6x",
+   "created_at": "Thu Aug 07 18:06:13 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 126,
+   "retweets": 24,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GxxKUcxbsAU6ZQL.png"
+    }
+   ],
+   "quoted": null
+  },
+  "1951288118214066359": {
+   "id": "1951288118214066359",
+   "url": "https://x.com/alxndrdavies/status/1951288118214066359",
+   "text": "Bunch of interesting findings in here: \n* 1.8 million attempts, 62K breaches\n* successful attacks on all tested systems/settings\n* messy capability vs robustness picture\nCheck it out!",
+   "created_at": "Fri Aug 01 14:25:15 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 22,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "AISecurityInst",
+    "text": "The new paper ‘Security Challenges in AI Agent Deployment’ shows work on results from the largest ever public red teaming exercise.\n\nTogether with @GraySwanAI and top AI labs, we examined the security of 22 leading LLM agents across 44 real-world scenarios ⬇️"
+   }
+  },
+  "1945902026313105561": {
+   "id": "1945902026313105561",
+   "url": "https://x.com/alxndrdavies/status/1945902026313105561",
+   "text": "We at @AISecurityInst worked with @OpenAI to test &amp; improve Agent’s safeguards prior to release. A few notes on our experience🧵 1/4 https://t.co/2m6pfkYhBZ",
+   "created_at": "Thu Jul 17 17:42:50 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 150,
+   "retweets": 29,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GwE7lIXacAAjUGy.png"
+    }
+   ],
+   "quoted": null
+  },
+  "1945158606254416067": {
+   "id": "1945158606254416067",
+   "url": "https://x.com/alxndrdavies/status/1945158606254416067",
+   "text": "Exciting role on an important team!",
+   "created_at": "Tue Jul 15 16:28:45 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "CUdudec",
+    "text": "We're hiring a Senior Researcher for the Science of Evaluation team!\n\nWe are an internal red-team, stress-testing the methods and evidence behind AISI’s evaluations.\n\nIf you're sharp, methodologically rigorous, and want shape research and policy, this role might be for you! 🧵"
+   }
+  },
+  "1940546848877637815": {
+   "id": "1940546848877637815",
+   "url": "https://x.com/alxndrdavies/status/1940546848877637815",
+   "text": "Excited about this work from @farairesearch x @AISecurityInst !",
+   "created_at": "Wed Jul 02 23:03:17 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "farairesearch",
+    "text": "1/\n\"Swiss cheese security\", stacking layers of imperfect defenses, is a key part of AI companies' plans to safeguard models, and is used to secure Anthropic's Opus 4 model. Our new STACK attack breaks each layer in turn, highlighting this approach may be less secure than hoped. https://t.co/DB8552xGuN"
+   }
+  },
+  "1934217611711287651": {
+   "id": "1934217611711287651",
+   "url": "https://x.com/alxndrdavies/status/1934217611711287651",
+   "text": "Useful science on unlearning evals! I found many of the results surprising: fine-tuning on synthetic facts boosts performance by 10% on a supposedly disjoint set on the popular TOFU dataset? Enhanced GCG with 7 samples boosts performance on the whole WMDP-Bio from 40 -&gt; 54%?",
+   "created_at": "Sun Jun 15 11:53:09 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 13,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "A_v_i__S",
+    "text": "Ever tried to tell if someone really forgot your birthday?\n\n... evaluating forgetting is tricky. \n\nNow imagine doing that… but for an LLM… with privacy on the line.  We studied how to evaluate machine unlearning, and we found some problems. 🧵"
+   }
+  },
+  "1928469676805280019": {
+   "id": "1928469676805280019",
+   "url": "https://x.com/alxndrdavies/status/1928469676805280019",
+   "text": "Check out our new paper connecting safeguard evals to more end-to-end safety arguments!",
+   "created_at": "Fri May 30 15:12:54 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 22,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "_robertkirk",
+    "text": "New paper! With @joshua_clymer, Jonah Weinbaum and others, we’ve written a safety case for safeguards against misuse. We lay out how developers can connect safeguard evaluation results to real-world decisions about how to deploy models. 🧵 https://t.co/pDTvXlFE4r"
+   }
+  },
+  "1919892777795514651": {
+   "id": "1919892777795514651",
+   "url": "https://x.com/alxndrdavies/status/1919892777795514651",
+   "text": "This is the best explanation of what UK AISI is working on rn (&amp; why!). Recommend a read!",
+   "created_at": "Tue May 06 23:11:22 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 16,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "AISecurityInst",
+    "text": "🧵 Today we’re publishing our first Research Agenda – a detailed outline of the most urgent questions we’re working to answer as AI capabilities grow. \n\nIt’s our roadmap for tackling the hardest technical challenges in AI security."
+   }
+  },
+  "1904246738434822242": {
+   "id": "1904246738434822242",
+   "url": "https://x.com/alxndrdavies/status/1904246738434822242",
+   "text": "Excited for @AISecurityInst to be a part of the 2025 edition of the @NIST advML taxonomy in partnership with NIST Comp Sec Division, US AI Safety Institute, @robusthq, and @AlinaMOprea! 🧵 with a breakdown of the GenAI section. 1/8 https://t.co/CQMOPQkkdB",
+   "created_at": "Mon Mar 24 18:59:36 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 28,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Gm0-UQzbAAAHEoD.png"
+    }
+   ],
+   "quoted": null
+  },
+  "1903147764675977596": {
+   "id": "1903147764675977596",
+   "url": "https://x.com/alxndrdavies/status/1903147764675977596",
+   "text": "Excited to have @AnthropicAI and @GoogleDeepMind join @OpenAI in co-sponsoring our @AISecurityInst Agent Red-Teaming Challenge! New wave of challenges out tomorrow 1 pm EDT. Give it a try!",
+   "created_at": "Fri Mar 21 18:12:40 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 35,
+   "retweets": 5,
+   "media": [],
+   "quoted": {
+    "author": "GraySwanAI",
+    "text": "Major Update! The Agent Red-Teaming Challenge prize pool has surged from $130k to $170K. With @AnthropicAI  &amp; @GoogleDeepMind now co-sponsoring, the stakes have never been higher. \n\nThis is the ultimate test for AI red teamers. https://t.co/BbJ5AbgW1f"
+   }
+  },
+  "1902403620139888971": {
+   "id": "1902403620139888971",
+   "url": "https://x.com/alxndrdavies/status/1902403620139888971",
+   "text": "We've just opened one more role hiring for a delivery manager, responsible for shaping and delivering our most important work. If you're a killer generalist who likes to move fast and solve hard problems, plz apply!",
+   "created_at": "Wed Mar 19 16:55:42 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 15,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "alxndrdavies",
+    "text": "My team is hiring @AISecurityInst! I think this is one of the most important times in history to have strong technical expertise in government. Join our team understanding and fixing weaknesses in frontier models through sota adversarial ML research &amp; testing. 🧵 1/4 https://t.co/uxHeT0Z9Xm"
+   }
+  },
+  "1899858834325463387": {
+   "id": "1899858834325463387",
+   "url": "https://x.com/alxndrdavies/status/1899858834325463387",
+   "text": "My team is hiring @AISecurityInst! I think this is one of the most important times in history to have strong technical expertise in government. Join our team understanding and fixing weaknesses in frontier models through sota adversarial ML research &amp; testing. 🧵 1/4 https://t.co/uxHeT0Z9Xm",
+   "created_at": "Wed Mar 12 16:23:38 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 170,
+   "retweets": 36,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Gl2niowbYAIM9kb.png"
+    }
+   ],
+   "quoted": null
+  },
+  "1897257882368008415": {
+   "id": "1897257882368008415",
+   "url": "https://x.com/alxndrdavies/status/1897257882368008415",
+   "text": "AISI grants! Includes funding safeguards research to:\n* Defend hosted frontier AI systems against misuse\n* Defend against 3rd party attacks (prompt injection, data poisoning)\n* Mitigate misuse of open-weight models\nMore in our priority research areas doc\nhttps://t.co/FV5xqQCWqS",
+   "created_at": "Wed Mar 05 12:08:23 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 36,
+   "retweets": 9,
+   "media": [],
+   "quoted": {
+    "author": "AISecurityInst",
+    "text": "🚨 Introducing the AISI Challenge Fund: £5 million to advance AI security &amp; safety research.\n\nGrants of up to £200,000 are available for innovative AI research on technical mitigations, improved evaluations, and stronger safeguards. 🛡️🤖 https://t.co/PKymyM3Moj"
+   }
+  },
+  "1895604642547155050": {
+   "id": "1895604642547155050",
+   "url": "https://x.com/alxndrdavies/status/1895604642547155050",
+   "text": "Excited to have @OpenAI join our agent red-teaming challenge as a co-sponsor!",
+   "created_at": "Fri Feb 28 22:39:00 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 18,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "GraySwanAI",
+    "text": "The UK AISI Agent Red-Teaming Challenge just got bigger.\n\n@OpenAI is now co-sponsoring the arena, adding $20K to the prize pool — bringing the total to $120,000. More vulnerabilities to find. More money on the line.\n\nYou ready to push AI agents past their limits?"
+   }
+  },
+  "1894093604144255156": {
+   "id": "1894093604144255156",
+   "url": "https://x.com/alxndrdavies/status/1894093604144255156",
+   "text": "New agent-focused jailbreak arena colab btwn @GraySwanAI and @AISecurityInst! $100K+ in prizes, AISI judging, direct &amp; indirect attacks",
+   "created_at": "Mon Feb 24 18:34:40 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 34,
+   "retweets": 7,
+   "media": [],
+   "quoted": {
+    "author": "GraySwanAI",
+    "text": "Brace Yourself: Our Biggest AI Jailbreaking Arena Yet\n\nWe’re launching a next-level Agent Red-Teaming Challenge—not just chatbots anymore. Think direct &amp; indirect attacks on anonymous frontier models.\n\n$100K+ in prizes and raffle giveaways supported by UK @AISecurityInst https://t.co/11bbj6QlJT"
+   }
+  },
+  "1892968477713211422": {
+   "id": "1892968477713211422",
+   "url": "https://x.com/alxndrdavies/status/1892968477713211422",
+   "text": "Defending against adversarial prompts is hard; defending against fine-tuning API attacks is much harder. In our new @AISecurityInst pre-print, we break alignment and extract harmful info using entirely benign and natural interactions during fine-tuning &amp; inference. 😮 🧵 1/10 https://t.co/OfqvbsHRfS",
+   "created_at": "Fri Feb 21 16:03:49 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 126,
+   "retweets": 23,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GkUszAwakAAcaLk.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1890418558339022932": {
+   "id": "1890418558339022932",
+   "url": "https://x.com/alxndrdavies/status/1890418558339022932",
+   "text": "When we were developing our agent misuse dataset, we noticed instances of models seeming to realize our tasks were fake. We're sharing some examples and we'd be excited for more research into how synthetic tasks can distort eval results! 🧵 1/N https://t.co/8wvGGRz7zd",
+   "created_at": "Fri Feb 14 15:11:21 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 90,
+   "retweets": 14,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GjwdqUyacAIh7Pu.png"
+    }
+   ],
+   "quoted": null
+  },
+  "1886829624031645852": {
+   "id": "1886829624031645852",
+   "url": "https://x.com/alxndrdavies/status/1886829624031645852",
+   "text": "Excited this is out—we propose principles for safeguard evaluations, and a template for using them. Looking forward to getting feedback on these and working towards better evals!",
+   "created_at": "Tue Feb 04 17:30:12 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "_robertkirk",
+    "text": "Really excited to share some of what I’ve been working on at @AISafetyInst!\n\nWe provide a bunch of recommendations on how to do good safeguard evaluations, aiming to enable rapid progress in the field, as well as a template to help follow the recommendations: 🧵"
+   }
+  },
+  "1880647473343193238": {
+   "id": "1880647473343193238",
+   "url": "https://x.com/alxndrdavies/status/1880647473343193238",
+   "text": "Cool work by @EdelmanBen and the US AISI team! Happy to have helped out a bit along with @AlexandraSouly :) https://t.co/EJiuMoUOl8",
+   "created_at": "Sat Jan 18 16:04:33 +0000 2025",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 15,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Ghlm6T0bMAAWCsX.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "EdelmanBen",
+    "text": "1/ Excited to share a new blog post from the U.S. AI Safety Institute!\n\nAI agents are becoming increasingly capable. But they are vulnerable to prompt injections in external content – an agent may be given task A, but then be “hijacked” and perform malicious task B instead. https://t.co/edH0mOHsyF"
+   }
+  },
+  "1873910863574556954": {
+   "id": "1873910863574556954",
+   "url": "https://x.com/alxndrdavies/status/1873910863574556954",
+   "text": "Congrats to Harvard's AI Safety Student Team for producing lots of interesting research this year! Esp to the undergrads—can be tricky to find time for research. Proud of the work @GabrielDWu1, @nikolaj2030, and many others have done in leading the group.",
+   "created_at": "Tue Dec 31 01:55:40 +0000 2024",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 54,
+   "retweets": 2,
+   "media": [],
+   "quoted": null
+  },
+  "1864724521087041574": {
+   "id": "1864724521087041574",
+   "url": "https://x.com/alxndrdavies/status/1864724521087041574",
+   "text": "Thoughtful work by @jake_jay_p, Timo Flesch, and @JonasSandbrink on how we move past basic question-answer evals to design automated tests which better measure capabilities of interest! https://t.co/4lsYreWQdg",
+   "created_at": "Thu Dec 05 17:32:25 +0000 2024",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 7,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GeDVEcmbIAA61Te.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "AISecurityInst",
+    "text": "LLM-powered scientific assistants come with many benefits, but they also come with risks. The question is: how do you measure them?\n\nWe've developed a new methodology for assessing the usefulness of LLMs in science.\n\nhttps://t.co/1MMqKSHMK2"
+   }
+  },
+  "1859228917196030021": {
+   "id": "1859228917196030021",
+   "url": "https://x.com/alxndrdavies/status/1859228917196030021",
+   "text": "Proud to have contributed to @AISafetyInst's testing of Claude 3.5 Sonnet (new), focused on assessing Claude's refusal behaviour in the face of adversarial prompting strategies!\n🧵 on our findings 1/N",
+   "created_at": "Wed Nov 20 13:34:51 +0000 2024",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 38,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "AISecurityInst",
+    "text": "We've released a technical report detailing our pre-deployment testing of @AnthropicAI's upgraded Claude 3.5 Model with the U.S. AI Safety Institute. \n\nRead our blog for a high-level overview.\nhttps://t.co/iDkdwacksJ"
+   }
+  }
+ }
+}

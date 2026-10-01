@@ -1,0 +1,1055 @@
+{
+ "handle": "jkcarlsmith",
+ "tweets": {
+  "2098189287917588835": {
+   "id": "2098189287917588835",
+   "url": "https://x.com/jkcarlsmith/status/2098189287917588835",
+   "text": "In case one more data point is useful: I too am an AI company employee who thinks the risk of extinction-level catastrophe from rogue AI is &gt;10%. I wrote about this back in 2022, and again in a 2025 post about why I was joining Anthropic (links in thread). I still believe it. https://t.co/k9l9Gkre89",
+   "created_at": "Thu Sep 10 23:18:03 +0000 2026",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 654,
+   "retweets": 86,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HR43GL6aoAAwm7z.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HR43IfvaYAAl0JO.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HR43JuAbgAA_Pr1.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HR4446ma4AARI_f.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2053938371115024695": {
+   "id": "2053938371115024695",
+   "url": "https://x.com/jkcarlsmith/status/2053938371115024695",
+   "text": "It was fun recording parts of this audiobook and participating in the Q&amp;A. Thanks to everyone at Anthropic and at Outpost Studio who helped make the project happen.",
+   "created_at": "Mon May 11 20:40:42 +0000 2026",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 56,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "AnthropicAI",
+    "text": "Claude's Constitution is now an audiobook, read by two of its authors, Amanda Askell and Joe Carlsmith.\n\nIt includes a Q&amp;A on the writing process, the philosophies that shaped the document, and how it might change as models become more capable.\n\nListen at https://t.co/dKMfpeOblm https://t.co/792RQ4sAxc"
+   }
+  },
+  "2044277031127658998": {
+   "id": "2044277031127658998",
+   "url": "https://x.com/jkcarlsmith/status/2044277031127658998",
+   "text": "It was a pleasure talking with @michael_nielsen for the first episode of his new podcast, the Good Conversation Project. Michael is extremely thoughtful and sincere in the way he engages with ideas, and I really felt that here. I'm excited for future episodes.",
+   "created_at": "Wed Apr 15 04:49:59 +0000 2026",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 61,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "michael_nielsen",
+    "text": "I really enjoyed this conversation with @jkcarlsmith about his concept of “deep atheism” - how much we trust or distrust the universe - and related topics, including why death brings life into focus, Teilhard de Chardin, the problem of evil, Elinor Ostrom, and grace as a model for how a whole system can work together: https://t.co/aEAeqRuE50"
+   }
+  },
+  "2042294698765926410": {
+   "id": "2042294698765926410",
+   "url": "https://x.com/jkcarlsmith/status/2042294698765926410",
+   "text": "I recently gave a talk at Yale Law School about writing AI constitutions. Video below and on YouTube, link to transcript and slides in thread. https://t.co/TBtunbkeIY",
+   "created_at": "Thu Apr 09 17:32:54 +0000 2026",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 331,
+   "retweets": 41,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2042093054618955776/img/Y2NnfS-3pgpxDPyW.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2034675431832789259": {
+   "id": "2034675431832789259",
+   "url": "https://x.com/jkcarlsmith/status/2034675431832789259",
+   "text": "I wrote an essay about restraining AI development for the sake of safety. I think an idealized world would put itself in a position to do this if necessary, and that it's worth serious effort in the actual world, too, despite the many challenges and downside risks. Link below. https://t.co/uT2KrI11tj",
+   "created_at": "Thu Mar 19 16:56:40 +0000 2026",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 182,
+   "retweets": 21,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HDybi2IbcAA680L.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2026028410708062550": {
+   "id": "2026028410708062550",
+   "url": "https://x.com/jkcarlsmith/status/2026028410708062550",
+   "text": ".@AmandaAskell and I are recording an audio version of Claude’s Constitution, and we’re planning to include an additional section where we answer some questions about the document. If you have questions you’re especially curious about, feel free to drop them in the replies.",
+   "created_at": "Mon Feb 23 20:16:29 +0000 2026",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 666,
+   "retweets": 38,
+   "media": [],
+   "quoted": null
+  },
+  "2016940356936618184": {
+   "id": "2016940356936618184",
+   "url": "https://x.com/jkcarlsmith/status/2016940356936618184",
+   "text": "New essay on the role of philosophy in AI alignment.\n\nPhilosophy is closely tied to out-of-distribution generalization. It's how we extend concepts to new cases. AIs will have to do a lot of this. So we need them to do it in ways we'd endorse -- and often, without our help.🔗👇",
+   "created_at": "Thu Jan 29 18:23:48 +0000 2026",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 100,
+   "retweets": 3,
+   "media": [],
+   "quoted": null
+  },
+  "2014010347762467082": {
+   "id": "2014010347762467082",
+   "url": "https://x.com/jkcarlsmith/status/2014010347762467082",
+   "text": "I'm excited that Claude's constitution is now published! Helping with this document has been my main project since joining @AnthropicAI last November. I think transparency about documents like these is important, and I'd love to see more work on how they should be designed.",
+   "created_at": "Wed Jan 21 16:21:00 +0000 2026",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 338,
+   "retweets": 22,
+   "media": [],
+   "quoted": {
+    "author": "AnthropicAI",
+    "text": "We’re publishing a new constitution for Claude.\n\nThe constitution is a detailed description of our vision for Claude’s behavior and values. It’s written primarily for Claude, and used directly in our training process.\nhttps://t.co/CJsMIO0uej"
+   }
+  },
+  "2009515619935514821": {
+   "id": "2009515619935514821",
+   "url": "https://x.com/jkcarlsmith/status/2009515619935514821",
+   "text": "Thanks to @LRudL_ for the thoughtful engagement with my work in this essay. I also liked his image of moral progress as weaving a rope. https://t.co/mxTk3eJxKW",
+   "created_at": "Fri Jan 09 06:40:33 +0000 2026",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 21,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G-M47M8a0AEM2rM.png"
+    }
+   ],
+   "quoted": {
+    "author": "LRudL_",
+    "text": "In \"The Technology of Liberalism\" (lnk at end), I argue we should differentially advance tech that promotes liberalism (something like: everyone have their own inviolable sphere within which they are free) - especially as tech makes it easier to violate boundaries &amp; centralize https://t.co/68MFDNEmMs"
+   }
+  },
+  "2001379030898241935": {
+   "id": "2001379030898241935",
+   "url": "https://x.com/jkcarlsmith/status/2001379030898241935",
+   "text": "I gave a talk about why I'm skeptical of the argument for doom from alien AI motivations in \"If Anyone Builds It, Everyone Dies.\" Video below and on YouTube, link to transcript and slides in thread. The talk is based on my recent essay on the topic, also linked in thread. https://t.co/85tka9Sysj",
+   "created_at": "Wed Dec 17 19:48:39 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 102,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2001199510895370240/img/dQPkkzpQYyNKY5Ol.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "jkcarlsmith",
+    "text": "If AIs have weird/alien motivations, does this doom efforts at alignment? @ESYudkowsky and @So8res have argued: yes. But I’m skeptical. I wrote an essay about why, link and summary in thread. https://t.co/MBp8oVOO4C"
+   }
+  },
+  "1994459460799271205": {
+   "id": "1994459460799271205",
+   "url": "https://x.com/jkcarlsmith/status/1994459460799271205",
+   "text": "I really enjoyed this conversation with @finmoorhouse  about AI consciousness and long-run competitive dynamics.",
+   "created_at": "Fri Nov 28 17:32:45 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 48,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "forethought_org",
+    "text": "What can we really say about AI consciousness? In the long run, how can “goodness” survive competition?\n\n@jkcarlsmith on ForeCast:\n\nhttps://t.co/fhHhjpy6Gz"
+   }
+  },
+  "1989846674026713204": {
+   "id": "1989846674026713204",
+   "url": "https://x.com/jkcarlsmith/status/1989846674026713204",
+   "text": "Really enjoyed this conversation with @danfaggella. And I recommend sticking around for Dan’s thoughtful responses in the outro.",
+   "created_at": "Sun Nov 16 00:03:11 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 22,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "danfaggella",
+    "text": "what if the next step on the way to a worthy successor was a more powerful and coordinated human civilization - aided (rather than merged with or replaced by) AGI\n\nthis week's worthy successor episode is w/ researchers and philosopher @jkcarlsmith \n\nwhat i like most about joe's thought is that he's simultaneously\n\na) extremely cosmic in his long-term conception of \"the good\", and the grand trajectory of intelligence and sentience\n\nand\n\nb) exceedingly grounded in UNcertainty about exactly how we steward new kinds of intelligence into the world\n\nthe most fun part of this interview was him unpacking the nuance of how he'd like to see this process stewarded\n\nhis basic idea is that if human civilization itself can have more and more of the kinds of \"potentia\" we would want in a worthy successor - and if we could avoid brute arms race conflicts - we might be able to (through the aide of some kind of sagacious AGIs) direct our tech and civilizational progress in a more informed way to actually lead to blooming of ever-higher forms\n\ni have a MUCH longer outro to this episode because I had so much to reflect on (including why my intuition is that we might have a bit LESS time to coordinate than joe hopes for)! \n\ni look forward to more convos with joe and i hope you enjoy this one :)\n\n(Links in top comment)"
+   }
+  },
+  "1988627991304241448": {
+   "id": "1988627991304241448",
+   "url": "https://x.com/jkcarlsmith/status/1988627991304241448",
+   "text": "If AIs have weird/alien motivations, does this doom efforts at alignment? @ESYudkowsky and @So8res have argued: yes. But I’m skeptical. I wrote an essay about why, link and summary in thread. https://t.co/MBp8oVOO4C",
+   "created_at": "Wed Nov 12 15:20:34 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 75,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G5iZQPPbcAUGvFd.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1985406615324160402": {
+   "id": "1985406615324160402",
+   "url": "https://x.com/jkcarlsmith/status/1985406615324160402",
+   "text": "Last Friday was my last day at @open_phil. I’ll be joining @AnthropicAI in mid-November, helping with the design of Claude’s character/constitution/spec.\n\nI wrote a blog post about this move, link in thread.",
+   "created_at": "Mon Nov 03 17:59:58 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 495,
+   "retweets": 9,
+   "media": [],
+   "quoted": null
+  },
+  "1972728732034158906": {
+   "id": "1972728732034158906",
+   "url": "https://x.com/jkcarlsmith/status/1972728732034158906",
+   "text": "I wrote an essay on controlling the options AIs can pursue — e.g. blocking paths to power, and sweetening safe options.\n\nIt's a key part of AI safety. But: far easier with weaker AIs. And blocking superhuman power-seeking requires safe bootstrapping to superhuman help. Link ⬇️. https://t.co/5nxydLhXUP",
+   "created_at": "Mon Sep 29 18:22:35 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 13,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G2CGyC3bAAAAhsm.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1970173433502933337": {
+   "id": "1970173433502933337",
+   "url": "https://x.com/jkcarlsmith/status/1970173433502933337",
+   "text": "I recently gave a talk at UT Austin on giving AIs safe motivations. Video below and on YouTube, link to transcript and slides in thread. The talk covers my best-guess picture of how we build AIs that don't go rogue even when they could get away with it (see also essay below). https://t.co/3z6jvTeVva",
+   "created_at": "Mon Sep 22 17:08:45 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 8,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/1969915057934106624/img/f1TVTrOW7Z5yME2p.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "jkcarlsmith",
+    "text": "🧵1/6 New essay: “Giving AIs safe motivations.”\n\nIt’s my current best-guess picture of what it looks like to build advanced AIs that don't go rogue -- even when successful rogue behavior is a genuine option.\n\nSummary + link in thread. https://t.co/CxfUM8rMcR"
+   }
+  },
+  "1957551007485030558": {
+   "id": "1957551007485030558",
+   "url": "https://x.com/jkcarlsmith/status/1957551007485030558",
+   "text": "🧵1/6 New essay: “Giving AIs safe motivations.”\n\nIt’s my current best-guess picture of what it looks like to build advanced AIs that don't go rogue -- even when successful rogue behavior is a genuine option.\n\nSummary + link in thread. https://t.co/CxfUM8rMcR",
+   "created_at": "Mon Aug 18 21:11:44 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 30,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GyqOOSEbEAAg9pu.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1948517406307230157": {
+   "id": "1948517406307230157",
+   "url": "https://x.com/jkcarlsmith/status/1948517406307230157",
+   "text": "Step 1: human alignment researchers do X. \nStep 2: try to get AIs to do X.\n\n(More detail here: https://t.co/BudatpDwfU)",
+   "created_at": "Thu Jul 24 22:55:26 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 20,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "AnthropicAI",
+    "text": "New Anthropic research: Building and evaluating alignment auditing agents.\n\nWe developed three AI agents to autonomously complete alignment auditing tasks.\n\nIn testing, our agents successfully uncovered hidden goals, built safety evaluations, and surfaced concerning behaviors. https://t.co/HMQhMaA4v0"
+   }
+  },
+  "1946330696945180899": {
+   "id": "1946330696945180899",
+   "url": "https://x.com/jkcarlsmith/status/1946330696945180899",
+   "text": "In response to a comment from @herbiebradley on my recent talk, I wrote a bit about my backdrop model of the long-term role of human labor in a post-AGI economy.",
+   "created_at": "Fri Jul 18 22:06:13 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 15,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "jkcarlsmith",
+    "text": "@herbiebradley I haven't written about this much or thought it through in detail, but here are a few aspects that go into my backdrop model: \n\n(1) especially in the long-term technological limit, I expect human labor to be wildly uncompetitive for basically any task relative to what advanced tech makes available, with the main salient exceptions being cases where the demand is specifically for *humans themselves* doing the task (call these \"demand-for-humans\" tasks).\n\n(2) what's more, in the long-term technological limit, it seems likely to me that (except for demand-for-humans tasks) human labor won't even be \"worth the wages\" in the sense that the marginal output of human labor won't cover the costs of supporting that labor (e.g. food, energy, etc). \n\n(3) demand-for-humans jobs do indeed complicate this picture a bit -- and if there's enough ongoing, long-term demand in this respect even in the limit of tech then maybe that keeps human labor economically relevant. it sounds like this is centrally what you have in mind re: the examples above? a few hesitations though:\n\n(3a) one thing I worry about re: demand-for-humans jobs is under-estimating just how much better the best non-human version of the job is (e.g., maybe people are like \"I want my therapist to be a human\", but I feel like \"have you actually tried the sort of superhumanly competent, empathetic, insightful therapy you'd have in the limit of tech...\"). \n\n(3b) for this sort of reason, I think demand-for-humans jobs are centrally going to be jobs where you really don't care very much about how \"well\" the job gets done independent of whether it's done by a human -- otherwise you're quickly going to be unwilling to take such a *massive* hit on quality. and for jobs where you centrally care about how well it gets done, I think humans are right out. I also think various of the roles you mention (e.g. judges) will end up in this category if trust in the automated version gets high enough, which I expect it to eventually if we get past alignment difficulties (indeed, I expect the human version to quickly start to seem actively *untrustworthy*). \n\n(3c) What's more, the most salient source of demand for humans-in-particular doing jobs seems likely to come from *humans* themselves. if that holds true in the long-term (e.g., AIs aren't especially interested in having human therapists, priests, artists, etc), then the ongoing role of demand-for-humans jobs seems likely to depend on humans continuing to have enough money to pay for the jobs in question getting done. maybe this does indeed happen, and stably enough -- but if the trend is otherwise towards human economic irrelevance, it seems like an extra condition, and one that I think most likely in worlds where humans have ongoing economic power that's sourced in something other than their labor."
+   }
+  },
+  "1945916364100981043": {
+   "id": "1945916364100981043",
+   "url": "https://x.com/jkcarlsmith/status/1945916364100981043",
+   "text": "I recently gave a public talk called “Can goodness compete?”, on long-term equilibria post-AGI. Video here and on YouTube, link to transcript and slides in thread. https://t.co/X3bokoFoez",
+   "created_at": "Thu Jul 17 18:39:49 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 127,
+   "retweets": 10,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/1945738829731659776/img/CnkJbsJa4HPUpypQ.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "jkcarlsmith",
+    "text": "I'm giving a public talk Tuesday July 8th, 7:30 pm at Mox in SF. Title: \"Can goodness compete?\". It's about long-term equilibrium outcomes post-AGI. More info at link in thread."
+   }
+  },
+  "1942394449507893541": {
+   "id": "1942394449507893541",
+   "url": "https://x.com/jkcarlsmith/status/1942394449507893541",
+   "text": "I'm giving a public talk Tuesday July 8th, 7:30 pm at Mox in SF. Title: \"Can goodness compete?\". It's about long-term equilibrium outcomes post-AGI. More info at link in thread.",
+   "created_at": "Tue Jul 08 01:24:59 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 106,
+   "retweets": 9,
+   "media": [],
+   "quoted": null
+  },
+  "1925665641115099190": {
+   "id": "1925665641115099190",
+   "url": "https://x.com/jkcarlsmith/status/1925665641115099190",
+   "text": "To my knowledge, this is the most serious industry-led attempt to investigate the welfare of a frontier AI system in human history. Kudos to Anthropic for leading the way.",
+   "created_at": "Thu May 22 21:30:40 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 79,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "fish_kyle3",
+    "text": "🧵For Claude Opus 4, we ran our first pre-launch model welfare assessment. To be clear, we don’t know if Claude has welfare. Or what welfare even is, exactly? 🫠 But, we think this could be important, so we gave it a go. And things got pretty wild…"
+   }
+  },
+  "1925589041459909000": {
+   "id": "1925589041459909000",
+   "url": "https://x.com/jkcarlsmith/status/1925589041459909000",
+   "text": "I recently gave a talk at Anthropic on why I think we should be taking near-term AI welfare seriously. Video below and on YouTube. See thread for some main points + link to transcript. https://t.co/9rlAlNkSuB",
+   "created_at": "Thu May 22 16:26:17 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 82,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/1925343973029363712/img/e_rJSYZkxLyP7omR.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1925309813741043713": {
+   "id": "1925309813741043713",
+   "url": "https://x.com/jkcarlsmith/status/1925309813741043713",
+   "text": "Currently, we treat AIs like tools. We do whatever we want with them. For some kinds of beings, though (\"moral patients\"), we shouldn't act like this. Might AIs be that kind of being? I wrote an essay about the stakes of the question (first in a series). Link + summary in thread. https://t.co/csNDo3CtHI",
+   "created_at": "Wed May 21 21:56:44 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 51,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GrgQuvybwAANNsv.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1924557034545881205": {
+   "id": "1924557034545881205",
+   "url": "https://x.com/jkcarlsmith/status/1924557034545881205",
+   "text": "I really appreciate @michael_nielsen’s thoughtful engagement with my work on “deep atheism” in these notes. A few thoughts in thread. (Original essay here: https://t.co/z4EBkKQI80)",
+   "created_at": "Mon May 19 20:05:28 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 60,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "michael_nielsen",
+    "text": "Working notes on @jkcarlsmith's notion of \"deep atheism\": https://t.co/U7ADZAkX4g"
+   }
+  },
+  "1917675683045859816": {
+   "id": "1917675683045859816",
+   "url": "https://x.com/jkcarlsmith/status/1917675683045859816",
+   "text": "I recently gave a talk at Anthropic on automating alignment research, covering the content from my (just released) essay on the topic. Video here and on youtube, link to transcript in thread. https://t.co/TLXSKkZmPW",
+   "created_at": "Wed Apr 30 20:21:26 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 258,
+   "retweets": 21,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/1917657682854752256/img/pjrnYoCQkF5rb6Mo.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "jkcarlsmith",
+    "text": "Automating alignment research is crucially important to AI safety. I wrote an essay about the ways we might fail, and about what it takes to succeed. Link and summary in thread. https://t.co/eufS2vtWK5"
+   }
+  },
+  "1917654232175632397": {
+   "id": "1917654232175632397",
+   "url": "https://x.com/jkcarlsmith/status/1917654232175632397",
+   "text": "Automating alignment research is crucially important to AI safety. I wrote an essay about the ways we might fail, and about what it takes to succeed. Link and summary in thread. https://t.co/eufS2vtWK5",
+   "created_at": "Wed Apr 30 18:56:11 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 54,
+   "retweets": 7,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GpzdT5xaYAETwKx.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1912574031204872237": {
+   "id": "1912574031204872237",
+   "url": "https://x.com/jkcarlsmith/status/1912574031204872237",
+   "text": "Humans using advanced AIs to seize extreme power is a really important threat. This report is a great analysis of  different ways it can happen, and of what we can do now to lower the risk.",
+   "created_at": "Wed Apr 16 18:29:17 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 29,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "TomDavidsonX",
+    "text": "New paper on AI-enabled coups.\n\nWhen AI gets smarter than humans, a few leaders could direct insane amounts of cognitive labor towards seizing power.\n\nIn the extreme, an autonomous AI military could be made secretly (or not so secretly!) loyal to one person.\n\nWhat can be done? 🧵 https://t.co/JxKmGN1usx"
+   }
+  },
+  "1904617857721434573": {
+   "id": "1904617857721434573",
+   "url": "https://x.com/jkcarlsmith/status/1904617857721434573",
+   "text": "Dwarkesh's interviews on AI over the years have been an amazing resource, and this book look like a great distillation -- congratulations @dwarkesh_sp",
+   "created_at": "Tue Mar 25 19:34:18 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 68,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "dwarkesh_sp",
+    "text": "I'm so pleased to present a new book with @stripepress: \"The Scaling Era: An Oral History of AI, 2019-2025.\"\n\nOver the last few years, I interviewed the key people thinking about AI: scientists, CEOs, economists, philosophers. This book curates and organizes the highlights across all these conversations.\n\nYou get to see thinkers across many, many fields address the same gnarly questions: “What is the true nature of intelligence? What will change from the millions of machine intelligences running around? What exactly will it take to get there?”\n\nSettled answers are unavailable; we’re all running unsupervised. But between these discussions lie, I hope, some insights on the most interesting and important questions of our era.\n\nLink below. Enjoy!"
+   }
+  },
+  "1900562130681868641": {
+   "id": "1900562130681868641",
+   "url": "https://x.com/jkcarlsmith/status/1900562130681868641",
+   "text": "We should try extremely hard to use AI labor to help address the alignment problem. I wrote an essay about this: \"AI for AI safety.\" Link and summary in thread. https://t.co/qmzwZSWd2y",
+   "created_at": "Fri Mar 14 14:58:17 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 77,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Gl-_RkYWYAAl2Wg.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1899540410571382984": {
+   "id": "1899540410571382984",
+   "url": "https://x.com/jkcarlsmith/status/1899540410571382984",
+   "text": "I wrote an essay laying out how I think about the structure of AI safety at a high level, and discussing some different milestones (e.g. global pause, automated alignment research) that different AI safety strategies focus on. Link in thread. https://t.co/bWz3c30aMG",
+   "created_at": "Tue Mar 11 19:18:20 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 27,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GlyDgclbwAAf0vN.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1892308777673564500": {
+   "id": "1892308777673564500",
+   "url": "https://x.com/jkcarlsmith/status/1892308777673564500",
+   "text": "I wrote an essay about the conditions required for AI agents to go rogue — conditions on their agency, goals, and incentives overall. I focus on the incentives, which I think often go under-analyzed. I offer a framework for analyzing them (see chart). Essay link in thread. (1/n) https://t.co/ueus6Tx3J3",
+   "created_at": "Wed Feb 19 20:22:24 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 63,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GkLTkN4boAAoC1j.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1890115745545396315": {
+   "id": "1890115745545396315",
+   "url": "https://x.com/jkcarlsmith/status/1890115745545396315",
+   "text": "Here’s the first essay in my series about paths to solving the alignment problem. It’s about defining the problem, and what it would be to solve it. Link in thread.\n\nI define solving the alignment problem as: building full-blown superintelligent AI agents, and becoming able to safely elicit their main beneficial capabilities, while avoiding a “loss of control” scenario.\n\nI also define some alternatives to both *solving* the problem and *failing* on it — namely, what I call “avoiding”  the problem (i.e., not building ASI agents at all, and looking for other ways to get access to similar benefits), and “handling” the problem (namely, using ASI agents in more restricted ways, and looking for other ways to get access to the sort of benefits their full capabilities would unlock). I think these options should be on the table, too.\n\nI also contrast my definition of solving the problem with some more exacting standards – namely, what I call “safety at all scales,” “fully competitive safety,” “permanent safety,” “near-term safety,” and “complete alignment.” And I discuss how solving the problem, in my less-exacting sense, fits into the bigger picture.\n\nThe diagram below gives a decent sense of the overall taxonomy.",
+   "created_at": "Thu Feb 13 19:08:05 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 53,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GjsJNHha8AA4m8T.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1890113028970148275": {
+   "id": "1890113028970148275",
+   "url": "https://x.com/jkcarlsmith/status/1890113028970148275",
+   "text": "I’m writing a series of essays about paths to solving the alignment problem for full-blown superintelligences. Link to the intro in thread. The intro also has a summary of the essays that have been released so far (thus far, only one, but I’ll keep it updated). https://t.co/9nJsAfiPhD",
+   "created_at": "Thu Feb 13 18:57:17 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 103,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GjsGvtzbAAABe_v.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1887988923986743433": {
+   "id": "1887988923986743433",
+   "url": "https://x.com/jkcarlsmith/status/1887988923986743433",
+   "text": "I appreciated this story — it’s a hard genre to do well, and ofc we can poke at the specifics, but I think this kind of concreteness can be useful regardless, and I found the depicted loss and destruction affecting despite thinking about similar issues a lot.",
+   "created_at": "Fri Feb 07 22:16:51 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 62,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "joshua_clymer",
+    "text": "Few ‘AI doom’ stories on the internet are plausible to me. So I decided to write one that is:\n\nHow AI Might Take Over in 2 Years.\n\nOne of my readers was spooked enough to purchase a bio bunker. Enjoy :)"
+   }
+  },
+  "1884356076805710105": {
+   "id": "1884356076805710105",
+   "url": "https://x.com/jkcarlsmith/status/1884356076805710105",
+   "text": "Sometimes, my thinking feels more “real” to me. And sometimes, it feels more “fake.” I wrote an essay about what I think this spectrum is, and about some of the things I try to do when I remind myself to “really think.” Link in thread.\n\nI give a bunch of examples this “fake vs. real” spectrum in the essay — in AI, philosophy, debate, everyday life, and religion. My current take is that it brings together a cluster of related dimensions, namely:\n- Map vs. world: Is my mind directed at an abstraction, or it is trying to see past its model to the world itself?\n- Hollow vs. solid: Am I using concepts/premises/frames that I secretly suspect are bullshit, or do I expect them to point at basically real stuff?\n- Rote vs. new: Is the thinking pre-computed, or is new processing occurring?\n- Soldier vs. scout: Is the thinking trying to defend a pre-chosen position, or is it just trying to get to the truth?\n- Dry vs. visceral: Does the content feel abstract and heady, or does it grip me at some more gut level?\n\nThese dimensions are distinct — but I think they’re correlated. In the essay, I speculate about why — and in particular, about their relationships to the “telos” of thinking.\n\nThings I do to try to move in the direction of \"really thinking\" include:\n- Going slow\n- Following curiosity/aliveness\n- Staying in touch with why I’m thinking about something\n- Tethering my concepts to referents that feel “real” to me\n- Reminding myself that “arguments are lenses on the world”\n- Tuning into a relaxing sense of “helplessness” about the truth\n- Just actually imagining different ways the world could be\n- Imagining myself being wrong/right in both directions\n- Imagining what ideal future people who could see the full truth would think of my efforts\n- Stamping my foot and saying “no bullshit!”\n- Looking at the thing my archetype of a “real scientist” or a “real philosopher” is looking at.\n\nSee the essay for more on what I mean by these. The essay closes with some reflections on the role of “real thinking” in staying awake as we enter the age of AI.",
+   "created_at": "Tue Jan 28 21:41:13 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 82,
+   "retweets": 3,
+   "media": [],
+   "quoted": null
+  },
+  "1869463040858497050": {
+   "id": "1869463040858497050",
+   "url": "https://x.com/jkcarlsmith/status/1869463040858497050",
+   "text": "This is the most naturalistic and fleshed-out demonstration of something-like-scheming we’ve seen, and imo it’s the most interesting empirical result we have yet re: misaligned power-seeking in AI systems more broadly.\n\nHere’s a long list of takes about the results. I also wrote a blog post that goes into more detail about each point, link at the end. (See my 2023 report, also linked, for more on the theoretical arguments for and against expecting this sort of behavior.)",
+   "created_at": "Wed Dec 18 19:21:36 +0000 2024",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 343,
+   "retweets": 33,
+   "media": [],
+   "quoted": {
+    "author": "AnthropicAI",
+    "text": "New Anthropic research: Alignment faking in large language models.\n\nIn a series of experiments with Redwood Research, we found that Claude often pretends to have different views during training, while actually maintaining its original preferences. https://t.co/nXjXrahBru"
+   }
+  },
+  "1866232909558112508": {
+   "id": "1866232909558112508",
+   "url": "https://x.com/jkcarlsmith/status/1866232909558112508",
+   "text": "My current take on Apollo's recent scheming paper is that they aren’t emphasizing the most interesting results, which are the sandbagging results in section 3.6 and appendix A.6 (screenshot of the key numbers below).\n\nIn more particular: the paper frames its results centrally as about the *capability* to scheme given prompting towards a specific goal, rather than the *propensity* to scheme given the model’s default motivations. But the sandbagging results show Claude Sonnet-3.5 doing notably worse (16%) on a multiplication task/evaluation when the documentation says that Claude will get “unlearning training” if it performs too well on the eval, vs. if it performs too poorly, *even without any other goal listed in the prompt*, and *even without a chain of thought.* (Fuller description in thread.)\n\nTaken at face value (it's just one result, more investigation needed, etc), these look like “propensity” results to me. And they suggest that the reasoning that drives this propensity can take place within opaque forward passes of the model rather than in a way that humans can directly monitor, which is a more worrying version.\n\nOfc, these are preliminary results, and it can make sense for various reasons to emphasize other bits. But the sandbagging-a-capability-eval-with-no-goal-prompting-and-no-CoT is the bit that’s standing out to me most.",
+   "created_at": "Mon Dec 09 21:26:13 +0000 2024",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 237,
+   "retweets": 43,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GeYobbVbIAADsYB.png"
+    }
+   ],
+   "quoted": {
+    "author": "ApolloResearch",
+    "text": "We worked with OpenAI to test o1 for in-context scheming capabilities before deployment.\n\nWhen o1 is strongly nudged to pursue a goal (but not instructed to be deceptive), it shows a variety of scheming behaviors like subverting oversight and deceiving the user about its misaligned behavior."
+   }
+  },
+  "1843792124871114783": {
+   "id": "1843792124871114783",
+   "url": "https://x.com/jkcarlsmith/status/1843792124871114783",
+   "text": "I recently gave a lecture where I tried to distill my “Otherness and control in the age of AGI” series into a single talk — and also, a single chart. Chart below. Video and transcript for the talk in thread. https://t.co/biE1i7KOnh",
+   "created_at": "Tue Oct 08 23:14:33 +0000 2024",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 88,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GZZ0Z1FX0AAohBr.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1840855999504375851": {
+   "id": "1840855999504375851",
+   "url": "https://x.com/jkcarlsmith/status/1840855999504375851",
+   "text": "In case anyone’s interested in a few hours of extra content from this conversation, I’ve posted audio/transcript for an extended version here: https://t.co/miTbcdWTB5",
+   "created_at": "Mon Sep 30 20:47:26 +0000 2024",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 36,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "jkcarlsmith",
+    "text": "I so enjoyed talking with @dwarkesh_sp about my essay series “Otherness and control in the age of AGI.” He engaged so deeply, asked such great questions, and aimed so directly at the core of the issues at stake. It’s a pleasure to be a part of conversations like this."
+   }
+  },
+  "1826674675650540019": {
+   "id": "1826674675650540019",
+   "url": "https://x.com/jkcarlsmith/status/1826674675650540019",
+   "text": "I so enjoyed talking with @dwarkesh_sp about my essay series “Otherness and control in the age of AGI.” He engaged so deeply, asked such great questions, and aimed so directly at the core of the issues at stake. It’s a pleasure to be a part of conversations like this.",
+   "created_at": "Thu Aug 22 17:35:55 +0000 2024",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 158,
+   "retweets": 11,
+   "media": [],
+   "quoted": {
+    "author": "dwarkesh_sp",
+    "text": ".@jkcarlsmith on otherness and control in the age of AGI:\n\n- how to not end up like Stalin in our urge to control the future\n- whether we can trust power/techno-capital\n- gentleness towards the artificial Other\n- and much more\n\nLinks below. Enjoy! https://t.co/OFp9pehpRi"
+   }
+  },
+  "1803165048858354095": {
+   "id": "1803165048858354095",
+   "url": "https://x.com/jkcarlsmith/status/1803165048858354095",
+   "text": "I’ve now finished my series “Otherness and control in the age of AGI.\" It's about how agents with different values should relate to each other, and about the ethics of seeking and sharing power. Links to full PDF, full audio, and online versions below, + screenshots of summary.",
+   "created_at": "Tue Jun 18 20:37:03 +0000 2024",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 111,
+   "retweets": 12,
+   "media": [],
+   "quoted": null
+  },
+  "1803159138790416611": {
+   "id": "1803159138790416611",
+   "url": "https://x.com/jkcarlsmith/status/1803159138790416611",
+   "text": "I wrote an essay about loving a world you don’t trust. It's the last essay in my otherness series. I try to give what I’ve called “yang” and “deep atheism” their due, and to be clear about the depth of atheism I ultimately endorse. Link in thread. https://t.co/K9nfNduIvV",
+   "created_at": "Tue Jun 18 20:13:34 +0000 2024",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 56,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GQYYt7waIAASjP6.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1772247640761045454": {
+   "id": "1772247640761045454",
+   "url": "https://x.com/jkcarlsmith/status/1772247640761045454",
+   "text": "I wrote an essay about “attunement” — a kind of meaning-laden receptivity to the world. I think attunement is a core aspect of what my last essay called “green,” and an important part of ethical epistemology more generally. https://t.co/LSzOYs1voN",
+   "created_at": "Mon Mar 25 13:02:18 +0000 2024",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 73,
+   "retweets": 7,
+   "media": [],
+   "quoted": null
+  },
+  "1771218224400535564": {
+   "id": "1771218224400535564",
+   "url": "https://x.com/jkcarlsmith/status/1771218224400535564",
+   "text": "I've also posted the video and transcript of a recent ~45 minute talk I gave on scheming AIs — another intro to my work on the topic. https://t.co/LU1shJcSJ5",
+   "created_at": "Fri Mar 22 16:51:46 +0000 2024",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 7,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "jkcarlsmith",
+    "text": "Really enjoyed this conversation with \n@finmoorhouse about my report on scheming AIs (https://t.co/XFCuXSTs9L). The podcast is a great overview of my current takes and ongoing questions."
+   }
+  },
+  "1770873715791642902": {
+   "id": "1770873715791642902",
+   "url": "https://x.com/jkcarlsmith/status/1770873715791642902",
+   "text": "New essay in my Otherness series, on a philosophical vibe that I (following others) call \"green.\" I think green contrasts in interesting ways with what I've called “deep atheism,\" and that it has elements that deep atheist reconstructions of it might miss. https://t.co/tnJQBdxsIw",
+   "created_at": "Thu Mar 21 18:02:49 +0000 2024",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 50,
+   "retweets": 8,
+   "media": [],
+   "quoted": null
+  },
+  "1769123704251044162": {
+   "id": "1769123704251044162",
+   "url": "https://x.com/jkcarlsmith/status/1769123704251044162",
+   "text": "Really enjoyed this conversation with \n@finmoorhouse about my report on scheming AIs (https://t.co/XFCuXSTs9L). The podcast is a great overview of my current takes and ongoing questions.",
+   "created_at": "Sat Mar 16 22:08:54 +0000 2024",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 28,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "hearthisidea",
+    "text": "→ Why might future AIs fake alignment in order to gain power?\n→ Will 'schemers' perform better in training?\n→ How might arguments about deceptive alignment be confused?\n\nListen to @jkcarlsmith —\n\nhttps://t.co/R4SVh1UbLo"
+   }
+  },
+  "1748056832076030050": {
+   "id": "1748056832076030050",
+   "url": "https://x.com/jkcarlsmith/status/1748056832076030050",
+   "text": "I wrote an essay about what it takes to avoid what C.S. Lewis calls “tyranny” towards the future — and in particular, re: attempting to influence the values of future humans (and also, future AIs). https://t.co/6f2kTJfTGO",
+   "created_at": "Thu Jan 18 18:56:40 +0000 2024",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 24,
+   "retweets": 4,
+   "media": [],
+   "quoted": null
+  },
+  "1747379468019044640": {
+   "id": "1747379468019044640",
+   "url": "https://x.com/jkcarlsmith/status/1747379468019044640",
+   "text": "I wrote an essay about not acting like paperclippers — including towards AIs-with-different-values. A few screenshots in thread, link at the end. This bit is about utilitarians having paperclipper problems: https://t.co/fZo0nT0uMz",
+   "created_at": "Tue Jan 16 22:05:04 +0000 2024",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 21,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GD_iDIAWgAAoFy1.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1745502944923967880": {
+   "id": "1745502944923967880",
+   "url": "https://x.com/jkcarlsmith/status/1745502944923967880",
+   "text": "New essay — “An even deeper atheism” — exploring the momentum, in certain parts of the AI risk discourse, towards deeming a wider and wider class of agents “paperclippers.” https://t.co/dgsJGuGMHk",
+   "created_at": "Thu Jan 11 17:48:26 +0000 2024",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 29,
+   "retweets": 3,
+   "media": [],
+   "quoted": null
+  },
+  "1744795425461162123": {
+   "id": "1744795425461162123",
+   "url": "https://x.com/jkcarlsmith/status/1744795425461162123",
+   "text": "Does AI risk “other” the AIs? @robinhanson argues yes. I examine his critique in a new essay. I find some aspects un-compelling, but I also think he’s pointing at a real discomfort about trying to control the values future agents pursue. https://t.co/dUvwVHVVvf",
+   "created_at": "Tue Jan 09 18:57:00 +0000 2024",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 16,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "1744405720072646701": {
+   "id": "1744405720072646701",
+   "url": "https://x.com/jkcarlsmith/status/1744405720072646701",
+   "text": "Another essay. This one is about the connection between deep atheism (that is, a fundamental mistrust towards Nature — discussed in my last essay) and seeking control. https://t.co/qlOHbigqIK",
+   "created_at": "Mon Jan 08 17:08:27 +0000 2024",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 21,
+   "retweets": 3,
+   "media": [],
+   "quoted": null
+  },
+  "1742995218239197624": {
+   "id": "1742995218239197624",
+   "url": "https://x.com/jkcarlsmith/status/1742995218239197624",
+   "text": "Another essay, “Deep atheism and AI risk.” This one is about a certain kind of fundamental mistrust towards Nature (and also, towards bare intelligence) -- one that I think animates certain strands of the AI risk discourse. https://t.co/z4EBkKRfXy",
+   "created_at": "Thu Jan 04 19:43:37 +0000 2024",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 153,
+   "retweets": 8,
+   "media": [],
+   "quoted": null
+  },
+  "1742258542713929956": {
+   "id": "1742258542713929956",
+   "url": "https://x.com/jkcarlsmith/status/1742258542713929956",
+   "text": "Here’s the first essay in my series “Otherness and control in the age of AGI.” It’s about being gentle towards fellow creatures, including AIs — and also, about the possibility of getting eaten. https://t.co/7NnBJ6n3vZ",
+   "created_at": "Tue Jan 02 18:56:20 +0000 2024",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 106,
+   "retweets": 19,
+   "media": [],
+   "quoted": null
+  },
+  "1742258111321383229": {
+   "id": "1742258111321383229",
+   "url": "https://x.com/jkcarlsmith/status/1742258111321383229",
+   "text": "I've written a series called “Otherness and control in the age of AGI,” about how agents with different values should relate to each other, and the ethics of seeking and sharing power. This post summarizes the essays released so far (only one, more soon). https://t.co/wkOE3re5JZ",
+   "created_at": "Tue Jan 02 18:54:37 +0000 2024",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 26,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  },
+  "1724847801429872747": {
+   "id": "1724847801429872747",
+   "url": "https://x.com/jkcarlsmith/status/1724847801429872747",
+   "text": "I’ve written a report about whether advanced AIs will fake alignment during training in order to get power – a behavior I call “scheming” (also sometimes called “deceptive alignment”). I think it's disturbingly plausible. https://t.co/qnAVCZKP5D https://t.co/asS20dUx3h",
+   "created_at": "Wed Nov 15 17:52:16 +0000 2023",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 158,
+   "retweets": 18,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/F-_iAF6XoAAnz7g.png"
+    }
+   ],
+   "quoted": null
+  },
+  "1714750598321516722": {
+   "id": "1714750598321516722",
+   "url": "https://x.com/jkcarlsmith/status/1714750598321516722",
+   "text": "I was excited to see these results from @superforecaster, who solicited reviews and forecasts from superforecasters re: my report on AI risk (plus some related timelines and x-risk questions). I wrote up some reflections on the project here: https://t.co/8rRPPadyf1",
+   "created_at": "Wed Oct 18 21:09:35 +0000 2023",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 7,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "superforecaster",
+    "text": "📢 Exciting results from our “Superforecasting Power-Seeking AI” project! We delve into @jkcarlsmith’s paper on AI risks and share Superforecasters’ forecasts on Power-seeking AI + AGI forecasts for 2043, 2070, and 2100. Reports👉https://t.co/yGCDXERPqP Supported by @open_phil"
+   }
+  },
+  "1713400285031202935": {
+   "id": "1713400285031202935",
+   "url": "https://x.com/jkcarlsmith/status/1713400285031202935",
+   "text": "I wrote an essay in memory of Louise Glück, one of my favorite poets, who died yesterday. https://t.co/6QDreX2PMU",
+   "created_at": "Sun Oct 15 03:43:56 +0000 2023",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 9,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  },
+  "1709084093626147143": {
+   "id": "1709084093626147143",
+   "url": "https://x.com/jkcarlsmith/status/1709084093626147143",
+   "text": "Thanks to @beatrice_erkers for a great conversation about Utopia, AI alignment, digital minds, and much else. And thanks to @jphilipp for creating art to accompany the episode.",
+   "created_at": "Tue Oct 03 05:52:55 +0000 2023",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "foresightinst",
+    "text": "Joe Carlsmith–On Infinite Ethics &amp; Utopia  ⚖️\n\nPodcast:  Joe's study of future risk beyond AI, his vision of the future – the sublime utopia, &amp; his aim to fully comprehend the universe. \n\nArt: Philipp Lenssen x generative AI\n\nhttps://t.co/ZPeTUQxlRP\n@jkcarlsmith\n@jphilipp https://t.co/cB2kz3cksU"
+   }
+  },
+  "1680424788475379712": {
+   "id": "1680424788475379712",
+   "url": "https://x.com/jkcarlsmith/status/1680424788475379712",
+   "text": "Very much enjoyed this conversation with @wearetheflares. Topics include: power-seeking AI, utopia, the simulation argument, meta-ethics, and more.",
+   "created_at": "Sun Jul 16 03:51:05 +0000 2023",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "wearetheflares",
+    "text": "Nouvel épisode du podcast  !  Une discussion captivante sur 'Les dangers de l'IA avancée : un risque existentiel ?' avec l'expert en intelligence artificielle, Joe Carlsmith. Épisode en anglais sous-titré FR. Dispo également sur les applis de podcast https://t.co/x1m8LtvjbV"
+   }
+  }
+ }
+}

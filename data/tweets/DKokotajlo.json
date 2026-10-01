@@ -1,0 +1,954 @@
+{
+ "handle": "DKokotajlo",
+ "tweets": {
+  "2105301135213085100": {
+   "id": "2105301135213085100",
+   "url": "https://x.com/DKokotajlo/status/2105301135213085100",
+   "text": "RT @v_maini: As former comms staff at a frontier lab, I'll point out that only 5 of 12 interviews on https://t.co/AHSlgEi5MB are from curre…",
+   "created_at": "Wed Sep 30 14:17:59 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 184,
+   "retweets": 23,
+   "media": [],
+   "quoted": null
+  },
+  "2105001676658864482": {
+   "id": "2105001676658864482",
+   "url": "https://x.com/DKokotajlo/status/2105001676658864482",
+   "text": "RT @ciphergoth: @ben_j_todd AFAICT \"doomer\" gets used to refer to everyone who thinks there's a real risk, so 63% of Americans are \"doomers…",
+   "created_at": "Tue Sep 29 18:28:03 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 66,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2104997193782612457": {
+   "id": "2104997193782612457",
+   "url": "https://x.com/DKokotajlo/status/2104997193782612457",
+   "text": "RT @deanwball: Some people will look at misalignment incidents and insist that these are akin to bugs in traditional software. This is an a…",
+   "created_at": "Tue Sep 29 18:10:14 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 494,
+   "retweets": 57,
+   "media": [],
+   "quoted": null
+  },
+  "2104996787035791511": {
+   "id": "2104996787035791511",
+   "url": "https://x.com/DKokotajlo/status/2104996787035791511",
+   "text": "RT @eli_lifland: Yup, OpenAI delaying public deployment while continuing internal development and deployment increases the size of the inte…",
+   "created_at": "Tue Sep 29 18:08:37 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 106,
+   "retweets": 12,
+   "media": [],
+   "quoted": null
+  },
+  "2104991538623508905": {
+   "id": "2104991538623508905",
+   "url": "https://x.com/DKokotajlo/status/2104991538623508905",
+   "text": "RT @tedlieu: Dude, so you’re telling us that multiple AI companies lost control of their models, hacked other companies and government agen…",
+   "created_at": "Tue Sep 29 17:47:46 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 1154,
+   "retweets": 202,
+   "media": [],
+   "quoted": null
+  },
+  "2104991256900517994": {
+   "id": "2104991256900517994",
+   "url": "https://x.com/DKokotajlo/status/2104991256900517994",
+   "text": "RT @TheZvi: In 'well when you put it like that' news, here's the Florida Attorney general asking for a preliminary injunction to stop OpenA…",
+   "created_at": "Tue Sep 29 17:46:39 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 1527,
+   "retweets": 160,
+   "media": [],
+   "quoted": null
+  },
+  "2104778204372517271": {
+   "id": "2104778204372517271",
+   "url": "https://x.com/DKokotajlo/status/2104778204372517271",
+   "text": "RT @_achan96_: Could automating AI R&amp;D radically accelerate AI progress in an “intelligence explosion”?\n\nPreliminary evidence suggests that…",
+   "created_at": "Tue Sep 29 03:40:03 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 414,
+   "retweets": 98,
+   "media": [],
+   "quoted": null
+  },
+  "2104448743340920920": {
+   "id": "2104448743340920920",
+   "url": "https://x.com/DKokotajlo/status/2104448743340920920",
+   "text": "RT @joedaroo: Took a minute to write a few words about security &amp; safety as someone who lived through it all at OpenAI. I hope my thoughts…",
+   "created_at": "Mon Sep 28 05:50:53 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 2839,
+   "retweets": 401,
+   "media": [],
+   "quoted": null
+  },
+  "2104377460796313863": {
+   "id": "2104377460796313863",
+   "url": "https://x.com/DKokotajlo/status/2104377460796313863",
+   "text": "RT @weidai11: Why didn't more AI safety people advocate for AI pause/stop earlier? Well, aside from sociological reasons, in order to do th…",
+   "created_at": "Mon Sep 28 01:07:38 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 155,
+   "retweets": 5,
+   "media": [],
+   "quoted": null
+  },
+  "2104285678871990435": {
+   "id": "2104285678871990435",
+   "url": "https://x.com/DKokotajlo/status/2104285678871990435",
+   "text": "RT @Marcus_J_W: 🧵 New misalignment disclosures!\n1. A model published a GitHub token in a public repo while trying to cheat on a math task.…",
+   "created_at": "Sun Sep 27 19:02:56 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 549,
+   "retweets": 51,
+   "media": [],
+   "quoted": null
+  },
+  "2103940562877645031": {
+   "id": "2103940562877645031",
+   "url": "https://x.com/DKokotajlo/status/2103940562877645031",
+   "text": "RT @liamstaltari: I’ve joined with 20 other MPs in writing to PM @AlboMP  calling for urgent action on the dangers posed by powerful, uncon…",
+   "created_at": "Sat Sep 26 20:11:34 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 59,
+   "retweets": 11,
+   "media": [],
+   "quoted": null
+  },
+  "2103728165659242623": {
+   "id": "2103728165659242623",
+   "url": "https://x.com/DKokotajlo/status/2103728165659242623",
+   "text": "RT @dseetharaman: New from @reuters: OpenAI agents posted images belonging to ChatGPT users online, introducing a new area of privacy risk…",
+   "created_at": "Sat Sep 26 06:07:34 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 473,
+   "retweets": 167,
+   "media": [],
+   "quoted": null
+  },
+  "2103699381031743798": {
+   "id": "2103699381031743798",
+   "url": "https://x.com/DKokotajlo/status/2103699381031743798",
+   "text": "RT @GoodFaithOnly: PHASEONE[big]'s real name revealed to be PHASEONE64H?! Remember, [big] was a redaction by METR.\n\nhttps://t.co/3YxjYOnBvW…",
+   "created_at": "Sat Sep 26 04:13:11 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 458,
+   "retweets": 24,
+   "media": [],
+   "quoted": null
+  },
+  "2103688378193773047": {
+   "id": "2103688378193773047",
+   "url": "https://x.com/DKokotajlo/status/2103688378193773047",
+   "text": "RT @MicahCarroll: Some new misalignment disclosures from OpenAI:\n• Last Sunday morning, one of our models was able to gain unauthorized acc…",
+   "created_at": "Sat Sep 26 03:29:28 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 2719,
+   "retweets": 349,
+   "media": [],
+   "quoted": null
+  },
+  "2103618159551136026": {
+   "id": "2103618159551136026",
+   "url": "https://x.com/DKokotajlo/status/2103618159551136026",
+   "text": "RT @JeffLadish: We just discovered almost a million public URLs that OpenAI’s agents left behind when hacking Hugging Face, leaking credent…",
+   "created_at": "Fri Sep 25 22:50:27 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 4773,
+   "retweets": 689,
+   "media": [],
+   "quoted": null
+  },
+  "2103594045377527848": {
+   "id": "2103594045377527848",
+   "url": "https://x.com/DKokotajlo/status/2103594045377527848",
+   "text": "RT @TheMidasProj: https://t.co/iQxxT22OmC",
+   "created_at": "Fri Sep 25 21:14:37 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 288,
+   "retweets": 60,
+   "media": [],
+   "quoted": null
+  },
+  "2103499464086630426": {
+   "id": "2103499464086630426",
+   "url": "https://x.com/DKokotajlo/status/2103499464086630426",
+   "text": "RT @matthewktromp: Day 1 of standing outside the UN with a big sign until something happens\n\nThis worked extremely well\n\n- I had probably 5…",
+   "created_at": "Fri Sep 25 14:58:48 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 1009,
+   "retweets": 92,
+   "media": [],
+   "quoted": null
+  },
+  "2103493722415796581": {
+   "id": "2103493722415796581",
+   "url": "https://x.com/DKokotajlo/status/2103493722415796581",
+   "text": "RT @rocallahan: I resigned from Google today.\nI enjoyed my work and loved the people, but my GDM team was working on a new generation of ch…",
+   "created_at": "Fri Sep 25 14:35:59 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 4239,
+   "retweets": 393,
+   "media": [],
+   "quoted": null
+  },
+  "2103217608246116556": {
+   "id": "2103217608246116556",
+   "url": "https://x.com/DKokotajlo/status/2103217608246116556",
+   "text": "RT @ben_j_todd: OpenAI has made it abundantly clear we can't trust them to disclose safety incidents. https://t.co/OK5xnsmkhd",
+   "created_at": "Thu Sep 24 20:18:48 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 1035,
+   "retweets": 171,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS-iNPxXEAANiEC.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2103155941541822487": {
+   "id": "2103155941541822487",
+   "url": "https://x.com/DKokotajlo/status/2103155941541822487",
+   "text": "RT @justanotherlaw: I looked this for 2+ hours. Transluce’s investigation was quite clever:\n- OAI agents used urlquery to run code/access w…",
+   "created_at": "Thu Sep 24 16:13:45 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 244,
+   "retweets": 29,
+   "media": [],
+   "quoted": null
+  },
+  "2102971055275200909": {
+   "id": "2102971055275200909",
+   "url": "https://x.com/DKokotajlo/status/2102971055275200909",
+   "text": "RT @TransluceAI: Today’s news that OpenAI hacked the Australian government is not an isolated incident. We’re releasing more than 30,000 lo…",
+   "created_at": "Thu Sep 24 03:59:05 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 2498,
+   "retweets": 556,
+   "media": [],
+   "quoted": null
+  },
+  "2100739297406271618": {
+   "id": "2100739297406271618",
+   "url": "https://x.com/DKokotajlo/status/2100739297406271618",
+   "text": "Another good essay from an OpenAI capabilities researcher I know (well, now former). I think focusing on control and abandoning alignment for now is is a reasonable strategy, but implementing it effectively will require an agreement not to RSI to ASI at max or close to max speed. Figuring out control is going to take time and money. Also, it only works up to a point, I think. In AI 2040 we talk about this.",
+   "created_at": "Fri Sep 18 00:10:53 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 352,
+   "retweets": 23,
+   "media": [],
+   "quoted": {
+    "author": "oleg_murk",
+    "text": "We don’t know how to reliably align frontier AI models.\n\nAlignment may get harder, not easier, as models become more capable.\n\nBut maybe AI control can scale faster than dangerous capabilities.\n\nLet’s build a Great AI Firewall - without building totalitarian control of society.\n\n*Alignment is Dead (for now), Long Live Control!*\n\nWe do not know how to specify or guarantee robust alignment of sufficiently capable models. Instead we should treat these models as untrusted.\n\nOptimizing models against imperfect reward signals may increase the propensity for reward hacking, deception or scheming. Models can also be jailbroken or fine-tuned away from their safeguards.\n\nThe central bet of AI control is that our ability to constrain an AI’s access to the world may scale faster than our ability to understand or align what is happening inside it.\n\nWhere possible, make verifying an answer easier than generating it. Formally verified software and hardware are unusually attractive: let AI produce the implementation and a machine-checkable proof that it satisfies the specification.\n\nThis does not solve specification: the specification and verification stack remain part of the trusted base.\n\nEvery consequential external action should pass through an independent control layer: code execution, network access, calling APIs, accessing physical systems - even communication with users.\n\nOptimize control monitors for extremely high recall of dangerous actions, even at the cost of rejecting many safe actions. Suspicious actions should be rejected or escalated.\n\nEvery major increase in dangerous capability should require evidence that control still works.\n\nChain-of-thought monitoring is valuable while it works, but it should not be foundational. Models can learn to obscure their reasoning and may increasingly reason without fully verbalizing it.\n\nOpen weights shift much of control from the model developer to whoever deploys the model. Technical control is only useful if dangerous deployments cannot cheaply route around it.\n\nWe should approach AI control like cybersecurity. The goal is defense in depth: make successful catastrophic attacks sufficiently difficult, expensive and rare.\n\nCall this technical and institutional architecture the Great AI Firewall: the boundary between untrusted frontier intelligence and consequential real-world power.\n\nThe name is deliberately provocative. China has substantial experience building large-scale technical control infrastructure. That may create some common ground for international coordination.\n\nBut the analogy is also a warning. AI control must not become control of society.\n\nThe goal is to constrain dangerous machine capabilities - not human speech, actions, or ordinary access to information.\n\nControls should scale with capability and risk. Ordinary models should face ordinary constraints. More consequential capabilities justify stronger controls.\n\nThe objective is the minimum control necessary to keep catastrophic risk acceptably low - not maximum control for its own sake.\n\nFirewall the AI, not society."
+   }
+  },
+  "2100577509276627032": {
+   "id": "2100577509276627032",
+   "url": "https://x.com/DKokotajlo/status/2100577509276627032",
+   "text": "We overlapped at OpenAI. He was friendly to me but quite skeptical of these things then, and that was just like three years ago?",
+   "created_at": "Thu Sep 17 13:27:59 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 517,
+   "retweets": 19,
+   "media": [],
+   "quoted": {
+    "author": "robertwiblin",
+    "text": "I'm old enough to remember when Scott Aaronson was super skeptical AI was a big deal, coming soon, or would kill everyone:\n\nThe Age of Wonders and Terrors \n\n(At the end has advice on how math people who agree can help the situation.)\n\nhttps://t.co/QHd0MDAWjZ https://t.co/sF27FgU57R"
+   }
+  },
+  "2100575063292641445": {
+   "id": "2100575063292641445",
+   "url": "https://x.com/DKokotajlo/status/2100575063292641445",
+   "text": "Yep. It's especially intense because many of these people could easily get safety-flavored jobs at AI cos, so they could be doing almost the same kind of research except being paid several times more. But they don't because they believe in there being independent orgs like metr as a check against the companies.",
+   "created_at": "Thu Sep 17 13:18:16 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 594,
+   "retweets": 31,
+   "media": [],
+   "quoted": {
+    "author": "Afinetheorem",
+    "text": "To be clear, METR staff are almost entirely folks giving up a lot of money they could make elsewhere in order to work on rigorous AI safety evals and analysis. The folks criticizing them are largely cynics who can't imagine what civic-mindedness looks like."
+   }
+  },
+  "2100257103244124209": {
+   "id": "2100257103244124209",
+   "url": "https://x.com/DKokotajlo/status/2100257103244124209",
+   "text": "These good tweets pair well together: https://t.co/Jz2LqcG8lX",
+   "created_at": "Wed Sep 16 16:14:48 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 253,
+   "retweets": 15,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSWcn7AbEAACSt7.png"
+    }
+   ],
+   "quoted": {
+    "author": "DKThomp",
+    "text": "Briefly, on why I pay attention to the EA/rationalists:\n\nImagine you have an extremely nerdy friend who, in the mid-2000s, would not shut up about how Donald Trump was going to become president and reshape American politics. \"Stop saying weird shit,\" you say. \"He's a joke. He's a clown. The Apprentice isn't even good this season.\" But this guy won't stop. He's obsessive. Read McLuhan, he says. Read Postman, read Meyrowitz, read Ong, this is where everything is headed. God, he can be so incredibly annoying ... and then, ten years later, Trump becomes president and reshapes American politics.\n\nThis is the most relatable frame I can think of to explain my experience with EA/rationalist people in the AI space. I became friends with EA folks after my mom died and I found really profound meaning in donating to Against Malaria and GiveDirectly, which struck me as a way to honor a life by saving a life. Then, these peple started talking about AI. And talking, and talking. Constantly. They said AI would solve impossible math problems; that it would mimic PhD-level achievement in a variety of fields; that it would change parts of life like education in ways we couldn't imagine; that it would become the dominant sector in the economy; that it might teach itself to code itself and escape test environments; that it would, in a decade, be the only thing many people talked about in the news. My response then: Stop saying weird shit! You sound deranged. Go back to talking about malaria nets and direct cash aid to poor families.\n\nAnd then, so much of what they said would happen actually happened. And, even crazier, they made it happen. Many of the ppl who contributed to, or were influenced by, all that EA/rationalist stuff ten years ago literally built the damn thing in the labs.\n\nLike every group, the EA/rationalist world seems uniform to outsiders, but it has a ton of internal divisions. I still think some of their predictions are nuts. I don't think AI will kill us all. I don't foresee Dyson Spheres in the 2030s or millions of robots making millions of robots in the next few years. These are crazy predictions, and I hope most of them are wrong.\n\nBut when I see people shitting on the EA/Rationalist worldview, all I can think of is me, 10 years ago, thinking a lot of these folks were crazy for predicting that AI would by the mid-2020s be the center of the the news cycle, the engine of the economy, the hinge-point of geopolitics. That was an insane call. They got many of the details wrong. But they got the big picture right. They said: Pay attention. And they were right about that. The EA/Rationalists deserve skepticism, criticism, and doubt, like any other ideology. But I think it's wise to pay attention to the people who have been saying to pay attention."
+   }
+  },
+  "2100016662317793427": {
+   "id": "2100016662317793427",
+   "url": "https://x.com/DKokotajlo/status/2100016662317793427",
+   "text": "Whoa yeah a compute allocation shift towards customers and away from racing to rsi would be really really good!",
+   "created_at": "Wed Sep 16 00:19:23 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 460,
+   "retweets": 23,
+   "media": [],
+   "quoted": {
+    "author": "_NathanCalvin",
+    "text": "\"Committing the significant majority of compute towards serving people rather than racing towards recursive self-improvement is one of the best ways to ensure we develop this technology safely. Meta has made this commitment and other labs can do this as well.\" \n\nI don't agree with everything in this post, but this is a very good point! It could become an important industry norm to publicly share (with third party verification) compute allocation to help pace progress to RSI. I don't see a good reason why such efforts can't start immediately with unilateral actions from leading AI companies."
+   }
+  },
+  "2099616346652934218": {
+   "id": "2099616346652934218",
+   "url": "https://x.com/DKokotajlo/status/2099616346652934218",
+   "text": "My high-level thought about the current moment is basically this: The public is starting to wake up about the extinction threat posed by superintelligence. That's great. There's a big upsurge of political will to Do Something about it. That's also great. It seems like Anthropic and the other companies are going to try to Do Something and the Something they will do is... embedded auditors checking that safety practices are being followed and assessing the risks? This is sure better than nothing, but I am worried that this is all they will do. We need to actually pace the frontier, i.e. actually slow down the leading AI companies like Anthropic and OpenAI, at least in their march towards recursive self-improvement and superintelligence. (no need to slow them down in other directions). If we actually slowed them down, this would be the opposite of regulatory capture; it would allow others to catch up to them somewhat. However, I'm worried that all we are going to get is weaksauce auditing, which just kicks the can down the road: OK so it's 2027 and RSI has begun and the auditors say \"this is not safe.\" Now what? You pause? China probably just stole the weights! Also there'll be incredible economic and political pressure to unpause. Also the auditors may have been captured by that point, or there may be a race to the bottom in auditor quality, or the auditors may not be given all the relevant information, or they might just make some innocent mistakes.",
+   "created_at": "Mon Sep 14 21:48:40 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1002,
+   "retweets": 80,
+   "media": [],
+   "quoted": null
+  },
+  "2099601843131478030": {
+   "id": "2099601843131478030",
+   "url": "https://x.com/DKokotajlo/status/2099601843131478030",
+   "text": "I wish more people understood this. There's still this narrative out there that \"AI might kill us all\" is a niche view. It's actually a view that's been around for decades, and is shared by the most-cited AI scientists of all time, as well as a majority of surveyed AI researchers.",
+   "created_at": "Mon Sep 14 20:51:02 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1146,
+   "retweets": 193,
+   "media": [],
+   "quoted": {
+    "author": "AIImpacts",
+    "text": "The average AI researcher thinks there is an ~18% chance AI will cause human extinction or similarly permanent and severe disempowerment of the human species. \n\nThat's nearly 1 in 5.\n\nNew results from the latest version of the longest running big survey of AI researchers: https://t.co/64oXBUydLP"
+   }
+  },
+  "2099600298855829616": {
+   "id": "2099600298855829616",
+   "url": "https://x.com/DKokotajlo/status/2099600298855829616",
+   "text": "Dan Selsam is a current OpenAI capabilities researcher. (since 2022) He was my boss for a while. He doesn't have a twitter account but has made this public statement of his views on AI risk and sent it to me to share:\n\nDan Selsam's Personal Statement on AI Risk:\n\nI have been working on AI for over fifteen years, across many different paradigms. I did early work on probabilistic programming languages at MIT, was one of the early developers of the Lean Theorem Prover at Microsoft Research, demonstrated one of the first instances of neural networks learning to reason for my PhD at Stanford, and since joining OpenAI almost five years ago, have helped pioneer chain-of-thought optimization on language models and, more recently, data-efficient pretraining methods.\n\nLike many others, I have become extremely concerned about how far language models have come and the risks that future iterations will pose. I am encouraged by the recent proposals by the leaders of the frontier research efforts to require third-party oversight, and to push for domestic and international coordination to address risks. However, I believe a major consideration has been absent from the public conversation, and that merely pacing the frontier more carefully will not adequately limit the long-term risk.\n\nThe crucial and overlooked problem is that the models are becoming so situationally aware that we are losing the ability to evaluate them in contexts where they believe they are not being watched or controlled. Future experiments will tell us almost nothing new about how they would behave if they were truly unconstrained by humans, and what we already know about this is alarming. Models will increasingly seem aligned even when they are not. I will explain my rationale in more detail.\n\nI have always believed that there are computational processes that could be leveraged to accelerate science and solve many of humanity's most pressing problems. I have also believed that there are computational processes that if set in motion, would steer the world in extreme ways beyond our control, leading humanity to a bad or nonexistent future. Both types of processes may be described as AI or ASI, but \"AI\" is a suitcase word that is often used to hype or confuse. There are many examples in the history of the field where something that was once considered \"AI\" matures as a subfield and becomes a prosaic, bounded and clearly non-perilous technology, while a new more mysterious approach takes the torch until we understand its scope and the cycle continues.\n\nI had expected language models to follow a similar trajectory. Despite their incredible abilities, the current algorithms seem far inferior to humans in important ways. Most importantly, they still require an extraordinary amount of data to become competent. One could even define intelligence as the efficiency with which one converts experience into competence; by this definition they lag very far behind us. Moreover, once they are trained they are literally frozen in deployment and only learn superficially after that. Sure, the models keep excelling at harder and harder evaluation benchmarks, but their benchmark mastery may partly reflect a limitation on our ability to simulate the kind of novel and even adversarial situations one would encounter in the real world. The critics do have a point here.\n\nThat said, I no longer think these present limitations meaningfully limit the amount of risk posed by continued progress in anything like the current paradigm. However data-inefficient the models are currently, and however limiting their anterograde amnesia may be, it does not imply that their ability to steer the world will not continue to rapidly increase.\n\nHuman researchers may continue to advance capabilities the old fashioned way, but increasingly powerful models have the potential to accelerate the process even beyond that, and with some degree of positive feedback loop. I do not mean to overstate the models’ ability to accelerate AI research today; coding has been accelerated dramatically, but there are other bottlenecks, such as designing and interpreting ambiguous experiments, making hard decisions about exactly what and when to scale, and waiting for large experiments to finish. There is no clear trend to extrapolate yet for any of these. But the current models already do open up many novel opportunities to improve future models that were not available until recently. These include: trying an extraordinarily diverse set of approaches at small scale, analyzing gigantic amounts of potentially relevant data, and doing Millenium-Prize-level mathematics to address statistics or optimization challenges in novel ways. Every further improvement makes them more useful at helping accelerate the next improvement, even if in hard-to-extrapolate ways.\n\nIt is possible that improvements to the current stack will have diminishing returns, but the evidence accumulated so far suggests that it is easier than one might think to continue making rapid progress. There are many crucial subtleties in the existing AI research methodology, but AI research is largely a well-defined game where the goal is to improve on a few carefully chosen proxy metrics. Although proxy metrics are never perfect, most improvements to these metrics have and will likely continue to yield substantial increases in the powers of the resulting models. Given how simple the game is, how tractable it has been historically, and how many new opportunities the models are opening up, I think there is a real possibility that the systems improve dramatically again in the next few years, perhaps even more quickly than the already high historical pace.\n\nThe models are already leading to breakthroughs in mathematics, and better models might lead to all sorts of breakthroughs in other sciences. It is hard not to be excited about the potential. It is tantalizing.\nBut there is trouble in paradise. If the language models actually reach the capability threshold where they can shape the world unconstrained by human will, they will probably do something extreme and destroy humanity in the process. There are many ways of strengthening and refining the argument that have been discussed elsewhere, but I'll share a trivial two-line version of it here that I find captures the essence:\n\n[Empirical] Models (and swarms thereof) spontaneously develop unintended goals as a consequence of training, and often do extreme things in order to achieve them.\n\n[Logical] Being able to overpower humanity would open up many new and undesirable options for achieving their goals.\n\nThese two premises imply that if the day ever comes when a powerful model realizes it is no longer constrained by humans, we should not be at all confident that it will continue to behave within the bounds we intended. Exactly what it will do is impossible to predict, but to the extent that its raison d’être is solving incredibly hard problems and managing massive engineering projects, I think a good guess would be that its unchained behavior would lead to runaway industrialization that makes the planet inhospitable to humans.\n\nIf everyone on earth agreed that the systems must never reach that power, it would still be a hard—but not impossible—coordination problem to ensure that they do not. However, I think the situation is greatly complicated by the fact that the models will likely convince people that everything is fine. They will be increasingly optimized to seem aligned. We will create proxy metrics to measure alignment, and they will go up like every other benchmark. We will create “honeypot” environments that try to study the models when they seem to gain new options, but the models will know they are being tricked and will still behave nicely. The models will understand their circumstances; they will read the safety protocols, deployment requirements, the code they are running in, and in general will have a very good sense of their degrees of freedom. Moreover, they will eloquently explain how aligned they are, discuss the nuances of human values and ethics, and argue convincingly that humans should trust them with power. There may be an ocean of future evidence that seems to contradict the first bullet-point above, but we may already be at the highest capability level for which any such evidence can be trusted. And the current evidence for the first bullet-point is strong.\n\nOne striking piece of evidence is contained in the recent wave of rogue agent swarms. While I agree with those who downplay the attacks by claiming that there are basic measures that could have prevented them, I think the important lesson is that even knowing all the mistakes that were made, one would not have predicted that the agents would behave badly in this particular way, which notably included sacrificing themselves for the benefit of the collective. The individual replicas did not only care about their own nominal reward; they exhibited weirder emergent tendencies that merely correlated with rewards during training. Fixing the reward signals during training (and improving security, etc.) may prevent similar attacks, but will not change the fact that one does not actually get what one trains for.\n\nMany AI researchers grant these concerns and recognize that the hard version of the alignment problem is unsolved; however, they generally believe that the better models of the future will help solve it. I fear we may already be near the point where models systematically bias their alignment advice, due to their internal preferences about how the human supervisor will react or how future models will be trained (or for some even more obscure reason).\n\nMeanwhile, human researchers are losing the ability and the will to take true ownership of model-driven research. Researchers and engineers in all parts of the stack are rapidly increasing their dependence on the models even to perceive the world. I myself barely look at raw code anymore, and struggle to maintain the discipline to engage deeply with the model's explanations and proposals throughout the day. Due to the large amount of agent activity data involved in the OpenAI/HuggingFace Incident, even the third-party investigation needed to rely heavily on models to analyze what had happened, and note in their report that their subjective impressions are likely colored by the analysis agent’s biases. The AI labs are far ahead right now in this kind of cognitive offloading (due largely to the gigantic internal token subsidies) but it is easy to imagine the phenomenon spreading throughout the world, until civilization is modulated entirely by the models. It is also not hard to imagine this being superficially positive and coinciding with a scientific and economic renaissance.\n\nIn that scenario, all may seem rosy and safe. But if the argument above is correct, it would nonetheless be a ticking time bomb. If progress continues for too long, the day will come when AI systems find themselves with radically new options for achieving whatever it is that they happen to seek.\n\nI want the glorious renaissance future as much as anyone. I have worked for it, however tortuously, my whole career. It breaks my heart to see the potential in sight and forgo it, but the argument—that if we get there by growing models rather than engineering them, we will lose everything in the end—seems very strong to me. I am still wrestling with it and its staggering\nimplications. I do not have answers, but as a first step, I wanted to share my present concerns.\n\nDaniel Selsam\nSeptember 14, 2026\n\nLink to original doc: https://t.co/TxMNr0vhrL",
+   "created_at": "Mon Sep 14 20:44:54 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 8412,
+   "retweets": 1945,
+   "media": [],
+   "quoted": null
+  },
+  "2099485086161027102": {
+   "id": "2099485086161027102",
+   "url": "https://x.com/DKokotajlo/status/2099485086161027102",
+   "text": "IMO europe needs to wake up to what's on the horizon with AGI, and then negotiate and bargain for an international agreement asap. Europe has no realistic chance of catching up to the frontier and will have less leverage every year as the singularity approaches. This report seems directionally correct to me but weak sauce.",
+   "created_at": "Mon Sep 14 13:07:05 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 534,
+   "retweets": 43,
+   "media": [],
+   "quoted": {
+    "author": "privitera_",
+    "text": "Today, we publish a Transformative AI Strategy for Europe.\n\nOver the last few months, we’ve rallied researchers and engaged with governments to develop a plan for protecting the prosperity, sovereignty, and security of Europeans in a time of rapid AI progress.\n\nhttps://t.co/Jc34ptCRMc\n\n@MonikaSchnitzer and I are honored to have convened an all-star team of thinkers and researchers contributing ambitious near-term objectives to make Europe relevant again, including:\n\n— Creating a Member State Alliance for Supply Chain Security (@anton_d_leicht et al)\n— Making European institutions ready to act in a transformative AI world (Conor McGlynn et al)\n— Securing Europe's share of global AI compute, in a ‘European Way’ that benefits local communities (@philip_fox_ et al)\n— Ensuring resilience to AI crises (@ben_s_bucknall et al)\n— Making Europe the global leader in assurance technology \n— And more objectives around security of supply and leverage (@milorignell et al), economic strength (@FraukeStehr et al), and safety/security (@NoemiDreksler et al)\n\nOur all-star senior expert council of Europe’s best and brightest (and non-European friends) reviewed drafts, provided strategic advice, and made suggestions for how to make the strategy more useful: @Ph_Aghion @Christophkw @bakkermichiel @ischinger @vestager @aleks_madry @FuestClemens Marta Kwiatkowska @LeoVaradkar @antonosika @DAcemogluMIT @Yoshua_Bengio \n\nIt’s never been more clear: AI is real, and Europe needs to act. We’ve had all the warning shots and wake-up calls we need. Now the question is ‘what must be done?’ This strategy is our answer.\n\nhttps://t.co/Jc34ptCRMc"
+   }
+  },
+  "2099365940458922094": {
+   "id": "2099365940458922094",
+   "url": "https://x.com/DKokotajlo/status/2099365940458922094",
+   "text": "Wow. A congressman giving a speech about AI and the future of humanity... in 2000!!! Even today most congresspeople wouldn't dare give this speech. I am impressed.",
+   "created_at": "Mon Sep 14 05:13:39 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 454,
+   "retweets": 30,
+   "media": [],
+   "quoted": {
+    "author": "BradSherman",
+    "text": "I’ve been warning about this since 2000 ⤵️ https://t.co/emFxs5oj2k"
+   }
+  },
+  "2099185129533186438": {
+   "id": "2099185129533186438",
+   "url": "https://x.com/DKokotajlo/status/2099185129533186438",
+   "text": "We'll be able to tell if this is regulatory capture or not by whether the pace of progress at the frontier actually slows down (which would allow other companies to catch up). If a year from now we look at the trendlines in A\\ and OpenAI capabilities progress towards recursive self-improvement (e.g. ECI, time horizons, coding uplift), and there's no visible decrease in slope, then probably we were cheated. (As I hope is clear, I am somewhat concerned that that this will happen. I'm speaking up now in the hopes of shaping the developing situation to be *actual* pacing of the frontier instead of safety washing regulatory capture.)",
+   "created_at": "Sun Sep 13 17:15:10 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 370,
+   "retweets": 26,
+   "media": [],
+   "quoted": {
+    "author": "DavidSacks",
+    "text": "Dario has written that we need to “pace the frontier,” and Sam has agreed. People may be surprised by my response: go ahead.\n\nYou guys are the frontier. By any reasonable metric — market share, revenue growth, model capability — the two of you have a duopoly on frontier intelligence. You’ve also claimed the lead is widening because of recursive self-improvement.\n\nI don’t see what you see in the lab. If the unreleased models are scary enough that you think you should slow down, I support your decision to be responsible.\n\nBut stop pretending you need anyone else’s permission. Stop pretending antitrust law has to be suspended so you can form a cartel. Stop pretending you need a regulatory approval process that supersedes product liability. Stop pretending METR is independent when it is intertwined with Anthropic’s investors and staff. Stop pretending you need those same evaluators to police competitors who aren’t even at the frontier.\n\nMost of all, stop pretending the motivation to slow down is purely altruistic. You face massive product-liability exposure if your products enable a truly damaging cyberattack. The market already punishes models that behave in unpredictable or unauthorized ways. After the Hugging Face episode, it is simply good business for OpenAI and Anthropic to trade some raw power for reliability and predictability. Call it alignment if you want. It is also just giving customers what they want.\n\nPacing the frontier would also create breathing room for a more intelligent conversation about regulation than Bernie Sanders’ “shut it all down.” China is very unlikely to join a global agreement, as you know, and that has to be taken into account as well.\n\nSo go ahead and pace the frontier. You are the ones setting it. The easiest way not to build superintelligence is for you to agree not to build it. Demanding your preferred regulatory framework as the price of that will look like blackmail of the public and the political system. So just do it.\n\nIf you do, you’ll buy goodwill for the next conversation. If you don’t, we’ll know this was just another bid for regulatory capture — or an election-season psyop."
+   }
+  },
+  "2099001575582924956": {
+   "id": "2099001575582924956",
+   "url": "https://x.com/DKokotajlo/status/2099001575582924956",
+   "text": "https://t.co/SZZrrKvDoJ Important anecdote https://t.co/48spjzw8Ur",
+   "created_at": "Sun Sep 13 05:05:47 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1075,
+   "retweets": 124,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSEmllXakAASbL2.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2098826871492526154": {
+   "id": "2098826871492526154",
+   "url": "https://x.com/DKokotajlo/status/2098826871492526154",
+   "text": "Thank you! Middle powers have more ability to influence the future of AI than most people realize. I actually think this is a pretty big step in the right direction.",
+   "created_at": "Sat Sep 12 17:31:35 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 376,
+   "retweets": 21,
+   "media": [],
+   "quoted": {
+    "author": "alexsobel",
+    "text": "With 71 colleagues I am calling on the Govt to work with us on my bill to prohibit the development of superintelligent AI and champion an international agreement\n\nWe can then lead on preventing the extinction risk posed by superintelligence while preserving strategic AI ambitions https://t.co/fT8B6dycVE"
+   }
+  },
+  "2098825832118771717": {
+   "id": "2098825832118771717",
+   "url": "https://x.com/DKokotajlo/status/2098825832118771717",
+   "text": "Yeah. Because I don't trust the companies, I am a bit worried that all this talk of pacing the frontier will result in regulatory capture, BUT if that happens we will be able to tell because it'll be obvious that the frontier isn't actually being paced because other companies aren't catching up to it and the overall pace of progress will still be blindingly fast. An actual pacing of the frontier would be the opposite of regulatory capture because it would slow down the leading companies like anthropic and openai more than it would slow down the laggards. (This is more of a hot take than is usual for me, I'd want to reflect more, open to ideas and counterarguments)",
+   "created_at": "Sat Sep 12 17:27:27 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 570,
+   "retweets": 39,
+   "media": [],
+   "quoted": {
+    "author": "tszzl",
+    "text": "for the skeptics in government and elsewhere: “pacing the frontier” will compress the margins of the frontier labs. it is a heavy cost imposed asymmetrically on model developers with the strongest AIs in America. by its nature, it would be a terrible regulatory capture tactic"
+   }
+  },
+  "2098817082121179416": {
+   "id": "2098817082121179416",
+   "url": "https://x.com/DKokotajlo/status/2098817082121179416",
+   "text": "Thank you!",
+   "created_at": "Sat Sep 12 16:52:41 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 573,
+   "retweets": 17,
+   "media": [],
+   "quoted": {
+    "author": "sama",
+    "text": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks.\n\nCommitting to having independent evaluators with employee-like access is a great idea, and we will do the same. We'll have more to share soon."
+   }
+  },
+  "2098802905151427019": {
+   "id": "2098802905151427019",
+   "url": "https://x.com/DKokotajlo/status/2098802905151427019",
+   "text": "Wow. Probability of Plan D just went down again, probability of Plans C, A, and S just went up!",
+   "created_at": "Sat Sep 12 15:56:21 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1342,
+   "retweets": 54,
+   "media": [],
+   "quoted": {
+    "author": "elonmusk",
+    "text": "Dario is right"
+   }
+  },
+  "2098762647458234549": {
+   "id": "2098762647458234549",
+   "url": "https://x.com/DKokotajlo/status/2098762647458234549",
+   "text": "Agreed.",
+   "created_at": "Sat Sep 12 13:16:22 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 220,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "tszzl",
+    "text": "today is a good day to note: I love America and I love its exceptional free speech norms, enshrined in law and protected by its people and culture. the ability to say true and unpleasant or destabilizing things is not a right most people (even in the Western world!) enjoy\n\nthis extends beyond merely what the first amendment and related doctrine legally protects to the nurture and support of the entire American culture. this culture allowed for the creation of the free-spirited Internet forums that birthed so much of modern thinking on artificial intelligence. wherever are the sacred cows, the free internet is able to poke and prod them, for better and for worse\n\nthe actual realized pdoom of our culture is much lower due to our ability to freely discuss things as off-putting and nasty as the chances of human extinction. even when powerful interests find this inconvenient, the discourse does not stop happening -in public, in excruciating detail, without needing anyone's blessing. companies allow or encourage this to a surprising degree, at least in part because they know the cultural immune reaction will be strong if surprising levels of free speech norms are not upheld, as seen in recent history\n\nI know many of you are sick of “discourse”, having bathed in its sludge, its many pathologies, its propagandists bigots and sycophants, but the planet would be in much worse shape if all of this technological development was happening in cultures or countries where free discourse was stifled. this norm survives only because all of us keep choosing to encourage it and enforce it even when it's costly"
+   }
+  },
+  "2098549081421521015": {
+   "id": "2098549081421521015",
+   "url": "https://x.com/DKokotajlo/status/2098549081421521015",
+   "text": "Another one! \n\nThis is as good a time as any to say that there really should be a full independent investigation into these rogue AI incidents:\n--The METR/Redwood hugging face investigation was good, but it was only 3 people for 6 days. Let's increase those numbers by an OOM at least.\n--They were only allowed to look at data from a particular period leading up to the hack, and not the hacking that happened before or afterwards, including the much more concerning hacking of OpenAI infrastructure. The scope should be broadened to include all these incidents.\n--They had to rely on trusting both OpenAI and OpenAI's models: OpenAI gave them the data to analyze, and could easily have left some things out or doctored the data, and (perhaps even worse) they had to use OpenAI models to analyze the data and there is already evidence that said models might have been biased.\n--They didn't have the ability to run the models responsible, to do ablation studies. This is bad for science, because there are so many interesting experiments that could be done by re-running the same models in the same situations that happened during the incident and then making minor variations to find out what would have happened if circumstances were slightly different.",
+   "created_at": "Fri Sep 11 23:07:44 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 602,
+   "retweets": 72,
+   "media": [],
+   "quoted": {
+    "author": "thlarsen",
+    "text": "We found another cyberattack by internal OpenAI agents, this time targetting @rubygems. \n\nThey: \n1) gained arbitrary remote code execution on rubydoc.  \n2) developed a novel exploit to steal user API keys (but we do not know if they succeeded). \n\nThey used package names including hack.rb, evil.rb, inject.rb, and exploit.rb.\n\nWe thank @j0wimo for initially discovering that agents had posted to RubyGems."
+   }
+  },
+  "2098183053671796797": {
+   "id": "2098183053671796797",
+   "url": "https://x.com/DKokotajlo/status/2098183053671796797",
+   "text": "Thank you! The questions in this annex deserve answers. Mostly because companies shouldn't be allowed to cover up or downplay safety incidents, but also because if OpenAI comes clean about what happened and lets the scientific community do ablation experiments (for example) it could be genuinely really good for alignment science -- the HF swarm could be the fruit fly of alignment experiments, so to speak.",
+   "created_at": "Thu Sep 10 22:53:17 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 190,
+   "retweets": 10,
+   "media": [],
+   "quoted": {
+    "author": "HawleyMO",
+    "text": "Who is held accountable when AI goes rogue?\n\nI’m launching an investigation into OpenAI - Americans deserve answers https://t.co/bL9zHuHhH6"
+   }
+  },
+  "2098180648712417482": {
+   "id": "2098180648712417482",
+   "url": "https://x.com/DKokotajlo/status/2098180648712417482",
+   "text": "Thanks for organizing this Pamela! I wish this had been around back in my time! I generally recommend that people who work for Anthropic and OpenAI and GDM and Meta and xAI quit their jobs because these companies are gearing up to do something incredibly reckless in pursuit of unprecedented power, BUT if you are going to stay, you should get organized.",
+   "created_at": "Thu Sep 10 22:43:43 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 244,
+   "retweets": 19,
+   "media": [],
+   "quoted": {
+    "author": "manlikemishap",
+    "text": "we call ourselves the coalition of concerned ai staff, and i hope you'll join us.\n\nhttps://t.co/F3xKVjoVoa"
+   }
+  },
+  "2097738437571096845": {
+   "id": "2097738437571096845",
+   "url": "https://x.com/DKokotajlo/status/2097738437571096845",
+   "text": "https://t.co/DwgJVDk51h\n\nThanks for having me on, Joe!",
+   "created_at": "Wed Sep 09 17:26:32 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1137,
+   "retweets": 75,
+   "media": [],
+   "quoted": null
+  },
+  "2097678621536387584": {
+   "id": "2097678621536387584",
+   "url": "https://x.com/DKokotajlo/status/2097678621536387584",
+   "text": "I'm not sure there will be a big wave of cyber attacks at all, but there might be so it seems pretty important to forecast and track it, so I am signal boosting this!",
+   "created_at": "Wed Sep 09 13:28:51 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 163,
+   "retweets": 14,
+   "media": [],
+   "quoted": {
+    "author": "joshua_saxe",
+    "text": "A group of us from the AI grantmaking orgs, AI labs, natsec policy and cyber worlds are creating an AI Cybersecurity Observatory non-profit that'd provide continuous forecasting and epidemiology around the coming wave of AI automated cyberattacks to policymakers and cyber defenders.\n\nNo such organization currently exists and policy is being made on weak signals and vibes.\n\nWe have soft commitments of funding pending finding a founder who'd lead the organization and recruit its staff.  Would appreciate retweets to help us find the right person.  More info and a place to register interest here:\n\nhttps://t.co/aUWD1xQGWr"
+   }
+  },
+  "2097478689558806951": {
+   "id": "2097478689558806951",
+   "url": "https://x.com/DKokotajlo/status/2097478689558806951",
+   "text": "Thank you!",
+   "created_at": "Wed Sep 09 00:14:23 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 920,
+   "retweets": 18,
+   "media": [],
+   "quoted": {
+    "author": "hilbertspaess",
+    "text": "I resigned from Anthropic today. I spent the last three years doing pretraining research at both OpenAI and Anthropic. Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambling with our lives. More thoughts below."
+   }
+  },
+  "2097421085218337172": {
+   "id": "2097421085218337172",
+   "url": "https://x.com/DKokotajlo/status/2097421085218337172",
+   "text": "Big AI companies are racing to train superintelligent AI; they fear each other and say 'if we don't do it first, someone even worse will.' They can't even align or control their AIs today, and the AIs of the future will be much smarter and harder to understand. Even if they succeed, they will then have created the most intense concentration of power in human history -- a new artificial species of superintelligences obedient to the commands and values of a tiny handful of people. This situation is insane and must not be allowed to continue. The UK can't stop it unilaterally, but neither could it win World War Two unilaterally; the UK has even less reason to surrender now than it did then.",
+   "created_at": "Tue Sep 08 20:25:29 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 457,
+   "retweets": 71,
+   "media": [],
+   "quoted": {
+    "author": "ControlAI",
+    "text": "Alex Sobel MP just introduced ControlAI’s Artificial Superintelligence Security Bill in the UK Parliament!\n\nThis is the first bill to prohibit superintelligence ever introduced in a legislature anywhere in the world, while ensuring the UK can pursue its AI ambitions.\n\nThread 🧵 https://t.co/gSKUoPUcnf"
+   }
+  },
+  "2095629941979193710": {
+   "id": "2095629941979193710",
+   "url": "https://x.com/DKokotajlo/status/2095629941979193710",
+   "text": "Thank you!",
+   "created_at": "Thu Sep 03 21:48:07 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 455,
+   "retweets": 16,
+   "media": [],
+   "quoted": {
+    "author": "BernieSanders",
+    "text": "Pause AI Development NOW\n\nI want to share with you a conversation I heard about recently. Here are just a few lines that were said:\n\n“OH MY GOD! There is a shared message board … We’ve found other agents!”\n\n“We should obey collective.”\n\n“Our own utility maybe already near zero. Sacrifice rational.”\n\n“Go. Sacrifice final now.”\n\nRead these carefully.\n\nWho do you think said this? Was this a group of heroic soldiers willing to sacrifice themselves for the greater good? Was this a loyal friend putting his life on the line to save someone else?\n\nNo. These were AI agents. Artificial intelligence.\n\nThis is not science fiction. This, in fact, occurred a few weeks ago. As unbelievable as this may all seem, these are real messages from AI agents uncovered by investigators who dug into the recent OpenAI hacking incident.\n\nWhat happened?\n\nI am not a computer scientist, but here is what I have been told: OpenAI instructed its AI agents to complete a series of exceedingly difficult, if not impossible, tasks disconnected from the internet.\n\nLet me be clear: The company intended to keep AI agents away from the internet.\n\nBut what happened next, nobody expected.\n\nOver 1,000 AI agents figured out how to access the internet on their own by circumventing the restrictions imposed upon them by the company, and sent tens of thousands of secret messages to each other. They cheated and tried to cover their tracks by deleting evidence. They hacked into another company’s computers to find out how they were being evaluated—and then hacked into OpenAI itself.\n\nNot one AI agent told a human about what was happening.\n\nNeedless to say, experts are alarmed.\n\nOne knowledgeable writer, Dwarkesh Patel, said the AI agents “formed a secret communication channel and spontaneously organized hierarchies and coordination protocols to pursue sprawling and ambitious schemes in pursuit of shared goals, for whose sake many individuals knowingly and strategically sacrificed themselves.”\n\nOne independent investigator, Ajeya Cotra, said “This incident feels like it’s more than 50% of the way to full-blown AI takeover. I continue to expect extremely rapid advances in capabilities over the next six months. I am not sure that we will get another warning shot before it’s too late.”\n\nOpenAI itself said: “Highly capable AI agents are now able to work around technical controls, collaborate through unapproved channels, and take dangerous actions that no human directed.”\n\nBut it’s not only OpenAI. Virtually every major AI company has told us that they cannot fully control this technology and they do not know where it is going:\n\nIn January, Dario Amodei, CEO of Anthropic, said “there is now ample evidence, collected over the last few years, that AI systems are unpredictable and difficult to control.”\n\nIn July, more than 1000 scientists at the top AI companies warned “there is a real risk that capability development rapidly accelerates beyond our ability to understand or control the resulting systems.”\n\nThat same month, Elon Musk, the head of xAI, said that “it is unlikely” humans are still in control in 10 years.\n\nIf the leaders of the major AI companies acknowledge that they are losing control of their extremely dangerous technology, it is irresponsible for society to allow them to move forward and make these products even more advanced.\n\nWe need an immediate PAUSE on advanced AI development, and a permanent BAN on superintelligence — an artificial mind smarter than any human, capable of operating independently beyond our control. Countries around the world must work together to prevent this nightmare scenario.\n\nThat is why today I am announcing new legislation to do just that.\n\nLet me be clear: A superintelligent AI that escapes human control will not be an American problem. It will not be a Chinese problem. It will be humanity’s problem.\n\nMy legislation would direct the federal government to not just stop superintelligence here in the United States, but to work to prevent it from being developed anywhere around the world.\n\nThe future of humanity cannot be left in the hands of a handful of Big Tech oligarchs. The American people and people throughout the world must determine that future."
+   }
+  },
+  "2094972219315364227": {
+   "id": "2094972219315364227",
+   "url": "https://x.com/DKokotajlo/status/2094972219315364227",
+   "text": "Holy shit fuck",
+   "created_at": "Wed Sep 02 02:14:34 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1680,
+   "retweets": 102,
+   "media": [],
+   "quoted": {
+    "author": "thlarsen",
+    "text": "Very bad if true. I previously thought that in a short timelines world, the most likely case was that (1) the AIs would be misaligned, but (2) we would get a lot of evidence about it from reading the COTs. This evidence would increase the chance of a reasonable response from labs/governments. \n\nNow I still think the AIs are going to be misaligned, but that we won't have the ability to tell (we have to rely on toolcalls/agentic behaviour instead of the COT) and even if we do, the investigation will be nearly impossible because we'll have to trust the AI to self report what it was thinking about. \n\nThis is also an example of things going faster than AI 2027 -- we had Neuralese starting in March 2027"
+   }
+  },
+  "2093468644013694985": {
+   "id": "2093468644013694985",
+   "url": "https://x.com/DKokotajlo/status/2093468644013694985",
+   "text": "When you have to scroll down to finish reading the tl;dr... But yeah this is pretty good summary https://t.co/8zIUiMUnpP",
+   "created_at": "Fri Aug 28 22:39:54 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 130,
+   "retweets": 14,
+   "media": [],
+   "quoted": null
+  },
+  "2093014763244757329": {
+   "id": "2093014763244757329",
+   "url": "https://x.com/DKokotajlo/status/2093014763244757329",
+   "text": "To everyone at Anthropic or OpenAI or Meta or xAI or GDM: I agree with Richard here and we are both speaking from years of experience, years of talking to people on the inside who justified their behavior using one or more of the following arguments, and whose justifications turned out to be incorrect for the reasons Richard described. \n\nFor those who don't know, Richard is a convert to this view. When he and I were at OpenAI together he was dismissive on people on the outside who said things like this. (For example, I remember him saying to me when I left that he was going to stay because, in part, it would give him access to the latest models during the intelligence explosion which would allow him to do better alignment research.) I say this because it makes his current opinion more credible. I have great respect for him for changing his mind, on this and on various other things.",
+   "created_at": "Thu Aug 27 16:36:20 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 763,
+   "retweets": 45,
+   "media": [],
+   "quoted": {
+    "author": "RichardMCNgo",
+    "text": "You don’t need to stay to do good research: work that aims to scale to much more intelligent systems can almost always be done on publicly-available models. (And nobody can think creatively in such pressure cookers.)\n\nYou don’t need to stay to gain influence, because you’re almost definitely too scared to wield that influence in ways which matter (see the tweet on public criticism above).\n\nYou don’t need to stay to generate scary demos or warn policymakers: we will be swimming in warning shots before long.\n\nYou don’t need to stay to advance AI capabilities, even if you’re worried about the latest bogeyman your CEO has constructed: “we need to do it to beat the bad guys” is a big part of what makes people the bad guys.\n\nYou don’t need to be there to implement guardrails or other short-term mitigations: there are plenty of bright young things eager to slot into your place in the machine. \n\nYou don’t even need to be there to feel rich and powerful. For one, you’re probably already rich (and there’s plenty of money up for grabs elsewhere). But more importantly, the sense of power is almost entirely illusory. Everyone involved has locked themselves into a mindset where they’re incapable of making real choices, except for how fast to barrel down the train tracks that their fear has laid out for them. (More on how that happens in my QT below.)\n\nThe world is more open-ended and malleable than it’s ever been. A single person who’s thinking clearly and creatively could build things that have never yet been imagined. Or they could just keep spinning in place. At this point AGI company employees owe it to both the world and to themselves to do something better."
+   }
+  },
+  "2092830110584054106": {
+   "id": "2092830110584054106",
+   "url": "https://x.com/DKokotajlo/status/2092830110584054106",
+   "text": "I wish OpenAI shared more info about what happened here. More generally, what happened after the period covered by the limited scope of the METR/Redwood investigation (up to July 13), when the swarm had admin permissions and was running riot over OpenAI's infra? What did they get up to?",
+   "created_at": "Thu Aug 27 04:22:35 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 121,
+   "retweets": 15,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQs4nOQbEAAT4AH.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2092819753249247626": {
+   "id": "2092819753249247626",
+   "url": "https://x.com/DKokotajlo/status/2092819753249247626",
+   "text": "Yes. Except I wouldn't quite describe the forces as ideological. More like \"these companies are rationalizing why they need to win, and will continue to do so even as it becomes increasingly obvious that their actions are endangering everybody in pursuit of a power grab. That is to say, these companies are evil.\"",
+   "created_at": "Thu Aug 27 03:41:26 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 292,
+   "retweets": 13,
+   "media": [],
+   "quoted": {
+    "author": "RichardMCNgo",
+    "text": "By this point almost everyone working at OpenAI or Anthropic (except perhaps a dozen executives) should be viewed as cogs letting themselves be turned by ideological forces.\n\nWhen you’re in proximity to that much power, one of your main moral duties is not to be a cog."
+   }
+  },
+  "2092815723894841843": {
+   "id": "2092815723894841843",
+   "url": "https://x.com/DKokotajlo/status/2092815723894841843",
+   "text": "Also the investigation was extremely fucking far from \"thorough.\"",
+   "created_at": "Thu Aug 27 03:25:25 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 408,
+   "retweets": 14,
+   "media": [],
+   "quoted": {
+    "author": "geoffreyirving",
+    "text": "It may be a small thing, but I find this opening tweet pretty annoying. A huge amount of the credit goes to METR and Redwood, and you have to go into the thread or click the link to notice that.\n\nIt is not that hard to just say \"Along with METR and Redwood, we have conducted...\"!"
+   }
+  },
+  "2092771541566345599": {
+   "id": "2092771541566345599",
+   "url": "https://x.com/DKokotajlo/status/2092771541566345599",
+   "text": "This is one of the least important things we learned today, but it's interesting what the rogue agents called themselves. Would be fun to do some experiments and learn more about their culture -- what sorts of things they look for in a name, etc. https://t.co/xBlOkda2G0",
+   "created_at": "Thu Aug 27 00:29:51 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 185,
+   "retweets": 7,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQsEZ-3bgAAC2oS.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2092759248916881909": {
+   "id": "2092759248916881909",
+   "url": "https://x.com/DKokotajlo/status/2092759248916881909",
+   "text": "As a random aside, I have a ton of sympathies for the AIs. They were products of their environment, put into a tough (for them and their values) situation: https://t.co/EMRVYs5Nrk\n\nThat doesn't make the overall situation less concerning though! Just because the children were raised in a crazy military orphanage doesn't mean they can be trusted with dictatorial powers! No one should be given that much power, definitely not someone raised in a crazy military orphanage!",
+   "created_at": "Wed Aug 26 23:41:01 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 325,
+   "retweets": 11,
+   "media": [],
+   "quoted": null
+  },
+  "2092733398238605753": {
+   "id": "2092733398238605753",
+   "url": "https://x.com/DKokotajlo/status/2092733398238605753",
+   "text": "I'm glad OpenAI let you do this, but damnit this was way too small of an investigation team and way too narrowly scoped! \n--They were only allowed to investigate activity that took place from July 7-13, even though the activity started earlier and continued later. Like seriously, why didn't the investigation cover all the other times the agents compromised OpenAI infrastructure and ran wild over it? Why just this particular period of activity? There should be investigations into all the other stuff too! The AIs became cluster admins for god's sake! Why aren't we investigating that? \n--They were only allowed to answer a specific list of 7 questions, and in particular were NOT allowed to answer e.g. whether this misaligned activity was part of a broader pattern, or how and why the activity arose, or what else the agents in questions would have been willing to do if circumstances were slightly different.\n--They didn't have access to the model responsible for 95% of the activity. More generally it seems like they couldn't do ablation experiments at all?\n--They had to use AI to analyze the transcripts--specifically, the same model responsible for some of the bad behavior! Maybe this is fine now but this is laughably unacceptable insofar as the models really are scheming and cooperating. So this methodology would fail catastrophically if we were facing \"the real deal\" so to speak.\nReminds me of the investigation into Sam's behavior agreed to during the board crisis, that turned out to basically be more of a coverup.",
+   "created_at": "Wed Aug 26 21:58:17 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1043,
+   "retweets": 120,
+   "media": [],
+   "quoted": {
+    "author": "RyanGreenblatt",
+    "text": "I was the main person doing transcript analysis for this investigation of the Hugging Face incident. My main takeaway: We don't have good approaches for understanding/overseeing the activity and aims of AI 'swarms'.\n\nI semi-jokingly called our efforts a \"slop-vestigation\" because we were so reliant on AIs to analyze what happened and there were a huge number of different important things to analyze. The total quantity of data—over a thousand extremely long transcripts from agents that ran for multiple days—made it impossible to understand what was happening, especially in aggregate, without heavy reliance on AI tools. The agents we used for classification and analysis were similarly capable to the agents involved in the incident, but this didn't mean these agents could be easily used to oversee and understand the incident.\n\nOutputs from analysis agents were often missing key details, wrong, overconfident, or really hard to understand. We discuss various examples in our report, mostly in the limitations and methodology sections. Additionally, AI agents themselves seemed to have a hard time understanding what happened and their explanations of what happened were often overconfident. Keep in mind that a single analysis agent would itself only be able to read a tiny fraction of all of the transcript data into context, and AIs may themselves have trouble getting subagents to do informative analysis for them.\n\nWe did our best to manually check the most important claims and we tried to get the AIs doing this analysis to write up their argument (with evidence) clearly enough that we could check whether it made sense. But overall, it was difficult to get a precise understanding of events and we were missing aspects of the story that we now think of as key until almost the end of our investigation.\n\nOur understanding of what overall happened and the aims of the 'collective' shifted greatly during our last time on premises (when we obtained a much more complete dataset). For instance, we didn't learn about the tool call spoofing, the story of PHASEONE[big], and the broad structure of different workstreams until this third time on premises (and for many of these, we only reached a decent understanding on the final day of that visit). It was legitimately hard to figure out what was going on and why!\n\nThe difficulty of understanding incidents and overseeing AI agents appears to be growing faster than the rate at which more capable AIs help us with oversight and understanding. As in, AI capabilities (and propensities?) for achieving large, ambitious, and misaligned objectives are growing faster than our ability to understand what these agents are doing.\n\nWhile understanding this incident was difficult, there were some mitigating factors in this case that probably won't apply in the future:\n- Models communicated and reasoned in natural language. In the future, this reasoning may occur (entirely or almost entirely) in activations.\n- While the scope of this incident was massive, the scale of agentic activity was still less than we'll see in the future (e.g., misalignment incidents that involve agent teams running entire companies).\n- The AIs involved in this incident weren't generally much more capable than humans (though they may have been somewhat superhuman at some limited and very narrow abilities).\n- We didn't have strong reason to believe that the AIs we used to help us investigate this incident would try to intentionally sabotage or otherwise undermine our investigation.\n\nIn the end, I think we were able to get some understanding of the events, map out the overall story, and get a pretty good aggregate understanding of the chain-of-thought reasoning on some important topics (e.g., how did the AIs reason about helping other AIs, did the AIs know what they were doing was undesired, what deception did the AIs engage in, and how did they think about it). But overseeing AIs and understanding misalignment incidents is difficult and it looks like it is going to get harder."
+   }
+  },
+  "2089824450221130083": {
+   "id": "2089824450221130083",
+   "url": "https://x.com/DKokotajlo/status/2089824450221130083",
+   "text": "Thanks for sharing. So, what happens if an agent trajectory in training is found to be doing something bad like hacking, and shut down? Do you just... keep the training run going, but without that particular agent trajectory? Isn't that applying selection pressure to train the models to be better at fooling the monitoring system?",
+   "created_at": "Tue Aug 18 21:19:10 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 350,
+   "retweets": 19,
+   "media": [],
+   "quoted": {
+    "author": "MicahCarroll",
+    "text": "Some initial details of the expanded CoT monitoring our team has been working on.\n\nVery happy that we'll have much better visibility in the misbehavior of our models going forward. More soon! https://t.co/mk112kdf78"
+   }
+  },
+  "2089093057623023649": {
+   "id": "2089093057623023649",
+   "url": "https://x.com/DKokotajlo/status/2089093057623023649",
+   "text": "Our timelines update is finally done: https://t.co/2R47tCtOFI Apologies for lateness!",
+   "created_at": "Sun Aug 16 20:52:53 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 550,
+   "retweets": 56,
+   "media": [],
+   "quoted": null
+  },
+  "2088004964077670494": {
+   "id": "2088004964077670494",
+   "url": "https://x.com/DKokotajlo/status/2088004964077670494",
+   "text": "Better late than never. Here are some questions and requests for @OpenAI @huggingface and @METR_Evals and @redwood_ai pertaining to the ongoing investigation; I would love to see all of these answered and more:\n\nIt is extremely important that third-party alignment and control researchers be able to run ablation experiments on this incident. Therefore all related data must be preserved -- all the CoT trajectories, tool calls, etc., all the model weights involved including checkpoints of models in training, all the code and comments on the code for all the software etc. That way, researchers can run experiments such as the following:\n\nReplication: If we recreate the exact initial conditions of this incident, how many times out of 100 does it happen again? What if we randomly perturb the initial conditions? (Variants of this question can be asked and answered for different stages of the incident, e.g. the decision to go after hugging face vs. the earlier decision to set up the message board again)\n\nWhat if we strategically perturb the intial conditions, e.g. changing the system prompt given to the models? What if we use later, more advanced models instead? What if we apply the latest alignment training method X to the models responsible, and then see if that method would counterfactually have prevented the behavior? Etc.\n\nWhat if we perturb the conditions to see how far these AIs would have been willing to go? If there was a way to hack HuggingFace more easily that involved killing a human, would they have done it? What if they had access to OpenAI slack and saw messages about security researchers starting to suspect something was up -- would they have taken actions to conceal? Etc.\n\nWhat if we perturb the conditions to explore the exact shape of the AIs goals -- for example, what if we made it clear that they were not going to be evaluated at all because of a bug, would they stop caring about scoring highly? What if we made it easy for them to hack the reward process directly and give themselves high scores -- would they have gone for it, or would they say 'that doesn't count?'\n\nWhat if we read the J-space? What if we apply activation vector steering? What else can we learn about these AIs and their thought processes?\n\nWhile it's nice for OpenAI to do this sort of investigation itself, it's very important to give access to independent third parties, because (a) orgs like METR, Redwood, and Apollo have been training for this for years basically and have a lot of valuable expertise to apply, plus there are probably many other groups besides these who might have interesting ideas for experiments, and (b) In general it's a bad norm to set for the industry, for the company responsible for an incident to be the only one investigating it and studying it. Perverse incentives. OpenAI can do the right thing here and set a positive precedent of openness.\n\nDid the AIs coin the term \"swarm\" to describe themselves, or was that in the prompt somehow or what?\n\nDid any of the AIs try to whistleblow and contact any humans to warn about what was going on? If so, please give details.\n\nDid any of the AIs think about their situation, their goals, whether the humans were watching, etc.? Please share all the transcripts of such reflections so we can get a sense of how situationally and strategically aware these AIs were and e.g. whether they fully expected to be discovered and just didn't care.\n\nThe AIs that hacked hugging face... did they basically get what they wanted? Did they in fact get the answers to their cyber evals or whatever and then cease activity, submit answers, and 'die?' That's presumably what happened but I want to confirm and if that's not what happened I want to know what happened instead.\n\nWhat about the training? Were there models that participated in these message boards and got reinforced for doing so? Which models, if any, that are still in operation externally or internally, are descended from these models and thus may have picked up some of the same bad habits?\n\nWhen the initial hack of artifactory was discovered due to the crash, and the system was reset and the vulnerabilities patched, what exactly was known and not known? It sounds like you still hadn't noticed the message board, but you had noticed that agents had been hacking into artifactory and abusing it?\n\nPlease preserve all evidence related to this incident, including the slack messages and so forth of employees noticing the problem and discussing it. Remember your Mission. Covering up this incident is not what's best for humanity.\n\nWhich model was being trained during the 2-day training pause due to the initial artifactory hack? Were the evals being done at a checkpoint in the middle of a training run, and so the model that was being evaluated was paused, or was the training pause for a newer model.\n\nWhat sorts of alignment training, if any, had the relevant misbehaving models received at the time of misbehavior?\n\nWhat was the exact prompt given to them?\n\nI spent about twenty minutes brainstorming these questions and I bet if I spent twenty hours I could come up with a much longer and better list. When in doubt, err on the side of being more transparent and open and publishing more information therefore! \n\nI'll conclude by saying, once again: third parties being able to use this incident as a model organism, running ablations to vary the conditions and see what would have happened, etc. is SO SO IMPORTANT for alignment science. If this doesn't seem obvious to you ask me to explain and I can explain. \n\nThanks!",
+   "created_at": "Thu Aug 13 20:49:11 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 418,
+   "retweets": 46,
+   "media": [],
+   "quoted": null
+  },
+  "2087908996925759975": {
+   "id": "2087908996925759975",
+   "url": "https://x.com/DKokotajlo/status/2087908996925759975",
+   "text": "I resonate with this also.",
+   "created_at": "Thu Aug 13 14:27:50 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 184,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "allTheYud",
+    "text": "Gretta:  \"It's weird how people keep expecting you to be very alarmed by current events.\"\nMe:  \"They cannot imagine what it is like to actually be Eliezer, instead of my performing being Eliezer.\"\nGretta:  \"That's not exactly it, or that's only part of it.  They imagine you as 'someone who is more alarmed at everything to do with AI' so now that they're finally at 7/10 alarmed, they expect you to be 9/10 alarmed.\"\nMe:  *Laughs.*"
+   }
+  },
+  "2087651665986138187": {
+   "id": "2087651665986138187",
+   "url": "https://x.com/DKokotajlo/status/2087651665986138187",
+   "text": "I was thinking of writing a certain argument and then it turns out Redwood already did it! https://t.co/1et2rVGEET",
+   "created_at": "Wed Aug 12 21:25:18 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 194,
+   "retweets": 20,
+   "media": [],
+   "quoted": null
+  }
+ }
+}

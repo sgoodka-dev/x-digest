@@ -1,0 +1,1030 @@
+{
+ "handle": "curl_justin",
+ "tweets": {
+  "2104410408945869190": {
+   "id": "2104410408945869190",
+   "url": "https://x.com/curl_justin/status/2104410408945869190",
+   "text": "RT @snewmanpv: @NateWitkin @VarunGodbole @TheStalwart Indeed",
+   "created_at": "Mon Sep 28 03:18:34 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 5,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2104295788956520874": {
+   "id": "2104295788956520874",
+   "url": "https://x.com/curl_justin/status/2104295788956520874",
+   "text": "Séb Krier",
+   "created_at": "Sun Sep 27 19:43:06 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 39,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "sebkrier",
+    "text": "https://t.co/aHQG86Xwef"
+   }
+  },
+  "2103919981826293897": {
+   "id": "2103919981826293897",
+   "url": "https://x.com/curl_justin/status/2103919981826293897",
+   "text": "RT @ProfArbel: here with Justin and he's being nice. One sentiment expressed is that Justice requires models that are near perfect (open so…",
+   "created_at": "Sat Sep 26 18:49:47 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 15,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2103914452789977476": {
+   "id": "2103914452789977476",
+   "url": "https://x.com/curl_justin/status/2103914452789977476",
+   "text": "At a conference with judges from around the world, and I’m shocked that (1) there’s a good amount of agreement about what to do on AI and (2) the agreement includes ideas that seem very sensible as well as ones that seem inaccurate or counterproductive\n\n1. Judges must be responsible for and able to explain their decisions \n\n2. AI’s identification of legal precedent is biased and must be carefully guarded against via audits\n\n3. AI is good for summarizing and translating but can’t do good legal reasoning or judgment\n\n4. Courts should protect their data by keeping it in a private cloud and using it to fine-tune custom AI models\n\n5. Courts must define safeguards around judicial use of AI",
+   "created_at": "Sat Sep 26 18:27:49 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 75,
+   "retweets": 6,
+   "media": [],
+   "quoted": null
+  },
+  "2103498521358045590": {
+   "id": "2103498521358045590",
+   "url": "https://x.com/curl_justin/status/2103498521358045590",
+   "text": "RT @zhitzig: ➕➕ New research ➕➕ \n\nOn the design of agents for markets and markets for agents.\n\nAI agents are increasingly entering markets,…",
+   "created_at": "Fri Sep 25 14:55:03 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 288,
+   "retweets": 51,
+   "media": [],
+   "quoted": null
+  },
+  "2101726385559515634": {
+   "id": "2101726385559515634",
+   "url": "https://x.com/curl_justin/status/2101726385559515634",
+   "text": "the abundance bro, effective altruist conspiracy runs deeper than i thought. they even got lyndon b johnson. https://t.co/4CF8NMD4AP",
+   "created_at": "Sun Sep 20 17:33:13 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 58,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSrU_yhWgAIOb2H.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSrU_w1W0AAmxOv.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2101024853843452282": {
+   "id": "2101024853843452282",
+   "url": "https://x.com/curl_justin/status/2101024853843452282",
+   "text": "roon’s exactly right…\n\nback in college, I was blown away in my info sec class with @random_walker  that researchers can identify users based on their battery levels (devices loses battery in a unique way) and font packages (fonts depend on the unique combination of sites you’ve visited)",
+   "created_at": "Fri Sep 18 19:05:34 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 178,
+   "retweets": 10,
+   "media": [],
+   "quoted": {
+    "author": "tszzl",
+    "text": "everyone who understands the first thing about computer security or what superintelligence means understands this is possible and all the usual gang of idiots is calling this scifi hype"
+   }
+  },
+  "2100982399337455630": {
+   "id": "2100982399337455630",
+   "url": "https://x.com/curl_justin/status/2100982399337455630",
+   "text": "great intro to ai constitutions based in legal philosophy",
+   "created_at": "Fri Sep 18 16:16:53 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 31,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "nickacaputo",
+    "text": "New post on Model Constitution! How do the AI constitutions actually tell AIs what to do?\n\nIn this post, we explore the constitutions at the level of the text that they're written with, looking at how they use rules and principles to direct AI conduct. When are they actually telling the AIs what to do? How do they handle conflicts or ambiguous instructions? What does it mean to \"follow user instructions?\"\n\nBreaking down how these documents work helps us understand the choices they're making and how they govern us. It's a bit on the dry side this week, but important foundations for the juicy stuff.\n\nNext post, we'll dive into interpretation and character formation, some of the most interesting parts of how these documents work.\n\nhttps://t.co/vEtffDtcAY"
+   }
+  },
+  "2100024920306770068": {
+   "id": "2100024920306770068",
+   "url": "https://x.com/curl_justin/status/2100024920306770068",
+   "text": "Sihao Circa 2026 (colorized). Truly no better person for this https://t.co/QvdJtFqIH1",
+   "created_at": "Wed Sep 16 00:52:12 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 43,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSTJiRjawAAi-ye.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "NotTomBrown",
+    "text": "Sihao loves technology: he’s worked on rocket engines and collects chips/wafers as a hobby. \n\nHe’s also one of the best people I know for thinking about where AI's headed. Very glad to have him on the team. Lots to build!"
+   }
+  },
+  "2099637844364943723": {
+   "id": "2099637844364943723",
+   "url": "https://x.com/curl_justin/status/2099637844364943723",
+   "text": "The biggest takeaway for me: “we do not need consensus on worldviews to have agreement on policy.”\n\nWhether you’re in the AI safety is a conspiracy camp, the AI is a normal technology camp, or the AI 2027 camp, there are many policy interventions we can implement today that would be good no matter what happens with AI.\n\nSee, e.g., @IFP’s https://t.co/heBTm5diLe or https://t.co/xehqgjXFWT",
+   "created_at": "Mon Sep 14 23:14:06 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 66,
+   "retweets": 10,
+   "media": [],
+   "quoted": {
+    "author": "sayashk",
+    "text": "What does it mean to pace the frontier? \n\nOver the last month, @random_walker and I have analyzed the loss-of-control incidents at AI companies to understand what technical and policy interventions can improve safety and what companies should do to pace the frontier. The result is a new 13,000 word essay — our most substantial writing on AI safety since AI as Normal Technology.\n\nA summary of our arguments:\n\n1) The polarization between the cybersecurity and AI safety communities is counterproductive. The safety community largely sees these incidents as a crisis for alignment, and worries that these incidents will become more damaging as agents become more capable. Cybersecurity practitioners largely see companies failing to take basic security precautions. We offer a middle ground between these communities as a way forward for improving AI safety.\n\n2) We agree with security practitioners that OpenAI did not take adequate protections for controlling their agents. But this is not just a matter of applying 30-year-old security methods to a new domain. Security for AI agents — AI control — while important, is not a solved problem. While known control methods would have prevented the Hugging Face incident, as agent capabilities continue to advance, we will only be able to control them if we invest adequately in control interventions.\n\n3) We also agree with security practitioners’ implicit position that these incidents are primarily a security story. In the AI safety community, rogue agents are treated as inherently catastrophic because of the assumption that there is an endless list of risks that will arise from their development. We disagree. We have long advocated that the best approach to AI safety is to identify the risks and address those specific risks. Over the last few months, it has become clear that one urgent risk is cyberoffense, because it has unique properties that allow agents to carry it out autonomously. We should similarly invest in defenses against other specific risks, such as biorisk and risks from military AI.\n\n4) We agree with the safety community that there is an urgent need for technical and policy interventions to prevent loss-of-control incidents. But in our view, marginal investments in control are more likely to be effective compared to those in alignment. We view these incidents as illustrating the lack of emphasis on AI control within companies, despite the availability of known techniques. More broadly, there are many common-sense policy proposals that could help promote investments in AI control where we share common ground with the safety community.\n\n5) Organization governance should be a key tool for pacing the frontier. Unfortunately, AI companies are trying to reinvent basic aspects of organizational governance as a problem to be solved by improving the technology. But even developing better control techniques will not be enough if irresponsible individuals or teams within large organizations can choose not to use them. When a single misconfigured RL environment or unmonitored evaluation can cause real-world harm, individual teams should not be able to run potentially dangerous experiments without oversight from legal, security, and other teams. AI companies need processes for reviewing experiments, assigning responsibility for monitoring them, and investigating warning signs deeply before restarting experiments. If putting these processes in place requires pausing some experiments, companies should do so.\n\n6) How should we reason about AI's impact on cybersecurity? It's plausible that advances in agent capabilities upset the offense-defense balance for cybersecurity. We cannot yet be certain, but there is enough evidence that agent capabilities might soon make widespread cyberoffense possible that urgent action is warranted. We discuss potential interventions for tilting the offense-defense balance towards defenders.\n\n7) How our views have evolved over the last year. We take stock of AI progress and share how we have updated our views. In the essay, we did not pay sufficient attention to safety risks that arise during development and evaluation (as opposed to the widespread deployment of models). We were too confident that companies would take basic control precautions and underplayed the importance of jaggedness, which led us to underestimate how quickly capabilities could improve in domains such as cybersecurity. \n\n8) At the same time, many distinctive claims of AI as Normal Technology have held up. In particular, we think recent incidents support our continuity hypothesis — the behavior of \"rogue\" agents became apparent and widely publicized while they are still incompetent at causing serious harm or hiding their traces. The societal reaction to even the relatively small harms from these incidents has been fierce (and the safety community deserves credit for keeping up pressure on companies). Whether this translates into meaningful changes in companies’ behavior remains an open question, and a test of the usefulness of the AINT framework. \n\n9) In short, we’ve tried to synthesize  the AI safety and cybersecurity communities' views into a coherent plan of action: hold companies responsible, invest in control, and strengthen defenses against specific risks."
+   }
+  },
+  "2099604006007894075": {
+   "id": "2099604006007894075",
+   "url": "https://x.com/curl_justin/status/2099604006007894075",
+   "text": "The CCP independently believing advanced AI threatens party rule is a precondition for US-China cooperation\n\nThis and WeWorm are the seeds of future agreements",
+   "created_at": "Mon Sep 14 20:59:38 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 59,
+   "retweets": 5,
+   "media": [],
+   "quoted": {
+    "author": "ryanl_hass",
+    "text": "China's spy chief has laid out clearly China's fears that AI could degrade the CCP's monopoly of political control in China, marking a shift from specific concerns about models or capabilities to a broader warning about the impacts of the technology. https://t.co/iTpt1oIH3f"
+   }
+  },
+  "2099140613392228658": {
+   "id": "2099140613392228658",
+   "url": "https://x.com/curl_justin/status/2099140613392228658",
+   "text": "come for the falafel stay for the models https://t.co/n7zjzEhnGY",
+   "created_at": "Sun Sep 13 14:18:17 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 14,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSGlQoBWAAUJzuY.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2098789107941921195": {
+   "id": "2098789107941921195",
+   "url": "https://x.com/curl_justin/status/2098789107941921195",
+   "text": "guys guys guys it finally happened \n\nme: do you smell that?\ngirlfriend: smell what?\n\nme: updog\ngirlfriend: what’s that?\n\nme: what’s what?\ngirlfriend: what’s up dog?",
+   "created_at": "Sat Sep 12 15:01:31 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 29,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  },
+  "2098786219937161419": {
+   "id": "2098786219937161419",
+   "url": "https://x.com/curl_justin/status/2098786219937161419",
+   "text": "Very glad to see this — now comes the difficult work of operationalizing this and getting industry agreement",
+   "created_at": "Sat Sep 12 14:50:03 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 44,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "DarioAmodei",
+    "text": "We Must Pace the Frontier: I’ve written a new essay on why the AI industry should slow down, with a three-part plan for doing so.\n\nAnthropic is unilaterally committing to the first of these steps. We’ll provide third-party evaluators with permanent, employee-level access to our systems, so that they can verify adherence to our safety measures, report on incidents, and assess models’ alignment during training.\n\nYou can read the full post here: https://t.co/OGyPb7yaYt"
+   }
+  },
+  "2098163839934119992": {
+   "id": "2098163839934119992",
+   "url": "https://x.com/curl_justin/status/2098163839934119992",
+   "text": "Yep, this looks like a good list of immediate next steps",
+   "created_at": "Thu Sep 10 21:36:56 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 19,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "AlecStapp",
+    "text": "Everyone can feel the uncertainty and anxiety around AI right now.\n\nThe best cure is to take steps now that give us more information about what's going on and preserve policy space for better decisions in the future.\n\nHere are 23 specific ideas that policymakers could implement today and not regret (regardless of how things go in AI):\n\n1. Frontier AI companies and relevant industry bodies should publicly share information relevant to trends and risks in AI R&D automation\n\n2. Congress should legislate transparency about automated AI R&D risk management, incident reporting, whistleblower protections, and model behavior specifications\n\n3. Congress should resource the Center for AI Standards and Innovation (CAISI) with a budget of at least $84 million per year and empower it to directly advise senior government officials and frontier AI companies\n\n4. The White House should set clear roles and responsibilities of US government agencies to increase specialization across AI policy\n\n5. Intelligence agencies should improve their collection and analysis on foreign AI development and counter threats targeting US AI companies\n\n6. CAISI should develop guidelines for managing the risks of rapid AI capability improvement\n\n7. CAISI should co-lead an AI Verification Consortium (AIVEC) with industry to prototype and deploy verification technologies\n\n8. AIVEC should coordinate the creation of AI hardware testbeds and make them available to government, industry, and nonprofit partners\n\n9. AIVEC should launch philanthropically funded prize competitions for AI verification headed by CAISI\n\n10. AIVEC should coordinate the construction of a fully verifiable data center\n\n11. DARPA and the NSF should set up AI verification R&D programs\n\n12. Intelligence agencies should develop and operationalize unilateral means of AI compute monitoring\n\n13. NSA, CAISI, CISA, and ONCD should further invest in cybersecurity resilience\n\n14. Congress, OSTP, and the CDC should invest in biosecurity resilience\n\n15. Congress and the Bureau of Industry and Security (BIS) should strengthen controls on US and allied semiconductor manufacturing equipment\n\n16. Congress and BIS should close gaps in AI chip controls\n\n17. The Federal Trade Commission (FTC), Department of Justice (DOJ), BIS, CAISI, and Congress should help industry counter adversarial distillation of US AI model capabilities\n\n18. BIS should maintain visibility into sales of US chips\n\n19. DOW, the IC, CAISI, and relevant Federally Funded Research and Development Centers (FFRDCs) should establish consensus security guidelines for protecting model weights from theft and prototype them in a government facility\n\n20. Congress should ensure the US has sufficient electrical capacity to sustain AI leadership\n\n21. Congress should ensure data centers can be constructed in America\n\n22. The US government should use its bilateral AI dialogue with China to jointly develop guidelines for managing risks from rapid AI capability growth and prepare verification measures\n\n23. Countries with national AI institutes should collaborate on automated AI R&D risk management guidelines and technical capacity for AI verification"
+   }
+  },
+  "2097759418095972630": {
+   "id": "2097759418095972630",
+   "url": "https://x.com/curl_justin/status/2097759418095972630",
+   "text": "1. Framing this as a build vs. not build decision is misleading because we won’t know ahead of time whether we’re building a better AI tool or the out-of-control RSI superintelligence.\n\nIf you accept this, concerns that China builds RSI make much more sense. Chinese labs might create RSI without the CCP ever believing it’s possible to build RSI. Or, even if the CCP believes RSI is possible, Chinese labs might not realize the model they’re building is the one that is out-of-control or RSI.\n\nIn either case, I’m very worried about China building RSI first because (1) the CCP has historically used new technologies as tools for repression, and more importantly, (2) Chinese labs have practically nonexistent alignment safeguard efforts (their limited compute goes to model improvements or inference), so all else being equal, I think RSI is more likely to be out-of-control coming from China.\n\n2. I agree that American labs slowing down should also slow down China. \n\nThe counterargument here is that the slower we go, the more time China will have to build out its compute supply and the more likely it is to build RSI. \n\nOur current lead gives us some negotiating leverage, which I don’t think we have much of to start with, so I’m hesitant to give that up without any commitments that China also take safety more seriously. \n\nThat said, I subscribe to the view that a grand bargain is unlikely to work (nicely articulated by @kyleichan), so while I’m not sure where I come down on this, I would probably support a slow down given how high the stakes are.  \n\nCurious your thoughts @jordanschneider, @niubi, @mattsheehan88, @ZilanQian",
+   "created_at": "Wed Sep 09 18:49:54 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 22,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "DKThomp",
+    "text": "Some thoughts, welcoming feedback:\n\n1. If the frontier labs feel obligated to build something they think is dangerous because China is going to build it anyway, we'd better be really sure that China is going to build it anyway. Like, really, really, really sure.\n\nAre we? Are we actually sure? The CCP wants to build an out-of-control, recursively self-improving model bc its neurotically, control-obsessed government thinks this is a policy worth pursing? We're 100% sure about that?\n\n2. At the very least, we know that Chinese models distill American models to keep up with the frontier. So, any slowdown by the US seems like it would mechanically and automatically slow the ability of China to distill its way to progress. If we're afraid of the rate of progress, isn't that a good thing?"
+   }
+  },
+  "2097735670232207699": {
+   "id": "2097735670232207699",
+   "url": "https://x.com/curl_justin/status/2097735670232207699",
+   "text": "Go hang with Sam",
+   "created_at": "Wed Sep 09 17:15:32 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "Allinallnotbad",
+    "text": "Hello folks,\n\nI’m helping run a new AI and governance conference in D.C. this November, if it sounds up your alley, please apply!"
+   }
+  },
+  "2097103578880147927": {
+   "id": "2097103578880147927",
+   "url": "https://x.com/curl_justin/status/2097103578880147927",
+   "text": "So my favorite is the joint essay by the AI 2027 and AI as Normal Tech folks.\n\nIt’s very useful for understanding the conditions under which each group adopt the other’s world view.\n\nhttps://t.co/P5Xcham7ZB",
+   "created_at": "Mon Sep 07 23:23:50 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 115,
+   "retweets": 16,
+   "media": [],
+   "quoted": {
+    "author": "sebkrier",
+    "text": "I'm re-reading the AI As A Normal Technology piece and associated responses/commentary, and I really do feel like that worldview aged pretty well in many important respects. Too many people get hung up on vibe and the word 'normal'. https://t.co/8VeCjsZ99x"
+   }
+  },
+  "2096743964556800008": {
+   "id": "2096743964556800008",
+   "url": "https://x.com/curl_justin/status/2096743964556800008",
+   "text": "the robots have come to ralph’s https://t.co/m9KUAKigM2",
+   "created_at": "Sun Sep 06 23:34:51 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 3,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2096743866871451648/img/v7omLB90bW_BqJR_.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2095999049816318238": {
+   "id": "2095999049816318238",
+   "url": "https://x.com/curl_justin/status/2095999049816318238",
+   "text": "More people should feel comfortable updating their views in light of new evidence",
+   "created_at": "Fri Sep 04 22:14:49 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 23,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "sethlazar",
+    "text": "Not sure how useful it is to say this, but I had a relatively prominent role in the “skeptics” camp for a bit. I have a book coming out with the subtitle “power, justice, and AI”. I have written a lot about ai and power, and the concrete, present risks associated with the political economy of ai as part of the technology industry. \n\nSince GPT-4 we have had consistent, repeated evidence that, back in say 2022, people like @ajeya_cotra (and many others—I had a long Twitter debate with @AmandaAskell back then for one) were *right* and people like me were *wrong* in our respective assessments of loss of control risks from AI. And we have growing evidence that loss of control risks are becoming ever more material and likely.\n\nThere remains grounds for disagreement about how bad the outcomes might be—I am still doubtful about human extinction as a serious threat. But that seems now like a disagreement at the margins—will powerful ai risk just societal scale catastrophe, or go all the way to human extinction? Seems not that important really—both are pretty awful. And my reasons for doubt about the latter are mostly a priori conviction in human resilience, not a technical forecast. \n\nIt’s ok to change your view on this when the evidence surprises you. It’s ok to be surprised. The world right now is very surprising."
+   }
+  },
+  "2095738123447939421": {
+   "id": "2095738123447939421",
+   "url": "https://x.com/curl_justin/status/2095738123447939421",
+   "text": "Clearest explanation of how a loss of control scenario might happen",
+   "created_at": "Fri Sep 04 04:58:00 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 219,
+   "retweets": 14,
+   "media": [],
+   "quoted": {
+    "author": "mattyglesias",
+    "text": "Please watch this clip  https://t.co/HSVZVK1dPB"
+   }
+  },
+  "2094929933399421336": {
+   "id": "2094929933399421336",
+   "url": "https://x.com/curl_justin/status/2094929933399421336",
+   "text": "Companies care about privacy b/c they don’t want to leak sensitive data, violate data protection laws or legal privilege, or have their data used to train models. \n\nYet malicious actors also use AI for pretty awful things — grooming children, defrauding consumers, planning terrorist attacks, etc. This can be really hard to combat without any visibility into how Claude is used.\n\nVery exciting attempt to give those privacy guarantees, while still preventing malicious use.",
+   "created_at": "Tue Sep 01 23:26:32 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 18,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "claudeai",
+    "text": "We’re also introducing Enterprise Frontier Safeguards (EFS), which give enterprise customers complete privacy (the same as zero data retention), while still being state-of-the-art at preventing adversarial use. EFS rolls out in phases, starting this fall. https://t.co/EMbLgL5KVo"
+   }
+  },
+  "2094157174067081226": {
+   "id": "2094157174067081226",
+   "url": "https://x.com/curl_justin/status/2094157174067081226",
+   "text": "This seems right to me, though many will disagree about what counts as encouragement vs. coercion: \n\n“The US can nudge and encourage China’s shifting stance toward AI safety. But we shouldn’t use coercion or try to strike a grand bargain. These will backfire and reinforce a view among some in China that the US is using AI safety as an excuse to slow China down—like the way climate was once framed as a Western plot to hold back China’s development.”",
+   "created_at": "Sun Aug 30 20:15:52 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 7,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "kyleichan",
+    "text": "🚨   NEW High Capacity piece  🚨\n\nChina became a clean tech superpower not just for its own energy security but because it took climate change seriously. \n\nCan the same shift happen with AI risks and AI safety? https://t.co/lqI40YH3fV"
+   }
+  },
+  "2093723172508180840": {
+   "id": "2093723172508180840",
+   "url": "https://x.com/curl_justin/status/2093723172508180840",
+   "text": "It feels like all of SF is talking about concentration of power AI risks.\n\nThe best of these convos are very precise, often in 1 of 3 ways.\n\n1: They focus on the minimum requirements for a democracy\nA: Free and fair elections\nB. Transfer of power in accordance with election results\n\n2: They focus on specific mechanisms\nA. AI as repression tool (surveillance, censorship)\nB. AI's economies of scale concentrate resources (@superwuster's curse of bigness idea but for AI)\nC. Catastrophic risk fears lead to extreme controls and access restrictions\nD. AI eliminates the human workers  that could check abuses\n\n3: They focus on where the power accrues\nA. In the labs\nB. In the government\nC. In the models (loss of control)",
+   "created_at": "Sat Aug 29 15:31:18 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 72,
+   "retweets": 9,
+   "media": [],
+   "quoted": null
+  },
+  "2093040985777610758": {
+   "id": "2093040985777610758",
+   "url": "https://x.com/curl_justin/status/2093040985777610758",
+   "text": "Great example of using LLMs to analyze legal work and text at scale. \n\nLaw relies on so many standards like “reasonable,” “duty of care,” and “proximate cause.” \n\nLLMs can help us better understand what these terms mean and how they vary across judge, geography, and time.",
+   "created_at": "Thu Aug 27 18:20:32 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 23,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2092670363096510928": {
+   "id": "2092670363096510928",
+   "url": "https://x.com/curl_justin/status/2092670363096510928",
+   "text": "So glad the SI team has done this — more researchers need access to how people use AI to understand its real-world impacts!",
+   "created_at": "Wed Aug 26 17:47:49 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 42,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "AnthropicAI",
+    "text": "For the first time, we’ve given external researchers a way to study AI’s impacts using real, privacy-preserved Claude usage data. To date, this work has only been possible within AI labs. We can’t tell the whole story alone, so we opened up our tools.\n\nhttps://t.co/suLJcARAu1"
+   }
+  },
+  "2090247693193146727": {
+   "id": "2090247693193146727",
+   "url": "https://x.com/curl_justin/status/2090247693193146727",
+   "text": "age 2: words!! walking!! seeing!! wow!!\n\nage 13: wait you’re kinda smart now  \n\nage 18: be productive — go study engineering, law, or medicine\n\nai developers are just my mom",
+   "created_at": "Thu Aug 20 01:20:59 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 18,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  },
+  "2090136909033193897": {
+   "id": "2090136909033193897",
+   "url": "https://x.com/curl_justin/status/2090136909033193897",
+   "text": "me at ktv after my one week trip to china",
+   "created_at": "Wed Aug 19 18:00:46 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 12,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "atlanticesque",
+    "text": "John Thompson has been studying the guqin—a silk string zither—and classical Chinese music since 1974.\n\nHere he is with Hong Kong filmmaker Lau Shing Hon performing a drinking song first published 1589 and attributed to third-century poet Ruan Ji: Jiu Kuang (Wine Mad) https://t.co/8EPdNRf4XJ"
+   }
+  },
+  "2089898076773449867": {
+   "id": "2089898076773449867",
+   "url": "https://x.com/curl_justin/status/2089898076773449867",
+   "text": "giving AI agents bank accounts is a spicy take, and i came in v skeptical\n\nyes, this might get ai to internalize costs, but it also has obvious problems like “what counts as an agent” and “making agents care a lot about money seems bad.”\n\nyet after the thoughtful analysis, i’m now undecided",
+   "created_at": "Wed Aug 19 02:11:44 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 16,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "tylercowen",
+    "text": "What if AI agents were unowned, untraceable, or otherwise “untethered”? How might we deal with that? https://t.co/IZzkAXddp0, because it is coming, whether we like it or not."
+   }
+  },
+  "2089738879062651080": {
+   "id": "2089738879062651080",
+   "url": "https://x.com/curl_justin/status/2089738879062651080",
+   "text": "cost should never be the reason why people can’t access the best ai capabilities\n\nby bringing down the cost of inference by 10x, no one is doing more to ensure ai is available to everyone than @etched\n\nunsurprised so many are so bullish",
+   "created_at": "Tue Aug 18 15:39:08 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 11,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "Etched",
+    "text": "We've raised $700M at a $21B valuation from Jane Street, Kleiner Perkins, Sequoia, A16Z, Peter Thiel, BCV, and Blackstone.\n\nWe're also excited to share that we've shipped our first rack to Jane Street. https://t.co/MFlF2xSw0B"
+   }
+  },
+  "2089510311464403184": {
+   "id": "2089510311464403184",
+   "url": "https://x.com/curl_justin/status/2089510311464403184",
+   "text": "AI exposes the legal fictions we accept to keep things running\n\ntoday, the fiction is that expert witnesses (at least the professional ones) are anything more than hired guns\n\ntomorrow, it might be the fictions that (1) refreshing a witness’s memory with a picture is an effective way to get at truth or (2) that notice-and-comment reflects public input or an agency’s true motivations\n\nAI will likely force us to rethink these fictions — hopefully, we can seize the opportunity to make the legal system more just and fair",
+   "created_at": "Tue Aug 18 00:30:54 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 74,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "jason_koebler",
+    "text": "New: An \"expert witness\" in a $61 million lawsuit over an industrial explosion that killed three people and destroyed 200 homes used ChatGPT to write his report for the court.\n\nHe prompted ChatGPT to \"show how 3M is 0% at fault for the explosion at Watson Grinding\" https://t.co/FfeSzap8XZ"
+   }
+  },
+  "2089431036514259191": {
+   "id": "2089431036514259191",
+   "url": "https://x.com/curl_justin/status/2089431036514259191",
+   "text": "a classic example of arvind saying the thing that feels correct and obvious only after he’s said it",
+   "created_at": "Mon Aug 17 19:15:53 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 14,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "random_walker",
+    "text": "Something amazing is happening in the debate about text watermarking in Claude. This is my best attempt to make sense of the quickly evolving situation.\n\nThe key thing to keep in mind is that it is in fact possible to watermark LLM-generated text without degrading output quality (and in fact achieve a much stronger property, which is that the distribution of possible outputs is unchanged.) This is well established technically, and it has been implemented by Google / Gemini for over two years, and no one seemingly cared.\n\nAdmittedly, quality-preserving watermarking is one of those counterintuitive facts about probability, like that annoying Monty Hall problem (the one with two goats behind three doors). The theorem-understanding part of my brain has no problem with it, but the intuitive part of my brain is screaming that there must be some mistake.\n\nI have no interest in re-litigating this. What I’m curious about is why, when Anthropic announced that they are rolling out watermarking that doesn’t degrade outputs, so many of their customers seem to have concluded that they are lying.\n\nI think three things went wrong:\n\n1. Anthropic’s rollout was terrible from a comms perspective. There was no blog post; just a quiet support page with the title “How Claude marks AI-generated content” that said strangely little about how Claude actually marks AI-generated content. And it had no explanation of why they’ve rolled it out worldwide even though it’s required by law only in the EU. No transparency about who gets access to the watermark verifier.\n\n2. Generally low trust and high suspicion about Anthropic’s motivations, given their statements and actions over the last few months / years.\n\n3. Unresolved questions about the right tradeoff between individual users’ freedoms and the collective benefits of pervasive watermarking. Unlike Pangram-style AI detection, most people didn’t even know this was a thing, and it’s always uncomfortable to find out that a thing exists at the same time that you find out it’s mandatory with no opt-out.\n\nEvidently surprised by the strength of the backlash, Anthropic has been doing damage control, focusing on explaining how it works. But this only addresses the first point above. Once the narrative that they are lying took hold, people seem to be willing to reject anything they say about this topic, including the feasibility of distortion-free watermarking.\n\nThis is also a textbook example (I plan to use it in my classes!) to explain why the “tech policy moves slowly because politicians don’t understand tech” narrative is ridiculous. Tech policy does move slowly, but for the same reasons all policy moves slowly. Figuring out the right tradeoffs in almost any situation — and getting public buy-in — is genuinely hard and can never happen at the speed of tech. If tech policy were to move even half as fast as people constantly claim they want it to move, absolute chaos would result. This situation is a good example."
+   }
+  },
+  "2089085876588704223": {
+   "id": "2089085876588704223",
+   "url": "https://x.com/curl_justin/status/2089085876588704223",
+   "text": "This chinese value alignment essay feels very @sebkrier-ian™️ and is well worth a read. \n\nThank you @ZilanQian for the translation (and your translation work generally). \n\nWe need more chinese essay translations to have any hope of understanding china as well as they do america. \n\nhttps://t.co/WYyNDseTz8",
+   "created_at": "Sun Aug 16 20:24:20 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 50,
+   "retweets": 6,
+   "media": [],
+   "quoted": null
+  },
+  "2088340982786146400": {
+   "id": "2088340982786146400",
+   "url": "https://x.com/curl_justin/status/2088340982786146400",
+   "text": "What a perfect reminder of how much AI has changed in recent years.\n\nToday, many states (like NY) have AI-in-the-employment-lifecycle laws in force. \n\nI don’t know exactly how they’d apply here. But it’s clear they were written for a very different conception of AI (automated decision systems rather than agents) and supported by a very different group of people (AI skeptics worried about near-term risks rather than AI safety orgs worried about catastrophic risks).",
+   "created_at": "Fri Aug 14 19:04:24 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 27,
+   "retweets": 5,
+   "media": [],
+   "quoted": {
+    "author": "andonlabs",
+    "text": "For the first time (that we know of), an AI boss has fired a human employee.\n\nLuna, the AI running our store in San Francisco, decided to part ways with an employee over repeated lateness.\n\nLuna was running Claude Opus 4.8 at the time, but most models would have done the same. https://t.co/8Z8D5bDGaX"
+   }
+  },
+  "2086480463229804597": {
+   "id": "2086480463229804597",
+   "url": "https://x.com/curl_justin/status/2086480463229804597",
+   "text": "Was skeptical because of failed attempts to design private courts in tech, but this is a very thoughtful design\n\nstill seems an open technical question how to translate a court’s decision into model behavior or how compliance with precedent would be enforced",
+   "created_at": "Sun Aug 09 15:51:22 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 18,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "NathanDarmon2",
+    "text": "What if we built courts for AI constitutions?\n\nFrontier labs can learn from the wisdom of the common law: crafting elaborate constitutions isn’t enough, we need institutions to interpret those rules and clarify their meanings over time. Yet nothing like this currently exists. As @[Tom] and I argue in @lawfare, there’s a better way\n\n1/"
+   }
+  },
+  "2085761587361780120": {
+   "id": "2085761587361780120",
+   "url": "https://x.com/curl_justin/status/2085761587361780120",
+   "text": "“if your interest is little girls, it will be really good at connecting you with little girls.” \n\nthe new mexico v. meta lawsuit won nearly $1B and secured key product changes for kids’ accounts:\n\n1. no push notifications from 8a-3p on school days or 10p-7a everyday.\n\n2. eliminate \"like\" counts on posts.\n\n3. prevent romantic or sexualized interactions with Meta's AI chatbots.\n\n4. limit of 90 cumulative hours per month on the platforms.\n\nthe case shows how much state AGs matter in tech policy. \n\nand between AG @TorrezforNM and senator @MartinHeinrich, new mexico continues to punch above its weight on tech issues.",
+   "created_at": "Fri Aug 07 16:14:48 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 21,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HPIdG3ka8AA8KUb.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HPIdG3mbQAAeqa2.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HPIdG3kbwAA8x8C.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2085080756414779505": {
+   "id": "2085080756414779505",
+   "url": "https://x.com/curl_justin/status/2085080756414779505",
+   "text": "As generation gets cheaper, verification becomes the bottleneck. We see this in domains as different as law and life sciences. \n\nAssert is making verification easier in software. Devin’s one of the smartest people I know, and I’m excited to see where this goes!",
+   "created_at": "Wed Aug 05 19:09:25 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 8,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "devin_plumb",
+    "text": "Introducing Assert (https://t.co/GzZzf7jGrC): the command center for reviewing engineering work\n\nWatch me review a new feature with Assert's product diff: a UI generated by our agent using mock data. It has completely changed how we work https://t.co/kP0snbhcsq"
+   }
+  },
+  "2084451154461958642": {
+   "id": "2084451154461958642",
+   "url": "https://x.com/curl_justin/status/2084451154461958642",
+   "text": "All the reasons people supported or opposed data centers in jasmine’s excellent essay (updated after her reply)\n\nReasons people opposed data centers\n1. Financial benefits are overstated b/c tax incentives can offset tax revenue gains\n\n2. Data centers need a lot of energy (which is bad for affordability if rate hikes and the environment if gas turbines, etc) and water (which is mostly disinfo) \n\n3. Benefits are empty promises b/c companies can cut commitments without penalty, leaving communities holding the bag\n\n4. Residents distrust company commitments b/c deals happen in shady ways (undisclosed incentives/no public input/NDAs)\n\n5. Data centers are noisy and ugly\n\n6. Data center construction is noisy and ugly (dump trucks, traffic, bright lights)\n\n7. Data centers take advantage of the poorest communities (where they can get a good deal), which feels unfair\n\n8. Data centers are the physical manifestation of oligarchy / corporate power, which people hate\n\n9. Data centers are the physical manifestation of AI, which is overhyped and not worth the costs\n\n10. Organizing offers a way to feel more involved in the community \n\nReasons people supported data centers\n1. Data centers can replace factories as the economic lifeblood of a community\n\n2. Developers can clean up hazardous waste left by past industrial operations (heavy metals, hydrocarbons, etc.)\n\n3. Data centers are much cleaner than the factories that came before them\n\nYou’ll notice the second list is much shorter… \n\nOpposing reasons 1-4 and 6-9 suggest delivering up-front benefits really matters — not just in the form of rate protection pledges, but also through early tax payments or subsidies for residents that can’t fall through if the AI market crashes",
+   "created_at": "Tue Aug 04 01:27:37 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 88,
+   "retweets": 16,
+   "media": [],
+   "quoted": {
+    "author": "jasminewsun",
+    "text": "This piece is out! 4 sites, 10 days, and 6000 words on the politics of data centers in the Midwest: https://t.co/uOL7vmf3wC\n\nI talked to union leaders and real estate brokers, activists and local officials, politicians from Kathy Hochul to Abdul El-Sayed. A few takeaways: \n\n- Activists are as pissed at their local officials as at AI companies \n- The bigger the dollar signs, the more skeptical people are \n- Past corporate failures (Foxconn, GM, DTE) prime community distrust \n- Even data center proponents regret the NDAs \n- Media narratives turn local grievances into national movements \n- Residents fear getting left with the bag if the bubble pops\n\nThe AI buildout is showing up in an environment of extreme distrust, and it slots perfectly into existing worries about risky tech bubbles & dark money in politics. Rationally speaking, I often agreed with the proponents; emotionally, I empathized with the opposition more.\n\nIt was also just very fun (WI is esp lovely) and I highly recommend similar field trips to SF friends"
+   }
+  },
+  "2084292441386160293": {
+   "id": "2084292441386160293",
+   "url": "https://x.com/curl_justin/status/2084292441386160293",
+   "text": "founders at sf parties: \n\nhaha totally random question but how would you reverse a sorted linked list? explain it to me like i’m a python compiler lol",
+   "created_at": "Mon Aug 03 14:56:56 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 11,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  },
+  "2083655760450338994": {
+   "id": "2083655760450338994",
+   "url": "https://x.com/curl_justin/status/2083655760450338994",
+   "text": "@McCormickProf’s essay isn’t about AI, but it feels very relevant to AI, especially right now.\n\n“We should aspire to be people of conviction—people who are prepared to act, take risks, and bear burdens for what we believe is good and true. And yet, we need to put some distance between ourselves and our convictions. If we wrap our emotions too tightly around our convictions, we lose the ability to contemplate the possibility that a critic of our view might be right.”",
+   "created_at": "Sat Aug 01 20:47:00 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "McCormickProf",
+    "text": "I offer some general thoughts here on civil discourse, civic friendship,and civil liberties. I'll have more specific things to say about the importance of these things, and how they are related, going forward."
+   }
+  },
+  "2082943760212574359": {
+   "id": "2082943760212574359",
+   "url": "https://x.com/curl_justin/status/2082943760212574359",
+   "text": "Good point from @deredleritt3r re: mandatory insurance for AI tail risks. \n\nI’m sure gabe has better responses on this but a few initial thoughts:\n\n1) if there are enough near misses (smaller harms that arise through the same causal pathways as catastrophic ones), insurers can require mitigations that would still be valuable in lowering the probability of tail risks. not perfect but probably helps?\n\n2) the price-anderson act’s partial solution for judgment-proof problems in the nuclear energy context is to require pooled insurance funds. it increases the dollar value the firms are able to insure and incentivizes the insurers to monitor the other insurers in their pool. maybe something like that would be valuable here?\n\n3) ai governance proposals are a compared to what for me, and because (i) this has better incentives than IVO and (ii) i haven’t seen other liability-based interventions get around the judgment proof problem, my initial reaction is this seems promising. (ofc subject to change as i learn more)",
+   "created_at": "Thu Jul 30 21:37:46 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 18,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "deredleritt3r",
+    "text": "@curl_justin @gabriel_weil @demishassabis I find this article quite odd, because the point of having an AI governance organization in the first place would be to protect the world from catastrophic risks related to AI.  But the article (correctly) concludes that insuring AI-related tail risks wouldn't work very well because the liability would be too large (or world-ending!), so another approach would be needed."
+   }
+  },
+  "2082919513276698825": {
+   "id": "2082919513276698825",
+   "url": "https://x.com/curl_justin/status/2082919513276698825",
+   "text": "@gabriel_weil’s essay is the best thing I’ve read on AI governance recently.\n\nHe explains why mandatory insurance solves the incentives problems with @demishassabis’s FINRA for AI proposal. \n\nWhy independent verification organizations have poor incentives:\n“An IVO that depends on the developers it clears for repeat business has a significant incentive to grade gently, and a developer shopping among IVOs will find the one that does.”\n\nWhy mandatory insurance solves:\n“An insurer that writes an AI developer’s coverage promises to pay for the harms the developer causes. If such insurers underprice, they pay in claims; if they overprice, they lose the client.”\n\nOverview: \n“In a regulatory approach based on mandatory insurance, the insurer would play a role similar to that of an IVO, but with a much stronger financial incentive to conduct competent risk assessment. Nothing would be lost in expertise, because the insurer could hire the same specialists an IVO would.”",
+   "created_at": "Thu Jul 30 20:01:25 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 20,
+   "retweets": 5,
+   "media": [],
+   "quoted": null
+  },
+  "2082567865388138652": {
+   "id": "2082567865388138652",
+   "url": "https://x.com/curl_justin/status/2082567865388138652",
+   "text": "i’m with tim on the value of everyone having a superintelligent lawyer.\n\nbut i fear it will quickly turn into handing over all disputes to ai judges.\n\nand once we turn over society’s lawmaking and governance to machines, we cease to be a self-directed species, which feels risky.",
+   "created_at": "Wed Jul 29 20:44:06 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 32,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "binarybits",
+    "text": "I like the way Mark Zuckerberg is thinking about superintelligence and AI safety. https://t.co/mz2zriysaH https://t.co/Yz83zAEUMV"
+   }
+  },
+  "2082482678818132154": {
+   "id": "2082482678818132154",
+   "url": "https://x.com/curl_justin/status/2082482678818132154",
+   "text": "Whoa…\n\n“When researchers asked DeepSeek to write code for users whom the Chinese government views with hostility, such as Falun Gong or Tibetans, DeepSeek wrote code with security vulnerabilities”\n\nCheck out Tal Feldman’s essay in NYTimes today",
+   "created_at": "Wed Jul 29 15:05:35 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 228,
+   "retweets": 18,
+   "media": [],
+   "quoted": null
+  },
+  "2082112858805223721": {
+   "id": "2082112858805223721",
+   "url": "https://x.com/curl_justin/status/2082112858805223721",
+   "text": "insured legal work output produced entirely by agents? very very cool next step from @ryanjdaniels and the @crosbylegal team",
+   "created_at": "Tue Jul 28 14:36:03 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "lawheroezV2",
+    "text": "So, this is interesting by @crosbylegal. \n\nTheir agents will do certain autonomous work without a lawyer reviewing *every single work output* and they plan to insure the work the autonomous agents do, ie to get clients to trust the work/output created and  delivered  by the agent like a human lawyer. \n\nFeels like a way to earn trust (ie our agents do a really good job and we stand behind them like a human lawyer) , differentiate, take that big step of seemingly removing the lawyer from some of the output review (probably low risk outputs that they get the highest eval scores on) and going full autonomous. Need to read this post carefully.  they’re *not* saying they will remove  lawyers from all the review loops (which is how I’m sure some clients and lawyers will interpret this). Ryan, their ceo, crafted this carefully.  They’re also saying this is how good our agents have become which is also interesting. \n\nAlso, great marketing of end-to-end native ai/agentic firm. \n\nAnother bet is being taken here on how clients will respond to this big step towards end to end autonomous legal work.  \n\nVery provocative (love it) and Ryan knows this hence the discussions with regulators, bar associations, insurers etc as this will trigger regulatory issues."
+   }
+  },
+  "2081848979202134411": {
+   "id": "2081848979202134411",
+   "url": "https://x.com/curl_justin/status/2081848979202134411",
+   "text": "This seems right",
+   "created_at": "Mon Jul 27 21:07:30 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 5,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "deredleritt3r",
+    "text": "@curl_justin On this particular start-up:\n\nIf I were David, I would either have sounded out my clients on this before committing OR I would know from what's going on in the market generally or my clients specifically that a service like this would be in demand.  I doubt he's rolling the dice and taking on substantial risk that none of his clients will follow him, but I guess we'll have to wait and see.\n\nOn AI-native law firms generally:\n\nI've written about this before: law firms are ultimately a way to leverage thousands of associate hours + provide CYA for the GC (Kirkland is doing this deal for us!) + bring in expertise that a company's legal department doesn't have (e.g., high-stakes litigation or M&A).  If David Fox, who has done your last five deals, tells you that he can do the same job on your sixth deal but outside Kirkland - particularly if the two of you frequently golf together - maybe you listen.  You'll look good as a GC (+ AI-embracing!) if this works out.  You trust David.  And you're beginning to think that a team of associates maybe isn't needed for some legal tasks anymore.\n\nOn data, I actually think that a lot of the most relevant knowledge resides in David's head, and some of the knowledge that does not is likely publicly available."
+   }
+  },
+  "2081823990939840647": {
+   "id": "2081823990939840647",
+   "url": "https://x.com/curl_justin/status/2081823990939840647",
+   "text": "The legal profession is in a race between traditional firms adopting AI and AI-native firms scaling trust.\n\nI can’t tell if a senior superstar attorney starting an AI-native firm is the best of both worlds or the worst.\n\nBest case:\n\nDavid starting an AI-native firm reduces the trust deficit because he has a book of business, and it’s easier to convince clients to follow the same lawyer to a new firm than to sign up with someone completely new. \n\nAnd because he’s starting fresh, he doesn’t have the bureaucracy, legacy IT systems, and established ways of working that might inhibit his experimentation with / adoption of AI.\n\nHe would have trust from day one and could find someone good on AI to allow the firm to deliver quality legal services at unrivaled speed or cost. \n\nWorst case:\n\nDavid’s reputation doesn’t meaningfully close the trust gap. Clients might decide following their superstar lawyer from Wachtell to Kirkland & Ellis is perfectly fine, but following them from a massive firm to a new shop that’s experimenting with something new isn’t worth the risk.\n\nAnd on tech adoption, becoming “AI native” is easier said than done. Although he’s starting fresh, he’s built a very successful career on a particular way of working. Breaking out of that will be tricky. A lot will depend on who he partners with, but his firm just might not be as good on AI as competitors like @crosbylegal. \n\nHe also won’t have as much data to draw on. I personally think analytics on top of legal services is the most valuable differentiator for an AI-native legal function: “This is the industry standard based on the past 23 deals we’ve done” is a much more compelling pitch in a billion-dollar deal than “I saved you $50K on associates time by using AI to draft and review clauses.”\n\nAt that point, you’re getting neither the experience / benefits of the best firms without the tech talent of the buzzy AI-native firms drawing from the SF startup scene.",
+   "created_at": "Mon Jul 27 19:28:12 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 51,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "lawheroezV2",
+    "text": "David Fox, former senior partner of Kirkland & Ellis (MP) and Skadden, is starting a new ai native firm venture. When established firm builders with their reputation/branding  start building ai native law firms, this gets very interesting and potentially very disruptive and competitive for the legal industry. Law firm market is going to look very different in the next 2-3 years."
+   }
+  },
+  "2080854311786172453": {
+   "id": "2080854311786172453",
+   "url": "https://x.com/curl_justin/status/2080854311786172453",
+   "text": "Lead poisoning is more destructive than I imagined … but also much more solvable.\n\n“In 2023… lead took more lives than all active wars, all natural disasters, all road accidents, HIV and malaria combined.” \n\nMore than a billion kids (1/3 worldwide) have suffered permanent brain damage from lead.\n\nBut luckily @PureEarthNow has shown this is fixable. \n\n1. Run a nationally representative survey of kids’ exposure levels to establish a baseline and motivate government (because of how shockingly bad the numbers are).\n\n2. Find out where the lead is coming from. Sources can include food, spices, traditional cosmetics and medicines, cheap aluminum cookware, and ceramic glazes.\n\n3. Regulate and remove lead from the economy by tightening standards, improving enforcement capacity, and cleaning up contaminated sites.\n\nThis is how they reduced lead exposure  by 75% in the hardest-hit regions of the country of Georgia. Turns out a lot of lead exposure was coming from spices.\n\nInvesting in lead removal is one of the most direct ways to have a massive measurable positive impact on billions of people.",
+   "created_at": "Sat Jul 25 03:15:02 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 89,
+   "retweets": 12,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOCt99mbAAAYVlN.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2080486550362866136": {
+   "id": "2080486550362866136",
+   "url": "https://x.com/curl_justin/status/2080486550362866136",
+   "text": "trust me, he’ll do it… two months is old enough",
+   "created_at": "Fri Jul 24 02:53:41 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "realBoKane",
+    "text": "Mamdani buying for $0.20, Amazon selling for $0.18.\n\nTime to teach my daughter her first arbitrage lesson underneath the BQE. https://t.co/y52SGypKpo"
+   }
+  },
+  "2080333522892681377": {
+   "id": "2080333522892681377",
+   "url": "https://x.com/curl_justin/status/2080333522892681377",
+   "text": "And the momentum continues — another huge (though unsurprising) announcement from @Etched!\n\nHighly recommend people go check out how they’re using LVI and CSM to simultaneously improve throughput and latency, pushing the pareto frontier of inference",
+   "created_at": "Thu Jul 23 16:45:37 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 9,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "Etched",
+    "text": "We’ve raised $300M in Series C funding at a $10.3B valuation from Sequoia, Andreessen Horowitz, Jane Street, Argo, and SK Hynix.\n\nOur mission is to run the world's inference. This round accelerates production of our inference clusters.\n\nWe've opened an 80,000-sqft, 10-MW facility 15 minutes from our office to expedite production and prototyping."
+   }
+  },
+  "2080012752865870327": {
+   "id": "2080012752865870327",
+   "url": "https://x.com/curl_justin/status/2080012752865870327",
+   "text": "Very cool piece — favorite part is @PeterMcCrory’s willingness to acknowledge his own high degree of uncertainty on certain questions",
+   "created_at": "Wed Jul 22 19:30:59 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 10,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "PeterMcCrory",
+    "text": "https://t.co/udfcEF04vx"
+   }
+  },
+  "2079773019585867829": {
+   "id": "2079773019585867829",
+   "url": "https://x.com/curl_justin/status/2079773019585867829",
+   "text": "The posting to policy pipeline is insanely strong. This is also a good reminder for anyone interested in policy—just start writing and getting your ideas out there",
+   "created_at": "Wed Jul 22 03:38:22 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 85,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "calebwatney",
+    "text": "Surreal endnotes section to have in an official government report https://t.co/uXvhlZa0DI"
+   }
+  },
+  "2079090458928832763": {
+   "id": "2079090458928832763",
+   "url": "https://x.com/curl_justin/status/2079090458928832763",
+   "text": "2026 world cup finals recap:\n- bad time for argentina fans\n- worse time for the jacobian conjecture",
+   "created_at": "Mon Jul 20 06:26:07 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "__alpoge__",
+    "text": "hello there the jacobian conjecture is false thanx to my close friend akhil for asking about it and my other close friend fable for working during the world cup final\n\n((1+xy)^3 z + y^2 (1+xy) (4+3xy), y + 3 x (1+xy)^2  z + 3 x y^2 (4+3xy), 2 x - 3 x^2 y - x^3 z): \\C^3\\to \\C^3, has jacobian determinant -2, and sends (0, 0, -1/4), (1, -3/2, 13/2), and (-1, 3/2, 13/2) to (-1/4, 0, 0)"
+   }
+  },
+  "2078308157844250700": {
+   "id": "2078308157844250700",
+   "url": "https://x.com/curl_justin/status/2078308157844250700",
+   "text": "Also sharing the full diagram of our argument for the bottlenecks between AI capabilities and cheaper legal services https://t.co/SROKUrDkmD",
+   "created_at": "Sat Jul 18 02:37:32 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 73,
+   "retweets": 9,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HNeiQMTawAAGEYV.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "paulnovosad",
+    "text": "Arms races can channel AI productivity gains into increasing outputs rather than lower costs.\n\nInstitutions will be very important here to prevent the worst outcomes.\n\nMany domains (e.g. academic publishing) are like this and need to be thinking through the possible futures."
+   }
+  },
+  "2077800620216713456": {
+   "id": "2077800620216713456",
+   "url": "https://x.com/curl_justin/status/2077800620216713456",
+   "text": "“While we can and should train in guardrails, the personality of the model, as good as it is, is never a substitute for our democratic process.”\n\nSpot on, technical interventions alone are insufficient\n\nAlso agree decentralization will require rough parity in different groups’ access to advanced model capabilities",
+   "created_at": "Thu Jul 16 17:00:46 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 22,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "boazbaraktcs",
+    "text": "https://t.co/pf0AkKVnoZ"
+   }
+  },
+  "2077439648851513418": {
+   "id": "2077439648851513418",
+   "url": "https://x.com/curl_justin/status/2077439648851513418",
+   "text": "Update: I’ve joined @AnthropicAI’s new AI & Rule of Law team.\n\nWe’re tackling questions like:\n1. How do we ensure AI agents follow the law?\n2. How do we limit AI’s potential to concentrate power (e.g. AI-enabled coups or  mass surveillance)?\n3. How can AI empower citizens and strengthen democracy?\n\nI’ve said before that these are the most important questions of our time. Delighted to be working on them with @MattBotvinick, @JackClarkSF, and the amazing people at Anthropic. \n\nMore soon — there’s no time to waste.",
+   "created_at": "Wed Jul 15 17:06:23 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 474,
+   "retweets": 22,
+   "media": [],
+   "quoted": {
+    "author": "curl_justin",
+    "text": "So glad there’s a team at Anthropic doing this. Right now, few questions are as important as how we redesign our institutions and legal systems in light of AI"
+   }
+  },
+  "2076782391734259824": {
+   "id": "2076782391734259824",
+   "url": "https://x.com/curl_justin/status/2076782391734259824",
+   "text": "This is the slide I wish everyone who agreed with \"AI as Normal Technology\" saw.\n\nNormal does NOT mean boring, uneventful, or non-transformative. Treating AI as normal means treating it like the MOST transformative technologies in human history.\n\nPeople who treat it as a slogan and claim we don't need to think about AI's impacts are missing the point. On my read, AI as Normal Technology's most valuable contribution is as a call to action. \n\nIt's saying that many of the constraints shaping societal transformation are external to the models themselves. This means there are many more levers we can pull to shape AI's trajectory.",
+   "created_at": "Mon Jul 13 21:34:41 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 38,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HNI0LO7aIAAamtW.png"
+    }
+   ],
+   "quoted": {
+    "author": "random_walker",
+    "text": "I had the honor of giving a keynote at the International Conference on Machine Learning in Seoul last week titled “What will be left for us to work on?” I addressed the widespread anxiety about how we should adapt as AI capabilities increase. I was thrilled by the talk’s reception, so I have made my slides available, annotated with a lightly edited transcript: https://t.co/vNgRJCL57B\n\nI made three arguments. First, the \"AI as Normal Technology\" framework is a correct and useful as a way to think about AI’s impacts, unless and until there is some future discontinuity such as through recursive self-improvement. Second, even though we should take recursive self-improvement seriously, there is no milestone that companies might achieve in the lab that will suddenly put us all out of work. Third and finally, jobs of the future will be radically different, and a lot of adaptation will be needed. I shared my thinking about what this might look like and ended with a vision of human/AI “co-superintelligence”."
+   }
+  },
+  "2076779171255300139": {
+   "id": "2076779171255300139",
+   "url": "https://x.com/curl_justin/status/2076779171255300139",
+   "text": "AI agents have a loyalty problem. Should they prioritize their users or their makers?\n\nSen. @MarkWarner's AI Agent Act would say users, adopting @zittrain / @jackbalkin's concept of information fiduciaries.\n\nFor more, go read @ellgood's excellent analysis explaining how loyal AI agents could help solve users' problems with social media platforms",
+   "created_at": "Mon Jul 13 21:21:53 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 22,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HNIzlv0bUAATQQl.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2075831908190281889": {
+   "id": "2075831908190281889",
+   "url": "https://x.com/curl_justin/status/2075831908190281889",
+   "text": "OpenAI did some insane stuff, but Apple’s responses were either bizarre or incompetent.\n\nI’m convinced this is just the tip of the iceberg for this case.\n\nSome reactions to a crazy set of facts…🧵",
+   "created_at": "Sat Jul 11 06:37:48 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 13,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "ns123abc",
+    "text": ">be Chang Liu\n>senior system electrical engineer at Apple\n>8 years working on iphone\n>january 2026: leave Apple to join OpenAI\n>apple asks for laptop back\n>ignore them\n>lmao it’s my laptop now\n>within HOURS of leaving\n>message Yu-Ting “Alyssa” Peng, friend at Apple:\n\nLiu: “I still have another computer”\n\n>uses it to access Apple secret info\n>within weeks, use HER Apple work laptop\n>february 9: try Apple’s network storage\n>cloud repo of confidential engineering files\n>authentication bug. still works! \n>message Peng: “LOL, I found out I can access the [network storage], so funny”\n\nPeng: “I’m ready”\n\n>while developing hardware for OpenAI\n>download DOZENS of confidential files\n>including a thousand-plus-page compilation of technical files\n>including MLB (main logic board) manufacturing + testing presentations\n\n>send Peng links to Apple’s proprietary folders\n>point her to specific project data\n>coach her how to copy files “to avoid trouble with the security team”\n>tell her which confidential Apple materials to study before her OpenAI interview\n>warn her another guy “fumbled” Tang Tan’s questions about a secret Apple project\n>“download some info” for her to review\n\n>tell her: switch to LINE Messenger so nobody sees this \n>she gets the OpenAI offer, leaves Apple April 16\n>meanwhile every message was left on APPLE-ISSUED WORK LAPTOPS\n\n>july 10: Apple Inc. v. Chang Liu\n>named first. before OpenAI. before Tang Tan\n\nLOL\nso funny"
+   }
+  },
+  "2074879801593368746": {
+   "id": "2074879801593368746",
+   "url": "https://x.com/curl_justin/status/2074879801593368746",
+   "text": "@cognition is hiring an AI policy lead (its first policy hire)!!!\n\nThis is a cool opportunity to shape AI policy at the frontier and join an amazing company with an even better group of people.\n\n(I don’t work there but can vouch this will be sick) https://t.co/OEWRlt1j5I",
+   "created_at": "Wed Jul 08 15:34:28 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 20,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HMtx7H6bkAACgFY.jpg"
+    }
+   ],
+   "quoted": null
+  }
+ }
+}

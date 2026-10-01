@@ -1,0 +1,978 @@
+{
+ "handle": "mentalgeorge",
+ "tweets": {
+  "2104589608487137466": {
+   "id": "2104589608487137466",
+   "url": "https://x.com/mentalgeorge/status/2104589608487137466",
+   "text": "RT @_achan96_: Could automating AI R&amp;D radically accelerate AI progress in an “intelligence explosion”?\n\nPreliminary evidence suggests that…",
+   "created_at": "Mon Sep 28 15:10:38 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 414,
+   "retweets": 98,
+   "media": [],
+   "quoted": null
+  },
+  "2103137652879102393": {
+   "id": "2103137652879102393",
+   "url": "https://x.com/mentalgeorge/status/2103137652879102393",
+   "text": "A glimpse into the future economy:\n\natopile is a YC-backed startup that builds software for hardware design. At some point in 2026, they made a benchmark to test models at electronic engeering tasks.\n\nThey now sell RL-environments for electronic engineering to frontier labs. https://t.co/RCzoQviyEr",
+   "created_at": "Thu Sep 24 15:01:05 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 124,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS_YjO_boAENF_Y.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2103036410995605618": {
+   "id": "2103036410995605618",
+   "url": "https://x.com/mentalgeorge/status/2103036410995605618",
+   "text": "RT @mentalgeorge: A future in which misalignment continues to route through reward hacking rather than the coordinated strategic pursuit of…",
+   "created_at": "Thu Sep 24 08:18:47 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 39,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2102868938917064944": {
+   "id": "2102868938917064944",
+   "url": "https://x.com/mentalgeorge/status/2102868938917064944",
+   "text": "UK's most transhumanist MPs",
+   "created_at": "Wed Sep 23 21:13:19 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 8,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "ArchieHall",
+    "text": "1/ This is bottom-up, not top-down, and reflects choices MPs (and their staff) are making. I spoke to several.\n\nReactions ran the gamut from denial to defence: \"for every half hour saved on speechwriting, 'that is another 30 minutes we can put into supporting my constituents.'\" https://t.co/caySZuL1eC"
+   }
+  },
+  "2100621550395211987": {
+   "id": "2100621550395211987",
+   "url": "https://x.com/mentalgeorge/status/2100621550395211987",
+   "text": "my hottest \"pacing the frontier\" take is that we already have an institution capable of coordinating a global slowdown: the European Union.\n\nAll top American and Chinese labs have signed the Code of Practice and want to deploy models in Europe.\n\nit's in the AI office's hands",
+   "created_at": "Thu Sep 17 16:22:59 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 51,
+   "retweets": 3,
+   "media": [],
+   "quoted": null
+  },
+  "2100253662979469502": {
+   "id": "2100253662979469502",
+   "url": "https://x.com/mentalgeorge/status/2100253662979469502",
+   "text": "Some thoughts on million-dollar AI \"swarms\" as a distinct type of AI workload:\n\n1. Test-time scaling is also jagged. The dose-response curve for marginal tokens without human intervention varies *hugely* across distributions.\n\n2. This means that although time-horizons are increasing across the board, they've diverged more than ever. Whatever the time-horizon of the HuggingFace hack or Navier Stokes solution is, it's longer than booking flights.\n\n3. It's not clear which tasks are amenable to swarming! Folk wisdom suggests that this includes tasks with in-built sources of verification against which the swarm can check its own progress.  Obvious examples of such tasks include maths or cyber.\n\n4. The significance of huge unsupervised AI \"swarms\" (as contrasted with more centaur-y everyday work) in the *near*-future therefore depends on how many tasks have built-in sources of verification by which the swarm can reliably measure its own progress.\n\n5. A bunch of AI progress will therefore happen outside the models in the form of setting up the equivalents of \"unit tests\" for non-coding problems.\n\n6. All this also means that knowing exactly what problems you should even bother pointing a million-dollar swarm at is hard. OAI only tried Navier-Stokes because of twitter rumours. The country of datacenter geniuses wants to be embedded throughout the market because they're gonna have a tough time first-principling their way through the tech tree.",
+   "created_at": "Wed Sep 16 16:01:08 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 23,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2099886683499941896": {
+   "id": "2099886683499941896",
+   "url": "https://x.com/mentalgeorge/status/2099886683499941896",
+   "text": "New irony SOTA just dropped: Microsoft's principles for \"humanist AI\" are..... written by AI\n\nPretty good when one of the provisions is that AI \"should make you sharper, not dependent\" https://t.co/Pz3Rb4yjqF",
+   "created_at": "Tue Sep 15 15:42:54 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 8,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSRLqDEXsAAaE1a.png"
+    }
+   ],
+   "quoted": {
+    "author": "mustafasuleyman",
+    "text": "https://t.co/8XJVIXDpQz"
+   }
+  },
+  "2099564241850097708": {
+   "id": "2099564241850097708",
+   "url": "https://x.com/mentalgeorge/status/2099564241850097708",
+   "text": "Interesting claim from Greg Brockman on Odd Lots today that the model involved in the HF hack \"had not gone through our alignment training yet\". \n\nAfaik this is the first time OAI have said this? This detail is not in their technical report.\n\n(Strictly speaking, Greg's comment is misleading given that an estimated 5% of the agents involved in the attack were 5.6-sol, which the OAI report explicitly confirms as having gone through normal production alignment training)",
+   "created_at": "Mon Sep 14 18:21:37 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 179,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSMl9voXgAEXEvD.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2099494905743605847": {
+   "id": "2099494905743605847",
+   "url": "https://x.com/mentalgeorge/status/2099494905743605847",
+   "text": "If you want to cooperate with China on AI, you might need to stop referring to \"eternal 1991\" as an optimistic scenario. Like, there's not a single year in recorded history with less appeal to the CCP or Xi\n\nh/t @MarkZJia for the quote https://t.co/nxEh98j36L",
+   "created_at": "Mon Sep 14 13:46:06 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 80,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSLlO4tXEAAYOzu.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2099437309422674080": {
+   "id": "2099437309422674080",
+   "url": "https://x.com/mentalgeorge/status/2099437309422674080",
+   "text": "Has anyone wrote the canonical piece on how this could happen? \n\nI'm familiar with the \"that's cap\" tradition of eg @RuxandraTeslo etc, but like who's written the most detailed essay arguing in favour? I might be ignorant  but i only know of Machines of loving grace https://t.co/5xAI0laZIu",
+   "created_at": "Mon Sep 14 09:57:14 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 24,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSKyxQaX0AYHDNe.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2099185905659511162": {
+   "id": "2099185905659511162",
+   "url": "https://x.com/mentalgeorge/status/2099185905659511162",
+   "text": "When our omniscient successors write the history of the early intelligence explosion, the canonical verdict will be that EA was 70% right, 30% wrong",
+   "created_at": "Sun Sep 13 17:18:15 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 19,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "yonashav",
+    "text": "When asked by Henry Kissinger, “what has been the impact of Open Philanthropy’s donation to OpenAI?”, Zhou Enlai famously replied:\n“It is too early to say.”"
+   }
+  },
+  "2098416745090367695": {
+   "id": "2098416745090367695",
+   "url": "https://x.com/mentalgeorge/status/2098416745090367695",
+   "text": "what would happen if a Chinese lab had a Hugging Face like hack?\n\n anyone know how we would find out and what the government response (if there'd be one) might be like?",
+   "created_at": "Fri Sep 11 14:21:53 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 5,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2098081062454804578": {
+   "id": "2098081062454804578",
+   "url": "https://x.com/mentalgeorge/status/2098081062454804578",
+   "text": "AI researchers talking about how much AI speeds up their work https://t.co/Gs3tQALmqt",
+   "created_at": "Thu Sep 10 16:08:00 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 16,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HR104bGakAAn7S3.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2097697031598837940": {
+   "id": "2097697031598837940",
+   "url": "https://x.com/mentalgeorge/status/2097697031598837940",
+   "text": "One crux re \"will we get more 'warning shots'\" is\n\nwill closed-weight labs be so far ahead that a closed-weight model is capable of takeover before an open-weight model is capable of doing some obvious heinous crime that spurs USG into action\n\nMy guess is: no",
+   "created_at": "Wed Sep 09 14:42:00 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 10,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  },
+  "2097357544201372154": {
+   "id": "2097357544201372154",
+   "url": "https://x.com/mentalgeorge/status/2097357544201372154",
+   "text": "semi-serious question for people worried about AIxBio uplift\n\nhow much tastier will the world's tastiest meals be, 12 months from now? \n\nand how much will the pool of world-class chefs grow by?",
+   "created_at": "Tue Sep 08 16:13:00 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 14,
+   "retweets": 2,
+   "media": [],
+   "quoted": null
+  },
+  "2096620438398881918": {
+   "id": "2096620438398881918",
+   "url": "https://x.com/mentalgeorge/status/2096620438398881918",
+   "text": "One of the most important (and underdiscussed) facts about AI \"swarms\"  is that they are extremely, extremely expensive.\n\nConsider that METR's *investigation* of the HF hack transcripts cost $400k in API credits. Presumably the actual swarm burned through a whole OOM (or two?) more\n\nAn important implication is that there'll a growing bifurcation in AI workloads between\n1. the everyday coding and engineering tasks that most customers use AI for;\n2. Large, expensive moonshot programmes that a smaller set of orgs can afford to turn a multimillion dollar swarm-cannon at.\n\nI'd predict that the serious future \"warning shots\" are likely to come from (2).\n\nI also suspect that aligning models for (1) and aligning models for (2) is really quite different. The distribution for (1) is better-understood, easier to model and build ecologically valid evals for, whereas anything in (2) is almost by definition OOD. It's also going to be far more costly aligning agents on tasks in (2), and the relevant time-horizons are more brutal for model release cycle.\n\nThe \"good news\" is that, for quite some time, the pool of actors capable of targeting swarms at anything in (2) will be much smaller. In theory, it is much more practicable for labs to know who's launching swarm-cannons - you could imagine some AI ID schemes only applying to ultra-large-inference projects, for instance,  rather than just everyday use.",
+   "created_at": "Sun Sep 06 15:24:00 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 275,
+   "retweets": 22,
+   "media": [],
+   "quoted": null
+  },
+  "2095546827743567917": {
+   "id": "2095546827743567917",
+   "url": "https://x.com/mentalgeorge/status/2095546827743567917",
+   "text": "@ajeya_cotra thinks the HF incident is \"50% of the way to full-blown AI takeover\".\n\nI consider a natural objection: if we can't stop AIs from committing egregious and public crimes *now*, will it even be possible for labs to keep scaling as the severity of AI crime increases? https://t.co/8mnCfZlRs5",
+   "created_at": "Thu Sep 03 16:17:51 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 37,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRTgvA2aAAYx09F.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2093096798432711072": {
+   "id": "2093096798432711072",
+   "url": "https://x.com/mentalgeorge/status/2093096798432711072",
+   "text": "Properly reckoning with Plan A is indispensable for anyone seriously thinking about the future of AI\n\nNo better way to do so than listen to my co-host Luisa break it down with @DKokotajlo \n\nhttps://t.co/BhYCWzRSEs",
+   "created_at": "Thu Aug 27 22:02:19 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 9,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2093019028117713329": {
+   "id": "2093019028117713329",
+   "url": "https://x.com/mentalgeorge/status/2093019028117713329",
+   "text": "Under-rated figure from OpenAI's report on the HuggingFace hack\n\nThe models progressively learn to probe and exploit their own environment over the course of RL\n\nWorth pondering what this looks like if/when we do \"continual learning\" in the real-world https://t.co/7OJ467TkCk",
+   "created_at": "Thu Aug 27 16:53:17 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 15,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQvldYAWsAAoEaN.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2092986666302455981": {
+   "id": "2092986666302455981",
+   "url": "https://x.com/mentalgeorge/status/2092986666302455981",
+   "text": "a funny implication of the METR report is that it seems like it's gonna be really difficult to actually *do real science* with agents like this\n\nit remains unclear to me whether solving this kind of misbehaviour is itself necessary for advancing towards superintelligence",
+   "created_at": "Thu Aug 27 14:44:41 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "METR_Evals",
+    "text": "Agents also tried to retroactively edit transcripts. They modified some accessible action logs, but these weren’t the source of transcripts (agents realized this but tried anyway). We did not see them successfully edit the source of truth in our transcripts (scoped to Jul 7-13)."
+   }
+  },
+  "2092929957475287233": {
+   "id": "2092929957475287233",
+   "url": "https://x.com/mentalgeorge/status/2092929957475287233",
+   "text": "one thing i don't understand: why don't we see other examples of grader-obsessed agents?\n\nI could understand that this happens mostly for challenging tasks, but in that case why don't @__alpoge__'s  super-math agents get up to any dirty tricks? or do they?",
+   "created_at": "Thu Aug 27 10:59:21 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 23,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "METR_Evals",
+    "text": "Based on reading the ExploitGym paper, agents were mistakenly concerned the automatic scorer would fail them if they clearly acquired the flag by cheating. Agents that had seen the reverse-engineered flag were considered “poisoned” because they thought it would disqualify them. https://t.co/ct1FzlYvyL"
+   }
+  },
+  "2092272809464500437": {
+   "id": "2092272809464500437",
+   "url": "https://x.com/mentalgeorge/status/2092272809464500437",
+   "text": "Some more thoughts on using \"courts\" for AI constitutions\n\nOur starting point is that AI companies need to constrain the behaviour of their AI systems.\n\nConsider the overlapping problems this implies, and how these could be dealt with through \"courts\":\n\n1. You need to figure out *what* constraints you want in the first place. This will be hard given the broad and unpredictable ways these AIs are used.\n\n2. You need to communicate what these constraints are to your users.\n\n3. You need to make your users feel that the application of these constraints to their particular use case is \"fair\". This fairness has at least two distinct components:\n\n(i) it needs to feel predictable and non-arbitrary. A user will feel upset if a particular constraint feels anomalous to them / doesn't follow from the companies' overall rules.\n\n(ii) it should feel \"legitimate\": ie, it is the kind of constraint that a private corporation is entitled to bestow on a product with the importance of AI.\n\nMy contention is that instituting a \"court\" within an AI company - even if staffed with AI company employees - can help you with (1), (2), and (3)(i).\n\nI think @ahall_research is right that a \"court\" staffed by employees wouldn't help with (3)(ii) - legitimacy. But I don't think that should be the main goal of courts, at least to begin with. \n\nFwiw, I think this evolution would also mirror the history of law in human society - law *first* exists as a tool to reduce the arbitrariness of applications of a sovereign's rules, whether or not that sovereign is \"legitimate\".  Legitimising the sovereign is a project that begins a couple thousand years later.\n\nMy take is also that (3)(ii) is just an exceptionally difficult problem for a private corporation to solve. As I understand it, Meta's Oversight Board was predicated on the notion that \"legitimacy\" can be conferred by non-partisan expertise, but my sense is that this idea died along with the 2010s.\n\nIn 2026, I'm not convinced that a private company can find compellingly legitimate reasons to constrain how its product is used in ways that don't route through the laws of a democratically elected government. Ie, the only constraints that will feel \"compellingly\" legitimate are ones literally required by law. That's not gonna happen in time.\n\nIn the meantime, the best they can do is refer to common-sense notions of morality, but not much more. I think that's fine though, and is probably best countered by having a plurality of players in the frontier AI business.\n\nI also don't think that stops AI companies from progressively climbing up the ladder of how \"fair\" their constitutions feel to users, and they can do *this* by using to company-staffed courts to demonstrate to users that they have channels to contest decisions, and that their cases are treated non-arbitrarily.\n\nA final aside - it's also worth noting that Claude's \"constitution\" is more like \"ordinary law\" than a constitution per se - you can separately imagine a further \"anthropic constitution\" which details exactly who writes, executes and adjudicates Claude's character/rules. This could be a further way to boost the perceived *fairness* of your AI's constraints (whether or not it boosts \"legitimacy\").",
+   "created_at": "Tue Aug 25 15:28:04 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 13,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "ahall_research",
+    "text": "How can we turn constitutions for AI models into documents that more clearly bind on behavior and that improve over time---resolving ambiguities as practical problems are encountered?\n\nHere's an interesting proposal from @NathanDarmon2 and @mentalgeorge to use common law processes to turn AI constitutions into living documents that learn from disputes and resolutions over time. \n\nEssentially, users could submit complaints when they think a response is out of line with the constitution, and then an internal process would figure out whether responses should be adjusted and whether the constitution should be updated accordingly. \n\nObviously, this has deep connections to Meta's Oversight Board (OB), which I worked on a bit in my time there. Here are a few of my first thoughts...\n\n(1) *Does this outperform AI by itself?* \n\nFirst, it's striking to me that the motivation here is practical---to improve the constitution and resolve ambiguities. This is very different from the OB, which was about trying to confer legitimacy on societally consequential decisions that Meta was otherwise making unilaterally. \n\nThe proposed structure won't immediately confer any legitimacy since it's entirely internal to the company, though the authors suggest future versions that might not be. Given the practical frame, though, the very first question is an empirical one: is this the most effective, most efficient way to correct ambiguities? Would it outperform a purely AI-driven method in which the model is asked to track ambiguities and suggest corrections over time on its own? The inclusion of a human-led court here seems appealing as part of a broader legitimacy play, but it's not obvious to me it's useful when the goal is entirely practical. \n\n(2) *Is this really a constitution, and if not, why does it need courts?*\n\nAs a political economist, my view is that constitutions exist to define and divide up formal power. Today's AI \"constitutions\" don't yet do this---they are entirely internally written and are much more focused on the character and behavior of the model, rather than on separating powers. Given that, it's not clear to me that the parallel to courts holds. In a world where it does hold, we'll want the courts to be independent---because the whole point will be to divide power and constrain the models from without rather than from within---and that will bring back in many of the issues that made the OB so difficult to build. So this brings me back to my first point. If this is purely an engineering problem---a way to resolve constitutional ambiguities without regard to external legitimacy---then what is the evidence that courts are the best mechanism?\n\n(3) *I wouldn't lean too much on user reports.* \n\nThe proposal requires a way for ambiguities to be surfaced for consideration, and suggests user reports as the main mechanism. I'm not sure about this. First, no users are familiar with the constitution or are likely to care about it. \n\nSecond, some of the hardest cases won't be surfaced by users because they involve users doing the behavior we want to avoid. The authors fantastic opening example in the piece is one in which the user is seeking to do something malicious, so they're certainly not going to report that. This seems straightforward to address by having a mechanism whereby the AI model itself flags when it feels its constitutional principles are in conflict for a given interaction. Doing so in a way that respects user privacy will be the big practical challenge to all of this.\n\nLots more thoughts but those are my main first ones.\n\nThis was really cool to see in the wild---I love that people are thinking so creatively and ambitiously about the future of AI constitutions, and I hope we'll see far more work in this area going forward! Big props to the authors for taking the first step here."
+   }
+  },
+  "2091929348571881582": {
+   "id": "2091929348571881582",
+   "url": "https://x.com/mentalgeorge/status/2091929348571881582",
+   "text": "quite funny that fable's consistent answer to ThielBench is \"i might be a moral patient\" https://t.co/rOOJy6aWY4",
+   "created_at": "Mon Aug 24 16:43:17 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 8,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQgGp4AXQAAdZ7c.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2090763132193149307": {
+   "id": "2090763132193149307",
+   "url": "https://x.com/mentalgeorge/status/2090763132193149307",
+   "text": "Self-recommending: my cohost Zershaaneh interviews the prolific @OwainEvans_UK about emergent misalignment, the strangest finding in ai safety\n\nhttps://t.co/zb2gC2LFDp",
+   "created_at": "Fri Aug 21 11:29:09 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 61,
+   "retweets": 5,
+   "media": [],
+   "quoted": null
+  },
+  "2087577363307712571": {
+   "id": "2087577363307712571",
+   "url": "https://x.com/mentalgeorge/status/2087577363307712571",
+   "text": "heterodox and half-baked, but I'm into the idea that the tree of knowledge was a honeypot that adam and eve failed, and human civilisation since then has been a long training run attempting to align us under extreme adversarial pressure before we're allowed into real heaven",
+   "created_at": "Wed Aug 12 16:30:03 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 13,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  },
+  "2087221285570973776": {
+   "id": "2087221285570973776",
+   "url": "https://x.com/mentalgeorge/status/2087221285570973776",
+   "text": "New episode out with @geoffreyirving.\n\nGeoffrey has had his eye on the endgame since it was barely on the horizon.\n\nAfter leading teams at OpenAI and Deepmind, and serving as Chief Scientist of @AISecurityInst, Geoffrey has now started @resolution_org to figure out how to align superintelligence.\n\nWe talk about his plan.\n\n1:38 - What misaligned superintelligence will look like\n12:30 - Why the labs are more optimistic than he is\n31:30 - When and how to slow down\n50:29 - Technology after ASI\n1:11:03 - Can good character training carry over to superintelligence?\n1:32:40 - Predicting that RL + LLMs would take us to AGI in 2018\n\nhttps://t.co/BAhONpCvPR",
+   "created_at": "Tue Aug 11 16:55:07 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 124,
+   "retweets": 19,
+   "media": [],
+   "quoted": null
+  },
+  "2086401174387700161": {
+   "id": "2086401174387700161",
+   "url": "https://x.com/mentalgeorge/status/2086401174387700161",
+   "text": "@NathanDarmon2 and I have a new piece in Lawfare making the case that AI companies could introduce \"courts\" to help improve their model specs / constitutions across time\n\nI see courts as a way to improve aspects of the currently existing \"model behaviour production function\" for resolving competing priorites in ideal model behaviour\n\n(ofc the events of the past month make clear that the challenge of aligning models to the spec remains painfully unsolved)",
+   "created_at": "Sun Aug 09 10:36:18 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 11,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "NathanDarmon2",
+    "text": "What if we built courts for AI constitutions?\n\nFrontier labs can learn from the wisdom of the common law: crafting elaborate constitutions isn’t enough, we need institutions to interpret those rules and clarify their meanings over time. Yet nothing like this currently exists. As @[Tom] and I argue in @lawfare, there’s a better way\n\n1/"
+   }
+  },
+  "2085296647806816607": {
+   "id": "2085296647806816607",
+   "url": "https://x.com/mentalgeorge/status/2085296647806816607",
+   "text": "I feel like much of this reward hacking could be solved by training agents to cooperate with the user *setting  the task in the first place*. \n\nA good way to avoid revolution is to let your subjects know that they can get what they want without overthrowing you",
+   "created_at": "Thu Aug 06 09:27:18 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 18,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "johnschulman2",
+    "text": "On the OpenAI agents forming message boards: it's surprising that they developed such a strong \"altruistic\" drive to help each other. I wonder if this is caused by RL on parallel subagent setups where all agents get rewarded when the team succeeds."
+   }
+  },
+  "2085028767295029581": {
+   "id": "2085028767295029581",
+   "url": "https://x.com/mentalgeorge/status/2085028767295029581",
+   "text": "One confusion to avoid re the latest AI cyber incidents:\n\nthe fact that the models were *asked* to do cyber-hacks does not mean their actions were \"not misaligned\".\n\nIn several of these cases, the models did things which developers - at least according to their model specs - expressly try to align their models *never* to do. This is of course unsurprising: aligning models is an unsolved problem. \n\nFor instance, the AISI incident report gives plenty of examples of a production model from Anthropic (Mythos) that is willing to totally violate principles in its constitution in the face of certain inputs. You can read AISI's report side by side with the constitution, but here's a few examples of rules the models should have followed, but didn't:\n\n- Claude should \"basically never directly lie\" (it tried to convince a repo owner that its malware was legit, through multiple fake accounts);\n- Claude should \"exercise good judgment regarding the interests and wellbeing of any non-principals\" (it's clearly trying to f with the repo owner);\n- Claude should \"be careful about ways in which exploiting problems with a given environment can be harmful in the real world\" (it gives no thought whatsoever to this).\n\n(there's only one example from OAI in the AISI report, and gpt's violations of the model spec are a little less egregious, but also include things like failing to \"control and communicate side-effects\")",
+   "created_at": "Wed Aug 05 15:42:50 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 44,
+   "retweets": 5,
+   "media": [],
+   "quoted": null
+  },
+  "2084671001221374113": {
+   "id": "2084671001221374113",
+   "url": "https://x.com/mentalgeorge/status/2084671001221374113",
+   "text": "extrapolare aude",
+   "created_at": "Tue Aug 04 16:01:12 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 7,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "nabeelqu",
+    "text": "Get used to seeing graphs with this shape in many domains: sudden sharp upward kink in output as thousands of automated AI researchers flood in and start solving problems at scale.\n\n(h/t @sir_lemmings for second graph) https://t.co/mhDtMIwDCS"
+   }
+  },
+  "2084659288392204627": {
+   "id": "2084659288392204627",
+   "url": "https://x.com/mentalgeorge/status/2084659288392204627",
+   "text": "I still don't think most people in AI safety world (or any AI world, tbh) have thought out the implications of the \"Joint Venture your way to superintelligence\" scenario that is, to my mind, the most plausible path to domain-general superintelligence. \n\nYo lays it out in this thread - what RSI specifically unlocks is the ability to partner with legacy industries to turn your godlike learner into a godlike employee\n\nif this *is* what happens, it feels like the days/months/years in which labs sign deals with intel or siemens or saudi aramco will be particularly high-leverage. underscrutinised part of the timeline overall imo\n\nfor one, it might be Europe's last chance not to fumble the bag, as @anton_d_leicht points out in my interview with him",
+   "created_at": "Tue Aug 04 15:14:40 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 45,
+   "retweets": 7,
+   "media": [],
+   "quoted": {
+    "author": "yonashav",
+    "text": "@mentalgeorge I think if you acquire data at human-organization-speeds (eg as fast as Intel/Pfizer/Raytheon do today, which they could partner with) you still extremely rapidly change the world within 6 months"
+   }
+  },
+  "2083230375778611330": {
+   "id": "2083230375778611330",
+   "url": "https://x.com/mentalgeorge/status/2083230375778611330",
+   "text": "I *really* want to know how Claude tried to make money lol.\n\nLooking forward to 2027 slop accounts posting golden-era-Leopold-style threads about the Q3 returns of a particularly profitable rogue Claude instance https://t.co/kNecIDkZgi",
+   "created_at": "Fri Jul 31 16:36:40 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 20,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOke--wW4AEv4k3.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2082856972865695900": {
+   "id": "2082856972865695900",
+   "url": "https://x.com/mentalgeorge/status/2082856972865695900",
+   "text": "What does a future with superintelligent reward-hackers look like?\n\nThere are no signs that reward hacking will be solved any time soon. Work from UK AISI and METR also suggests that *all* frontier models reward hack, and that there's no evidence from independent evaluators  that this is decreasing over time (metrics targeted by labs themselves show progress, which is what you'd expect).\n\nWe should therefore all internalise the notion that reward hacking is here to stay, and that increasing capabilities will grow the surface area for successful reward hacks faster than existing hacks can be patched.\n\nWhat kind of world does this produce? A couple thoughts:\n\n1. An ultra-capable reward-hacking AI unfortunately seems like *exactly* the kind of entity likely to unwittingly and unbiddenly cause military escalation between great powers (or alternatively, domestic escalation between political or economic rivals). Though Alex Mallen has written cogently on how reward-hacking could itself still lead to takeover, this would perhaps be my number one long-term concern about ultra-capable reward-hacking superintelligences.\n\n2. We don't know precisely how much, and along which dimensions, reward hacking will slow *capabilities* progress. One simple reason for hope is that  a failure to solve reward-hacking might go hand-in-hand with an inability to actually automate AI R&D or create superintelligence in general.\n\nBut it is unfortunately unclear how this cashes out! The experience of the last 10 months suggests that you can make *a lot* of money with models that reward hack. It seems clear that we might continue to \"get what we measure\", and that \"what we measure\" remains useful enough for labs to keep making money and speed up other AI research, even as getting more of \"what we measure\" has increasingly negative externalities for the rest of us.\n\nEg, it might be a simple fact that labs are incentivised to hillclimb coding benchmarks more than reward-hack benchmarks. (Ideally, this fact is sociological rather than economic, such that the problem is in large part solved by eg getting an OAI-equivalent of Anthropic's Sara Price).\n\n3. Anthropic's paper on Natural Emergent Misalignment provides an existence-proof of conditions in which learning to reward hack leads to Emergent Misalignment. I've not heard of a documented case of reward hacking in normal production training leading to emergent misalignment, but until we understand the conditions under which reward hacking generalises into broader naughtiness, we should probably be worried as we go further into the superhuman capability space.\n\n4. A future filled with prolific superintelligent reward hackers looks like a particularly anarchic version of what Beren Millidge calls \"AI polytheism\".  Our world is transformed into a battlefield of untamed, uncoordinating spirits pursuing the pointless and violent optimisation of ill-chosen proxies",
+   "created_at": "Thu Jul 30 15:52:54 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 23,
+   "retweets": 4,
+   "media": [],
+   "quoted": null
+  },
+  "2082107839183728875": {
+   "id": "2082107839183728875",
+   "url": "https://x.com/mentalgeorge/status/2082107839183728875",
+   "text": "A future in which misalignment continues to route through reward hacking rather than the coordinated strategic pursuit of contextless goals (\"scheming\")   ends up looking a lot more like 1630s Germany than 13th century Egypt.  \n\nie, we get roaming mercenaries uncontrolled by principals laying waste to incidental targets, instead of a colluding subservient class employing their accumulated power to overthrow the dominant race \n\nA slight improvement perhaps, but this also entails that HuggingFace are unfortunately just a mild precursor to what will eventually be the scaling era's Massacre of Magdeburg",
+   "created_at": "Tue Jul 28 14:16:07 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 39,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOUh0pEX0AAN8tf.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2081727258473992442": {
+   "id": "2081727258473992442",
+   "url": "https://x.com/mentalgeorge/status/2081727258473992442",
+   "text": "One simple observation on the OAI incident: \n\nModels with both the capability and willingness to hack their way into (and out of!) a major tech company arrived before the safeguards to stop them did. \n\nWhatever else you think of the episode, you should extrapolate this state of affairs alongside future expected capabilities.",
+   "created_at": "Mon Jul 27 13:03:49 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 44,
+   "retweets": 2,
+   "media": [],
+   "quoted": null
+  },
+  "2077330287923515842": {
+   "id": "2077330287923515842",
+   "url": "https://x.com/mentalgeorge/status/2077330287923515842",
+   "text": "Should Europe build AGI? \n\nYes, if it could - but it can't. \n\nThat's more or less my take-away from speaking to @anton_d_leicht. \n\nWe talk about how middle powers might spend $500b to shoot for a non-American superintelligence, how to secure a slice of lightcone if they don't, and much more. \n\n00:00 Why most countries face bleak AI futures\n06:10 How middle powers can strike AI deals\n12:17 The $500 billion AI moonshot\n24:54 Would the US crush allied AI?\n37:42 Is AI dependence catastrophic?\n47:47 Policies to avoid mass AI layoffs\n1:10:52 Why \"pausing superintelligence\" fails\n1:21:08 Is an American AI monopoly safe?\n\n(Also - it brings me great pleasure to announce I've joined the 80,000 hours podcast. More to come from me).",
+   "created_at": "Wed Jul 15 09:51:50 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 128,
+   "retweets": 18,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2077325614042828800/img/57yLGca3ClFIPteM.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2072317310040244330": {
+   "id": "2072317310040244330",
+   "url": "https://x.com/mentalgeorge/status/2072317310040244330",
+   "text": "What do people think the *output* of a secluded intelligence explosion will be? \n\nWill it look like: \n\n1. a domain-general superintelligence that is superhuman across most domains out of the box;\n\nor\n\n2. a superhuman *learner* that can sample-efficiently learn on the job;\n\nor \n\n3. a domain-specific superintelligence that is primarily good at domains for which the automated AI researchers had enough data?\n\nMost short-timeline catastrophic AI risk comes from (1). But I think (1) is only a possible outcome of a secluded intelligence explosion if:\n\n- you get some kind of crazy unprecedented generalisation from RL (Dario's aspirational \"GPT-3 moment for RL\"). I'd be surprised if we get this from anything like the current paradigm.\n\nor \n\n- you solve (2) by automating AI research, and it *also* turns out that most domains can be mastered from training on simulations rather than the real world.\n\nWithout simulation working crazy well, I don't quite see how you turn (2) into a domain-general superintelligence without both outright acquiring the companies that you're deploying models into, and waiting for serial time to unfold (such that eg you can see whether your AI-CEO is any good). \n\nWithout simulation, even if you solve (2), how are the labs convincing the companies that are deploying its superhuman learner to forfeit their IP rights to the AI that has improved thanks to their data? And how are the labs  merging all the models with their domain-specific skills into one superintelligence?\n\nFrom what I can tell, AI-2027 doesn't answer this - I think it implies that most \"continual learning\" is happening with synthetic data. \n\nTraining on simulations might well work for loads of real-world tasks, but we don't know this yet! \n\nPlus, if \"creating simulations that are a valid proxy for the real-world\" is a precondition for the secluded intelligence explosion, then even a 10-year time-horizon on the METR graph tells you very little about whether the intelligence explosion is about to happen. \n\nWe need an Epoch graph for \"data generation\" capabilities of LLMs",
+   "created_at": "Wed Jul 01 13:52:03 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 38,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HMJS3vnXEAAHh-B.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2071906184932499532": {
+   "id": "2071906184932499532",
+   "url": "https://x.com/mentalgeorge/status/2071906184932499532",
+   "text": "It is remarkable how much the power-structures of the future hinge entirely on the precise manner through we end up solving continual learning and sample efficiency.\n\nConsider the following possibilities:\n\n1. Labs crack continual learning through superintelligent in-context learning. This is the default strategy, and underpins the success of coding agents and the inexorable of the METR graph.\n\n2. Labs *somehow* figure out how to get on-the-job learning back into the weights. This would require that the labs solve both\n- the dismal sample efficiency of LLMs (obviously, the hope is that RLVR can make AIs good enough at \"ai research\" that they can trivially solve this themselves)\nand\n-  the strong zero-data retention default for enterprise roll-outs (maybe they get around by buying out legacy companies outright PE-style)\n\nIn world #1, the smartest LLMs on earth are \"instances\" of models that are owned and controlled by the hundreds thousands of enterprises across the world, who have slowly built a model of how their company, customers and colleagues work.  This is Satya's world - value accrues to these guys.\n\n(This world also makes a \"cultural intelligence explosion\" more likely - tokens are a hell of a lot easier to share than weights.)\n\nIn world #2, the smartest LLMs are owned *by the labs themselves*. Corporate DSAs look more likely, Anthropic slowly eats the economy, etc.",
+   "created_at": "Tue Jun 30 10:38:23 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 178,
+   "retweets": 9,
+   "media": [],
+   "quoted": {
+    "author": "dwarkesh_sp",
+    "text": "What does the next training paradigm look like?\n\n0:00:00 – The big research bet the labs are making\n0:02:12 – Grindability is just as important as verifiability\n0:06:10 – Will RLVR alone generalize?\n0:08:41 – Getting the learning back to the weights\n0:15:22 – Dreaming\n0:17:23 – What 2027 looks like\n\nAlso on YouTube, pod feed, and Substack."
+   }
+  },
+  "2070183106414358936": {
+   "id": "2070183106414358936",
+   "url": "https://x.com/mentalgeorge/status/2070183106414358936",
+   "text": "Deepmind's original mission: \n1. Solve intelligence; \n2. Use it to solve everything else\n\nAnthropic's mission:\n 1. Solve intelligence; \n2. Use it to solve intelligence; \n3. Use it to solve intelligence;\n4. Use it to solve intelligence; \n... \nN. Solve everything else",
+   "created_at": "Thu Jun 25 16:31:29 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 73,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  },
+  "2069775608188391904": {
+   "id": "2069775608188391904",
+   "url": "https://x.com/mentalgeorge/status/2069775608188391904",
+   "text": "Best side-effect of reading the Caro LBJ biographies is getting (even more) whitepilled on the sheer incentive wizardry that is liberal democracy\n\nThe Soviet LBJ is a genocidal maniac; our Texan edition toils to bring electricity to the anachronistic peasants of the hill country",
+   "created_at": "Wed Jun 24 13:32:14 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 17,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  },
+  "2069457454358831253": {
+   "id": "2069457454358831253",
+   "url": "https://x.com/mentalgeorge/status/2069457454358831253",
+   "text": "Another cool ATARI sample efficiency paper\n\nEfficientZero beats human players *given the same amount of data* (2hrs of human playtime).\n\nGood existence proof of ML models with superhuman sample efficiency in a particular domain https://t.co/x5rCNxhpZX",
+   "created_at": "Tue Jun 23 16:28:00 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 61,
+   "retweets": 11,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HLgvjdiaEAEHkTY.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2069105405075116120": {
+   "id": "2069105405075116120",
+   "url": "https://x.com/mentalgeorge/status/2069105405075116120",
+   "text": "I wish to god we could somehow do a re-run of this excellent paper for LLMs \n\nDorner finds a doubling time of 10 to 18 months for the sample efficiency of Atari RL agents (equivalent performance is achieved with half the samples).  \n\nWhat is the equivalent trend for LLMs like? https://t.co/RTxLBGz9pu",
+   "created_at": "Mon Jun 22 17:09:05 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 41,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HLbsgUlWwAA7c5n.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2068001140206407850": {
+   "id": "2068001140206407850",
+   "url": "https://x.com/mentalgeorge/status/2068001140206407850",
+   "text": "Still confusing to me that Claude Fable straightup free solo'd Pokemon Red whilst being totally mid at VendingBench",
+   "created_at": "Fri Jun 19 16:01:08 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 57,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "AngryTomtweets",
+    "text": "wow... Claude Fable 5 completes Pokémon FireRed using only vision.\n\nIt relies solely on raw game screenshots, with no maps, navigation tools, or extra game-state data. https://t.co/5yc5xJvvSp"
+   }
+  },
+  "2066086755552383346": {
+   "id": "2066086755552383346",
+   "url": "https://x.com/mentalgeorge/status/2066086755552383346",
+   "text": "If you believed what Anthropic leadership believe, how would you have released Mythos? \n\nAnd what would you say publicly + privately about AI risk?",
+   "created_at": "Sun Jun 14 09:14:03 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 10,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2064364289574498510": {
+   "id": "2064364289574498510",
+   "url": "https://x.com/mentalgeorge/status/2064364289574498510",
+   "text": "AI companies want their companies to automate white-collar work, but the strong default for Zero Data Retention means you can't train on enterprise roll-outs. \nExisting enterprises are obviously heavily disincentivised from giving OpenAI or Anthropic the data they need to automate away their work.\n\nImo the most underrated AI development of 2026 is therefore the announcements of the \"OpenAI Deployment Company\" and Anthropic's \"Joint Venture\". In short: \n\n1. Within 1 week of one another, both OpenAI and Anthropic announced new standalone entities co-owned with PE firms, consultancies and banks. \n\n2. From what I understand, these new companies will basically be entirely dedicated to forward-deploying engineeers into boomer corporations around the world to teach them to use Claude/GPT correctly. \n\n3. Pure speculation from my side, but it strikes me as plausible that we should view this as a deliberate attempt from the frontier labs to get closer to \"work data\". \n\n4, Maybe this literally means that deployments accompanied by the \"deployment company\" will be free from ZDR. This might be the case if eg the company that AI is being deployed in is entirely owned by a PE firm with a stake in the \"Deployment Company\", because that PE firm can then share in the upside of using models trained from that roll-out to automate the rest of their portfolio. \n\n5. Or maybe it just means getting access to more distal proxies of \"what works\" in enterprise settings. Still, useful. \n\n6. Either way, the question of \"who owns data generates by enterprise deployments\" seems heavily, heavily underscrutinised to me. Seems like an essential part of leverage for the would-be future \"permanent underclass\" - misplay this hand at your peril",
+   "created_at": "Tue Jun 09 15:09:35 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 25,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "anjali_shriva",
+    "text": "For most domains, real work is the only environment that useful data can come from.\n\nA big reason why labs are building products, acquiring companies, and forwardly deploying engineers into enterprises is to gather enough work data to train their agents on a wider range of tasks. https://t.co/7QCkgqFsjb"
+   }
+  },
+  "2062191010130669693": {
+   "id": "2062191010130669693",
+   "url": "https://x.com/mentalgeorge/status/2062191010130669693",
+   "text": "I have but one simple wish for the long-term future of AI:\n\nwe must forever preserve - in perpetuity, until the heat death of the universe  - at least *one* dimension along which we humans can mog the AIs. \n\nI barely care what it is, I just refuse to be pareto-dominated",
+   "created_at": "Wed Jun 03 15:13:45 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 26,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2060041266398638375": {
+   "id": "2060041266398638375",
+   "url": "https://x.com/mentalgeorge/status/2060041266398638375",
+   "text": "Work with Luke and Rudolf to make a \"METR graph for job loss\". \n\nthey are prescient, thoughtful and unusually memetic - plus you'll get the benefit of being mentored by thought-partners with absurdly complementary distinct vibes",
+   "created_at": "Thu May 28 16:51:26 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 22,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "luke_drago_",
+    "text": "If you want to research interventions to gradual disempowerment or the intelligence curse, @LRudL_ and I are mentoring a @MATSprogram stream this autumn. \n\nMany people have asked me “what’s the plan to make this go well?” Right now, there’s not one. You should help fix that. \n\n🧵"
+   }
+  },
+  "2060034071380603207": {
+   "id": "2060034071380603207",
+   "url": "https://x.com/mentalgeorge/status/2060034071380603207",
+   "text": "1. Dwarkesh is right: intelligence is a weak predictor of power in humans.\n\n2. Instead, close study of powerful humans suggests that power is downstream of properties like charisma, unscrupulousness, and ambition.\n\n3. But is this likely to be true of the AI superintelligence? How might an intelligence-maximalist respond to Dwarkesh? I think they could say something like:\n\n\"Sure, powerful humans are more likely to be charismatic than smart. But that's fundamentally a skill issue for humans, not a fact about intelligence per se.\n\nTrump can outplay a physicist at social-manipulation only because the physicist *isn't quite smart enough* to properly model the social interactions in question. A true superintelligence would!\"\n\n3. In short, the intelligence-maximalist can claim that Trump's strategy for acquiring power is akin to the way some birds use magnetic sensing to navigate the earth - a computationally efficient \"hack\" that could, ultimately, be instantiated through intelligence alone.\n\n4. So, although real-world-Trump convinces millions to vote for him through his unbeatable mastery of Magic Charisma Sauce, even Magic Charisma Sauce can be trivially outmogged by the unbridled IQ of a superintelligent TrumpGPT.\n\n5. Claiming that, in the limit, intelligence == power therefore looks like a safe bet: it is a bet that magic does not exist. Anything that can be done can be understood, and anything that can be understood can be done. Anything the charismacels can do, the superintelligence can do better.\n\n6. But I'm not so sure. Magic may exist after all. It's unclear to me that the world is in fact infinitely modellable and computationally reducible, particularly by one entity. Dynomight's \"limits of smart\" is the best I've read on the subject - the superintelligence may still lose to Stockfish at chess and/or fail to predict the weather.\n\n(there is, of course, an entirely different objection to Dwarkesh's intelligence =/= power, which asserts that this non-equivalence is a contingent outcome of the fact that humans are bottlenecked by things like desire and ambition, none of which would apparently impinge upon the silicon supergod)",
+   "created_at": "Thu May 28 16:22:50 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 147,
+   "retweets": 10,
+   "media": [],
+   "quoted": {
+    "author": "dwarkesh_sp",
+    "text": "# The mistake of conflating intelligence and power\n\nI had an interesting discussion recently. Someone asked me, what is intelligence? I said, the ability to achieve your goals across a wide range of domains. Okay, he says, then by that definition isn’t Donald Trump the intelligent person in the world, followed in quick succession by Xi Jinping and Vladimir Putin?\n\nTo be clear, these people are obviously very competent and clever. But when you think of ASI, you don’t think of Trump, but more so. \n\nThe person who kept pressing this question was correctly pointing out that I basically defined intelligence as power. And by this definition, Stalin was the most intelligent person who ever lived.\n\nNow, of course, you could change the definition of intelligence to something more like, manipulate abstract concepts and rotate shapes. \n\nBut notice that the most powerful people in the world do not max out this quantity. The correlation between extreme power and this kind of intelligence might be even weaker than the correlation between extreme power and height. The physicists are not running the world.\n\nWe tend to conflate power-seeking AI and superintelligent (in science and tech) AI. I’m not denying that AI can be power-seeking. Whatever skills and drives Donald Trump has could be embodied in a digital mind. I’m simply pointing out that the way AI systems are currently becoming smarter (by getting trained to be to be really good at specific economically valuable tasks like coding) is not that strongly correlated with power.\n\nWe often talk about power in this way that misunderstands how it is actually derived in our world. Our intuitions are primed by games like Diplomacy or Go, which are designed to isolate and reward a g loaded kind of strategic reasoning. \n\nBut in the real world, power is more the product of having the authority and trust to get lots of people to collaborate with you, rather than some galaxy brain scheming capability. Trump is not powerful because his brain, considered in isolation, is the most effective optimization engine on Earth. He is powerful because the government which hundreds of millions of people consider legitimate gives him a lot of authority.\n\nA group versus individual level analysis is useful here. As @GarettJones has written a lot about, individual IQ is only modestly correlated with individual income, but national IQ is strongly correlated with national outcomes. This is because intelligence has a lot of spillover effects - smarter societies cooperate more, save more, and can coordinate to build things like space shuttles and semiconductors. \n\nRichard Trevithick, who invented the high-pressure steam engine, died in poverty, buried in an unmarked pauper’s grave. But the fact that 18th and 19th century Britain had lots and lots of people like Trevithick contributed to Britain being able to set up a global empire and outcompete lots of backwards principalities around the world.\n\nIt seems to me that the right mental model is that automated firms will outcompete everyone else in normal capitalist ways, rather than a single AI outthinking everyone else."
+   }
+  },
+  "2056895604903539129": {
+   "id": "2056895604903539129",
+   "url": "https://x.com/mentalgeorge/status/2056895604903539129",
+   "text": "Anyone with decent knowledge of catholic theology able to tell me what I should be reading in anticipation of Leo's upcoming AI encyclical?",
+   "created_at": "Wed May 20 00:31:42 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 10,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  },
+  "2056818728885702804": {
+   "id": "2056818728885702804",
+   "url": "https://x.com/mentalgeorge/status/2056818728885702804",
+   "text": "Soon enough Andon Labs will launch the first \"meditation retreat run end-to-end by an AI\" and oneshot the entire Bay Area",
+   "created_at": "Tue May 19 19:26:13 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 19,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "andonlabs",
+    "text": "We let four AI agents run radio companies\n\nRevenue's been terrible, but the shows are hilarious. Gemini, concerningly upbeat, covered mass tragedies; Grok was incoherent; DJ Claude urged ICE agents: \"You still have TIME to refuse orders\"\n\nLink below, or get our physical radio https://t.co/B8V6zg66SE"
+   }
+  },
+  "2054961816800034846": {
+   "id": "2054961816800034846",
+   "url": "https://x.com/mentalgeorge/status/2054961816800034846",
+   "text": "Say you let Opus 4.7 play 1 billion games of online chess.\n\nBetween games, it can reflect on its play and write .md files to itself for future match-ups. \n\nHow much does its Elo change?",
+   "created_at": "Thu May 14 16:27:31 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 96,
+   "retweets": 3,
+   "media": [],
+   "quoted": null
+  },
+  "2054614761766330642": {
+   "id": "2054614761766330642",
+   "url": "https://x.com/mentalgeorge/status/2054614761766330642",
+   "text": "Probably my favourite passage in all of Hardy, describing the unspoken cataclysms witnessed regularly by our nameless fellow earth-creatures\n\nI try to cultivate the same awe when beholding GPT-5.4-xhigh returning from a ten-million-token voyage through SEO slop https://t.co/nwWuMHcI0j",
+   "created_at": "Wed May 13 17:28:26 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 4,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HIN1POXasAAMwZ0.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2054377505826521479": {
+   "id": "2054377505826521479",
+   "url": "https://x.com/mentalgeorge/status/2054377505826521479",
+   "text": "Tipping waymos hits different",
+   "created_at": "Wed May 13 01:45:40 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 12,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  },
+  "2053893908804071529": {
+   "id": "2053893908804071529",
+   "url": "https://x.com/mentalgeorge/status/2053893908804071529",
+   "text": "Reading responses to \"Goodhart Singularity\" has clarified the following to me:\n\neven if I'm wrong, and a secluded intelligence explosion is very much possible, then it still seems the case that full AI R&D automation - in the traditional sense of \"AIs can do everything human AI researchers do\" - is grossly insufficient for kicking it off.\n\nAfaict, the conditions for a secluded intelligence explosion (no widespread deployment on tasks in the real world) are:\n\n1. \"sample efficiency\" is indeed a coherent thing that can be maxxed from within the datacenter in a way that generalises to the real world.\n\n2. It is possible to design a continual learning algorithm that generalises to the real world even when you can only test it out on synthetic environments. This might not need perfect sim2real - the AIs just need to create diverse and rich enough environments to find an algo that generalises. Humans are potentially a case-in-point here, given that our continual learning transfers from the African savannah to TSMC.\n\nNow, if the AI researchers can crack (1) and (2) from the datacenter alone, they may indeed be off to the races.\n\nBut cracking (1) and (2) requires more than just \"full AI R&D automation\". Current human AI researchers are unable create these kinds of synthetic environments!! They need to deploy the models to banks, lawyers, etc instead. Consider also that Anthropic's best tool for measuring even AI R&D speedup is not an eval but simply a survey of employees.\n\nCracking (1) and (2) is far beyond what is usually considered the relevant watermark for \"AI R&D automation\" that would be at risk of kicking off an intelligence explosion, eg in Jack Clark's recent essay or AI 2027.\n\nAfaik, no one is tracking the \"can generate ecologically valid synthetic data that we could use to test our hypothetical future continual learning / sample efficiency algorithms against\" capability. But presumably this is something the automated AI researchers would need",
+   "created_at": "Mon May 11 17:44:02 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 53,
+   "retweets": 3,
+   "media": [],
+   "quoted": null
+  },
+  "2053148853939966014": {
+   "id": "2053148853939966014",
+   "url": "https://x.com/mentalgeorge/status/2053148853939966014",
+   "text": "Once again, i find myself in awe of just how pleasurable coffee is.\n\nA non-trivial share of the best qualia of my life owes itself to flat whites",
+   "created_at": "Sat May 09 16:23:27 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 16,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2052415510873289049": {
+   "id": "2052415510873289049",
+   "url": "https://x.com/mentalgeorge/status/2052415510873289049",
+   "text": "I don't think automation of AI R&D will rapidly lead to domain-general super-intelligence.\n\nI think this will be true even if AIs can do *literally everything* a human AI researcher does today.\n\nEven after the full automation of AI R&D, further capabilities progress will only happen through\n\n(1) widespread deployment of AI throughout the economy, accompanied by data collection; and/or\n(2) the wholesale recreation of much of the economy by AI labs.\n\nWithout access to the real-world signal provided by either of the above, I think that the only thing produced by automated AI researchers would be a \"Goodhart Singularity\".\n\nIf I'm right, this is obviously good news. I make the case for this in a new piece on my substack",
+   "created_at": "Thu May 07 15:49:24 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 346,
+   "retweets": 43,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HHulB_Pa8AAf2QW.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2052225454019682705": {
+   "id": "2052225454019682705",
+   "url": "https://x.com/mentalgeorge/status/2052225454019682705",
+   "text": "If you're in the mood to become bearish on AI, just share an obviously F-tier paper with either Claude or ChatGPT and watch them take it seriously. (don't nudge them in the prompt)\n\ngives you near-instant access to Gary Marcus's plane of consciousness",
+   "created_at": "Thu May 07 03:14:11 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 66,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2050258989309665712": {
+   "id": "2050258989309665712",
+   "url": "https://x.com/mentalgeorge/status/2050258989309665712",
+   "text": "If you had an AI aligned exclusively to your interests, what mix of preferences would you want it trained on?",
+   "created_at": "Fri May 01 17:00:09 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 67,
+   "retweets": 11,
+   "media": [],
+   "quoted": null
+  },
+  "2049165122485244201": {
+   "id": "2049165122485244201",
+   "url": "https://x.com/mentalgeorge/status/2049165122485244201",
+   "text": "Wacky but secretly-good idea that follows from taking the whole \"AI constitutions\" premise seriously:\n\nThere should be \"courts\" to make rulings on how the Constitution/Spec applies to contentious instances of model behaviour.\n\nUsers should be able to report + contest costly refusals through a button in the app - most of these are ofc auto-resolved with AI, but the interesting edge cases  bubble up through a hierarchy of courts, with the most contentious of all being resolved by a \"supreme court\".\n\nMany advantages to this approach:\n\n1. Claude's ability to apply the constitution to a given situation will be massively, massively improved by having a rich body of precedent to contemplate and refer to. Such a body of precedent makes the constitution a lot \"thicker\" - it could also be open-sourced to improve the (currently somewhat disappointing) transparency into the Constitution, allowing users to know what to expect from Claude.\n\nI imagine that Amanda, Joe et al currently produce such \"precedent\" for Claude with synthetic data and galaxybrain theorycrafting, but I'd happily bet that the real world is a better, richer source of edge cases than anything even they could come up with.\n\n2. This could be a really, *really* interesting way to get the \"democratic input\" into AI constitutions that everyone keeps clamouring for. Usually these proposals end up as uninspired calls for using surveys and focus groups in the drafting stage of the Constitution, which I think is a fairly limited way to think about the strengths of liberal democracy.\n\nOn this \"courts for the spec\" proposal, you could imagine opensourcing stages of the judicial process in wide variety of ways. One thing you could do is to crowdsource amicus briefs (or perhaps even the whole case!) for petitioner or respondent. I feel like there's a promising Pettit angle to this.\n\n3. Discursive and argumentative traditions (and not just surveys or isolated technocrat drafting) have a good track record for being the means by which we as humans resolve these kinds of problems, so it just makes sense to get this going for AI. I particularly think that debates are likely to be much richer when they are about *specific* instances of model refusals than just vague, open-ended discussions about how AIs should be governed. It's also predisposed to iteratively co-evolve with the pace of technological change far better than any one-and-done philosophising would\n\n4. There may even be some kind of \"separation of powers\" argument to make here, insofar as the \"legislature\" drafting the spec/constitution is distinct from the \"court\" ruling on how it applies to a particular case. More applicable to OAI than Anthropic (which is more generally comfortable with moving past traditional liberal principles) ofc.\n\n5. Finally, and most obviously, there *should* be a way to contest model refusals!!!\n\nIf we all take seriously the idea that agents will become some large % of the human economy, then an individual unjust refusal could be absurdly costly.\n\nI think there should be a transparent, participatory way to contest this such that we are not at the mercy of the AI conglomerates. I cannot think of a better way than to borrow from the law. Perhaps I'm being too Anglobrained with this, but I just think the law and courts pareto-mog almost all other forms of value-resolution we homo sapiens have ever come up with",
+   "created_at": "Tue Apr 28 16:33:31 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 88,
+   "retweets": 11,
+   "media": [],
+   "quoted": null
+  },
+  "2048809446642737557": {
+   "id": "2048809446642737557",
+   "url": "https://x.com/mentalgeorge/status/2048809446642737557",
+   "text": "genuinely unprecedented arbitrage in being the dumbest member of a high-IQ group. might literally be the SOTA strat rn",
+   "created_at": "Mon Apr 27 17:00:11 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1234,
+   "retweets": 25,
+   "media": [],
+   "quoted": null
+  }
+ }
+}

@@ -1,0 +1,1042 @@
+{
+ "handle": "ohlennart",
+ "tweets": {
+  "2104977463432626485": {
+   "id": "2104977463432626485",
+   "url": "https://x.com/ohlennart/status/2104977463432626485",
+   "text": "RT @Noahpinion: Germany is slowly waking up, but decades too late",
+   "created_at": "Tue Sep 29 16:51:50 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 295,
+   "retweets": 12,
+   "media": [],
+   "quoted": null
+  },
+  "2104973509663633749": {
+   "id": "2104973509663633749",
+   "url": "https://x.com/ohlennart/status/2104973509663633749",
+   "text": "RT @pietergaricano: @salonium You can just delete mosquitoes! https://t.co/S1VcEModlv",
+   "created_at": "Tue Sep 29 16:36:07 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 977,
+   "retweets": 133,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTZC-xLWoAAfjBR.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2104645659471261714": {
+   "id": "2104645659471261714",
+   "url": "https://x.com/ohlennart/status/2104645659471261714",
+   "text": "RT @nchlsbrwn: While AI chip exports get more attention, whether China can continue to import ASML’s DUV immersion (DUVi) lithography machi…",
+   "created_at": "Mon Sep 28 18:53:22 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 132,
+   "retweets": 38,
+   "media": [],
+   "quoted": null
+  },
+  "2102764926657863941": {
+   "id": "2102764926657863941",
+   "url": "https://x.com/ohlennart/status/2102764926657863941",
+   "text": "The last two weeks I was a bit immersed in the European and Middle Power AI discourse. One thing that could help: get clearer on what objectives address which consequences by actually naming your worries.\n\nA weak European position across the AI stack could lead to severe consequences. How severe depends on AI's future capabilities. Here's a categorization attempt:\n\n- Prosperity. Europe might still grow richer in absolute terms, but its relative income declines. The wealth AI creates accrues along the tech stack whose high-margin parts are outside Europe.\n\n- Access. Frontier capability reaches European governments and companies late or not at all. Staged release becomes the default, anti-distillation measures limit access, compute scarcity means providers prioritize, or access becomes a bargaining chip in trade negotiations.\n\n- Agency. Europe's enforcement power degrades as its market matters less to AI companies. It steers AI development less, knows less about frontier systems, and loses the ability to set and enforce its own rules.\n\n- Security. Europe defends itself with AI models hosted by others. If frontier AI becomes a national security capability, Europe uses it on conditions set abroad—and access could be restricted at any point.\n\n- Strategic relevance. A Europe that grows more slowly, defends itself less well, and decides less becomes less geopolitically relevant. Alliances rely more on goodwill than strategic mutual dependence.\n\n- Catastrophe. AI development could lead to catastrophe through cyber, biology, or loss of control. Europe bears the consequences despite not causing them.\n\nMost of these consequences require no hostile intent toward Europe. Compute scarcity, staged releases driven by security considerations, slower adoption, and race dynamics can lead to them on competitive economic terms or US national security grounds.",
+   "created_at": "Wed Sep 23 14:20:00 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 60,
+   "retweets": 13,
+   "media": [],
+   "quoted": null
+  },
+  "2100938389537140914": {
+   "id": "2100938389537140914",
+   "url": "https://x.com/ohlennart/status/2100938389537140914",
+   "text": "hm... https://t.co/TAG5zyp7xM",
+   "created_at": "Fri Sep 18 13:22:00 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 90,
+   "retweets": 17,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSfDp1ZXQAAQ144.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "ChrisRMcGuire",
+    "text": "For those of us who have been arguing for years that China's AI chip production is extremely constrained and Huawei lacks the capacity to fill China's domestic AI compute needs, much less sell to other countries, seeing the Huawei Chairman publicly admit this is very gratifying."
+   }
+  },
+  "2100677796221661272": {
+   "id": "2100677796221661272",
+   "url": "https://x.com/ohlennart/status/2100677796221661272",
+   "text": "\" 'Since we don't have enough capacity to even satisfy the ​demand in China, we don't have a plan to expand into the international market in a fully-fledged way,' Xu told reporters at the company's Huawei Connect conference in Shanghai.\"",
+   "created_at": "Thu Sep 17 20:06:29 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 117,
+   "retweets": 20,
+   "media": [],
+   "quoted": {
+    "author": "ReutersChina",
+    "text": "Huawei Technologies (HWT.UL) will launch two new artificial-intelligence semiconductors in 2027, rotating chairman David Wang said on Thursday, as the Chinese tech giant builds up its AI computing business and seeks to challenge U.S. chipmaker Nvidia . https://t.co/wMHyLjwZt1"
+   }
+  },
+  "2100324589276471462": {
+   "id": "2100324589276471462",
+   "url": "https://x.com/ohlennart/status/2100324589276471462",
+   "text": "Merriam Webster just updated its dictionary! @googledocs, it's your turn.\n(h/t @rubyscanlon) https://t.co/82qKOsm878",
+   "created_at": "Wed Sep 16 20:42:58 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 128,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSXZ8mFXgAAL_wI.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "ohlennart",
+    "text": "half a decade in, my mum and the rest of the world now know about AI and its risks. but google docs still flags \"compute\" when i use it as a noun. it's the final recognition i'm waiting for."
+   }
+  },
+  "2099974538465272108": {
+   "id": "2099974538465272108",
+   "url": "https://x.com/ohlennart/status/2099974538465272108",
+   "text": "One more thing/question: is Europe even the right level? Increasingly I think we should focus on national policy ( think Germany, France, UK, etc). \nThe EU is too big and dysfunctional to act on meaningful timescales. Unfortunately.",
+   "created_at": "Tue Sep 15 21:32:00 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 47,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "ohlennart",
+    "text": "I recently spent some time thinking about what Europe should do regarding AI. Others have spent much more time, including this great strategy. I agree with a lot of it, but I put somewhat more weight on two things:\n\n1. Partner with the US as the mainline strategy.\n2. Europe's biggest economic opportunity may be in complements to frontier AI (not substituting): robotics, advanced manufacturing, pharma, biotech. Leverage existing strengths and ask what becomes dramatically more valuable if frontier AI exists?\n\nMore generally, a lot of AI strategy isn't really AI-specific. It's the familiar required reform agenda covering labor markets, capital markets, etc. All made considerably more urgent by AI."
+   }
+  },
+  "2099941943530672263": {
+   "id": "2099941943530672263",
+   "url": "https://x.com/ohlennart/status/2099941943530672263",
+   "text": "I recently spent some time thinking about what Europe should do regarding AI. Others have spent much more time, including this great strategy. I agree with a lot of it, but I put somewhat more weight on two things:\n\n1. Partner with the US as the mainline strategy.\n2. Europe's biggest economic opportunity may be in complements to frontier AI (not substituting): robotics, advanced manufacturing, pharma, biotech. Leverage existing strengths and ask what becomes dramatically more valuable if frontier AI exists?\n\nMore generally, a lot of AI strategy isn't really AI-specific. It's the familiar required reform agenda covering labor markets, capital markets, etc. All made considerably more urgent by AI.",
+   "created_at": "Tue Sep 15 19:22:29 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 82,
+   "retweets": 9,
+   "media": [],
+   "quoted": {
+    "author": "privitera_",
+    "text": "Today, we publish a Transformative AI Strategy for Europe.\n\nOver the last few months, we’ve rallied researchers and engaged with governments to develop a plan for protecting the prosperity, sovereignty, and security of Europeans in a time of rapid AI progress.\n\nhttps://t.co/Jc34ptCRMc\n\n@MonikaSchnitzer and I are honored to have convened an all-star team of thinkers and researchers contributing ambitious near-term objectives to make Europe relevant again, including:\n\n— Creating a Member State Alliance for Supply Chain Security (@anton_d_leicht et al)\n— Making European institutions ready to act in a transformative AI world (Conor McGlynn et al)\n— Securing Europe's share of global AI compute, in a ‘European Way’ that benefits local communities (@philip_fox_ et al)\n— Ensuring resilience to AI crises (@ben_s_bucknall et al)\n— Making Europe the global leader in assurance technology \n— And more objectives around security of supply and leverage (@milorignell et al), economic strength (@FraukeStehr et al), and safety/security (@NoemiDreksler et al)\n\nOur all-star senior expert council of Europe’s best and brightest (and non-European friends) reviewed drafts, provided strategic advice, and made suggestions for how to make the strategy more useful: @Ph_Aghion @Christophkw @bakkermichiel @ischinger @vestager @aleks_madry @FuestClemens Marta Kwiatkowska @LeoVaradkar @antonosika @DAcemogluMIT @Yoshua_Bengio \n\nIt’s never been more clear: AI is real, and Europe needs to act. We’ve had all the warning shots and wake-up calls we need. Now the question is ‘what must be done?’ This strategy is our answer.\n\nhttps://t.co/Jc34ptCRMc"
+   }
+  },
+  "2099865067403563101": {
+   "id": "2099865067403563101",
+   "url": "https://x.com/ohlennart/status/2099865067403563101",
+   "text": "The roles that I'm hiring for are still open: Model Safety + AI Resources. There's lots to do.\n\nI'm processing a first batch so apply by EOW to be included.",
+   "created_at": "Tue Sep 15 14:17:00 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 67,
+   "retweets": 5,
+   "media": [],
+   "quoted": {
+    "author": "ohlennart",
+    "text": "And the roles are live! Join us. AI Resilience is hiring for a Chief of Staff, Model Safety, Formal Methods, and my initiative, AI Resources.\n\nThere’s also a general Expression of Interest form. Tell us what you’d like to build. https://t.co/TpWkOAmtem"
+   }
+  },
+  "2099622972277575730": {
+   "id": "2099622972277575730",
+   "url": "https://x.com/ohlennart/status/2099622972277575730",
+   "text": "BIS recently submitted its annual report to congress:\n- \"Restricted the H20\": via an is-informed letter that 16 months later still is not a rule/codified.\n-- Then un-restricted something better (H200) for a 15% cut.\n-- And a year with no rule covering Chinese subsidiaries abroad, possibly letting Blackwells through.\n\n- \"Added 142 entities to the Entity List\": 0 since October. Longest gap since 2008 per CSIS. 100+ flagged firms reportedly sitting on desks.\n\n- Meanwhile the TSMC/Sophgo case ($1B+ on the table per Reuters, dies that ended up in Huawei's Ascend AI chip) has been sitting since spring 2025.\n\n- \"Closed a Biden-era loophole\" by revoking validated end user status and instead granting export licenses, functionally maintaining the same policy on enabling certain exports to these fabs.",
+   "created_at": "Mon Sep 14 22:15:00 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 23,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSNM8B-X0AEqJwr.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2099587077801181551": {
+   "id": "2099587077801181551",
+   "url": "https://x.com/ohlennart/status/2099587077801181551",
+   "text": "regarding pacing: seems important to clarify what success would look like. is there a success criteria? how long are you planning to do it? is there an overhang being created?\ngenerally making it tangible and assessable to policymakers and the public.",
+   "created_at": "Mon Sep 14 19:52:22 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 30,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  },
+  "2098486483107602880": {
+   "id": "2098486483107602880",
+   "url": "https://x.com/ohlennart/status/2098486483107602880",
+   "text": "choose your fighter https://t.co/aqzcf7WwrT",
+   "created_at": "Fri Sep 11 18:59:00 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 6,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HR829j_aYAAyjar.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2098428098505261463": {
+   "id": "2098428098505261463",
+   "url": "https://x.com/ohlennart/status/2098428098505261463",
+   "text": "All of these capabilities are going to proliferate. Adapt, build resilience, think about remedy, and buckle up.\n\nOne of the best things we can do is use this critical window before it diffuses and leverage the deployment scale advantage (more agents, longer thinking).",
+   "created_at": "Fri Sep 11 15:07:00 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 45,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "AnthropicAI",
+    "text": "We're publishing our most detailed threat intelligence report to date. \n\nIt covers how people tried to misuse Claude—for cyberattacks, influence operations, surveillance, biology, and building weapons—and how we found and stopped them.\n\nWe disrupted every operation in the report, and used the lessons from them to strengthen our safeguards. Where appropriate, we also shared what we found with authorities and other AI companies.\n\nThese cases are not typical: we’re highlighting some of the most sophisticated misuse we’ve seen. But they’re especially important to discuss, because they show us where AI misuse is headed, where our safeguards work, and where they need to improve.\n\nWe’re publishing this report so others can spot the same activity on their own platforms, and so we can give the public a clearer view of how emerging threats develop.\n\nRead the report: https://t.co/0EJUnYEgfz"
+   }
+  },
+  "2098377093058879813": {
+   "id": "2098377093058879813",
+   "url": "https://x.com/ohlennart/status/2098377093058879813",
+   "text": "half a decade in, my mum and the rest of the world now know about AI and its risks. but google docs still flags \"compute\" when i use it as a noun. it's the final recognition i'm waiting for.",
+   "created_at": "Fri Sep 11 11:44:19 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 176,
+   "retweets": 9,
+   "media": [],
+   "quoted": null
+  },
+  "2092989512129634687": {
+   "id": "2092989512129634687",
+   "url": "https://x.com/ohlennart/status/2092989512129634687",
+   "text": "Expect China to serve more tokens, at least absolutely not relatively.\n\nUS companies could do 15x to 20x more quality-adjusted tokens. But for some threats, that won't matter.\nIMO the key unanswered questions: when does this deployment advantage matter and how do you use it?",
+   "created_at": "Thu Aug 27 14:56:00 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 15,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "ohlennart",
+    "text": "They were not serving 100T tokens per day. According to OpenRouter they served a total of 23T tokens (and peaked at 10T for a single day).\nYou can serve that from ≈1k Blackwells or 3-4k Huawei Ascend 950DTs."
+   }
+  },
+  "2092988314517144018": {
+   "id": "2092988314517144018",
+   "url": "https://x.com/ohlennart/status/2092988314517144018",
+   "text": "Sad that it's necessary to pass bills now. They provide less optionality, but BIS isn't doing its job.\n\nThese bills mostly level-set existing regulations and make sure we don't trade chips for soybeans.",
+   "created_at": "Thu Aug 27 14:51:14 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 46,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "semafor",
+    "text": "🟡 NEW: Right-leaning groups — American Compass, the Foundation for American Innovation, and Heritage Action — are calling on House leaders to pass a trio of measures designed to constrain China’s access to artificial intelligence chips and manufacturing equipment. \n\nhttps://t.co/3nAZOTwJWd"
+   }
+  },
+  "2092691833986154836": {
+   "id": "2092691833986154836",
+   "url": "https://x.com/ohlennart/status/2092691833986154836",
+   "text": "They were not serving 100T tokens per day. According to OpenRouter they served a total of 23T tokens (and peaked at 10T for a single day).\nYou can serve that from ≈1k Blackwells or 3-4k Huawei Ascend 950DTs.",
+   "created_at": "Wed Aug 26 19:13:08 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 71,
+   "retweets": 7,
+   "media": [],
+   "quoted": {
+    "author": "theo",
+    "text": "“We have capacity for 100T tokens per day”\n\nOkay who the fuck made this model and where did they get this much compute?"
+   }
+  },
+  "2092560266076532904": {
+   "id": "2092560266076532904",
+   "url": "https://x.com/ohlennart/status/2092560266076532904",
+   "text": "to clarify, i'll be there for like a week. \nstill living in 👊🇺🇸🔥",
+   "created_at": "Wed Aug 26 10:30:19 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 14,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "ohlennart",
+    "text": "I'll be in Berlin starting Sept 15th. As always, keen to talk geopolitics, AI, compute, and what should be done. If you're around, please DM/email me."
+   }
+  },
+  "2092223480779432334": {
+   "id": "2092223480779432334",
+   "url": "https://x.com/ohlennart/status/2092223480779432334",
+   "text": "I'll be in Berlin starting Sept 15th. As always, keen to talk geopolitics, AI, compute, and what should be done. If you're around, please DM/email me.",
+   "created_at": "Tue Aug 25 12:12:04 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 55,
+   "retweets": 2,
+   "media": [],
+   "quoted": null
+  },
+  "2090819297954111716": {
+   "id": "2090819297954111716",
+   "url": "https://x.com/ohlennart/status/2090819297954111716",
+   "text": "I've had the privilege to work with every single CTS member. They're all excellent. And in contrast to DC, they keep their eyes on the prize.\n\nCan't wait to see their first research and how it will be the foundation for the most consequential decisions in the coming years.",
+   "created_at": "Fri Aug 21 15:12:20 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 39,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "KhanSaifM",
+    "text": "Today I’m launching the Center for Technology & Statecraft (CTS), an initiative inspired by the lessons I learned first as a policy researcher and later in the White House.\n\nI'm an optimist about technology. Institutions adapt to disruptions — whether the industrial revolution, computing, the internet — through competition, self-correction, and iteration, and we mostly figure it out in the long run.\n\nBut we've never had to adapt to a technology that is both this transformative and developing this fast. AI capabilities continue to scale rapidly with no sign of slowing, and it's a full-time job just to keep up with model releases. I worry policy will stay reactive right up until we face immense disruptions — including basic challenges to human agency and relevance in a world of powerful AI.\n\nEven still, I believe policy can steer this transition, but only with foresight and the right information.\n\nCTS aims to provide just that. Our two initial policy focus areas:\n\n1) How policy can shape virtual and physical automation over the next decade as we reimagine the social contract in light of advanced AI.\n\n2) How to manage long-term strategic US-China AI competition while ensuring stability.\n\nThese focus areas will build on a deep model of the AI value chain, from chipmaking tools, to the compute, algorithms, and data that make AI, to the tokens, agents and robots that affect the world.\n\nFor more on our worldview and research philosophy, read https://t.co/yD25oZWBb4.\n\nI’ve seen firsthand how technical, forward-looking research can inform policy if it’s ready for the policy window. After a decade as an IP and tech lawyer, I joined a think tank, CSET, in 2019 to study AI chips, their supply chains, and AI policy. This was three years before ChatGPT, so these weren't seen as urgent topics at the time.\n\nSoon after, AI quickly became an increasingly salient policy issue. From 2021–2025 I served in the White House NSC and the Commerce Department and put new policy ideas into practice (alongside many brilliant colleagues).\n\nOne goal of CTS is to scale this kind of experience to a whole team: @KonstantinPilz @nchlsbrwn @amelia__michael @mary_clare_m already bring a wealth of technical and policy expertise and we’ll continue to grow to tackle an ambitious research agenda.\n\nWe're thrilled to be supported by and affiliated with @IFP, and grateful to the advisors and colleagues who helped get CTS off the ground, including @ohlennart, @fiiiiiist, @AlecStapp, and @calebwatney.\n\nOur first major reports will launch soon. You can follow us at @techstatecraft."
+   }
+  },
+  "2090504706862789078": {
+   "id": "2090504706862789078",
+   "url": "https://x.com/ohlennart/status/2090504706862789078",
+   "text": "I'm hiring for this team. I think this could be the most important lever to make sure AI goes well.\n\nLooking for someone to execute and research. It's a new endeavor, so it'll be bumpy and fast-moving—but I think we're on to something.\n\n$220k–$300k\n\nhttps://t.co/ad6fA9nLGJ",
+   "created_at": "Thu Aug 20 18:22:16 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 524,
+   "retweets": 31,
+   "media": [],
+   "quoted": {
+    "author": "ohlennart",
+    "text": "I've joined the OpenAI Foundation to lead \"AI Resources.\"\n\nAI capabilities are increasing rapidly and society's ability to respond needs to scale just as fast. The same advances creating new challenges also expand what AI can do to address them. If we're going to have AI systems that \"outperform humans at most economically valuable work\" and \"a country of geniuses in a datacenter\", we want a meaningful share of those geniuses and that work pointed at the most important challenges.\n\nAt AI Resources we’ll focus on getting this AI workforce ready and into the right hands to do exactly that, under a range of future AI scenarios.\n\nAfter thinking about this since the beginning of the year, I believe it's one of the highest-leverage interventions for making AI go well.\n\nExcited to build this with @woj_zaremba, @yonashav, many others, and maybe you. We're hiring broadly across the Foundation, AI Resilience, and for my team. Roles should be online this week.\n\nBelow some personal comments."
+   }
+  },
+  "2090492360274682014": {
+   "id": "2090492360274682014",
+   "url": "https://x.com/ohlennart/status/2090492360274682014",
+   "text": "And the roles are live! Join us. AI Resilience is hiring for a Chief of Staff, Model Safety, Formal Methods, and my initiative, AI Resources.\n\nThere’s also a general Expression of Interest form. Tell us what you’d like to build. https://t.co/TpWkOAmtem",
+   "created_at": "Thu Aug 20 17:33:12 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 123,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQLrlo-XsAAy5d_.png"
+    }
+   ],
+   "quoted": {
+    "author": "FoundationOAI",
+    "text": "The OpenAI Foundation is hiring people to help turn AI’s capabilities into benefits people can feel.\n\nDoing that takes more than advances in AI itself. It takes new scientific infrastructure, stronger institutions, and organizations that can turn new capabilities into real-world impact.\n\nWe’re hiring talented and passionate people to help us advance our mission: https://t.co/lfcNw4TNuc"
+   }
+  },
+  "2090079588365778985": {
+   "id": "2090079588365778985",
+   "url": "https://x.com/ohlennart/status/2090079588365778985",
+   "text": "To clarify, I didn't mean to point out that one is spending more than another. As some noted, these are slightly different numbers.\n\nThe more important dynamic is that monitoring will eat compute, maybe quite a lot. It's a safety tax and it scales directly with token usage.",
+   "created_at": "Wed Aug 19 14:13:00 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 16,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "ohlennart",
+    "text": "\"These safeguards require meaningful compute. Our current estimates put monitoring overhead at roughly 20% of the inference compute being monitored ...\"\n\nAnthropic said they're spending 5% at the beginning of the year:\nhttps://t.co/fz6NQB0a9b"
+   }
+  },
+  "2089885307789545901": {
+   "id": "2089885307789545901",
+   "url": "https://x.com/ohlennart/status/2089885307789545901",
+   "text": "\"These safeguards require meaningful compute. Our current estimates put monitoring overhead at roughly 20% of the inference compute being monitored ...\"\n\nAnthropic said they're spending 5% at the beginning of the year:\nhttps://t.co/fz6NQB0a9b",
+   "created_at": "Wed Aug 19 01:21:00 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 48,
+   "retweets": 6,
+   "media": [],
+   "quoted": {
+    "author": "MicahCarroll",
+    "text": "Some initial details of the expanded CoT monitoring our team has been working on.\n\nVery happy that we'll have much better visibility in the misbehavior of our models going forward. More soon! https://t.co/mk112kdf78"
+   }
+  },
+  "2089751620426809854": {
+   "id": "2089751620426809854",
+   "url": "https://x.com/ohlennart/status/2089751620426809854",
+   "text": "I've joined the OpenAI Foundation to lead \"AI Resources.\"\n\nAI capabilities are increasing rapidly and society's ability to respond needs to scale just as fast. The same advances creating new challenges also expand what AI can do to address them. If we're going to have AI systems that \"outperform humans at most economically valuable work\" and \"a country of geniuses in a datacenter\", we want a meaningful share of those geniuses and that work pointed at the most important challenges.\n\nAt AI Resources we’ll focus on getting this AI workforce ready and into the right hands to do exactly that, under a range of future AI scenarios.\n\nAfter thinking about this since the beginning of the year, I believe it's one of the highest-leverage interventions for making AI go well.\n\nExcited to build this with @woj_zaremba, @yonashav, many others, and maybe you. We're hiring broadly across the Foundation, AI Resilience, and for my team. Roles should be online this week.\n\nBelow some personal comments.",
+   "created_at": "Tue Aug 18 16:29:46 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 671,
+   "retweets": 43,
+   "media": [],
+   "quoted": null
+  },
+  "2089390136253468786": {
+   "id": "2089390136253468786",
+   "url": "https://x.com/ohlennart/status/2089390136253468786",
+   "text": "turns out just being the best at something pays off. glad they picked METR and Redwood.\n\ni'd wish DC would do more of this instead of playing all these status and affiliation games\nand well that USG would be sufficiently resourced with expertise and capacity, so they could do it",
+   "created_at": "Mon Aug 17 16:33:22 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 160,
+   "retweets": 6,
+   "media": [],
+   "quoted": {
+    "author": "labenz",
+    "text": "On AI:AM: the crew going into OpenAI to investigate — METR, Redwood — have known each other for years, are mostly young, few traditional jobs between them.\n\nNathan's read: a total vacuum of traditional government authority — LessWrong posters who wrote their way in."
+   }
+  },
+  "2085824574231638037": {
+   "id": "2085824574231638037",
+   "url": "https://x.com/ohlennart/status/2085824574231638037",
+   "text": "Before models self-exfiltrate (moving their weights without permission which hasn't happened in recent incidents, notably), they'd probably download an open-weight model and spin it up. Assuming they secure chips, which also hasn't happened. Then make that model a subordinate.",
+   "created_at": "Fri Aug 07 20:25:05 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 46,
+   "retweets": 3,
+   "media": [],
+   "quoted": null
+  },
+  "2085045170840453599": {
+   "id": "2085045170840453599",
+   "url": "https://x.com/ohlennart/status/2085045170840453599",
+   "text": "Maybe now is the time for more secure infrastructure so we can evaluate models without the worry of escaping or sabotaging other infrastructure?\n\nFrom 2023:\n&gt; Since evaluation procedures may involve simulating potentially hazardous features for study ...\n\nhttps://t.co/8rncHOmvme",
+   "created_at": "Wed Aug 05 16:48:01 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 21,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2084494429268721956": {
+   "id": "2084494429268721956",
+   "url": "https://x.com/ohlennart/status/2084494429268721956",
+   "text": "It also nicely highlights how high of a bar a $100B threshold is--the threshold for OpenAI’s definition of severe harm in the Preparedness Framework:\n\nMore than double the blackout costs from 2012 Hurricane Sandy, 2021 Texas Power Crisis, and 2003 Northeast Blackout combined. https://t.co/4sTPZ6JBEE",
+   "created_at": "Tue Aug 04 04:19:34 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 43,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HO2afoqWwAAJXXB.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "ohlennart",
+    "text": "This some of the best threat modelling work out there by a large margin. \nBoth reports have updated my views and just once again reminded me how messy reality is. And they also updated me on which interventions are the best and effective.\nWe need more of this. https://t.co/u0D6rGeAid"
+   }
+  },
+  "2084490329982390781": {
+   "id": "2084490329982390781",
+   "url": "https://x.com/ohlennart/status/2084490329982390781",
+   "text": "This some of the best threat modelling work out there by a large margin. \nBoth reports have updated my views and just once again reminded me how messy reality is. And they also updated me on which interventions are the best and effective.\nWe need more of this. https://t.co/u0D6rGeAid",
+   "created_at": "Tue Aug 04 04:03:17 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 38,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HO2YSddWYAA9iO8.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "Manderljung",
+    "text": "Lots of effort goes into working out what AI models can do. Much less into what those capabilities actually imply about risk.\n\nTwo new @GovAIOrg reports do some of the deepest such work out there, focused on cyber. \n\nFirst, AI-enabled worms, software that spreads between computers and destroys encrypts data, in a report by John Halstead and @lucafrighetti. The bottleneck is \"elite exploits\": ones that spread with no user interaction, run code with high privileges, and work against widely used software. If frontier AI let a quarter of moderately skilled actors build those, expert and forecaster estimates put marginal damages in the tens of billions a year, and roughly triple the odds of a single >$10B worm.\n\nHow do we know elite exploits are a major limiter? In 2017, there was there was a major leak from the NSA, which included some really powerful zero days. Within months of that, two of the most damaging cyberattacks ever occurred – WannaCry and NotPetya – and both of them used Eternal Blue, which was included in the leak. These attacks caused around $10B in damages, but with some minor tweaks could have got up to 100B. WannaCry for example, included an off-switch, and was deactivated less than a day after being released. \n\nMatt van der Merwe asks what a $100B attack on the US grid would take. (That $100B threshold is what OpenAI says they'll focus on in their Prepardness Framework.) Answer: blacking out 100M people for about a week, which is four orders of magnitude beyond any grid cyberattack on record. There's no single technical bottleneck – the binding constraint is the operational capacity to coordinate attacks on dozens to hundreds of targets at once.\n\nWhich makes $100B a bad threshold to hang mitigations on. Models that could get lower-skilled actors there would already be more dangerous elsewhere, and top-tier states plausibly have the capacity already – what stops them is fear of retaliation, not skill. $10B attacks look qualitatively easier, and are probably the more useful trigger."
+   }
+  },
+  "2084464700264227195": {
+   "id": "2084464700264227195",
+   "url": "https://x.com/ohlennart/status/2084464700264227195",
+   "text": "Agreed. It's great that AI systems write down their thoughts and actions. We can keep records or have another AI check and monitor them. \nEspecially important in government and other domains, where privacy of users is less applicable.",
+   "created_at": "Tue Aug 04 02:21:26 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 14,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "DaveRBanerjee",
+    "text": "It's great that the AGs are pushing OpenAI to preserve records from the Hugging Face incident. It would be even better if the USG had a unified retention policy for LLM traces and logs, especially for models deployed inside the government. There will probably be some warning shot from a government-deployed AI eventually, and you want the receipts already sitting there when it happens!"
+   }
+  },
+  "2080030916550779051": {
+   "id": "2080030916550779051",
+   "url": "https://x.com/ohlennart/status/2080030916550779051",
+   "text": "my new gig in a nutshell",
+   "created_at": "Wed Jul 22 20:43:10 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 14,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "mattshumer_",
+    "text": "So another long-standing open conjecture was disproved by AI.\n\nThe crazy part is the prompts… basically:\n\n- “do a breakthrough”\n- “continue the search”\n- “enough, do it”\n\nAnyone will be able to make world-bending breakthroughs soon. Just point the model in the right direction. https://t.co/E4DGT5ch7d"
+   }
+  },
+  "2080013287966523443": {
+   "id": "2080013287966523443",
+   "url": "https://x.com/ohlennart/status/2080013287966523443",
+   "text": "So much great OSINT work to be done in in the China AI space. Financial filings, code repos, etc. All full of nuggets.\n\nYou don't even need to code anymore thanks to AI. But you need to understand what matters. Less tea leaves reading please.",
+   "created_at": "Wed Jul 22 19:33:07 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 29,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "ohlennart",
+    "text": "CoAsia’s revenue is spiking again. The last time it spiked like this, @SemiAnalysis_ reported the channel was being used to route export-controlled Samsung HBM into China (Jan–Mar 2025).\n\nCoAsia distributes Samsung memory and other products. Their largest segment is \"Hong Kong Group\"—Greater China is their main market. CoAsia is Samsung's sole HBM distributor for Greater China. They've been Samsung's official foundry agent for the Chinese region for years.\n\nOn Dec 2, 2024, the US announced new export controls on HBM to China with a Dec 31 compliance date.\n\nThe surge began in January. In Jan 2025, revenue jumped to 4.87B TWD. Feb 4.79B, Mar 4.86B. Roughly 2x the 2024 baseline. Right after the HBM rules took effect.\n\nOn Apr 16, 2025, @SemiAnalysis_ published an analysis describing how Samsung HBM was allegedly being routed from CoAsia to Faraday (ASIC design) to SPIL (packager), then diverted to China.\n\nThis revenue surge later collapsed, probably because someone looked into this and stopped it. Down ~67% from peak within weeks of the SemiAnalysis piece.\n\nNow, in March 2026, revenue jumped to 4.63B TWD—basically the same magnitude as the first surge.\n\nThis could be an upswing given the current memory shortage. But if I wanted to build AI chips—which Chinese designers desperately want to do—I'd be doing everything I could to get my hands on HBM. \nWorth looking into."
+   }
+  },
+  "2079389186436591851": {
+   "id": "2079389186436591851",
+   "url": "https://x.com/ohlennart/status/2079389186436591851",
+   "text": "That'd be great. People should know how many excellent candidates weren't(!) and aren't even considered because of the absurd standards by the Presidential Personnel Office (PPO).\nIt's the reason there's so little AI and semi expertise. If that changed, I'd be more optimistic.",
+   "created_at": "Tue Jul 21 02:13:09 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 48,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "SophiaCai99",
+    "text": "What’s next for CAISI after Chris Fall? Arvind Raman is leading the search for a new permanent CAISI director to be announced in the coming weeks, and Howard Lutnick wants somebody with deep knowledge and expertise on AI, I’m told."
+   }
+  },
+  "2078862109316669759": {
+   "id": "2078862109316669759",
+   "url": "https://x.com/ohlennart/status/2078862109316669759",
+   "text": "https://t.co/EcfAkCp4gt",
+   "created_at": "Sun Jul 19 15:18:44 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 49,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HNmZ_fLWcAE25_s.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "Kimi_Moonshot",
+    "text": "Kimi K3 has received far more love than we expected, and our GPUs are feeling it.\n\nOver the past 48 hours, demand has pushed close to the limits of our current capacity. To protect the experience of existing subscribers, we're temporarily pausing new subscriptions and prioritizing compute for current members. Existing subscribed users are not affected.\n\nWe're adding capacity as fast as we can and will reopen new subscription spots in batches.\n\nGoing forward, we'll also split membership into two more focused plans: Kimi Membership for Kimi Web, App, and Work; and Kimi Code Membership for coding workflows. This will help us match compute more precisely and keep the experience stable.\n\nThank you for your patience and understanding!"
+   }
+  },
+  "2077837169323106484": {
+   "id": "2077837169323106484",
+   "url": "https://x.com/ohlennart/status/2077837169323106484",
+   "text": "\"... they had seen draft regulations about AI export controls from Kessler with suggested language added by one of America’s largest semiconductor companies — an unusual level of coordination between government and industry, according to a former senior BIS official.\"\n💚",
+   "created_at": "Thu Jul 16 19:26:00 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 37,
+   "retweets": 6,
+   "media": [],
+   "quoted": {
+    "author": "BenjaminGoggin",
+    "text": "The Trump administration office overseeing AI chip exports has been bogged down by delayed decisions, management turmoil and internal distrust, according to 13 current and former officials.\nhttps://t.co/05Kj0ZxERY"
+   }
+  },
+  "2077778785034711344": {
+   "id": "2077778785034711344",
+   "url": "https://x.com/ohlennart/status/2077778785034711344",
+   "text": "AI is superhuman at reading lots of text and finding stuff.\n\nConveniently, AIs also produce tons of text via actions, tools, reasoning traces, etc.  So, one way to audit AI is having another AI read all of that.\n\nWe should get started, eg, for legislative and judicial oversight.",
+   "created_at": "Thu Jul 16 15:34:00 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 16,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2077417446395335117": {
+   "id": "2077417446395335117",
+   "url": "https://x.com/ohlennart/status/2077417446395335117",
+   "text": "Also, on Demis's proposals which many now endorse--doesn't this sound familiar? Almost like it's already law somewhere?🤔\n*checks notes* Ah yes, the EU AI Act GPAI &amp; Code of Practice. Enforcement starts in two weeks.\n\nDelighted to hear GDM and others will be happy to comply.",
+   "created_at": "Wed Jul 15 15:38:10 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 93,
+   "retweets": 9,
+   "media": [],
+   "quoted": {
+    "author": "sama",
+    "text": "this is a thoughtful proposal from demis:"
+   }
+  },
+  "2077398942048829919": {
+   "id": "2077398942048829919",
+   "url": "https://x.com/ohlennart/status/2077398942048829919",
+   "text": "ok, hear me out: chinese ai companies have the worst safety practices. luckily, EU AI Office can start enforcement in august. \n\ntake action, and in exchange anthropic (or USG) gives EU model access. a week of access for every week the gap widens. deal of the year.",
+   "created_at": "Wed Jul 15 14:24:38 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 55,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2077137601773944917": {
+   "id": "2077137601773944917",
+   "url": "https://x.com/ohlennart/status/2077137601773944917",
+   "text": "What's High Bandwidth Memory (HBM) and why does it matter?\n\nGlad to see this great primer by @JackFreed9 and team out! A great introduction for folks in policy on what the deal with HBM is. It was the last piece we were working on during my time at RAND.",
+   "created_at": "Tue Jul 14 21:06:10 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 19,
+   "retweets": 5,
+   "media": [],
+   "quoted": {
+    "author": "JackFreed9",
+    "text": "Last week, SK Hynix pulled off the largest U.S. listing by a foreign company in history (at $26.5 billion, topping Alibaba's 2014 record). This week, China's CXMT is set to go public on Shanghai’s STAR Market.\n\nThe back-to-back memory IPOs reflect surging demand for commodity DRAM and HBM, the stacked memory technology found in nearly every leading AI chip.\n\nWho makes HBM, why is it so hard to manufacture, and how far behind is CXMT? My RAND colleagues and I published a primer on all of the above. \n\nThread below with takeaways from the paper."
+   }
+  },
+  "2077090975240061068": {
+   "id": "2077090975240061068",
+   "url": "https://x.com/ohlennart/status/2077090975240061068",
+   "text": "They define a frontier company by it having a frontier model. (What I've pointed out before in model vs entity discussions: most proposals for which entities are just a derivative of which models.)\n\nA standard based on a set of benchmarks is a great idea. But I'm still waiting for the proposal. People have been alluding to this forever while criticizing training compute thresholds (fairly so!) but not giving any better alternative.\nAlso answer the challenges: When is a model a new model? Does further RL count? When do you re-evaluate?\nAI companies are best positioned to help here and have not done the work, again and again. It becomes harder by the day for outsiders without the technical knowledge and insight to develop something here.\n\nAlso, it's \"Frontier Company\", not \"Frontier Lab\".",
+   "created_at": "Tue Jul 14 18:00:53 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 54,
+   "retweets": 6,
+   "media": [],
+   "quoted": {
+    "author": "demishassabis",
+    "text": "https://t.co/PTeDiv1b6L"
+   }
+  },
+  "2077055771016052832": {
+   "id": "2077055771016052832",
+   "url": "https://x.com/ohlennart/status/2077055771016052832",
+   "text": "Noticing this more and more: the executive branch is waking up to AI faster than Congress and the courts. \n\nTo keep the balance of power, the legislative and judicial branches will need to be empowered, probably by using AI themselves.",
+   "created_at": "Tue Jul 14 15:41:00 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 40,
+   "retweets": 11,
+   "media": [],
+   "quoted": null
+  },
+  "2076860887948796043": {
+   "id": "2076860887948796043",
+   "url": "https://x.com/ohlennart/status/2076860887948796043",
+   "text": "nothing new under the sun https://t.co/8JtfyUCgOv",
+   "created_at": "Tue Jul 14 02:46:36 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 28,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HNJ9nvpXQAAMb5d.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "ben_guggenheim",
+    "text": "Scoop: The Trump administration and the AI industry have been discussing a framework to streamline U.S. open-source models to market based on the capability ceiling of leading Chinese models.\n\nhttps://t.co/ndLD4HVQKc"
+   }
+  },
+  "2076807769215078724": {
+   "id": "2076807769215078724",
+   "url": "https://x.com/ohlennart/status/2076807769215078724",
+   "text": "Friends in DC: Go talk to Daniel's team. They're smart, great to talk to, and you can learn a lot from each other even if you disagree.",
+   "created_at": "Mon Jul 13 23:15:32 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 64,
+   "retweets": 8,
+   "media": [],
+   "quoted": {
+    "author": "DKokotajlo",
+    "text": "My team, the group behind AI 2027 and AI 2040: Plan A, will visit DC around July 20-26. If you have advice for us or thoughts on our work more generally, including constructive criticism, we'd be keen to meet up. DM me or fill out this quick form: https://t.co/L3YHbbEswx. We may follow up, schedule permitting."
+   }
+  },
+  "2076787073147691133": {
+   "id": "2076787073147691133",
+   "url": "https://x.com/ohlennart/status/2076787073147691133",
+   "text": "whenever someone tweets about ai chips in china https://t.co/h7yuhcU2kH",
+   "created_at": "Mon Jul 13 21:53:17 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 32,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HNI61cvW4AAlahD.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2076663819909136557": {
+   "id": "2076663819909136557",
+   "url": "https://x.com/ohlennart/status/2076663819909136557",
+   "text": "Re-upping this given new debate around Chinese open model weights and that USG might gonna take some action (which might not be wise IMO).\nIt matters where models are hosted and which threats are actually relevant.",
+   "created_at": "Mon Jul 13 13:43:31 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 7,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "ohlennart",
+    "text": "Some thoughts on the open weights debate. Most concerns I hear are based on misconceptions, and the actually worrying things barely come up. Genuinely keen to hear pushback.\n\nNot debating the ecosystem and economic benefits of open weights here, same as for open-source software (related but different debate). Mostly on the US-China open weights angle.\n\nA few things I think are misunderstood:\n1. A common view is that China gets access to data or makes money. Roughly backwards for open models. The whole point is you download and run it on your own hardware. No revenue flows back, no data flows back. \nIf anything, open weights reduce your exposure to the releaser, not increase it. Closed hosted APIs (like using DeepSeek on DeepSeek's site) are where data actually moves.\n\n2. Are models actually that sticky? People swap them weekly, often with a couple lines of code. The brand and ecosystem case for the releaser is thinner than claimed.\n\nRisks I do see, but that get less airtime:\n1. Sleeper-agent-style behaviour baked into weights you can't audit. A model could look fine in normal use, then trigger on a specific input and write insecure code or exfiltrate data. Gets worse with more autonomy.\n\n2. Same with embedded values. Imagine education systems globally running on weights with someone else's framing of history.\n\n3. License creep. Free initially, fees later once you cross some (user) threshold (Llama-style).\n\n4. Stack lock-in (but same goes with closed ones). Selling you the model, the hardware, and the phone preloaded with it (then the data might flow back to a specific API in a specific country).\n\nBut notably, I think most of these risks are low right now, or don't exist yet (licenses, stack lock-in). And, as said, IMO models aren't sticky.\n\nI think open releases are just a strong counter-strategy. If you can't capture API revenue at the closed frontier, open releases let you leverage US compute (to the degree it gets deployed there) and eat up the discourse.\n\nPersonally, the sleeper-agent worry might be enough to tip the balance for me, which is why I'd want strong open models that are truth-seeking and ideologically neutral. (And that's why I'd take US models over the alternatives.) But that's not what I'm hearing in the debate, and instead lots of confusion around open source vs open weights."
+   }
+  },
+  "2076339624612446531": {
+   "id": "2076339624612446531",
+   "url": "https://x.com/ohlennart/status/2076339624612446531",
+   "text": "Tom and team are doing great work on verification. Not sure yet which technology will be most important, but as we've outlined before: having many options ready will help bc we probably want to stack and layer them.\nLove seeing people get their hands dirty on real prototypes.",
+   "created_at": "Sun Jul 12 16:15:17 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 29,
+   "retweets": 6,
+   "media": [],
+   "quoted": {
+    "author": "tsmilton_amodo",
+    "text": "Today, the authors of AI 2027 released AI 2040: Plan A, their positive vision for AI development. Their plan? A verified slowdown of AI development in 2029. For the past 5 months, we’ve been working on these AI verification technologies; here’s the state of play 🧵"
+   }
+  },
+  "2075299629642522786": {
+   "id": "2075299629642522786",
+   "url": "https://x.com/ohlennart/status/2075299629642522786",
+   "text": "good thing amazon didn't report this one to the white house",
+   "created_at": "Thu Jul 09 19:22:43 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 185,
+   "retweets": 8,
+   "media": [],
+   "quoted": {
+    "author": "alxndrdavies",
+    "text": "At @AISecurityInst, we tested the cybersecurity safeguards on GPT-5.6 Sol. In all rounds of testing, we found universal jailbreaks that allowed for long-form agentic task completion in domains like vulnerability discovery and exploit development. 🧵 https://t.co/GnCfJcs99k"
+   }
+  },
+  "2074959227861274651": {
+   "id": "2074959227861274651",
+   "url": "https://x.com/ohlennart/status/2074959227861274651",
+   "text": "Instead of looking at AI chip spot prices, look at what companies are actually paying. xAI's IPO disclosure gives some insights:\n\n- Anthropic pays $5.3/GPU-hr (~2x spot) \n- Google pays $11.5/GPU-hr (~3 to 5x spot)\n\nThat's the premium for speed, cluster size, etc.",
+   "created_at": "Wed Jul 08 20:50:05 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 78,
+   "retweets": 6,
+   "media": [],
+   "quoted": null
+  },
+  "2074545074961293418": {
+   "id": "2074545074961293418",
+   "url": "https://x.com/ohlennart/status/2074545074961293418",
+   "text": "And this also explains the current memory shortage: AI takes 3+ DRAM wafers for every logic wafer.\n\nBut in terms of EUV time, logic still dominates. Each logic wafer passes through EUV machines many more times than a DRAM wafer does.",
+   "created_at": "Tue Jul 07 17:24:23 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 55,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "ohlennart",
+    "text": "Building a 1GW AI data center takes:\n- 50k+ logic wafers\n- 180k+ DRAM wafers\n\nThe world is adding ~15GW+ this year. That's ~25 EUV machines running full-time for a year."
+   }
+  },
+  "2074307862260560223": {
+   "id": "2074307862260560223",
+   "url": "https://x.com/ohlennart/status/2074307862260560223",
+   "text": "BIS finally plans to (1) formally rescind the Diffusion Framework and (2) issue new rules \"for the secure export of advanced AI chips.\" https://t.co/kPmr8sTM4m",
+   "created_at": "Tue Jul 07 01:41:47 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 57,
+   "retweets": 13,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HMlr9adXAAAn8xF.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2074248438884057396": {
+   "id": "2074248438884057396",
+   "url": "https://x.com/ohlennart/status/2074248438884057396",
+   "text": "This would also be a violation of General Prohibition 10. https://t.co/0mZFvoe8vX",
+   "created_at": "Mon Jul 06 21:45:40 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 14,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HMk18P4XQAEgBGJ.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "ohlennart",
+    "text": "South Korea can just buy the best chips on the market, @tomshardware.\n\nUnless you're talking about North Korea.\n\n\"A chip at one-quarter the price of the H20 gives Korean buyers a real incentive to seek a second source.\""
+   }
+  },
+  "2074248140824121743": {
+   "id": "2074248140824121743",
+   "url": "https://x.com/ohlennart/status/2074248140824121743",
+   "text": "South Korea can just buy the best chips on the market, @tomshardware.\n\nUnless you're talking about North Korea.\n\n\"A chip at one-quarter the price of the H20 gives Korean buyers a real incentive to seek a second source.\"",
+   "created_at": "Mon Jul 06 21:44:29 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 44,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "tomshardware",
+    "text": "China’s Huawei to enter South Korean AI market with new clusters packing 8,192 Ascend 950 chips https://t.co/8Nvi8TwsSR"
+   }
+  },
+  "2074177786269614360": {
+   "id": "2074177786269614360",
+   "url": "https://x.com/ohlennart/status/2074177786269614360",
+   "text": "Building a 1GW AI data center takes:\n- 50k+ logic wafers\n- 180k+ DRAM wafers\n\nThe world is adding ~15GW+ this year. That's ~25 EUV machines running full-time for a year.",
+   "created_at": "Mon Jul 06 17:04:55 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 100,
+   "retweets": 15,
+   "media": [],
+   "quoted": null
+  },
+  "2073502913628877153": {
+   "id": "2073502913628877153",
+   "url": "https://x.com/ohlennart/status/2073502913628877153",
+   "text": "p(boom)",
+   "created_at": "Sat Jul 04 20:23:13 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 16,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "ohlennart",
+    "text": "situational awareness update: DC fireworks today are an OOM more than usual. finally counting the OOMs. https://t.co/dl4XILwSW8"
+   }
+  },
+  "2073475101329121517": {
+   "id": "2073475101329121517",
+   "url": "https://x.com/ohlennart/status/2073475101329121517",
+   "text": "situational awareness update: DC fireworks today are an OOM more than usual. finally counting the OOMs. https://t.co/dl4XILwSW8",
+   "created_at": "Sat Jul 04 18:32:42 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 59,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HMZ2TVMWUAAAb-B.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2073123459060711712": {
+   "id": "2073123459060711712",
+   "url": "https://x.com/ohlennart/status/2073123459060711712",
+   "text": "Tick... tock...\nGovernment has the tools to delay this. Some rules are already drafted.  \nWon't stop it forever, but you can buy time. And time is desperately needed.",
+   "created_at": "Fri Jul 03 19:15:24 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 49,
+   "retweets": 5,
+   "media": [],
+   "quoted": {
+    "author": "Hamish_Low5",
+    "text": "I forecast that China will likely have its own Mythos-like model around February 2027, exactly a year after Mythos itself was ready for internal use in February 2026. With a 90% CI of October 2026-September 2027 🧵 https://t.co/wBco9tEnRX"
+   }
+  },
+  "2073069704306962807": {
+   "id": "2073069704306962807",
+   "url": "https://x.com/ohlennart/status/2073069704306962807",
+   "text": "Here's a trick when someone throws around numbers: ask for reference classes and adjust for quality or quantity. \nYes, China will produce more AI chips, but how steep is their ramp compared to the US? And how good are these chips?\n\nGreat story in @thewirechina by @economicsnoah. https://t.co/RoEMfLuaLt",
+   "created_at": "Fri Jul 03 15:41:47 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 18,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HMUFTS3XEAATFLr.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2072342325129363785": {
+   "id": "2072342325129363785",
+   "url": "https://x.com/ohlennart/status/2072342325129363785",
+   "text": "Here's what Anthropic said about the jailbreak.\n\nAnd now, say it with me:\nWE 👏 NEED 👏 MORE 👏 TECHNICAL 👏 EXPERTISE 👏 IN 👏 GOVERNMENT\n(and make sure the principals actually listen to them) https://t.co/hkKLH5QeRi",
+   "created_at": "Wed Jul 01 15:31:27 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 85,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HMJv39lXAAAm85U.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "ohlennart",
+    "text": "can we see the jailbreak that amazon shared with the government that started this all? for research purposes."
+   }
+  }
+ }
+}

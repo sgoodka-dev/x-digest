@@ -1,0 +1,989 @@
+{
+ "handle": "testingham",
+ "tweets": {
+  "2104986882073657846": {
+   "id": "2104986882073657846",
+   "url": "https://x.com/testingham/status/2104986882073657846",
+   "text": "RT @DevenPzak: I really enjoyed working on this project. I believe the new flop-aware paradigm of nanoGPT thinking is useful, and it seems…",
+   "created_at": "Tue Sep 29 17:29:16 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": true,
+   "likes": 257,
+   "retweets": 30,
+   "media": [],
+   "quoted": null
+  },
+  "2101667064696148159": {
+   "id": "2101667064696148159",
+   "url": "https://x.com/testingham/status/2101667064696148159",
+   "text": "What impact is AI having? I'm of the view that we should be focussing more on aggregate outputs, relatively less on inputs or intermediate proxies.\n\n- Inputs: time spent across different activities; money spent on tokens.\n\n- Intermediate proxies: working papers; lines of code, commits & pull requests; self-reported speedup. \n\n- Final outputs: total cyber exploits discovered; total math problems solved; algorithmic efficiency.\n\nThe disadvantage of inputs & intermediate proxies is that they're very hard to interpret -- totally possible that they move, but outputs don't, and vice versa. Lines of code could explode without value changing; and vice versa.\n\nA disadvantage of final outputs is (1) it's harder to run experiments; (2) it's hard to attribute to whether the change is AI or not. But in some domains the trend-break is so large that it's *obviously* AI.",
+   "created_at": "Sun Sep 20 13:37:29 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 81,
+   "retweets": 9,
+   "media": [],
+   "quoted": {
+    "author": "testingham",
+    "text": "New post with Nate Rush: Have we seen an acceleration in discoveries?\n\nMany plots & some tentative conclusions:\n\n1. Cyber: ⤴️ sharp acceleration\n2. Math: ↗️ some acceleration\n3. Algorithms: ➡️ no clear acceleration"
+   }
+  },
+  "2092295753188467186": {
+   "id": "2092295753188467186",
+   "url": "https://x.com/testingham/status/2092295753188467186",
+   "text": "Extremely happy that Elasticity has been getting advice &amp; help from @yelizarovanna  and Olivia Benoit.",
+   "created_at": "Tue Aug 25 16:59:15 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 23,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "ElasticityInst",
+    "text": "We are excited to welcome Anna Yelizarova (@yelizarovanna) and Olivia Benoit as advisors to the Elasticity Institute! \n\nWe are thrilled to have their expertise as we grow Elasticity to include more research and seminars on the economics of AI."
+   }
+  },
+  "2089726541605609490": {
+   "id": "2089726541605609490",
+   "url": "https://x.com/testingham/status/2089726541605609490",
+   "text": "New post with Nate Rush: Have we seen an acceleration in discoveries?\n\nMany plots & some tentative conclusions:\n\n1. Cyber: ⤴️ sharp acceleration\n2. Math: ↗️ some acceleration\n3. Algorithms: ➡️ no clear acceleration",
+   "created_at": "Tue Aug 18 14:50:07 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 244,
+   "retweets": 38,
+   "media": [],
+   "quoted": null
+  },
+  "2088412991624753420": {
+   "id": "2088412991624753420",
+   "url": "https://x.com/testingham/status/2088412991624753420",
+   "text": "Come work with us, the going's tough &amp; the tough are going.",
+   "created_at": "Fri Aug 14 23:50:32 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 180,
+   "retweets": 15,
+   "media": [],
+   "quoted": {
+    "author": "METR_Evals",
+    "text": "In the last 6 months, METR raised commitments of around $71 million. This will fund ambitious projects: studying autonomous capabilities, tracking recursive self-improvement, evaluating monitoring systems, conducting risk assessments, investigating AI incidents, and more. https://t.co/ovvVsA3ufC"
+   }
+  },
+  "2087323635958817214": {
+   "id": "2087323635958817214",
+   "url": "https://x.com/testingham/status/2087323635958817214",
+   "text": "We've had 6 months of workable autoresearch but we *don't* seem to be seeing a notable acceleration in progress in algorithmic efficiency, at least in public leaderboards.\n\nExamples in thread.  Would be curious if there are good examples I'm missing.",
+   "created_at": "Tue Aug 11 23:41:50 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 274,
+   "retweets": 25,
+   "media": [],
+   "quoted": null
+  },
+  "2082553561381290111": {
+   "id": "2082553561381290111",
+   "url": "https://x.com/testingham/status/2082553561381290111",
+   "text": "Q: has AI accelerated aggregate discovery yet?\n\nMy very general impresions, would love others' thoughts:\n\n1. Vulnerability discovery is up a lot. Between 2X-5X increase in volume, although the average severity has fallen somewhat.\n\n2. Algorithmic efficiency hasn't moved much. E.g. nanogpt, SAT solvers, compression efficiency, chess algorithmic ability. They haven't shown noticeable changes I believe.\n\n3. Math is hard to judge. Erdős problems are certainly falling faster than historical rates, but it's mainly the obscure ones. We don't seem to be tightening upper and lower bounds on unknown quantities noticeably more quickly AFAICT. There are some prominent AI discoveries (e.g. unit distance) but I don't know what's the denominator, i.e. the average flow of comparably important results, my guess is it's still small.\n\n4. Papers/code volume is up a lot.  Total arXiv papers and github code is up a lot, but no good way of judging how the quality has changed.",
+   "created_at": "Wed Jul 29 19:47:15 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 106,
+   "retweets": 15,
+   "media": [],
+   "quoted": null
+  },
+  "2082119317530030320": {
+   "id": "2082119317530030320",
+   "url": "https://x.com/testingham/status/2082119317530030320",
+   "text": "New post: nine different ways of summarizing agent ability. \n\n#1: Score at Fixed Expenditure. Spend a fixed amount on each model (x=tokens/money) , and report the agent's score. This is the classic.",
+   "created_at": "Tue Jul 28 15:01:43 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 123,
+   "retweets": 20,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOUsW7Ja4AAXS0T.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2081962359611101603": {
+   "id": "2081962359611101603",
+   "url": "https://x.com/testingham/status/2081962359611101603",
+   "text": "I'm not persuaded that \"sample efficiency\" is a good way of comparing humans and LLMs (but happy to be corrected)\n\nLLMs are more sample-efficient than humans at some tasks, worse at others. Even within a task relative efficiency seems to change with scale. Some examples: https://t.co/2dzw07j6YL",
+   "created_at": "Tue Jul 28 04:38:02 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 68,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOSdma2bYAA7--7.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2079971660011319723": {
+   "id": "2079971660011319723",
+   "url": "https://x.com/testingham/status/2079971660011319723",
+   "text": "A post with @whitfill_parker on our @ElasticityInst  RSI paper, and relationship to @METR_Evals work.\n\n1. We want to know whether capabilities will accelerate.\n2. Feedback loops make this confusing, theory helps.\n3. We can't rule out an acceleration.\n\nhttps://t.co/22hsFLBs8t",
+   "created_at": "Wed Jul 22 16:47:42 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 56,
+   "retweets": 11,
+   "media": [],
+   "quoted": null
+  },
+  "2077084529928589796": {
+   "id": "2077084529928589796",
+   "url": "https://x.com/testingham/status/2077084529928589796",
+   "text": "When economists talk about \"post-AGI futures\" they mean abundance: 10X growth.\n\nWhen AI people talk about \"post-AGI futures\" they mean omnipotence: growth until physical limits are hit.\n\nA natural question to ask the economists: if AI gets you a century's technological progress in a decade, why will it stop there?\n\nAdditionally, from the perspective of omnipotence, the economists considerations all start to seem *provincial*. Considerations about redistribution, inequality, democracy, power concentration, dignity, meaning.\n\n(This observation comes from me trying to reconcile post-AGI conversations at Lighthaven, and post-AGI conversations at Asilomar)",
+   "created_at": "Tue Jul 14 17:35:16 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 142,
+   "retweets": 7,
+   "media": [],
+   "quoted": null
+  },
+  "2076734144504316382": {
+   "id": "2076734144504316382",
+   "url": "https://x.com/testingham/status/2076734144504316382",
+   "text": "Very happy this statement eventually turned into something far bigger, thanks to @erikbryn , @professor_ajay , & @akorinek:\n\nhttps://t.co/MK92Cxgo9I\n\nTo me the core claim is (1) it's big; (2) it's confusing. \n\nWe don't have a good theory of what's going to happen next -- we're driving in the fog -- & I've been spending time trying to persuade the smartest & hardest-working people I know to spend their time on this.",
+   "created_at": "Mon Jul 13 18:22:58 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 71,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "testingham",
+    "text": "I think many economists agree with the following, but it would be valuable to make this publicly known:\n\n1. There is a substantial probability (>10%) that AI will exceed human-level performance on virtually all non-physical tasks within ten years.\n\n2. This would be an unprecedented shock to human society.\n\n3. The economics profession should treat it with an urgency comparable to WWII or COVID."
+   }
+  },
+  "2076723049609801995": {
+   "id": "2076723049609801995",
+   "url": "https://x.com/testingham/status/2076723049609801995",
+   "text": "Very happy to share the first paper from @ElasticityInst: The Economics of Recursive Self-Improvement. Two parts:\n\n(1) a graphical representation of feedback loops, to formalize a variety of RSI-related arguments, where each arrow represents responsiveness (elasticity); \n\n(2) a survey of existing evidence with a loose calibration & a “wish list” of evidence that would help us calibrate better.",
+   "created_at": "Mon Jul 13 17:38:53 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 265,
+   "retweets": 73,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HNH7lhUawAAwBMJ.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2070126402616123457": {
+   "id": "2070126402616123457",
+   "url": "https://x.com/testingham/status/2070126402616123457",
+   "text": "Here's an updated survey of definitions of Recursive Self-Improvement (with visualization). Thanks to people who had useful suggestions of sources I was missing. https://t.co/IxYnuxCcCa",
+   "created_at": "Thu Jun 25 12:46:10 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 42,
+   "retweets": 9,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HLqPTzgWQAAwJ0T.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "testingham",
+    "text": "A list definitions of RSI and associated concepts (there are a lot!). \n\nIt's mostly agent-written. Tell me if I'm misquoting or missing any:\n\nhttps://t.co/oXMnkkN7Cd"
+   }
+  },
+  "2064507243593154744": {
+   "id": "2064507243593154744",
+   "url": "https://x.com/testingham/status/2064507243593154744",
+   "text": "Q: what can we say about the fixed-point of agent optimization loops? I can't find much on this.\n\nSuppose you ask an agent to produce an output, then keep improving it, over and over. What happens? \n\nE.g. write a paper, tell a joke, write a computer game, optimize an algorithm.  (1/n)",
+   "created_at": "Wed Jun 10 00:37:38 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 26,
+   "retweets": 3,
+   "media": [],
+   "quoted": null
+  },
+  "2064084840467824678": {
+   "id": "2064084840467824678",
+   "url": "https://x.com/testingham/status/2064084840467824678",
+   "text": "A list definitions of RSI and associated concepts (there are a lot!). \n\nIt's mostly agent-written. Tell me if I'm misquoting or missing any:\n\nhttps://t.co/oXMnkkN7Cd",
+   "created_at": "Mon Jun 08 20:39:09 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 56,
+   "retweets": 9,
+   "media": [],
+   "quoted": null
+  },
+  "2062266030186287258": {
+   "id": "2062266030186287258",
+   "url": "https://x.com/testingham/status/2062266030186287258",
+   "text": "My very speculative reconstruction of the economics of using LLMs to find bugs: https://t.co/dLpRpjqSG5",
+   "created_at": "Wed Jun 03 20:11:51 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 120,
+   "retweets": 12,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HJ6j5gMaAAAWyIV.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "peterwildeford",
+    "text": "Mythos at Palo Alto Networks \"found more than two dozen critical vulnerabilities in around three weeks, roughly five times what the company would typically find using existing tools\"\n\nBut the company \"burned through more than $1 million worth of tokens using Mythos\""
+   }
+  },
+  "2061470584035536944": {
+   "id": "2061470584035536944",
+   "url": "https://x.com/testingham/status/2061470584035536944",
+   "text": "A very big picture of what's happening with AI (slides from a talk at UCSB): https://t.co/t1fvuLwiq0",
+   "created_at": "Mon Jun 01 15:31:02 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 111,
+   "retweets": 20,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HJvQUHrbkAAsAGr.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2061439302685655237": {
+   "id": "2061439302685655237",
+   "url": "https://x.com/testingham/status/2061439302685655237",
+   "text": "End of an era at OpenAI -- Pamela did a streak of great work founding/running the econ research team, I’m grateful she hired me into it, and we continued many of the projects she started.",
+   "created_at": "Mon Jun 01 13:26:44 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 70,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "manlikemishap",
+    "text": "was rejected from posting the below to a billboard in kansas city, so hit slack instead :openai-heart: https://t.co/pzXD7u1fZM"
+   }
+  },
+  "2060327047512097021": {
+   "id": "2060327047512097021",
+   "url": "https://x.com/testingham/status/2060327047512097021",
+   "text": "I think most domains look like this at the moment: the returns to expenditure on agents diminish much more quickly than the returns to expenditure on human labor: (1/n) https://t.co/meLmejvjr0",
+   "created_at": "Fri May 29 11:47:01 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 705,
+   "retweets": 99,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HJe_9jHXkAIWS2g.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2060041583500656918": {
+   "id": "2060041583500656918",
+   "url": "https://x.com/testingham/status/2060041583500656918",
+   "text": "My sense is that giving a computer programmer an AI agent is like giving a lumberjack a chainsaw. They can immediately see that it's powerful, & they'll pay a lot for it, but the first time they use it they cut off their leg.\n\nProgrammers have a ton of tacit knowledge about how to build software, but now all their instincts need to be recalibrated, & it takes some time.",
+   "created_at": "Thu May 28 16:52:41 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 53,
+   "retweets": 6,
+   "media": [],
+   "quoted": null
+  },
+  "2056856075119600032": {
+   "id": "2056856075119600032",
+   "url": "https://x.com/testingham/status/2056856075119600032",
+   "text": "some weekend classes https://t.co/EVKHzNEUHe",
+   "created_at": "Tue May 19 21:54:37 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 12,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HItrsI9bwAAx8lX.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2052804928045977964": {
+   "id": "2052804928045977964",
+   "url": "https://x.com/testingham/status/2052804928045977964",
+   "text": "@whitfill_parker and I have a new post formalizing the “Cadillac tasks” argument:\n\nIf you estimate the productivity effect of AI by seeing how long it would've taken you to do your post-AI work in the pre-AI world, then you'll likely get a big overestimate. (🧵) https://t.co/KJHIGK54KZ",
+   "created_at": "Fri May 08 17:36:48 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 92,
+   "retweets": 22,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HH0G_b0awAEe9on.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2048886166393635196": {
+   "id": "2048886166393635196",
+   "url": "https://x.com/testingham/status/2048886166393635196",
+   "text": "My writing process: I write a new abstract, then the old abstract becomes the introduction, the old introduction becomes the body, the old body becomes the appendix, then I go back &amp; write a new abstract ...",
+   "created_at": "Mon Apr 27 22:05:03 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 32,
+   "retweets": 3,
+   "media": [],
+   "quoted": null
+  },
+  "2046249838313099670": {
+   "id": "2046249838313099670",
+   "url": "https://x.com/testingham/status/2046249838313099670",
+   "text": "My basic model of capabilities: LLMs are good at problems similar to those that appear in their training data. \n\nTraining data largely reflects the world, and so LLMs are relatively good at problems that are common, relatively bad at problems that are rare. https://t.co/R7AySCiYwt",
+   "created_at": "Mon Apr 20 15:29:13 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1702,
+   "retweets": 158,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HGW85oHbgAAFcyD.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2041632629863350321": {
+   "id": "2041632629863350321",
+   "url": "https://x.com/testingham/status/2041632629863350321",
+   "text": "TLDR: the apple-picking model says Mythos will have a moderate impact on AI R&D, but a big impact on cybersecurity.\n\nHow do we quantify a model's ability to push the frontier? E.g. progress in finding new bugs, proving new theorems, finding new optimizations.\n\nThe apple-picking model implies you can benchmark against human-equivalent-time, e.g. you can say a model can advance the frontier by the equivalent of a human-week. \n\nBut importantly the time-horizons are not additive. You can stack human weeks, you can't stack agent-weeks, because agents systematically pluck all the low-hanging fruit.\n\nThis has pretty different implications for different domains:\n\n- The AI R&D stack has a small number of critical algorithms, so adding an additional 1-month of human effort to each algorithm doesn't help you a great deal.\n\n- The cybersecurity landscape has tens of thousands of potential attack surfaces, so deploying agents in parallel to expand a human-month of effort to attack or defend those surfaces has a huge impact.\n\nConcretely: AI R&D is a few tall narrow trees, already pretty well-picked; cybersecurity is a huge orchard with a ton of low-hanging fruit.",
+   "created_at": "Tue Apr 07 21:42:05 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 92,
+   "retweets": 11,
+   "media": [],
+   "quoted": {
+    "author": "testingham",
+    "text": "AI agents are autonomously doing R&D, now what? @slimshetty_ and I give a formalization of the low-hanging-fruit metaphor & draw some implications: \n\n1. Agents can make autonomous contributions without being full human substitutes.\n2. You switch from agent-labor to human-labor as expenditure grows.\n3. You can calibrate an agent's value by its human-equivalent time. (1/n)"
+   }
+  },
+  "2041239611108671891": {
+   "id": "2041239611108671891",
+   "url": "https://x.com/testingham/status/2041239611108671891",
+   "text": "AI agents are autonomously doing R&D, now what? @slimshetty_ and I give a formalization of the low-hanging-fruit metaphor & draw some implications: \n\n1. Agents can make autonomous contributions without being full human substitutes.\n2. You switch from agent-labor to human-labor as expenditure grows.\n3. You can calibrate an agent's value by its human-equivalent time. (1/n)",
+   "created_at": "Mon Apr 06 19:40:22 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 131,
+   "retweets": 23,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HFPvXkoXkAANjpF.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HFPvaFxWAAAIBLn.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2039393262595715562": {
+   "id": "2039393262595715562",
+   "url": "https://x.com/testingham/status/2039393262595715562",
+   "text": "As far as I can tell every coauthor on the FRI econ-impacts-survey who's tweeted about it thinks the respondents are under-estimating the impacts of rapid capabilities growth:\n\n- @BasilHalperin : \"Basically I think this is insane. Wake up!\" -- https://t.co/c3QoD7y3t5\n- @Jabaluck: \"My personal view is that, in the \"rapid\" scenario, the transformation to society will be far more radical than these graphs suggest, although unsure if that is because GDP would explode or cease to be a useful proxy for welfare as it has historically been.\" -- https://t.co/3HPfL4QCjw\n- @connacher_ : \"This is why I found the forecasts for the 90th percentile growth outcomes so surprising! I would have expected many more respondents to allow for at least a 10% chance of much more rapid growth.\" -- https://t.co/K3KXdirrXR\n- @Afinetheorem : \"To [me], the sample average is too low even accounting for this.\" -- https://t.co/bscTQUWLsh",
+   "created_at": "Wed Apr 01 17:23:38 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 63,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "BasilHalperin",
+    "text": "Basically I think this is insane. Wake up!"
+   }
+  },
+  "2039383310749573235": {
+   "id": "2039383310749573235",
+   "url": "https://x.com/testingham/status/2039383310749573235",
+   "text": "I think many economists agree with the following, but it would be valuable to make this publicly known:\n\n1. There is a substantial probability (>10%) that AI will exceed human-level performance on virtually all non-physical tasks within ten years.\n\n2. This would be an unprecedented shock to human society.\n\n3. The economics profession should treat it with an urgency comparable to WWII or COVID.",
+   "created_at": "Wed Apr 01 16:44:05 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 420,
+   "retweets": 46,
+   "media": [],
+   "quoted": null
+  },
+  "2039028919949754630": {
+   "id": "2039028919949754630",
+   "url": "https://x.com/testingham/status/2039028919949754630",
+   "text": "This is a great paper but contains a puzzle: forecasters expect even if we automate most labor and wait 20 years, GDP will only increase by 45%. \n\nI would love to hear how people are thinking about this.",
+   "created_at": "Tue Mar 31 17:15:52 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 133,
+   "retweets": 7,
+   "media": [],
+   "quoted": {
+    "author": "Research_FRI",
+    "text": "We completed the most comprehensive study of how economists and AI experts think AI will affect the U.S. economy.\n\nThey predict major AI progress—but no dramatic break from economic trends: GDP growth rates similar to today's and a moderate decline in labor force participation.\n\nHowever, when asked to consider what would happen in a world with extremely rapid progress in AI capabilities by 2030, they predict significant economic impacts by 2050:\n\n• Annualized GDP growth of 3.5% (compared to 2.4% in 2025)\n• A labor force participation rate of 55% (roughly 10 million fewer jobs)\n• 80% of wealth held by the top 10% (highest since 1939)\n\n🧵 Here's what we found:"
+   }
+  },
+  "2033607689671217453": {
+   "id": "2033607689671217453",
+   "url": "https://x.com/testingham/status/2033607689671217453",
+   "text": "An observation on the \"exposure\" discourse: I think much of the problem is semantic, many  people are using that word without defining it, but it has many meanings, I propose a moratorium.\n\nA natural interpretation of \"this job is highly exposed to AI\" is \"this job is close to being fully automated, experience is no longer necessary.\"",
+   "created_at": "Mon Mar 16 18:13:50 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 31,
+   "retweets": 5,
+   "media": [],
+   "quoted": null
+  },
+  "2030434364933501188": {
+   "id": "2030434364933501188",
+   "url": "https://x.com/testingham/status/2030434364933501188",
+   "text": "Suppose you overtake 10 times as many runners as overtake you. What can you say about your speed relative to the other runners?\n\n(everyone is running around a circular track in the same direction forever, and each person started at a random point)",
+   "created_at": "Sun Mar 08 00:04:10 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 33,
+   "retweets": 2,
+   "media": [],
+   "quoted": null
+  },
+  "2029545552925602267": {
+   "id": "2029545552925602267",
+   "url": "https://x.com/testingham/status/2029545552925602267",
+   "text": "Three stages of AI discourse:\n\n1. AI will flood us with bad work.\n2. AI will expose the bad work we already tolerate.\n3. AI will remind us that there's a reason why we have bad work. It's an equilibrium.\n\nI think we're stuck on #1 and #2, not spending enough time on #3.",
+   "created_at": "Thu Mar 05 13:12:21 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 20,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2027069938729660626": {
+   "id": "2027069938729660626",
+   "url": "https://x.com/testingham/status/2027069938729660626",
+   "text": "not quite what I asked: https://t.co/ciXSTDe9ty",
+   "created_at": "Thu Feb 26 17:15:09 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 102,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HCGZPbYaIAAtjUE.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2027025390578155645": {
+   "id": "2027025390578155645",
+   "url": "https://x.com/testingham/status/2027025390578155645",
+   "text": "A conjecture about time horizons: an LLM's probability of success at a task is better predicted by the time it takes a *team* to complete that task, than by the time it takes an individual.",
+   "created_at": "Thu Feb 26 14:18:08 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 85,
+   "retweets": 5,
+   "media": [],
+   "quoted": null
+  },
+  "2025576709786055130": {
+   "id": "2025576709786055130",
+   "url": "https://x.com/testingham/status/2025576709786055130",
+   "text": "We've invented a machine that can dig up truth more efficiently than humans, now what?\n\nI pause to reflect on why I was digging in the first place.\n\nWhy do I find myself with a shovel in my hands? What was my goal? I wanted to know the truth. Or rather, I wanted to help discover *new* truth. Or rather, I wanted to be *recognized* as the person who discovered new truth.\n\nBut I'm also dimly aware of why I have these wants: I came of age among a community of diggers and internalized the virtues of digging. Had I been born into a different family I would've absorbed different goals and other loyalties. It puts me in an awkward position now the machine can dig better than I can.",
+   "created_at": "Sun Feb 22 14:21:35 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 63,
+   "retweets": 3,
+   "media": [],
+   "quoted": null
+  },
+  "2023401512404480373": {
+   "id": "2023401512404480373",
+   "url": "https://x.com/testingham/status/2023401512404480373",
+   "text": "Fish-economists say that if we halved the amount of time we spent fishing then we'd catch 13% more fish: https://t.co/xyx4c1ofCh",
+   "created_at": "Mon Feb 16 14:18:08 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 15,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HBSQ5GXaIAAtPcz.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2022692830645469617": {
+   "id": "2022692830645469617",
+   "url": "https://x.com/testingham/status/2022692830645469617",
+   "text": "One nitpick on econ-of-AI: \n\nTo describe a result as \"the effect of AI\" or \"the effect of LLMs\" is like saying you're estimating \"the effect of technology\" without saying which technology.\n\nAll figures &amp; results should say *which* LLM they're referring to.",
+   "created_at": "Sat Feb 14 15:22:05 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 25,
+   "retweets": 3,
+   "media": [],
+   "quoted": null
+  },
+  "2022314555729195096": {
+   "id": "2022314555729195096",
+   "url": "https://x.com/testingham/status/2022314555729195096",
+   "text": "What will happen when AI gets adopted on both sides of a market, e.g. when AI is used to write papers and AI is used to review papers.\n\nWhat's the equilibrium?\n\nHere's my basic heuristic: it's a net positive if the ground truth is human judgment (internal property), but a net negative if the ground truth is an expensive-to-verify fact about the world (external property). (🧵)",
+   "created_at": "Fri Feb 13 14:18:57 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 43,
+   "retweets": 2,
+   "media": [],
+   "quoted": null
+  },
+  "2019839709757993113": {
+   "id": "2019839709757993113",
+   "url": "https://x.com/testingham/status/2019839709757993113",
+   "text": "New post: knowledge-sharing LLMs vs knowledge-creating LLMs. \n\nThe economics of the two cases are qualitatively different, &amp; it seems plausible that labs will start to restrict access to knowledge-creating LLMs so they can use the fruits themselves.\n\nhttps://t.co/HxOT4M4e82 https://t.co/G20xp6qjpH",
+   "created_at": "Fri Feb 06 18:24:48 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 1268,
+   "retweets": 154,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HAfpPVzbMAAQfUd.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HAfpRReacAAAmjd.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2019490316416610541": {
+   "id": "2019490316416610541",
+   "url": "https://x.com/testingham/status/2019490316416610541",
+   "text": "A followup on cadillac tasks. We should generally expect:\n\npre-AI-speedup <= true speedup <= post-AI speedup\n\n- pre-AI speedup: speedup on tasks you did before AI\n- post-AI speedup: speedup on tasks you did after AI\n- true speedup: speedup on the *objective* that your tasks are contributing towards",
+   "created_at": "Thu Feb 05 19:16:26 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 10,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2019453143344447872": {
+   "id": "2019453143344447872",
+   "url": "https://x.com/testingham/status/2019453143344447872",
+   "text": "working on some galaxy-brain takes: https://t.co/5m7uhkod7w",
+   "created_at": "Thu Feb 05 16:48:43 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 61,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HAaJ6VxacAU_P3_.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2019185990804602936": {
+   "id": "2019185990804602936",
+   "url": "https://x.com/testingham/status/2019185990804602936",
+   "text": "Note how wide the confidence intervals are (3hrs to 18hrs), because we're short on long tasks. We're working on new ideas to get more visibility as capabilities keep growing.",
+   "created_at": "Wed Feb 04 23:07:09 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 304,
+   "retweets": 15,
+   "media": [],
+   "quoted": {
+    "author": "METR_Evals",
+    "text": "We estimate that GPT-5.2 with `high` (not `xhigh`) reasoning effort has a 50%-time-horizon of around 6.6 hrs (95% CI of 3 hr 20 min to 17 hr 30 min) on our expanded suite of software tasks. This is the highest estimate for a time horizon measurement we have reported to date. https://t.co/USkHNuFexc"
+   }
+  },
+  "2017416402077155708": {
+   "id": "2017416402077155708",
+   "url": "https://x.com/testingham/status/2017416402077155708",
+   "text": "https://t.co/kCC2NZwcaU",
+   "created_at": "Sat Jan 31 01:55:26 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 13,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G_9Ng-lbgAA5ncO.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2014363253871403267": {
+   "id": "2014363253871403267",
+   "url": "https://x.com/testingham/status/2014363253871403267",
+   "text": "Cadillac tasks: I believe many estimates of LLM productivity boosts are over-estimates because people are using them for cadillac tasks: things that would take you a long time unaided, but have only marginal additional value.",
+   "created_at": "Thu Jan 22 15:43:19 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 309,
+   "retweets": 22,
+   "media": [],
+   "quoted": null
+  },
+  "2008960701176680730": {
+   "id": "2008960701176680730",
+   "url": "https://x.com/testingham/status/2008960701176680730",
+   "text": "My mental model of where we're at.\n\nIt's so tempting to write a model of this system &amp; forecast how things are going to play out, but a couple of the edges here are incredibly difficult to estimate. https://t.co/cbO02cxgQV",
+   "created_at": "Wed Jan 07 17:55:30 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 10,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G-FDBAYa0AI5GHb.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2006075008226058597": {
+   "id": "2006075008226058597",
+   "url": "https://x.com/testingham/status/2006075008226058597",
+   "text": "A prediction: people will move towards producing documents that are machine-verified. A document will come with a checklist so you can see that it satisfies certain properties, as verified by LLMs: (🧵) https://t.co/uRIxDS9Xd0",
+   "created_at": "Tue Dec 30 18:48:47 +0000 2025",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 93,
+   "retweets": 19,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G9cCjbzacAASQaX.png"
+    }
+   ],
+   "quoted": null
+  },
+  "1986485626695532751": {
+   "id": "1986485626695532751",
+   "url": "https://x.com/testingham/status/1986485626695532751",
+   "text": "I made a list of forecasts of the impact of AI on economic growth over the next decade.\n\nA few observations... (🧵):\n\nhttps://t.co/eCaw0qPNaA https://t.co/C36VEkbm0s",
+   "created_at": "Thu Nov 06 17:27:35 +0000 2025",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 475,
+   "retweets": 105,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G5FpvwzbIAASKNv.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "1980672865277186538": {
+   "id": "1980672865277186538",
+   "url": "https://x.com/testingham/status/1980672865277186538",
+   "text": "Stylized facts about AI capabilities that economists should know:\n\n1. We have no standard metric for computer intelligence. Many metrics have been proposed but none have been adopted as a standard. This makes talking about capabilities difficult, it is intellectual quicksand.",
+   "created_at": "Tue Oct 21 16:29:44 +0000 2025",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 93,
+   "retweets": 17,
+   "media": [],
+   "quoted": null
+  },
+  "1973849563569226143": {
+   "id": "1973849563569226143",
+   "url": "https://x.com/testingham/status/1973849563569226143",
+   "text": "I wrote a long blot post on the economics of AI, prompted by two great workshops (Windfall and NBER), and me leaving OpenAI for METR:\n\nTLDR: we driving in the fog.\n\n1. There is no standard model of AI’s economic impact. Economists have been using a wide range of assumptions to model AI’s impact, there is no standard framework. There seems to me an opportunity for ambitious economists to propose deep models of AI’s impact. A promising line would concentrate on AI’s ability to find low-dimensional representations of the world.",
+   "created_at": "Thu Oct 02 20:36:22 +0000 2025",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 457,
+   "retweets": 85,
+   "media": [],
+   "quoted": null
+  },
+  "1950212194857111654": {
+   "id": "1950212194857111654",
+   "url": "https://x.com/testingham/status/1950212194857111654",
+   "text": "I rehearse and re-rehearse lists of Spanish verbs to push them through the membrane into my memory. \n\nSame thing with doing push ups to persuade my biceps to grow, sitting in the sun to persuade my skin to tan, playing the guitar to get my fingertips to callus and for my fingers to learn their steps.\n\nMy body will develop a capacity but only if it's persuaded there's a need for it, and that requires sufficiently many repetitions. \n\nThere's no logical reason it couldn't just trust me and let all these verbs slide directly into memory, or it could grow and shrink my muscles according to what I expect in the future rather than what I've experienced in the past.\n\nBut I guess the conscious mind hasn't earned that trust, so instead I have to communicate with my body with it by banging it over and over on the flank until it changes direction.",
+   "created_at": "Tue Jul 29 15:09:55 +0000 2025",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 9,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  },
+  "1929218653389767015": {
+   "id": "1929218653389767015",
+   "url": "https://x.com/testingham/status/1929218653389767015",
+   "text": "How do people collaborate with o3/deep research when compiling & summarizing references?\n\nIt's fiddly to keep having to copy-and-paste to another document, or to tweak prompts and wait for a new response.\n\nI've been using a \"scrapbook\" workflow in cursor:\n\n1. Get o3 to compile a scrapbook file (a list of URLs satisfying some criteria, and the entire content of each URL, or long verbatim quotes, in markdown format).\n\n2. Get o3 to create a table summarizing the references in the scrapbook, and a series of observations about the references.\n\nBoth files have a set of human-written instructions at the top, and computer-written content below. I can iterate on the instructions on what to find, and how I want it summarized, and feel like I'm collaborating with the model and don't have to keep starting fresh.",
+   "created_at": "Sun Jun 01 16:49:04 +0000 2025",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 7,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  },
+  "1926846936776052940": {
+   "id": "1926846936776052940",
+   "url": "https://x.com/testingham/status/1926846936776052940",
+   "text": "Time spent at work didn't fall as much as we expected in the 1950s: https://t.co/6P2urNfSjw",
+   "created_at": "Mon May 26 03:44:43 +0000 2025",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 9,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Gr2IYGGXQAAfEEA.png"
+    }
+   ],
+   "quoted": null
+  },
+  "1918322342419415253": {
+   "id": "1918322342419415253",
+   "url": "https://x.com/testingham/status/1918322342419415253",
+   "text": "Clear statement of a common view among AI researchers:\n\n1. There is a capability gap -- models pass all human exams but can't do real-world tasks.\n\n2. The capability gap is closing fast -- the RL-on-LLM approach can deal with messy tasks (interactive, high-context, long horizon).",
+   "created_at": "Fri May 02 15:11:01 +0000 2025",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 18,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "ShunyuYao12",
+    "text": "I finally wrote another blogpost: https://t.co/WddJkbSfks\n\nAI just keeps getting better over time, but NOW is a special moment that i call “the halftime”. Before it, training &gt; eval. After it, eval &gt; training. The reason: RL finally works.\n\nLmk ur feedback so I’ll polish it."
+   }
+  },
+  "1911144708317069711": {
+   "id": "1911144708317069711",
+   "url": "https://x.com/testingham/status/1911144708317069711",
+   "text": "Macroeconomics in four lines:\n\nTonight the baker eats just what she baked\n‍‍‍‍‍‍‍‍    the fisherman eats just what he caught\nBecause this morning at the market\n‍‍‍‍‍‍    everyone tried to sell more than they bought.",
+   "created_at": "Sat Apr 12 19:49:40 +0000 2025",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 5,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  },
+  "1907190254010044883": {
+   "id": "1907190254010044883",
+   "url": "https://x.com/testingham/status/1907190254010044883",
+   "text": "One nice model of LLMs is that they make private knowledge public.\n\nI haven't seen an economic model written down in quite this form, is there a reference I'm missing?\n\nSuppose each person has a given level of productivity at each task, which reflects their knowledge, and represents their comparative advantage. Now suppose the introduction of LLMs makes all that private knowledge public: you have a device in your pocket that can give you advice that you'd normally get from a doctor, electrician, lawyer, accountant.\n\nThis has a number of implications:\n\n1. Wages will fall in highly-paid professions.\n\n2. We will produce relatively more of the things where knowledge is a scarce input (and so wages are high): medicine, engineering, law.\n\n3. The returns to experience within an occupation will flatten, and so inequality within occupations should fall.\n\n4. Those who have skills that are complements to knowledge (e.g. intelligence) will have relatively bigger lifts in productivity.\n\n5. People will exchange less on the market (GDP could fall) because they can do more themselves.\n\n6. The incentives to discover new knowledge will weaken.\n\nEven physical jobs would be affected. Strawberry pickers, baristas, arborists, can ask an LLM how to solve a problem, or can ask a multimodal model to critique their form.\n\nThis observation would also apply to books and the internet: they have dramatically changed the distribution of information and should've had similar flattening effects.",
+   "created_at": "Tue Apr 01 21:56:05 +0000 2025",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 21,
+   "retweets": 4,
+   "media": [],
+   "quoted": null
+  },
+  "1906399105435541622": {
+   "id": "1906399105435541622",
+   "url": "https://x.com/testingham/status/1906399105435541622",
+   "text": "Driving down the 5 from SF to LA and I keep checking the car's estimate of how long until we arrive, hoping with each glance for it to go down quicker.\n\nAt some point I stop paying attention to the time remaining and start looking at the time elapsed. I realize I'm now wishing for it to move slower not faster. \n\nMy wife & daughter are asleep in the back seat, my mind is wandering, the road is clear, it's a pleasure, I don't want this to end.\n\nLike being happy to see there are only 10 pages left in my book then suddenly sad when I remember it's a good book.\n\nThe hours are slow & the years quick.\n\nLike an octopus pulling on the bars of its cage alternately from the inside and the outside.\n\nOn a lunch break at a summer school in Trento I bought a watch because I didn't want to check the time on my phone during boring talks. It didn't make the talks go any faster and I wouldn't have wanted them to -- better to find out I have 10 minutes more of a boring lecture than to find out I have 10 minutes less of life.",
+   "created_at": "Sun Mar 30 17:32:20 +0000 2025",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 11,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "1896583731080814712": {
+   "id": "1896583731080814712",
+   "url": "https://x.com/testingham/status/1896583731080814712",
+   "text": "How does AI change the balance of power in content moderation &amp; communication?\n\nI wrote something on this (pre-OpenAI) with a simple prediction:\n\n1. Where the ground truth is human judgment, AI favors defense.\n2. Where the ground truth is facts in the world, AI favors offense.",
+   "created_at": "Mon Mar 03 15:29:32 +0000 2025",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 7,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  },
+  "1885400125318799360": {
+   "id": "1885400125318799360",
+   "url": "https://x.com/testingham/status/1885400125318799360",
+   "text": "A new post: On Deriving Things\n\n(about the time spent back and forth between clipboard whiteboard blackboard &amp; keyboard)",
+   "created_at": "Fri Jan 31 18:49:53 +0000 2025",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 23,
+   "retweets": 2,
+   "media": [],
+   "quoted": null
+  },
+  "1872680080297939253": {
+   "id": "1872680080297939253",
+   "url": "https://x.com/testingham/status/1872680080297939253",
+   "text": "When too much good news is bad news: \n\nIf an AB test shows an effect of +2% (±1%) it’s very persuasive, but if it shows a an effect of +50% (±1%) then the experiment was probably misconfigured, and it’s not at all persuasive.",
+   "created_at": "Fri Dec 27 16:24:58 +0000 2024",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "is_retweet": false,
+   "likes": 11,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
+  }
+ }
+}
