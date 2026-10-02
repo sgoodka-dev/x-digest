@@ -911,6 +911,22 @@
    "retweets": 13,
    "media": [],
    "quoted": null
+  },
+  "2105786054058164627": {
+   "id": "2105786054058164627",
+   "url": "https://x.com/slatestarcodex/status/2105786054058164627",
+   "text": "Oh, you're worried about a Jewish guy's apocalyptic cult? You're scandalized that they consort with prostitutes? You think their message of compassion for everyone threatens normal bonds of family, community, and nation? Should we throw you a party? Should we invite Pontius Pilate?",
+   "created_at": "Thu Oct 01 22:24:53 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3302,
+   "retweets": 214,
+   "media": [],
+   "quoted": null
   }
  }
 }

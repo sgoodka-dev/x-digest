@@ -1023,6 +1023,60 @@
     "author": "kshenoy_",
     "text": "During fine-tuning, we show attackers can implant a subliminal backdoor into a model without any prompt access and modifying only 0.5% of completions. \nThis is true even if the defender knows the behavior and attempts to filter the dataset.\nSee our post for more details."
    }
+  },
+  "2105840663635878046": {
+   "id": "2105840663635878046",
+   "url": "https://x.com/DaveRBanerjee/status/2105840663635878046",
+   "text": "i guess i assumed this hearing would be covered more so i didn't bother to tweet much concrete about it, but apparently not many people even on the TL have the stomach to watch two hours of congress.\n\nthis was a hearing before the homeland security committee on *rogue ai* specifically. as far as i could tell it was extremely bipartisan. @HawleyMO , the senator in the middle here who brought out the huggingface slide, is a hyper-conservative missouri senator. the people testifying were @ChrisPainterYup (METR president), @DKokotajlo (ai2027/2040), @MariusHobbhahn (apollo research CEO), and a cybersecurity expert and legal expert i don't know. so... pretty fucking stacked on testimony\n\nnot every senator asked good questions. but most of them did. all of them very clearly already knew plenty of details about the huggingface incident and multiple other incidents. most of them had clear understanding of terms like \"misalignment\", \"recursive self improvement\", \"chain of thought / chain of thought monitoring\", etc etc!!\n\nthey all clearly had their own policy angles they liked and were pushing, implicitly or explicitly. but as best as i could tell:\n- it seemed pretty much obvious common sense to every senator there that what happened and was happening were not \"mere industrial incidents\" caused by humans making simple mistakes. they independently brought up how bad it would be for rogue AI agents to move laterally between data centers\n- they all seemed to basically take RSI quite seriously. not necessarily to the extent of talking about xrisk, but certainly to the extent of discussing future models becoming much much more capable, much much less controllable, and causing much more damage or loss of life.\n- they mostly seemed to have a clear intuitive understanding of why RSI might lead to misalignment. it didn't take much, it was a really simple chain of reasoning they themselves laid out, \"if the models right now are kinda misaligned and we don't know what they're doing sometimes, and then we have them build the next models and those ones build the next ones and so on, and we're having to ask the AI's what's going on to even understand it with how fast it's going, we really won't know how they're built or what they'll do\"\n- at one point a senator said flat out \"should we just make RSI illegal?\" (not a joke! this really happened!)\n- every single senator seemed to think it was obvious we needed *both* much harsher liability regimes for ai developers and also new legislation, both very quickly. this was the complete consensus, difference basically just being degree.\n- they were largely quite concerned about china, and falling behind china. but this clearly wasn't the be-all end-all.  as mentioned above they all thought it was obvious necessary to stop rogue ai even if it meant moving more slowly.\n- at one point a senator said \"china is a tightly controlled communist society, they're going to run into these same issues, and there's absolutely no way they're just going to let them run wild, they'll obviously stop at that point, so we're not really in a race\"\n- on the other hand another senator said \"china isn't concerned with human life\"... dario-modeing \n\ni came away from this incredibly encouraged. i don't know exactly what's going to happen here, and ofc this is a small subset of congress and one hearing, and they each have their own policy agendas most of which are probably super divergent from mine. but holy shit !!! they understood a lot of what was going on! they care!! this is an obviously salient political and safety issue to them, and clearly bipartisan!\n\nthe US government is awake.",
+   "created_at": "Fri Oct 02 02:01:53 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "tenobrus",
+   "rt_author_name": "Tenobrus",
+   "likes": 904,
+   "retweets": 109,
+   "media": [],
+   "quoted": null
+  },
+  "2105840522191573023": {
+   "id": "2105840522191573023",
+   "url": "https://x.com/DaveRBanerjee/status/2105840522191573023",
+   "text": "At some point, AIs will become exceptional strategic advisors, and we'll delegate many decisions to them. In the future, I think it will be a mistake to not leverage AIs for strategic decision-making, though I worry that premature adoption may backfire and make senior govt officials less willing to use AIs for advice.",
+   "created_at": "Fri Oct 02 02:01:19 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "AndrewCurran_",
+    "text": "From the accompanying article to the interview this morning in TIME. https://t.co/yqz5BDNY9g"
+   }
+  },
+  "2105727024036012243": {
+   "id": "2105727024036012243",
+   "url": "https://x.com/DaveRBanerjee/status/2105727024036012243",
+   "text": "OAI firing and consistently losing top AI safety talent will just make them lose the AGI race, no?\n\nAbout a year ago, I thought we wouldn't deal with alignment failures until we reached superhuman AIs that would be difficult to supervise\n\nInstead, we're in a world where even easily supervisable AIs are egregiously misaligned\n\nThe egregious misalignment of current-day models will slow down OAI's progress and limit their ability to stay at the frontier\n\nP(OAI builds AGI first) is down",
+   "created_at": "Thu Oct 01 18:30:19 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 33,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "Bayesian0_0",
+    "text": "Three AI safety researchers just left OpenAI https://t.co/EyIuDyWvXT"
+   }
   }
  }
 }

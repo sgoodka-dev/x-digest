@@ -949,6 +949,22 @@
    "retweets": 20,
    "media": [],
    "quoted": null
+  },
+  "2105918664344269008": {
+   "id": "2105918664344269008",
+   "url": "https://x.com/DKokotajlo/status/2105918664344269008",
+   "text": "This is terrible and a clear effort to undermine safety research, whistleblowing, and the raising concerns policy.",
+   "created_at": "Fri Oct 02 07:11:50 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "manlikemishap",
+   "rt_author_name": "pamela mishkin",
+   "likes": 122,
+   "retweets": 7,
+   "media": [],
+   "quoted": null
   }
  }
 }

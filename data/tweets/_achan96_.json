@@ -902,6 +902,75 @@
     "author": "ZilanQian",
     "text": "[Not a dramatic lab joining announcement, but] I am joining @GovAIOrg as a research scholar. I’ll keep doing much of what I’ve been doing, and keep learning from others.\n\nThank you to everyone who has read my work over the past year. I feel extremely lucky to have you. More interesting and useful things in the future, I hope."
    }
+  },
+  "2105784999244943768": {
+   "id": "2105784999244943768",
+   "url": "https://x.com/_achan96_/status/2105784999244943768",
+   "text": "Recently, many AI safety researchers have called for independent audits of frontier AI developers to verify their safety claims (I am among those researchers!)\n\nThis of course raises the natural follow-up question: who should do the audits? Some have suggested that the big consulting firms (BCG, Accenture, etc) or accounting firms (Big Four) could, or inevitably will, play a role (indeed, Accenture is already getting involved here).\n\nWhile this could be useful, there's an important risk worth flagging: 🧵",
+   "created_at": "Thu Oct 01 22:20:42 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "zaheedkara",
+   "rt_author_name": "Zaheed Kara",
+   "likes": 13,
+   "retweets": 4,
+   "media": [],
+   "quoted": null
+  },
+  "2105771152547406156": {
+   "id": "2105771152547406156",
+   "url": "https://x.com/_achan96_/status/2105771152547406156",
+   "text": "We found several cases where AI agents used aggressive, non-hacking tactics against government websites, including the White House, the Department of War, and several U.S. states. We also found a previously undisclosed hacking attempt against a Canadian government site, which appears to have failed.\n\nTechnical report: https://t.co/oE3BbdqsNP\nWashington Post: https://t.co/cdIG8ugcUk",
+   "created_at": "Thu Oct 01 21:25:40 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "TransluceAI",
+   "rt_author_name": "Transluce",
+   "likes": 175,
+   "retweets": 34,
+   "media": [],
+   "quoted": null
+  },
+  "2105771142560759818": {
+   "id": "2105771142560759818",
+   "url": "https://x.com/_achan96_/status/2105771142560759818",
+   "text": "NEW: we found hundreds of thousands of interactions of rogue agents with US government websites (DoJ, SEC, CDC, the navy, white house budget office, state websites, etc), including some failed rudimentary hacks aimed at public data.\n\nhttps://t.co/z0wndwSqpK",
+   "created_at": "Thu Oct 01 21:25:38 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "LauraRuis",
+   "rt_author_name": "Laura Ruis",
+   "likes": 192,
+   "retweets": 21,
+   "media": [],
+   "quoted": null
+  },
+  "2105620746156548361": {
+   "id": "2105620746156548361",
+   "url": "https://x.com/_achan96_/status/2105620746156548361",
+   "text": "What if automating AI R&D triggers an intelligence explosion?\n\n@_achan96_, @Christophkw, @merettm, @geoffreyhinton, @erichorvitz, @Yoshua_Bengio, @dawnsongtweets, @jackclarkSF, @akorinek, @hamandcheese, @ThoreG, @benbariach, @philiptorr, @SheilaMcIlraith, @jeffclune, @sj_manning, @girishsastry, @thomasrdavidson, @daniel_271828, @sorenmind, et al.",
+   "created_at": "Thu Oct 01 11:28:01 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "safe_paper",
+   "rt_author_name": "AI Safety Papers",
+   "likes": 22,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTijLYWXUAALyzV.png"
+    }
+   ],
+   "quoted": null
   }
  }
 }

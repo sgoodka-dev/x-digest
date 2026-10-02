@@ -973,6 +973,48 @@
    "retweets": 25,
    "media": [],
    "quoted": null
+  },
+  "2105711900193337753": {
+   "id": "2105711900193337753",
+   "url": "https://x.com/mentalgeorge/status/2105711900193337753",
+   "text": "New friendship unlocked: https://t.co/9OnD4XbYFw",
+   "created_at": "Thu Oct 01 17:30:13 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "AndrewCurran_",
+   "rt_author_name": "Andrew Curran",
+   "likes": 267,
+   "retweets": 12,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTjpgEvbYAAqoCE.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2105690274672628151": {
+   "id": "2105690274672628151",
+   "url": "https://x.com/mentalgeorge/status/2105690274672628151",
+   "text": "Under-rated excerpt from @RichardMCNgo's critique of Plan A, in which he tries to explain the less-than-predicted impact of the already-super-smart AIs we have today.\n\nTo translate the raw problem-solving power of a billion superintelligences into scientific progress requires\n1. sophisticated cooperation; and\n2. aligned incentives.\n\nEg it's easy to see how a country of geniuses pumping out \"research\" that's optimised for the (many) slop journals of washademia would produce very little technological progress.\n\nThe work of figuring out which scientific problem to solve next is something that is currently (and imperfectly) solved by very diffuse mechanisms throughout society. Maybe there does exist some level of intelligence that lets you top-down plan your tech tree, but I'd wager it arrives *after* the models are capable of Extreme Science Mode",
+   "created_at": "Thu Oct 01 16:04:17 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 32,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTjqJUcbwAAH0wt.png"
+    }
+   ],
+   "quoted": null
   }
  }
 }

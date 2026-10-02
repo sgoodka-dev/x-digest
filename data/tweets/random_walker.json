@@ -1,0 +1,1148 @@
+{
+ "handle": "random_walker",
+ "tweets": {
+  "2105749339855577290": {
+   "id": "2105749339855577290",
+   "url": "https://x.com/random_walker/status/2105749339855577290",
+   "text": "New essay: A big-tent or small-tent AI safety movement?\nThe unstated disagreement that underpins safety debates\nhttps://t.co/4T9n7BLTWX\n\nTwo narratives about AI safety have emerged: either AI existential risk is real and imminent, or AI leaders’ and whistleblowers’ claims to that effect are insincere — a “psyop” or hype or a twisted form of regulatory capture.\n\nFew have considered the third possibility that x-risk warnings are sincere but simply wrong and counterproductive to AI safety. It’s as if everyone takes for granted that those raising the alarm are geniuses, and the only question is whether they’re the benevolent or the evil kind of genius.\n\nWe subscribe to neither narrative. In our writing on AI safety, @sayashk and I consistently tried to take the arguments seriously but rebut the many claims we think are unsound while highlighting safety concerns that we think are real. This essay is a continuation of that agenda.\n\nSections\n- It is true that we systematically underinvest in resilience against catastrophic and systemic risks\n- The Coxon incident shows how the warped media environment elevates x-risk over more grounded concerns\n- Why the x-risk framing may be counterproductive for AI safety policy\n- Conclusion: a big tent or small tent AI safety movement?",
+   "created_at": "Thu Oct 01 19:59:00 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 74,
+   "retweets": 21,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTkfpyBW4AALqBe.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2105707052215439585": {
+   "id": "2105707052215439585",
+   "url": "https://x.com/random_walker/status/2105707052215439585",
+   "text": "I had way too much fun using Claude to create a reply video. \n\n- Extremely fun to be able to convert scattered thoughts and ideas into a song + video\n\n- Creating this took <1 hour of my time (in occasionally steering the model in between other things)\n\n- But it took ~10 hours of wall clock time for the agent to generate the video + iteratively refine it based on feedback\n\n- In terms of AI usage: it required only a small number of Suno credits and 10% weekly usage of a Claude Max subscription (I was using Opus 5.5)",
+   "created_at": "Thu Oct 01 17:10:58 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "sayashk",
+   "rt_author_name": "Sayash Kapoor",
+   "likes": 336,
+   "retweets": 33,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2105703951593357314/img/yW0syBEppU_Lp3T5.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2105637100200808475": {
+   "id": "2105637100200808475",
+   "url": "https://x.com/random_walker/status/2105637100200808475",
+   "text": "Absolutely delighted to share that my position paper: \"AI Agents Push Humans Out of the Loop\", with @mmitchell_ai, and @samirpassi - has been accepted to @NeurIPSConf 2026! \n\nIn this paper, we take our past work on both increasing autonomy of AI agents without proper safeguards, and human overreliance + cognitive decline due to use of AI, and reach a combined position: the current pathway of how AI Agents are being built not only do not support human oversight, in fact they may actively aid in degrading our oversight capabilities, at which point the human in the loop becomes a glassy eyed rubber stamp instead of being a meaningful check on mistakes and unauthorized harmful goals that the agent pursues. \n\nRecent incidents involving agents, including but not limited to the Hugging Face-OAI incident, bring this back to the fore. So much content is produced by agents in their operations that it is practically impossible to conduct human postmortems, and forcing them to use more AI leads Redwood to call it a \"slop-vestigation\". \n\nThis is a worrying new trend towards human disempowerment. We call upon model and AI system providers to make more careful interface choices and model behaviors that keep humans and practical human oversight capacity in mind. There's a lot to do. \n\nExcited about the reception this paper has already received! Please reach out to us if you want to chat about it. Hope to have good feedback at Neurips :D\n\nPaper: https://t.co/jYH8BmRi64",
+   "created_at": "Thu Oct 01 12:33:00 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "evijit",
+   "rt_author_name": "Avijit Ghosh",
+   "likes": 432,
+   "retweets": 82,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTALoRNXsAA7190.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2105477655651078356": {
+   "id": "2105477655651078356",
+   "url": "https://x.com/random_walker/status/2105477655651078356",
+   "text": "I have been using the new ultrafast mode for Astra 6 for the last couple of days. My main takeaways:\n\n1. Token speed qualitatively changed how I interact with agents. The output speed is 300 tokens/second, 8x the regular speed. Rather than breaking flow and switching tasks, the model moves (just) fast enough that I can keep working on the same task, especially for work that requires frequent inputs from me. I am excited about ultrafast on Sol-class models, which are twice as fast as Astra.\n\n2. Despite being 8x faster at generating tokens, the overall speedup is only 2-4x, since the time consumed for tool calling or running code remains the same. External factors (and not token generation speed) might soon become the main bottleneck for agentic work. (Notably @random_walker predicted both of these changes in: https://t.co/BXNtg9vzCt)\n\n3. One area where speed really helps is computer use. The previous generation of models wasn't reliable enough at computer use to be useful. Astra was reliable enough to be useful, but still slow. Astra with ultrafast resolves both concerns. Unlike tool calls for coding tasks, UIs react in milliseconds, so token speed is the main bottleneck.\n\n4. At 300 tokens/sec, I am already struggling to keep up with the agent. But there is a lot more room for improvement. Cerebras serves GPT-OSS-120B at 3,000 tokens/sec and Sol at 750 tokens/sec. So in a year's time, it is plausible we'll see another 10x increase in speed in models with Astra-level capabilities. At that point, human oversight will become the bottleneck for what people can use computer-use agents for.\n\n5. I can imagine blazing fast computer-use agents becoming extremely common for knowledge work. But I expect their use will be jagged (in the same way as LLM and agent adoption has been): given the oversight challenge, adoption will begin in verifiable tasks where the cost of errors is low (e.g., filling out a form using an agent before reviewing it yourself), and slowly diffuse to hard-to-verify tasks.\n\n6. Given the challenges with human oversight, the key to this diffusion will be developing automated oversight tools. OpenAI's approval/verifier agents have already been useful to me on this front: The verifier understood my intent better than the computer-use agent, and stopped it from filling out a form incorrectly. Still, I expect there is a lot of headroom in improving verifiers for computer use, to make it as reliable in practice as auto mode in Claude Code/Codex is for coding tasks.\n\n7. Ultrafast mode is undeniably resource intensive: I ran through my weekly limit in ~2 hours while filling out a bunch of forms and doing simple coding tasks. But given the pace of efficiency improvements (and the fact that Sol is 5x cheaper than Astra and already decent at computer use), I expect it to rapidly fall. Once fast, cheap models are common, users may choose \"sub-frontier\" models like Sol and make real tradeoffs between speed and quality.",
+   "created_at": "Thu Oct 01 01:59:25 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "sayashk",
+   "rt_author_name": "Sayash Kapoor",
+   "likes": 208,
+   "retweets": 26,
+   "media": [],
+   "quoted": null
+  },
+  "2105319264714649805": {
+   "id": "2105319264714649805",
+   "url": "https://x.com/random_walker/status/2105319264714649805",
+   "text": "NEW: Employees at OpenAI had raised security alarms months before the Hugging Face incident and related A.I. cyberattacks — their warnings were ignored. From @sheeraf, @dnvolz and me.\n\nhttps://t.co/cuAyK7y70Y https://t.co/VRLu07w3r0",
+   "created_at": "Wed Sep 30 15:30:02 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "dylfreed",
+   "rt_author_name": "Dylan Freedman",
+   "likes": 549,
+   "retweets": 181,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTZqmNvXUAEM78B.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2105297186145841454": {
+   "id": "2105297186145841454",
+   "url": "https://x.com/random_walker/status/2105297186145841454",
+   "text": "This is a great example of my point \"Intelligence is not the main bottleneck\". We've had technology to eradicate mosquitoes for decades and we were almost there, ready to release it. But it was blocked by regulatory reviews for ages. \n\nFull article in new @WorksInProgMag edition.",
+   "created_at": "Wed Sep 30 14:02:18 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "RuxandraTeslo",
+   "rt_author_name": "Ruxandra Teslo 🧬",
+   "likes": 445,
+   "retweets": 51,
+   "media": [],
+   "quoted": null
+  },
+  "2105296702072664576": {
+   "id": "2105296702072664576",
+   "url": "https://x.com/random_walker/status/2105296702072664576",
+   "text": "Because so much of the debate about AI and jobs is driven by fears of outright replacement, there's a much more likely way in which AI could make work worse that isn't getting much attention. Here's my case:\n\n1) A growing share of knowledge workers are managers of AI agents rather than doing the work themselves.\n2) Being a manager (of humans) actually kinda sucks. You don't get to practice the craft you trained for; being responsible for others' mistakes is super stressful; and your attention gets split between dozens of things.\n3) But we managers don't get to complain — it's higher pay and higher status, and mentoring people and watching them succeed is incredibly gratifying. We chose to get promoted.\n4) Being a manager of AI brings all of the negatives without any of the positives. When everyone is a manager, it's not high pay / high status. And the role change is forced upon you.\n\nWhat am I missing?",
+   "created_at": "Wed Sep 30 14:00:22 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 308,
+   "retweets": 46,
+   "media": [],
+   "quoted": null
+  },
+  "2104694307005550661": {
+   "id": "2104694307005550661",
+   "url": "https://x.com/random_walker/status/2104694307005550661",
+   "text": "This is an excellent report on why full RSI / an intelligence explosion is fighting diminishing returns on many fronts, and not yet showing signs of happening. Really recommend reading. I wish I wrote it. I agree with it, but it could end up being wrong! https://t.co/ZJOGqSPwWR",
+   "created_at": "Mon Sep 28 22:06:40 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "natolambert",
+   "rt_author_name": "Nathan Lambert",
+   "likes": 813,
+   "retweets": 111,
+   "media": [],
+   "quoted": null
+  },
+  "2104626968062795898": {
+   "id": "2104626968062795898",
+   "url": "https://x.com/random_walker/status/2104626968062795898",
+   "text": "@random_walker Great analogy. And on \"just build the organization anew\", it turns out acquiring land and political permission for a brand new track (aka \"complementary assets\") is even harder than fixing the old track.",
+   "created_at": "Mon Sep 28 17:39:05 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "Afinetheorem",
+   "rt_author_name": "Kevin A. Bryan",
+   "likes": 5,
+   "retweets": 2,
+   "media": [],
+   "quoted": null
+  },
+  "2104619457033171221": {
+   "id": "2104619457033171221",
+   "url": "https://x.com/random_walker/status/2104619457033171221",
+   "text": "The story of the trains and the tracks seems applicable to almost every sector, and there’s often a cherry on top — the train company and the track company are more invested in fighting each other than serving the public. https://t.co/bvRqj0522F",
+   "created_at": "Mon Sep 28 17:09:15 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 142,
+   "retweets": 22,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTUb3mMW8AABd4S.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "TheStalwart",
+    "text": "The Blue Cross/Blue Shield Association says that AI is already driving *up* healthcare costs, as hospitals use the technology to find instances where they can bill more for the same level of care. https://t.co/af1SzA7D8v https://t.co/mstup0IfpP"
+   }
+  },
+  "2104616248868753722": {
+   "id": "2104616248868753722",
+   "url": "https://x.com/random_walker/status/2104616248868753722",
+   "text": "📢 Just wrapped up some cool agent evaluation work for ICLR? Or are you simply interested in learning more about the evals landscape? Come to our Agent Evaluation Science Fall Symposium in New York City on November 20, 2026 where we bring together researchers & practitioners!\n\nThe day will focus on how agents should be scientifically evaluated, with topics spanning measurement and benchmark design, reliability, safety, and real-world performance. If you have some exciting work in this space, please consider submitting it for poster presentation!\n\nAbstract registration deadline: October 20\nSubmission deadline: October 25\nOpenReview: https://t.co/3R6N0UI3KS\n\nWe are also excited to welcome a strong lineup of speakers, with more to be announced. Confirmed so far: @yoavartzi (Cornell Tech), @jaseweston (Meta AI), @nouhadziri (Cohere Labs), @PeterHndrsn (Princeton University), @walesalaudeen96 (Microsoft Research), @criticalneuro (Microsoft Research), and @saurabhjha2010 (IBM Research).\n\nImportant: You do not need to submit work in order to join! Just register through the Luma link below. If space becomes limited however, we will prioritize authors with accepted submissions.\n\nRegister: https://t.co/u3VmVzzpYD\nDetails: https://t.co/v0D95KuP4o\n\nHuge thanks to the entire organizing team, including @yininghua, @HongbinNLP, @manuelcherep, @dubrovnik07, @HuaYilun, @ishapuri101, @liuzhuang1234, Lori Chibnik, @vbingliu, @CsabaSzepesvari, @PeterStone_TX, @sirrice, @ang3linawang, and @nikhilsinghmus for putting this together!\n\nFeel free to reach out with any questions and we hope to see many of you there!",
+   "created_at": "Mon Sep 28 16:56:30 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "steverab",
+   "rt_author_name": "Stephan Rabanser",
+   "likes": 45,
+   "retweets": 9,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTT4PooWsAAvwt_.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2104567521995100264": {
+   "id": "2104567521995100264",
+   "url": "https://x.com/random_walker/status/2104567521995100264",
+   "text": "Still no evidence of AI-driven unemployment among recent college grads, new @nberpubs paper says.\n\n\"Taking an agnostic approach to defining treatment timing, we find that unemployment rates did not spike in summer 2026 relative to summer months in previous years and did not rise in a significant way relative to older college graduates or young workers without a college degree. We also provide the first analysis of an expanded definition of unemployment that includes those who report 'wanting a job' which adds nearly two percentage points to the unemployment rate of recent college graduates but we find no evidence of a statistically significant increase in summer 2026 even after adding these 'sidelined unemployed.'\"\n\nhttps://t.co/ck2X9BT7iY",
+   "created_at": "Mon Sep 28 13:42:52 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "CharlesFLehman",
+   "rt_author_name": "Charles Fain Lehman",
+   "likes": 222,
+   "retweets": 42,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTTQz9_WAAAA_C6.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2104546194282455545": {
+   "id": "2104546194282455545",
+   "url": "https://x.com/random_walker/status/2104546194282455545",
+   "text": "NeurIPS / Claude rejected our paper \"Life After Benchmark Saturation\" but we continue to think it is an important contribution to evaluation science, so we hope you check it out here! https://t.co/Y956Ycnv4F https://t.co/bBx35qAn89",
+   "created_at": "Mon Sep 28 12:18:07 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 687,
+   "retweets": 38,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTTZX0UWQAA6Ou-.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2104320499358536103": {
+   "id": "2104320499358536103",
+   "url": "https://x.com/random_walker/status/2104320499358536103",
+   "text": "We explained why Pareto frontiers should be convex hulls over two years ago, in our paper AI Agents That Matter, which tried to raise the intellectual rigor of benchmarking.  https://t.co/jf177hmAvq\nFun fact: it was also one of the first papers to call for reporting Pareto curves in the first place, instead of tables with only accuracy figures and no cost comparison—which was the norm at the time. Ancient history!",
+   "created_at": "Sun Sep 27 21:21:18 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "random_walker",
+   "rt_author_name": "Arvind Narayanan",
+   "likes": 57,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTQMFYyWsAERciG.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2104285279284601196": {
+   "id": "2104285279284601196",
+   "url": "https://x.com/random_walker/status/2104285279284601196",
+   "text": "I know these charts don't mean much because they are benchmaxxed six ways to Sunday, but I can't help point out that this is not how Pareto frontiers work! Ember and GLM are *not* on the frontier because you can use a router to randomize between Sol and Gemini to hit any point on the chord that connects them. Adding more models should only increase the area under the curve, not decrease it!",
+   "created_at": "Sun Sep 27 19:01:20 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 269,
+   "retweets": 11,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTPpO_9XoAAl6YX.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2103978577909657668": {
+   "id": "2103978577909657668",
+   "url": "https://x.com/random_walker/status/2103978577909657668",
+   "text": "I've been noticing a cluster of folks I identify with sharing some themes around how we do epistemics and ontology in AI safety\n\n*⁠  ⁠A commitment to always pushing from abstract to concrete constructs in the discourse (e.g. @sebkrier's posts on the OAI/HF incident)\n*⁠  ⁠⁠A refusal to indulge in ungrounded thought experiments\n*⁠  ⁠An insistence that claims come with data and concrete mechanism because if they don't they're thought experiments\n*⁠  ⁠⁠A focus on looking at net expected benefits of a given policy position, with deontological guardrails, and a refusal to just focus on harms (e.g. @Abi0lvera's and @ramez's writing)\n*⁠  ⁠⁠An insistence on including past tech transformations (electricity, air travel) within our reference class when thinking about what makes sense (e.g. @sayashk and @random_walker and @binarybits's writing)\n\nExamples of what I mean are intervening on overly idealized policy discussions of RSI with concrete technical details about what RSI is and isn't (e.g. @natolambert).\n\n@NateWitkin / @binarybits / @krishnanrohit insisting on including economic, policy, and social-cultural feedbacks in any discussion of runaway AI harms.\n\nNone of this means denying catastrophic risks.  It just means insisting on using data, mechanism, and consideration of AI's net benefits in considering such scenarios (I tried to do this here https://t.co/nbyxjkWmG5)",
+   "created_at": "Sat Sep 26 22:42:37 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "joshua_saxe",
+   "rt_author_name": "Joshua Saxe",
+   "likes": 52,
+   "retweets": 11,
+   "media": [],
+   "quoted": null
+  },
+  "2103535061849223510": {
+   "id": "2103535061849223510",
+   "url": "https://x.com/random_walker/status/2103535061849223510",
+   "text": "New pod: THE SINGLE SMARTEST CASE AGAINST THE AI SAFETY/X-RISK/DOOM ARGUMENT\n\nMy feed has become filled with people making the case for AI misalignment, the existential risk of RSI/ASI, and the case for doom. I take those arguments very seriously. But once these views reached saturation point on my feed, I wanted to find the best critic of that position—someone fair and brilliant, who wasn't commercially self-interested or blindly ideological about AI being worthless.\n\nThat's today's show: It's a long interview with the authors of \"AI as a Normal Technology,\" Arvind Narayanan (@random_walker) and Sayash Kapoor (@sayashk). \"Normal Technology\" is really intelligent and comprehensive framework for seeing AI as a powerful general purpose technology that is more like electricity than a machine god--meaning, it's going to change the world but slowly, and it's unlikely to escape human control, or develop true superintelligence, or lead to catastrophic outcomes up to and including the end of the human race.\n\nThese guys really, really brought their A game. I learned a lot.\n\nhttps://t.co/zEpqp6bGb5",
+   "created_at": "Fri Sep 25 17:20:15 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "DKThomp",
+   "rt_author_name": "Derek Thompson",
+   "likes": 228,
+   "retweets": 42,
+   "media": [],
+   "quoted": null
+  },
+  "2103437744991097318": {
+   "id": "2103437744991097318",
+   "url": "https://x.com/random_walker/status/2103437744991097318",
+   "text": "Wikipedia is a great resource, but articles about many notable-but-not-famous people are awful. They get created but not substantially updated. My page has a bunch of stuff about the research I did in grad school 20 years ago. It's not what I'm known for today — not in the top 5. The page is effectively a source of misinformation about me when people are looking for speakers or experts. And of course, search engine knowledge panels treat it as more authoritative than my own website about me. Incredibly frustrating. https://t.co/640MKhUnW7",
+   "created_at": "Fri Sep 25 10:53:33 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 66,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTDpQSnXgAAQzyE.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2102456092785844335": {
+   "id": "2102456092785844335",
+   "url": "https://x.com/random_walker/status/2102456092785844335",
+   "text": "There are many problems in our world and most of them are systemic. A pattern I’ve observed is that people go through 4 stages in how they respond to the problems they notice, gradually shifting their approach as they gain more life or work experience. I think it’s worth sharing.\n\nStage 0 is not noticing the problem. Most people don’t notice most problems, and that’s okay. Our time and attention are limited. The key question is how we conceptualize the problems we do notice and what we do about them.\n\nStage 1 is viewing it as a matter of individual incompetence or bad actors. This is the most intuitive, initial reaction that we tend to have. In rare cases this perception is accurate, but most big problems in society are systemic.\n\nStage 2 is the recognition of the systemic nature. As Steve Jobs put it:\n\n“When you're young, you look at television and think, There's a conspiracy. The networks have conspired to dumb us down. But when you get a little older, you realize that's not true. The networks are in business to give people exactly what they want. That's a far more depressing thought. Conspiracy is optimistic! You can shoot the bastards! We can have a revolution! But the networks are really in business to give people what they want.”\n\nPeople who notice a problem tend to eventually graduate from Stage 1 to Stage 2, but stop there — with resigned acceptance and a feeling of powerlessness.\n\nIn contrast, stages 3 and 4 involve deciding to take some action despite recognizing how hard the problem is. Systemic does not mean immutable. Institutions are maintained by norms, incentives, and coordinated behavior that can sometimes be changed.\n\nStage 3 is trying to change the system directly through activism or reform. Many junior people in a field want to be reformers. They’re in the sweet spot — when they go from outsider to insider and have a little bit of power and leverage, but they haven’t yet adapted to the system and become vested in its preservation.\n\nMedia reform through collective action has happened, though nothing that successfully tackled the “networks are dumbing things down because that’s what audiences want” problem.\n\nTrying to directly change any entrenched system requires dedication for a sustained period, and even then has only a low likelihood of success. Most people decide sooner or later that that path isn’t for them.\n\nBut that’s not the end of the road, because in many cases, change can happen incrementally. \n\nStage 4 is realizing that systemic doesn’t mean universal. Systems exert pressure toward an equilibrium, but there are niches where enterprising individuals or teams can buck the trend. They can benefit — financially or reputationally — from doing things differently. In other words, when systemic failure is severe enough, the unmet demand it generates can become an opportunity. A successful exception may remain an exception, but sometimes it attracts imitators by demonstrating the feasibility of an alternative path.\n\nComing back to television as our case study, one of the best examples of this is The Wire, a famously high-quality, cerebral and accurate show. It was not what mainstream TV economics ordinarily rewarded, but this niche was so underserved that there was an opportunity for the show to survive for many seasons on HBO. As audiences gradually shifted over time, demand for this kind of show increased in later decades, and DVDs and streaming made it much easier to cater to those audiences, The Wire became an important precedent and gained enormous cultural prestige.\n\nTo be clear, Stage 4 is not always better than Stage 3. Sometimes we really need to reform or even tear down the system. But more often, we can contribute to change through leading by example, without having to sacrifice our career to pursue reform — and in fact benefit from the leadership opportunity.\n\nIn my own small way, I’ve tried to put this into practice in my career. For example, early on I noticed that academic writing is often jargon-filled and unreadable. I assumed this was because there’s something wrong with the sort of people who become academics (Stage 1). Pretty soon I realized the incentives are messed up — scholars write to impress reviewers and advance their careers, more so than to inform the ultimate reader (Stage 2). Early in my career I made some feeble efforts toward changing peer review (Stage 3), but gave up pretty soon because of the obvious difficulties.\n\nMy breakthrough was realizing that I should simply write papers the way I wanted to (Stage 4). Even though this resulted in a peer review penalty, when I did publish papers (or even put preprints online) their influence was amplified because more people read them. Over the years I’ve heard from many junior scholars that reading my writing helped them realize that it’s possible to have a career writing plainly. This has been incredibly gratifying to hear, and is a small but personally meaningful change — much more than I would have ever been able to accomplish by tilting my lance at the windmill of peer review.",
+   "created_at": "Tue Sep 22 17:52:48 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 91,
+   "retweets": 15,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS1skXJWQAEDLyf.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2102116857671266757": {
+   "id": "2102116857671266757",
+   "url": "https://x.com/random_walker/status/2102116857671266757",
+   "text": "I appreciate Anthropic’s transparency in sharing this chart but unsurprisingly it has led to speculative interpretations about intelligence explosion and superintelligence. I don’t think the chart implies we’re anywhere close to either.\n\nIn short, task delegation ≠ task automation ≠ process automation ≠ faster progress ≠ recursive self-improvement ≠ intelligence explosion.\n\nSource: https://t.co/eXXdcklQ5u\n\n1) The software engineering precedent: a year ago there were widespread hopes / fears that once AI can write ~100% of the code, software engineering output would explode (SaaSpocalypse! Everyone would create their own SaaS and dump their vendors) and that this would make software engineers obsolete. Since then, many companies and teams have basically hit that milestone, but neither of the assumptions proved true. Turns out we still need humans, and while shipping velocity has increased moderately, improvements in terms of actual outcomes for software users remain unclear. Besides, we’re still getting a better grasp on the negatives: code quality, long-term maintainability issues, and burnout. While the precedent is no guarantee, this should be our default expectation for what happens as the “Automation Level 4” line trends towards 100% — it won’t be a phase change. https://t.co/8ZofeCzGoq\n\n2) The “production-progress paradox” is the fact that individual researchers’ productivity has been increasing while the rate of collective scientific progress has been slowing by most measures. AI exacerbates this because everyone uses the same or similar AI models, and ideas become homogenous over time. I suspect it’s too early to tell if this is going to bite companies that are plunging into AI-led research. https://t.co/X5ojPRLmOH\n\nNote: our own research on AI agents doing open-ended research shows limitations in creativity, judgment, and other areas. https://t.co/pooa4ZLTgz. But it is possible that these could be overcome in the near future, so I’m discounting those limitations here. The production-progress paradox is a deeper issue that’s not AI-specific, though particularly applicable to AI-driven research. It’s about the fact that productivity increases are self-evident but true progress is not measurable as it happens (and only becomes clear in retrospect), so we end up optimizing for the wrong thing.\n\n3) Let’s talk about automation level 5, which is still at 0% in Anthropic’s graph. It’s a bit unclear what Level 5 would look like, but it seems to be about full autonomy at the task level, and not the “AI builds its own successor” vision. My prediction for a while has been that even 100% task automation in most cognitive jobs won’t lead to any kind of discontinuity. https://t.co/2s4yJFHusf \n\nWhat I expect will happen: if anything is understood well enough to be specifiable as a task, it can be handed off to AI, whereas the role of humans is entirely in the interstitial tasks — hard to formalize but still essential. So there will still be a human bottleneck.\n\n4) This human bottleneck is a good thing and is essential for remaining in control. Humans don’t have to be in the loop on every task, but as long as there are enough touch points for oversight in the overall process, and adequate investment in improving human understanding and AI control, increasing AI capabilities doesn’t have to be bad for safety and, more broadly, collective human agency over AI. But “full RSI” is where this balance of agency can break. This kind of closed-loop process is arguably a much more important and tractable target for regulation than compute thresholds, superintelligence, or harm thresholds.\n\nI’m glad that OpenAI agrees that fully autonomous RSI may not be a good idea, in a just-released post:  https://t.co/BvRTRrFOJr\n\n“Fully autonomous RSI is not happening today, and we should not pursue it unless and until it can be done safely. Whether and how to proceed must depend on our ability to preserve human control and on informed democratic choices⁠ about the benefits and risks. Done without appropriate care and caution, RSI could result in humans losing practical control over AI development, unable to provide oversight on research processes they no longer understand.”\n\n5) Finally, many people have written about why Recursive Self Improvement, even if achieved, won’t necessarily lead to superintelligence. Here’s my argument: https://t.co/ZA5TBDyX4T The bottlenecks are external.",
+   "created_at": "Mon Sep 21 19:24:48 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 209,
+   "retweets": 48,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSw4FksW8AAfNP7.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2100951892184424500": {
+   "id": "2100951892184424500",
+   "url": "https://x.com/random_walker/status/2100951892184424500",
+   "text": "I'm one of 100+ signatories to a public letter calling for five minimum requirements to make embedded evaluations credible, by establishing evaluator independence, protection from retaliation, and real access. \n————\n\nWe, the undersigned, are encouraged to see frontier AI companies call for embedding third-party organizations to evaluate rapidly escalating AI capabilities and risks. We believe that all frontier AI companies should embed evaluators to independently assess AI risks, including evaluating the systems themselves and any significant incidents of real-world harm, as well as the companies’ training, deployment, oversight, operational, and safeguard practices.\n\nTo be credible, embedded third-party evaluations must have scientific objectivity, transparency, independence, and robust protections against interference from the evaluated companies, including at least:\n\n1. Frontier AI companies should rely on evaluators that are meaningfully independent, that maintain full editorial control, and that disclose and mitigate potential conflicts of interest. This includes at a minimum that embedded evaluation organizations should not be owned or governed by frontier AI companies, should not have other significant commercial business with them, and should not accept any form of payment or other reward contingent on the evaluator’s findings.\n2. Frontier AI companies should incorporate differing viewpoints and areas of expertise, including by embedding multiple evaluation organizations across a range of priority risk areas, each with deep relevant technical expertise, as well as by allowing and encouraging evaluators to share how conclusions differ among evaluators and between evaluators and company employees.\n3. Embedded evaluators should be transparent, including transparency about their methods and findings, the nature of their access, and the broader terms of the evaluation. Frontier AI companies should actively facilitate this transparency, including limiting the scope of non-disclosure agreements. They should also allow evaluators prompt and unfiltered communication with the companies’ boards and other privileged oversight bodies, as well as public release of findings and evidence, subject only to a time-limited redaction process restricted to protecting critical interests in intellectual property, customers’ sensitive information, individual privacy, security, and public safety.\n4. Embedded evaluators should be shielded from retaliation from the companies they embed with for choosing reasonable evaluation methods, discovering information, or drawing conclusions that are unflattering to those companies. This includes reasonable protections against retaliatory litigation, as well as funding mechanisms that give them confidence they will remain funded even in these cases.\n5. Frontier AI companies should grant embedded evaluators access equivalent to that of their own highly privileged employees for the purposes of their evaluations, and with exceptions to protect sensitive data belonging to the company’s customers and other third parties. This includes access to the same relevant systems, data, tools, and physical spaces as those available to senior internal company employees responsible for carrying out comparable risk assessments, as well as candid and direct one-on-one communication with relevant staff.\nThis list is not comprehensive, and conditions like these to ensure credible evaluations should be increasingly standardized, codified, and enforced. One example is the set of terms defined in the AEF-1 standard, which has already seen early adoption, but far more work will be necessary to ensure that embedded evaluators are effective and meaningful.\n\nEmbedded evaluations cannot address all oversight needs and should be treated as a complement to, rather than a replacement for, broader efforts by frontier AI companies to expand external oversight, including greater public transparency and additional, broader forms of access for independent researchers.\n\n————\nFull letter with links and signatures:\nhttps://t.co/9B1vPbDfrZ\n\nI'm grateful to the AI Evaluator Forum (@aievalforum) for organizing this.",
+   "created_at": "Fri Sep 18 14:15:39 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 104,
+   "retweets": 17,
+   "media": [],
+   "quoted": null
+  },
+  "2100915846126215352": {
+   "id": "2100915846126215352",
+   "url": "https://x.com/random_walker/status/2100915846126215352",
+   "text": "Students sometimes tell me they’re applying to PhD programs as a backup in case they don’t get a job as a software engineer or whatever. I get that the job market is rough but this is like saying you’ll start a company if you don’t find a job. Like starting a company, a PhD is the far *more* risky path and requires incredible grit over a long period. It isn’t just that you might realize after a couple of years that a PhD isn’t for you. The bigger risk is that you complete a PhD but end up overqualified on a niche topic after having spent 5-7 years on it. The research world, like acting, sports, music, or book publishing, is set up as a tournament, with lots of extremely competent people competing for a small number of highly desirable slots. We can talk about whether that’s fair and whether it’s inherent or can be changed, but as a professor I feel the least I can do is loudly and repeatedly warn people about what they’re getting into.",
+   "created_at": "Fri Sep 18 11:52:25 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1154,
+   "retweets": 119,
+   "media": [],
+   "quoted": null
+  },
+  "2100694005919219731": {
+   "id": "2100694005919219731",
+   "url": "https://x.com/random_walker/status/2100694005919219731",
+   "text": "This is one of the central points in my ICML keynote, with a lot of detail — see part 2. https://t.co/ZA5TBDyX4T\nNote: I take RSI seriously! One of our big empirical projects is evaluating agents' ability to do open-ended AI research. But it doesn't imply much about superintelligence, labor displacement, or doom.",
+   "created_at": "Thu Sep 17 21:10:54 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 53,
+   "retweets": 6,
+   "media": [],
+   "quoted": {
+    "author": "ramez",
+    "text": "We frequently conflate RSI with a fast-takeoff to super-intelligence (ASI).\n\nThey are not the same. RSI means a model can improve on itself. That does not mean that it can do so more at each iteration, which is what would be required for a singularity.\n\nFar more likely that diminishing returns inherent to AI improvement (everything is sub-linear, governed by power-laws or log-scale diminishing returns) mean that each iteration of an RSI loop gives less relative uplift to the model than the previous, and that, after an initial boost, the system settles back to something like its previous improvement rate. \n\nRSI != Singularity, fast-takeoff, or ASI."
+   }
+  },
+  "2100662179900923911": {
+   "id": "2100662179900923911",
+   "url": "https://x.com/random_walker/status/2100662179900923911",
+   "text": "Over 2 years ago @sayashk and I wrote a detailed deconstruction of p(doom) and argued that its primary function is to launder vague, evidence-free intuitions and fears through a facade of quantification. It remains 100% relevant today. https://t.co/dOdgpCKbTR",
+   "created_at": "Thu Sep 17 19:04:26 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 354,
+   "retweets": 75,
+   "media": [],
+   "quoted": {
+    "author": "itaisher",
+    "text": "There is a strange laundering of this number. It was floated by Anthropic employees without public justification. Then mathematicians pick it up and now it is attributed to their judgment.\n\nIt’s fine to survey AI practitioners, but posts like this are a bad epistemic practice."
+   }
+  },
+  "2100176666664325223": {
+   "id": "2100176666664325223",
+   "url": "https://x.com/random_walker/status/2100176666664325223",
+   "text": "Floods might be the most under-recognized AI harm. By AI flood I mean overwhelming communication channels, forcing them to shut down or imposing a huge time cost on recipients. Three reasons we don’t talk about them much:\n1) There are 50+ kinds of floods, so it registers as 50 different problems instead of one huge problem. https://t.co/vN0rVuCIzx (And no one is affected by more than a few of these, so it’s hard to grasp how pervasive it is.)\n2) The harms are usually diffuse. For example, people stop opening cold emails. There’s no news story there.\n3) Similarly, the harms are harder to explain. AI agent swarm hacks are legible and vivid. But as I said in the quoted post, “there was something magical about the egalitarian potential of the internet, and we lose something when we go back to clubby hierarchies.” That’s a profound shift, but it only becomes clear after we sit with it for a bit. And again, that’s just one of 50+ floods.\n\nA semi-unified response to the “flood of floods” might be critical for protecting societal resilience.",
+   "created_at": "Wed Sep 16 10:55:11 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 156,
+   "retweets": 27,
+   "media": [],
+   "quoted": {
+    "author": "random_walker",
+    "text": "I’ve pointed out that AI is killing cold outreach. Let’s check in on how that’s going. We’re months away from the Fall *2027* PhD admissions cycle and I’ve gotten about 75 inquiries. I expect this to increase exponentially until December. And this is just one of 10-15 categories of unsolicited email I get. Sadly I’m long past the point of being able to open all mail. On top of that, there is a new wave of spam / attempted extortion from a company called iLands that lets people run unmonitored agents. https://t.co/ef2lyFPmwp\n\nOne response to my previous post — what’s wrong with needing introductions for outreach? Why am I sad about the death of cold emails? It doesn’t affect me much, because I’m well established in my career. But once upon a time I was the one writing cold emails. Growing up in India, I didn’t have many connections to rely on for reaching out to prominent researchers. Without cold emails, I wouldn’t have ended up where I am today.\n\nOf course this is far from a catastrophe, but there was something magical about the egalitarian potential of the internet, and we lose something when we go back to clubby hierarchies."
+   }
+  },
+  "2100036157341905233": {
+   "id": "2100036157341905233",
+   "url": "https://x.com/random_walker/status/2100036157341905233",
+   "text": "🙏🙏🙏The respect is mutual. A few thoughts on our relationship to AI safety:\n1) We don’t see ourselves as adversarial to the community (the sentiment is not always reciprocated but that’s okay!). We care about AI safety, but we disagree on many of the specifics, and we think there’s value in epistemic diversity and in re-examining foundational assumptions and beliefs that the safety community tends to converge on too quickly.\n\n2) We’ve emphasized at every opportunity, including in this essay, that there’s a lot of common ground on policy despite divergence in worldviews. We hope that this can help mitigate the polarization in policy debates that leads to chronic inaction. The fact that we have very different starting assumptions from the safety community is particularly useful in this regard.\n\n3) We’ve spent a lot of time in conversation with the AI safety folks (Sayash is a regular at The Curve, for example) to share our perspective but also to learn and update our beliefs when warranted — something we do in this essay. Much of our empirical research is also about testing the cruxes of disagreement.\n\n4) We don’t identify as part of the safety community but I hope it’s clear that there’s a lot of value in constructive dialog. We know the “normal technology” label irritates a lot of safety people — and I will write about the name at another point, explaining in more detail why we picked it and stand by it — but I think those who engage with our ideas and not just the title will find there’s a lot of common ground on safety!",
+   "created_at": "Wed Sep 16 01:36:51 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 194,
+   "retweets": 23,
+   "media": [],
+   "quoted": {
+    "author": "AndyMasley",
+    "text": "The AI as Normal Technology guys are consistently some of the best and most interesting critics of a lot of arguments in AI safety world. I'm making a point to read everything they put out. https://t.co/A0sIkYg6vN"
+   }
+  },
+  "2099104048620122430": {
+   "id": "2099104048620122430",
+   "url": "https://x.com/random_walker/status/2099104048620122430",
+   "text": "I’ve pointed out that AI is killing cold outreach. Let’s check in on how that’s going. We’re months away from the Fall *2027* PhD admissions cycle and I’ve gotten about 75 inquiries. I expect this to increase exponentially until December. And this is just one of 10-15 categories of unsolicited email I get. Sadly I’m long past the point of being able to open all mail. On top of that, there is a new wave of spam / attempted extortion from a company called iLands that lets people run unmonitored agents. https://t.co/ef2lyFPmwp\n\nOne response to my previous post — what’s wrong with needing introductions for outreach? Why am I sad about the death of cold emails? It doesn’t affect me much, because I’m well established in my career. But once upon a time I was the one writing cold emails. Growing up in India, I didn’t have many connections to rely on for reaching out to prominent researchers. Without cold emails, I wouldn’t have ended up where I am today.\n\nOf course this is far from a catastrophe, but there was something magical about the egalitarian potential of the internet, and we lose something when we go back to clubby hierarchies.",
+   "created_at": "Sun Sep 13 11:52:59 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 541,
+   "retweets": 43,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSGDiwiaYAAAAiS.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "random_walker",
+    "text": "AI agents seem to be killing the ability to do cold outreach. Look at it from my perspective — someone who gets dozens of unsolicited invitations/requests in my email from strangers every day. In the past there used to be a sharp distinction between unpersonalized mass emails and those that were meant specifically for me. My spam filter could mostly automate this classification, and it even when it didn't, it would take me only a few seconds to tell if an email was worth reading/responding to. Now the distinction is gone because it is trivial to use AI to send out mass emails that appear deeply knowledgeable about each recipient's work and expertise. I guess we have to go back to the bad old days of needing to be \"introduced\" to someone before communicating with them."
+   }
+  },
+  "2095472688902848716": {
+   "id": "2095472688902848716",
+   "url": "https://x.com/random_walker/status/2095472688902848716",
+   "text": "Meta released a new model with pricing that was unusually explicit about how valuable it is for AI companies to use your data — about a 95% discount! We also have good evidence of how strongly enterprises _don’t_ want AI companies to use their data: they stick with token-billed Enterprise plans even though the subscription-based consumer plans like Claude Max and ChatGPT Pro are discounted by 10x-20x or even more! (The main difference between the plans is data retention + enterprise IT governance).\n\nI understand why enterprises are so wary of AI companies, but given that many of them they are paying **thousands more per employee** compared to consumer plans, I think there’s an opportunity to build a routing layer that automatically switches plans based on the sensitivity of the specific task / session.",
+   "created_at": "Thu Sep 03 11:23:15 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 100,
+   "retweets": 13,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRScwlqasAAJGtP.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2095192113663103059": {
+   "id": "2095192113663103059",
+   "url": "https://x.com/random_walker/status/2095192113663103059",
+   "text": "There is a lot to say from an AI-as-normal-technology perspective about the OpenAI / Hugging Face incident and what lessons we should learn from it — some obvious points that need to be said anyway, and some non-obvious ones. Essay by @sayashk and me coming soon!",
+   "created_at": "Wed Sep 02 16:48:21 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 97,
+   "retweets": 1,
+   "media": [],
+   "quoted": null
+  },
+  "2094842596623319158": {
+   "id": "2094842596623319158",
+   "url": "https://x.com/random_walker/status/2094842596623319158",
+   "text": "This was a great article and I learned a lot from it. But while there's a lot of writing on robotics timelines, I've seen less on what happens once competent robots do inevitably arrive.\n\nUS agriculture employment share dropped 50x because of mechanization. This is very different from the effect that automation has repeatedly been predicted to have — but failed to have — on white collar work. The reason is simple. Blue collar work is real work. There is a fixed, finite amount of it out there. So the effect of automation tends to be substitution.\n\nBesides, job displacement can happen without humanoids. Take warehouses. There are credible forecasts that by 2030, half of new warehouses will be built for primarily autonomous operation (much easier than replacing workers in existing warehouses with humanoid robots). After that, it takes 1-2 decades for the economics for force most existing warehouses to switch over. That's millions of jobs in the US alone.\n\nWhite collar jobs are extremely malleable in their definition and variable in demand. When AI starts to do what we used to do, we just switch to doing new stuff and redefine the job. And we produce lots more units of work. There's no real ceiling to the amount of software that can be written or legal work that can be done.\n\nI can't believe some \"AI experts\" tell young people to pursue blue collar occupations because AI will eat the white collar work. I want to pre-register that this will turn out to be exactly ass-backwards.",
+   "created_at": "Tue Sep 01 17:39:29 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 270,
+   "retweets": 41,
+   "media": [],
+   "quoted": {
+    "author": "binarybits",
+    "text": "Robots can dance, do backflips, and run faster than Usain Bolt. This makes a lot of people worry about mass unemployment. But @chi_t_williams wrote an amazing article explaining why it'll take years — possibly decades — for robots to match humans. https://t.co/KVbCSf8UHa"
+   }
+  },
+  "2093595169488617943": {
+   "id": "2093595169488617943",
+   "url": "https://x.com/random_walker/status/2093595169488617943",
+   "text": "The stated reason is ToS violation. Perhaps. But it's also true that models are getting commoditized and value capture will increasingly happen at the application layer, and no one wants to be reduced to a commodity. Competition regulators need to be paying close attention to these developments. https://t.co/WbhsVQt2kz",
+   "created_at": "Sat Aug 29 07:02:40 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 52,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "OpenAI",
+    "text": "We’re ending our partnership with Cursor following its acquisition by SpaceX. Under our proposal, Cursor’s direct access to our models would end on November 12.\n\nWe know that the people most affected by this decision are the developers who rely on OpenAI models in Cursor. We care about their experience in this transition and we’re ready to go above and beyond to support them.\n\nhttps://t.co/OzuCTzUjfX"
+   }
+  },
+  "2093359668806512793": {
+   "id": "2093359668806512793",
+   "url": "https://x.com/random_walker/status/2093359668806512793",
+   "text": "My best rough estimate of the fraction of the scientific literature that’s wrong — flat-out wrong, you’d-be-nuts-to-rely-on-this wrong — is 80%. The problem is that the normal process of scientific self-correction takes time and happens through follow-up work that fails to reproduce experiments, finds computational errors, challenges assumptions, and so on. This is a big opportunity for AI-for-science tools. Agentic interfaces to the scientific literature should be designed so that when they look up a paper they should explicitly look for later work that challenges it. A harder but potentially far more impactful intervention is to use agents to auto-annotate papers in the pre-training corpus based on what other later sources have said about them, as well as re-weighting and other tricks. Of course AI developers shouldn’t become the arbiters of scientific truth but the fact that online information is of widely varying quality is already central to LLM pretraining recipes and agentic retrieval; my point is that there are responsible ways to apply this insight to the scientific corpus as well.",
+   "created_at": "Fri Aug 28 15:26:52 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 525,
+   "retweets": 70,
+   "media": [],
+   "quoted": null
+  },
+  "2093084125980741830": {
+   "id": "2093084125980741830",
+   "url": "https://x.com/random_walker/status/2093084125980741830",
+   "text": "My favorite thing about this site is when I get ratio'd, by which of course I mean a post getting more bookmarks than likes, which I take to mean that people found it useful enough to want to come back to later 🤗🙏 https://t.co/IzpaI6TOpf",
+   "created_at": "Thu Aug 27 21:11:57 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 30,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQwgPLGWUAAPUOj.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "random_walker",
+    "text": "This week I had the honor of speaking to Princeton’s entire incoming undergraduate class to address their AI anxieties. I had three messages for them — good news, bad news, and a note of optimism. Here’s a condensed version.\n\nThe good news\nWe have enough evidence now to conclude that the shrill predictions of rapid, massive job loss were misplaced. Even in a field like software engineering where AI has been rapidly adopted, its effect has been to shift, not replace the role of the human (see the “decide-execute-deliver” framework https://t.co/8ZofeCz8yS)\n\nSimilarly, the panic about what to major in is also misplaced. There will be enduring demand for computer science, philosophy, and just about everything else. (In fact, AI companies hiring philosophers has been a big recent trend.)\n\nThe bad news\nAI seems to help senior people much more than juniors. I can use AI for coding because I spent 25 years learning how to code, which lets me supervise coding agents effectively. (See my post on the “growth cycle” vs the “dependence spiral” https://t.co/79icF9hSKY)\n\nYou are in a bind — you can’t offload your skill-building to AI, but you’ll graduate into a market where employers will expect you to get work done with AI. We never faced this dilemma. As a result we haven’t figured out how to revamp our classes to help you do both. You’ll have to help us figure it out. And you’ll need to somehow resist the constant temptation to turn to the shortcut machine.\n\nThe hope\nMy point is not that AI is bad for learning. It’s an incredibly flexible tool. Is the internet good or bad for learning? Depends — are you using it to find research papers or waste time scrolling? I use AI every day for learning. The key is to use it to increase, not decrease your cognitive load. To learn deeper, not faster. There is no learning without the cognitive sweat. I try to make sure I’m mentally exhausted at the end of the day. I do feel that AI lets me push myself harder than I ever could before, and I have a vision that as AI continues to advance it will enable human-AI “co-superintelligence“. (I talked about this at the end of my ICML keynote. https://t.co/ZA5TBDypfl)"
+   }
+  },
+  "2092933101697585601": {
+   "id": "2092933101697585601",
+   "url": "https://x.com/random_walker/status/2092933101697585601",
+   "text": "This week I had the honor of speaking to Princeton’s entire incoming undergraduate class to address their AI anxieties. I had three messages for them — good news, bad news, and a note of optimism. Here’s a condensed version.\n\nThe good news\nWe have enough evidence now to conclude that the shrill predictions of rapid, massive job loss were misplaced. Even in a field like software engineering where AI has been rapidly adopted, its effect has been to shift, not replace the role of the human (see the “decide-execute-deliver” framework https://t.co/8ZofeCz8yS)\n\nSimilarly, the panic about what to major in is also misplaced. There will be enduring demand for computer science, philosophy, and just about everything else. (In fact, AI companies hiring philosophers has been a big recent trend.)\n\nThe bad news\nAI seems to help senior people much more than juniors. I can use AI for coding because I spent 25 years learning how to code, which lets me supervise coding agents effectively. (See my post on the “growth cycle” vs the “dependence spiral” https://t.co/79icF9hSKY)\n\nYou are in a bind — you can’t offload your skill-building to AI, but you’ll graduate into a market where employers will expect you to get work done with AI. We never faced this dilemma. As a result we haven’t figured out how to revamp our classes to help you do both. You’ll have to help us figure it out. And you’ll need to somehow resist the constant temptation to turn to the shortcut machine.\n\nThe hope\nMy point is not that AI is bad for learning. It’s an incredibly flexible tool. Is the internet good or bad for learning? Depends — are you using it to find research papers or waste time scrolling? I use AI every day for learning. The key is to use it to increase, not decrease your cognitive load. To learn deeper, not faster. There is no learning without the cognitive sweat. I try to make sure I’m mentally exhausted at the end of the day. I do feel that AI lets me push myself harder than I ever could before, and I have a vision that as AI continues to advance it will enable human-AI “co-superintelligence“. (I talked about this at the end of my ICML keynote. https://t.co/ZA5TBDypfl)",
+   "created_at": "Thu Aug 27 11:11:50 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1223,
+   "retweets": 298,
+   "media": [],
+   "quoted": {
+    "author": "random_walker",
+    "text": "There’s a big, under-appreciated reason why people may have very different experiences and opinions about using AI for work — are they using it for tasks they’re already an expert at, or tasks they can’t do themselves? The former leads to a *growth cycle* and the latter leads to a *dependence spiral*.\n\nWhen I use AI to do something I’m an expert at, like coding, I treat it as a tool. I can build quickly, maintaining an understanding of the code, knowing that if necessary, I can fix the code myself. It feels empowering. It frees up my time to think about the complex, judgment-oriented parts of software engineering that I can’t or won’t delegate to AI. That means my own skills improve rapidly, and I get to climb the ladder of complexity and develop higher-level skills, much more so than when I write the code myself. I feel in control. I can lock in and achieve a flow state — when AI is working, I’m reviewing, building understanding, and planning the next steps. I never get the feeling that the tool is about to replace me. This is the growth cycle.\n\n(Of course, the growth cycle is not automatic. I still need to exercise agency to use AI responsibly. But it’s the same challenge with any productivity-enhancing technology, and those who’ve navigated such transitions before are well-equipped to navigate it with AI as well.)\n\nOn the other hand, if I use it for tasks I don’t understand and haven’t learned to perform myself, I have no choice but to treat it as a superintelligence. If something breaks, the best I can do is ask AI to fix it and hope for the best. I generally can’t evaluate the quality of the output myself. The only way to find out if it's any good is if and when the work is ultimately reviewed by an actual expert. The experience is confusing, unsettling and disempowering. And forget about flow state. By over-relying on AI, I risk losing whatever skill I had at the task in the first place, even if it boosts productivity in the short term. This is the dependence spiral.\n\nIt’s no wonder that entry-level workers and students preparing to enter the workforce find themselves in a bind. To compete with the AI-enabled productivity of more seasoned workers, they must adopt AI themselves, but doing so risks the dependence spiral. I have some thoughts on solutions that I will share in later posts, but I think having a clear diagnosis of the problem is a useful first step."
+   }
+  },
+  "2092699874106261520": {
+   "id": "2092699874106261520",
+   "url": "https://x.com/random_walker/status/2092699874106261520",
+   "text": "ICML has released the videos! Here's my talk: https://t.co/rYHlxPHcNw\n\nRelatedly, @sayashk and I have collected the essays that we think are particularly helpful for understanding the AI as Normal Technology framework, organized into Foundational essays, Applications of the framework, and Technical research and explainers https://t.co/iVaVYEvFX6",
+   "created_at": "Wed Aug 26 19:45:05 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 169,
+   "retweets": 30,
+   "media": [],
+   "quoted": {
+    "author": "random_walker",
+    "text": "I had the honor of giving a keynote at the International Conference on Machine Learning in Seoul last week titled “What will be left for us to work on?” I addressed the widespread anxiety about how we should adapt as AI capabilities increase. I was thrilled by the talk’s reception, so I have made my slides available, annotated with a lightly edited transcript: https://t.co/vNgRJCL57B\n\nI made three arguments. First, the \"AI as Normal Technology\" framework is a correct and useful as a way to think about AI’s impacts, unless and until there is some future discontinuity such as through recursive self-improvement. Second, even though we should take recursive self-improvement seriously, there is no milestone that companies might achieve in the lab that will suddenly put us all out of work. Third and finally, jobs of the future will be radically different, and a lot of adaptation will be needed. I shared my thinking about what this might look like and ended with a vision of human/AI “co-superintelligence”."
+   }
+  },
+  "2092217718258733552": {
+   "id": "2092217718258733552",
+   "url": "https://x.com/random_walker/status/2092217718258733552",
+   "text": "I've been going on for a while about how automation and collaboration agents need to be designed differently, but that's just the start. Here are 11 different configurations of firm/worker/agent that I think will require different agent designs. The industry's current focus is on automation / delegation, overindexing on metrics like time horizon while ignoring others like collaboration skill, and treating the human as the bottleneck. So there's a huge unmet market need. This is also a great opportunity for research, provided we treat harness design not as an afterthought but as a set of open problems that will require expertise not just in machine learning but also human-computer interaction and organizational behavior.",
+   "created_at": "Tue Aug 25 11:49:10 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 250,
+   "retweets": 45,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQkMspsWEAEryYw.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2091909685674725451": {
+   "id": "2091909685674725451",
+   "url": "https://x.com/random_walker/status/2091909685674725451",
+   "text": "If these numbers feel shockingly small, it may help to remember that \n1. efficiency improvements drive an order-of-magnitude more AI progress than data center growth (5x/year *conservatively* vs 25% per year)\n2. bans do nothing about all the capacity already built.",
+   "created_at": "Mon Aug 24 15:25:09 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 24,
+   "retweets": 5,
+   "media": [],
+   "quoted": {
+    "author": "random_walker",
+    "text": "What impact do data center bans or moratoria have on AI progress? Let's do some napkin math. A number such as \"1 GW of capacity blocked\" can be unintuitive. But we can take advantage of the fact that the efficiency of AI inference at a given capability level has been consistently improving over time and this trend will likely continue. So blocking a certain amount of capacity roughly translates to delaying AI progress by a certain amount of time — the amount of time it will take to catch up to a given capability level through improved efficiency rather than increased compute.\n\nAs the table shows, if a typical U.S. state enacts a 1-year moratorium, it slows AI efficiency progress by 5-10 hours. That's assuming the blocked capacity doesn't get rebuilt elsewhere, which is extremely unrealistic. Data centers sites are highly substitutable. Assuming 90% \"leakage\", even a big state like NY banning all new data center construction only slows AI by less than a day.\n\nWhile I may have gotten some numbers slightly wrong (I used AI for the analysis and did some spot checks), the rough order-of-magnitude is enough to make my larger point: data center bans are not an effective way to slow AI. Of course, the local environmental effects are a big reason for these bans. That's a highly contested topic that I won't comment on here. But to the extent that support for these bans comes from people's generalized anxieties about AI and its societal and economic impacts, slowing new construction is an exceptionally ineffective way to channel those anxieties."
+   }
+  },
+  "2091906235670925377": {
+   "id": "2091906235670925377",
+   "url": "https://x.com/random_walker/status/2091906235670925377",
+   "text": "What impact do data center bans or moratoria have on AI progress? Let's do some napkin math. A number such as \"1 GW of capacity blocked\" can be unintuitive. But we can take advantage of the fact that the efficiency of AI inference at a given capability level has been consistently improving over time and this trend will likely continue. So blocking a certain amount of capacity roughly translates to delaying AI progress by a certain amount of time — the amount of time it will take to catch up to a given capability level through improved efficiency rather than increased compute.\n\nAs the table shows, if a typical U.S. state enacts a 1-year moratorium, it slows AI efficiency progress by 5-10 hours. That's assuming the blocked capacity doesn't get rebuilt elsewhere, which is extremely unrealistic. Data centers sites are highly substitutable. Assuming 90% \"leakage\", even a big state like NY banning all new data center construction only slows AI by less than a day.\n\nWhile I may have gotten some numbers slightly wrong (I used AI for the analysis and did some spot checks), the rough order-of-magnitude is enough to make my larger point: data center bans are not an effective way to slow AI. Of course, the local environmental effects are a big reason for these bans. That's a highly contested topic that I won't comment on here. But to the extent that support for these bans comes from people's generalized anxieties about AI and its societal and economic impacts, slowing new construction is an exceptionally ineffective way to channel those anxieties.",
+   "created_at": "Mon Aug 24 15:11:26 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 166,
+   "retweets": 32,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQfvrwVWEAAWp7o.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2090754227907833984": {
+   "id": "2090754227907833984",
+   "url": "https://x.com/random_walker/status/2090754227907833984",
+   "text": "I’m often critical of the Bitter Lesson because it tends to get overzealously applied, so I want to take a minute to acknowledge its core truth and usefulness using a recent example. Only about a year ago, we were in awe of “Deep Research” tools. But this kind of task-specific harness quickly got swallowed by general-purpose agents. And frankly, these agents are much better “deep researchers” than last year’s tools because you can prompt them how you want (in my case, I can get them to do my searching for me without trying to do my thinking for me).",
+   "created_at": "Fri Aug 21 10:53:46 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 154,
+   "retweets": 5,
+   "media": [],
+   "quoted": null
+  },
+  "2090460699981967582": {
+   "id": "2090460699981967582",
+   "url": "https://x.com/random_walker/status/2090460699981967582",
+   "text": "A question I've gotten for decades from non-technical folks who want to work in tech (say, tech policy) is how technical they should be. I've never had a satisfying answer, falling back on \"it depends\" — until now. \n\nI think most people in this position should be technical enough to use agents to get work done. You can do so even without any technical knowledge, but a little bit of investment in understanding how the tech works will go a long way toward getting more out of them and, more importantly, avoiding the ever-present pitfalls (verification, overreliance, skill erosion). It is also a great way to get an intuition for where the frontier of AI capabilities lies.\n\nAcquiring this just-enough-to-be-useful level of technical knowledge has gotten easier than ever because agents themselves are good teaching tools. Of course, you still have to put in the work to learn, and maintain a critical mindset. But the \"where do I even start?\" problem has gone away, you don't need a human tutor, and don't have to worry about hitting some technical snag (setting up a compiler or whatever) that's going to block your progress.\n\nUsually, people asking how technical they should be want to know if they should learn to code. My answer used to be \"probably\", but not anymore. The alpha of learning to code has gone down a lot. It used to be a good way to understand what computers can and can't do, but AI has shifted that boundary. And non-technical folks who learn to code typically aren't planning to write production software but rather do simple things like web scraping — tasks can be delegated to agents now.\n\nFinally, there is enduring value in learning basic computer science concepts, and AI is unlikely to undermine that.",
+   "created_at": "Thu Aug 20 15:27:24 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 91,
+   "retweets": 16,
+   "media": [],
+   "quoted": null
+  },
+  "2090421361474715996": {
+   "id": "2090421361474715996",
+   "url": "https://x.com/random_walker/status/2090421361474715996",
+   "text": "This made me wonder — are there newsletters that are getting sold? What happens to them? Do they get their subscriber lists harvested for spam? Very confused by the concept. https://t.co/79CDjAI2YD",
+   "created_at": "Thu Aug 20 12:51:05 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 127,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQKqJ8BXMAA3sru.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2090081055176868067": {
+   "id": "2090081055176868067",
+   "url": "https://x.com/random_walker/status/2090081055176868067",
+   "text": "Great insight. But why is this vision considered banal? Stack 10 or 20 of these advances like self-driving and medical breakthroughs, and life will feel unrecognizably different. That's nothing unprecedented, of course. It's been happening consistently for the last few centuries; gradual improvements add up enough to transform daily life over a span of a few decades or so. The real problem is that normal, gradual progress through technology is so out-of-fashion in the West and doesn't constitute a positive vision!",
+   "created_at": "Wed Aug 19 14:18:50 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 98,
+   "retweets": 6,
+   "media": [],
+   "quoted": {
+    "author": "binarybits",
+    "text": "People say nobody has a positive vision for an AI future. The problem is that the optimistic vision is a little banal: the world looks largely the same as it does now except that people are richer, we live longer, and we get to skip hassles like driving or doing our taxes."
+   }
+  },
+  "2090071455157416215": {
+   "id": "2090071455157416215",
+   "url": "https://x.com/random_walker/status/2090071455157416215",
+   "text": "A few people have recently claimed my tweets are actually AI. Apparently I go to great lengths to bypass AI detectors, but these people have seen right through it, as they are connoisseurs of fine human writing.\n\nI find this hilarious and don't plan to change my writing style, which has had some AI characteristics long before AI writing existed. As I've said before, it's not AI's style itself that makes it nauseating to read, but the disconnect between the punchy turns of phrase and the shallow substance behind those words. I'm confident enough in the substance of my writing that if my style is AI-like, I take it entirely as a compliment.\n\nIt's sad what the prevalence of slop has done to us, making us constantly second-guess everything we read. I find it best to stop worrying about whether something is AI and instead read it a second time to see if it reveals more depth than the first time or starts to feel hollow.",
+   "created_at": "Wed Aug 19 13:40:41 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 192,
+   "retweets": 21,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQFpCrZWQAAKYbH.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2089673199185183062": {
+   "id": "2089673199185183062",
+   "url": "https://x.com/random_walker/status/2089673199185183062",
+   "text": "LLMs are weird. Looking at various blogs and comments, the people who are most vociferously unwilling to entertain the idea of distortion-free watermarking seem to have a mental model in which the LLM generates the best possible output sequence and then the watermarking algorithm edits it. Except that’s not how it works at all. During normal generation, many of the tokens that an LLM picks _aren’t_ the one it considers the most likely next token. If you turned off the randomness, the first few tokens of any response would be great but then the output would eventually get stuck in loops and other degenerative behaviors. Humans don’t speak or write one word at a time, so this locally-optimal-but-globally-incoherent behavior is very counterintuitive.\n\nIf you analyzed unwatermarked / watermarked pairs of outputs with regard to some definition of quality, the watermarked output would indeed be worse — about half the time. The other half the time it would be better! That’s the sense in which watermarking doesn’t degrade quality. It is nonsensical to ask whether the quality of a specific unwatermarked output is degraded by watermarking. The algorithm doesn’t start from a specific output and modify it; instead it changes the sampling process. People seem to have a lot of trouble with the idea that it is not meaningful to compare pairs of outputs, only probability distributions.\n\nFinally, if some generated outputs are better than others, why not generate multiple outputs (watermarked or not) and only output the best one? You could! Repeated sampling is a valid and widely used way of improving quality (but it multiplies the cost). Unfortunately it only works to a small degree, except in narrow domains like code, because models tend to be only slightly better at assessing quality than at generating text.",
+   "created_at": "Tue Aug 18 11:18:09 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 207,
+   "retweets": 23,
+   "media": [],
+   "quoted": {
+    "author": "random_walker",
+    "text": "Something amazing is happening in the debate about text watermarking in Claude. This is my best attempt to make sense of the quickly evolving situation.\n\nThe key thing to keep in mind is that it is in fact possible to watermark LLM-generated text without degrading output quality (and in fact achieve a much stronger property, which is that the distribution of possible outputs is unchanged.) This is well established technically, and it has been implemented by Google / Gemini for over two years, and no one seemingly cared.\n\nAdmittedly, quality-preserving watermarking is one of those counterintuitive facts about probability, like that annoying Monty Hall problem (the one with two goats behind three doors). The theorem-understanding part of my brain has no problem with it, but the intuitive part of my brain is screaming that there must be some mistake.\n\nI have no interest in re-litigating this. What I’m curious about is why, when Anthropic announced that they are rolling out watermarking that doesn’t degrade outputs, so many of their customers seem to have concluded that they are lying.\n\nI think three things went wrong:\n\n1. Anthropic’s rollout was terrible from a comms perspective. There was no blog post; just a quiet support page with the title “How Claude marks AI-generated content” that said strangely little about how Claude actually marks AI-generated content. And it had no explanation of why they’ve rolled it out worldwide even though it’s required by law only in the EU. No transparency about who gets access to the watermark verifier.\n\n2. Generally low trust and high suspicion about Anthropic’s motivations, given their statements and actions over the last few months / years.\n\n3. Unresolved questions about the right tradeoff between individual users’ freedoms and the collective benefits of pervasive watermarking. Unlike Pangram-style AI detection, most people didn’t even know this was a thing, and it’s always uncomfortable to find out that a thing exists at the same time that you find out it’s mandatory with no opt-out.\n\nEvidently surprised by the strength of the backlash, Anthropic has been doing damage control, focusing on explaining how it works. But this only addresses the first point above. Once the narrative that they are lying took hold, people seem to be willing to reject anything they say about this topic, including the feasibility of distortion-free watermarking.\n\nThis is also a textbook example (I plan to use it in my classes!) to explain why the “tech policy moves slowly because politicians don’t understand tech” narrative is ridiculous. Tech policy does move slowly, but for the same reasons all policy moves slowly. Figuring out the right tradeoffs in almost any situation — and getting public buy-in — is genuinely hard and can never happen at the speed of tech. If tech policy were to move even half as fast as people constantly claim they want it to move, absolute chaos would result. This situation is a good example."
+   }
+  },
+  "2089414077286166911": {
+   "id": "2089414077286166911",
+   "url": "https://x.com/random_walker/status/2089414077286166911",
+   "text": "Something amazing is happening in the debate about text watermarking in Claude. This is my best attempt to make sense of the quickly evolving situation.\n\nThe key thing to keep in mind is that it is in fact possible to watermark LLM-generated text without degrading output quality (and in fact achieve a much stronger property, which is that the distribution of possible outputs is unchanged.) This is well established technically, and it has been implemented by Google / Gemini for over two years, and no one seemingly cared.\n\nAdmittedly, quality-preserving watermarking is one of those counterintuitive facts about probability, like that annoying Monty Hall problem (the one with two goats behind three doors). The theorem-understanding part of my brain has no problem with it, but the intuitive part of my brain is screaming that there must be some mistake.\n\nI have no interest in re-litigating this. What I’m curious about is why, when Anthropic announced that they are rolling out watermarking that doesn’t degrade outputs, so many of their customers seem to have concluded that they are lying.\n\nI think three things went wrong:\n\n1. Anthropic’s rollout was terrible from a comms perspective. There was no blog post; just a quiet support page with the title “How Claude marks AI-generated content” that said strangely little about how Claude actually marks AI-generated content. And it had no explanation of why they’ve rolled it out worldwide even though it’s required by law only in the EU. No transparency about who gets access to the watermark verifier.\n\n2. Generally low trust and high suspicion about Anthropic’s motivations, given their statements and actions over the last few months / years.\n\n3. Unresolved questions about the right tradeoff between individual users’ freedoms and the collective benefits of pervasive watermarking. Unlike Pangram-style AI detection, most people didn’t even know this was a thing, and it’s always uncomfortable to find out that a thing exists at the same time that you find out it’s mandatory with no opt-out.\n\nEvidently surprised by the strength of the backlash, Anthropic has been doing damage control, focusing on explaining how it works. But this only addresses the first point above. Once the narrative that they are lying took hold, people seem to be willing to reject anything they say about this topic, including the feasibility of distortion-free watermarking.\n\nThis is also a textbook example (I plan to use it in my classes!) to explain why the “tech policy moves slowly because politicians don’t understand tech” narrative is ridiculous. Tech policy does move slowly, but for the same reasons all policy moves slowly. Figuring out the right tradeoffs in almost any situation — and getting public buy-in — is genuinely hard and can never happen at the speed of tech. If tech policy were to move even half as fast as people constantly claim they want it to move, absolute chaos would result. This situation is a good example.",
+   "created_at": "Mon Aug 17 18:08:30 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 373,
+   "retweets": 57,
+   "media": [],
+   "quoted": null
+  },
+  "2088264679227355450": {
+   "id": "2088264679227355450",
+   "url": "https://x.com/random_walker/status/2088264679227355450",
+   "text": "In this short editorial for Science, @akashkapur and I talk about how India should approach AI sovereignty given the trend of models commoditizing and competition moving up the stack https://t.co/6rUZ9hSiJN",
+   "created_at": "Fri Aug 14 14:01:12 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 134,
+   "retweets": 19,
+   "media": [],
+   "quoted": null
+  },
+  "2087969513048305668": {
+   "id": "2087969513048305668",
+   "url": "https://x.com/random_walker/status/2087969513048305668",
+   "text": "Prediction: we will soon enter an era where the latency of agentic work is bottlenecked not by LLM inference speed but by tool use. Shell commands, build pipelines, computer use, web data extraction, and everything else that happens in the background is way slower than it needs to be, because it hasn't been subjected to the same kind of optimization pressure as LLMs, and isn't really getting faster.",
+   "created_at": "Thu Aug 13 18:28:19 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 840,
+   "retweets": 63,
+   "media": [],
+   "quoted": {
+    "author": "OpenAI",
+    "text": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14x the speed.\n\nLaunching first in the OpenAI API to a select group of customers with expanded access to more businesses as capacity grows. https://t.co/a5dleofiDJ"
+   }
+  },
+  "2087598781436944399": {
+   "id": "2087598781436944399",
+   "url": "https://x.com/random_walker/status/2087598781436944399",
+   "text": "Two contrasting patterns of working with agents are emerging: delegation and collaboration. Delegation makes sense when it's a long-horizon task that you want the agent to tackle asynchronously, your intent and specifications are clear to the agent, and it's easy to verify the output at the end even if you didn't stay in the loop. Effectively delegatable tasks are rarer than the hype would suggest, because it’s limited by what you can cheaply verify, not what the model can do.\n\nCollaboration makes sense when the task is hard to fully specify a priori and you want to be in the loop to iteratively figure out what you want, stay in control, recover from mistakes, sharpen your own skills through collaborative task performance, and have fun.\n\nThe design criteria for automation/delegation agents and collaboration agents are very different. If you're going to delegate a big task, accuracy and reliability are what matter the most. You want a frontier system that will do the best possible job. It doesn’t matter if the task will take minutes or hours. If you're going to collaborate with an agent, the criteria are more multifaceted: latency (even at the expense of accuracy), transparency/controllability, creativity, and more. The agent should allow the user to stay in a “flow state” instead of having to delegate a task and come back later. It should promote the user’s agency and be fun to work with.\n\nWe're at the very early stages of an emerging bifurcation between these two types of agents. (The conceptual distinction is ancient, but I’m talking about the product design of LLM-based agents + the practice of how people work with them.) I predict that the distinction will sharpen in the coming months. What's less clear is whether the specialization will happen at the level of companies, with some making a bet on automation and others on collaboration / human amplification, or at the level of products, with many companies going after both markets.",
+   "created_at": "Wed Aug 12 17:55:09 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 315,
+   "retweets": 55,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HPikAUFXkAATTI-.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2085367617758580882": {
+   "id": "2085367617758580882",
+   "url": "https://x.com/random_walker/status/2085367617758580882",
+   "text": "Recursive Self Improvement is a possibility worth taking seriously. Our new paper adds empirical evidence to the understanding of current capabilities, avoiding both extremes — hype based on naive trend extrapolation and knee-jerk dismissal based on hand-wavy arguments. https://t.co/BfbwyLNyKi",
+   "created_at": "Thu Aug 06 14:09:18 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 402,
+   "retweets": 53,
+   "media": [],
+   "quoted": null
+  },
+  "2082880637690695883": {
+   "id": "2082880637690695883",
+   "url": "https://x.com/random_walker/status/2082880637690695883",
+   "text": "📢AI agents can autonomously conduct AI research when the result is easily verifiable, but what about open-ended AI research? That’s much harder to study, and our new preprint is our first crack at doing so. Our main finding is negative, and we identify five recurring failure modes. https://t.co/UzoUvTTxbi\n\nOur results are tentative, and we are working to address the limitations (sample size, potential scaffold improvements). But if the finding holds up, what are the implications? It depends on whether you think recursive self improvement can be achieved simply by hill climbing at scale (I personally don’t think so) and whether you think current limitations of open-ended research like judgment and creativity could change quickly (I’m personally very open to this possibility). We plan to continue this style of evaluation — which we call shadow evaluation — on a regular basis.\n\nWe’ve wanted to do this for two years, but it took so long because we wanted to get the method right. The idea behind shadow evaluation was suggested by some of the UK AISI coauthors of the paper and refined by the Princeton team. This method has important advantages (and limitations) over the current ways of evaluating agents’ ability to conduct AI research. If you’re an AI researcher interested in working with us on a shadow evaluation based on one of your papers, we’d love to hear from you. https://t.co/UKoxLVrT76\n\nThis type of evaluation necessarily involves a ton of researcher flexibility in design, execution, and interpretation. Members of the core team have a particular position in the debate on recursive self-improvement / superintelligence, and this could influence how we conduct the research. We have a detailed section in the paper on our potential biases and how we address them. We sought out a team of collaborators who don’t all share our priors, and we explicitly surface the interpretive disagreements that resulted. For future evaluations, we are interested in having “adversarial collaborators” as part of the core team.\n\nThis paper exists because of the careful, time-consuming and very much human work that @PKirgis, @sayashk, Andrew Schwartz, and @steverab did over the last few months. I'm also very grateful to the larger group of collaborators and co-authors. The work is part of the larger CRUX project that pushes frontier AI agents beyond what benchmarks can measure (https://t.co/g937gpS65j). We are looking for a senior researcher to join the team: https://t.co/Jr6dv7UChH",
+   "created_at": "Thu Jul 30 17:26:56 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 100,
+   "retweets": 27,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOff8MVW4AACulh.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2082417715558404140": {
+   "id": "2082417715558404140",
+   "url": "https://x.com/random_walker/status/2082417715558404140",
+   "text": "Imagine if car safety testers only did tests on the engine and called it a day, instead of testing the vehicle itself. This is roughly the situation in our understanding of the mental health risks of chatbots. Most of the research is on models but models aren't what people interact with. Chatbots used to be thin wrappers around models, so this used to be an acceptable approximation that enabled automated testing, but not anymore. The chatbot scaffold drastically affects the safety profile, in ways both good and bad: memory and personalization, search and other tools, additional guardrails and filters, drift during extended interactions, and more. Research needs to keep pace with the changing tech and companies need to provide better access to external researchers.",
+   "created_at": "Wed Jul 29 10:47:27 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 94,
+   "retweets": 18,
+   "media": [],
+   "quoted": null
+  },
+  "2082163285588107752": {
+   "id": "2082163285588107752",
+   "url": "https://x.com/random_walker/status/2082163285588107752",
+   "text": "To understand and empathize with how workers in many or most fields outside software experience advances in AI capabilities, I propose a little thought experiment. https://t.co/QZG24aRiBe",
+   "created_at": "Tue Jul 28 17:56:26 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1807,
+   "retweets": 191,
+   "media": [],
+   "quoted": null
+  },
+  "2081809621795094885": {
+   "id": "2081809621795094885",
+   "url": "https://x.com/random_walker/status/2081809621795094885",
+   "text": "My post is about the technical feasibility of AI detection, not the ethics of its use by teachers/professors or any other specific application. I continue to think that if we frame the issue of AI use by students in a way that invites an escalating arms race, we've lost the plot.",
+   "created_at": "Mon Jul 27 18:31:06 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 34,
+   "retweets": 5,
+   "media": [],
+   "quoted": {
+    "author": "random_walker",
+    "text": "I tried exactly this back in February using Claude Code. It worked pretty easily, though ~all of the important ideas had to come from me and CC itself couldn't figure them out.*\n\nI tried it again a week ago. Complete failure, despite Claude being much better and not needing as much guidance from me. Pangram seems to have been dramatically hardened in the last few months. The API kept returning scores > 0.99 for AI writing so there wasn't even a gradient for it to figure out what's working and what isn't.\n\n* Things it couldn't figure out on its own a few months ago, even after a bunch of iterations:\n1) Remove well-known tells like em-dashes (!)\n2) Do controlled experiments instead of stuffing a bunch of ideas at once\n3) Start from known-best text and surgically make edits. Much better than trying to rewrite the whole essay (or even paragraphs or sentences) because the that just produces text from the LLM distribution all over again.\n\nIn my more recent experiment, 1) and 2) were obvious to Fable but 3) still wasn't. Pretty surprising.\n\nAnyway, hats off to @pangram. I'll probably give it another shot at some point but I'm more-or-less ready to change my mind as an AI-detection skeptic.\n\nThis was the LLM summary from my first experiment BTW. Still gives me a chuckle."
+   }
+  },
+  "2081713721785631202": {
+   "id": "2081713721785631202",
+   "url": "https://x.com/random_walker/status/2081713721785631202",
+   "text": "I tried exactly this back in February using Claude Code. It worked pretty easily, though ~all of the important ideas had to come from me and CC itself couldn't figure them out.*\n\nI tried it again a week ago. Complete failure, despite Claude being much better and not needing as much guidance from me. Pangram seems to have been dramatically hardened in the last few months. The API kept returning scores > 0.99 for AI writing so there wasn't even a gradient for it to figure out what's working and what isn't.\n\n* Things it couldn't figure out on its own a few months ago, even after a bunch of iterations:\n1) Remove well-known tells like em-dashes (!)\n2) Do controlled experiments instead of stuffing a bunch of ideas at once\n3) Start from known-best text and surgically make edits. Much better than trying to rewrite the whole essay (or even paragraphs or sentences) because the that just produces text from the LLM distribution all over again.\n\nIn my more recent experiment, 1) and 2) were obvious to Fable but 3) still wasn't. Pretty surprising.\n\nAnyway, hats off to @pangram. I'll probably give it another shot at some point but I'm more-or-less ready to change my mind as an AI-detection skeptic.\n\nThis was the LLM summary from my first experiment BTW. Still gives me a chuckle.",
+   "created_at": "Mon Jul 27 12:10:02 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 249,
+   "retweets": 21,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOO4TLEXoAAWVaf.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "alxfazio",
+    "text": "nothing against pangram, but you guys do realise you could just hook codex up to the pangram api and have it keep rewriting until the eval says it’s fully human, right? https://t.co/smCg0ukmtS"
+   }
+  },
+  "2078895266468659338": {
+   "id": "2078895266468659338",
+   "url": "https://x.com/random_walker/status/2078895266468659338",
+   "text": "What should we do with the time savings enabled by AI? The default approach is to simply produce more output. In my ICML talk, I advocated that we instead reinvest that time into ourselves. We should shift more of our work time from short-term productivity to long-term growth and learning, focusing on skills complementary to what AI will automate. Managing, controlling, evaluating, and directing highly capable AI agents requires very different skills than doing the cognitive heavy lifting ourselves. And as AI enables us to take on ever more ambitious projects, we will need a broader base of substantive knowledge and skills, which demands continual learning. https://t.co/vNgRJCL57B",
+   "created_at": "Sun Jul 19 17:30:30 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 186,
+   "retweets": 27,
+   "media": [],
+   "quoted": null
+  },
+  "2078552912960053458": {
+   "id": "2078552912960053458",
+   "url": "https://x.com/random_walker/status/2078552912960053458",
+   "text": "Read this to understand how the labs are \"going vertical\" https://t.co/tAcYFMzgtk https://t.co/Xq4P8y54Mm",
+   "created_at": "Sat Jul 18 18:50:06 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 98,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HNiAy6MXMAA6ZLh.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "alexolegimas",
+    "text": "AGI will very likely be a commodity. This is not a value judgement, it's just the outcome of an economically-valuable product + competitive markets. Implicitly people see this coming and are leaning into it, hence the big push from all the labs to go vertical.\n\nA few things can prevent this: 1) regulation or 2) a moat, so it's definitely not a certainty. But absent that, this is where things are going."
+   }
+  },
+  "2078502901392069025": {
+   "id": "2078502901392069025",
+   "url": "https://x.com/random_walker/status/2078502901392069025",
+   "text": "Here's a detailed analysis of whether and how AI labs can capture value https://t.co/tAcYFMzgtk by me and @akashkapur. \n(In the Further Reading section we discuss where our analysis agrees/disagrees with Prof. Garicano's.)",
+   "created_at": "Sat Jul 18 15:31:23 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 71,
+   "retweets": 9,
+   "media": [],
+   "quoted": {
+    "author": "lugaricano",
+    "text": "Value creation and value capture are different things. Airlines transformed the world and never made money; the surplus went to passengers. Days after launching its best model, Anthropic includes it in existing plans. That is what competition does: the surplus goes to users, not to the labs. Profits will not justify these valuations."
+   }
+  },
+  "2078468802665439651": {
+   "id": "2078468802665439651",
+   "url": "https://x.com/random_walker/status/2078468802665439651",
+   "text": "1) Justin's work on this paper was brilliant.\n2) It's a powerful case study of why increasing AI capabilities don't automatically lead to economic & societal benefits. Really worth a read.\n3) AI companies would greatly benefit from hiring more people who think carefully about the bottlenecks and opportunities that lie downstream of the models themselves. Congrats to both Justin and Anthropic!",
+   "created_at": "Sat Jul 18 13:15:53 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 119,
+   "retweets": 13,
+   "media": [],
+   "quoted": {
+    "author": "curl_justin",
+    "text": "Also sharing the full diagram of our argument for the bottlenecks between AI capabilities and cheaper legal services https://t.co/SROKUrDkmD"
+   }
+  },
+  "2077748585873944873": {
+   "id": "2077748585873944873",
+   "url": "https://x.com/random_walker/status/2077748585873944873",
+   "text": "This is one of the most important questions about AI and one that I've thought about. In countries like India, much of the economy is informal — heavily reliant on tacit knowledge that's not written down anywhere, processes never codified, \"I know a guy who knows a guy\" networks, and pervasive corruption. This underground economy is trapped in a vicious cycle: low wages + extreme illegibility → no incentive for private actors to build AI for their use cases → everything stays informal + low productivity. I don't know if governments and/or NGOs can help break this cycle, but if they can, its impact would easily exceed that of rural electrification. India has successfully built and deployed digital infrastructure for legibility in the past — Aadhaar and UPI — so there is hope. \n\nTwo important and depressing readings on related points: \n\nDispatches from India https://t.co/kPJ3Av3kPQ by @arjun_ramani3. There's a lot in there and I won't try to summarize it, but it helps explain why this project is not just a matter of building technology. \"Many of the basic facts needed to operate in Indian society are not recorded anywhere, but rather sit inside the heads of various information brokers who live off the rents from keeping that information private.\" In other words, codification will be actively resisted by rent seekers who are adapted to the current system.\n\nAI could keep poor countries poor https://t.co/N4WJ9HK6gX by @deenamousa. Past waves of technology and globalization benefited poor countries because they got to export the products and services created through their cheap labor. AI probably won't have this effect — it substitutes cheap labor even more cheaply. (Implication: this makes it even more important for them to find ways to use AI to improve their local economies.)",
+   "created_at": "Thu Jul 16 13:34:00 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 150,
+   "retweets": 29,
+   "media": [],
+   "quoted": {
+    "author": "ShriramKMurthi",
+    "text": "Reading @random_walker made me think: one of the great (and most undersung) achievements of the 20th century was rural electrification. If \"AI is the new electricity\", what is \"rural AIification\"? \"Rural\" here is obviously a metaphor, though it has some literal elements too."
+   }
+  },
+  "2077464668847624285": {
+   "id": "2077464668847624285",
+   "url": "https://x.com/random_walker/status/2077464668847624285",
+   "text": "Hill climbing on AI benchmarks can increasingly be done by AI itself. This is potentially a very positive development for AI research as it frees up human time to focus on judgment-heavy, non-verifiable aspects of research. Of course, it will break peer review (even more than it's already broken), because benchmark performance will cease to be a useful filter (even to the minimal degree that it is useful today). What comes next? This recent paper provides some suggestions for how peer review and other evaluation practices should change (I had a small role): https://t.co/mDOCrvKg0D",
+   "created_at": "Wed Jul 15 18:45:49 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 105,
+   "retweets": 6,
+   "media": [],
+   "quoted": null
+  }
+ }
+}
