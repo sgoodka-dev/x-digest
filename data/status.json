@@ -1,11 +1,11 @@
 {
  "last_run": {
-  "started": "2026-10-02T11:21:14.316688+00:00",
+  "started": "2026-10-03T10:37:07.794589+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
     "new": 4,
-    "total": 64
+    "total": 68
    },
    "add_hawk": {
     "ok": true,
@@ -14,12 +14,12 @@
    },
    "ajeya_cotra": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 61
    },
    "alxndrdavies": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 61
    },
    "curl_justin": {
@@ -29,18 +29,18 @@
    },
    "DaveRBanerjee": {
     "ok": true,
-    "new": 3,
-    "total": 63
+    "new": 1,
+    "total": 64
    },
    "DKokotajlo": {
     "ok": true,
     "new": 1,
-    "total": 61
+    "total": 62
    },
    "dwarkesh_sp": {
     "ok": true,
     "new": 1,
-    "total": 61
+    "total": 62
    },
    "jkcarlsmith": {
     "ok": true,
@@ -59,18 +59,18 @@
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 2,
-    "total": 62
+    "new": 1,
+    "total": 63
    },
    "ohlennart": {
     "ok": true,
     "new": 1,
-    "total": 61
+    "total": 62
    },
    "sayashk": {
     "ok": true,
-    "new": 4,
-    "total": 64
+    "new": 1,
+    "total": 65
    },
    "testingham": {
     "ok": true,
@@ -79,21 +79,21 @@
    },
    "slatestarcodex": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 61
    },
    "s8mb": {
     "ok": true,
-    "new": 60,
-    "total": 60
+    "new": 5,
+    "total": 65
    },
    "random_walker": {
     "ok": true,
-    "new": 60,
-    "total": 60
+    "new": 2,
+    "total": 62
    }
   },
-  "new_tweets": 139,
-  "finished": "2026-10-02T11:21:46.467385+00:00"
+  "new_tweets": 17,
+  "finished": "2026-10-03T10:37:46.015581+00:00"
  }
 }

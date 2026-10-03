@@ -1143,6 +1143,48 @@
    "retweets": 6,
    "media": [],
    "quoted": null
+  },
+  "2106071144952680549": {
+   "id": "2106071144952680549",
+   "url": "https://x.com/random_walker/status/2106071144952680549",
+   "text": "I'm at the Curve this weekend! I'll be talking about RSI on Sunday at 2pm. Also excited to talk about:\n\n- What does a big-tent AI safety movement look like?\n- How can we make progress on policy proposals where there is common ground across the community?\n- How can we improve our RSI evaluations?",
+   "created_at": "Fri Oct 02 17:17:44 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "sayashk",
+   "rt_author_name": "Sayash Kapoor",
+   "likes": 34,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTo6d8ubQAUa7ss.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2106044389286117483": {
+   "id": "2106044389286117483",
+   "url": "https://x.com/random_walker/status/2106044389286117483",
+   "text": "New blog post!\n\nI argue that the “stochastic parrots” metaphor dismisses LLM capabilities by reducing them to “haphazardly stitching together” text... \n\n ...but retreats to the trivially true claim that LLMs predict the next token when challenged.\n\nhttps://t.co/VIYPBEjX5o https://t.co/CRBtJHETbe",
+   "created_at": "Fri Oct 02 15:31:25 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "manoelribeiro",
+   "rt_author_name": "Manoel",
+   "likes": 23,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HToiHrZXQAAUSAM.png"
+    }
+   ],
+   "quoted": null
   }
  }
 }

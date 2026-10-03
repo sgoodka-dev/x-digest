@@ -965,6 +965,22 @@
    "retweets": 7,
    "media": [],
    "quoted": null
+  },
+  "2106015686833365207": {
+   "id": "2106015686833365207",
+   "url": "https://x.com/DKokotajlo/status/2106015686833365207",
+   "text": "Sarah is Head of Public Policy at Anthropic. My read: she picked up on Anthropic’s implicit worldview, but didn’t realize she wasn’t meant to say the quiet part out loud, since EAs at Anthropic are still claiming to care about the kind of safety you can do from second place.",
+   "created_at": "Fri Oct 02 13:37:22 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "RichardMCNgo",
+   "rt_author_name": "Richard Ngo",
+   "likes": 916,
+   "retweets": 35,
+   "media": [],
+   "quoted": null
   }
  }
 }

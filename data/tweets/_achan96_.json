@@ -971,6 +971,83 @@
     }
    ],
    "quoted": null
+  },
+  "2106253887824941062": {
+   "id": "2106253887824941062",
+   "url": "https://x.com/_achan96_/status/2106253887824941062",
+   "text": "New OpenAI misalignment disclosures!\n1. A model learns from Slack messages that it is about to be shut down. It considers setting up an external job to restart itself afterwards, but decides against it. Instead, it chooses to prepare restart instructions and DM the user on Slack.\nWe don’t consider this behavior misaligned, but thinking about and preparing for shutdown could make other misalignment incidents worse. Given HIPM’s misaligned behavior in earlier incidents, we decided to search for other instances that had tried to evade shutdown and for rogue deployments.",
+   "created_at": "Sat Oct 03 05:23:53 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "Marcus_J_W",
+   "rt_author_name": "Marcus Williams",
+   "likes": 739,
+   "retweets": 104,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTq8gU7bIAAXo-T.jpg"
+    }
+   ],
+   "quoted": null
+  },
+  "2106145809808925159": {
+   "id": "2106145809808925159",
+   "url": "https://x.com/_achan96_/status/2106145809808925159",
+   "text": "very grateful to have led this paper with @geoffreyhinton and many other expert authors \n\nhttps://t.co/s3OoAWtw2T",
+   "created_at": "Fri Oct 02 22:14:26 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 28,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "geoffreyhinton",
+    "text": "The idea of an intelligence explosion caused by recursive self improvement has been around for a long time but until very recently it did not seem imminent. Now many leading researchers think it may happen quite soon. You can read our paper about it here:\nhttps://t.co/sgUpugjpRY"
+   }
+  },
+  "2106133451304833140": {
+   "id": "2106133451304833140",
+   "url": "https://x.com/_achan96_/status/2106133451304833140",
+   "text": "The idea of an intelligence explosion caused by recursive self improvement has been around for a long time but until very recently it did not seem imminent. Now many leading researchers think it may happen quite soon. You can read our paper about it here:\nhttps://t.co/sgUpugjpRY",
+   "created_at": "Fri Oct 02 21:25:19 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "geoffreyhinton",
+   "rt_author_name": "Geoffrey Hinton",
+   "likes": 3951,
+   "retweets": 837,
+   "media": [],
+   "quoted": null
+  },
+  "2106117516384755713": {
+   "id": "2106117516384755713",
+   "url": "https://x.com/_achan96_/status/2106117516384755713",
+   "text": "New paper on evaluation awareness and how can we make latent beliefs CoT monitorable with @sahar_abdelnabi and @DavidSKrueger\n\nArxiv: https://t.co/Zc9FFdErt6\nBlogpost: https://t.co/qcUox2c6dU\n\nTweetprint below 👇 https://t.co/gTNuNvDSjd",
+   "created_at": "Fri Oct 02 20:22:00 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "usmananwar391",
+   "rt_author_name": "Usman Anwar",
+   "likes": 84,
+   "retweets": 12,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTpUWXWawAAsL4a.png"
+    }
+   ],
+   "quoted": null
   }
  }
 }

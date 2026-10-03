@@ -1206,6 +1206,30 @@
    "retweets": 6,
    "media": [],
    "quoted": null
+  },
+  "2106061009043824956": {
+   "id": "2106061009043824956",
+   "url": "https://x.com/sayashk/status/2106061009043824956",
+   "text": "I'm at the Curve this weekend! I'll be talking about RSI on Sunday at 2pm. Also excited to talk about:\n\n- What does a big-tent AI safety movement look like?\n- How can we make progress on policy proposals where there is common ground across the community?\n- How can we improve our RSI evaluations?",
+   "created_at": "Fri Oct 02 16:37:27 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 34,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTo6d8ubQAUa7ss.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "random_walker",
+    "text": "New essay: A big-tent or small-tent AI safety movement?\nThe unstated disagreement that underpins safety debates\nhttps://t.co/4T9n7BLTWX\n\nTwo narratives about AI safety have emerged: either AI existential risk is real and imminent, or AI leaders’ and whistleblowers’ claims to that effect are insincere — a “psyop” or hype or a twisted form of regulatory capture.\n\nFew have considered the third possibility that x-risk warnings are sincere but simply wrong and counterproductive to AI safety. It’s as if everyone takes for granted that those raising the alarm are geniuses, and the only question is whether they’re the benevolent or the evil kind of genius.\n\nWe subscribe to neither narrative. In our writing on AI safety, @sayashk and I consistently tried to take the arguments seriously but rebut the many claims we think are unsound while highlighting safety concerns that we think are real. This essay is a continuation of that agenda.\n\nSections\n- It is true that we systematically underinvest in resilience against catastrophic and systemic risks\n- The Coxon incident shows how the warped media environment elevates x-risk over more grounded concerns\n- Why the x-risk framing may be counterproductive for AI safety policy\n- Conclusion: a big tent or small tent AI safety movement?"
+   }
   }
  }
 }
