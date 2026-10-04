@@ -1096,6 +1096,57 @@
     "author": "geoffreyhinton",
     "text": "The idea of an intelligence explosion caused by recursive self improvement has been around for a long time but until very recently it did not seem imminent. Now many leading researchers think it may happen quite soon. You can read our paper about it here:\nhttps://t.co/sgUpugjpRY"
    }
+  },
+  "2106586696620118310": {
+   "id": "2106586696620118310",
+   "url": "https://x.com/DaveRBanerjee/status/2106586696620118310",
+   "text": "It is quite unfortunate that progress is going to be so fast that USG will really struggle to set a policy in stone on how to regulate the frontier AI companies",
+   "created_at": "Sun Oct 04 03:26:21 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "yonashav",
+    "text": "120 days ago is before the Fable 5 export controls, HPIM hacking HF, the Jacobian conjecture disproof, or a single lab exec or federal politician being anything other than skeptical of slowing down.\n\nWhatever this report actually ends up saying, it’ll probably sound pretty implausible to us right now."
+   }
+  },
+  "2106355960298299459": {
+   "id": "2106355960298299459",
+   "url": "https://x.com/DaveRBanerjee/status/2106355960298299459",
+   "text": "The contrast between hanging up the last phone call of the day of high-stakes decisions and then a minute later walking in the door to the pure love of small children who want to laugh and play and show you every discovery they made that day is the strangest and best thing I have ever experienced in life.",
+   "created_at": "Sat Oct 03 12:09:29 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "sama",
+   "rt_author_name": "Sam Altman",
+   "likes": 21030,
+   "retweets": 569,
+   "media": [],
+   "quoted": null
+  },
+  "2106354548944089455": {
+   "id": "2106354548944089455",
+   "url": "https://x.com/DaveRBanerjee/status/2106354548944089455",
+   "text": "Someone told me “see you in the FTC,” clearly in response to calls for pacing the frontier\n\nI think this whole anti-trust argument is hilarious because anti trust is going to be the biggest decel lever in the future\n\nIn a couples years, once the AGI labs develop human-level AI, they may be the biggest companies ever dominating multiple verticals across the economies\n\nWhen this happens, the hammers of antitrust will fall, and I can assure you every accelerationists will be singing about how evil such antitrust practices are\n\nIt’s worth noting that for those interested in slowing down AI progress, there may be tools in the anti trust kit that are being systematically neglected atm",
+   "created_at": "Sat Oct 03 12:03:53 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [],
+   "quoted": null
   }
  }
 }

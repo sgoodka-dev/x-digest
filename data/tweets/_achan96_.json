@@ -1048,6 +1048,43 @@
     }
    ],
    "quoted": null
+  },
+  "2106451365753159859": {
+   "id": "2106451365753159859",
+   "url": "https://x.com/_achan96_/status/2106451365753159859",
+   "text": "Frontier models can look aligned during training while later showing unwanted behaviour in deployment.\n\nCan we use internal signals during training to align models better without making white-box monitoring harder?\n\nOur new paper suggests yes 🧵 https://t.co/CY4VG15AtO",
+   "created_at": "Sat Oct 03 18:28:36 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "lenalibon",
+   "rt_author_name": "Lena Libon @ COLM 2026",
+   "likes": 141,
+   "retweets": 23,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HToa9L6aAAA562m.png"
+    }
+   ],
+   "quoted": null
+  },
+  "2106451347478651034": {
+   "id": "2106451347478651034",
+   "url": "https://x.com/_achan96_/status/2106451347478651034",
+   "text": "Another super-strong result on the hypothesis of the Safety Polytope! Linear directions aren't complex enough to capture safety and honesty. The representation space of the constitution of all subconcepts of safety/honesty forms several linear constraints, i.e., a polytope. When used in fine-tuning, it provides a principled way of training without losing interpretability and monitorability.",
+   "created_at": "Sat Oct 03 18:28:31 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "XinCynthiaChen",
+   "rt_author_name": "Xin Chen, Cynthia",
+   "likes": 37,
+   "retweets": 3,
+   "media": [],
+   "quoted": null
   }
  }
 }

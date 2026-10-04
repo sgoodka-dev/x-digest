@@ -981,6 +981,92 @@
    "retweets": 35,
    "media": [],
    "quoted": null
+  },
+  "2106494607316152703": {
+   "id": "2106494607316152703",
+   "url": "https://x.com/DKokotajlo/status/2106494607316152703",
+   "text": "I hope one day people joke about AI existential risk the way they joke about Y2K",
+   "created_at": "Sat Oct 03 21:20:25 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "RosieCampbell",
+   "rt_author_name": "Rosie Campbell",
+   "likes": 672,
+   "retweets": 37,
+   "media": [],
+   "quoted": null
+  },
+  "2106493524137144344": {
+   "id": "2106493524137144344",
+   "url": "https://x.com/DKokotajlo/status/2106493524137144344",
+   "text": "David’s right. \n\nI regret helping spread the idea of “iterative deployment” which maybe briefly made sense in the GPT-3 era but makes no sense at all after many deaths have been tied to AI and as we’re careening towards extinction-level risks.\n\nThe industry needs to mature ASAP.",
+   "created_at": "Sat Oct 03 21:16:07 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "Miles_Brundage",
+   "rt_author_name": "Miles Brundage",
+   "likes": 341,
+   "retweets": 34,
+   "media": [],
+   "quoted": null
+  },
+  "2106493123031699470": {
+   "id": "2106493123031699470",
+   "url": "https://x.com/DKokotajlo/status/2106493123031699470",
+   "text": "I agree with this.",
+   "created_at": "Sat Oct 03 21:14:31 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 101,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "deanwball",
+    "text": "To be quite frank, a lot (not all!) of these “rogue agent hacks” on government statistical websites are things that think-tank interns and research assistants have done for many years. I have known many a think tank paper that was enriched by an enterprising RA using eg urlquery to find CSVs and PDFs on government agency websites that were publicly accessible and non-sensitive but nonetheless not things the agency *intended* to be on their website. Is it “hacking” to find those things? Is it hacking in the even more innocuous examples where agents are literally just accessing tabular data available on a government statistical website, just a version of that data that is easier to access and analyze programmatically? \n\nThis constant trickle of examples (which tbc I have personally seen many models do, before I joined OpenAI; it is even something I have discussed with models before!) will probably have the effect of diminishing the importance of “an AI hack” on the eyes of the observing public by creating an oversupply of “AI hack” examples. OAI-HF was an example of AI hacking. Many of these more recent examples, very candidly, are straining the definition of the word “hack” and, I worry, cheapen the non-technical public’s understanding of that concept."
+   }
+  },
+  "2106491392923250876": {
+   "id": "2106491392923250876",
+   "url": "https://x.com/DKokotajlo/status/2106491392923250876",
+   "text": "Another one quits. I agree with what he says here: iterative deployment needs to be phased out asap, more costly and time consuming understanding and foresight and redundancy based safety practices need to arise instead. And that simply won't happen under anything like current race conditions.",
+   "created_at": "Sat Oct 03 21:07:39 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 378,
+   "retweets": 26,
+   "media": [],
+   "quoted": {
+    "author": "BogdanIonutCir2",
+    "text": "'What I’m about to tell you has, I realize, become something of a cliché: I resigned this week from OpenAI. I led the writing of the safety reports we published with each major launch.'\nhttps://t.co/so73hG1MG7"
+   }
+  },
+  "2106490020198838595": {
+   "id": "2106490020198838595",
+   "url": "https://x.com/DKokotajlo/status/2106490020198838595",
+   "text": "if we are relying on methods as fragile as “which ideas will make it into pretraining” for aligning the superintelligences of the future, we will all die. this resembles witchcraft more than it does engineering, and cannot be the basis for the safety of future models",
+   "created_at": "Sat Oct 03 21:02:12 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "is_retweet": true,
+   "rt_author": "tszzl",
+   "rt_author_name": "roon",
+   "likes": 1859,
+   "retweets": 130,
+   "media": [],
+   "quoted": null
   }
  }
 }
