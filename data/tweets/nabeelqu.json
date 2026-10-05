@@ -1967,6 +1967,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2107175577530912897": {
+   "id": "2107175577530912897",
+   "url": "https://x.com/nabeelqu/status/2107175577530912897",
+   "text": "@alexisgallagher You are confusing the median and the max.",
+   "created_at": "Mon Oct 05 18:26:21 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": true,
+   "reply_to": "alexisgallagher",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
   }
  }
 }

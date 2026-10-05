@@ -1293,6 +1293,397 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2107190125142897054": {
+   "id": "2107190125142897054",
+   "url": "https://x.com/testingham/status/2107190125142897054",
+   "text": "@karthiktadepall @DevenPzak Hutter prize compression competition: https://t.co/OGTZzlZGko",
+   "created_at": "Mon Oct 05 19:24:10 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "testingham",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HT4-KiXbwAAZ-SF.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2107189864823488582": {
+   "id": "2107189864823488582",
+   "url": "https://x.com/testingham/status/2107189864823488582",
+   "text": "@karthiktadepall NanoGPT (showing @DevenPzak 's huge jump, but not his more-recent even bigger apparent jump). https://t.co/PNxVV50m82",
+   "created_at": "Mon Oct 05 19:23:08 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "testingham",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HT49u3ybIAAA274.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2107189485326995657": {
+   "id": "2107189485326995657",
+   "url": "https://x.com/testingham/status/2107189485326995657",
+   "text": "Data: https://t.co/Is28wxbjHo\n\nOriginal blog post: https://t.co/UADyLlhg1M\n\nRelated by @karthiktadepall  on games: https://t.co/18FNyziadE",
+   "created_at": "Mon Oct 05 19:21:37 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "testingham",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "karthiktadepall",
+    "text": "no evidence of AI coding uplift in video game development. \n\nwhy? https://t.co/aiNqKAygA4"
+   },
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2107188676883280046": {
+   "id": "2107188676883280046",
+   "url": "https://x.com/testingham/status/2107188676883280046",
+   "text": "Finally we want a theory of why some metrics are accelerating and some not. What types of discovery is AI particularly good at helping with?\n\nHere's a very loose conjecture: AI accelerates discovery where the marginal cost of an experiment is low. If experiments (AKA verifications) are cheap, then you can use experiments as a substitute for understanding; if they're expensive you still need to lean on human understanding. I will make some very conjectural claims about the marginal cost of experiments/verifications in different areas:\n\n- Cyber vulnerabilities: marginal cost is small once you already have the software loaded in memory, a few CPU cycles to verify. \n\n- Math proofs/counterexamples: the fixed cost of formalizing a problem can be high (e.g. converting to Lean, or expressing the core problem in code), but the marginal cost is just a few CPU cycles.\n\n- NanoGPT: until recently the cost of a single run was 8xH100 GPU for 1.5 minutes, and to get tight confidence intervals you need 18 of those runs. This could perhaps explain why we didn't get much movement until recently.\n\n- Hutter compression: 50 hours of CPU time.\n\n- Stockfish: Claude estimates $100-300 of compute cost to statistically verify a small improvement.\n\n- CIFAR: Claude says it's ~$1 to verify, so this could be a counterexample.\n\nAn implication of this theory: we might see slower curve-bending in domains where the cost of experimentation is large, e.g. frontier pretraining, where experiments can cost a huge amount of money; and domains where we need real-world experiments -- physics, chemistry, biology (though everything changes if we can trust simulations).\n\nAlso note a corollary of this theory: if data and intelligence are substitutes, then making our AI smarter will loosen the bottleneck from experiments.",
+   "created_at": "Mon Oct 05 19:18:24 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "testingham",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2107188675398553720": {
+   "id": "2107188675398553720",
+   "url": "https://x.com/testingham/status/2107188675398553720",
+   "text": "Overall I think this is evidence of a lot more curve-bending in the last 6 weeks, and the algorithmic progress should be updating for people who worry about RSI.\n\nA reminder: (1) we're looking at metrics with a reasonable pre-AI baseline rate of discovery, and (2) this update only discusses metrics we already discussed in the previous post.\n\nSome additional observations:\n\n1. The most important curves are secret. We really want to know when the frontier labs' AI efficiency and capability curves start bending, and that's not generally public information.\n\n2. I think this area is under-invested in. I'd love to see people maintaining dashboards of curves to watch for when they start bending. I'm confident the set of metrics I'm tracking could be substantially improved. I find this information much more updating than results from LLM benchmarks or RCTs.\n\n3. Whether the discoveries are AI-alone or AI-assisted is always hard to tell, but it matters less than the aggregate rate of discoveries.\n\n4. What other metrics should we be tracking? Most broadly, I think we want frontier *efficiency* metrics: e.g. FLOP cost of calculation, monetary cost of a FLOP, energy cost of a solar cell, efficiency of chemical synthesis. Would also be good to track more equilibrium metrics, e.g. cybercrime, though these are harder to interpret because they are outcome of a multi-player game. It's interesting to track production of code, software, and academic papers, but it's very difficult to proxy for quality, and that makes those harder to interpret.\n\n5. We don't know expenditure. Ideally we'd want to track the total expenditure on discovery, but that's super hard to get data on (esp. including failed discoveries). Still the data on output is informative.",
+   "created_at": "Mon Oct 05 19:18:24 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "testingham",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 10,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2107188673381109846": {
+   "id": "2107188673381109846",
+   "url": "https://x.com/testingham/status/2107188673381109846",
+   "text": "More curves are bending. In mid-August Nate Rush & I posted an analysis of which discovery curves are starting to bend. What's happened since then?\n\nCyber vulnerabilities: curve is still bent. Discovery of vulnerabilities is accelerating even further, though exploited vulnerabilities remain fairly flat.\n\nMath: curve is further bent. We said there was a likely acceleration for small-scale problems. Since then there has been a claimed Millennium prize resolution, & credible rumors of another. All frequently-updated databases of open problems seem to be proceeding at a rapid rate.\n\nAlgorithms: curve is now bending. Two high profile algorithmic competitions have had big curve-bending events: NanoGPT, and the Hutter compression prize. Other frequently-updated series remain relatively unchanged: CIFAR-10, Stockfish, matrix-multiplication exponent.\n\nMore observations below.",
+   "created_at": "Mon Oct 05 19:18:24 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 55,
+   "retweets": 12,
+   "media": [],
+   "quoted": {
+    "author": "testingham",
+    "text": "New post with Nate Rush: Have we seen an acceleration in discoveries?\n\nMany plots & some tentative conclusions:\n\n1. Cyber: ⤴️ sharp acceleration\n2. Math: ↗️ some acceleration\n3. Algorithms: ➡️ no clear acceleration"
+   },
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2091887462885068838": {
+   "id": "2091887462885068838",
+   "url": "https://x.com/testingham/status/2091887462885068838",
+   "text": "@CFGeek @fleetingbits Agreed with this, a couple of additional points:\n\n- If AI can match existing humans' performance, that doesn't mean humans are redundant, there's likely a hybrid period.\n- It would be pretty surprising to me if we didn't see an acceleration -- e.g. look at accelerations that are happening in other fields: https://t.co/PVw0FmofRK",
+   "created_at": "Mon Aug 24 13:56:51 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "CFGeek",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2089778956677616029": {
+   "id": "2089778956677616029",
+   "url": "https://x.com/testingham/status/2089778956677616029",
+   "text": "@MadTyrant77 @Dr_JohnFletcher if you have time-series data we could add i'd love it.",
+   "created_at": "Tue Aug 18 18:18:24 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "MadTyrant77",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2089729327143510135": {
+   "id": "2089729327143510135",
+   "url": "https://x.com/testingham/status/2089729327143510135",
+   "text": "I forgot to add a really important qualification -- this is only analyzing what's happening in public. It's quite possible that algorithmic progress is accelerating in private.",
+   "created_at": "Tue Aug 18 15:01:11 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "testingham",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 25,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2089726554477924731": {
+   "id": "2089726554477924731",
+   "url": "https://x.com/testingham/status/2089726554477924731",
+   "text": "In particular I'm interested whether these results are consistent with apple-picking: https://t.co/KOWCzEbJ3N",
+   "created_at": "Tue Aug 18 14:50:10 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "testingham",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 27,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2089726553056002263": {
+   "id": "2089726553056002263",
+   "url": "https://x.com/testingham/status/2089726553056002263",
+   "text": "The next natural step is to ask why we see these patterns -- what is it about cyber, math, &amp; optimization, that have caused differences in LLM acceleration.\n\nPlanning to write something on this but would like to hear others' ideas that I can steal.",
+   "created_at": "Tue Aug 18 14:50:10 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "testingham",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 30,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2089726551332122754": {
+   "id": "2089726551332122754",
+   "url": "https://x.com/testingham/status/2089726551332122754",
+   "text": "Post here: https://t.co/UADyLlhg1M\n\nThis analysis is all tentative and we'd love suggestions on improvements from domain experts. The analysis was all agent-built but we did our best to audit it, code here: https://t.co/oaUPhLLBjT",
+   "created_at": "Tue Aug 18 14:50:09 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "testingham",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 50,
+   "retweets": 3,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2089726549306257672": {
+   "id": "2089726549306257672",
+   "url": "https://x.com/testingham/status/2089726549306257672",
+   "text": "Algorithms: We see LLMs contributing to the frontier, but do not see an unambiguous change in trend. Recent progress in NanoGPT, CIFAR-10, stockfish, don't show clear breaks with historical trends.",
+   "created_at": "Tue Aug 18 14:50:09 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "testingham",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 40,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQAuZfFbIAAMHnl.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQAubpyaQAAGVLN.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQAuoVwbEAALMeJ.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQAusYXaMAAI0wz.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2089726546840019177": {
+   "id": "2089726546840019177",
+   "url": "https://x.com/testingham/status/2089726546840019177",
+   "text": "Math problems: arXiv submissions have exploded in a few subfields (esp combinatorics). Erdős problem solutions accelerated, but difficult to interpret. We have other pre-AI lists of difficult problems (Hilbert, Millennium, Smale, TOPP, Green), where there's weak evidence of acceleration.",
+   "created_at": "Tue Aug 18 14:50:08 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "testingham",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 41,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQAtQvMbwAAggM8.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQAtgyRakAEy0pP.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQAt9YAbEAAv3Fs.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQAuI4qaYAAOCgS.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2089726543883071549": {
+   "id": "2089726543883071549",
+   "url": "https://x.com/testingham/status/2089726543883071549",
+   "text": "Cyber vulnerabilities: there's a big acceleration starting early 2026, clearly due to LLMs. \n\nThe average severity has probably fallen, but even adjusting for that discovery seems to have accelerated.",
+   "created_at": "Tue Aug 18 14:50:07 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "testingham",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 47,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQAsd55acAA1lt5.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQAsg2JaEAAAkxf.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQAs3o2aUAA6soz.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQAtD-NagAAz9O8.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2088448006312128615": {
+   "id": "2088448006312128615",
+   "url": "https://x.com/testingham/status/2088448006312128615",
+   "text": "@datagenproc @flappyairplanes @amspector100 @aidanmantine I’m down for a debate! I think opening move is point to where the estimate comes from.",
+   "created_at": "Sat Aug 15 02:09:40 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "datagenproc",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2088413534917103984": {
+   "id": "2088413534917103984",
+   "url": "https://x.com/testingham/status/2088413534917103984",
+   "text": "Especially for people who have lab experience, lots of useful work you can do at METR.",
+   "created_at": "Fri Aug 14 23:52:42 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "testingham",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 14,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2087363726211187087": {
+   "id": "2087363726211187087",
+   "url": "https://x.com/testingham/status/2087363726211187087",
+   "text": "@enginoid True, but e.g. NanoGPT has already been through multiple orders of magnitude of improvement -- seems plausible there's a lot of ceiling left.",
+   "created_at": "Wed Aug 12 02:21:08 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "enginoid",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
   }
  }
 }

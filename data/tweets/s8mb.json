@@ -1971,6 +1971,75 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2107187715368522168": {
+   "id": "2107187715368522168",
+   "url": "https://x.com/s8mb/status/2107187715368522168",
+   "text": "I'm cracking up at the name of this book about contracts and transaction costs in agriculture. https://t.co/tpzc7hnsbK",
+   "created_at": "Mon Oct 05 19:14:35 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 221,
+   "retweets": 16,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HT46oEGWcAEcD5T.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2107156362157580757": {
+   "id": "2107156362157580757",
+   "url": "https://x.com/s8mb/status/2107156362157580757",
+   "text": "This is great! Aarhus is the thing that caps plaintiffs' judicial review costs when they're suing \"on behalf of nature\" against new infrastructure, and affordable housing mandates via Section 106 are just a superficially-nice way to stop new housing from being built. https://t.co/HGQNgnk28w",
+   "created_at": "Mon Oct 05 17:10:00 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 68,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HT4OdU-XwAAvM57.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2107080797639360698": {
+   "id": "2107080797639360698",
+   "url": "https://x.com/s8mb/status/2107080797639360698",
+   "text": "@mtkonczal No, they are explicit in the opening that the allusion is to things like planning and labour laws, and both the authors take things like AI risk quite seriously (eg here is McClements on regulating data as a tool for regulating AI risk https://t.co/bPebcwBLe3). Both of the authors are European and work on European policy issues so I doubt either of them are thinking much about Chinese blitzkrieg.",
+   "created_at": "Mon Oct 05 12:09:44 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "mtkonczal",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HT3aBntW0AAKtSd.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
   }
  }
 }

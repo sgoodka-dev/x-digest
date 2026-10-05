@@ -1974,6 +1974,86 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2107229266954142038": {
+   "id": "2107229266954142038",
+   "url": "https://x.com/anton_d_leicht/status/2107229266954142038",
+   "text": "@perrymetzger @MTSlive it’s a pretty specific falsifiable prediction - guess we’ll see in 27 either way!",
+   "created_at": "Mon Oct 05 21:59:42 +0000 2026",
+   "author_handle": "anton_d_leicht",
+   "author_name": "Anton Leicht",
+   "is_reply": true,
+   "reply_to": "perrymetzger",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2107215295115104426": {
+   "id": "2107215295115104426",
+   "url": "https://x.com/anton_d_leicht/status/2107215295115104426",
+   "text": "Anton Leicht predicts Republicans could do a 180 on AI after November once they no longer need accelerationist money for the election:\n\n\"Right now there is still a lot of incentive, especially on the Republican side, to keep engaging with the accelerationist sources of political money, at least until the midterms, to get one final cycle of spending and funding in.\"\n\n\"After the midterms, you'll see Republican leadership starting to reconsider, 'Should we engage with this faction for another cycle? Or do we do a 180 responding to what we currently see as concerns of the population?'\"\n\n\"The necessity to keep the accelerationist money going is really holding a lot of anti-AI sentiment in the Republican Party at bay.\"\n\n\"We could see quite a substantial pivot and quite a lot of dams breaking, especially as Trump turns into a lame duck.\"\n@anton_d_leicht",
+   "created_at": "Mon Oct 05 21:04:11 +0000 2026",
+   "author_handle": "anton_d_leicht",
+   "author_name": "Anton Leicht",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "MTSlive",
+   "rt_author_name": "MTS",
+   "likes": 17,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2107214639209840640/img/8OnQ8ikUMPHyxW93.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2107215195726884977": {
+   "id": "2107215195726884977",
+   "url": "https://x.com/anton_d_leicht/status/2107215195726884977",
+   "text": "@Miles_Brundage I think there is / has been / will come (idk) a point where quietly racing toward RSI would be less likely to invite PR risk + destabilising policy intervention than continuing to push the public frontier. but its close, selling good models is also very good for revenue!",
+   "created_at": "Mon Oct 05 21:03:47 +0000 2026",
+   "author_handle": "anton_d_leicht",
+   "author_name": "Anton Leicht",
+   "is_reply": true,
+   "reply_to": "Miles_Brundage",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2107210588489416898": {
+   "id": "2107210588489416898",
+   "url": "https://x.com/anton_d_leicht/status/2107210588489416898",
+   "text": "I think Sam is basically right: too much risk aversion about misuse pulls toward concentration of wealth and power in the labs.\n\nIterative deployment and tolerating disruption are democratising forces, and I appreciate OpenAI sticking to them despite the commercial and PR costs.",
+   "created_at": "Mon Oct 05 20:45:29 +0000 2026",
+   "author_handle": "anton_d_leicht",
+   "author_name": "Anton Leicht",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 24,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "politico",
+    "text": "“We believe the world should accept some bad things happening for the benefits of this technology.”\n\nIn a conversation for the first edition of Decoded, a new daily newsletter and podcast, OpenAI CEO Sam Altman talked with POLITICO’s @BrendanBordelon about trade-offs, AI safety, and how his company is different from Anthropic.\n\nSubscribe to Decoded for the full conversation with Sam Altman: https://t.co/YHJJsDOQVh"
+   },
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
   }
  }
 }

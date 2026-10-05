@@ -1276,6 +1276,174 @@
     "text": "@random_walker So update it?"
    },
    "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2107166735182762166": {
+   "id": "2107166735182762166",
+   "url": "https://x.com/random_walker/status/2107166735182762166",
+   "text": "AI experts largely agree about which policies would most reduce catastrophic AI risk.\n\nThe Longitudinal Expert AI Panel (LEAP) brings together forecasts from a representative group of over 250 experts that policymakers look to when considering the future of AI: computer scientists, industry figures, top economists, policy experts, and AI risk experts.\n\nWe asked panelists to forecast (1) how a menu of policies would affect AI risk; (2) which policies they each support; and (3) which policies they think will be implemented by 2030.\n\nKey findings:\n• Despite disagreeing on the level of AI risk, respondents broadly agree on policy\n• Respondents believe government policy can substantially reduce catastrophic AI risk\n• The most supported policy of those we asked about was the creation of an international body, including the US and China as members, with pre-release authorization power over frontier models\n• Some US-only policies are forecast to reduce catastrophic AI risk, but not as much as bilateral policies involving the US and China\n• Experts strongly oppose federal preemption and think it would increase AI risk\n• The policies experts expect to reduce risk the most are those they think are least likely to actually be implemented\n\n🧵 More, with key insights below:",
+   "created_at": "Mon Oct 05 17:51:13 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "Research_FRI",
+   "rt_author_name": "Forecasting Research Institute",
+   "likes": 75,
+   "retweets": 25,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HT4Z6sVbUAAhw5b.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HT4Z66RakAA9SEQ.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2100937786010280417": {
+   "id": "2100937786010280417",
+   "url": "https://x.com/random_walker/status/2100937786010280417",
+   "text": "A post on risk management in the marketplace of ideas https://t.co/AXw91wtVZ2",
+   "created_at": "Fri Sep 18 13:19:36 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": true,
+   "reply_to": "random_walker",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 9,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "random_walker",
+    "text": "Back in grad school, when I realized how the “marketplace of ideas” actually works, it felt like I’d found the cheat codes to a research career. Today, this is the most important stuff I teach students, more than anything related to the substance of our research.\n\nA quick preface: when I talk about research success I don’t mean publishing lots of papers. Most published papers gather dust because there is too much research in any field for people to pay attention to. And especially given the ease of putting out pre-prints, research doesn’t need to be officially published in order to be successful. So while publications may be a prerequisite for career advancement, they shouldn’t be the goal. To me, research success is authorship of ideas that influence your peers and make the world a better place.\n\nSo the basic insight is that there are too many ideas entering the marketplace of ideas, and we need to understand which ones end up being influential. The good news is that quality matters — other things being equal, better research will be more successful. The bad news is that quality is only weakly correlated with success, and there are many other factors that matter.\n\nFirst, give yourself multiple shots on goal. The role of luck is a regular theme of my career advice. It’s true that luck matters a lot in determining which papers are successful, but that doesn’t mean resigning yourself to it. You can increase your “luck surface area”.\n\nFor example, if you always put out preprints, you get multiple chances for your work to be noticed: once with the preprint and once with the publication (plus if you’re in a field with big publication lags, you can make sure the research isn’t scooped or irrelevant by the time it comes out).\n\nMore generally, treat research projects like startups — accept that there is a very high variance in outcomes, with some projects being 10x or 100x more successful than others. This means trying lots of different things, taking big swings, being willing to pursue what your peers consider to be bad ideas, but with some idea of why you might potentially succeed where others before you failed. Do you know something that others don’t, or do they know something that you don’t? And if you find out it’s the latter, you need to be willing to quit the project quickly, without falling prey to the sunk cost fallacy.\n\nTo be clear, success is not all down to luck — quality and depth matter a lot. And it takes a few years of research to go deep into a topic. But spending a few years researching a topic before you publish anything is extremely risky, especially early in your career. The solution is simple: pursue projects, not problems.\n\nProjects are long-term research agendas that last 3-5 years or more. A productive project could easily produce a dozen or more papers (depending on the field). Why pick projects instead of problems? If your method is to jump from problem to problem, the resulting papers are likely to be somewhat superficial and may not have much impact. And secondly, if you’re already known for papers on a particular topic, people are more likely to pay attention to your future papers on that topic. (Yes, author reputation matters a lot. Any egalitarian notion of how people pick what to read is a myth.)\n\nTo recap, I usually work on 2-3 long-term projects at a time, and within each project there are many problems being investigated and many papers being produced at various stages of the pipeline.\n\nThe hardest part is knowing when to end a project. At the moment you’re considering a new project, you’re comparing something that will take a few years to really come to fruition with a topic where you’re already highly productive. But you have to end something to make room for something new. Quitting at the right time always feels like quitting too early. If you go with your gut, you will stay in the same research area for far too long.\n\nFinally, build your own distribution. In the past, the official publication of a paper served two purposes: to give it the credibility that comes from peer review, and to distribute the paper to your peers. Now those two functions have gotten completely severed. Publication still brings credibility, but distribution is almost entirely up to you!\n\nThis is why social media matters so much. Unfortunately social media introduces unhealthy incentives to exaggerate your findings, so I find blogs/newsletters and long-form videos to be much better channels. We are in a second golden age of blogging and there is an extreme dearth of people who can explain cutting-edge research from their disciplines in an accessible way but without dumbing it down like in press releases or news articles. It’s never too early — I started a blog during my PhD and it played a big role in spreading my doctoral research, both within my research community and outside it.\n\nSummary\n* Research success doesn’t just mean publication\n* The marketplace of ideas is saturated\n* Give yourself multiple shots on goal\n* Pick projects, not problems\n* Treat projects like startups\n* Build your own distribution"
+   },
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2100937456971350048": {
+   "id": "2100937456971350048",
+   "url": "https://x.com/random_walker/status/2100937456971350048",
+   "text": "A thread on how elite research universities are a tournament system: https://t.co/mjOqiR8hIO",
+   "created_at": "Fri Sep 18 13:18:17 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": true,
+   "reply_to": "random_walker",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 30,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "random_walker",
+    "text": "Professors at top universities are lottery winners, but rarely acknowledge the role of luck in their success. Be skeptical when they give you advice suggesting that the path they took is a repeatable one. If you aspire to an academic research career, have a backup plan."
+   },
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2100202660070621627": {
+   "id": "2100202660070621627",
+   "url": "https://x.com/random_walker/status/2100202660070621627",
+   "text": "@MackenZ_arnold @sayashk Incredibly useful feedback! We'll chew on these. Thank you so much.",
+   "created_at": "Wed Sep 16 12:38:28 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": true,
+   "reply_to": "MackenZ_arnold",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 5,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2100192499494990201": {
+   "id": "2100192499494990201",
+   "url": "https://x.com/random_walker/status/2100192499494990201",
+   "text": "Yes, it's a nice paper! Chris and I have been in touch on this topic. More soon. https://t.co/Lk7pAvQHCD",
+   "created_at": "Wed Sep 16 11:58:06 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": true,
+   "reply_to": "random_walker",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "agstrait",
+    "text": "@random_walker Chris Schmitz has a great paper documenting 80 suspected instances of this in public sector contexts\n\nhttps://t.co/em0LJfwoIC"
+   },
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2099133180586385412": {
+   "id": "2099133180586385412",
+   "url": "https://x.com/random_walker/status/2099133180586385412",
+   "text": "In response to some comments — yes, it's possible that a few people including non-native English speakers used AI for understandable reasons. But the massive flood combined with the fact that AI makes it trivial to fake signals of genuine interest means that the cold email channel is effectively dead. It's not like I can discern and adjudicate individual motivations. It's a tragedy of the commons.",
+   "created_at": "Sun Sep 13 13:48:44 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": true,
+   "reply_to": "random_walker",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 47,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2094846911689765289": {
+   "id": "2094846911689765289",
+   "url": "https://x.com/random_walker/status/2094846911689765289",
+   "text": "Completely agree on this part and I have very much the same prediction here https://t.co/JYPj1EZu98\n\nSee also the instant classic \"What will be scarce?\" by @alexolegimas https://t.co/6bJqUAKFTm\n\nhttps://t.co/IYj4HigPXX",
+   "created_at": "Tue Sep 01 17:56:38 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": true,
+   "reply_to": "random_walker",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 8,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "binarybits",
+    "text": "@random_walker In the longer term, there are a lot of \"physical\" jobs like nurses, nannies, waiters, security guards, sales people, etc. where interacting with other people is a core part of the job. These could easily be more durable than professions like accounting or marketing."
+   },
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2094846324797554702": {
+   "id": "2094846324797554702",
+   "url": "https://x.com/random_walker/status/2094846324797554702",
+   "text": "Before posting the above, I went through the top 30 U.S. blue collar jobs based on BLS statistics, and it seemed like roughly half have low enough elasticities of demand that mass displacement seems likely, but I don't have enough expertise to have high confidence about this. (I picked warehousing because there are in-depth reports from Gartner and others.)\n\nOccupation-specific deep dives for the ones where we don't have good forecasts could be extremely useful.\nhttps://t.co/jh67YdVtW1",
+   "created_at": "Tue Sep 01 17:54:18 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": true,
+   "reply_to": "random_walker",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 11,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "binarybits",
+    "text": "@random_walker This seems totally wrong to be honest. I'm sure we could think of some categories of blue-collar work where demand is ~fixed and so automation will just lead to mass job losses. But I do not think most physical jobs are like this."
+   },
+   "fetched_at": "2026-10-05T22:01:58.322087+00:00"
   }
  }
 }
