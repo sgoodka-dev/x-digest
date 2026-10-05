@@ -1,8 +1,12 @@
 name: Daily digest
 
+# Collects new tweets twice a day, well before the 6:30pm UK email.
+# GitHub's scheduler can run hours late or skip a run when busy, so there are
+# two runs; anything collected late is simply picked up by the next email.
 on:
   schedule:
-    - cron: '45 5 * * *'   # 05:45 UTC = 06:45 BST / 05:45 GMT (GitHub cron can lag ~15 min)
+    - cron: '17 11 * * *'   # 11:17 UTC = 12:17 BST / 11:17 GMT
+    - cron: '17 15 * * *'   # 15:17 UTC = 16:17 BST / 15:17 GMT
   workflow_dispatch: {}
 
 permissions:
@@ -31,20 +35,15 @@ jobs:
           TWITTERAPI_KEY: ${{ secrets.TWITTERAPI_KEY }}
         run: python scripts/fetch.py
 
-      - name: Rebuild dashboard
+      - name: Rebuild data page
         run: python scripts/build_site.py
 
-      - name: Send daily email
-        env:
-          SMTP_USER: ${{ secrets.SMTP_USER }}
-          SMTP_PASS: ${{ secrets.SMTP_PASS }}
-          EMAIL_TO: ${{ secrets.EMAIL_TO }}
-        run: python scripts/send_email.py
-
-      - name: Commit archive and dashboard
+      - name: Save collected tweets
         run: |
           git config user.name "digest-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data docs
-          git diff --cached --quiet || git commit -m "Daily digest $(date -u +%F)"
+          git diff --cached --quiet && exit 0
+          git commit -m "Collect tweets $(date -u +'%F %H:%M')"
+          git pull --rebase --autostash origin main
           git push
