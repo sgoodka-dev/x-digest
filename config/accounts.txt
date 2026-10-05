@@ -10,7 +10,6 @@ DKokotajlo
 dwarkesh_sp
 jkcarlsmith
 Lewis_Bollard
-matthewclifford
 mentalgeorge
 ohlennart
 sayashk
@@ -18,3 +17,12 @@ testingham
 slatestarcodex
 s8mb
 random_walker
+sethlazar
+robertwiblin
+deanwball
+nabeelqu
+theobearman
+peterwilderford
+anton_d_leicht
+ohlennart
+jkcarlsmith
