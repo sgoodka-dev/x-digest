@@ -5,7 +5,8 @@ without network access or spending API credit.
 from datetime import datetime, timedelta, timezone
 
 
-def fetch_user_tweets(handle, max_pages=3, newer_than_id=None):
+def fetch_user_tweets(handle, max_pages=3, newer_than_id=None,
+                      include_replies=False):
     now = datetime.now(timezone.utc)
     out = []
     for i in range(5):

@@ -29,9 +29,13 @@ def main():
                 handle,
                 max_pages=settings.get("max_pages_per_account", 3),
                 newer_than_id=newest_known,
+                include_replies=bool(settings.get("include_replies")),
             )
             added = 0
             for t in tweets:
+                # When we first saw it: lets the email include everything
+                # collected since the last digest, even if a run ran late.
+                t["fetched_at"] = run["started"]
                 if not t["id"] or t["id"] in known:
                     continue
                 if t["is_reply"] and not settings.get("include_replies"):

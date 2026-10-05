@@ -94,6 +94,7 @@ def _norm_tweet(t, fallback_handle=""):
         "author_name": author.get("name") or "",
         "is_reply": bool(t.get("isReply") or t.get("in_reply_to_status_id")
                          or t.get("inReplyToId")),
+        "reply_to": t.get("inReplyToUsername") or "",
         "is_retweet": is_retweet,
         "rt_author": rt_author,
         "rt_author_name": rt_author_name,
@@ -122,10 +123,13 @@ def _extract_tweets(payload):
     return []
 
 
-def fetch_user_tweets(handle, max_pages=3, newer_than_id=None):
+def fetch_user_tweets(handle, max_pages=3, newer_than_id=None,
+                      include_replies=False):
     out, cursor = [], None
     for _ in range(max_pages):
         params = {"userName": handle}
+        if include_replies:
+            params["includeReplies"] = "true"
         if cursor:
             params["cursor"] = cursor
         payload = _get("/twitter/user/last_tweets", params)
