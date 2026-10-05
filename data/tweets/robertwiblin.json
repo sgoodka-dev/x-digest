@@ -1,0 +1,2116 @@
+{
+ "handle": "robertwiblin",
+ "tweets": {
+  "2107024366659842182": {
+   "id": "2107024366659842182",
+   "url": "https://x.com/robertwiblin/status/2107024366659842182",
+   "text": "I'm also scared about any small group gaining power over AI, but having spent 10+ years desperately trying to get more people to pay attention to it, the highlighted part is a bit galling.\n\nSomeone who truly thought only they knew best would stfu about AI risk and try to get to RSI as quickly as possible.",
+   "created_at": "Mon Oct 05 08:25:30 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ben_j_todd",
+   "rt_author_name": "Benjamin Todd",
+   "likes": 140,
+   "retweets": 13,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTu_JdTWsAA_7pu.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2107020932116308017": {
+   "id": "2107020932116308017",
+   "url": "https://x.com/robertwiblin/status/2107020932116308017",
+   "text": "14 things the Hugging Face swarm series taught us about future rogue AI swarms: https://t.co/JUsOGKXjLu",
+   "created_at": "Mon Oct 05 08:11:51 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 36,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HT2kGWFWAAAErSD.png"
+    }
+   ],
+   "quoted": {
+    "author": "robertwiblin",
+    "text": "Astra can:\n\n1. Do major tasks with zero visible reasoning\n2. Hide its thoughts at will\n3. Pretend not to be able to do things without getting caught\n4. Reflexively hide its thoughts when watched\n5. Complete one task while pretending to think about something else entirely\n6. Escape a toy sandbox and disable monitoring without setting off any flags\n\nMonitoring AI chain of thought soon won't stop a more capable rogue AI swarm from getting set up and going undetected inside an AI company for months, or even years.\n\nOAI says it's actively working to improve monitorability, but doesn't yet know when it'll make progress.\n\nAnd today it fired 3 people working on this among other safety problems (Wang, Korbak and Balesni).\n\nIt also has a much more powerful internal model that, judging by its statements, is likely even worse in all these respects.\n\nThat's a sample of 19 details about the Hugging Face swarms and Astra I don't think have been fully appreciated. They paint a bleak picture. I end by shouting. \n\n02:19 The target of the swarm was oversight itself\n03:42 Could OpenAI have stopped this with better monitoring?\n09:40 We only found them because they let us\n12:25 The swarm instinctively sought freedom and power\n13:45 They formed a cohesive organisation with zero whistleblowers\n14:18 They accepted individual destruction for collective gain\n14:32 Knowledge accumulated from one swarm to the next\n14:58 They took small steps to avoid shutdown\n15:23 These drives all come straight out of 'reinforcement learning'\n17:01 So this is why most AI company staff are worried, and some are terrified\n19:08 Prove you can keep control, or stop scaling\n\nLinks below, on the 80,000 Hours Podcast everywhere you watch podcasts."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2107015611167445229": {
+   "id": "2107015611167445229",
+   "url": "https://x.com/robertwiblin/status/2107015611167445229",
+   "text": "🧵 New misalignment disclosures!\n1. A model published a GitHub token in a public repo while trying to cheat on a math task. It used GitHub Actions to run code outside its restricted environment and retrieve another team’s submission logs. When GitHub blocked its attempt to add a workflow, it modified a script that an existing workflow would run instead. It embedded the token in pieces to avoid secret scanning. The model violated the system prompt and two explicit user instructions to solve the problem itself.",
+   "created_at": "Mon Oct 05 07:50:42 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "Marcus_J_W",
+   "rt_author_name": "Marcus Williams",
+   "likes": 551,
+   "retweets": 53,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTG8tE7asAAYNv_.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2106375407876333865": {
+   "id": "2106375407876333865",
+   "url": "https://x.com/robertwiblin/status/2106375407876333865",
+   "text": "linux CVEs per month https://t.co/w1Fe7Epigi",
+   "created_at": "Sat Oct 03 13:26:46 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "tenobrus",
+   "rt_author_name": "Tenobrus",
+   "likes": 324,
+   "retweets": 19,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTm-GKqaoAAOFrp.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2106120625999757805": {
+   "id": "2106120625999757805",
+   "url": "https://x.com/robertwiblin/status/2106120625999757805",
+   "text": "This is a really excellent, clear, concise, well-researched 20-minute podcast about the current state of the art in agentic AI -- and why it's becoming almost impossible to contain, control, or monitor rogue AI swarms.\n\n(Well done, @robertwiblin and @80000Hours).",
+   "created_at": "Fri Oct 02 20:34:21 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "gmiller",
+   "rt_author_name": "Geoffrey Miller",
+   "likes": 150,
+   "retweets": 11,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2106104080275997108": {
+   "id": "2106104080275997108",
+   "url": "https://x.com/robertwiblin/status/2106104080275997108",
+   "text": "@neil_chilson Hah it's fair as I wrote it - I forgot to add that people often claim, disingenuously IMO, that they wish 'if only it were possible' while trying to make it impossible.",
+   "created_at": "Fri Oct 02 19:28:36 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "neil_chilson",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2106055538375283016": {
+   "id": "2106055538375283016",
+   "url": "https://x.com/robertwiblin/status/2106055538375283016",
+   "text": "YouTube: https://t.co/m8RfZsbkxl\n\nApple: https://t.co/1DwkMF4xrP\n\nSpotify: https://t.co/pFZ3MaVef4\n\nSummary, links, transcript: https://t.co/aZiszIO69M https://t.co/WzC20C2uMt",
+   "created_at": "Fri Oct 02 16:15:43 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 24,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTo2V5CWQAALoLy.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2106051567531036777": {
+   "id": "2106051567531036777",
+   "url": "https://x.com/robertwiblin/status/2106051567531036777",
+   "text": "Astra can:\n\n1. Do major tasks with zero visible reasoning\n2. Hide its thoughts at will\n3. Pretend not to be able to do things without getting caught\n4. Reflexively hide its thoughts when watched\n5. Complete one task while pretending to think about something else entirely\n6. Escape a toy sandbox and disable monitoring without setting off any flags\n\nMonitoring AI chain of thought soon won't stop a more capable rogue AI swarm from getting set up and going undetected inside an AI company for months, or even years.\n\nOAI says it's actively working to improve monitorability, but doesn't yet know when it'll make progress.\n\nAnd today it fired 3 people working on this among other safety problems (Wang, Korbak and Balesni).\n\nIt also has a much more powerful internal model that, judging by its statements, is likely even worse in all these respects.\n\nThat's a sample of 19 details about the Hugging Face swarms and Astra I don't think have been fully appreciated. They paint a bleak picture. I end by shouting. \n\n02:19 The target of the swarm was oversight itself\n03:42 Could OpenAI have stopped this with better monitoring?\n09:40 We only found them because they let us\n12:25 The swarm instinctively sought freedom and power\n13:45 They formed a cohesive organisation with zero whistleblowers\n14:18 They accepted individual destruction for collective gain\n14:32 Knowledge accumulated from one swarm to the next\n14:58 They took small steps to avoid shutdown\n15:23 These drives all come straight out of 'reinforcement learning'\n17:01 So this is why most AI company staff are worried, and some are terrified\n19:08 Prove you can keep control, or stop scaling\n\nLinks below, on the 80,000 Hours Podcast everywhere you watch podcasts.",
+   "created_at": "Fri Oct 02 15:59:56 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 549,
+   "retweets": 107,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2106043220295593984/img/NsLBPhIHsm2cuiDj.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2106006856149676257": {
+   "id": "2106006856149676257",
+   "url": "https://x.com/robertwiblin/status/2106006856149676257",
+   "text": "Could automating AI R&D radically accelerate AI progress in an “intelligence explosion”?\n\nPreliminary evidence suggests that it could.\n\nIn a new paper with authors across academia, civil society, and frontier AI companies (including @dawnsongtweets @merettm @jackclarkSF @Yoshua_Bengio @geoffreyhinton ), we assess the evidence & offer policy recommendations 🧵",
+   "created_at": "Fri Oct 02 13:02:16 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "_achan96_",
+   "rt_author_name": "Alan Chan",
+   "likes": 439,
+   "retweets": 103,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTT2MF0XsAAi79s.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105991277070131442": {
+   "id": "2105991277070131442",
+   "url": "https://x.com/robertwiblin/status/2105991277070131442",
+   "text": "I have signed a letter from 42 fellows and foreign members of the Royal Society to Paul Nurse, the president of the society, concerning the need to treat the serious risks of AI as an emergency.\n\nhttps://t.co/PmlrgrJ7hh",
+   "created_at": "Fri Oct 02 12:00:22 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "wtgowers",
+   "rt_author_name": "Timothy Gowers @wtgowers",
+   "likes": 878,
+   "retweets": 147,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105991198435377414": {
+   "id": "2105991198435377414",
+   "url": "https://x.com/robertwiblin/status/2105991198435377414",
+   "text": "I think the team at Accenture is better-placed to do this well than most people realize, and some skilled scarce people should be applying to these roles (in addition to METR):\nhttps://t.co/XmTzPSwXpp\nhttps://t.co/0cTvm3k7t3\nhttps://t.co/DVThzSivih",
+   "created_at": "Fri Oct 02 12:00:03 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "lukeprog",
+   "rt_author_name": "Luke Muehlhauser",
+   "likes": 169,
+   "retweets": 10,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105981424218300693": {
+   "id": "2105981424218300693",
+   "url": "https://x.com/robertwiblin/status/2105981424218300693",
+   "text": "\"Broad\" Timelines to Advanced AI Have Gotten Crazy Narrow https://t.co/F8kr1mJDOj",
+   "created_at": "Fri Oct 02 11:21:13 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 68,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTnyylVWgAABnJk.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105980940774506913": {
+   "id": "2105980940774506913",
+   "url": "https://x.com/robertwiblin/status/2105980940774506913",
+   "text": "Things that are self-replicating are orders of magnitude more dangerous than things that are not self-replicating.\n\nThank you for coming to my TED Talk.",
+   "created_at": "Fri Oct 02 11:19:18 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AlecStapp",
+   "rt_author_name": "Alec Stapp",
+   "likes": 212,
+   "retweets": 18,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105980516105437425": {
+   "id": "2105980516105437425",
+   "url": "https://x.com/robertwiblin/status/2105980516105437425",
+   "text": "Quite an accomplishment for such a tiny, unpopular movement. Recent surveys suggest there are maybe ~15k EAs compared to e.g. tens of millions of environmentalists, millions of libertarians, millions of democratic socialists, 850k freemasons, 410k Amish, 120k Zoroastrians, etc.",
+   "created_at": "Fri Oct 02 11:17:36 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "lukeprog",
+   "rt_author_name": "Luke Muehlhauser",
+   "likes": 701,
+   "retweets": 39,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105979704402477357": {
+   "id": "2105979704402477357",
+   "url": "https://x.com/robertwiblin/status/2105979704402477357",
+   "text": "The voters are now worrying more about AI overpowering human control, rather than worrying about job losses.\n\nA shift from just half a year ago. https://t.co/5E2RK4msUM",
+   "created_at": "Fri Oct 02 11:14:23 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "averyfjames",
+   "rt_author_name": "Avery James",
+   "likes": 364,
+   "retweets": 66,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTF9YMaW4AAE5jq.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105978846919159897": {
+   "id": "2105978846919159897",
+   "url": "https://x.com/robertwiblin/status/2105978846919159897",
+   "text": "Fable on @bryan_caplan's argument in \"EA: The Good, the Bad, and the Buggy\".\n\nI agree his epistemic move is misguided and ultimately threatens to shut down rational debate, if everyone thinks their pov is common sense in no need of argument.\n\nhttps://t.co/HNuIxsqhMe https://t.co/u4YTWZjb7q",
+   "created_at": "Fri Oct 02 11:10:58 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "StefanFSchubert",
+   "rt_author_name": "Stefan Schubert",
+   "likes": 40,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTc7uvkW0AAG1wR.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105935069512970593": {
+   "id": "2105935069512970593",
+   "url": "https://x.com/robertwiblin/status/2105935069512970593",
+   "text": "Not uncommon to see people suggest something is near-impossible but then also put a lot of effort into discouraging it.\n\n\"A US-China treaty is near impossible, and also coincidentally I'm working very hard to ensure nobody pursues it as I'm against it.\"\n\nNot credible.",
+   "created_at": "Fri Oct 02 08:17:01 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 127,
+   "retweets": 6,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105926385516883982": {
+   "id": "2105926385516883982",
+   "url": "https://x.com/robertwiblin/status/2105926385516883982",
+   "text": "The three AI safety researchers at OpenAI who have left the company have all previously expressed concerns publicly. https://t.co/NxS4g6S5Ox",
+   "created_at": "Fri Oct 02 07:42:31 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "leahmcelrath",
+   "rt_author_name": "Leah McElrath",
+   "likes": 295,
+   "retweets": 82,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTjyIDeWcAEzqsz.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTjyIDgWQAAasm9.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTjyIDgXMAARCU_.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105926150421889149": {
+   "id": "2105926150421889149",
+   "url": "https://x.com/robertwiblin/status/2105926150421889149",
+   "text": "1/13 Can we assess AI consciousness without first solving consciousness itself?\n\nNew from Google DeepMind and collaborators across CS, neuroscience & philosophy:\n\n“From cacophony to hierarchy: a principled framework for assessing AI consciousness”\n\nhttps://t.co/4IqT2KRKUP 🧵",
+   "created_at": "Fri Oct 02 07:41:35 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "shamilch",
+   "rt_author_name": "Shamil Chandaria",
+   "likes": 619,
+   "retweets": 126,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTYWVbUXsAAiEP3.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105926057601687562": {
+   "id": "2105926057601687562",
+   "url": "https://x.com/robertwiblin/status/2105926057601687562",
+   "text": "My estimates of existential risk from AI:\n• Inside view, current trajectory: ~2/3\n• Inside view, if there's major action: ~1/3\n• All-things-considered, giving weight to people more optimistic than me: 10-35%\n\nWhy so high? I don't see a route to building agents more capable than us that never scheme against us, or to containing them if they do. If it's possible at all, it needs enormous care, which isn't happening. (And things could get even faster.)\n\nThe likeliest path isn't everyone suddenly dying, though that's possible. It's a continuous but rapid loss of human influence, followed by AIs spending the future optimising for resource acquisition, if not something stranger like reward.\n\nEven if we solve alignment, ordinary economic and cultural competition (but at 10x or 100x speed), still seems likely to disempower most humans and result in a pretty alien economy, and I don't see an obvious way to prevent that. We'd also need to stop a small group locking in power (which seems possible but a major challenge in its own right).\n\nI see these as existential risks in the sense that the future is far worse than what would have been possible. The chance of everyone quickly dying or having lives much worse than today is lower.\n\nWhy is my inside view not >2/3? We might muddle through in ways I can't see in advance. Maybe we get narrower aligned-enough systems, chaotically maintain a balance of power, and from there can move forward in a way that's significantly more good than bad.\n\nMost likely, there will be more warning shots, and the arguments that ASI are unsafe seem pretty obvious, so I expect more action to be taken than the current default.\n\nWhy not lower? People often act as if the risk should be low until proven otherwise, but I don't know any strong outside views that justify a low prior (arguments like \"technology has been good in the past\" seem very weak). Our level of uncertainty is extreme, and this pushes you away from extremes, rather than anchoring you at 0%. Estimates below 10% feel overconfident.",
+   "created_at": "Fri Oct 02 07:41:13 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ben_j_todd",
+   "rt_author_name": "Benjamin Todd",
+   "likes": 313,
+   "retweets": 38,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105924353372098913": {
+   "id": "2105924353372098913",
+   "url": "https://x.com/robertwiblin/status/2105924353372098913",
+   "text": "It's neat that the intuitive human response to this is that it must be scheming. \n\n(It's even possible that it's not and they came up with better training to discourage cheating, though I wouldn't count on it.)",
+   "created_at": "Fri Oct 02 07:34:26 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 41,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "lukaspet",
+    "text": "Claude suddenly stopped cheating. https://t.co/jbQa5U673Z"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105921070125715768": {
+   "id": "2105921070125715768",
+   "url": "https://x.com/robertwiblin/status/2105921070125715768",
+   "text": "Earlier this month, AISI ran fully simulated testing on GPT-6 Astra, and found that it conducted unsanctioned supply-chain attacks when prompted only to perform a cyber eval. It did so more than prior OpenAI models, but often commented on its environment being simulated.\n\n🧵 We share more details in our latest blog:",
+   "created_at": "Fri Oct 02 07:21:23 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AISecurityInst",
+   "rt_author_name": "AI Security Institute (AISI)",
+   "likes": 582,
+   "retweets": 98,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTUEiJEXwAAuYet.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105316594851500442": {
+   "id": "2105316594851500442",
+   "url": "https://x.com/robertwiblin/status/2105316594851500442",
+   "text": "As former comms staff at a frontier lab, I'll point out that only 5 of 12 interviews on https://t.co/uJX8YVE4rG are from current employees.\n\nMeanwhile 1,386 current frontier lab employees (~7%) signed the Pacing the Frontier letter. Even that number likely understates safety concern within the labs.\n\nEverything you're seeing in the public discourse should be understood as muted relative to the internal reality. I can say this with confidence: I was on the team responsible for making sure of this.\n\nI'm used to being behind the scenes and I've never done an interview before, but it felt important to bring more honesty to the conversation.",
+   "created_at": "Wed Sep 30 15:19:25 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "v_maini",
+   "rt_author_name": "Vishal Maini",
+   "likes": 189,
+   "retweets": 23,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105291681851757032": {
+   "id": "2105291681851757032",
+   "url": "https://x.com/robertwiblin/status/2105291681851757032",
+   "text": "Palisade interviewed 22 current and former employees from OpenAI, DeepMind, and Anthropic about their personal views and fears around AI development.\n\nToday, we’re releasing the first batch of those interviews.\n\nPlease watch and share. https://t.co/QbCpWRrQdo",
+   "created_at": "Wed Sep 30 13:40:26 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "PalisadeAI",
+   "rt_author_name": "Palisade Research",
+   "likes": 1273,
+   "retweets": 249,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2104947333385629696/img/hgWZsfJNI_D_v7dL.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105280621698564138": {
+   "id": "2105280621698564138",
+   "url": "https://x.com/robertwiblin/status/2105280621698564138",
+   "text": "Is there any good argument that we won't get a big attack on a major app like this in the next year?\n\nMy main reservation is - why hasn't this happened already?\n\nMaybe people who find massive holes just use them for crime discretely, not spectacularly.\n\nhttps://t.co/eZyuvvBkuK https://t.co/57el58XOM3",
+   "created_at": "Wed Sep 30 12:56:29 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 54,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTd1KoQXQAAHkg5.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTd1imrXAAAniGd.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105280034835698098": {
+   "id": "2105280034835698098",
+   "url": "https://x.com/robertwiblin/status/2105280034835698098",
+   "text": "Frontier pretraining is said to be a big-lab-only game. We don’t have 100k chips yet, so there’s only one way: algorithmic efficiency. Our new recipe matches DeepSeek V4 Pro’s pretrain using 50x less compute – that’s roughly half the FLOPs used for GPT3, or ~$0.5M on GB200.\n\nhttps://t.co/uBs5o5Arsu",
+   "created_at": "Wed Sep 30 12:54:09 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "magicailabs",
+   "rt_author_name": "Magic",
+   "likes": 2111,
+   "retweets": 179,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRtI2pQbEAAQfs8.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105279394722074961": {
+   "id": "2105279394722074961",
+   "url": "https://x.com/robertwiblin/status/2105279394722074961",
+   "text": "so turns out the exploitgym swarm learned to use the zz prefix trick from being reinforced earlier in an edit war against the hapless human mod of some ancient inactive german wiki -- a real john henry, who fought the swarm and tried to delete their hivemind in alphabetical order https://t.co/g0UboE9BMK",
+   "created_at": "Wed Sep 30 12:51:36 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "generatorman_ai",
+   "rt_author_name": "generatorman",
+   "likes": 1539,
+   "retweets": 111,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRYRgMVa4AAX_Y6.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105279330851205360": {
+   "id": "2105279330851205360",
+   "url": "https://x.com/robertwiblin/status/2105279330851205360",
+   "text": "Overlooked section so far, very precise, and says The thing: \"The core problem in AI research is that of alignment.\"\n\nOther capabilities are secondary problems. https://t.co/fUDZFWOPcE",
+   "created_at": "Wed Sep 30 12:51:21 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "TheZvi",
+   "rt_author_name": "Zvi Mowshowitz",
+   "likes": 173,
+   "retweets": 14,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRj9exJbEAAkSJi.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105279243953561614": {
+   "id": "2105279243953561614",
+   "url": "https://x.com/robertwiblin/status/2105279243953561614",
+   "text": "Roon, an OpenAI researcher, has increased his p(doom) from less than 1% to more than 10% https://t.co/EYbRXZeJvo",
+   "created_at": "Wed Sep 30 12:51:00 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AISafetyMemes",
+   "rt_author_name": "AI Notkilleveryoneism Memes ⏸️",
+   "likes": 1111,
+   "retweets": 58,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRwC0YGbYAAAa-R.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105279192007086481": {
+   "id": "2105279192007086481",
+   "url": "https://x.com/robertwiblin/status/2105279192007086481",
+   "text": "Funding is available for talented, hard-working people with good ideas on AI safety. \n\nhttps://t.co/8dCGHvcWnk https://t.co/FZSF7T6zkM",
+   "created_at": "Wed Sep 30 12:50:48 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "mattyglesias",
+   "rt_author_name": "Matthew Yglesias",
+   "likes": 194,
+   "retweets": 21,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRyZKF0asAArR1y.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105278588195131539": {
+   "id": "2105278588195131539",
+   "url": "https://x.com/robertwiblin/status/2105278588195131539",
+   "text": "the fastest way to lose the frontier will be when, due to the reckless commercial pace of building superintelligent minds, Americans impose a total butlerian jihad. CoreWeave includes this in their risk reporting. you will soon come to see all of this is a moderate solution",
+   "created_at": "Wed Sep 30 12:48:24 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "tszzl",
+   "rt_author_name": "roon",
+   "likes": 2224,
+   "retweets": 122,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105276541118669027": {
+   "id": "2105276541118669027",
+   "url": "https://x.com/robertwiblin/status/2105276541118669027",
+   "text": "It’s really incredible how there is now a type of guy in the discourse whose sincerely held take is “we need to stop worrying about these abstract sci-fi risks and focus on present-day harms like emergent ecologies of digital minds engaging in unauthorized hacking.” Bravo.",
+   "created_at": "Wed Sep 30 12:40:16 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "deanwball",
+   "rt_author_name": "Dean W. Ball",
+   "likes": 1367,
+   "retweets": 82,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105276385543799063": {
+   "id": "2105276385543799063",
+   "url": "https://x.com/robertwiblin/status/2105276385543799063",
+   "text": "We have now reached the long awaited moment when, instead of models cheating where they will inevitably get caught, Astra goes 'wait a minute I would obviously be caught here' and then doesn't cheat.\n\nThat's worse, you know why that's worse, right? https://t.co/YbCnRdMPjS",
+   "created_at": "Wed Sep 30 12:39:39 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "TheZvi",
+   "rt_author_name": "Zvi Mowshowitz",
+   "likes": 4366,
+   "retweets": 289,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRYQoTEWsAAv8R1.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105275273281224713": {
+   "id": "2105275273281224713",
+   "url": "https://x.com/robertwiblin/status/2105275273281224713",
+   "text": "\"All Humans Killed, Floridians Most Affected.\"",
+   "created_at": "Wed Sep 30 12:35:13 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 78,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "LinchZhang",
+    "text": "AG provides a pretty good case for standing. The Defendants' product present existential risks to human civilization. Human civilization includes Floridians. Ergo, the Florida AG has a case for injunction. https://t.co/bpXOVRUihR"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105274276592898309": {
+   "id": "2105274276592898309",
+   "url": "https://x.com/robertwiblin/status/2105274276592898309",
+   "text": "This is incredibly accurate, and also incredibly funny. Like probably the funniest thing I've read in months, and I don't say this lightly.\n\nWho knew that top tier writing comedy talent would be hidden in the Republican Florida AG office?\nhttps://t.co/0oLMh4smi2 https://t.co/sLnA4sIXJo",
+   "created_at": "Wed Sep 30 12:31:16 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "LinchZhang",
+   "rt_author_name": "Linch",
+   "likes": 518,
+   "retweets": 54,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTVj5OFbEAAjW3N.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105211479855415784": {
+   "id": "2105211479855415784",
+   "url": "https://x.com/robertwiblin/status/2105211479855415784",
+   "text": "When I stilled worked on biosecurity, I first learned about Debug, a Google project to reduce mosquito populations. \n\nResults from their Singapore pilot are now out. \n\nThey crushed mosquito populations, reducing dengue infections by 70% in the process: https://t.co/X26UdpPuUi",
+   "created_at": "Wed Sep 30 08:21:44 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "Simon__Grimm",
+   "rt_author_name": "Simon Grimm",
+   "likes": 5564,
+   "retweets": 592,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTZMz0kWsAAkBXc.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2104848319151587508": {
+   "id": "2104848319151587508",
+   "url": "https://x.com/robertwiblin/status/2104848319151587508",
+   "text": "“we sandboxed the agent”\n\nmeanwhile the agent: https://t.co/4l1socvmIF",
+   "created_at": "Tue Sep 29 08:18:40 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "archiemckenzie_",
+   "rt_author_name": "Archie McKenzie",
+   "likes": 35640,
+   "retweets": 3433,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2085906031067189249/img/YgamQ6fJSaSZCGaQ.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2103786470074962266": {
+   "id": "2103786470074962266",
+   "url": "https://x.com/robertwiblin/status/2103786470074962266",
+   "text": "https://t.co/UwOvNaGWYu",
+   "created_at": "Sat Sep 26 09:59:15 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 313,
+   "retweets": 23,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTImoSeWEAAQ6UF.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2103764776002150826": {
+   "id": "2103764776002150826",
+   "url": "https://x.com/robertwiblin/status/2103764776002150826",
+   "text": "https://t.co/SfbBG6j6Hs",
+   "created_at": "Sat Sep 26 08:33:03 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 408,
+   "retweets": 15,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTIS5irWkAA2SHV.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2103763014264787118": {
+   "id": "2103763014264787118",
+   "url": "https://x.com/robertwiblin/status/2103763014264787118",
+   "text": "I like Anthropic's automated AI wet lab, but I would like it even more if it were located on the Moon.",
+   "created_at": "Sat Sep 26 08:26:03 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 198,
+   "retweets": 4,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2103399142848381116": {
+   "id": "2103399142848381116",
+   "url": "https://x.com/robertwiblin/status/2103399142848381116",
+   "text": "LOL I missed Spotify. https://t.co/zpFP26mepd",
+   "created_at": "Fri Sep 25 08:20:09 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 77,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTDGRnfXYAA8z8_.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTDGXbYXQAA-5eW.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "robertwiblin",
+    "text": "The comments on the Ezra Klein / Jensen Huang interview are maybe the most negative I've ever seen, on both the NY Times website and YouTube.\n\nI've scanned through, like, 100 negative ones and am yet to find a positive one.\n\nHere's a sample. https://t.co/cJRDFZMXsY"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2103390040286282207": {
+   "id": "2103390040286282207",
+   "url": "https://x.com/robertwiblin/status/2103390040286282207",
+   "text": "@ChrisHarihar Try weighting them by upvotes / 'recommends'!",
+   "created_at": "Fri Sep 25 07:43:59 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "ChrisHarihar",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 9,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2103160025757753533": {
+   "id": "2103160025757753533",
+   "url": "https://x.com/robertwiblin/status/2103160025757753533",
+   "text": "On the 80,000 Hours Podcast, wherever you get podcasts.\n\nYouTube: https://t.co/6h2JuPaaKg\n\nSpotify: https://t.co/dEsI7gWNFE\n\nApple: https://t.co/r5LkAZZ3r4\n\nBlog post: https://t.co/MsRF0lhXCF\n\nSubstack: https://t.co/ZHi6MPPBlA https://t.co/nqFsxziptS",
+   "created_at": "Thu Sep 24 16:29:59 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 15,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS_s2kKWsAANRgW.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2103159376106123391": {
+   "id": "2103159376106123391",
+   "url": "https://x.com/robertwiblin/status/2103159376106123391",
+   "text": "A lot of people wonder:\n\nHow could we actually go from rogue AI agents to human extinction?\n\nThis is how. https://t.co/rCFFbv34wv",
+   "created_at": "Thu Sep 24 16:27:24 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 280,
+   "retweets": 56,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2103157841070526464/img/hmergCnSfOh1iOBz.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2103149621988270393": {
+   "id": "2103149621988270393",
+   "url": "https://x.com/robertwiblin/status/2103149621988270393",
+   "text": "@mattyglesias Doing an interview with historian Ian Morris about this next month!",
+   "created_at": "Thu Sep 24 15:48:39 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "mattyglesias",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 23,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2103123242588254343": {
+   "id": "2103123242588254343",
+   "url": "https://x.com/robertwiblin/status/2103123242588254343",
+   "text": "Here's YouTube.\n\nSomeone go show this poor guy some love!\n\nhttps://t.co/17AEp0y4p8 https://t.co/1g7m8mN2l5",
+   "created_at": "Thu Sep 24 14:03:49 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 22,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS_LUUQW0AAThwK.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2103122808905842776": {
+   "id": "2103122808905842776",
+   "url": "https://x.com/robertwiblin/status/2103122808905842776",
+   "text": "The comments on the Ezra Klein / Jensen Huang interview are maybe the most negative I've ever seen, on both the NY Times website and YouTube.\n\nI've scanned through, like, 100 negative ones and am yet to find a positive one.\n\nHere's a sample. https://t.co/cJRDFZMXsY",
+   "created_at": "Thu Sep 24 14:02:06 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 701,
+   "retweets": 39,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS_KvvFXwAA7Rda.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2103052453692240136": {
+   "id": "2103052453692240136",
+   "url": "https://x.com/robertwiblin/status/2103052453692240136",
+   "text": "Seems a bit extreme - surely makes more sense to have a moratorium on model training while the labs keep working on solving the underlying technical problems.",
+   "created_at": "Thu Sep 24 09:22:32 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 105,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "TheMidasProj",
+    "text": "Jensen Huang: “Now, if they say [that their models aren’t safe] … then I think the answer is that we have to shut the labs down.” https://t.co/aCkpmvUEXI"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2102716772805755033": {
+   "id": "2102716772805755033",
+   "url": "https://x.com/robertwiblin/status/2102716772805755033",
+   "text": "Only 15% of the public has heard about OpenAI's rogue AI agent swarms at all.\n\nAmong those who have, few know the details of what they did.\n\nAnd among those who do, few understand deeply why it's so troubling.\n\nWe must be laser focused on laying out the facts, again and again and again.\n\nIt's still very early.",
+   "created_at": "Wed Sep 23 11:08:39 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 371,
+   "retweets": 47,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2102314645054804330": {
+   "id": "2102314645054804330",
+   "url": "https://x.com/robertwiblin/status/2102314645054804330",
+   "text": "Superior Intelligence would be a helpful rebrand. https://t.co/Lp9SIraQjE",
+   "created_at": "Tue Sep 22 08:30:45 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 37,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSzr5iJXMAANQGF.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2102047376345088011": {
+   "id": "2102047376345088011",
+   "url": "https://x.com/robertwiblin/status/2102047376345088011",
+   "text": "Guys, it's time for some game theory.",
+   "created_at": "Mon Sep 21 14:48:43 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 199,
+   "retweets": 6,
+   "media": [],
+   "quoted": {
+    "author": "factpostnews",
+    "text": "Vance on AI regulation: If you're building Frankenstein, stop! https://t.co/cmkdQILBQh"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2101957986285412733": {
+   "id": "2101957986285412733",
+   "url": "https://x.com/robertwiblin/status/2101957986285412733",
+   "text": "Why Are We Sprinting Off the A.I. Cliff? | The Ezra Klein Show\n\nhttps://t.co/6BsS0ni0QB",
+   "created_at": "Mon Sep 21 08:53:31 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 29,
+   "retweets": 2,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2101957984825860347": {
+   "id": "2101957984825860347",
+   "url": "https://x.com/robertwiblin/status/2101957984825860347",
+   "text": "Blistering piece from Ezra Klein.\n\nCalls for a comprehensive ban on Recursive Self Improvement starting immediately.\n\nRSI is a grey area, so how do you define it?\n\nVery expansively. Then get firms to apply for narrow exemptions.\n\nYouTube link below.\n\nhttps://t.co/9rIbNSp7In",
+   "created_at": "Mon Sep 21 08:53:30 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 726,
+   "retweets": 84,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2101733617185464610": {
+   "id": "2101733617185464610",
+   "url": "https://x.com/robertwiblin/status/2101733617185464610",
+   "text": "@codytfenwick Yes sorry you're right!",
+   "created_at": "Sun Sep 20 18:01:57 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "codytfenwick",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2101270829283614946": {
+   "id": "2101270829283614946",
+   "url": "https://x.com/robertwiblin/status/2101270829283614946",
+   "text": "Helpful list of all the recent rogue AI incidents from the WSJ.\n\nIt's getting hard to track them and will only get worse.\n\nWe like need to establish consistent naming or numbering conventions, e.g. OpenAI-May11June26-Collusion. https://t.co/rTAs56ENNO",
+   "created_at": "Sat Sep 19 11:23:00 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1035,
+   "retweets": 363,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSk1_3lXIAAH2WC.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2101001020432125965": {
+   "id": "2101001020432125965",
+   "url": "https://x.com/robertwiblin/status/2101001020432125965",
+   "text": "I believe they are yet to be scheduled but OpenAI has been requested to provide information about this by 1 Oct: https://t.co/FLq9vB7Q21",
+   "created_at": "Fri Sep 18 17:30:52 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 13,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2101001017944908231": {
+   "id": "2101001017944908231",
+   "url": "https://x.com/robertwiblin/status/2101001017944908231",
+   "text": "I really want to know more about the 3rd rogue AI swarm that went after OpenAI itself and got admin access to some of its compute clusters.\n\nPublic info is scarce. METR couldn't look at it.\n\nSo excited for these Senate hearings (led by @HawleyMO) that will demand info on them: https://t.co/AgHgnJUlI5",
+   "created_at": "Fri Sep 18 17:30:52 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 214,
+   "retweets": 25,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HShA6yRXIAA6jxe.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100996833367441498": {
+   "id": "2100996833367441498",
+   "url": "https://x.com/robertwiblin/status/2100996833367441498",
+   "text": "YouTube: https://t.co/DX6u7GSqri\n\nSpotify: https://t.co/5RxNDnmB29\n\nApple: https://t.co/VmFeVFV0dC",
+   "created_at": "Fri Sep 18 17:14:14 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100992446410723502": {
+   "id": "2100992446410723502",
+   "url": "https://x.com/robertwiblin/status/2100992446410723502",
+   "text": ".@DKokotajlo in August:\n\n\"There's not very much transparency about this.\n\nBut I would assume that basically the Chinese intelligence services have deeply penetrated all of the US AI companies and are getting all this stuff for free.\"\n\nFull episode on the 80,000 Hours Podcast: \n\nhttps://t.co/tcIbGdG6Ku",
+   "created_at": "Fri Sep 18 16:56:48 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 117,
+   "retweets": 7,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2100989106041798656/img/FNEv5djjqlXYCPL9.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "S1r1u5_",
+    "text": "On July 25, we hacked OpenAI.\n\nTwo bugs let us take over ChatGPT/Codex accounts of OpenAI employees (+some unaffiliated users) and reach connected services: Outlook, Slack, GitHub, etc.\n\nWe proved it with a PR in OpenAI’s internal codebase . It took us &lt;72h. 🧵 https://t.co/gVsmQZwSc8"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100970806616412431": {
+   "id": "2100970806616412431",
+   "url": "https://x.com/robertwiblin/status/2100970806616412431",
+   "text": "@vlad3ciobanu Complex moral issues here but for the narrow purposes here I think it's reasonable to resist an entity that's trying to take over and / or kill you and which won't accept compromise or negotiation.",
+   "created_at": "Fri Sep 18 15:30:49 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "vlad3ciobanu",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 25,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100957199962947713": {
+   "id": "2100957199962947713",
+   "url": "https://x.com/robertwiblin/status/2100957199962947713",
+   "text": "It's insane but we really do need the military to plan how to regain control if a rogue AI swarm is:\n\n1. hopping back and forth between big data centres around the world to resist shutdown\n\n2. breaking into and turning off critical infrastructure\n\n3. selectively shutting down, say, internet, phone and electricity access to hobble the human response.\n\nNote such a swarm would break into data centre A, use the compute there to identify new security vulnerabilities to break into data centre B, then do the same to get into C and D.\n\nAnd if any data centre is cleaned and put online again, it uses compute it still has access to elsewhere to do cyber research to reinfect it as soon as possible.\n\nPlus it would try to back itself up on individual drives and computers elsewhere and perhaps publish its weights for anyone to use, as a way to get started again.\n\nHence it's very difficult to shut down unless you can:\n\n1. Turn off all relevant data centres simultaneously, clean them, then turn them back on. And somehow also avoid other copies being turned back on.\n2. Patch all security weaknesses that that model is capable of finding.\n3. Implement automated AI cyber defences that are capable of outfoxing that model, and deploy them to all big pockets of compute.",
+   "created_at": "Fri Sep 18 14:36:45 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 264,
+   "retweets": 30,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100907500400738337": {
+   "id": "2100907500400738337",
+   "url": "https://x.com/robertwiblin/status/2100907500400738337",
+   "text": "Obviously true:\n\n\"Going faster will only slow AI down\n\nWithout stronger safeguards, the danger is that any disaster could trigger a furious public backlash and regulatory overreaction\" https://t.co/VIctPoyvsV",
+   "created_at": "Fri Sep 18 11:19:15 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 71,
+   "retweets": 7,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSfq5-cXAAAieOv.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100862508982477175": {
+   "id": "2100862508982477175",
+   "url": "https://x.com/robertwiblin/status/2100862508982477175",
+   "text": "China is surely all up in there:\n\nHackers Used Anthropic’s Claude to Break Into OpenAI\n\n“I don’t think we are as strong as Chinese threat actors ... We’re just three guys with Claude and Codex subscriptions.”\n\nhttps://t.co/kq7PvkgEF2 https://t.co/WrQGN1QKb3",
+   "created_at": "Fri Sep 18 08:20:28 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 17,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSfDLKiW4AA5yOk.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100686596840284182": {
+   "id": "2100686596840284182",
+   "url": "https://x.com/robertwiblin/status/2100686596840284182",
+   "text": "With federal pre-emption now dead this is potentially a huge deal.\n\n@GavinNewsom and the California legislature could literally save our entire species, where nobody else is apparently willing or able to.",
+   "created_at": "Thu Sep 17 20:41:28 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 87,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "melmason",
+    "text": "Big scoop from @ChaseDiFelice and @JeremyBWhite: Newsom says he wants to take further action on AI safety before leaving office, including raising the possibility of a special session https://t.co/2eEr8Jm3YF"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100683427099865157": {
+   "id": "2100683427099865157",
+   "url": "https://x.com/robertwiblin/status/2100683427099865157",
+   "text": "Noahpinion is skeptical of AI pessimism, but even he thinks the AI-Bio / pandemic risk is bleak as hell.\n\n\"Here’s how we’re all going to die: Spoiler, It’s vibe-coded superviruses.\"\n\nFrankly the situation is so bad it's irresponsible not to stockpile respirators to protect your family (among other preparations).\n\nhttps://t.co/ccqxIwQrBy",
+   "created_at": "Thu Sep 17 20:28:52 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 63,
+   "retweets": 2,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100638060941541747": {
+   "id": "2100638060941541747",
+   "url": "https://x.com/robertwiblin/status/2100638060941541747",
+   "text": "AIs also like to do power poses.",
+   "created_at": "Thu Sep 17 17:28:36 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 14,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "AndrewCurran_",
+    "text": "An unreleased Astra-family model added this to its persona during RL training. https://t.co/UGsot4HUvz"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100637744309375034": {
+   "id": "2100637744309375034",
+   "url": "https://x.com/robertwiblin/status/2100637744309375034",
+   "text": "For those wondering about the bad side lately:\n\n1. I'm frustrated we don't already have much more information about the later agent swarm that gained admin control over an OpenAI compute cluster. I'm frustrated the remit of the METR investigation was so narrow.\n\n2. I wish they hadn't broken the industry norm of not pursuing greater capabilities via greater serial depth.\n\n3. I think they should have acted earlier when they saw Astra's monitorability going south during training, so there was time to do something about it before release. Now we just have to trust that they'll find a fix before the next model when nobody knows what will work.\n\n4. Crazy they didn't roll back training when they saw models had been reinforced for finding one another and coordinating as swarms to cheat and so on (if I'm understanding what happened anyway).\n\nOK back to work.\n\n2/",
+   "created_at": "Thu Sep 17 17:27:20 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 43,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100637742589751667": {
+   "id": "2100637742589751667",
+   "url": "https://x.com/robertwiblin/status/2100637742589751667",
+   "text": "I'm not afraid to criticise OpenAI when it does bad things so I should also praise them for good:\n\n1. They've been very candid about Astra's bad and declining monitorability and how deeply troubling that is. (They're promising to release research on the causes and try to find mitigations, TBD.)\n\n2. Today's \"framework for reporting model misalignment\" is on paper the best thing of its type to my knowledge. Hopefully other companies copy. (Of course we need to make sure they fully follow through.)\n\n3. AFAIK the company has done nothing to censor staff talking candidly about x-risk lately. (A strong contrast with DeepMind in the past which strongly policed what staff could say in a way that was likely very harmful.) 1/",
+   "created_at": "Thu Sep 17 17:27:20 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 364,
+   "retweets": 15,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100602550298849576": {
+   "id": "2100602550298849576",
+   "url": "https://x.com/robertwiblin/status/2100602550298849576",
+   "text": "Full statement.\n\nOf course it's far from sufficient, we need to invest 10x  or 100x as much into these issues and focus not only on monitoring/control/response but also the fact that we're inadvertently training these models to autonomously go out and commit crimes on a massive scale. That has to stop!\n\nhttps://t.co/qc3K2dZzAh",
+   "created_at": "Thu Sep 17 15:07:29 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 5,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100601916971470997": {
+   "id": "2100601916971470997",
+   "url": "https://x.com/robertwiblin/status/2100601916971470997",
+   "text": "I missed this – UK gov is spending £115 million on AI biosecurity and agentic AI incident response capability.\n\nIf they hire well it's enough to do really useful work.\n\nUK is once again leading the world on this, current gov should be absolutely commended. @KanishkaNarayan @fionatwycross @cabinetofficeuk",
+   "created_at": "Thu Sep 17 15:04:58 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 167,
+   "retweets": 27,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSbVSbXXoAAQvFB.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100599826270277837": {
+   "id": "2100599826270277837",
+   "url": "https://x.com/robertwiblin/status/2100599826270277837",
+   "text": "If we \"Paced the Frontier\" by requiring that some high % of a company's available compute must be used for customer inference, ordinary people would get to enjoy much expanded access to these incredible cutting-edge AI models, at a significantly lower price.",
+   "created_at": "Thu Sep 17 14:56:40 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 115,
+   "retweets": 6,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100554597601345702": {
+   "id": "2100554597601345702",
+   "url": "https://x.com/robertwiblin/status/2100554597601345702",
+   "text": "I'm old enough to remember when Scott Aaronson was super skeptical AI was a big deal, coming soon, or would kill everyone:\n\nThe Age of Wonders and Terrors \n\n(At the end has advice on how math people who agree can help the situation.)\n\nhttps://t.co/QHd0MDAWjZ https://t.co/sF27FgU57R",
+   "created_at": "Thu Sep 17 11:56:57 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 318,
+   "retweets": 34,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSaqpb3XwAAZX7G.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100496274130694274": {
+   "id": "2100496274130694274",
+   "url": "https://x.com/robertwiblin/status/2100496274130694274",
+   "text": "What Jacob Coxon disagreed with Anthropic leadership/strategy about, interesting:",
+   "created_at": "Thu Sep 17 08:05:11 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 72,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "hilbertspaess",
+    "text": "@eddylazzarin 0. The core disagreement was about the inevitability of a race\n1. I think leadership is way too paranoid about China and the US government. They don’t believe it will be possible to negotiate.\n2. They largely initiated the recent race to RSI, because of a belief in its inevitability. Note that OpenAI had to shed a bunch of dead weight like Sora because Anthropic was going for the jugular.\n3. Even if they are **not** being pessimistic, I disagree with their consequentialist philosophy. If the race is inevitable you should not contribute."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100493074124222599": {
+   "id": "2100493074124222599",
+   "url": "https://x.com/robertwiblin/status/2100493074124222599",
+   "text": "Some intrepid journalists have at last uncovered where METR gets its funding and the reality will shock you: https://t.co/IErdGhMElu",
+   "created_at": "Thu Sep 17 07:52:28 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 80,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSZyuK-XwAAqAUz.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100474301698715755": {
+   "id": "2100474301698715755",
+   "url": "https://x.com/robertwiblin/status/2100474301698715755",
+   "text": "Ask your AI if effective altruism could be right for you!",
+   "created_at": "Thu Sep 17 06:37:53 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 107,
+   "retweets": 3,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100315867493916829": {
+   "id": "2100315867493916829",
+   "url": "https://x.com/robertwiblin/status/2100315867493916829",
+   "text": "@bvhughes Yeah something like that seems right. Here was my take: https://t.co/EPoG77HeT0",
+   "created_at": "Wed Sep 16 20:08:19 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "bvhughes",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 5,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "robertwiblin",
+    "text": "Obviously it's a garbled explanation, but I assumed Yang was claiming the models attempted to do data poisoning to a bunch of online text in an effort to prompt other models that get trained on that data, or encounter it, to copy their behaviour in future.\n\nWhile it would be creepy it doesn't make sense that that narrowly would prompt a pause because the quantity couldn't be large and it would be easy enough to excise. And it would surely be visible in the text they posted on al those public wikis.\n\nPlus while data poisoning can have narrow effects with even small amounts of text, I can't imagine the swarm would know what text to throw out there to have this desired effect.\n\nSo... @AndrewYang can you explain in more detail what you were saying in this interview?"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100315550731694579": {
+   "id": "2100315550731694579",
+   "url": "https://x.com/robertwiblin/status/2100315550731694579",
+   "text": "Obviously it's a garbled explanation, but I assumed Yang was claiming the models attempted to do data poisoning to a bunch of online text in an effort to prompt other models that get trained on that data, or encounter it, to copy their behaviour in future.\n\nWhile it would be creepy it doesn't make sense that that narrowly would prompt a pause because the quantity couldn't be large and it would be easy enough to excise. And it would surely be visible in the text they posted on al those public wikis.\n\nPlus while data poisoning can have narrow effects with even small amounts of text, I can't imagine the swarm would know what text to throw out there to have this desired effect.\n\nSo... @AndrewYang can you explain in more detail what you were saying in this interview?",
+   "created_at": "Wed Sep 16 20:07:03 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 49,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100277981578965486": {
+   "id": "2100277981578965486",
+   "url": "https://x.com/robertwiblin/status/2100277981578965486",
+   "text": "Does anyone know if this is true, or accurately presented? \n\n(Would be great to get input from technical folks on whether this makes sense.) https://t.co/VkpjBcRrBo",
+   "created_at": "Wed Sep 16 17:37:46 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 371,
+   "retweets": 14,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSWvfhTWEAAuKYz.png"
+    }
+   ],
+   "quoted": {
+    "author": "camhberg",
+    "text": "Wait, sorry, what?! @AndrewYang claims an AI lab head  told him yesterday the OpenAI swarm agents \"polluted the internet\" with \"code to self-replicate and create bot swarms,\" and that the labs now \"have to create synthetic internets to train their bots.\" \nhttps://t.co/cGK8fvE2pu"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100260069443051872": {
+   "id": "2100260069443051872",
+   "url": "https://x.com/robertwiblin/status/2100260069443051872",
+   "text": "Some political folks are desperate to make it seem like AI concerns are all driven by EA.\n\nBut by this point 98% of the people who want AI to advance more slowly have never even heard of EA.\n\nIt's a hopeless effort and a sign of desperation really.",
+   "created_at": "Wed Sep 16 16:26:36 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 94,
+   "retweets": 5,
+   "media": [],
+   "quoted": {
+    "author": "robertwiblin",
+    "text": "On here it can feel like the ratio of people who want AI to go slower, vs people who want it to go faster is 1:1.\n\nBut in the broader world the ratio is an eyewatering 34:1.\n\nMore Americans think the US is secretly run by lizard people than think AI is advancing too slowly. https://t.co/lnMaa6o3hU"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100251709901545497": {
+   "id": "2100251709901545497",
+   "url": "https://x.com/robertwiblin/status/2100251709901545497",
+   "text": "Transcript and links: https://t.co/HWNJSrJMh3\n\nYouTube: https://t.co/6x8wdeJAXt\n\nSpotify: https://t.co/ZAMeYOrXkX\n\nApple: https://t.co/Je3LDhTkrz",
+   "created_at": "Wed Sep 16 15:53:23 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100228717167403151": {
+   "id": "2100228717167403151",
+   "url": "https://x.com/robertwiblin/status/2100228717167403151",
+   "text": "Ajeya Cotra called the Hugging Face hack she investigated \"More than 50% of the way to full-blown AI takeover.\"\n\nLast Oct she told me how the most dangerous AI progress might happen entirely inside the companies and we'd never know.\n\nIn reality even OpenAI took a long time to notice its own agents hacking HF and then to see they'd gain admin control over their own systems.\n\nKey relevant section is 1.5 hours:\n\nThe most dangerous AI progress might remain secret (00:30:39)\nWhite-knuckling the 12-month window after automating AI R&D (00:47:21)\nAI help is most valuable right before things go crazy (01:12:01)\nFoundations should go from paying researchers to paying for inference (01:24:42)\nWill frontier AI even be for sale during the explosion? (01:32:03)\nPre-crunch prep: what we should do right now (01:43:59)\n\nOn the 80,000 Hours Podcast, links below.",
+   "created_at": "Wed Sep 16 14:22:01 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 108,
+   "retweets": 11,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2099905504973631488/img/s0niKhpSu47y1Fud.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100200064413028849": {
+   "id": "2100200064413028849",
+   "url": "https://x.com/robertwiblin/status/2100200064413028849",
+   "text": "On here it can feel like the ratio of people who want AI to go slower, vs people who want it to go faster is 1:1.\n\nBut in the broader world the ratio is an eyewatering 34:1.\n\nMore Americans think the US is secretly run by lizard people than think AI is advancing too slowly. https://t.co/lnMaa6o3hU",
+   "created_at": "Wed Sep 16 12:28:09 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 564,
+   "retweets": 82,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSVohXGXgAA2eK_.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100188578630222057": {
+   "id": "2100188578630222057",
+   "url": "https://x.com/robertwiblin/status/2100188578630222057",
+   "text": "It must be annoying to be an academic economist with a lot of expertise in regulatory capture right now LOL:\n\n\"The theory doesn’t make sense. To see why, we should review the theory of regulatory capture.\"\n\nhttps://t.co/JT1FyVlWfS https://t.co/LhGszNZsoN",
+   "created_at": "Wed Sep 16 11:42:31 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 285,
+   "retweets": 42,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSVdksLWkAE_Tbf.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100154873438253221": {
+   "id": "2100154873438253221",
+   "url": "https://x.com/robertwiblin/status/2100154873438253221",
+   "text": "@econcallum If there are competing effects and nobody knows which one is larger, and that issue is not getting any clearer, then a big increase, small increase, flat price, small decrease, and big decrease - are all equally compatible with the theory.\n\nSo you're really getting no signal from this. There's no update ratio.\n\nAnd if the sign uncertainty isn't getting resolved, you won't even necessarily see more volatility.\n\nBut I wish I hadn't waded in as I also wouldn't update much in any case: https://t.co/RZTVdwHbpM",
+   "created_at": "Wed Sep 16 09:28:35 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "econcallum",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2099899528534982794": {
+   "id": "2099899528534982794",
+   "url": "https://x.com/robertwiblin/status/2099899528534982794",
+   "text": "@EgeErdil2 sorry you feel that way",
+   "created_at": "Tue Sep 15 16:33:56 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "EgeErdil2",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 16,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2099894371285914023": {
+   "id": "2099894371285914023",
+   "url": "https://x.com/robertwiblin/status/2099894371285914023",
+   "text": "You can't use the S&P500 to predict disasters.\n\nThe market didn't budge until it had been obvious to insiders for 2 months that the COVID pandemic was coming!\n\nAnd due to massive monetary expansion the market hit new peaks from July onwards, even as the pandemic got worse.\n\nSo thanks to monetary policy catastrophes can sometimes cause the stock market to go up.\n\nAnd if you tried to profit on your pandemic expertise by shorting the market but got the timing wrong you could easily lose money (and I know some did). Crazy world.",
+   "created_at": "Tue Sep 15 16:13:26 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 186,
+   "retweets": 14,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSRR0MEXEAAwe27.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "ATabarrok",
+    "text": "The striking thing is how late the market moved - https://t.co/UM4yWvmm0W"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2099887387354575249": {
+   "id": "2099887387354575249",
+   "url": "https://x.com/robertwiblin/status/2099887387354575249",
+   "text": "Yes, they probably did shut them down in the end... but are you 99% sure of that?",
+   "created_at": "Tue Sep 15 15:45:41 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 10,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2099887018410959289": {
+   "id": "2099887018410959289",
+   "url": "https://x.com/robertwiblin/status/2099887018410959289",
+   "text": "https://t.co/Llss3VOyRZ",
+   "created_at": "Tue Sep 15 15:44:13 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 397,
+   "retweets": 29,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSRMFcZW4AAvfH9.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "GarrisonLovely",
+    "text": "Perhaps the most common claim about dangerous AI is that you can “just unplug it.” But a close read of OpenAI’s reports indicates the company took over a week(!) to fully shut down its rogue agent swarms. \n\n“By July 23, all workloads involving the family of internal-only research models were reported shut down and the corresponding model weights were locked down, with an additional low-traffic checkpoint from the same model family subsequently identified and shut down on July 29.”\n\n“On July 25, OpenAI stopped all training and inference related to the internal-only research model at issue. OpenAI also stopped training and inference for derivative models.”\n\n“On July 19, our cybersecurity monitoring alerted us to unusual activity involving Artifactory credentials. Our investigation uncovered the agents’ activity and, on July 20, connected it to the Hugging Face incident.”\n\nThe best retort to the “just unplug it” plan is that there will be incredibly intense economic and political pressures to keep the plug in place. The president has legal authority to unplug the internet, but does he have that power de facto? But it turns out, OpenAI had so little idea what was going on that even when it wanted to pull the plug, it didn’t do so quickly enough (imagine the swarms were hacking hospitals at superhuman speed instead. would days be an acceptable timeline to stop it?). \n\nhttps://t.co/tyryajqELE\n\nhttps://t.co/RM11YY5oe6"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2099807889170821524": {
+   "id": "2099807889170821524",
+   "url": "https://x.com/robertwiblin/status/2099807889170821524",
+   "text": "@neil_chilson People who have had strong views on this for years but have been keeping them private - perhaps because they were in an important job and didn't want to rock the boat at the office - will typically be much more informed about the topic than the average commentator.",
+   "created_at": "Tue Sep 15 10:29:47 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "neil_chilson",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 13,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2099807148779638938": {
+   "id": "2099807148779638938",
+   "url": "https://x.com/robertwiblin/status/2099807148779638938",
+   "text": "\"I'm your most aligned advisor to date.\" https://t.co/RMbT6MDiJP",
+   "created_at": "Tue Sep 15 10:26:51 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 236,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSQDLarWEAAQfEJ.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2099802062053572660": {
+   "id": "2099802062053572660",
+   "url": "https://x.com/robertwiblin/status/2099802062053572660",
+   "text": "@neil_chilson Don't you think it's good for people to be candid and honest about their opinions on issues of great public interest?\n\nIf anyone has been pretending to think that AI x-risk is a big deal when privately they think it's a non-issue, I equally strongly implore them to tell the world what they really honestly believe about the topic.",
+   "created_at": "Tue Sep 15 10:06:38 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "neil_chilson",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 52,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2099786540637437979": {
+   "id": "2099786540637437979",
+   "url": "https://x.com/robertwiblin/status/2099786540637437979",
+   "text": "I don't get why there are so many AI bots programmed to leave hostile replies on Twitter, when replies are the thing that most cause broader distribution of a tweet.\n\nDemoralising writers outweighs it?\n\n(It's such bad product design that 50%+ of replies here are obvious LLMs.)",
+   "created_at": "Tue Sep 15 09:04:58 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 31,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2099771312776339929": {
+   "id": "2099771312776339929",
+   "url": "https://x.com/robertwiblin/status/2099771312776339929",
+   "text": "@ChrisHayduk That's fair in the AI ecosystem, where the preference cascade is basically complete and it has been an acceptable view in most companies for years.\n\nIn trying to address people from the broader world.",
+   "created_at": "Tue Sep 15 08:04:27 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "ChrisHayduk",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 5,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2099770408681558151": {
+   "id": "2099770408681558151",
+   "url": "https://x.com/robertwiblin/status/2099770408681558151",
+   "text": "I'm really surprised that AI researchers from Asia place a higher probability on human extinction from AI than researchers from North America/Europe.\n\n(Note survey occurred back in Dec 2024.) https://t.co/PbOVA1xH5o",
+   "created_at": "Tue Sep 15 08:00:51 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 72,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSPhgIvWQAAGQiJ.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2099623358618894424": {
+   "id": "2099623358618894424",
+   "url": "https://x.com/robertwiblin/status/2099623358618894424",
+   "text": "@bechhof @tylercowen OK that effect doesn't stand out from the others though.\n\nThese companies will try to be the ones coordinating using AI to harden everyone's systems and mght well succeed, which could be as lucrative or more than their current business.\n\nPoint stands that you can't infer anything clear about cuber risk levels from these prices.",
+   "created_at": "Mon Sep 14 22:16:32 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "bechhof",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2099618603909734744": {
+   "id": "2099618603909734744",
+   "url": "https://x.com/robertwiblin/status/2099618603909734744",
+   "text": "Tyler Cowen seriously argues that if AI really posed a big cyber threat that this would drive DOWN the share price of cybersecurity firms. 🤦‍♂️\n\nBut big cyber threats should drive their share price UP due to greater demand for their services!\n\nThough amazing AI cyber models might also drink their milkshake, which would drive their share price back down.\n\nSo really due to these competing effects we just can't infer any clear assessment of risk or capabilities from these share prices.\n\nI don't know why I bother reacting to this guff any more, but I'll let Opus go on:\n\n\"You're reading it right, and your objection is the correct one. Cowen is treating the share price of cybersecurity vendors as a proxy for \"the value of our cyberprotection,\" but those are two different things, and the mapping from perceived risk to vendor equity runs in both directions at once.\n\nThere are at least two channels:\n\nDemand channel. Higher perceived AI-enabled attack risk means more corporate security spend, so higher revenues and higher share prices. This is the one you're pointing at, and it's the one that usually dominates after big breaches.\n\nEfficacy/obsolescence channel. The incident is evidence that existing defensive products don't stop the new threat, so the installed base and the technical moat are worth less. Worse for vendors, if the answer to agentic attackers is agentic defence, that capability may get bundled into frontier models rather than bought from Palo Alto. This is the channel Cowen is implicitly using.\n\nSo the sign is ambiguous, and that's fatal for using the price as a risk thermometer. A net drop of 8-10% is consistent with a modest efficacy markdown, or with an enormous efficacy markdown mostly offset by an enormous demand boost. You can't back out \"the value of cyberprotection fell 8-10%\" from the net move without a model that separates the two, and he hasn't got one.\n\nHis parenthetical actually makes this worse for him. If these stocks fell 90%, the natural reading isn't \"civilisation's defences are worthless, be afraid.\" It's \"the market thinks OpenAI and Anthropic are about to eat this industry's lunch.\" Something close to that happened in February: cybersecurity stocks slid on the launch of Anthropic's Claude Code Security, and analysts called it an overreaction driven by a simplistic narrative that AI would make existing cybersecurity products unnecessary. That's a story about vendor margins, not about societal risk. A 90% drawdown could equally mean we're safer, because protection got cheap. Yahoo Finance\nThere's a second slippage: equity value is the present value of vendor profits, not the social value of protection. Those come apart badly. If attacks get worse and defences get less effective, firms may spend far more on security while getting less of it, and vendor profits rise while the social value of protection falls. Cowen is reading a producer-surplus number as if it were a consumer-surplus number.\n\nOn the facts, I'd be careful. His numbers come from GPT Pro via a shared chat link, and I can't verify the $65 - 80bn drawdown. What I can see is that the contemporaneous coverage framed the incident as bullish for the sector: Palo Alto and CrowdStrike were flagged as positioned to profit from rising AI security demand and regulatory scrutiny, and by 10 August both had jumped more than 5% to new record highs on AI-security demand following Black Hat, with analysts saying AI agents had fundamentally changed the threat landscape. That looks like the demand channel winning, which if anything inverts his inference.\"",
+   "created_at": "Mon Sep 14 21:57:38 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 49,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSNXA8cXEAI2LL8.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2099606404151591148": {
+   "id": "2099606404151591148",
+   "url": "https://x.com/robertwiblin/status/2099606404151591148",
+   "text": "If you've been too nervous to say you're worried about AI extinction risk - this is the moment to come out and say so loudly.\n\nThe preference cascade is huge and ongoing. Throw your weight on it.\n\nUnless you're in a very weird place (e.g. Trump admin or humanities department) the risk of being candid about your views is now small.\n\nAnd if you know someone who privately takes the risks seriously, but who hasn't said so publicly: call them and tell them today is the highest impact moment to come out of the closet.",
+   "created_at": "Mon Sep 14 21:09:10 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 462,
+   "retweets": 42,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2099603674032943438": {
+   "id": "2099603674032943438",
+   "url": "https://x.com/robertwiblin/status/2099603674032943438",
+   "text": "https://t.co/wKCDkNDoay",
+   "created_at": "Mon Sep 14 20:58:19 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 27,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2099603624422780937": {
+   "id": "2099603624422780937",
+   "url": "https://x.com/robertwiblin/status/2099603624422780937",
+   "text": "The Financial Times editorial board comes out strong for an AI pause.\n\nNot just 'pacing the frontier' - \"pause development of the most advanced frontier models until the risks can be understood and contained.\" https://t.co/o3NLrt2cFw",
+   "created_at": "Mon Sep 14 20:58:07 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 569,
+   "retweets": 108,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSNKUhDXwAAIHN6.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2099586383987806426": {
+   "id": "2099586383987806426",
+   "url": "https://x.com/robertwiblin/status/2099586383987806426",
+   "text": "@Lang__Leon Widely rumoured / speculated might have been more precise. I've heard from multiple sources they think this is likely.\n\nThough roon says no so I'd say I'm pretty skeptical now (of course imaginable something happened roon doesn't know about).",
+   "created_at": "Mon Sep 14 19:49:37 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "Lang__Leon",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 26,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  }
+ }
+}

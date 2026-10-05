@@ -1230,6 +1230,81 @@
     "author": "random_walker",
     "text": "New essay: A big-tent or small-tent AI safety movement?\nThe unstated disagreement that underpins safety debates\nhttps://t.co/4T9n7BLTWX\n\nTwo narratives about AI safety have emerged: either AI existential risk is real and imminent, or AI leaders’ and whistleblowers’ claims to that effect are insincere — a “psyop” or hype or a twisted form of regulatory capture.\n\nFew have considered the third possibility that x-risk warnings are sincere but simply wrong and counterproductive to AI safety. It’s as if everyone takes for granted that those raising the alarm are geniuses, and the only question is whether they’re the benevolent or the evil kind of genius.\n\nWe subscribe to neither narrative. In our writing on AI safety, @sayashk and I consistently tried to take the arguments seriously but rebut the many claims we think are unsound while highlighting safety concerns that we think are real. This essay is a continuation of that agenda.\n\nSections\n- It is true that we systematically underinvest in resilience against catastrophic and systemic risks\n- The Coxon incident shows how the warped media environment elevates x-risk over more grounded concerns\n- Why the x-risk framing may be counterproductive for AI safety policy\n- Conclusion: a big tent or small tent AI safety movement?"
    }
+  },
+  "2105763874880593958": {
+   "id": "2105763874880593958",
+   "url": "https://x.com/sayashk/status/2105763874880593958",
+   "text": "To be clear, while making and watching these videos is fun the first few times, I don't think they will remain compelling for very long. As these videos become easier to create and more pervasive, their novelty will wear out pretty quickly. \n\nI predict we'll look back at these the same way we look back at early ChatGPT demos (cute but kind of annoying). \n\nOf course, AI will be extremely useful for people who make videos, but since they'll all be competing for the same eyeballs, it's what they do with AI that will differentiate them.\n\nAnd there are already tells in these videos that will make us collectively groan as we see more of these, e.g.: https://t.co/nGyL7CHXDm\n\nhttps://t.co/79GeXlAH7O",
+   "created_at": "Thu Oct 01 20:56:45 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": true,
+   "reply_to": "sayashk",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 29,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "SethCronin",
+    "text": "@sayashk Along with the increasing rate of model drops, I'm also finding my rate of ability to be impressed goes down as well. I think if I had seen videos like this being produced a year ago, my hype for it would have lasted at least a few weeks if not months. However seeing this style of video just twice in two days has already completely drained any awe or intrigue I've had in these products. The first one I generally genuinely sat through to completion but after 45 seconds of this it was instant boredom. Funny that"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2099632845887316070": {
+   "id": "2099632845887316070",
+   "url": "https://x.com/sayashk/status/2099632845887316070",
+   "text": "@random_walker Link to the essay: https://t.co/wQmXPmdEVi\n\nReally grateful to @joshua_saxe @snewmanpv @curl_justin @steverab @RodMoshtagi for feedback that dramatically improved the essay.",
+   "created_at": "Mon Sep 14 22:54:14 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": true,
+   "reply_to": "sayashk",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 36,
+   "retweets": 8,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2084646616426795071": {
+   "id": "2084646616426795071",
+   "url": "https://x.com/sayashk/status/2084646616426795071",
+   "text": "@BenDLaufer Congratulations! So excited about this :)",
+   "created_at": "Tue Aug 04 14:24:18 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": true,
+   "reply_to": "BenDLaufer",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2081852012728115695": {
+   "id": "2081852012728115695",
+   "url": "https://x.com/sayashk/status/2081852012728115695",
+   "text": "@r_zwetsloot Link to full interview: https://t.co/0vqv8znmLH",
+   "created_at": "Mon Jul 27 21:19:33 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": true,
+   "reply_to": "sayashk",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
   }
  }
 }

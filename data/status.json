@@ -1,99 +1,129 @@
 {
  "last_run": {
-  "started": "2026-10-04T11:17:20.903102+00:00",
+  "started": "2026-10-05T11:46:34.718681+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
-    "new": 2,
-    "total": 70
+    "new": 9,
+    "total": 79
    },
    "add_hawk": {
     "ok": true,
-    "new": 0,
-    "total": 60
+    "new": 34,
+    "total": 94
    },
    "ajeya_cotra": {
     "ok": true,
-    "new": 0,
-    "total": 61
+    "new": 28,
+    "total": 89
    },
    "alxndrdavies": {
     "ok": true,
-    "new": 0,
-    "total": 61
+    "new": 9,
+    "total": 70
    },
    "curl_justin": {
     "ok": true,
-    "new": 0,
-    "total": 60
+    "new": 4,
+    "total": 64
    },
    "DaveRBanerjee": {
     "ok": true,
-    "new": 3,
-    "total": 67
+    "new": 14,
+    "total": 81
    },
    "DKokotajlo": {
+    "ok": true,
+    "new": 21,
+    "total": 88
+   },
+   "dwarkesh_sp": {
     "ok": true,
     "new": 5,
     "total": 67
    },
-   "dwarkesh_sp": {
-    "ok": true,
-    "new": 0,
-    "total": 62
-   },
    "jkcarlsmith": {
     "ok": true,
     "new": 0,
-    "total": 60
+    "total": 87
    },
    "Lewis_Bollard": {
     "ok": true,
-    "new": 0,
-    "total": 60
-   },
-   "matthewclifford": {
-    "ok": true,
-    "new": 0,
-    "total": 60
+    "new": 15,
+    "total": 75
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 0,
-    "total": 63
+    "new": 22,
+    "total": 85
    },
    "ohlennart": {
     "ok": true,
     "new": 0,
-    "total": 62
+    "total": 65
    },
    "sayashk": {
     "ok": true,
-    "new": 0,
-    "total": 65
+    "new": 4,
+    "total": 69
    },
    "testingham": {
     "ok": true,
-    "new": 0,
-    "total": 60
+    "new": 17,
+    "total": 77
    },
    "slatestarcodex": {
     "ok": true,
-    "new": 0,
-    "total": 61
+    "new": 38,
+    "total": 99
    },
    "s8mb": {
     "ok": true,
-    "new": 7,
-    "total": 72
+    "new": 28,
+    "total": 100
    },
    "random_walker": {
     "ok": true,
+    "new": 4,
+    "total": 66
+   },
+   "sethlazar": {
+    "ok": true,
+    "new": 100,
+    "total": 100
+   },
+   "robertwiblin": {
+    "ok": true,
+    "new": 100,
+    "total": 100
+   },
+   "deanwball": {
+    "ok": true,
+    "new": 100,
+    "total": 100
+   },
+   "nabeelqu": {
+    "ok": true,
+    "new": 100,
+    "total": 100
+   },
+   "theobearman": {
+    "ok": true,
+    "new": 100,
+    "total": 100
+   },
+   "peterwilderford": {
+    "ok": true,
     "new": 0,
-    "total": 62
+    "total": 0
+   },
+   "anton_d_leicht": {
+    "ok": true,
+    "new": 100,
+    "total": 100
    }
   },
-  "new_tweets": 17,
-  "finished": "2026-10-04T11:17:49.357470+00:00"
+  "new_tweets": 882,
+  "finished": "2026-10-05T11:48:06.430182+00:00"
  }
 }

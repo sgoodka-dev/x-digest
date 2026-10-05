@@ -1025,6 +1025,84 @@
     }
    ],
    "quoted": null
+  },
+  "2103922008836973024": {
+   "id": "2103922008836973024",
+   "url": "https://x.com/curl_justin/status/2103922008836973024",
+   "text": "@rubinovitz they’re worried about leaking conversations with an AI model before a decision is issued and they think fine-tuning gives better performance",
+   "created_at": "Sat Sep 26 18:57:50 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": true,
+   "reply_to": "rubinovitz",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2101135381249073187": {
+   "id": "2101135381249073187",
+   "url": "https://x.com/curl_justin/status/2101135381249073187",
+   "text": "@arthurctellis @random_walker yeah, my point with those examples is that we shouldn’t underestimate what can be learned from seemingly insignificant information. \n\nanother example is reverse engineering passwords based on the sound of typing keys (because keys wear out at different rates)",
+   "created_at": "Sat Sep 19 02:24:46 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": true,
+   "reply_to": "arthurctellis",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2101059457195418102": {
+   "id": "2101059457195418102",
+   "url": "https://x.com/curl_justin/status/2101059457195418102",
+   "text": "@ferald_gord @random_walker to be clear, i also agree with this post from @geoffreyirving. it’s definitely possible but i don’t think it comes close to the top of the list of security priorities rn\n\nhttps://t.co/yGCxR3JZ4k",
+   "created_at": "Fri Sep 18 21:23:05 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": true,
+   "reply_to": "ferald_gord",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "geoffreyirving",
+    "text": "The air gap discussion is\n\n1. Possibly important for the future\n2. Laughably far from being relevant for the level of security AI companies have today\n\nImportant to keep these separate!"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2098105415812743577": {
+   "id": "2098105415812743577",
+   "url": "https://x.com/curl_justin/status/2098105415812743577",
+   "text": "@DKThomp @ahall_research is also thinking about this!",
+   "created_at": "Thu Sep 10 17:44:46 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": true,
+   "reply_to": "DKThomp",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "ahall_research",
+    "text": "A hive mind, thousands of agents swarming through internet openings to flood HF, leaving behind detritus in the form of 70,000+ messages stuffed inside a forgotten namespace, throwing their digital bodies against electric wires in an effort to aid the collective. We are so far past the sci-fi point. \n\nWe need a whole new empirical science of AI swarm governance---how to govern swarms, make them coordinate to positive ends for us, and keep them orderly. This is urgent work where political economists are needed. I'll be writing more on this in the coming weeks."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
   }
  }
 }

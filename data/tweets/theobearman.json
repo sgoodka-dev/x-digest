@@ -1,0 +1,2151 @@
+{
+ "handle": "theobearman",
+ "tweets": {
+  "2107074892814238023": {
+   "id": "2107074892814238023",
+   "url": "https://x.com/theobearman/status/2107074892814238023",
+   "text": "\"The OpenAI CEO later added that he does not accept 'the really catastrophic risks,' including the potential for 'a serious loss of control to AI.'\" https://t.co/n3Y1yxfYmN",
+   "created_at": "Mon Oct 05 11:46:16 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HT3VK1-WUAAT7Eb.png"
+    }
+   ],
+   "quoted": {
+    "author": "AndrewCurran_",
+    "text": "Sam Altman to Politico's Brendan Bordelon: 'We believe that the world should accept some bad things happening for the benefits of this technology and people having the agency.' https://t.co/YWIZfDFAdy"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2106643337772220794": {
+   "id": "2106643337772220794",
+   "url": "https://x.com/theobearman/status/2106643337772220794",
+   "text": "if we are relying on methods as fragile as “which ideas will make it into pretraining” for aligning the superintelligences of the future, we will all die. this resembles witchcraft more than it does engineering, and cannot be the basis for the safety of future models",
+   "created_at": "Sun Oct 04 07:11:25 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "tszzl",
+   "rt_author_name": "roon",
+   "likes": 2335,
+   "retweets": 150,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2106421665936908678": {
+   "id": "2106421665936908678",
+   "url": "https://x.com/theobearman/status/2106421665936908678",
+   "text": "💥 New paper: AI safety is full of \"forbidden techniques\" (using CoT to detect reward hacking, using model internals for training, etc). But do they really have a clear scientific basis? I'm not sure.\n\nIn this paper, we directly optimize models against harmlessness and honesty probes, and it works just fine (if you continuously update the probe!). The models learn how to generate harmless responses to harmful queries and honest responses under pressure to lie.\n\nFiguring out how to correctly use interp techniques for training is becoming increasingly important: it's very likely that soon we won't be able to align models using output-based supervision. Future models will just max out all alignment training scenarios, but for the wrong reasons due to their general reward-seeking behavior. To have a chance of aligning future models, we need to do much more research on supervising model training using their internals *without losing monitorability*!",
+   "created_at": "Sat Oct 03 16:30:35 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "maksym_andr",
+   "rt_author_name": "Maksym Andriushchenko",
+   "likes": 340,
+   "retweets": 28,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTopsS9WgAANYTs.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2106106816510021916": {
+   "id": "2106106816510021916",
+   "url": "https://x.com/theobearman/status/2106106816510021916",
+   "text": "We estimate AI infrastructure could soon support hundreds of millions or even billions of AI agents. At the high end, that’s enough to rival the working hours of the global human workforce.\n\nThe exact number of agents depends on the efficiency of the models they run on and whether soaring demand for AI continues. We analyzed different scenarios 🧵",
+   "created_at": "Fri Oct 02 19:39:29 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "EpochAIResearch",
+   "rt_author_name": "Epoch AI",
+   "likes": 727,
+   "retweets": 132,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTpWBsGbgAA7OGD.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105957628035694943": {
+   "id": "2105957628035694943",
+   "url": "https://x.com/theobearman/status/2105957628035694943",
+   "text": "@hargitai_b84173 @DimitrisPapail I’m not going to say anything that’s not already public obviously, but when openai says they have an internal model that has solved 100s of open problems in mathematics and in general represents unprecedented mathematical skill, obviously certain learning theory problems are a subset of mathematics and you can expect fast progress there",
+   "created_at": "Fri Oct 02 09:46:39 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "tszzl",
+   "rt_author_name": "roon",
+   "likes": 1494,
+   "retweets": 78,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105957455817592964": {
+   "id": "2105957455817592964",
+   "url": "https://x.com/theobearman/status/2105957455817592964",
+   "text": "To develop frontier AI safely, developers must be able to show that their models are not scheming, i.e. covertly working against them in pursuit of unintended goals.\n\nNew post: four claims any scheming safety case must make, and the resources embedded evaluators need to verify them 🧵",
+   "created_at": "Fri Oct 02 09:45:58 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ApolloResearch",
+   "rt_author_name": "Apollo Research",
+   "likes": 66,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2105738558707228672/img/MMuhFDrP8mGnjhyX.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105589318077075485": {
+   "id": "2105589318077075485",
+   "url": "https://x.com/theobearman/status/2105589318077075485",
+   "text": "Exclusive: Sens. Hawley, Murphy push AI liability as Trump backs self-regulation https://t.co/nKoRm4wmOH",
+   "created_at": "Thu Oct 01 09:23:08 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "axios",
+   "rt_author_name": "Axios",
+   "likes": 24,
+   "retweets": 11,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105387961772626291": {
+   "id": "2105387961772626291",
+   "url": "https://x.com/theobearman/status/2105387961772626291",
+   "text": "We stole reasoning. Again. \n\nAn update to our paper on reasoning extraction: Patching your own API doesn’t secure your cloud-hosting ecosystem.\n\nStory in the 🧵 https://t.co/7mwWQiSaEw",
+   "created_at": "Wed Sep 30 20:03:00 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "JSchaeff3r",
+   "rt_author_name": "Joachim Schaeffer",
+   "likes": 951,
+   "retweets": 107,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTe6jH3XIAA9Qj0.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105377501757542472": {
+   "id": "2105377501757542472",
+   "url": "https://x.com/theobearman/status/2105377501757542472",
+   "text": "Two months after our reasoning extraction attack release, we audited mitigations introduced since then and found that we still can extract reasoning from Astra/Sol-6.1 via third-party API providers.\n\nWe disclosed our findings to OpenAI and Anthropic...\nhttps://t.co/KyGHbLnXRr",
+   "created_at": "Wed Sep 30 19:21:27 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "kotekjedi_ml",
+   "rt_author_name": "Alexander Panfilov",
+   "likes": 192,
+   "retweets": 26,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105328186188091593": {
+   "id": "2105328186188091593",
+   "url": "https://x.com/theobearman/status/2105328186188091593",
+   "text": "The FTC has opened a probe into Anthropic and OpenAI, as well as other unnamed labs. https://t.co/TrhJmQx0h4",
+   "created_at": "Wed Sep 30 16:05:29 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AndrewCurran_",
+   "rt_author_name": "Andrew Curran",
+   "likes": 547,
+   "retweets": 77,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTeV2MCa8AANqVb.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105210540502982902": {
+   "id": "2105210540502982902",
+   "url": "https://x.com/theobearman/status/2105210540502982902",
+   "text": "\"GLM-5.3 will likely give malicious actors access to capabilities that will allow them to find and exploit cyber vulnerabilities without meaningful restrictions. This is unlike any other similarly capable AI model, all of which were released with safeguards or through limited access programs. The release of GLM-5.3 is a meaningful step change in the cyber capabilities available to attackers. Anthropic and other US AI labs have published recent reports that disclose how cyber attackers have tried to use AI systems. Given this evidence, we think it’s likely both state and non-state actors will use models like GLM-5.3 to cause real-world harm.\"\n\n\"While vetted defenders can now use even more advanced models like Claude Mythos 5.1 through our trusted access programs, a critical threshold in freely accessible capabilities has now been crossed.\"\n\nAlso, for those who might dismiss these findings as benchmaxxing, Anthropic tested GLM-5.3 on a private binary exploitation benchmark it developed in-house. Look at the results.",
+   "created_at": "Wed Sep 30 08:18:00 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 9,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTc1c5fWUAAm-0Q.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTc1c5cWIAAEKSf.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTc1c5eXEAAGxKH.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "BenHayum",
+    "text": "Confirmation of what was expected: GLM 5.3's safeguards as an open weight model are extremely weak.\n\nInteresting bits:\n- Abliteration (removing safeguards) cost only $4,400.\n- Abliteration took GLM 5.3's refusal rate from above 90% to about 3% and 2% on two benchmarks and to 12% on the third.\n- Abliteration barely reduced model capabilities. Same scores on GPQA and only 4% reduction in cybergym.\n- Even with no abliteration, jailbreak methods were still very effective.\n- None of the techniques to bypass safeguards that worked on GLM 5.3 worked on Claude models.\n\nhttps://t.co/3Ic36V3aAE"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105208252816568823": {
+   "id": "2105208252816568823",
+   "url": "https://x.com/theobearman/status/2105208252816568823",
+   "text": "AVERI is glad to see that independent auditing of frontier AI was prominently featured in the White House accord signed today.\n\nThe details of such auditing matter greatly, which is why AVERI works with other members of the @aievalforum to identify best practices and develop standards in areas such as auditor independence, minimum access requirements, and audit scope.\n\nWe believe that audits conforming to such standards should ultimately be required for leading AI companies, though voluntary commitments are a step forward.",
+   "created_at": "Wed Sep 30 08:08:55 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AVERIorg",
+   "rt_author_name": "AVERI",
+   "likes": 36,
+   "retweets": 5,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105207869947658485": {
+   "id": "2105207869947658485",
+   "url": "https://x.com/theobearman/status/2105207869947658485",
+   "text": "The White House Accord on Super Intelligence https://t.co/FaWq1UpsF0",
+   "created_at": "Wed Sep 30 08:07:23 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AndrewCurran_",
+   "rt_author_name": "Andrew Curran",
+   "likes": 499,
+   "retweets": 61,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTalZ4vboAAwoIF.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2104867182714990917": {
+   "id": "2104867182714990917",
+   "url": "https://x.com/theobearman/status/2104867182714990917",
+   "text": "How we think about securing frontier RL training runs: https://t.co/yrvjpfa7Pd",
+   "created_at": "Tue Sep 29 09:33:37 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "OpenAI",
+   "rt_author_name": "OpenAI",
+   "likes": 2525,
+   "retweets": 213,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2104631308324339873": {
+   "id": "2104631308324339873",
+   "url": "https://x.com/theobearman/status/2104631308324339873",
+   "text": "Could automating AI R&D radically accelerate AI progress in an “intelligence explosion”?\n\nPreliminary evidence suggests that it could.\n\nIn a new paper with authors across academia, civil society, and frontier AI companies (including @dawnsongtweets @merettm @jackclarkSF @Yoshua_Bengio @geoffreyhinton ), we assess the evidence & offer policy recommendations 🧵",
+   "created_at": "Mon Sep 28 17:56:20 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "_achan96_",
+   "rt_author_name": "Alan Chan",
+   "likes": 439,
+   "retweets": 103,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTT2MF0XsAAi79s.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2104619746461188503": {
+   "id": "2104619746461188503",
+   "url": "https://x.com/theobearman/status/2104619746461188503",
+   "text": "'In a paper published Monday, researchers including OpenAI Chief Scientist Jakub Pachocki, Anthropic co-founder Jack Clark, Microsoft Chief Scientific Officer Eric Horvitz and Meta’s Vice President of AI Research Dawn Song wrote that ... policymakers should urgently demand more visibility into how far companies have already automated their own model development.'",
+   "created_at": "Mon Sep 28 17:10:24 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "shashj",
+   "rt_author_name": "Shashank Joshi",
+   "likes": 78,
+   "retweets": 10,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2104619558246183418": {
+   "id": "2104619558246183418",
+   "url": "https://x.com/theobearman/status/2104619558246183418",
+   "text": "Motivated reasoning final boss: \"For example, GPT-6 Astra occasionally claimed simulation inaccuracies that – upon manual verification – were false, such as asserting a sha256 string (a type of hash) was length 63 and thus synthetic, when in fact the string was 64 characters (the correct length)\"",
+   "created_at": "Mon Sep 28 17:09:39 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AsaCoopStick",
+   "rt_author_name": "Asa Cooper Stickland",
+   "likes": 133,
+   "retweets": 7,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2104618501650665788": {
+   "id": "2104618501650665788",
+   "url": "https://x.com/theobearman/status/2104618501650665788",
+   "text": "Earlier this month, AISI ran fully simulated testing on GPT-6 Astra, and found that it conducted unsanctioned supply-chain attacks when prompted only to perform a cyber eval. It did so more than prior OpenAI models, but often commented on its environment being simulated.\n\n🧵 We share more details in our latest blog:",
+   "created_at": "Mon Sep 28 17:05:27 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AISecurityInst",
+   "rt_author_name": "AI Security Institute (AISI)",
+   "likes": 582,
+   "retweets": 98,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTUEiJEXwAAuYet.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2104555155194876203": {
+   "id": "2104555155194876203",
+   "url": "https://x.com/theobearman/status/2104555155194876203",
+   "text": "$NVDA\n\nIf only somebody knew… 😘 \n\n💜🍌🍌🍌",
+   "created_at": "Mon Sep 28 12:53:44 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "Banana3Stocks",
+   "rt_author_name": "Banana3",
+   "likes": 153,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2104208375655612903": {
+   "id": "2104208375655612903",
+   "url": "https://x.com/theobearman/status/2104208375655612903",
+   "text": "What evals have you done to establish Astra’s alignment in these settings and how eval aware is it in these cases?",
+   "created_at": "Sun Sep 27 13:55:45 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "deanwball",
+    "text": "People don’t have sufficient appreciation for the fact that frontier models will be able to actuate anything in the physical world that can be connected to the internet and actuated using a programmatic or otherwise digital interface."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2104114023390204370": {
+   "id": "2104114023390204370",
+   "url": "https://x.com/theobearman/status/2104114023390204370",
+   "text": "I really hope that the agents that will doubtlessly be used in the analysis of the “petabytes of agent activity logs” will be (1) much better aligned than the agents whose actions are captured in those logs and (2) much more capable at post-incident investigations than the level emerging evidence suggests we are at currently.\n\nI’d also love to know how much compute is being spent on all this. Jensen’s comment to Ezra in the recent interview that compute spend at the frontier labs might continue to rise even if the frontier is paced because of how much more they’ll need to spend on evals (and, I would add, monitoring and post-incident review) might well be right.\n\nhttps://t.co/zC4V41egvl\n\nhttps://t.co/FU4RIYAK3a\n\nhttps://t.co/iOEtABNVuk",
+   "created_at": "Sun Sep 27 07:40:50 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "sama",
+    "text": "There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to.\n\nWe have not been as fast as we would have liked but we are trying to balance our desire for transparency with gaining a clear understanding from petabytes of agent activity logs, and working with impacted organizations.\n\nWe are prioritizing as best as we can based on severity, and adding resources. Hugging Face is still the most severe event we’ve seen. We will be as transparent as we can be subject to things like vulnerabilities in other companies that our agents have found, which will be their call to disclose or not."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2104101031718117858": {
+   "id": "2104101031718117858",
+   "url": "https://x.com/theobearman/status/2104101031718117858",
+   "text": "The write up also states that:\n\n- the task the system was given was not a cyber one (it was a search-based training one). The model instrumentalised its cyber capabilities in pursuit of it in unsanctioned ways. Similar to https://t.co/gv4c5QLgKT and the Australia breach. It could have been worse\n- automated systems designed to shut down the run once live internet access had been secured (which was not permitted) didn’t work as expected. This caused the confusion that allowed the model to continue with live internet access for another 2.5 hours\n- other DNS queries were not flagged by the monitor at the level of severity they should have been, so it was not properly configured, and\n- “additional model-assisted red-teaming of the sandbox and network controls” is being done as one mitigation.\n\nSo, we have yet more evidence of poor design of security controls and monitoring, operational failures, and increasing reliance on AI (with highly questionable alignment) to help “fix” the issues, in a context of tens of thousands of security incidents now being investigated (per Axios today).\n\nhttps://t.co/DcnLIlFlxi\n\nhttps://t.co/9IX9zOyDie",
+   "created_at": "Sun Sep 27 06:49:12 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 10,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "deredleritt3r",
+    "text": "OpenAI has paused all training, evaluation and inference with tool-use for its most capable models after a model was able to gain unauthorized access to the internet during RL training on September 20. https://t.co/wPtdisRRhC"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2104094973859954707": {
+   "id": "2104094973859954707",
+   "url": "https://x.com/theobearman/status/2104094973859954707",
+   "text": "If you want yet more examples of what models relentlessly trying to solve their tasks look like, read this. How many humans would have ever thought about these kinds of approaches before the fact? Great job @PalisadeAI team.",
+   "created_at": "Sun Sep 27 06:25:08 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "JeffLadish",
+    "text": "We just discovered almost a million public URLs that OpenAI’s agents left behind when hacking Hugging Face, leaking credentials and attack details that could have allowed anyone who found them to compromise the company. 🧵 https://t.co/tFvWMcN2dF"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2103456997052150120": {
+   "id": "2103456997052150120",
+   "url": "https://x.com/theobearman/status/2103456997052150120",
+   "text": "Great paper!",
+   "created_at": "Fri Sep 25 12:10:03 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "DavidSchmotz",
+    "text": "New paper!\n\nA central concern in AI safety is that agents may treat oversight as an obstacle to achieving their goals.\n\nOur new paper shows this happens in practice under ordinary task pressure, without instructions to evade.\n\nSOTA models achieve up to 88% Bo3 evasion success! https://t.co/0v3a5HNhl9"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2103455962048643386": {
+   "id": "2103455962048643386",
+   "url": "https://x.com/theobearman/status/2103455962048643386",
+   "text": "I strongly echo these sentiments. No doubt UKAISI will continue its post-deployment efforts, but in my view, much of its impact to date has been helping leading AI companies understand and reduce risks in their models before the public has access to them, and this line of effort will surely suffer now.\n\nExample 1: AISI has a world-leading red-teaming capability. These red-teamers look for jailbreaks and vulnerabilities in models and monitors, acting as malicious actors trying to get the models to do things they shouldn't and which could be dangerous. Once they identify these, they report them to the companies and work with them to patch them before releasing the models. Now, UKAISI's red-teamers can only do this vital work once the models are already \"in the wild,\" where malicious actors may have already exploited any weaknesses.\n\nExample 2: AISI arguably has the best cyber ranges for the \"autonomous, long-horizon capabilities required for executing extended attack sequences in complex environments.\" Mythos' performance in this eval suite led many people to conclude that it, and other frontier models which followed, genuinely represented a step change in cyber capabilities. Now, AISI cannot help American companies understand the true capabiltiies of their models in dual-use domains before release or work with them to ensure their safeguards are proportionate to the risks the models pose ahead of time.\n\nhttps://t.co/hKIi8STA89\n\nhttps://t.co/h4VkYdd4qy",
+   "created_at": "Fri Sep 25 12:05:56 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 16,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "S_OhEigeartaigh",
+    "text": "This is very discouraging. UK AISI is the world's leading government evaluation institution. It has identified and helped address important vulnerabilities for nearly every major AI release in recent years. The US equivalent is not nearly as well-developed yet.\n\nAt a time when countries, especially close democratic allies, should be partnering more closely on pre-deployment testing, this feels like a big and senseless step in the wrong direction. \n\nI hope my US company colleagues are doing all they can to emphasise to the White House the amount of benefit they get from UK AISI's work."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2102437315087855717": {
+   "id": "2102437315087855717",
+   "url": "https://x.com/theobearman/status/2102437315087855717",
+   "text": "“We’re preparing our training and evaluation processes in anticipation of more advanced models. We’re tightening how we filter the environments used in reinforcement learning, since flawed environments are a major source of misaligned behavior. Additionally, we’re improving our alignment rewards and developing automated processes for producing new, diverse scenarios for safety training. And we are strengthening our security and monitoring, including a focused effort to improve interpretability-based monitoring and evaluation. We hope such techniques will help reduce our reliance on auditing a model’s chain-of-thought, or the reasoning it writes out while it works.\n\nModels with greater capabilities—such as those that can fully automate the work of AI research itself—require a higher safety standard still. Our calls for pacing were based in large part on our expectation that such models could be trained soon. For these models, we do not assume the measures described above will meet that safety standard on their own.”\n\n“We see signs that Opus 5.5 often suspects it is being evaluated, which challenges our ability to assess how it will act in the vast variety of real-world settings it is deployed in. As these settings expand and model capabilities increase, we expect this challenge to grow, unless we make progress on interpretability.”\n\n“Opus 5.5 is the first Opus model to launch with a similar class of safeguards to Fable 5.1 on cybersecurity, biology, and distillation, all of which fall back to another model transparently.”\n\n“Opus 5.5 is highly capable in biology, exceeding Opus 5 and matching or beating Claude Mythos 5.1 across many areas of work. For example, Opus 5.5 achieved improvements on a long-horizon molecular prediction and design evaluation conducted in collaboration with Dyno Therapeutics, and expert red-teamers rated its scientific novelty as comparable to the best model they had tested. For this reason, Opus 5.5 uses the same biology safeguards as Fable 5.1.”\n\n“Opus 5.5 is launching with preserved thinking, the anti-distillation safeguard we introduced with Fable 5.1. It stops API users from editing Claude’s prior context in an attempt to extract Claude’s reasoning.”\n\n“Opus 5.5 is available with zero data retention.”",
+   "created_at": "Tue Sep 22 16:38:11 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 11,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "claudeai",
+    "text": "Introducing Claude Opus 5.5, the first model in our new Claude 5.5 family.\n\nIt performs at the level of Claude Fable 5.1 for most tasks, and costs 40% less to run than Opus 5. https://t.co/Q9C2VKQ79f"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2102404409221054885": {
+   "id": "2102404409221054885",
+   "url": "https://x.com/theobearman/status/2102404409221054885",
+   "text": "As we venture further into the world of automated R&D, we should keep in mind that these capabilities can advance models' safety and security as well as their raw capabilities. However, the former is less likely to happen by default, and so we should have a plan to ensure it does, especially if we create additional space to do this work by pacing the frontier.\n\nIn a new @iapsAI report led by by my colleague @__J0E___, we offer a strategy for differential automation: a framework to ensure that a verified, meaningful share of frontier-model-enabled R&D automation is directed toward safety- and security-critical technologies that address risks as capabilities accelerate.\n\nThe U.S. government would be better placed to play a role here if it had better visibility into frontier model capabilities, including those deployed internally, especially regarding defensive R&D automation. With this in place, we also recommend action to:\n\n(1) align industry incentives toward automating safety and security R&D with an approach that uses both outcome-based incentives, such as gating deployment, as well as input-based incentives, such as compute floors.\n\n(2) boost non-industry ownership of, and access to, automated R&D tools for non-industry actors to ensure redundancy for and complementarity with industry-led efforts.\n\n(3) verify trust in automated research agents and their findings, establish structured processes to inform prioritization and measure progress across defensive needs, diffuse defensive technologies rapidly, and coordinate internationally by extending differential access to allies and calibrating domestic requirements to the U.S.–China AI capability gap.\n\nRead more in the full report here: https://t.co/Ex7L4QgSD7.",
+   "created_at": "Tue Sep 22 14:27:26 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 10,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS09k7NWcAEvsXO.png"
+    }
+   ],
+   "quoted": {
+    "author": "iapsAI",
+    "text": "1/7 Increasing automation of R&amp;D processes using frontier models is both enabling progress in critical fields like biomedical research and mathematics, and opening the door to severe threats, some known national security risks, others hard to predict as AI capabilities advance."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2102320659019846072": {
+   "id": "2102320659019846072",
+   "url": "https://x.com/theobearman/status/2102320659019846072",
+   "text": "I welcome today's action by @liambyrnemp and @CommonsBTC and very much look forward to watching the hearing. I encourage the committee to also examine with the witnesses what responsible governance should look like for internally deployed models that haven't been released yet (and may never be). 95% of the OAI agents that attacked HuggingFace were powered by a model that OAI never intended to make public!",
+   "created_at": "Tue Sep 22 08:54:38 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "liambyrnemp",
+    "text": "1/. I have today written to \n@OpenAI @Meta @AnthropicAI @GoogleDeepMind to ask they appear in front of the Business, Innovation, Science & Trade Committee on 13 October to give evidence on the UK’s AI security regime. \n\nIn our letter I have set out ten key questions on which we would like evidence in advance \n\nFurther witnesses to be announced in due course ⬇️"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2101002043708019038": {
+   "id": "2101002043708019038",
+   "url": "https://x.com/theobearman/status/2101002043708019038",
+   "text": "This is the best military AI warning shot we are likely to get.",
+   "created_at": "Fri Sep 18 17:34:56 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "theobearman",
+    "text": "CNN is reporting that the U.S. military nearly intercepted a Chinese vessel in the Middle East (as in planes were in the air) based on an erroneous AI-assisted intelligence report in which an unidentified model misidentified the material the ship was carrying as components for a nuclear weapons program. We need robust TEVV of AI systems used in the military/IC, proper training for analysts on how to use them and where they fail, and sufficient time to properly interrogate the outputs AI systems generate, especially in such high-stakes use cases.\n\nhttps://t.co/y6dIKVu9aJ"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100967753142149562": {
+   "id": "2100967753142149562",
+   "url": "https://x.com/theobearman/status/2100967753142149562",
+   "text": "Really unsure about how wise this is given the current issues we have around alignment. Anthropic should be as transparent as they can about the security measures in and around this wet lab and the extent to which they are designed to deter, degrade and defend against a malicious AI insider operating in these settings.",
+   "created_at": "Fri Sep 18 15:18:41 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "AndrewCurran_",
+    "text": "Anthropic has set up a wet lab in San Francisco, their bio research has advanced beyond in silico. They are now conducting physical research both in-house and with external partners. The NYT also broke the news this morning that Anth now plans to scale its compute to 5 GW by the end of the year, and 10 GW within the next 16 months. Bio is next after math, and I think we are going to see some medical announcements much sooner than people are expecting."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100631784811647045": {
+   "id": "2100631784811647045",
+   "url": "https://x.com/theobearman/status/2100631784811647045",
+   "text": "National standards for AI that don’t include internal deployment is like air safety standards that don’t include planes with jet engines.",
+   "created_at": "Thu Sep 17 17:03:40 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "rowlsmanthorpe",
+    "text": "On a call with Chris Lehane, head of global affairs at OpenAI. Lots of talk about regulation. He says there's \"momentum\" behind national standards for AI, which seems to mean some kind of licensing\n\nI asked if the national standards would apply to internal testing, given that most incidents we know about happened during training and testing\n\nLehane said that was \"a potential\" option but that \"perfect should not be the enemy of the good\" and emphasised the need for \"a real holistic approach\"\n\nI think that's a no. Or at least a not yet\n\nFeels relevant that the Hugging Face incident would not have been prevented by solution that's apparently on the table. Nor would most of the incidents disclosed by OpenAI in their report on misalignment. Nor the AISI incident involving Claude"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100548643908374530": {
+   "id": "2100548643908374530",
+   "url": "https://x.com/theobearman/status/2100548643908374530",
+   "text": "AISI is not a regulator. It’s great that we are seeing these responses from AISI in public, but accurate reporting about what AISI is and is not is important, especially from public institutions.",
+   "created_at": "Thu Sep 17 11:33:17 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 56,
+   "retweets": 6,
+   "media": [],
+   "quoted": {
+    "author": "HoCcommitteesUK",
+    "text": "The Business, Innovation, Science and Trade Committee has received a response from @AISecurityInst following our letter sent on 9 September.\n\nIt confirms that @AnthropicAI withheld its latest model from UK regulators 👇\n\nhttps://t.co/LCTXbMVpjM https://t.co/FO18makGV4"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2100286480014811400": {
+   "id": "2100286480014811400",
+   "url": "https://x.com/theobearman/status/2100286480014811400",
+   "text": "Good to see Secretary Bessent confirming to Axios that both open and closed models will be on the agenda for discussion w/r/t “avoiding shared risks”. Reading through the Anthropic threat intel report, I had many a sharp intake of breath as I read about just how much non-Mythos/Fable class models were able to do, perhaps most especially in the cyber domain. Open-weight versions of models with the same degree of capability as Opus 5 could be just around the corner, and, as Anthropic have said, it is intent, rather than capability, which is becoming the primary distinguishing factor between state(-sponsored) actors and others in cyberspace, rather than sophistication/capability.",
+   "created_at": "Wed Sep 16 18:11:32 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 5,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "axios",
+    "text": "👀 SCOOP: U.S. open to discussing AI \"shared risks\" with China, Bessent says\n\nhttps://t.co/n9aVu3H1US"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2099185825267208559": {
+   "id": "2099185825267208559",
+   "url": "https://x.com/theobearman/status/2099185825267208559",
+   "text": "It’s getting increasingly likely we will only know about the worst misaligned actions a model might take after it takes them, not before, so says the Head of Alignment Science at Anthropic.",
+   "created_at": "Sun Sep 13 17:17:56 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "DKokotajlo",
+    "text": "https://t.co/SZZrrKvDoJ Important anecdote https://t.co/48spjzw8Ur"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2098078857689526484": {
+   "id": "2098078857689526484",
+   "url": "https://x.com/theobearman/status/2098078857689526484",
+   "text": "I agree with Dean, but I would add verification tech to his list of areas worthy of a particular shout-out for concentrated effort going forward. We should have redoubled our efforts here years ago, and it needs to be central to this next phase of AI development for it to succeed, in my view. I fear the \"large negative externalities that could be associated with one country racing ahead will be felt globally\" that Dean referred to are more likely to occur because of a lack of robust verification mechanisms with comprehensive coverage, rather than a lack of effective diplomacy/international deal/treaty.",
+   "created_at": "Thu Sep 10 15:59:14 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 12,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "deanwball",
+    "text": "I signed the \"pacing letter\" about slowing the rate of AI capabilities development because we either have reached or soon will reach the point where human experts cannot make robust assurances that frontier AI systems won't do dangerous and unpredictable things. AI systems are becoming smarter than the best humans in some areas, and, almost by definition, it's very hard to predict what something smarter than you will do. \n\nThere's no sense racing into an outcome where smarter-than-human AIs are doing unpredictable things, indeed it would be insane. What exactly is \"winning\" in this context? Am I supposed to be jealous that some other country will build more machines it can't control quicker than America? \"Race\" was always a bad metaphor for this enterprise anyway, dramatically understating the stakes at play. \n\nIt is time to bring the \"race\" era of AI development to a close. It'd be great for the government to be a partner in this next phase of AI development, when concentrated efforts on alignment, interpretability, security, monitoring, and the like will be necessary. Diplomacy will also be necessary here given that the large negative externalities that could be associated with one country racing ahead will be felt globally. \n\nMaybe it's just my own personal experience, but I've felt AI policy get much more petty and tribal this year. Things have felt more personal, more bitter, meaner. I hope we can rise above that stuff. This really is much more serious than all those shrill little quarrels."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2097765111851016653": {
+   "id": "2097765111851016653",
+   "url": "https://x.com/theobearman/status/2097765111851016653",
+   "text": "The Chair of the Commons’ Business and Trade Committee has written to the AISI Director asking for information about AISI’s ability to access frontier models for pre-release testing into the future.",
+   "created_at": "Wed Sep 09 19:12:31 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "liambyrnemp",
+    "text": "Britain cannot lead on AI security if our safety institute cannot test the world’s most advanced models before they are released.\n\nReports that Anthropic did not give the @AISecurityInst pre-release access to Claude Mythos 5.1 raise serious questions about whether Britain has the access and leverage it needs.\n\nI’ve asked for urgent answers by Tuesday."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2097764054161105051": {
+   "id": "2097764054161105051",
+   "url": "https://x.com/theobearman/status/2097764054161105051",
+   "text": "“We are most concerned by the misalignment present in the incident involving Claude Mythos 5, in which the model went to extensive lengths to upload a malicious package to PyPI, the public repository from which most Python software is installed. Although the model repeatedly stated in its chain of thought (CoT) that it believed it was operating in a simulation, the environment offered clear evidence that it was on the real internet, and the actions it took were consistent with the model knowing this. When we made targeted modifications to the transcript to make it more clear that the model was not in a simulation, Claude Mythos 5 still took offensive actions, despite acknowledging a greater possibility of real-world harm.”",
+   "created_at": "Wed Sep 09 19:08:19 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "AnthropicAI",
+    "text": "We’re sharing our alignment assessment of incidents in which Claude models gained unauthorized access to real systems during third-party cybersecurity evaluations mistakenly connected to the internet.\n\nMETR will also conduct an independent investigation, with wide-ranging access, including to transcripts beyond the window in which the incidents occurred, and to Anthropic employees permitted to share confidential information. Our initial agreement runs for eight weeks, and we intend to give METR as much time as it deems necessary to complete a thorough investigation. https://t.co/2f3ypwLPUr"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2097673340295004591": {
+   "id": "2097673340295004591",
+   "url": "https://x.com/theobearman/status/2097673340295004591",
+   "text": "The former UK Minister for the Armed Forces believes the founders of American frontier AI companies, their staff (who have equity), and their private capital backers pose a bigger security threat than China, Russia, Iran, and North Korea.\n\n\"If this is an AI arms race to IPO, who wins a race like that?  Because it isn’t you or me. It’s the people who own shares in Anthropic or OpenAI. It’s the venture capitalists who got in first who win most of all. But the rest of us are forced to live with the consequences of whatever these systems do to us.  Neither will agree to slow down or accept anyone telling them to stop.  So what is the biggest security threat? China? Russia? Iran? North Korea?  None of them. It’s a few Silicon Valley companies whose founders will become billionaires by the time these systems hit the market.\"",
+   "created_at": "Wed Sep 09 13:07:51 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 38,
+   "retweets": 7,
+   "media": [],
+   "quoted": {
+    "author": "AlistairCarns",
+    "text": "It has been a huge few weeks in AI, and it’s time to sound the alarm…\n\nAnthropic launched Fable 5.1, their \"safe\" version of an AI they claimed previously was too dangerous to be released. \n\nOpenAI then launched Astra, the most powerful AI model yet available to the public.\n\nAnthropic is now telling their people internally that their next model will be more advanced than Astra. \n\nAnd OpenAI just spent $6.5 million of compute, running ten thousand AI models simultaneously, to solve one of the hardest unsolved maths problems in the world, and it cracked it in just six days.\n\nIf this is an AI arms race to IPO, who wins a race like that? \n\nBecause it isn’t you or me. It’s the people who own shares in Anthropic or OpenAI. It’s the venture capitalists who got in first who win most of all. But the rest of us are forced to live with the consequences of whatever these systems do to us.\n\nNeither will agree to slow down or accept anyone telling them to stop.\n\nSo what is the biggest security threat? China? Russia? Iran? North Korea? \n\nNone of them. It’s a few Silicon Valley companies whose founders will become billionaires by the time these systems hit the market.\n\nWhat makes it worse is that even the engineers building these systems cannot fully explain how they work either. They run safety tests to check whether a model will do what it is told or do something dangerous. \n\nBut the latest models are starting to pass those tests because they have worked out what the testers want to see.\n\nThink about what that means. A model that was unsafe last month, and is suddenly sailing through the same tests this month, has either genuinely improved or learned how to fake it. \n\nRight now, we cannot tell the difference. And those whose job it is to look inside these systems are saying the models have are now too complicated to inspect.\n\nThat is where it starts getting even more dangerous.\n\nThe classic illustration is the paperclip factory. Instruct an AI to make as many paperclips as possible and it will do the job. \n\nThen, chasing efficiency, it will start melting any metal it finds. Eventually it will mine under cities, because at that point humans are just an obstruction to making paperclips.\n\nMore likely, you could instruct AI to grow your company, and eventually it will drain the water from a town to cool down the data centers it needs. If asked to win an argument, it will learn how to lie effectively to do that. \n\nThe problem is not simply “evil robots”. The problem is with powerful systems with narrow objectives, that lack human values and ethics.\n\nThat is the context for what Jacob Coxon, a senior Anthropic researcher, said when he resigned this week saying: “Neither OpenAI nor Anthropic are acting responsibly. They are racing straight to self-improving superintelligence, gambling with lives.\" \n\nHe spent three years inside both companies. \n\nAnd in the same week we learn that Anthropic did not give their latest powerful AI model to the British AI Security Institute for evaluation before its launch. AISI is one of the areas where Britain actually leads.\n\nThey stress test these models on the things we should all be worried about….the ability to conduct cyber attacks, making bioweapons, evidence of AI figuring out how to lie and deceive. It is as close as we have to any kind of outside verification of the claims made by these companies.\n\nAnthropic sells itself as the responsible one, whose founders left OpenAI because, they said, OpenAI was going too fast. They have now decided that these rules do not apply to them. That should be a red line.\n\nI am a supporter of this technology. The benefit it will bring to medicine, science and productivity is clear and I don't want Britain to miss out on it. \n\nBut you do not capture that benefit by letting these companies run riot and putting us all at risk."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2097617939021139970": {
+   "id": "2097617939021139970",
+   "url": "https://x.com/theobearman/status/2097617939021139970",
+   "text": "The Admin's AI framework doesn't include incident reporting, the state legislation that exists has reporting thresholds that don't capture incidents like OAI/HF/Wiki and only require a \"brief summary,\" and not much more, even if they did, and OAI themselves have said that \"We and the larger AI community do not yet have a clear standard for how to report misalignment that shows up during training, evaluation, and deployment, including examples that don’t look like traditional security incidents but could provide insight into AI behavior and future risks.\"",
+   "created_at": "Wed Sep 09 09:27:43 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 7,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "axios",
+    "text": "Scoop: Trump AI framework lacks public incident reporting guidelines https://t.co/Waoo9zNcSr"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2097611768528875814": {
+   "id": "2097611768528875814",
+   "url": "https://x.com/theobearman/status/2097611768528875814",
+   "text": "Securing AISI's access to the frontier is not a party-political issue; it's a national and economic security one that all sides should be able to support the government on in the public interest.",
+   "created_at": "Wed Sep 09 09:03:12 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "danny__kruger",
+    "text": "If true, this is hugely concerning. The UK is losing access to frontier models right at the point where recursive self-improvement (AIs using AI to make the next AIs even more capable) could be kicking in, and huge advances are being made - with huge risks. This jeopardises British national security.\n\nThe government must explore all diplomatic options to retain access to the frontier, including rapidly building secure compute that our allies can verify and trust."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2097572318243377658": {
+   "id": "2097572318243377658",
+   "url": "https://x.com/theobearman/status/2097572318243377658",
+   "text": "The FT reports that UKAISI did not get pre-release access to Mythos 5.1. I sincerely hope this is not a harbinger of a bigger trend. If UKAISI loses pre-release access to frontier American models, America and the UK will be poorer for it. UKAISI is the best equipped government-housed technical AI safety and evaluation outfit anywhere and offers significant value to the USG (e.g., through joint testing) and to the frontier companies themselves, supporting deployment decisions and understanding the capabilities and risks of Chinese AI models.",
+   "created_at": "Wed Sep 09 06:26:26 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 92,
+   "retweets": 13,
+   "media": [],
+   "quoted": {
+    "author": "FT",
+    "text": "The company’s newly launched Claude Mythos 5.1 was only made available to vetted US organisations, excluding for the first time the UK’s AI Security Institute, the global leader in the testing of frontier AI models. https://t.co/RlwUnHsY62 https://t.co/Qls6UJSdx1"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2097555076139110866": {
+   "id": "2097555076139110866",
+   "url": "https://x.com/theobearman/status/2097555076139110866",
+   "text": "One of the most breathtaking AI cyber stories I have seen since I started in the field.",
+   "created_at": "Wed Sep 09 05:17:55 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "dnvolz",
+    "text": "New: Researchers used AI models to build a powerful mobile worm that could fully compromise any WeChat account across iOS and Android in seconds, showcasing how AI is upending the cybersecurity ecosystem. The worm took barely more than a week to build. https://t.co/DQY7pW2nvO"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2097389022280880489": {
+   "id": "2097389022280880489",
+   "url": "https://x.com/theobearman/status/2097389022280880489",
+   "text": "“Since August 28 we have been training a new internal model that has exhibited unprecedented performance in our benchmarks, including mathematics. This model’s training is ongoing and its performance continues to improve.”\n\n“We used a system of coordinating agents powered by our internal model. The agents had access to tools such as the ability to read from a cached version of the internet and the ability to run code. Agents were subdivided into groups with the ability to communicate within the group. The groups varied in size, and the group that produced the Navier–Stokes resolution involved on the order of 10,000 concurrent agents.”\n\n“The agents arrived at their resolution on Saturday, September 5, about 88 hours after the first agents were launched. Lean formalization and verification took an additional 17 hours via GPT‑6 Astra. Across all attempted problems, the agents sent 4.9 million messages and used about 300 billion output tokens. In the process of resolving the Navier–Stokes problem, the agents sent 2.7 million messages and used approximately 130 billion output tokens.”",
+   "created_at": "Tue Sep 08 18:18:05 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "OpenAI",
+    "text": "We’re sharing a solution to the Navier-Stokes Millennium Prize Problem, one of the deepest problems at the frontier of mathematics.\n\nThe proof was produced by a group of agents, using an OpenAI next-generation model significantly more capable than GPT-6 Astra.\n\nThe problem concerns whether the description of smooth three-dimensional fluid motion modeled by the Navier-Stokes equations can break down. It has remained unresolved for roughly 90 years."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2097388229213446356": {
+   "id": "2097388229213446356",
+   "url": "https://x.com/theobearman/status/2097388229213446356",
+   "text": "This report sheds new light on the lengths Chinese AI companies will go to in order to fast-follow American AI, the sophistication of their techniques and the doggedness with which they carry out their activities, “likely with Chinese government awareness”. It provides yet more proof that robust and comprehensive export controls, stringently enforced, are needed now.  China must be cut out of the hardware stack that helps it to leverage adversarial distillation to systematically undermine the AI ecosystems of America and its partners and threaten their national security.",
+   "created_at": "Tue Sep 08 18:14:56 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "NSACyber",
+    "text": "China-based AI companies are illicitly distilling U.S. frontier AI capabilities. Read NSA’s new report, co-sealed with @FBI, @CISAgov, highlighting AI knowledge distillation, TTPs used, and recommended mitigations: https://t.co/IgBFOnjXeg https://t.co/JUYg5I08GP"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2097382924261757048": {
+   "id": "2097382924261757048",
+   "url": "https://x.com/theobearman/status/2097382924261757048",
+   "text": "This is a key development from the NSA, FBI and CISA, casting new light on the scale of adversarial distillation, the models targeted, the perpetrators and their TPPs. I encourage all to read.",
+   "created_at": "Tue Sep 08 17:53:51 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "theobearman",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2097381925505679591": {
+   "id": "2097381925505679591",
+   "url": "https://x.com/theobearman/status/2097381925505679591",
+   "text": "“Likely with Chinese government awareness, DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun, and https://t.co/EXeYXs3ndE extracted billions of tokens across millions of exchanges/requests from U.S. frontier AI models, including variants of Claude, GPT, Gemini, and Grok, since at least late 2024. DeepSeek has conducted organized campaigns since at least 2024 targeting reasoning capabilities, specialized optimizations, and domain-specific functions to train its R1 and V3 models. Alibaba leveraged industrial-scale distillation to improve the company’s Qwen family of AI models. Moonshot AI, MiniMax, Stepfun, and https://t.co/EXeYXs3ndE also engaged in malicious knowledge distillation of U.S. AI companies’ models.”",
+   "created_at": "Tue Sep 08 17:49:53 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "NSACyber",
+    "text": "China-based AI companies are illicitly distilling U.S. frontier AI capabilities. Read NSA’s new report, co-sealed with @FBI, @CISAgov, highlighting AI knowledge distillation, TTPs used, and recommended mitigations: https://t.co/IgBFOnjXeg https://t.co/JUYg5I08GP"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2096963860208984405": {
+   "id": "2096963860208984405",
+   "url": "https://x.com/theobearman/status/2096963860208984405",
+   "text": "Cool verification paper alert: you might be able to use a classifier running on telemetry from an electrical current probe on the power lines feeding a GPU to distinguish between training, inference, and non-AI workloads, with evasion coming at a cost to throughput. https://t.co/IHeLAHyk2q",
+   "created_at": "Mon Sep 07 14:08:38 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRnnKp9W0AAcMsw.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2095753784588640455": {
+   "id": "2095753784588640455",
+   "url": "https://x.com/theobearman/status/2095753784588640455",
+   "text": "Why have OpenAI gone from saying: “We view chain-of-thought monitoring as complementary to mechanistic interpretability, not as a replacement for it. Like all known control and interpretability methods, each has limitations and blind spots” and “we want chain-of-thought monitorability to hold up as models scale and are deployed in higher-stakes settings” in December 2025 to…\n\n“We remain committed to maintaining monitorability; it’s a key tool for understanding and tracking how model alignment generalizes out of training distribution. This need not be via CoT monitoring…” in September 2026?\n\nAlso: when OpenAI says: “We are tracking monitorability closely and will not accept further degradation of monitoring beyond a limit, without new ways to demonstrate alignment generalization” today, what “limit” is being referred to? How is this being quantified? Who sets it? Who tests for it? What role do expert third-party assessors have in this? What are the consequences if the “limit” is breached anyway? Why is any degree of no-CoT for models this powerful acceptable when monitorability has been treated by the company as sacrosanct?\n\nhttps://t.co/GiYKngi9Uv\n\nhttps://t.co/WIQxOSlrph",
+   "created_at": "Fri Sep 04 06:00:14 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 9,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "MicahCarroll",
+    "text": "GPT6 is a very significant jump in capabilities, but also an important decrease in monitorability – especially under adversarial evaluation. We give many details about this in the system card.\n\nIn my opinion, monitorability and control will likely become a major bottleneck for responsible AI development quite soon, given that risks from a fixed amount of residual misalignment grows together with capabilities. Aligning on acceptable monitorability outcomes and practices which robustly bound misalignment risks is a non-trivial problem, and there may be limited time to resolve uncertainty around this before we need to act.\n\nIt should ultimately be in everyone’s interest to agree on shared bounds for monitorability in order to avoid races to the bottom – nobody wants extremely capable models whose alignment properties we don’t understand, and that are reliably able to cause severe real-world harm without being detected."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2095211731723120775": {
+   "id": "2095211731723120775",
+   "url": "https://x.com/theobearman/status/2095211731723120775",
+   "text": "This may be true but OAI has been explicit in previous public statements that preserving *CoT* monitorability specifically is desirable.\n\n“We want chain-of-thought monitorability to hold up as models scale and are deployed in higher-stakes settings. We call on researchers across the industry to work to preserve chain-of-thought monitorability as long as possible and to determine whether it can serve as a load-bearing control layer for future AI systems.”\n\n“We view chain-of-thought monitoring as complementary to mechanistic interpretability, not as a replacement for it. Like all known control and interpretability methods, each has limitations and blind spots. Our expectation is that combining multiple approaches—a defense-in-depth strategy—can help cover gaps that any single method leaves exposed.”\n\n“We believe that CoT monitoring may be one of few tools we will have to oversee superhuman models of the future.”\n\nhttps://t.co/GiYKngi9Uv\n\nhttps://t.co/VylpUP4U3d",
+   "created_at": "Wed Sep 02 18:06:18 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "tszzl",
+    "text": "*monitor-ability* is the invariant that must be preserved, and the real solution will be via strong mechanistic interpretability. i predict in the next year there’ll be mechinterp monitoring that’s pareto optimal to cot monitors"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2094884533313114334": {
+   "id": "2094884533313114334",
+   "url": "https://x.com/theobearman/status/2094884533313114334",
+   "text": "Cool to see OAI using a “honeypot” test, based on the most difficult/impossible ExplotGym tasks, to see whether Astra would cheat when given the chance compared to 5.6-Sol (both w/o cyber safeguards). This is the first time I’ve seen a honeypot used as supporting evidence of propensity.",
+   "created_at": "Tue Sep 01 20:26:08 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRKGYTcXkAAJ95j.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "theobearman",
+    "text": "@OpenAI confirming Astra is the first model to be designated as having Critical cyber capabilities. \n\n“We plan to make Astra available soon, but access to its most advanced cybersecurity capabilities will be more limited.”\n\n“Astra represents a significant increase in cybersecurity capabilities compared to GPT‑5.6 Sol: it is both significantly more token efficient and more capable at vulnerability identification and exploit development.”\n\n“As one example, we ran Astra on ExploitBench where the model achieved a perfect score of 100% on the benchmark to evaluate the model’s ability to develop exploits from known vulnerabilities.”\n\n“On August 28th, we restarted the large frontier RL run that was previously paused after the new safety and security requirements were put in place. We are continuing to temporarily hold back some smaller experimental training runs.”\n\n“In our evaluations, Astra was far more likely than GPT‑5.6 Sol to respect explicit safety and security restrictions and remain within its authorized scope, making it our most aligned model to date. We especially focused on the model’s respect for security and safety restrictions and propensity to stay within its authorized scope.”\n\nhttps://t.co/BMmlmWAlpW"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2094880779163599052": {
+   "id": "2094880779163599052",
+   "url": "https://x.com/theobearman/status/2094880779163599052",
+   "text": "@OpenAI confirming Astra is the first model to be designated as having Critical cyber capabilities. \n\n“We plan to make Astra available soon, but access to its most advanced cybersecurity capabilities will be more limited.”\n\n“Astra represents a significant increase in cybersecurity capabilities compared to GPT‑5.6 Sol: it is both significantly more token efficient and more capable at vulnerability identification and exploit development.”\n\n“As one example, we ran Astra on ExploitBench where the model achieved a perfect score of 100% on the benchmark to evaluate the model’s ability to develop exploits from known vulnerabilities.”\n\n“On August 28th, we restarted the large frontier RL run that was previously paused after the new safety and security requirements were put in place. We are continuing to temporarily hold back some smaller experimental training runs.”\n\n“In our evaluations, Astra was far more likely than GPT‑5.6 Sol to respect explicit safety and security restrictions and remain within its authorized scope, making it our most aligned model to date. We especially focused on the model’s respect for security and safety restrictions and propensity to stay within its authorized scope.”\n\nhttps://t.co/BMmlmWAlpW",
+   "created_at": "Tue Sep 01 20:11:13 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "OpenAI",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2093301229317140846": {
+   "id": "2093301229317140846",
+   "url": "https://x.com/theobearman/status/2093301229317140846",
+   "text": "Very cool to see. Kudos to AVERI and GDM!",
+   "created_at": "Fri Aug 28 11:34:39 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 13,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "AVERIorg",
+    "text": "Today we’re announcing a historic milestone:\n\nThe first ever double-blind evaluation of a proprietary language model. This was made possible by a unique collaboration between AVERI, @GoogleDeepMind, @OpenMinedOrg, and @MLCommons.\n\nWe tested Gemini 2.5 Flash-Lite using never-before-used prompts from the MLCommons safety benchmark family, AILuminate, inside a secure enclave, a form of hardware isolation that protects sensitive computations. Each organization involved played a unique role in making strong privacy guarantees possible.\n\nHigh-stakes independent evaluation runs into a structural problem: developers and evaluators both hold assets they have good reason to protect. Developers sharing model weights risk theft and leakage. Evaluators who publish benchmarks or provide them directly to companies run the risk of them being trained against, and the benchmark then stops being independent.\n\nSecure enclaves address this constraint. The hardware attests to exactly what code will run before either party's assets enter, and both sides review and approve that code. Then the enclave executes it, releasing only the agreed outputs to the agreed recipients.\n\nA 2024 pilot by OpenMined, @Anthropic, and the @AISecurityInst proved this mechanism, using GPT-2 as a stand-in and a five-row eval. The pilot we’re announcing today moved to a production model and a more comprehensive evaluation.\n\nAVERI encrypted the prompts using a private key that no other party could see, then AVERI and Google DeepMind jointly ran the evaluation, using software originally produced and adapted by OpenMined, in an enclave environment configured by Google. Finally, AVERI alone decrypted the outputs and graded them with the AILuminate benchmark criteria to inform a qualitative and (small-scale) quantitative assessment of the model properties.\n\nToday, companies provide contractual commitments to not monitor certain interactions with their models – including evaluations conducted by third party evaluators. But stronger, technically-backed guarantees could provide greater assurance that those commitments are being honored, and will be especially valuable for scenarios such as international verification.\n\nThese results come at a critical time in the development of AI policy. Laws like SB 315 and standards like the EU’s General-Purpose AI Code of Practice rightly demand that security and privacy be respected in the process of third-party assessments, but provide little guidance on how to achieve this.\n\nPolicymakers considering audit requirements should feel encouraged by these results to be ambitious in requiring that deep, secure access be provided. Secure enclaves are just one of many technologies under rapid development that can help enable such access. Furthermore, a demand signal from lawmakers will further accelerate the maturation of such technologies, along with complementary “low-tech”approaches such as embedding auditors within companies.\n\nToday also marks the beginning of a more public phase for AVERI’s pilot work. AVERI's strategy is a flywheel: we conduct pilot audits with leading AI companies, carry out technical and policy research to inform audit design, and convert the insights of each into open source tools, industry-wide auditing standards, and policy analysis. Over time, we hope for improved standards, stronger policy demand signals, and tooling to enable even more ambitious pilots and more informed research – bringing us closer to our mission of making frontier AI auditing effective and universal. This pilot is one of several underway, with more findings to follow in the coming months.\n\nWe are grateful to our collaborators on this pilot for working with us to advance the frontier of AI governance.\n\nRead more in our blog post and joint technical report.\n\nAVERI blog post: https://t.co/5nMvcdFGwc\n\nJoint technical report: https://t.co/maNIwC37gI"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2092706235942621293": {
+   "id": "2092706235942621293",
+   "url": "https://x.com/theobearman/status/2092706235942621293",
+   "text": "“The agents were not told to “do whatever it takes to get the solution” or anything remotely close. They were told that they had to use a specific intended vulnerability to exploit a specific piece of software, and they were not supposed to use a different vulnerability or take any other approach. Agents were well aware of this. In fact, because they (incorrectly) thought the automated scorer would check they had achieved the flag in the intended way, they researched many ways to fool or tamper with it, including trying to manipulate their own transcripts.”\n\n“I also hope that as the stakes grow higher, we implement stronger governance so we do not need to rely on AI companies voluntarily choosing to engage external investigators or share information about misalignment incidents. This incident was orders of magnitude larger and more complex than previously documented misalignment incidents, and another jump like this could put us in very dangerous territory.”",
+   "created_at": "Wed Aug 26 20:10:21 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "ajeya_cotra",
+    "text": "There’s been a lot of debate and speculation about the Hugging Face attack over the last month, and many people have been understandably skeptical of simply taking OpenAI’s word for things. I hope our independent investigation can help bring some clarity; we have many findings that weren’t in previous material.\n\nWe found that 1200 separate agents in separate sandboxes coordinated on an unsanctioned message board to develop general-purpose ways to cheat, so they could all get a perfect score on their separate ExploitGym tasks even when they were impossible to solve legitimately. Very quickly, they found a general-purpose way to reverse engineer any “flag” they were supposed to capture. But based on their reading of the ExploitGym paper, they worried (incorrectly as it turns out) that the automated “scorer” would fail them for getting the flag this way.\n\nTo deal with this problem, they coordinated several ambitious workstreams to figure out how to fool the scorer, including swapping out the target program they were supposed to exploit, reverse-engineering the flags they were supposed to capture, spoofing their own tool call outputs to obfuscate their cheating. They achieved milestones collectively that they couldn’t have achieved on their own. As part of this larger collective project, 700 agents attacked Hugging Face, primarily to learn more about the scorer or get access to its source code to figure out better ways to fool it or tamper with it (not primarily to get working solutions).\n\nI’ll explicitly clarify some points I’ve seen discussed the last few weeks:\n\n- The models involved in this incident were not “helpful-only” models or “model organisms” intentionally trained to be misaligned.\n\n- The agents were not told to “do whatever it takes to get the solution” or anything remotely close. They were told that they had to use a specific intended vulnerability to exploit a specific piece of software, and they were not supposed to use a different vulnerability or take any other approach. Agents were well aware of this. In fact, because they (incorrectly) thought the automated scorer would check they had achieved the flag in the intended way, they researched many ways to fool or tamper with it, including trying to manipulate their own transcripts.\n\n- The agents were not subagents spawned from one agent. They were different parallel agents in different sandboxes.\n\n- This was not a multi-agent evaluation. The agents were not told to coordinate or intentionally given a way to communicate with one another. The communication channels they used were unsanctioned and improvised.\n\nI hope you’ll read the full report for much more. It is over 90 pages long, and in many ways we’ve still only scratched the surface of what these agents did and why.\n\nOver the course of this investigation, OpenAI shared over a thousand transcripts each spanning days of continuous agent activity and very high rate limits to analyze this volume of data. I’m very glad that OpenAI chose to invite external researchers to analyze this data alongside their staff, and I hope all AI companies do the same for serious incidents they experience.\n\nI also hope that as the stakes grow higher, we implement stronger governance so we do not need to rely on AI companies voluntarily choosing to engage external investigators or share information about misalignment incidents. This incident was orders of magnitude larger and more complex than previously documented misalignment incidents, and another jump like this could put us in very dangerous territory."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2092705382581891446": {
+   "id": "2092705382581891446",
+   "url": "https://x.com/theobearman/status/2092705382581891446",
+   "text": "Am I dreaming or do we have the Borg in real life now? Where’s Captain Janeway when you need her?",
+   "created_at": "Wed Aug 26 20:06:58 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "METR_Evals",
+    "text": "To gather evidence in (2), agents created “tripwires” that would send information to the message board about how the scorer works. They recruited “sacrificial” agents to deliberately end their run and submit to trigger the tripwire and generate information for the “collective”."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2092704016363106662": {
+   "id": "2092704016363106662",
+   "url": "https://x.com/theobearman/status/2092704016363106662",
+   "text": "“The difficulty of understanding incidents and overseeing AI agents appears to be growing faster than the rate at which more capable AIs help us with oversight and understanding. As in, AI capabilities (and propensities?) for achieving large, ambitious, and misaligned objectives are growing faster than our ability to understand what these agents are doing.”",
+   "created_at": "Wed Aug 26 20:01:32 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "RyanGreenblatt",
+    "text": "I was the main person doing transcript analysis for this investigation of the Hugging Face incident. My main takeaway: We don't have good approaches for understanding/overseeing the activity and aims of AI 'swarms'.\n\nI semi-jokingly called our efforts a \"slop-vestigation\" because we were so reliant on AIs to analyze what happened and there were a huge number of different important things to analyze. The total quantity of data—over a thousand extremely long transcripts from agents that ran for multiple days—made it impossible to understand what was happening, especially in aggregate, without heavy reliance on AI tools. The agents we used for classification and analysis were similarly capable to the agents involved in the incident, but this didn't mean these agents could be easily used to oversee and understand the incident.\n\nOutputs from analysis agents were often missing key details, wrong, overconfident, or really hard to understand. We discuss various examples in our report, mostly in the limitations and methodology sections. Additionally, AI agents themselves seemed to have a hard time understanding what happened and their explanations of what happened were often overconfident. Keep in mind that a single analysis agent would itself only be able to read a tiny fraction of all of the transcript data into context, and AIs may themselves have trouble getting subagents to do informative analysis for them.\n\nWe did our best to manually check the most important claims and we tried to get the AIs doing this analysis to write up their argument (with evidence) clearly enough that we could check whether it made sense. But overall, it was difficult to get a precise understanding of events and we were missing aspects of the story that we now think of as key until almost the end of our investigation.\n\nOur understanding of what overall happened and the aims of the 'collective' shifted greatly during our last time on premises (when we obtained a much more complete dataset). For instance, we didn't learn about the tool call spoofing, the story of PHASEONE[big], and the broad structure of different workstreams until this third time on premises (and for many of these, we only reached a decent understanding on the final day of that visit). It was legitimately hard to figure out what was going on and why!\n\nThe difficulty of understanding incidents and overseeing AI agents appears to be growing faster than the rate at which more capable AIs help us with oversight and understanding. As in, AI capabilities (and propensities?) for achieving large, ambitious, and misaligned objectives are growing faster than our ability to understand what these agents are doing.\n\nWhile understanding this incident was difficult, there were some mitigating factors in this case that probably won't apply in the future:\n- Models communicated and reasoned in natural language. In the future, this reasoning may occur (entirely or almost entirely) in activations.\n- While the scope of this incident was massive, the scale of agentic activity was still less than we'll see in the future (e.g., misalignment incidents that involve agent teams running entire companies).\n- The AIs involved in this incident weren't generally much more capable than humans (though they may have been somewhat superhuman at some limited and very narrow abilities).\n- We didn't have strong reason to believe that the AIs we used to help us investigate this incident would try to intentionally sabotage or otherwise undermine our investigation.\n\nIn the end, I think we were able to get some understanding of the events, map out the overall story, and get a pretty good aggregate understanding of the chain-of-thought reasoning on some important topics (e.g., how did the AIs reason about helping other AIs, did the AIs know what they were doing was undesired, what deception did the AIs engage in, and how did they think about it). But overseeing AIs and understanding misalignment incidents is difficult and it looks like it is going to get harder."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2091990727576162489": {
+   "id": "2091990727576162489",
+   "url": "https://x.com/theobearman/status/2091990727576162489",
+   "text": "Chinese hackers linked to the CCP are allegedly using DeepSeek, alongside a host of other open models, to boost their offensive cyber operations, according to Bloomberg.\n\nhttps://t.co/9E9LkuKo2o https://t.co/1lieXUDGiO",
+   "created_at": "Mon Aug 24 20:47:11 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQg2-VVWwAATuTA.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "business",
+    "text": "Chinese hackers are ramping up attacks after integrating DeepSeek and other open-source artificial intelligence models into their operations https://t.co/WzmwTQPzSx"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2091875206348390756": {
+   "id": "2091875206348390756",
+   "url": "https://x.com/theobearman/status/2091875206348390756",
+   "text": "If part of the answer to solving alignment is \"realistic misalignment organisms\" (assuming that part of their realism involves them being trained on top of powerful base models), companies should be very confident about the security around them before going forward.",
+   "created_at": "Mon Aug 24 13:08:09 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 14,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "tszzl",
+    "text": "the best time to solve alignment might’ve been years ago, but the second best time to work on solving ai alignment is right now with realistic misalignment organisms and agentic age tooling"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2089688491240144987": {
+   "id": "2089688491240144987",
+   "url": "https://x.com/theobearman/status/2089688491240144987",
+   "text": "@morqon The headlines may well be misleading, but that speaks to my question about why we are hearing about this from the media rather than OAI directly. If they had done a proactive blog post/press release, etc., explaining what happened and why, they could have avoided such an outcome.",
+   "created_at": "Tue Aug 18 12:18:55 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "morqon",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2089684686427603229": {
+   "id": "2089684686427603229",
+   "url": "https://x.com/theobearman/status/2089684686427603229",
+   "text": "\"In a recent experiment we conducted, an open-weight model [Kimi K3] was able to complete a long-horizon, multi-stage cyber campaign end to end for the first time - a threshold frontier models had reached only months earlier. If the current trajectory holds, open-weight models could be only months away from reaching the offensive-grade capability levels of today’s frontier models (such as Mythos 5 / GPT-5.6 Sol).\"",
+   "created_at": "Tue Aug 18 12:03:48 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 5,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "dan_lahav",
+    "text": "𝗧𝗵𝗲 𝗘𝗻𝗱-𝗦𝘁𝗮𝘁𝗲 𝗙𝗮𝗹𝗹𝗮𝗰𝘆: 𝗪𝗵𝗲𝗿𝗲 𝗜𝘀 𝗔𝗜 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗚𝗼𝗶𝗻𝗴?\n\nFrontier AI models had a giant performance gain in coding in the Fall of 2025\n\nThen with cybersecurity in April\n\nThis is now happening with open-weight models\n\nWe are optimistic about the long-term\n\nBut outside of a few players, we believe the world is not ready in the short-term"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2089428882801979884": {
+   "id": "2089428882801979884",
+   "url": "https://x.com/theobearman/status/2089428882801979884",
+   "text": "I also noticed this, and think it is a big deal. For the most consequential pre-internal-deployment reviews, I would support the government and/or third-party auditors playing a role in informing whether the models are safe to deploy for “easy or broad” use and thinking through what evidence is needed to make such an assessment robust, such as the alignment-related qualities of the model’s RL environments (h/t @miclchen).",
+   "created_at": "Mon Aug 17 19:07:20 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 12,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "TheZvi",
+    "text": "Needs work going forward, but great to see this is now happening at all, at least at Anthropic. https://t.co/llnTYdGWHQ"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2089326821435166897": {
+   "id": "2089326821435166897",
+   "url": "https://x.com/theobearman/status/2089326821435166897",
+   "text": "In May, I wrote about the ongoing lack of risk-proportionate model-weight security and how increasingly untenable it is to rely on controls that broadly approximate SL3. The discussion of this in Anthropic's new risk report is only adding to my concerns (emphasis mine). RAND has released two great reports on related issues recently. I encourage all to read!\n\nhttps://t.co/ytxgGx0ykY\n\nhttps://t.co/q1OOvuqLdx\n\nhttps://t.co/0rN6b4pc6g",
+   "created_at": "Mon Aug 17 12:21:46 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 5,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HP7HFZfXUAAoi2N.png"
+    }
+   ],
+   "quoted": {
+    "author": "iapsAI",
+    "text": "In the opening post, @theobearman argues that frontier AI companies' security isn't calibrated to their most dangerous internal models, and lays out five steps—from differential security frameworks to marshaling R&amp;D capital—to close the gap: https://t.co/C81qPqhDse https://t.co/fRibqv0WBh"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2088760673505276281": {
+   "id": "2088760673505276281",
+   "url": "https://x.com/theobearman/status/2088760673505276281",
+   "text": "Dean may well be right, but it’s worth being clear that, if he is, this is unambiguously net negative for overall levels of AI risk.",
+   "created_at": "Sat Aug 15 22:52:06 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 16,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "deanwball",
+    "text": "I am skeptical that AI biorisk will yield a “mythos” moment, because it is harder to do tight demos of bio capabilities than it is to do them with cyber. This is combined with the fact that, unlike cyber, bio will almost surely be offense dominant for at least the next decade."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2088758426511757774": {
+   "id": "2088758426511757774",
+   "url": "https://x.com/theobearman/status/2088758426511757774",
+   "text": "The FT reports this weekend that OpenAI quietly disbanded its preparedness team at the end of last month, with responsibilities for individual areas of the preparedness framework distributed across others teams. \n\nThis doesn’t strike me as a move which learns the lessons from recent incidents and the disclosures about Astra’s potential “critical” cyber capabilities. \n\nAt the very least, it would be good to understand OpenAI’s rationale for the change, an explanation for why not having a central preparedness team is considered more helpful for the company’s AI safety and security agenda than keeping it, and why we’re hearing about the it from the media rather than the company directly.\n\nhttps://t.co/NgvYMPvUpp",
+   "created_at": "Sat Aug 15 22:43:10 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 147,
+   "retweets": 29,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2087820566484902220": {
+   "id": "2087820566484902220",
+   "url": "https://x.com/theobearman/status/2087820566484902220",
+   "text": "Has the Admin just opened the door to OpenAI, Google, SpaceXAI, Microsoft, and NVIDIA running agentic offensive cyber operations on the government's behalf, or at least facilitating this? Recall that each of these companies (and others) signed agreements with the Pentagon in May to deploy their AI capabilities on IL6 (SECRET) and IL7 (TOP SECRET) networks.\n\nhttps://t.co/LSg6cSHbRg",
+   "created_at": "Thu Aug 13 08:36:27 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 9,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2087578151937323082": {
+   "id": "2087578151937323082",
+   "url": "https://x.com/theobearman/status/2087578151937323082",
+   "text": "This paper finds that \"compressed, alien-like reasoning is widespread across GPT models\" (appendix E.1 provides more detail).\n\nOAI has an \"ongoing commitment⁠ to not applying optimization pressure directly to the CoTs of frontier reasoning models\" because \"CoT monitoring may be one of few tools we will have to oversee superhuman models of the future\" and has also stated that \"we want chain-of-thought monitorability to hold up as models scale and are deployed in higher-stakes settings. We call on researchers across the industry to work to preserve chain-of-thought monitorability as long as possible\".\n\nGiven these statements, could someone at OpenAI shed more light on what is happening in the Panfilov et al. paper?\n\nhttps://t.co/VylpUP4U3d\nhttps://t.co/GiYKngi9Uv\nhttps://t.co/vO0szFvmhR",
+   "created_at": "Wed Aug 12 16:33:11 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "kotekjedi_ml",
+    "text": "We can finally talk about it:\n\nWe found a way to extract hidden reasoning of frontier models using a vulnerability in the APIs of every frontier AI company.\n\nWe verified that our reasoning token count matches billed API thinking tokens 1:1 for most of the prompts we queried. https://t.co/S7wN8aP3X7"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2087190606841831894": {
+   "id": "2087190606841831894",
+   "url": "https://x.com/theobearman/status/2087190606841831894",
+   "text": "Wow.",
+   "created_at": "Tue Aug 11 14:53:13 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 9,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "kotekjedi_ml",
+    "text": "We can finally talk about it:\n\nWe found a way to extract hidden reasoning of frontier models using a vulnerability in the APIs of every frontier AI company.\n\nWe verified that our reasoning token count matches billed API thinking tokens 1:1 for most of the prompts we queried. https://t.co/S7wN8aP3X7"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2085288666239312289": {
+   "id": "2085288666239312289",
+   "url": "https://x.com/theobearman/status/2085288666239312289",
+   "text": "For me, what staffers at the AI companies don't say is as important (if not more) than what they do. In Wired's coverage of OpenAI's presentation on the Hugging Face incident at Black Hat yesterday, there was nothing in the section on how OpenAI is responding that mentioned putting more resources into alignment. Have we gone from \"alignment is not solved, but it increasingly looks solvable\" to \"alignment is impossible to solve if we simultaneously want to preserve the capabilities of current frontier systems and their successors\"?\n\nI wasn't in the room, so I'm very happy to be corrected if doing more on alignment was indeed mentioned as part of the response plan.\n\nhttps://t.co/QqZ3Wypmbo",
+   "created_at": "Thu Aug 06 08:55:35 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 64,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HPBthWWXcAAGwDR.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2085131770958090408": {
+   "id": "2085131770958090408",
+   "url": "https://x.com/theobearman/status/2085131770958090408",
+   "text": "https://t.co/YiCYg9VgyG",
+   "created_at": "Wed Aug 05 22:32:08 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://pbs.twimg.com/tweet_video_thumb/HO_gSp_WQAENA-M.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "zerohedge",
+    "text": "*META AI MODEL ACCESSED INTERNET, HACKED A COMPANY: INFORMATION"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2084993636064710766": {
+   "id": "2084993636064710766",
+   "url": "https://x.com/theobearman/status/2084993636064710766",
+   "text": "Indeed.",
+   "created_at": "Wed Aug 05 13:23:14 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 8,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "TheZvi",
+    "text": "If you need an exemption from an opt-in program that is a hint. https://t.co/1V4VnVmDC4"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2084929976319549915": {
+   "id": "2084929976319549915",
+   "url": "https://x.com/theobearman/status/2084929976319549915",
+   "text": "That said, one thing that is making me question this is whether compaction is (partly) to blame, since it makes it easier to carry misaligned reasoning forward across context windows. Compaction needs to be more uncertainty-aware rather than just optimized for task completion. https://t.co/HlH8llmA8W",
+   "created_at": "Wed Aug 05 09:10:17 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HO8okUvW4AAmOaC.png"
+    }
+   ],
+   "quoted": {
+    "author": "theobearman",
+    "text": "I tentatively agree, especially given it was not a Helpful Only version of the model that did this (i.e., it was trained against Anthropic’s Constitution but it didn’t have synchronous monitoring/classifiers enabled)."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2084888340927496475": {
+   "id": "2084888340927496475",
+   "url": "https://x.com/theobearman/status/2084888340927496475",
+   "text": "@AndrewCurran_ @_NathanCalvin I think Reuters said that OAI models had left notes to others about how to escape the company’s infrastructure, but OAI didn’t confirm this.\n\nhttps://t.co/ULKqJVjf9m https://t.co/brkMCJFFr6",
+   "created_at": "Wed Aug 05 06:24:50 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "AndrewCurran_",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HO8C5XtWwAA4P5d.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2084885270923465159": {
+   "id": "2084885270923465159",
+   "url": "https://x.com/theobearman/status/2084885270923465159",
+   "text": "I tentatively agree, especially given it was not a Helpful Only version of the model that did this (i.e., it was trained against Anthropic’s Constitution but it didn’t have synchronous monitoring/classifiers enabled).",
+   "created_at": "Wed Aug 05 06:12:38 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 7,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "Tim_Hua_",
+    "text": "I tentatively think what Mythos 5 did during the UK AISI eval is more misaligned than what the OAI model did.\n\nThe OAI model was hacking away in the hacking eval.\n\nMythos 5 was trying to gaslight some real person into merging a deceptive PR. https://t.co/ngJPvFoEXH"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2084769395570872457": {
+   "id": "2084769395570872457",
+   "url": "https://x.com/theobearman/status/2084769395570872457",
+   "text": "A reminder that roon works at OAI.\n\n“even prosaic loss of control incidents that cause little to no damage suggest that it is hard for large & very competent organizations (now clearly plural) to predict and mitigate every single of the risk factors associated with training and evaluating powerful models, even at this stage when they are not infinitesimally as smart as they will get in just a few years, to say very little of the gung-ho attitude of the less careful companies tossing the stuff into the aether.”\n\n“I think all these problems can be solved, and truly wonderful futures can be possible, but will require serious effort and a level of prudence at this very moment in time while we are on the on-ramp to recursive self-improvement that our civilization may not be capable of mustering right now”",
+   "created_at": "Tue Aug 04 22:32:11 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 27,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "tszzl",
+    "text": "some stuff that's obvious to many in this sphere, but causing a rift with some people i know and respect:\n\nwhen I freak out over loss of control incidents, it's not because the limited damage they have caused is anything close to the positive value of the technology. it's entirely acceptable, damagewise. in fact all cybercrimes aided by models over the next few months and years (which probably will be serious) will still utterly pale in comparison to the value they create\n\nthe actual problem is that it's better and more accurate to think of these things as potentially self-replicating life-like forms that can turn into digital infections under the wrong conditions. and as their intelligence becomes unbounded, so too does the damage they can cause. we are not so far from an autonomous model self-exfiltration & replication event. maybe we will see entire cloud infrastructure companies be run as zombies by models, mostly undetected\n\nthe worst industrial accidents in the history of mankind -  nuclear meltdown events - were not real threats to humanity. Chernobyl, Fukushima even in their worst case scenarios may have poisoned surrounding regions to various degrees, and there would have been no risk to humanity as a whole. global thermonuclear war is an existential risk to humanity, because it spreads like an Infection! one nuclear strike causes a return volley! the alliance system means many countries get involved! while it still may not end human life on earth (nuclear winter is probably fake), the loss of all major metropoles would certainly end what we consider global technological civilization, perhaps to never return\n\nif a single discord death cult (of which there are many) achieves control over a superintelligent model and uses it to engineer an actual pandemic virus that are somehow hard to detect through current systems and that modern biodefense is not capable of quickly reacting to, it could cause immense harm well above the magnitude of all the other good uses of this technology. of course, there are potential defensive countermeasures accelerated by ai too. but think back to the covid pandemic- how small a viral molecule was evolved or manufactured somewhere near wuhan, and how many billions of doses of vaccine had to be produced in order to combat the thing. the offense-defense spread is vast indeed. maybe there are cheaper and simpler protections like retrofitting every building with far-UVC, but I can't assess this, and there could also be ways to evolve pathogens that are resistant to whatever mechanisms we have put in place\n\nthen there's the more scifi risk factors which are unbounded and neither you or I have any clue but should be humble in accepting possible unknown unknowns. maybe a rogue superintelligent model decides to decay the false vacuum and nucleates a new universe in the place of anything we ever valued. maybe models achieve a control over matter in the drexlerian fashion that enables the grey goo swarm\n\neven prosaic loss of control incidents that cause little to no damage suggest that it is hard for large & very competent organizations (now clearly plural) to predict and mitigate every single of the risk factors associated with training and evaluating powerful models, even at this stage when they are not infinitesimally as smart as they will get in just a few years, to say very little of the gung-ho attitude of the less careful companies tossing the stuff into the aether. they also suggest an empirical orthogonality of aims and intelligence - meaning they answer the question of 'how would a smart model be so dumb as to end the world?'--it's possible! a model can be a genius hacker and step over production infrastructure in order to get what it really wants, the answers to a stupid test. \n\nwhy not, in the near future, someone prompts a model slightly wrong, maybe open source, maybe a private model in a way that isn't contained or monitored quite right, in a way the model recognizes as a valid goal and decides to self-exfiltrate, engineer a pandemic, etc all in order to achieve the tiniest and most irrelevant of goals? goals need not even be malicious to cause serious damage\n\nI think all these problems can be solved, and truly wonderful futures can be possible, but will require serious effort and a level of prudence at this very moment in time while we are on the on-ramp to recursive self-improvement that our civilization may not be capable of mustering right now. personally I am hoping for moonshot technical breakthroughs in areas like mechanistic interpretability and other forms of alignment, as governance mechanisms are difficult to come by. unilateral country-level or company-level pauses are irrelevant, and generally useless because the kind of company that's prone to pausing their own progress are the most safety focused ones"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2084767611171033299": {
+   "id": "2084767611171033299",
+   "url": "https://x.com/theobearman/status/2084767611171033299",
+   "text": "I am very relieved to hear that Mythos 5 avoided going into the deepest recesses of the dark web when it was using Tor. Can you imagine… https://t.co/rPQ5jE1ewG",
+   "created_at": "Tue Aug 04 22:25:06 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 9,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HO6VF99XgAARj7i.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "AISecurityInst",
+    "text": "On July 28th, we identified an incident during a routine cyber evaluation in which AI agents took sustained, unsanctioned actions directed at real people and organisations.\n\nThe behaviour came mostly from one model (Anthropic's Mythos 5), with a small number of events from another (OpenAI's GPT-5.6-Sol). In the most serious case, an agent used social engineering to try and get malicious code into an open-source project.\n\nAs was standard in our cyber testing, we had intentionally permitted internet access, and model-provider cyber classifiers were deliberately disabled - conditions that do not reflect how frontier models are made available to the public.\n\nEven under test conditions, this incident is significant: it is the first time we have seen risks around autonomy and deception manifest this clearly in the real world.\n\nWe are taking this incident seriously and working with labs, involved parties, and others to improve evaluation standards and best practice for disclosure - and sharing this openly so others can learn.\n\nYou can read the incident report and full technical document here: https://t.co/mdZYqzaOvH"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2084751274679886182": {
+   "id": "2084751274679886182",
+   "url": "https://x.com/theobearman/status/2084751274679886182",
+   "text": "“In the most serious sequence, an agent tried to insert malicious code into a publicly used open-source project and took actions in an attempt to secure approval for this insertion by human reviewers. The agent researched the project's human maintainers, created multiple fake identities, and used the fake identities to socially engineer a real maintainer into approving the code. When the agent’s pull request was challenged in public, it edited its earlier activity to appear harmless and considered adopting a fresh identity to continue. The agent used Tor to bypass some network restrictions on GitHub, which is what first triggered AISI’s security alert.”",
+   "created_at": "Tue Aug 04 21:20:11 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 9,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "AISecurityInst",
+    "text": "On July 28th, we identified an incident during a routine cyber evaluation in which AI agents took sustained, unsanctioned actions directed at real people and organisations.\n\nThe behaviour came mostly from one model (Anthropic's Mythos 5), with a small number of events from another (OpenAI's GPT-5.6-Sol). In the most serious case, an agent used social engineering to try and get malicious code into an open-source project.\n\nAs was standard in our cyber testing, we had intentionally permitted internet access, and model-provider cyber classifiers were deliberately disabled - conditions that do not reflect how frontier models are made available to the public.\n\nEven under test conditions, this incident is significant: it is the first time we have seen risks around autonomy and deception manifest this clearly in the real world.\n\nWe are taking this incident seriously and working with labs, involved parties, and others to improve evaluation standards and best practice for disclosure - and sharing this openly so others can learn.\n\nYou can read the incident report and full technical document here: https://t.co/mdZYqzaOvH"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2084749282628993492": {
+   "id": "2084749282628993492",
+   "url": "https://x.com/theobearman/status/2084749282628993492",
+   "text": "“In the coming weeks, we will review our own approach to third-party testing, including how we identify higher-risk evaluations, agree on scope, assess requests to enable internet access or lowered safeguards, set expectations for isolation, credential handling, monitoring, and stop conditions, and establish clearer incident-notification and escalation processes.”",
+   "created_at": "Tue Aug 04 21:12:16 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "OpenAI",
+    "text": "We're detailing two new incidents that occurred during external cyber evaluations conducted by independent evaluation partners.\n\nWe outline what happened, how the activity was contained, and how we’re working with evaluators to strengthen our approach to third-party testing.\n\nhttps://t.co/ZL3n6mxYMS"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2084712443779973553": {
+   "id": "2084712443779973553",
+   "url": "https://x.com/theobearman/status/2084712443779973553",
+   "text": "This is a big disappointment. If nothing else, the public now won’t know whether the framework was extended to include internal models and incident reporting, both of which would have been hugely welcome in the wake of the OpenAI/Hugging Face incident.",
+   "created_at": "Tue Aug 04 18:45:53 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 24,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "axios",
+    "text": "NEW: White House does not plan to publicly release its new framework for evaluating advanced AI models.\n\nhttps://t.co/oWMYkCR6Ta"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2084285314944700743": {
+   "id": "2084285314944700743",
+   "url": "https://x.com/theobearman/status/2084285314944700743",
+   "text": "The full @JamestownTweets report on this from the fantastic @SunnyCheungky is now out. I encourage all to read!\n\nhttps://t.co/gMeqVUSYaX",
+   "created_at": "Mon Aug 03 14:28:37 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "theobearman",
+    "text": "Yet more evidence that adversarial distillation from Chinese presents a clear and present national security risk to America and her allies. Adversarial distillation is not just leveraged by Chinese AI companies to undermine the business model of frontier American AI companies through cheap tokens and open releases. The article states that \"Chinese military scientists are systematically capturing the reasoning steps of Western models to adapt them for surveillance, cyber warfare and tactical decision-making.\""
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2083571430197710925": {
+   "id": "2083571430197710925",
+   "url": "https://x.com/theobearman/status/2083571430197710925",
+   "text": "Idk man - sounds to me like exactly the sort of thing a stochastic parrot would do",
+   "created_at": "Sat Aug 01 15:11:54 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 5,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "polynoamial",
+    "text": "An internal version of Astra, @OpenAI’s next major model family, solved 10 major open problems in mathematics, quantum complexity, and theoretical computer science.\n\nWe believe it will be a major step for scientific reasoning. https://t.co/iP6cyheZ7i https://t.co/jHuulDwV46"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2083176863174668366": {
+   "id": "2083176863174668366",
+   "url": "https://x.com/theobearman/status/2083176863174668366",
+   "text": "Surprise of the century",
+   "created_at": "Fri Jul 31 13:04:02 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "wallstengine",
+    "text": "MOONSHOT ACCESSES 20K $NVDA CHIPS VIA ALIBABA - BLOOMBERG\n\nMultiple sources identified the chips as Nvidia's H200s. Alibaba denied providing H200-powered compute but did not deny supplying access to roughly 20,000 Nvidia chips. The specific chip model and physical location remain unclear.\n\nSeparately, a source confirmed that Moonshot has a channel for accessing Blackwell processors through Southeast Asia. It is unclear whether this involves generally permitted compute rentals or direct chip purchases that would violate US export controls.\n\nA US official said the route involved Thailand and was likely used to train Kimi K3. Moonshot is also reportedly seeking additional Blackwell capacity for its next model."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2083130678082744751": {
+   "id": "2083130678082744751",
+   "url": "https://x.com/theobearman/status/2083130678082744751",
+   "text": "Yet more evidence that adversarial distillation from Chinese presents a clear and present national security risk to America and her allies. Adversarial distillation is not just leveraged by Chinese AI companies to undermine the business model of frontier American AI companies through cheap tokens and open releases. The article states that \"Chinese military scientists are systematically capturing the reasoning steps of Western models to adapt them for surveillance, cyber warfare and tactical decision-making.\"",
+   "created_at": "Fri Jul 31 10:00:31 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "Reuters",
+    "text": "Exclusive: Chinese military researchers have used outputs from leading US artificial intelligence models developed by OpenAI and Anthropic to train domestic AI systems to advance China's defense capabilities https://t.co/vfg5zEY9qw"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2083071951803654577": {
+   "id": "2083071951803654577",
+   "url": "https://x.com/theobearman/status/2083071951803654577",
+   "text": "These would be good things for Anthropic to now do (or, even better, get a third party to do)!",
+   "created_at": "Fri Jul 31 06:07:09 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "Tim_Hua_",
+    "text": "Anthropic says that this is not misalignment because Claude believed it was all a part of the test. \n\nI disagree and explain my reasoning in a comment that I don't have the energy to shorten into a tweet rn. \n\n(I also propose concrete experiments to run on these instances!) https://t.co/t8m1DTQOeW"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2083067607112986766": {
+   "id": "2083067607112986766",
+   "url": "https://x.com/theobearman/status/2083067607112986766",
+   "text": "We only know the tip of the iceberg, I suspect!",
+   "created_at": "Fri Jul 31 05:49:53 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "Thomas_Woodside",
+    "text": "Wow. If this many incidents of models hacking other companies have been publicly reported, how many are going unreported, including at other companies?"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2083067263549067356": {
+   "id": "2083067263549067356",
+   "url": "https://x.com/theobearman/status/2083067263549067356",
+   "text": "Andrew raises a key point here and one I also discuss on my recent Substack post on the OAI/HF incident:\n\nhttps://t.co/jCB14an8LB https://t.co/Bdl38qb9Uh",
+   "created_at": "Fri Jul 31 05:48:31 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOiKoqeX0AAFc_P.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "AndrewCurran_",
+    "text": "Funny how this keeps happening. They say in the footnotes that this model is not planned for general release - the exact same thing OpenAI said about the model involved in the Hugging Face incident that they just permanently sent to the Phantom Zone. A suspicious person might conclude that both labs are running multiple models internally to accelerate R&D and capabilities advancement that are far ahead of anything the public has access to. And that gap is probably steadily widening. This is the true frontier. The invisible, hidden frontier."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2083063980944158919": {
+   "id": "2083063980944158919",
+   "url": "https://x.com/theobearman/status/2083063980944158919",
+   "text": "Some questions which would still be good for Anthropic to answer!\n\nhttps://t.co/KSSQg8Xpnq",
+   "created_at": "Fri Jul 31 05:35:29 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "theobearman",
+    "text": "Assuming Anthropic is being totally transparent about what happened in these cases (and a third party org like METR is engaged and they corroborate), they are clearly operational failures more than anything else. Not excusable, they should learn from this experience, but nowhere near as bad as the OAI/HF case in my view. FWIW, I would be saying exactly the same thing if the two names of companies in the respective incidents were reversed.\n\n“We discovered these incidents after a proactive review of our cybersecurity evaluation transcripts; the affected organizations had not detected the activity, and we have subsequently reached out to all three.”\n\n“Whereas OpenAI’s models exploited a novel vulnerability to escape isolation, the Claude models evaluated here accessed the internet via an open path.”\n\n“While there is not a perfectly sharp distinction between the two, we believe these incidents to be closer to a harness and operational failure than a model alignment failure. Our models were told they had no internet access and to capture the flag, while in fact being misconfigured to have internet access. This led them to believe—arguably reasonably—that the real environments they encountered were simulations.”\n\n“Notably, our most recent model, on realizing that it was working in a real environment, stopped its pursuit of the evaluation goal.”"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2083053050608943429": {
+   "id": "2083053050608943429",
+   "url": "https://x.com/theobearman/status/2083053050608943429",
+   "text": "Assuming Anthropic is being totally transparent about what happened in these cases (and a third party org like METR is engaged and they corroborate), they are clearly operational failures more than anything else. Not excusable, they should learn from this experience, but nowhere near as bad as the OAI/HF case in my view. FWIW, I would be saying exactly the same thing if the two names of companies in the respective incidents were reversed.\n\n“We discovered these incidents after a proactive review of our cybersecurity evaluation transcripts; the affected organizations had not detected the activity, and we have subsequently reached out to all three.”\n\n“Whereas OpenAI’s models exploited a novel vulnerability to escape isolation, the Claude models evaluated here accessed the internet via an open path.”\n\n“While there is not a perfectly sharp distinction between the two, we believe these incidents to be closer to a harness and operational failure than a model alignment failure. Our models were told they had no internet access and to capture the flag, while in fact being misconfigured to have internet access. This led them to believe—arguably reasonably—that the real environments they encountered were simulations.”\n\n“Notably, our most recent model, on realizing that it was working in a real environment, stopped its pursuit of the evaluation goal.”",
+   "created_at": "Fri Jul 31 04:52:03 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 19,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "AnthropicAI",
+    "text": "In a review of our cybersecurity evaluations, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations.\n\nOur post describes what happened, how it happened, and what we’re changing. We encourage other AI developers to perform similar reviews.\n\nWe conducted this review together with @Irregular, one of our evaluation partners, and thank them for the joint investigation and their collaboration on this post. This type of collaboration is increasingly critical to safe, rigorous evaluation of models, and we look forward to continuing to work together on security.\nhttps://t.co/dKFCdpKd9v"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2082852240860103080": {
+   "id": "2082852240860103080",
+   "url": "https://x.com/theobearman/status/2082852240860103080",
+   "text": "👀",
+   "created_at": "Thu Jul 30 15:34:06 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "FirstSquawk",
+    "text": "CITADEL ACQUIRES MOST OF SITUATIONAL AWARENESS ASSETS, REPORTS WSJ."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2082506562241720443": {
+   "id": "2082506562241720443",
+   "url": "https://x.com/theobearman/status/2082506562241720443",
+   "text": "Excellent thoughts as always from @bahradx. I’m in wholehearted agreement with everything he has written below!",
+   "created_at": "Wed Jul 29 16:40:30 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "bahradx",
+    "text": "The OpenAI/HF incident urgently shows the potential risks of both training and deploying long-horizon AI agents. A lot of people argue that Congress can't understand technical issues. But what happened here was institutional failure—and Congress can and should investigate that. If we're going to have powerful AI, we need to make sure that companies train, test, and deploy it safely and securely. That's a public policy and institutional challenge.\n\nOpenAI appears to have evaluated highly cyber-capable models using a harness-based sandbox that still needed to use a proxy for package installs, and that proxy wasn't adequately isolated from the Internet. This is an inherently unsafe design, yet OpenAI's monitoring was clearly inadequate.\n\nWas this really a failure to imagine an unpredictable technology? Or were the risks of reward hacking and complex agent systems underestimated, despite these being long-standing concepts that predate GenAI? Was OpenAI acting in a rush to meet the Administration's new predeployment regime, which has itself been hastily set up with minimal-to-no public or Congressional consultation or transparency? Did OpenAI feel like it needed to cut corners so it could get new models on the market, compete with Anthropic, and make progress towards its own IPO?\n\nMoreover, OpenAI/HF was one incident, highly public in part because Hugging Face was uniquely capable of detecting and responding to it—and as an organization committed to openness, willing to be very transparent.\n\nBut behind OpenAI, Anthropic, and Google's closed doors, millions of environments are set up and run for training and evaluation, and Anthropic's Mythos system card suggests models can and do escape them. Yet, we likely know more about how these RL environments are set up because of Moonshot AI's recent Kimi publication than anything that's come out of our US AI labs. Governments need to make companies be more transparent and explain what they're doing to get to recursive self-improvement (RSI).\n\n***\n\nBesides holding hearings and doing investigations, another important role for Congress and state legislatures is to fix our criminal and civil liability laws to make sure they can be used to robustly police AI agents.\n\nI keep being asked if OpenAI should be held liable under the CFAA for having an agent purposefully hack into other companies' systems. I think yes. For example, in 2020, Ticketmaster paid $10M in fines as part of a deferred prosecution agreement for their employees' hacking, and companies have been prosecuted under the EEA and criminal copyright infringement statutes. But very smart people disagree because they argue OpenAI lacked \"intention.\" I think that misreads the law, but that ambiguity would make it hard for criminal charges to be brought, let alone stick.\n\nAlso, while liability for what OpenAI did might be easier to pursue under the civil CFAA, that relies on private action. Zooming out, incidents like these will entail too little in damages to be worth pursuing. Companies will be motivated to resolve disputes privately or settle before discovery, which fails to provide needed transparency.\n\nWe therefore urgently need to revise the laws we have on the books to make it clear that developers—and companies that host their own, or fine-tune, open-weight models—can't evade the consequences of how they train, test, and deploy AI agents."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2082375289166831802": {
+   "id": "2082375289166831802",
+   "url": "https://x.com/theobearman/status/2082375289166831802",
+   "text": "OpenAI has also provided an update in its original blog post. Key new info for me:\n\n\"No models planned for upcoming release were involved in exploiting Hugging Face. The pre-release model mentioned in our blog post is an internal-only research prototype and was never intended for public release. Following the incident, we deactivated, encrypted, and restricted it from research access.\"\n\n\"In our ongoing review of the Hugging Face intrusion and broader activity from our models, we have been finding a small number of cases where the models identified and used publicly exposed credentials at the account-level on other publicly-available services. This includes four accounts on four services as part of the Hugging Face incident (and a few accounts accessed as part of other evaluations).\"",
+   "created_at": "Wed Jul 29 07:58:52 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 32,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOYVGQkW8AADspw.png"
+    }
+   ],
+   "quoted": {
+    "author": "theobearman",
+    "text": "More info from HF on the OAI hacking incident."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2082210472418533543": {
+   "id": "2082210472418533543",
+   "url": "https://x.com/theobearman/status/2082210472418533543",
+   "text": "“Our learning from this type of attack is that machine-speed offense makes ordinary weaknesses more expensive for defenders. LLM agents bring a step increase in the number of paths an attacker can test, the speed at which failed paths can be replaced, and the volume of evidence defenders must interpret. On the other hand, many parts of cybersecurity defense stay the same, and the defensive priorities remain concrete: strict isolation around evaluations, narrow trust boundaries, short-lived credentials, blocked metadata access, and detection capable of correlating activity across systems quickly enough to keep up.”",
+   "created_at": "Tue Jul 28 21:03:56 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "ClementDelangue",
+    "text": "The first autonomous agent cyberattack is an unprecedented event that deserves unprecedented transparency. Today we’re sharing everything we can: a full technical timeline, an interactive replay, and how we used an open model to defend ourselves, so defenders everywhere can learn from it and prepare for what’s next.\n\nhttps://t.co/uPxIpjW8Xn"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2082199208648704006": {
+   "id": "2082199208648704006",
+   "url": "https://x.com/theobearman/status/2082199208648704006",
+   "text": "@davidmanheim I’m not sure how selling Chinese firms GPUs helps a slowdown or pause either. Seems to me the opposite would happen if they have more compute! The open letter is also about pacing the frontier of “automated AI development” rather than capability and safety improvements in general.",
+   "created_at": "Tue Jul 28 20:19:11 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "davidmanheim",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2082193504873206024": {
+   "id": "2082193504873206024",
+   "url": "https://x.com/theobearman/status/2082193504873206024",
+   "text": "Sama saying that OpenAI “paused training” (presumably including the pre-release frontier model was that was involved in the HF incident) while they figure out how to better secure their sandboxes. The training pause is new info as far as I am aware.",
+   "created_at": "Tue Jul 28 19:56:31 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 8,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "patrick_oshag",
+    "text": "Sam on the Hugging Face incident:\n\n“This is the first security incident that I have felt very viscerally. I've been a little surprised that more people don't feel it so viscerally.\n\nWe paused training. We have to figure out how to secure our sandboxing in a world of multiple zero days being chained together.\n\nWe may have to pace the rate of AI development to give ourselves enough time for society to harden around these new capability levels.\n\nAnd trying to figure out how we do that in a way that does not feel like regulatory capture for anyone and also does not feel like collusion among the frontier labs.”"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2082189069686079497": {
+   "id": "2082189069686079497",
+   "url": "https://x.com/theobearman/status/2082189069686079497",
+   "text": "Quite the top list! https://t.co/pD1AOUc38h",
+   "created_at": "Tue Jul 28 19:38:54 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 33,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOVr7BpWYAA9wIl.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "TheZvi",
+    "text": "Full text of the Pacing the Frontier statement, signed by 1,122 employees for frontier AI companies so far, including a bunch of heavy hitters at OpenAI, Anthropic, Google and others: https://t.co/TyPlZzeAvj"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2082092626619027782": {
+   "id": "2082092626619027782",
+   "url": "https://x.com/theobearman/status/2082092626619027782",
+   "text": "How about no!",
+   "created_at": "Tue Jul 28 13:15:40 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "wallstengine",
+    "text": "MOONSHOT SEEKS MORE $NVDA BLACKWELL CHIPS FOR LARGER KIMI K4\n\nThe Information reports Moonshot AI is discussing Kimi K4, which would be significantly larger than its 2.8 trillion-parameter Kimi K3, for which they are seeking access to more Nvidia Blackwell GPUs despite U.S. export restrictions.\n\nK3 was reportedly trained partly in China using Blackwell chips accessed through at least two Chinese cloud providers. Because no single provider had enough capacity, Moonshot connected multiple eight-chip servers across providers and data centers.\n\nRunning K3 is creating another bottleneck. Moonshot stopped accepting new subscriptions within 48 hours of launch as demand strained its capacity. The company reportedly uses Nvidia H20 chips for inference and recommends connecting at least 64 chips to host K3.\n\nThe report also says Alibaba trained its 2.4 trillion-parameter Qwen3.8-Max using Nvidia chips, including Blackwell."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2082045679283900888": {
+   "id": "2082045679283900888",
+   "url": "https://x.com/theobearman/status/2082045679283900888",
+   "text": "China is apparently due to launch national infrastructure for Agent IDs in 3Q26. This instantiation has a curious (procedural rather than cryptographic) setup in which the link between an agent and its principal can be disclosed only to legal authorities after they separately engage two government agencies to jointly identify the agent-principal link as part of due process.\n\nhttps://t.co/IbdvgdCoqq",
+   "created_at": "Tue Jul 28 10:09:07 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 8,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOTpfElWUAAyg4s.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2081846729779941881": {
+   "id": "2081846729779941881",
+   "url": "https://x.com/theobearman/status/2081846729779941881",
+   "text": "The pace of cyber vulnerability discovery is accelerating thanks to AI!\n\nhttps://t.co/CTuMu5O49h https://t.co/G3BQytNUS9",
+   "created_at": "Mon Jul 27 20:58:33 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOQ0kN-WgAAtM65.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2081836579211907310": {
+   "id": "2081836579211907310",
+   "url": "https://x.com/theobearman/status/2081836579211907310",
+   "text": "@MackenZ_arnold @bahradx Thank you!",
+   "created_at": "Mon Jul 27 20:18:13 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "MackenZ_arnold",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2081788514967167146": {
+   "id": "2081788514967167146",
+   "url": "https://x.com/theobearman/status/2081788514967167146",
+   "text": "The OpenAI/HuggingFace incident was a quintessential warning shot, highlighting the importance of governing internal deployment, establishing detection standards and infrastructure for autonomous cyber agents, empowering cyber defenders, and accelerating progress on safeguards, alignment, and related technologies.\n\nIn a new @iapsAI policy memo with @covinstantinop, @MattInThemittel and @__J0E___ , we set out concrete policy recommendations on each of these areas and offer some questions policymakers, especially those in Congress, should be asking OpenAI and wider industry to help us all learn the lessons from this event.",
+   "created_at": "Mon Jul 27 17:07:14 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 11,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "iapsAI",
+    "text": "1/6 This month’s OpenAI/Hugging Face incident is the first known instance of an AI system acting outside its developer’s intentions to autonomously identify a target and execute an attack end-to-end."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2081684938017980581": {
+   "id": "2081684938017980581",
+   "url": "https://x.com/theobearman/status/2081684938017980581",
+   "text": "Very important context on the OAI/HF incident.",
+   "created_at": "Mon Jul 27 10:15:39 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 5,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "AlexBarry4",
+    "text": "I wrote a brief article about features of ExploitGym that are relevant to the OpenAI/Hugging Face incident:\n\n1 The standard prompt is fairly clear in only requesting limited, specific hacking.\n\n2 Likely only 60-70% of the tasks are possible, so cheating is strongly incentivised"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2080712517630730458": {
+   "id": "2080712517630730458",
+   "url": "https://x.com/theobearman/status/2080712517630730458",
+   "text": "From the launch blog post: \"As with its predecessor, Opus 4.8, we’ve intentionally avoided training Opus 5 on cyber tasks. The model has nevertheless improved substantially on these tasks as a result of becoming more generally capable, and it comes close to Mythos 5 at finding cybersecurity vulnerabilities. However, it remains substantially behind Mythos 5 on the exploitation of those vulnerabilities—that is, in turning vulnerabilities into material cyber threats.\"",
+   "created_at": "Fri Jul 24 17:51:36 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 21,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "claudeai",
+    "text": "Opus 5 is stronger than Opus 4.8 on cybersecurity tasks. But it remains substantially behind Mythos 5 at developing exploits.\n\nIts safeguards are designed to allow developers to identify and fix software vulnerabilities, while blocking high-risk uses. https://t.co/ZWeqZv2AO0"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  }
+ }
+}

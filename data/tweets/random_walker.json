@@ -1185,6 +1185,97 @@
     }
    ],
    "quoted": null
+  },
+  "2106044742589137275": {
+   "id": "2106044742589137275",
+   "url": "https://x.com/random_walker/status/2106044742589137275",
+   "text": "@manoelribeiro Thanks for writing this! The motte and bailey is very related to what I called the linguistic trap. https://t.co/7H79p4S2Vd",
+   "created_at": "Fri Oct 02 15:32:49 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": true,
+   "reply_to": "manoelribeiro",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "random_walker",
+    "text": "The \"linguistic trap\" is ever-present in AI commentary — reducing the properties of a complex AI system to those of the linguistic subsystem. @sayashk and I contributed to briefly popularizing one of these phrases (\"bullshit generator\") when ChatGPT was released, but we quickly realized that this framing was not that helpful and stopped using it."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2105318860580692221": {
+   "id": "2105318860580692221",
+   "url": "https://x.com/random_walker/status/2105318860580692221",
+   "text": "To be clear, the above tweet is one half of my view. The other half is one I've written about repeatedly, which is that the delegation pattern that limits the human's role to management is a *design choice*, and that we could be designing agents for true collaboration instead. https://t.co/mhsesRokqt",
+   "created_at": "Wed Sep 30 15:28:25 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": true,
+   "reply_to": "random_walker",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 21,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "random_walker",
+    "text": "I've been going on for a while about how automation and collaboration agents need to be designed differently, but that's just the start. Here are 11 different configurations of firm/worker/agent that I think will require different agent designs. The industry's current focus is on automation / delegation, overindexing on metrics like time horizon while ignoring others like collaboration skill, and treating the human as the bottleneck. So there's a huge unmet market need. This is also a great opportunity for research, provided we treat harness design not as an afterthought but as a set of open problems that will require expertise not just in machine learning but also human-computer interaction and organizational behavior."
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2104320476910936259": {
+   "id": "2104320476910936259",
+   "url": "https://x.com/random_walker/status/2104320476910936259",
+   "text": "We explained why Pareto frontiers should be convex hulls over two years ago, in our paper AI Agents That Matter, which tried to raise the intellectual rigor of benchmarking.  https://t.co/jf177hmAvq\nFun fact: it was also one of the first papers to call for reporting Pareto curves in the first place, instead of tables with only accuracy figures and no cost comparison—which was the norm at the time. Ancient history!",
+   "created_at": "Sun Sep 27 21:21:12 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": true,
+   "reply_to": "random_walker",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 57,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTQMFYyWsAERciG.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2103448082826281172": {
+   "id": "2103448082826281172",
+   "url": "https://x.com/random_walker/status/2103448082826281172",
+   "text": "If only.\nhttps://t.co/gF6qkn4X19 https://t.co/Kxbpb7dzuo",
+   "created_at": "Fri Sep 25 11:34:37 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": true,
+   "reply_to": "random_walker",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 10,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTDy2R0XgAA7ZL4.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "postautistic_",
+    "text": "@random_walker So update it?"
+   },
+   "fetched_at": "2026-10-05T11:46:34.718681+00:00"
   }
  }
 }
