@@ -1611,6 +1611,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2107234409896370653": {
+   "id": "2107234409896370653",
+   "url": "https://x.com/slatestarcodex/status/2107234409896370653",
+   "text": "@RosieCampbell I got one of these requests, but at the last second I remembered it might be a real TechCrunch journalist.",
+   "created_at": "Mon Oct 05 22:20:08 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "RosieCampbell",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 360,
+   "retweets": 4,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-06T17:11:39.226228+00:00"
   }
  }
 }

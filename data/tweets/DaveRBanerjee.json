@@ -1404,6 +1404,83 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2107271650458943699": {
+   "id": "2107271650458943699",
+   "url": "https://x.com/DaveRBanerjee/status/2107271650458943699",
+   "text": "https://t.co/oTOckfZHXL",
+   "created_at": "Tue Oct 06 00:48:07 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "DaveRBanerjee",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 11,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-06T17:11:39.226228+00:00"
+  },
+  "2107271647858221264": {
+   "id": "2107271647858221264",
+   "url": "https://x.com/DaveRBanerjee/status/2107271647858221264",
+   "text": "Hilarious line from Scott Aaronson's new course on AI Alignment Theory https://t.co/taGEWZr1PH",
+   "created_at": "Tue Oct 06 00:48:06 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 394,
+   "retweets": 35,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HT6IVOYXAAAm1kA.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-06T17:11:39.226228+00:00"
+  },
+  "2107270465861349625": {
+   "id": "2107270465861349625",
+   "url": "https://x.com/DaveRBanerjee/status/2107270465861349625",
+   "text": "I’d love to see more reporting on the relationships between frontier AI companies and RL environment vendors.\n\nAccording to Anthropic, the RL environments that make Claude more capable are also responsible for its misalignment when not set up carefully. Anthropic said that they froze changes to their RL environments for about a month in April to fix them, and flagged problems in over 10%.\n\nWhy are so many RL environments broken?\n\nA friend I spoke to who works at an RL vendor explained the incentives on the vendor side:\n- Vendors are paid per environment, which incentivizes shipping lots of environments.\n- There’s a goldrush mentality. Vendors aren’t sure whether this industry will exist in a few years (bubble, new training paradigm, etc) so they’re scaling as fast as possible right now. This means playing fast and loose and hiring a lot of people who don't have relevant expertise or time to onboard.\n\nApparently frontier AI companies have introduced clauses into their contracts that allow them to return broken RL environments. As companies trace more of their misalignment to flawed RL training signals, what else is happening between frontier AI companies and these vendors? \n\nIf you’re familiar with this area I’d love to chat for an upcoming piece, but I’d like to see more reporting on this in general!",
+   "created_at": "Tue Oct 06 00:43:24 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "JustenMichel",
+   "rt_author_name": "Michel Justen",
+   "likes": 25,
+   "retweets": 3,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-06T17:11:39.226228+00:00"
+  },
+  "2107270452016292208": {
+   "id": "2107270452016292208",
+   "url": "https://x.com/DaveRBanerjee/status/2107270452016292208",
+   "text": "@JustenMichel i'm also interested in this",
+   "created_at": "Tue Oct 06 00:43:21 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "JustenMichel",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-06T17:11:39.226228+00:00"
   }
  }
 }

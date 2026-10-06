@@ -1985,6 +1985,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2107454683887624239": {
+   "id": "2107454683887624239",
+   "url": "https://x.com/nabeelqu/status/2107454683887624239",
+   "text": "@almonk @GoCardless @greybaker @harrymarr @hirokitakeuchi @t_blom @milosgajdos @feelepxyz @mattjackrob So sick",
+   "created_at": "Tue Oct 06 12:55:25 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": true,
+   "reply_to": "almonk",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-06T17:11:39.226228+00:00"
   }
  }
 }

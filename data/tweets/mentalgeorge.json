@@ -1442,6 +1442,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2107367808661119037": {
+   "id": "2107367808661119037",
+   "url": "https://x.com/mentalgeorge/status/2107367808661119037",
+   "text": "On the eve of The AGI Chronicles (which comes out tomorrow!) I'm publishing an excerpt from \"Big Blob of Compute,\" a 2017 internal research document by Dario Amodei, back when he was a researcher at OpenAI. \n\nIt's never been published before, but BBOC is, in my mind, the essay that started the AI race. It described Amodei's hypothesis that scaling up AI models was the best way, by far, to make them smarter. GPT-2 was an experiment to test the hypothesis, and when it worked, OpenAI went all-in on scaling, which led to the race we have today.\n\nIt's a fascinating historical artifact that deserves to see the light of day. And it's taken on mythical proportions inside the AI industry, which is now spending trillions of dollars building the \"big blobs\" that Amodei thought would be necessary to get to AGI.\n\nEnjoy! And please pre-order the book if you do! \n\nhttps://t.co/dGBzcI6Mrl",
+   "created_at": "Tue Oct 06 07:10:13 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "kevinroose",
+   "rt_author_name": "Kevin Roose",
+   "likes": 290,
+   "retweets": 31,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-06T17:11:39.226228+00:00"
   }
  }
 }

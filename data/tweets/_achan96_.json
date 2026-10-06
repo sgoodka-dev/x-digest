@@ -1256,6 +1256,24 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2107247049276281070": {
+   "id": "2107247049276281070",
+   "url": "https://x.com/_achan96_/status/2107247049276281070",
+   "text": "More curves are bending. In mid-August Nate Rush & I posted an analysis of which discovery curves are starting to bend. What's happened since then?\n\nCyber vulnerabilities: curve is still bent. Discovery of vulnerabilities is accelerating even further, though exploited vulnerabilities remain fairly flat.\n\nMath: curve is further bent. We said there was a likely acceleration for small-scale problems. Since then there has been a claimed Millennium prize resolution, & credible rumors of another. All frequently-updated databases of open problems seem to be proceeding at a rapid rate.\n\nAlgorithms: curve is now bending. Two high profile algorithmic competitions have had big curve-bending events: NanoGPT, and the Hutter compression prize. Other frequently-updated series remain relatively unchanged: CIFAR-10, Stockfish, matrix-multiplication exponent.\n\nMore observations below.",
+   "created_at": "Mon Oct 05 23:10:21 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "testingham",
+   "rt_author_name": "tom cunningham",
+   "likes": 171,
+   "retweets": 35,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-06T17:11:39.226228+00:00"
   }
  }
 }

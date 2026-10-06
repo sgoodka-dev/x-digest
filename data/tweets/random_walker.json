@@ -1444,6 +1444,81 @@
     "text": "@random_walker This seems totally wrong to be honest. I'm sure we could think of some categories of blue-collar work where demand is ~fixed and so automation will just lead to mass job losses. But I do not think most physical jobs are like this."
    },
    "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2107497471505256494": {
+   "id": "2107497471505256494",
+   "url": "https://x.com/random_walker/status/2107497471505256494",
+   "text": "Y2K went down in history as a public overreaction. Apparently, that’s incorrect?\n\nProgrammers and critical infrastructure people worked for over a decade to prevent problems. A lot of them never publicized it when they fixed things in their own orgs. (Each fix isn't headline news.)\n\nTime magazine says a lot of people stockpiled supplies \"because they didn't have a sense that programmers were on the job.\"\n\nA few things did go wrong. There was an issue at a couple of nuclear plants. A video rental store charged a customer a century of late fees.\n\nBut overall, everything worked out fine. Skeptics took that as proof nothing was ever going to happen.\n\nThe people raising alarms weren't exactly proven right! Because years of hard work meant nothing happened.\n\nThe national and local coordination was so good that President Clinton's Y2K czar was comfortable getting on a flight at exactly midnight. The only people on that flight were him and reporters.\n\nAnother example of how saving the world and preventing disaster gets remembered as wasted money because nothing happens.",
+   "created_at": "Tue Oct 06 15:45:27 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "Abi0lvera",
+   "rt_author_name": "Abi Olvera",
+   "likes": 8,
+   "retweets": 3,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-06T17:11:39.226228+00:00"
+  },
+  "2107456826685984883": {
+   "id": "2107456826685984883",
+   "url": "https://x.com/random_walker/status/2107456826685984883",
+   "text": "Have been noodling on an actual piece about this, but I think this sentiment somewhat misunderstands the Carnegies/Rockefellers and how their foundations actually came about/became effective.\n\nCarnegie had been giving for decades, but he really kicked it into high gear after he sold Carnegie Steel and retired. He was 65. Likewise, even though Rockefeller began giving much earlier, the Rockefeller Foundation, his philanthropic capstone, wasn’t chartered until 1913…when Rockefeller was 73. A lot of today’s fortunes are 1) still being made and 2) being accrued by people who are much earlier in both their careers and their philanthropic lives than Carnegie and Rockefeller were when their philanthropic institutions reached maturity (not that this should absolve them of any sense of noblesse oblige *today*).\n\nThese great philanthropies also can’t be separated from the era in which they were created: Protestant ideas about stewardship, the general Progressive Era reform culture, anxieties about (and outright hostility toward) dynastic wealth, reputational pressures on the new industrial rich, and limited U.S. state capacity wrt education, public health, and scientific research, were all contributing factors to their inception. \n\nThe second and more important piece of the story to me, though, is that sentiments like this give too much credit to the billionaires themselves. The *other* thing each of these men had was brilliant advisors. Rockefeller, for example, did not wake up one day and independently derive the idea to found one of the country’s greatest research universities (UChicago). It actually emerged from a network of Baptist educators and organizers, among them Frederick Taylor Gates, who would become Rockefeller’s principal philanthropic adviser.\n\nThere are so many examples of this throughout history, from Walter Damrosch (the young conductor who pitched the idea for a great concert hall to Andrew Carnegie, and you know the rest) to George Grey Barnard, the sculptor and art collector whose collection formed the basis of the Met Cloisters (currently working on assembling what I hope will be a comprehensive list of such efforts). \n\nThese were people capable either of converting a benefactor’s general desire to do something important into a specific institution, field, collection, research program, or public good, or simply of presenting them with an extraordinary idea worth backing.\n\nWhich is all to say that patronage is often a team sport! Yes, the capital ultimately has to come from somewhere, but I really do believe now might be the best time in history to become the person a very wealthy person relies upon to understand a particular domain, or to create the kind of cultural institution that you believe is important.\n\nSo yes, one interesting question is, “Where are the Carnegies?” \n\nBut also…where are the Frederick Taylor Gateses?",
+   "created_at": "Tue Oct 06 13:03:56 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "tamarawinter",
+   "rt_author_name": "Tamara Winter",
+   "likes": 285,
+   "retweets": 31,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-06T17:11:39.226228+00:00"
+  },
+  "2107435883062325411": {
+   "id": "2107435883062325411",
+   "url": "https://x.com/random_walker/status/2107435883062325411",
+   "text": "An interesting cognitive bias: \n\n\"GLM 5.3 is around as capable as Claude Mythos at cyber-exploitation while also having much lower safeguards, meaning that every additional day absent some dire cybersecurity incident is further evidence against catastrophic AI cyber-risk.\"\n\nThat's right. And yet it doesn't seem to be treated that way by many people in the safety community. It's like they have a one-way valve for their risk estimates.\n\nI was curious if this bias has already been talked about in lesswrong / EA circles and indeed it has, going all the way back to this 2007 Yudkowsky post \"Absence of Evidence Is Evidence of Absence\" https://t.co/GhJNYWRqeo",
+   "created_at": "Tue Oct 06 11:40:43 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 112,
+   "retweets": 11,
+   "media": [],
+   "quoted": {
+    "author": "NateWitkin",
+    "text": "Does anyone disagree that pretty much every piece of empirical evidence we have about actually existing AI points toward a labor-augmenting technology with a more-or-less ordinary risk profile (no worse than cars, guns, nuclear power, social media, etc.)?\n\nOn the labor front, the evidence of minimal / inconsequential employment effects so far is undeniably strong (see: https://t.co/xSX5ZXcA9a).\n\nOn the risk front, the recent spate of \"rogue agent\" incidents was akin to a set of natural experiment in which much of what could go wrong did, and the costs were comparable to or less than your typical high-profile cybersecurity breach (several of which happen around the world every month).\n\nNot only that, but the base rate of AI-related hacking incidents is extremely low, and with rare exception, model behavior during real-world use cases is exceedingly well-aligned. \n\nPlus, as Anthropic recently argued (https://t.co/zZcVKYdFY5), the open-source GLM 5.3 is around as capable as Claude Mythos at cyber-exploitation while also having much lower safeguards, meaning that every additional day absent some dire cybersecurity incident is further evidence against catastrophic AI cyber-risk.\n\nTaken together, these facts imply two constraints on arguments in favor of catastrophic AI risk:\n\n1) those arguments must either pass through future, rather than current capabilities, or future, rather than current varieties of AI adoption or implementation (or they must claim we have been unrealistically lucky);\n\n2) those arguments must also must pass through some specific capability or adoption threshold, rather than rapid improvement or adoption as such, since dramatic capability improvement and rapid adoption have already occurred alongside demonstrably low risk of catastrophic harm.\n\nIt is therefore natural that those concerned about catastrophic risk commonly appeal to recursive self-improvement, or RSI in order to make the case that things will get much scarier very soon.\n\nBut as @ramez has convincingly argued (https://t.co/zqenI73Hor), existing data on the reality of RSI within frontier labs neither suggests an inbound trend-break, nor the accelerating returns that might produce one. On the contrary, as is unsurprising to those familiar with the generally log-linear relationship between compute and model performance, all available signs points toward diminishing returns.\n\nAnd this is before considering external factors that could slow capability progress further, including low-hanging fruit effects related to running up against more complex or tacit-knowledge-based tasks for which performance data and verifiable reward signals are scarcer, plausibly incoming financing constraints related to the industry's massive capex commitments (see: https://t.co/HkL9k1SPMZ), growing political backlash, both to data centers in particular, but also rapid AI development writ large, and new regulatory bodies and industry reporting frameworks (see e.g. https://t.co/Q72ZBxGmi6 and https://t.co/pRYeN3C3oX ), which will require labs to proceed with greater caution from here on out.\n\nI am therefore led to conclude both that catastrophic AI risk is likely to remain negligible for the foreseeable future and that the only counterarguments concern massive black-swan-style capability uplifts no existing data imply are on the horizon, and/or particularly irresponsible or dangerous forms of AI adoption that there are also few precedents for so far (and that we are actively developing norms, regulation, and security measures against).\n\nNeither is impossible, meaning we should remain vigilant and that AI safety efforts will continue to be well worth it in the coming years. But I see no way around the conclusion that something akin to the \"normal technology\" view is superior on the empirical and argumentative merits to whatever variety of doomerism.\n\nWhat am I missing?"
+   },
+   "fetched_at": "2026-10-06T17:11:39.226228+00:00"
+  },
+  "2107429548774339032": {
+   "id": "2107429548774339032",
+   "url": "https://x.com/random_walker/status/2107429548774339032",
+   "text": "Does anyone disagree that pretty much every piece of empirical evidence we have about actually existing AI points toward a labor-augmenting technology with a more-or-less ordinary risk profile (no worse than cars, guns, nuclear power, social media, etc.)?\n\nOn the labor front, the evidence of minimal / inconsequential employment effects so far is undeniably strong (see: https://t.co/xSX5ZXcA9a).\n\nOn the risk front, the recent spate of \"rogue agent\" incidents was akin to a set of natural experiment in which much of what could go wrong did, and the costs were comparable to or less than your typical high-profile cybersecurity breach (several of which happen around the world every month).\n\nNot only that, but the base rate of AI-related hacking incidents is extremely low, and with rare exception, model behavior during real-world use cases is exceedingly well-aligned. \n\nPlus, as Anthropic recently argued (https://t.co/zZcVKYdFY5), the open-source GLM 5.3 is around as capable as Claude Mythos at cyber-exploitation while also having much lower safeguards, meaning that every additional day absent some dire cybersecurity incident is further evidence against catastrophic AI cyber-risk.\n\nTaken together, these facts imply two constraints on arguments in favor of catastrophic AI risk:\n\n1) those arguments must either pass through future, rather than current capabilities, or future, rather than current varieties of AI adoption or implementation (or they must claim we have been unrealistically lucky);\n\n2) those arguments must also must pass through some specific capability or adoption threshold, rather than rapid improvement or adoption as such, since dramatic capability improvement and rapid adoption have already occurred alongside demonstrably low risk of catastrophic harm.\n\nIt is therefore natural that those concerned about catastrophic risk commonly appeal to recursive self-improvement, or RSI in order to make the case that things will get much scarier very soon.\n\nBut as @ramez has convincingly argued (https://t.co/zqenI73Hor), existing data on the reality of RSI within frontier labs neither suggests an inbound trend-break, nor the accelerating returns that might produce one. On the contrary, as is unsurprising to those familiar with the generally log-linear relationship between compute and model performance, all available signs points toward diminishing returns.\n\nAnd this is before considering external factors that could slow capability progress further, including low-hanging fruit effects related to running up against more complex or tacit-knowledge-based tasks for which performance data and verifiable reward signals are scarcer, plausibly incoming financing constraints related to the industry's massive capex commitments (see: https://t.co/HkL9k1SPMZ), growing political backlash, both to data centers in particular, but also rapid AI development writ large, and new regulatory bodies and industry reporting frameworks (see e.g. https://t.co/Q72ZBxGmi6 and https://t.co/pRYeN3C3oX ), which will require labs to proceed with greater caution from here on out.\n\nI am therefore led to conclude both that catastrophic AI risk is likely to remain negligible for the foreseeable future and that the only counterarguments concern massive black-swan-style capability uplifts no existing data imply are on the horizon, and/or particularly irresponsible or dangerous forms of AI adoption that there are also few precedents for so far (and that we are actively developing norms, regulation, and security measures against).\n\nNeither is impossible, meaning we should remain vigilant and that AI safety efforts will continue to be well worth it in the coming years. But I see no way around the conclusion that something akin to the \"normal technology\" view is superior on the empirical and argumentative merits to whatever variety of doomerism.\n\nWhat am I missing?",
+   "created_at": "Tue Oct 06 11:15:33 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "NateWitkin",
+   "rt_author_name": "Nathan Witkin",
+   "likes": 185,
+   "retweets": 21,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-06T17:11:39.226228+00:00"
   }
  }
 }

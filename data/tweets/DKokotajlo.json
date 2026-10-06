@@ -1468,6 +1468,42 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2107505140941128089": {
+   "id": "2107505140941128089",
+   "url": "https://x.com/DKokotajlo/status/2107505140941128089",
+   "text": "basically it will require solving mechanistic interpretability as a bare minimum to make ai alignment into an engineering discipline rather than superintelligent animal husbandry",
+   "created_at": "Tue Oct 06 16:15:55 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "tszzl",
+   "rt_author_name": "roon",
+   "likes": 2048,
+   "retweets": 123,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-06T17:11:39.226228+00:00"
+  },
+  "2107248300353274238": {
+   "id": "2107248300353274238",
+   "url": "https://x.com/DKokotajlo/status/2107248300353274238",
+   "text": "@DavidSKrueger Good idea!",
+   "created_at": "Mon Oct 05 23:15:20 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "DavidSKrueger",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-06T17:11:39.226228+00:00"
   }
  }
 }

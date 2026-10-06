@@ -1684,6 +1684,104 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-05T22:01:58.322087+00:00"
+  },
+  "2107483525947781289": {
+   "id": "2107483525947781289",
+   "url": "https://x.com/testingham/status/2107483525947781289",
+   "text": "Interactive version: https://t.co/AMKb9FPmxW",
+   "created_at": "Tue Oct 06 14:50:02 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "testingham",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-06T17:11:39.226228+00:00"
+  },
+  "2107479914308079805": {
+   "id": "2107479914308079805",
+   "url": "https://x.com/testingham/status/2107479914308079805",
+   "text": "Slightly scary that the current frontier model (Opus 5.5) doesn't get below 50% on any of its benchmarks.",
+   "created_at": "Tue Oct 06 14:35:41 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "testingham",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 9,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-06T17:11:39.226228+00:00"
+  },
+  "2107479616424435949": {
+   "id": "2107479616424435949",
+   "url": "https://x.com/testingham/status/2107479616424435949",
+   "text": "ECI and its components\n\nECI treats each benchmark as having a logistic distribution, so it's linear in log-odds. This implies if you plot log-odds of each benchmark the lines should all be increasing together, though each has a different x-position (difficulty) and different dispersion (slope).",
+   "created_at": "Tue Oct 06 14:34:30 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 45,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HT9ER47aQAEzRI6.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-06T17:11:39.226228+00:00"
+  },
+  "2107335505453142077": {
+   "id": "2107335505453142077",
+   "url": "https://x.com/testingham/status/2107335505453142077",
+   "text": "@nathan84686947 Unfortunately not much historic experience to base it on",
+   "created_at": "Tue Oct 06 05:01:51 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "nathan84686947",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-06T17:11:39.226228+00:00"
+  },
+  "2107245298762526782": {
+   "id": "2107245298762526782",
+   "url": "https://x.com/testingham/status/2107245298762526782",
+   "text": "@_ueaj Sorry if I’m misunderstanding but I think we agree on this — see update from today https://t.co/euD8niPgA7",
+   "created_at": "Mon Oct 05 23:03:24 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "_ueaj",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "testingham",
+    "text": "More curves are bending. In mid-August Nate Rush & I posted an analysis of which discovery curves are starting to bend. What's happened since then?\n\nCyber vulnerabilities: curve is still bent. Discovery of vulnerabilities is accelerating even further, though exploited vulnerabilities remain fairly flat.\n\nMath: curve is further bent. We said there was a likely acceleration for small-scale problems. Since then there has been a claimed Millennium prize resolution, & credible rumors of another. All frequently-updated databases of open problems seem to be proceeding at a rapid rate.\n\nAlgorithms: curve is now bending. Two high profile algorithmic competitions have had big curve-bending events: NanoGPT, and the Hutter compression prize. Other frequently-updated series remain relatively unchanged: CIFAR-10, Stockfish, matrix-multiplication exponent.\n\nMore observations below."
+   },
+   "fetched_at": "2026-10-06T17:11:39.226228+00:00"
   }
  }
 }
