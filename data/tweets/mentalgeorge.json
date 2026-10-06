@@ -1460,6 +1460,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-06T17:11:39.226228+00:00"
+  },
+  "2107547578929688804": {
+   "id": "2107547578929688804",
+   "url": "https://x.com/mentalgeorge/status/2107547578929688804",
+   "text": "Check out our new work on \"how do Chinese AI firms make money\"!",
+   "created_at": "Tue Oct 06 19:04:33 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "cherylwoooo",
+   "rt_author_name": "Cheryl Wu",
+   "likes": 39,
+   "retweets": 6,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-06T20:21:02.762923+00:00"
   }
  }
 }

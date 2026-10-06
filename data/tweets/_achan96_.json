@@ -1274,6 +1274,50 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-06T17:11:39.226228+00:00"
+  },
+  "2107525402755203317": {
+   "id": "2107525402755203317",
+   "url": "https://x.com/_achan96_/status/2107525402755203317",
+   "text": "How do Chinese AI firms make money? In a new report, @cherylwoooo and @ansonwhho identify five revenue sources and analyze how much each contributes. 🧵 https://t.co/yScx74N5r5",
+   "created_at": "Tue Oct 06 17:36:26 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "EpochAIResearch",
+   "rt_author_name": "Epoch AI",
+   "likes": 150,
+   "retweets": 17,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HT9rkCDaMAAaIVj.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-06T20:21:02.762923+00:00"
+  },
+  "2107525394668958077": {
+   "id": "2107525394668958077",
+   "url": "https://x.com/_achan96_/status/2107525394668958077",
+   "text": "very informative and timely article from @cherylwoooo !!",
+   "created_at": "Tue Oct 06 17:36:24 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 14,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "EpochAIResearch",
+    "text": "How do Chinese AI firms make money? In a new report, @cherylwoooo and @ansonwhho identify five revenue sources and analyze how much each contributes. 🧵 https://t.co/yScx74N5r5"
+   },
+   "fetched_at": "2026-10-06T20:21:02.762923+00:00"
   }
  }
 }

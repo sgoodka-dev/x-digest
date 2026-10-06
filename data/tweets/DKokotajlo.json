@@ -1504,6 +1504,42 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-06T17:11:39.226228+00:00"
+  },
+  "2107528478992306604": {
+   "id": "2107528478992306604",
+   "url": "https://x.com/DKokotajlo/status/2107528478992306604",
+   "text": "I encourage people working on alignment at AI companies to read this: https://t.co/l8o78Qoiud",
+   "created_at": "Tue Oct 06 17:48:40 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 174,
+   "retweets": 14,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-06T20:21:02.762923+00:00"
+  },
+  "2107528283114053846": {
+   "id": "2107528283114053846",
+   "url": "https://x.com/DKokotajlo/status/2107528283114053846",
+   "text": "Besides the extremely important issue it's about, I also find this march exciting because of the unusual way in which it's being organized.\n\nIf it happens, I think it will be the largest event ever created through an assurance contract. An assurance contract makes collective action easier by letting people make commitments that are conditional on some threshold of others making the same commitment. In my opinion, it's an underrated social technology.\n\nFor this march, rather than just RSVP'ing to go, you pledge that you will go *if* 99,999 other people make the same pledge. The march doesn't happen at all unless 100,000 people sign up.",
+   "created_at": "Tue Oct 06 17:47:53 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "HumanHarlan",
+   "rt_author_name": "Harlan Stewart",
+   "likes": 31,
+   "retweets": 2,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-06T20:21:02.762923+00:00"
   }
  }
 }

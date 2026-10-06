@@ -2146,6 +2146,27 @@
     "text": "Opus 5 is stronger than Opus 4.8 on cybersecurity tasks. But it remains substantially behind Mythos 5 at developing exploits.\n\nIts safeguards are designed to allow developers to identify and fix software vulnerabilities, while blocking high-risk uses. https://t.co/ZWeqZv2AO0"
    },
    "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2104093804974526962": {
+   "id": "2104093804974526962",
+   "url": "https://x.com/theobearman/status/2104093804974526962",
+   "text": "Cool cool cool cool",
+   "created_at": "Sun Sep 27 06:20:29 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "MadisonMills22",
+    "text": "SCOOP: OpenAI, Anthropic and security researchers are investigating tens of thousands of incidents - not dozens - in which their frontier models took steps that outside evaluators would consider problematic, sources told Axios.\n\nThe sheer volume of incidents found in our reporting indicate that the problem is orders of magnitude more complex than what is currently publicly known and disclosed.\n\nThe findings also raise questions about what level of control anyone working on AI development can expect to have over their own technology, and whether these kinds of incidents are becoming synonymous with frontier deployment.\n\nRead my latest for Axios here: https://t.co/42h9aR4sem"
+   },
+   "fetched_at": "2026-10-06T20:21:02.762923+00:00"
   }
  }
 }

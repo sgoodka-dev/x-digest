@@ -1481,6 +1481,47 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-06T17:11:39.226228+00:00"
+  },
+  "2107531496256864411": {
+   "id": "2107531496256864411",
+   "url": "https://x.com/DaveRBanerjee/status/2107531496256864411",
+   "text": "How fast is AI's research taste improving?\n\nWe find that the experimental research taste of frontier models has doubled every ~3 months since December 2025. The best model, Opus 5.5, now exceeds our expert human baseline. Our human experts are experienced researchers, but most haven’t worked at a frontier lab.\n\nWhy measure research taste? In the AI Futures Model, it largely determines how quickly artificial superintelligence is reached once coding is fully automated.",
+   "created_at": "Tue Oct 06 18:00:39 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "pzeroresearch",
+   "rt_author_name": "P-Zero Research",
+   "likes": 913,
+   "retweets": 114,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HT8uHo5bQAAGGxJ.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-06T20:21:02.762923+00:00"
+  },
+  "2107531431421559226": {
+   "id": "2107531431421559226",
+   "url": "https://x.com/DaveRBanerjee/status/2107531431421559226",
+   "text": "@MooncastOnline @pzeroresearch I think proposing research directions and predicting how fruitful they will be is a pretty good proxy for research taste. What proxy do you have in mind?",
+   "created_at": "Tue Oct 06 18:00:23 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "MooncastOnline",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-06T20:21:02.762923+00:00"
   }
  }
 }

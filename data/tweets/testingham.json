@@ -1782,6 +1782,42 @@
     "text": "More curves are bending. In mid-August Nate Rush & I posted an analysis of which discovery curves are starting to bend. What's happened since then?\n\nCyber vulnerabilities: curve is still bent. Discovery of vulnerabilities is accelerating even further, though exploited vulnerabilities remain fairly flat.\n\nMath: curve is further bent. We said there was a likely acceleration for small-scale problems. Since then there has been a claimed Millennium prize resolution, & credible rumors of another. All frequently-updated databases of open problems seem to be proceeding at a rapid rate.\n\nAlgorithms: curve is now bending. Two high profile algorithmic competitions have had big curve-bending events: NanoGPT, and the Hutter compression prize. Other frequently-updated series remain relatively unchanged: CIFAR-10, Stockfish, matrix-multiplication exponent.\n\nMore observations below."
    },
    "fetched_at": "2026-10-06T17:11:39.226228+00:00"
+  },
+  "2107547040620466341": {
+   "id": "2107547040620466341",
+   "url": "https://x.com/testingham/status/2107547040620466341",
+   "text": "@drewtnguyen Yes - another nice thing is if you plot ECI against log-odds of the benchmark score you can quickly eyeball the functional form fit , eg whether benchmark scores are more skew than logistic , or have hit a ceiling",
+   "created_at": "Tue Oct 06 19:02:25 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "drewtnguyen",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-06T20:21:02.762923+00:00"
+  },
+  "2107546612499415474": {
+   "id": "2107546612499415474",
+   "url": "https://x.com/testingham/status/2107546612499415474",
+   "text": "@drewtnguyen Yep good points!",
+   "created_at": "Tue Oct 06 19:00:43 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "drewtnguyen",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-06T20:21:02.762923+00:00"
   }
  }
 }

@@ -1519,6 +1519,47 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-06T17:11:39.226228+00:00"
+  },
+  "2107542999270076873": {
+   "id": "2107542999270076873",
+   "url": "https://x.com/random_walker/status/2107542999270076873",
+   "text": "🚨SciConBench accepted at #NeurIPS2026!\n\nPaper: https://t.co/aVcTdvBLf1\n\nCan AI *synthesize* scientific conclusions in health? We find that, on medical conclusions, we are far from it!\n\nCheck out our live dashboard: https://t.co/S09mqaBLjZ\n\nw/@hayounggjung and @korolova https://t.co/eHtCiV5f5J",
+   "created_at": "Tue Oct 06 18:46:21 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "manoelribeiro",
+   "rt_author_name": "Manoel",
+   "likes": 27,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HT954gsW0AANhE_.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-06T20:21:02.762923+00:00"
+  },
+  "2107533695364260270": {
+   "id": "2107533695364260270",
+   "url": "https://x.com/random_walker/status/2107533695364260270",
+   "text": "Can two superforecasters + machine outperform machine in forecasting?\n\nWhen the machine first beat a human in chess there was a point in time when man + machine > machine.\n\nAt Preseen we’ve built out one of the best AI systems for forecasting. We wanted to see if two superforecasters working with our system could outperform the system itself.\n\nThey ended up narrowly beating the system, but what we learned was fairly surprising.\n\nA few takeaways:\n- Being a domain expert doesn’t map onto using an AI system well. Guiding superhuman (or at least on-par) AI requires a different skillset. Effectively working with an AI system requires an additional skill: knowing when and how your own expertise can improve its output.\n- Evaluating a centaur approach is non-stationary since the human’s behavior with the agent changes as they learn more about the constraints of the agents. If an agent has a few dimensions a human can interact with, the human’s use of those dimensions can change dramatically.\n- Human agreement could reinforce a mistake. On the three questions where overrides cost the most, the humans moved toward the community prediction. What looked like a sensible correction supported by other forecasters ended up hurting performance.",
+   "created_at": "Tue Oct 06 18:09:23 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "VminVsky",
+   "rt_author_name": "Veniamin Veselovsky",
+   "likes": 18,
+   "retweets": 5,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-06T20:21:02.762923+00:00"
   }
  }
 }
