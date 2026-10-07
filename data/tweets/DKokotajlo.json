@@ -1617,6 +1617,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-07T17:49:31.774547+00:00"
+  },
+  "2107912617771872579": {
+   "id": "2107912617771872579",
+   "url": "https://x.com/DKokotajlo/status/2107912617771872579",
+   "text": "@EpochAIResearch How does 3000 GPU-hours compare to what the human authors of the original paper used in their research leading up to their paper? Seems like it might be puny. Plus there were other human research groups running at the same time working on similar things probably that didn't get as lucky. Claude estimates about an OOM more GPU-hours went into the original paper probably.",
+   "created_at": "Wed Oct 07 19:15:05 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "EpochAIResearch",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-07T20:38:29.596945+00:00"
   }
  }
 }

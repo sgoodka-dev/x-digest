@@ -1596,6 +1596,65 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-07T17:49:31.774547+00:00"
+  },
+  "2107929170684576004": {
+   "id": "2107929170684576004",
+   "url": "https://x.com/DaveRBanerjee/status/2107929170684576004",
+   "text": "A tell from the Manhattan Project was that scientists who had been publishing about nuclear fission suddenly stopped publishing. As Justin points out here, the lack of cryptographic results in OpenAI's mathematical breakthrough could itself be a tell. Evidence against it would be if they published a few improvements that aren't massive breakthroughs.",
+   "created_at": "Wed Oct 07 20:20:52 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ArthurB",
+   "rt_author_name": "Arthur B.",
+   "likes": 2192,
+   "retweets": 136,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-07T20:38:29.596945+00:00"
+  },
+  "2107928766487904577": {
+   "id": "2107928766487904577",
+   "url": "https://x.com/DaveRBanerjee/status/2107928766487904577",
+   "text": "In order to notice when AI agents misbehave, AI companies often log the actions and reasoning steps their agents take. However, misaligned AI agents may be able to hack the software that humans use to review and understand these logs, hiding misbehavior.",
+   "created_at": "Wed Oct 07 20:19:16 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "METR_Evals",
+   "rt_author_name": "METR",
+   "likes": 564,
+   "retweets": 52,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-07T20:38:29.596945+00:00"
+  },
+  "2107928359426547873": {
+   "id": "2107928359426547873",
+   "url": "https://x.com/DaveRBanerjee/status/2107928359426547873",
+   "text": "ah but there is moral ambiguity https://t.co/xZzPhyET9s",
+   "created_at": "Wed Oct 07 20:17:38 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUDdfTWWoAALrcJ.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-07T20:38:29.596945+00:00"
   }
  }
 }

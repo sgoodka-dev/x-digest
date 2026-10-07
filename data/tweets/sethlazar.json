@@ -2308,6 +2308,42 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-07T17:49:31.774547+00:00"
+  },
+  "2107908234099224613": {
+   "id": "2107908234099224613",
+   "url": "https://x.com/sethlazar/status/2107908234099224613",
+   "text": "@judge_jen Hey Jen!! Closest I think would be @IasonGabriel and @Dr_Atoosa tho theirs is more of a taxonomy for understanding agents in practice than a sync-up with philosophical notions of agency: https://t.co/IWfYIkz0YR",
+   "created_at": "Wed Oct 07 18:57:40 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": true,
+   "reply_to": "judge_jen",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-07T20:38:29.596945+00:00"
+  },
+  "2107895869316173927": {
+   "id": "2107895869316173927",
+   "url": "https://x.com/sethlazar/status/2107895869316173927",
+   "text": "@victorckumar LLMs continue to be as incapable across many dimensions as they were pre GPT-4 (with a range of versions depending on knowledge cut-off)",
+   "created_at": "Wed Oct 07 18:08:32 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": true,
+   "reply_to": "victorckumar",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-07T20:38:29.596945+00:00"
   }
  }
 }

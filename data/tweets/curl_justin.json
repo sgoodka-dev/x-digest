@@ -1250,6 +1250,42 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-07T17:49:31.774547+00:00"
+  },
+  "2107900962925072453": {
+   "id": "2107900962925072453",
+   "url": "https://x.com/curl_justin/status/2107900962925072453",
+   "text": "@jordanschneider i’ll settle for good-ish!",
+   "created_at": "Wed Oct 07 18:28:47 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": true,
+   "reply_to": "jordanschneider",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-07T20:38:29.596945+00:00"
+  },
+  "2107892174545432780": {
+   "id": "2107892174545432780",
+   "url": "https://x.com/curl_justin/status/2107892174545432780",
+   "text": "@arthurctellis ah that’s what i feared… that’s all you",
+   "created_at": "Wed Oct 07 17:53:51 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": true,
+   "reply_to": "arthurctellis",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-07T20:38:29.596945+00:00"
   }
  }
 }

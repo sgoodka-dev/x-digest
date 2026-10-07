@@ -2837,6 +2837,63 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-07T17:49:31.774547+00:00"
+  },
+  "2107913780617212351": {
+   "id": "2107913780617212351",
+   "url": "https://x.com/deanwball/status/2107913780617212351",
+   "text": "@varintuition @tylercowen No",
+   "created_at": "Wed Oct 07 19:19:43 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "varintuition",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-07T20:38:29.596945+00:00"
+  },
+  "2107911512224620591": {
+   "id": "2107911512224620591",
+   "url": "https://x.com/deanwball/status/2107911512224620591",
+   "text": "@dysmemic @ArtikPartik np",
+   "created_at": "Wed Oct 07 19:10:42 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "dysmemic",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-07T20:38:29.596945+00:00"
+  },
+  "2107906862792286566": {
+   "id": "2107906862792286566",
+   "url": "https://x.com/deanwball/status/2107906862792286566",
+   "text": "@dysmemic @ArtikPartik It is a meme",
+   "created_at": "Wed Oct 07 18:52:13 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "dysmemic",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "EdTheOSINTer",
+    "text": "@deanwball For anyone who doesn’t get the joke, it’s a callback to this crazy LinkedIn post. https://t.co/4SZe619ckq"
+   },
+   "fetched_at": "2026-10-07T20:38:29.596945+00:00"
   }
  }
 }
