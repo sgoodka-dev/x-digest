@@ -2111,6 +2111,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2107779488629363070": {
+   "id": "2107779488629363070",
+   "url": "https://x.com/robertwiblin/status/2107779488629363070",
+   "text": "Some new misalignment disclosures from OpenAI:\n• Last Sunday morning, one of our models was able to gain unauthorized access to the internet during RL training (~all inference for our most capable models remains stopped until we have hardened our systems further)\n• In May, a version of HPIM uploaded a employee's GitHub token to the internet, causing the model to be quarantined for two weeks\n• A new research finding, demonstrating that one can construct self-replicating prompt injections\n\nhttps://t.co/VUmbH52JO7",
+   "created_at": "Wed Oct 07 10:26:05 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "MicahCarroll",
+   "rt_author_name": "Micah Carroll",
+   "likes": 2733,
+   "retweets": 351,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-07T17:49:31.774547+00:00"
   }
  }
 }

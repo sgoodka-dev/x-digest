@@ -1560,6 +1560,42 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-06T20:21:02.762923+00:00"
+  },
+  "2107859231080943723": {
+   "id": "2107859231080943723",
+   "url": "https://x.com/random_walker/status/2107859231080943723",
+   "text": "Reaction to the @slatestarcodex vs. @sapinker AI x-risk debate\n\nThe main problem with this debate is that both interlocutors are mainly focused on AI as a disembodied technological object that's fallen down from heaven, not a congealed mass of human decisions.\n\nScott has understood that there's nothing ontological about deep learning that'd prevent us from killing ourselves with it and that this risk gets worse as AI scales. But this is a trivial observation!\n\nHere's how to kill everyone with AI: put Opus 8.1-Killeveryone in charge of 100 bio labs; skimp on safety post-training; connect it to the Internet; let it develop affective relationships with the lab post-docs and its nihilist friends on Reddit; don't monitor it; have it work as a swarm to solve 'BioKillEveryoneGym' over a holiday break...\n\nIn fairness, Pinker and Alexander do touch on social processes. But if one is concerned with scenarios like these, 90% of the debate should focus on the social processes by which we risk creating them - incentives, culture, guardrails, ... - and on why we won't adapt and reach a reasonable equilibrium somewhere along the way.\n\nTo be clear, I'm very concerned about AI harms - including tail harms - but not very concerned about extinction risks. The burden is on Pinker and deep learning denialists to show that AI couldn't kill everyone under any circumstances (hard to defend); but the burden is on Alexander to show the social mechanisms by which we’d make the long sequence of low-probability unforced errors that would actually allow it to do this (seems hard to defend).\n\nWe could kill a lot of people with nuclear power plants. Here's how: don't monitor them. Fire all their safety engineers. Build them in the middle of all of the world's population centers and then cut off their water supplies whenever city budgets run low.\n\nThat we haven't done this is heartening; we should understand why. That there've been many accidents with dangerous technologies, especially in the earlier phases as we thrash towards a safety equilibrium, is disheartening; we should understand why those happened, too, and apply all those lessons to AI.",
+   "created_at": "Wed Oct 07 15:42:57 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "joshua_saxe",
+   "rt_author_name": "Joshua Saxe",
+   "likes": 40,
+   "retweets": 8,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-07T17:49:31.774547+00:00"
+  },
+  "2107785375582167519": {
+   "id": "2107785375582167519",
+   "url": "https://x.com/random_walker/status/2107785375582167519",
+   "text": "\"Even “normal” general-purpose technologies are initially volatile and dangerous, even those we come to think of as unalloyed goods.\" https://t.co/4tgeqOjS2a\n\nCompletely agree, and appreciate @DKThomp citing us making that very point. Emphasizing AI's similarity to past general purpose technologies should put more focus on this destabilization, not less.\n\n\"Practically every major technological revolution has been, at least partly and briefly, an economic, social, or political catastrophe. From this reading of history, it would be odd if AI arrived without significantly destabilizing some part of our world for the worse.\"",
+   "created_at": "Wed Oct 07 10:49:28 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 73,
+   "retweets": 14,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-07T17:49:31.774547+00:00"
   }
  }
 }

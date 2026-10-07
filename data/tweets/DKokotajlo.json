@@ -1540,6 +1540,83 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-06T20:21:02.762923+00:00"
+  },
+  "2107867656644919462": {
+   "id": "2107867656644919462",
+   "url": "https://x.com/DKokotajlo/status/2107867656644919462",
+   "text": "Daniel Ellsberg has a fantastic bit of writing about the impact of having access to classified/highly sensitive information on people's epistemics. \n\nI think it should be required reading when you join a frontier lab and learn all of the secrets.",
+   "created_at": "Wed Oct 07 16:16:26 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "idavidrein",
+   "rt_author_name": "david rein",
+   "likes": 683,
+   "retweets": 37,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-07T17:49:31.774547+00:00"
+  },
+  "2107614607523406127": {
+   "id": "2107614607523406127",
+   "url": "https://x.com/DKokotajlo/status/2107614607523406127",
+   "text": "Hilarious line from Scott Aaronson's new course on AI Alignment Theory https://t.co/taGEWZr1PH",
+   "created_at": "Tue Oct 06 23:30:54 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "DaveRBanerjee",
+   "rt_author_name": "Dave Banerjee",
+   "likes": 605,
+   "retweets": 54,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HT6IVOYXAAAm1kA.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-07T17:49:31.774547+00:00"
+  },
+  "2107609512337359241": {
+   "id": "2107609512337359241",
+   "url": "https://x.com/DKokotajlo/status/2107609512337359241",
+   "text": "@edzitron Yeah I think people are correct to be distrustful here.",
+   "created_at": "Tue Oct 06 23:10:39 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "edzitron",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 69,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-07T17:49:31.774547+00:00"
+  },
+  "2107603036554367322": {
+   "id": "2107603036554367322",
+   "url": "https://x.com/DKokotajlo/status/2107603036554367322",
+   "text": "\"It's not going to be Uncle Fluffy\"\n\nWe knew Scott's reply was going to be a tour de force as soon as Pinker's article was published, and he does not disappoint.\n\nhttps://t.co/Qz7o483qfZ",
+   "created_at": "Tue Oct 06 22:44:55 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ciphergoth",
+   "rt_author_name": "Paul Crowley",
+   "likes": 268,
+   "retweets": 22,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-07T17:49:31.774547+00:00"
   }
  }
 }

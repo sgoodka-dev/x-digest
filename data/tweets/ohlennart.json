@@ -1126,6 +1126,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2092691918304293293": {
+   "id": "2092691918304293293",
+   "url": "https://x.com/ohlennart/status/2092691918304293293",
+   "text": "*Note that all of this is ofc subject to lots of metrics like cache hits, context window, and more.",
+   "created_at": "Wed Aug 26 19:13:28 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": true,
+   "reply_to": "ohlennart",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-07T17:49:31.774547+00:00"
   }
  }
 }

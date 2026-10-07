@@ -1522,6 +1522,80 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-06T20:21:02.762923+00:00"
+  },
+  "2107868918970826820": {
+   "id": "2107868918970826820",
+   "url": "https://x.com/DaveRBanerjee/status/2107868918970826820",
+   "text": "OpenAI's internal model clearly has \"research taste\" in math - i.e., the final component we need to get to RSI.  \n\n- jboggan (post on Hacker News) on Barnette's Conjecture: \"the 'aha' insight for this is actually f**ing wild... this is the first time I've seen complex roots and annihilating terms like this... I don't understand where this trick originated.\"\n\n- Joshua Zelinsky on the proof that the chromatic number of the plane is at least six: \"doesn't look like the method is a direction that the prior lit used to my knowledge... far beyond merelt building on existing methods or seeing connections between different problems.\"\n\nand on two other problems (where he says he is only partly familiar with the literature): \"not remotely low-hanging fruit... it seems like the AI is somehow inventing new techniques on its own.\"\n\nThese match Tristian Buckmaster's view on the Navier-Stokes solution: \"you combine... ideas of convex integration with the growth mechanism of the Euler blowup, and... you create a new mechanism which is used to correct this non-solution. This is actually a cool idea. It's the kind of idea that I've been trying and failing to realize for over ten years... I didn't manage to do it... This is the leap.\"\n\nThe average amount of compute used to solve these problems was ~3 hours of Pro-level thinking.\n\nAnd so, this means that OpenAI's internal model is able to generate truly novel discoveries in mathematics for... maybe at most a few hundred bucks?\n\nIf I were OpenAI, I would be asking this model to immediately target major unsolved problems in AI R&D.",
+   "created_at": "Wed Oct 07 16:21:27 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "deredleritt3r",
+   "rt_author_name": "prinz",
+   "likes": 756,
+   "retweets": 92,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUB6HeEXgAAdS6H.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUB61fKWYAA-yYM.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUB7n5oWsAASimv.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUB8HKYXkAA4BZt.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-07T17:49:31.774547+00:00"
+  },
+  "2107574816748548570": {
+   "id": "2107574816748548570",
+   "url": "https://x.com/DaveRBanerjee/status/2107574816748548570",
+   "text": "I love being threatened with death for my views on the alignment problem!",
+   "created_at": "Tue Oct 06 20:52:47 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "farseer_tldr",
+    "text": "Can we put these people in lockers\n\nPreferably in the Mariana"
+   },
+   "fetched_at": "2026-10-07T17:49:31.774547+00:00"
+  },
+  "2107574210226803045": {
+   "id": "2107574210226803045",
+   "url": "https://x.com/DaveRBanerjee/status/2107574210226803045",
+   "text": "@peterbarnett_ have they been RL'ing super hard on math? I vaguely remember reading somewhere that OAI was very surprised that their models were so good at math, even though they weren't explicitly super duper RL'd on it.",
+   "created_at": "Tue Oct 06 20:50:23 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "peterbarnett_",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-07T17:49:31.774547+00:00"
   }
  }
 }
