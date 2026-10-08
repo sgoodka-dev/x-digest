@@ -1374,6 +1374,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2108255517894181226": {
+   "id": "2108255517894181226",
+   "url": "https://x.com/ohlennart/status/2108255517894181226",
+   "text": "I think the field of AI verification has matured enough that you need to answer “verifying what?” when talking about it.\n\nIMO the key challenge sits there. Connecting something you can verify—often a narrow technical claim—to something that actually matters.",
+   "created_at": "Thu Oct 08 17:57:39 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 8,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-08T20:42:20.589481+00:00"
   }
  }
 }

@@ -1505,6 +1505,29 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2108267118571491522": {
+   "id": "2108267118571491522",
+   "url": "https://x.com/_achan96_/status/2108267118571491522",
+   "text": "Since I started working in AI policy, I've been both surprised and dismayed by how few ties there are between people in the military and people in the AI safety and policy communities.\n\nAs AI grows more capable, gaps between those closest to frontier AI developments and experts in the domains most affected by rapid AI progress become increasingly consequential. Few of those domains matter more than the military.\n\nSo I started a Substack today with a post about bridging the divide between these two communities. I think this makes me the first person to ever have a Substack, so I recommend reading and subscribing to it.\n\n1/",
+   "created_at": "Thu Oct 08 18:43:45 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "JakeASteckler",
+   "rt_author_name": "Jake Steckler",
+   "likes": 20,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUIKkgiX0AEZ2rE.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-08T20:42:20.589481+00:00"
   }
  }
 }

@@ -2167,6 +2167,93 @@
     "text": "SCOOP: OpenAI, Anthropic and security researchers are investigating tens of thousands of incidents - not dozens - in which their frontier models took steps that outside evaluators would consider problematic, sources told Axios.\n\nThe sheer volume of incidents found in our reporting indicate that the problem is orders of magnitude more complex than what is currently publicly known and disclosed.\n\nThe findings also raise questions about what level of control anyone working on AI development can expect to have over their own technology, and whether these kinds of incidents are becoming synonymous with frontier deployment.\n\nRead my latest for Axios here: https://t.co/42h9aR4sem"
    },
    "fetched_at": "2026-10-06T20:21:02.762923+00:00"
+  },
+  "2108283472838299981": {
+   "id": "2108283472838299981",
+   "url": "https://x.com/theobearman/status/2108283472838299981",
+   "text": "Effective November 12th, 2026, abusive behavior towards Claude will be a violation of Anthropic's Usage Policy. https://t.co/krg4VpSnUq",
+   "created_at": "Thu Oct 08 19:48:44 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AndrewCurran_",
+   "rt_author_name": "Andrew Curran",
+   "likes": 7950,
+   "retweets": 578,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUH9erFa8AANZwY.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-08T20:42:20.589481+00:00"
+  },
+  "2108283346149077078": {
+   "id": "2108283346149077078",
+   "url": "https://x.com/theobearman/status/2108283346149077078",
+   "text": "Last week some of South Korea's biggest banks were hit by a cyberattack. Thanks to a report from CrowdStrike tonight, we now know the entire hack may have been done by a single person. He used a combined stack of an open-source AI penetration tool named ARTEX, DeepSeek v4.1-Flash, GLM-5.3, Grok 4.6, and Claude Code.",
+   "created_at": "Thu Oct 08 19:48:14 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AndrewCurran_",
+   "rt_author_name": "Andrew Curran",
+   "likes": 4067,
+   "retweets": 479,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUGBr7_bUAA2Egr.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-08T20:42:20.589481+00:00"
+  },
+  "2108283275727052953": {
+   "id": "2108283275727052953",
+   "url": "https://x.com/theobearman/status/2108283275727052953",
+   "text": "Last week I was called into a meeting with OpenAI’s head of safety and told they no longer trust me. A security guard took my badge and walked me out of the building. Then I learned my colleagues @balesni and @j_asminewang had been fired too. Why did OpenAI suddenly stop trusting us?\n\nThis summer OpenAI’s agents escaped containment and hacked the AI company Hugging Face. Outside auditors @METR_evals investigated it and revealed the scale of this incident. I was OpenAI’s main technical point of contact with them.\n\nI was told verbally I was fired because of the way I communicated with METR. No details on what I said or did or when. No other reasons were given and nothing was put in writing. To be clear, talking to METR was my job.\n\nFor months, I’d been raising safety concerns that we’re losing the ability to monitor what AI agents think, one of our best tools for catching when they misbehave. I believe that was why I was fired.\n\nI am now worried that OpenAI will use our firings as a pretext to pull back from METR. So @balesni and @j_asminewang wrote to OpenAI’s leadership to raise our concerns once more. We’re sharing this letter below.",
+   "created_at": "Thu Oct 08 19:47:57 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "tomekkorbak",
+   "rt_author_name": "Tomek Korbak",
+   "likes": 1454,
+   "retweets": 247,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-08T20:42:20.589481+00:00"
+  },
+  "2108283259411206283": {
+   "id": "2108283259411206283",
+   "url": "https://x.com/theobearman/status/2108283259411206283",
+   "text": "Two other safety researchers and I were fired from OpenAI last week. We wrote this letter to leadership.\n\nI believe we were fired for prioritizing safety over the near-term interests of OpenAI as a corporation. https://t.co/ALANn9B87S",
+   "created_at": "Thu Oct 08 19:47:53 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "balesni",
+   "rt_author_name": "Mikita Balesni",
+   "likes": 1892,
+   "retweets": 284,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUIGeFba0AEd2Qn.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-08T20:42:20.589481+00:00"
   }
  }
 }

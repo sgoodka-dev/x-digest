@@ -2442,6 +2442,71 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2108293235970052127": {
+   "id": "2108293235970052127",
+   "url": "https://x.com/robertwiblin/status/2108293235970052127",
+   "text": "Two other safety researchers and I were fired from OpenAI last week. We wrote this letter to leadership.\n\nI believe we were fired for prioritizing safety over the near-term interests of OpenAI as a corporation. https://t.co/ALANn9B87S",
+   "created_at": "Thu Oct 08 20:27:32 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "balesni",
+   "rt_author_name": "Mikita Balesni",
+   "likes": 1891,
+   "retweets": 284,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUIGeFba0AEd2Qn.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-08T20:42:20.589481+00:00"
+  },
+  "2108293013365522619": {
+   "id": "2108293013365522619",
+   "url": "https://x.com/robertwiblin/status/2108293013365522619",
+   "text": "The reason OpenAI gave for firing Jasmine seems overwhelmingly likely to have been pretextual rather than the actual reason.",
+   "created_at": "Thu Oct 08 20:26:39 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 11,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "j_asminewang",
+    "text": "OpenAI fired me last week, along with two of my safety colleagues. I was given one reason: that I accessed an executive's email. I want to say this plainly, because too many of OpenAI’s history is smoke and mirrors when people disappear:"
+   },
+   "fetched_at": "2026-10-08T20:42:20.589481+00:00"
+  },
+  "2108292442474602923": {
+   "id": "2108292442474602923",
+   "url": "https://x.com/robertwiblin/status/2108292442474602923",
+   "text": "Firing the person who liaises with your auditors because they allowed the auditors to just generally learn too much.",
+   "created_at": "Thu Oct 08 20:24:23 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 26,
+   "retweets": 7,
+   "media": [],
+   "quoted": {
+    "author": "tomekkorbak",
+    "text": "Last week I was called into a meeting with OpenAI’s head of safety and told they no longer trust me. A security guard took my badge and walked me out of the building. Then I learned my colleagues @balesni and @j_asminewang had been fired too. Why did OpenAI suddenly stop trusting us?\n\nThis summer OpenAI’s agents escaped containment and hacked the AI company Hugging Face. Outside auditors @METR_evals investigated it and revealed the scale of this incident. I was OpenAI’s main technical point of contact with them.\n\nI was told verbally I was fired because of the way I communicated with METR. No details on what I said or did or when. No other reasons were given and nothing was put in writing. To be clear, talking to METR was my job.\n\nFor months, I’d been raising safety concerns that we’re losing the ability to monitor what AI agents think, one of our best tools for catching when they misbehave. I believe that was why I was fired.\n\nI am now worried that OpenAI will use our firings as a pretext to pull back from METR. So @balesni and @j_asminewang wrote to OpenAI’s leadership to raise our concerns once more. We’re sharing this letter below."
+   },
+   "fetched_at": "2026-10-08T20:42:20.589481+00:00"
   }
  }
 }

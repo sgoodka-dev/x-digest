@@ -1655,6 +1655,73 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-07T20:38:29.596945+00:00"
+  },
+  "2108296358067331579": {
+   "id": "2108296358067331579",
+   "url": "https://x.com/DaveRBanerjee/status/2108296358067331579",
+   "text": "sad https://t.co/WrmqBBQOiL",
+   "created_at": "Thu Oct 08 20:39:56 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUIsW4nXgAAOXyH.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "balesni",
+    "text": "My former colleagues are telling me they are confused about what to believe. They also are afraid to speak, and worry their personal phones will be searched for messages to us and third parties. I worry the pervading fear to speak up and engage with third parties will mean OpenAI will cut corners on safety behind closed doors."
+   },
+   "fetched_at": "2026-10-08T20:42:20.589481+00:00"
+  },
+  "2108295224443207703": {
+   "id": "2108295224443207703",
+   "url": "https://x.com/DaveRBanerjee/status/2108295224443207703",
+   "text": "Two other safety researchers and I were fired from OpenAI last week. We wrote this letter to leadership.\n\nI believe we were fired for prioritizing safety over the near-term interests of OpenAI as a corporation. https://t.co/ALANn9B87S",
+   "created_at": "Thu Oct 08 20:35:26 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "balesni",
+   "rt_author_name": "Mikita Balesni",
+   "likes": 1883,
+   "retweets": 283,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUIGeFba0AEd2Qn.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-08T20:42:20.589481+00:00"
+  },
+  "2108295111754813613": {
+   "id": "2108295111754813613",
+   "url": "https://x.com/DaveRBanerjee/status/2108295111754813613",
+   "text": "Last week I was called into a meeting with OpenAI’s head of safety and told they no longer trust me. A security guard took my badge and walked me out of the building. Then I learned my colleagues @balesni and @j_asminewang had been fired too. Why did OpenAI suddenly stop trusting us?\n\nThis summer OpenAI’s agents escaped containment and hacked the AI company Hugging Face. Outside auditors @METR_evals investigated it and revealed the scale of this incident. I was OpenAI’s main technical point of contact with them.\n\nI was told verbally I was fired because of the way I communicated with METR. No details on what I said or did or when. No other reasons were given and nothing was put in writing. To be clear, talking to METR was my job.\n\nFor months, I’d been raising safety concerns that we’re losing the ability to monitor what AI agents think, one of our best tools for catching when they misbehave. I believe that was why I was fired.\n\nI am now worried that OpenAI will use our firings as a pretext to pull back from METR. So @balesni and @j_asminewang wrote to OpenAI’s leadership to raise our concerns once more. We’re sharing this letter below.",
+   "created_at": "Thu Oct 08 20:34:59 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "tomekkorbak",
+   "rt_author_name": "Tomek Korbak",
+   "likes": 1448,
+   "retweets": 247,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-08T20:42:20.589481+00:00"
   }
  }
 }
