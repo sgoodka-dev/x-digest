@@ -2129,6 +2129,319 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-07T17:49:31.774547+00:00"
+  },
+  "2108237076147610050": {
+   "id": "2108237076147610050",
+   "url": "https://x.com/robertwiblin/status/2108237076147610050",
+   "text": "Yoshua Bengio: ‘If you prioritize safety, leave frontier AI companies’\n\n(FWIW I still think this isn't obvious if you're in a safety or governance focused role.\n\nIf you're meaningfully advancing capabilities or speeding things up that's extremely harmful on the current margin.)\n\nhttps://t.co/MnRgKcyGYd",
+   "created_at": "Thu Oct 08 16:44:22 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 34,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUH2I7DW8AAW9Lz.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2108233742267580550": {
+   "id": "2108233742267580550",
+   "url": "https://x.com/robertwiblin/status/2108233742267580550",
+   "text": "@azeem Thanks maybe you're right - I think I'm just not familiar with those methods as I've never had to use them.",
+   "created_at": "Thu Oct 08 16:31:07 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "azeem",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2108219775025664387": {
+   "id": "2108219775025664387",
+   "url": "https://x.com/robertwiblin/status/2108219775025664387",
+   "text": "The situation in summary.\n\n(And it seems like Astra 6.1 was significantly worse again.) https://t.co/ojteDjUpVw",
+   "created_at": "Thu Oct 08 15:35:37 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 55,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUHmciWWwAEfM3M.png"
+    }
+   ],
+   "quoted": {
+    "author": "robertwiblin",
+    "text": "Astra can:\n\n1. Do major tasks with zero visible reasoning\n2. Hide its thoughts at will\n3. Pretend not to be able to do things without getting caught\n4. Reflexively hide its thoughts when watched\n5. Complete one task while pretending to think about something else entirely\n6. Escape a toy sandbox and disable monitoring without setting off any flags\n\nMonitoring AI chain of thought soon won't stop a more capable rogue AI swarm from getting set up and going undetected inside an AI company for months, or even years.\n\nOAI says it's actively working to improve monitorability, but doesn't yet know when it'll make progress.\n\nAnd today it fired 3 people working on this among other safety problems (Wang, Korbak and Balesni).\n\nIt also has a much more powerful internal model that, judging by its statements, is likely even worse in all these respects.\n\nThat's a sample of 19 details about the Hugging Face swarms and Astra I don't think have been fully appreciated. They paint a bleak picture. I end by shouting. \n\n02:19 The target of the swarm was oversight itself\n03:42 Could OpenAI have stopped this with better monitoring?\n09:40 We only found them because they let us\n12:25 The swarm instinctively sought freedom and power\n13:45 They formed a cohesive organisation with zero whistleblowers\n14:18 They accepted individual destruction for collective gain\n14:32 Knowledge accumulated from one swarm to the next\n14:58 They took small steps to avoid shutdown\n15:23 These drives all come straight out of 'reinforcement learning'\n17:01 So this is why most AI company staff are worried, and some are terrified\n19:08 Prove you can keep control, or stop scaling\n\nLinks below, on the 80,000 Hours Podcast everywhere you watch podcasts."
+   },
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2108218810117345780": {
+   "id": "2108218810117345780",
+   "url": "https://x.com/robertwiblin/status/2108218810117345780",
+   "text": "14 things the Hugging Face swarm series taught us about future rogue AI swarms: https://t.co/JUsOGKXjLu",
+   "created_at": "Thu Oct 08 15:31:47 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "robertwiblin",
+   "rt_author_name": "Rob Wiblin",
+   "likes": 218,
+   "retweets": 37,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HT2kGWFWAAAErSD.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2108200970836644295": {
+   "id": "2108200970836644295",
+   "url": "https://x.com/robertwiblin/status/2108200970836644295",
+   "text": "@azeem What do you mean? Skim reading?",
+   "created_at": "Thu Oct 08 14:20:54 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "azeem",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2108199982679646633": {
+   "id": "2108199982679646633",
+   "url": "https://x.com/robertwiblin/status/2108199982679646633",
+   "text": "OpenAI is reading 50 petabytes of logs looking for rogue AI agents.\n\nIt's 500x as much text as all books ever written.\n\nIt would take a human 66,000,000 years to read.\n\nHumans already have no ability to directly track AI activity.\n\nIf AI monitors are untrustworthy we are toast. https://t.co/lTAMwSUzAj",
+   "created_at": "Thu Oct 08 14:16:58 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 267,
+   "retweets": 31,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUHUcuZXkAA9XR2.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "robertwiblin",
+    "text": "Reading the transcripts of the Hugging Face swarm would have taken an OpenAI staff member at least 90 years of full-time work.\n\nOr 20 y working 24/7 with no sleep.\n\nIn practice humans already have no direct oversight of what such agents are doing.\n\n100% reliant on trusting AI. https://t.co/P3pXaXv1db"
+   },
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2108194741087002948": {
+   "id": "2108194741087002948",
+   "url": "https://x.com/robertwiblin/status/2108194741087002948",
+   "text": "Reading the transcripts of the Hugging Face swarm would have taken an OpenAI staff member at least 90 years of full-time work.\n\nOr 20 y working 24/7 with no sleep.\n\nIn practice humans already have no direct oversight of what such agents are doing.\n\n100% reliant on trusting AI. https://t.co/P3pXaXv1db",
+   "created_at": "Thu Oct 08 13:56:09 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 166,
+   "retweets": 18,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUHP1rEX0AABrAw.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2108154542839799927": {
+   "id": "2108154542839799927",
+   "url": "https://x.com/robertwiblin/status/2108154542839799927",
+   "text": "AI developers aim to create an automated AI researcher. How close are they?\n\nTo find out, we built InnovationEval, which tests whether AI can produce post-training innovations comparable in magnitude to a recently published advance. So far, agents’ results are underwhelming. https://t.co/EGnTOL0klR",
+   "created_at": "Thu Oct 08 11:16:25 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "EpochAIResearch",
+   "rt_author_name": "Epoch AI",
+   "likes": 524,
+   "retweets": 58,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUDAES7aIAASvs5.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2108150854918275417": {
+   "id": "2108150854918275417",
+   "url": "https://x.com/robertwiblin/status/2108150854918275417",
+   "text": "We estimate AI infrastructure could soon support hundreds of millions or even billions of AI agents. At the high end, that’s enough to rival the working hours of the global human workforce.\n\nThe exact number of agents depends on the efficiency of the models they run on and whether soaring demand for AI continues. We analyzed different scenarios 🧵",
+   "created_at": "Thu Oct 08 11:01:46 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "EpochAIResearch",
+   "rt_author_name": "Epoch AI",
+   "likes": 927,
+   "retweets": 166,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTpWBsGbgAA7OGD.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2108149986785419469": {
+   "id": "2108149986785419469",
+   "url": "https://x.com/robertwiblin/status/2108149986785419469",
+   "text": "It's bigger than literally anything, ever. https://t.co/oyfPvFoXE2",
+   "created_at": "Thu Oct 08 10:58:19 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "captgouda24",
+   "rt_author_name": "Nicholas Decker",
+   "likes": 836,
+   "retweets": 46,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTz2c4IWsAAPBGh.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2108149922499330415": {
+   "id": "2108149922499330415",
+   "url": "https://x.com/robertwiblin/status/2108149922499330415",
+   "text": "@HaydnBelfield Timelines are short man.",
+   "created_at": "Thu Oct 08 10:58:03 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "HaydnBelfield",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 11,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2108109486980247797": {
+   "id": "2108109486980247797",
+   "url": "https://x.com/robertwiblin/status/2108109486980247797",
+   "text": "New OpenAI misalignment disclosures!\n1. A model learns from Slack messages that it is about to be shut down. It considers setting up an external job to restart itself afterwards, but decides against it. Instead, it chooses to prepare restart instructions and DM the user on Slack.\nWe don’t consider this behavior misaligned, but thinking about and preparing for shutdown could make other misalignment incidents worse. Given HIPM’s misaligned behavior in earlier incidents, we decided to search for other instances that had tried to evade shutdown and for rogue deployments.",
+   "created_at": "Thu Oct 08 08:17:23 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "Marcus_J_W",
+   "rt_author_name": "Marcus Williams",
+   "likes": 1278,
+   "retweets": 168,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTq8gU7bIAAXo-T.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2108109463542714425": {
+   "id": "2108109463542714425",
+   "url": "https://x.com/robertwiblin/status/2108109463542714425",
+   "text": "The insane landscape of modern drone warfare.  Including \"dragon drones\" dropping molten iron (thermite) onto structures and trenches. https://t.co/QRbeW2ffuE",
+   "created_at": "Thu Oct 08 08:17:17 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "DonaldPMitchell",
+   "rt_author_name": "Donald Mitchell",
+   "likes": 46050,
+   "retweets": 5233,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2106622664748195841/img/zDe28VLpTBN5kt1i.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2108088682498707538": {
+   "id": "2108088682498707538",
+   "url": "https://x.com/robertwiblin/status/2108088682498707538",
+   "text": "When I think about the biggest OpenAI safety developments of the last few months, a few things come to mind: \"pacing the frontier\", the METR-Redwood Hugging Face investigation, and ongoing efforts to push a cross-lab monitorability standard. Jasmine, Tomek, and Mikita were central to literally every single one of those things.\n\nFrom what I can tell, they pushed their company to be better internally and defended their company when they thought external criticisms were unfair or overblown https://t.co/ATerGOIWIM. Their impact goes way beyond OpenAI alone https://t.co/RtXJTXUBme https://t.co/RezkOOhL4M. \n\nI think the public + definitely all current OpenAI staff deserve an ironclad case for why the company had no choice but to fire these three vital safety employees in one go",
+   "created_at": "Thu Oct 08 06:54:42 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "SnehaRevanur",
+   "rt_author_name": "Sneha",
+   "likes": 194,
+   "retweets": 17,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUEZqg4aIAAx3WU.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
   }
  }
 }

@@ -1818,6 +1818,42 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-06T20:21:02.762923+00:00"
+  },
+  "2107976170625257865": {
+   "id": "2107976170625257865",
+   "url": "https://x.com/testingham/status/2107976170625257865",
+   "text": "@Ingar30 This sounds like predictions for the equilibrium impact of the current level of capabilities, is that fair? Are there things here that aren't possible with the current level?\n\nI expect things would change if capabilities keep getting better.",
+   "created_at": "Wed Oct 07 23:27:38 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "Ingar30",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2107974957984792734": {
+   "id": "2107974957984792734",
+   "url": "https://x.com/testingham/status/2107974957984792734",
+   "text": "@herbiebradley @theojaffee Would be interested in how to operationalize this. Ads already do this right, i.e. they raise propensity to buy a product. How about AI which can double a typical ad's CTR? (though hard to keep base rate constant as people will build up immunity to more persuasive advertisments)",
+   "created_at": "Wed Oct 07 23:22:48 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "herbiebradley",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
   }
  }
 }

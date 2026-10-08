@@ -1318,6 +1318,193 @@
     "text": "How do Chinese AI firms make money? In a new report, @cherylwoooo and @ansonwhho identify five revenue sources and analyze how much each contributes. 🧵 https://t.co/yScx74N5r5"
    },
    "fetched_at": "2026-10-06T20:21:02.762923+00:00"
+  },
+  "2108193891451023642": {
+   "id": "2108193891451023642",
+   "url": "https://x.com/_achan96_/status/2108193891451023642",
+   "text": ".@theojaffee says OpenAI’s math results made him \"less AGI-pilled.\" @cherylwoooo explains why they may actually make RSI more plausible:\n\n\"There are capabilities that are narrow, where a self-sustaining acceleration could happen, but it doesn't generalize to a broader capability that could cause more economic consequences.\"\n\n\"We've been seeing more discoveries over the last year on algorithmic progress. There were two pull requests on NanoGPT that basically made more than one year of improvements within one pull request. In the last one month, there were two of them.\"\n\n\"That's evidence that there's gonna be more progress happening down the road, as well as math progressing, and more discoveries of vulnerabilities.\"\n@ElasticityInst",
+   "created_at": "Thu Oct 08 13:52:46 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "MTSlive",
+   "rt_author_name": "MTS",
+   "likes": 61,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2107942241713143808/img/OPsBSnHlKcr10Dug.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2107947618735472975": {
+   "id": "2107947618735472975",
+   "url": "https://x.com/_achan96_/status/2107947618735472975",
+   "text": "AI developers aim to create an automated AI researcher. How close are they?\n\nTo find out, we built InnovationEval, which tests whether AI can produce post-training innovations comparable in magnitude to a recently published advance. So far, agents’ results are underwhelming. https://t.co/EGnTOL0klR",
+   "created_at": "Wed Oct 07 21:34:10 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "EpochAIResearch",
+   "rt_author_name": "Epoch AI",
+   "likes": 524,
+   "retweets": 58,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUDAES7aIAASvs5.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2104578615631581639": {
+   "id": "2104578615631581639",
+   "url": "https://x.com/_achan96_/status/2104578615631581639",
+   "text": "Links again\n\nLanding page: https://t.co/s3OoAWu3Sr\n\nPaper: https://t.co/GXeuOJMGvX\n\nExecutive summary: https://t.co/iBdyKTBQon\n\nWSJ article: https://t.co/45gcVfH7l2",
+   "created_at": "Mon Sep 28 14:26:57 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": true,
+   "reply_to": "_achan96_",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 17,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2104578612867256770": {
+   "id": "2104578612867256770",
+   "url": "https://x.com/_achan96_/status/2104578612867256770",
+   "text": "I'm extremely grateful to all of my co-authors for all the work they've put in over many months to get this paper out! @Christophkw Andrew Barto @merettm @geoffreyhinton @erichorvitz @Yoshua_Bengio @dawnsongtweets @jackclarkSF Hilary Greaves @akorinek @hamandcheese @ThoreG Ben Bariach @philiptorr @SheilaMcIlraith @jeffclune @sj_manning @girishsastry @TomDavidsonX @daniel_271828 @sorenmind\n\nThanks as well to @ZilanQian for providing a Chinese translation of the piece and to Taylor Jones for creating the figures!",
+   "created_at": "Mon Sep 28 14:26:57 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": true,
+   "reply_to": "_achan96_",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 17,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2104578610187108514": {
+   "id": "2104578610187108514",
+   "url": "https://x.com/_achan96_/status/2104578610187108514",
+   "text": "An intelligence explosion could pose extreme risks to society, such as by eroding checks on power and making us lose control over powerful AI systems.\n\nTo prepare for this possibility, we recommend that policymakers—including heads of government—urgently prioritize\n\n1) Obtaining visibility into AI R&D automation\n2) Developing ways to steer and constrain an intelligence explosion\n3) Preparing society for the impacts of an intelligence explosion",
+   "created_at": "Mon Sep 28 14:26:56 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": true,
+   "reply_to": "_achan96_",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 26,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTT2kztXYAAv4mr.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2104578606974308451": {
+   "id": "2104578606974308451",
+   "url": "https://x.com/_achan96_/status/2104578606974308451",
+   "text": "On current trends, it’s possible that AI research & development (R&D) will be fully automated within the next few years. We should take this seriously.\n\nAlthough the existing evidence is preliminary and sometimes mixed, it suggests that this positive feedback loop could lead to an “intelligence explosion” that compresses years of AI progress into months or less.",
+   "created_at": "Mon Sep 28 14:26:55 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": true,
+   "reply_to": "_achan96_",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 25,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTT2b7UWkAANayD.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2104578605078765944": {
+   "id": "2104578605078765944",
+   "url": "https://x.com/_achan96_/status/2104578605078765944",
+   "text": "Links\n\nLanding page: https://t.co/s3OoAWu3Sr\n\nPaper: https://t.co/GXeuOJMGvX\n\nExecutive summary: https://t.co/iBdyKTBQon",
+   "created_at": "Mon Sep 28 14:26:55 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": true,
+   "reply_to": "_achan96_",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 27,
+   "retweets": 2,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2104578601941361077": {
+   "id": "2104578601941361077",
+   "url": "https://x.com/_achan96_/status/2104578601941361077",
+   "text": "Grateful also to have our work covered in the WSJ today https://t.co/45gcVfH7l2 https://t.co/PGSgOgRYA9",
+   "created_at": "Mon Sep 28 14:26:54 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": true,
+   "reply_to": "_achan96_",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 44,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTT2RiJWMAA23ZT.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2102998843574894706": {
+   "id": "2102998843574894706",
+   "url": "https://x.com/_achan96_/status/2102998843574894706",
+   "text": "@karthiktadepall Why is dna sequencing so unusual",
+   "created_at": "Thu Sep 24 05:49:30 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": true,
+   "reply_to": "karthiktadepall",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
   }
  }
 }

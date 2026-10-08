@@ -2072,6 +2072,29 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-06T17:11:39.226228+00:00"
+  },
+  "2108180666651406723": {
+   "id": "2108180666651406723",
+   "url": "https://x.com/anton_d_leicht/status/2108180666651406723",
+   "text": "'Industrial AI' is usually cope. Countries think they don't need frontier AI, and try to get by on industrial data and rampant protectionism instead.\n\nToday's piece argues for a better deal: America makes the tokens, allies turn them into cancer cures, drones and robots.\n\nhttps://t.co/bMTh5BvkCC",
+   "created_at": "Thu Oct 08 13:00:13 +0000 2026",
+   "author_handle": "anton_d_leicht",
+   "author_name": "Anton Leicht",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 43,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUHDJO8boAAZU9s.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-08T17:52:40.360481+00:00"
   }
  }
 }
