@@ -2095,6 +2095,32 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2108545774191837496": {
+   "id": "2108545774191837496",
+   "url": "https://x.com/anton_d_leicht/status/2108545774191837496",
+   "text": "America might get to AGI before it manages to reindustrialise. That means there's room for an international version of 'industrial AI', where America makes the tokes and its allies build chips, robots, and missiles.\n\n(1) America needs allied factories. The US only accounts for 15% of global manufacturing, China for 32%; but the US+allies have 43%. @RushDoshi argues this should generally motivate 'allied scale', but it's particularly urgent in AI. If a country of geniuses in a datacenter is supposed to cure cancer or beat China, someone still has to manufacture the cures or produce the drones at scale.\n\n(2) American reindustrialisation alone is not enough. The US economy seems afflicted by 'AI Dutch Disease', absorbing all its capital and capacity into more and more AI buildout (also discussed this week by @DKThomp!). Allies that can't build AGI have no better alternative, their economies are less dominated by the build-out, so they're better-suited to scale up manufacturing.\n\n(3) Allies need American models. Proprietary industrial data is valuable. But it's a complement, not a substitute, for frontier AI: it's most valuable for building post-training pipelines on top of powerful general-purpose models. Allowing for US integration is the only way to make use of this data before it becomes obsolete due to synthetic data down the road.\n\n(4) It's still very hard to stabilise this deal. Allies are worried that Americans siphon off all their IP; Americans are worried that their models get commodified. Figuring out a good deal is the most important next step; I suspect it's (a) exclusive joint ventures between allied industrial firms and American labs with (b) proprietary post-training of specialised models that don't leave the premises of the specific JV.\n\n(5) Waiting makes the deal worse. If allies keep dismissing American AI progress, and Americans keep hoping they can go it alone, we all lose out: allies will have to come crawling back and get a much worse deal later on, and America loses out on years of highly productive industrial integration.\n\nMuch more in this week's piece: https://t.co/bMTh5BvkCC",
+   "created_at": "Fri Oct 09 13:11:02 +0000 2026",
+   "author_handle": "anton_d_leicht",
+   "author_name": "Anton Leicht",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 41,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUMPNPJbkAAVfc1.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "DKThomp",
+    "text": "I’d love economists to take a crack at this theory that the US is experiencing a mini-Dutch Disease effect from AI.\n\nMy big-picture thesis about AI economics right now is that while the discussion about AI safety and existential risk is important, AI’s construction is changing the world faster than its capabilities."
+   },
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
   }
  }
 }

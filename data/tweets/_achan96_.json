@@ -1528,6 +1528,132 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-08T20:42:20.589481+00:00"
+  },
+  "2108595227430690823": {
+   "id": "2108595227430690823",
+   "url": "https://x.com/_achan96_/status/2108595227430690823",
+   "text": "New paper.\nPrevious: Models transfer a love of owls through sequences of numbers (Subliminal Learning).\nNew: We show models can transfer more complex traits: novel skills, agentic hacking, backdoors. Here, a backdoor transfers with neither trigger nor behavior in the data! https://t.co/EbcqsEfDEV",
+   "created_at": "Fri Oct 09 16:27:32 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "OwainEvans_UK",
+   "rt_author_name": "Owain Evans",
+   "likes": 260,
+   "retweets": 41,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUM2y4uasAA0bHx.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108577058339074549": {
+   "id": "2108577058339074549",
+   "url": "https://x.com/_achan96_/status/2108577058339074549",
+   "text": "Frontier AI companies have committed to giving outside evaluators employee-like access to training, evaluation and deployment. We're very excited about this. But its impact depends heavily on implementation.\n\nToday we're sharing our principles for embedded evaluations. 🧵 https://t.co/2u8Yxxj6Ei",
+   "created_at": "Fri Oct 09 15:15:20 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ApolloResearch",
+   "rt_author_name": "Apollo Research",
+   "likes": 96,
+   "retweets": 23,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2105330256886308864/img/nZk8Az_Mept6ppHx.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108312420716253364": {
+   "id": "2108312420716253364",
+   "url": "https://x.com/_achan96_/status/2108312420716253364",
+   "text": "OpenAI fired me last week, along with two of my safety colleagues. I was given one reason: that I accessed an executive's email. I want to say this plainly, because too many of OpenAI’s history is smoke and mirrors when people disappear:",
+   "created_at": "Thu Oct 08 21:43:46 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "j_asminewang",
+   "rt_author_name": "Jasmine Wang",
+   "likes": 8646,
+   "retweets": 1150,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108308842958225704": {
+   "id": "2108308842958225704",
+   "url": "https://x.com/_achan96_/status/2108308842958225704",
+   "text": "Two other safety researchers and I were fired from OpenAI last week. We wrote this letter to leadership.\n\nI believe we were fired for prioritizing safety over the near-term interests of OpenAI as a corporation. https://t.co/ALANn9B87S",
+   "created_at": "Thu Oct 08 21:29:33 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "balesni",
+   "rt_author_name": "Mikita Balesni",
+   "likes": 4772,
+   "retweets": 705,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUIGeFba0AEd2Qn.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108308295886782885": {
+   "id": "2108308295886782885",
+   "url": "https://x.com/_achan96_/status/2108308295886782885",
+   "text": "looks really bad",
+   "created_at": "Thu Oct 08 21:27:22 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 51,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "tomekkorbak",
+    "text": "Last week I was called into a meeting with OpenAI’s head of safety and told they no longer trust me. A security guard took my badge and walked me out of the building. Then I learned my colleagues @balesni and @j_asminewang had been fired too. Why did OpenAI suddenly stop trusting us?\n\nThis summer OpenAI’s agents escaped containment and hacked the AI company Hugging Face. Outside auditors @METR_evals investigated it and revealed the scale of this incident. I was OpenAI’s main technical point of contact with them.\n\nI was told verbally I was fired because of the way I communicated with METR. No details on what I said or did or when. No other reasons were given and nothing was put in writing. To be clear, talking to METR was my job.\n\nFor months, I’d been raising safety concerns that we’re losing the ability to monitor what AI agents think, one of our best tools for catching when they misbehave. I believe that was why I was fired.\n\nI am now worried that OpenAI will use our firings as a pretext to pull back from METR. So @balesni and @j_asminewang wrote to OpenAI’s leadership to raise our concerns once more. We’re sharing this letter below."
+   },
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2100963056272695629": {
+   "id": "2100963056272695629",
+   "url": "https://x.com/_achan96_/status/2100963056272695629",
+   "text": "Link: https://t.co/h34uMTnlsN\n\nPotentially of interest to @ghadfield @sethlazar @IasonGabriel @lrhammond @ohlennart @deanwball",
+   "created_at": "Fri Sep 18 15:00:01 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": true,
+   "reply_to": "_achan96_",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 16,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
   }
  }
 }

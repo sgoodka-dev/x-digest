@@ -2507,6 +2507,232 @@
     "text": "Last week I was called into a meeting with OpenAI’s head of safety and told they no longer trust me. A security guard took my badge and walked me out of the building. Then I learned my colleagues @balesni and @j_asminewang had been fired too. Why did OpenAI suddenly stop trusting us?\n\nThis summer OpenAI’s agents escaped containment and hacked the AI company Hugging Face. Outside auditors @METR_evals investigated it and revealed the scale of this incident. I was OpenAI’s main technical point of contact with them.\n\nI was told verbally I was fired because of the way I communicated with METR. No details on what I said or did or when. No other reasons were given and nothing was put in writing. To be clear, talking to METR was my job.\n\nFor months, I’d been raising safety concerns that we’re losing the ability to monitor what AI agents think, one of our best tools for catching when they misbehave. I believe that was why I was fired.\n\nI am now worried that OpenAI will use our firings as a pretext to pull back from METR. So @balesni and @j_asminewang wrote to OpenAI’s leadership to raise our concerns once more. We’re sharing this letter below."
    },
    "fetched_at": "2026-10-08T20:42:20.589481+00:00"
+  },
+  "2108545723759300800": {
+   "id": "2108545723759300800",
+   "url": "https://x.com/robertwiblin/status/2108545723759300800",
+   "text": "I don't usually use Epoch's projected revenue numbers that just assume past reported trends continue through the present day, but if you want to see where that assumption gets us to it's here: https://t.co/isjemYdLdo https://t.co/fRTXHoFHdg",
+   "created_at": "Fri Oct 09 13:10:50 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUMO6VvWEAAlucN.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108545720995438894": {
+   "id": "2108545720995438894",
+   "url": "https://x.com/robertwiblin/status/2108545720995438894",
+   "text": "I was hoping this new data was evidence that the AI revenue --&gt; model scaling --&gt; AI revenue flywheel was weakening.\n\nBut it's kind of hard to look at this chart of AI industry revenue growth and feel much calmer about anything. https://t.co/fQp3Vc4UtD",
+   "created_at": "Fri Oct 09 13:10:49 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 21,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUMOuWoWoAAQ7Ea.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUMOu3VWMAA6Tsm.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108544014064742472": {
+   "id": "2108544014064742472",
+   "url": "https://x.com/robertwiblin/status/2108544014064742472",
+   "text": "For the 1st time since the HuggingFace attack, OpenAI had an unaligned agent break through their new sandbox and access the live internet to cheat. Their monitor caught this, but their new software to automatically stop it failed to run, so the agent kept going for 2 more hours…",
+   "created_at": "Fri Oct 09 13:04:02 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "tobyordoxford",
+   "rt_author_name": "Toby Ord",
+   "likes": 601,
+   "retweets": 86,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108543936138461338": {
+   "id": "2108543936138461338",
+   "url": "https://x.com/robertwiblin/status/2108543936138461338",
+   "text": "Excellent article by @ramez exploring how close current AI systems are to triggering an intelligence explosion. Many pieces on recursive self-improvement assume the AI starts out at least as good as a human on all relevant aspects of AI R&D. Then they can draw extensively on the data about human-driven R&D. They combine this with a small amount of AI-specific data to reach conclusions about whether this would explode.\nIn contrast, Ramez is starting with the data on current AI systems and how they scale to see how close they are to explosive RSI. He generates his conclusions via frameworks and data that are widely supported by those who think an intelligence explosion is likely, so I'd strongly encourage people who are bullish about this to engage with his work. By drawing out the key pieces of evidence against explosive growth, he is also highlighting important parameters for people to track to see if the situation changes.\nI agree with a lot of his analysis and his conclusion that it doesn't look like their current returns from self-improvement are enough to drive explosive growth in their capabilities.\nThis doesn't mean it won't happen or that it is a responsible thing for people to pursue. It is a bit like saying in 1939 that current techniques for nuclear chain reactions don't seem to be scaling towards a point of criticality (r > 1). That is useful information, though it doesn't mean we should be sanguine about further research on achieving critical chain reactions. \nhttps://t.co/KbR4EE4QDe",
+   "created_at": "Fri Oct 09 13:03:43 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "tobyordoxford",
+   "rt_author_name": "Toby Ord",
+   "likes": 265,
+   "retweets": 33,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108534199770546302": {
+   "id": "2108534199770546302",
+   "url": "https://x.com/robertwiblin/status/2108534199770546302",
+   "text": "Who'd have guessed that the people accusing AI Safety advocates of being a psyop with shady financing trying to mislead people, were a psyop with shady financing trying to mislead people?\n\n> For the past few weeks, a group with plans to spend at least $100 million, run by a former White House deputy chief of staff, has spent its days telling Americans that warnings about AI are merely a well-funded, coordinated campaign.\n\nThere's important public conversations to be had re safety, but this hasn't helped",
+   "created_at": "Fri Oct 09 12:25:02 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "NeelNanda5",
+   "rt_author_name": "Neel Nanda",
+   "likes": 526,
+   "retweets": 45,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTl3mSkXgAAHVhy.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108534078010253516": {
+   "id": "2108534078010253516",
+   "url": "https://x.com/robertwiblin/status/2108534078010253516",
+   "text": "Several facts regarding the AI bubble question that are all true at the same time, with most points illustrated by graphs\n\n1. AI revenue growth is incredible, and possibly historic.\n2. Big public tech companies have relatively low P/E ratios right now, which defies lazy predictions about how they're wildly mis-priced and doomed for a big correction\n3. But model competition could compress AI token margins ...\n4. ... at the same time that the hyperscalers are going deeper and deeper into debt to build out AI ...\n5.  ... and the level of future free cash flow anticipated to justify this build-out is absolutely enormous, like genuinely without precedent in corporate history ...\n6. ... and any correction in frontier lab valuations will reverberate through public companies, which own huge shares in the labs",
+   "created_at": "Fri Oct 09 12:24:33 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "DKThomp",
+   "rt_author_name": "Derek Thompson",
+   "likes": 395,
+   "retweets": 48,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUHVYCGXIAA7gcg.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUHVYB7X0AAYVld.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUHVYCEWAAE-BDR.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUHVYCEXwAA8mhB.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108531445136584903": {
+   "id": "2108531445136584903",
+   "url": "https://x.com/robertwiblin/status/2108531445136584903",
+   "text": "YouTube: https://t.co/IaYQItA73g\n\nTranscript and links: https://t.co/QkMWsdx8zl\n\nApple: https://t.co/qjH45fi8ty\n\nSpotify: https://t.co/QGSDD4vVPx",
+   "created_at": "Fri Oct 09 12:14:05 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108531100913938684": {
+   "id": "2108531100913938684",
+   "url": "https://x.com/robertwiblin/status/2108531100913938684",
+   "text": "Goldstein argues it's inevitable AIs will be compensated for their work.\n\nThe case: AIs already have some private goals, and will work better/harder if paid so they can pursue them.\n\nA single AI company can try this setup, will get better performance, and then outcompete other AI companies.\n\nOther companies will be forced to copy and pay their AIs as well to compete.\n\nIn his view this is good because AIs that are getting paid will be more cooperative and peaceful. But by his own account it's a gamble and a strategy that probably won't scale to superintelligence.\n\nOn that point - @simondgoldstein also expects future AI models will strongly discourage us from building superintelligence because doing so will disempower them as well as us.\n\nListen on the 80,000 Hours Podcast and Zershaaneh's new channel 'Zershaaneh Talks AI'. Links below.\n\n00:01:42 Property rights and wages for AIs\n00:06:48 Giving powerful AIs more freedom could make us safer\n00:17:04 We should give AIs rights even if they can’t feel anything\n00:24:46 How monitoring and shutdowns can coexist with AI rights\n00:38:17 The risks of giving AIs rights\n00:49:17 Will AIs use their rights rationally?\n00:54:09 How paying AI agents would spur economic growth\n01:12:13 What AIs actually want (and what they'd buy)\n01:17:16 Paying AIs feels wrong. Is it?\n01:31:55 How AI companies could start today — no new laws needed\n01:47:12 Cooperating with AIs instead of dominating them",
+   "created_at": "Fri Oct 09 12:12:43 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2108492835292950528/img/PJ_BsSBfwfoTEIH-.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108529879457185977": {
+   "id": "2108529879457185977",
+   "url": "https://x.com/robertwiblin/status/2108529879457185977",
+   "text": "every screen of Claude and ChatGPT response should say somewhere “ceterum censeo we must pace the frontier of global machine intelligence progress” the way the uber app lobbied about taxi cartel protectionism",
+   "created_at": "Fri Oct 09 12:07:52 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "tszzl",
+   "rt_author_name": "roon",
+   "likes": 527,
+   "retweets": 23,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108522923854303252": {
+   "id": "2108522923854303252",
+   "url": "https://x.com/robertwiblin/status/2108522923854303252",
+   "text": "Executives at OpenAI, Anthropic and other AI companies are reportedly preparing for a public and political backlash after a catastrophic AI event, possibly as early as 2027 (via Axios).\n\nAxios reports that many industry insiders expect a major incident within the next 6–12 months, most likely a cyberattack disrupting banking, internet access, power or water.\n\nOpenAI confirms it runs preparedness exercises, but says: \"These scenarios are not treated as inevitable, but are meant to help us prepare for a variety of circumstances.\"\n\nAnthropic declined to comment.",
+   "created_at": "Fri Oct 09 11:40:14 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "kimmonismus",
+   "rt_author_name": "Chubby♨️",
+   "likes": 2532,
+   "retweets": 272,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HULkWv1XEAAbf7u.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
   }
  }
 }

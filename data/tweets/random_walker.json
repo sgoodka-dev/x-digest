@@ -1596,6 +1596,47 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-07T17:49:31.774547+00:00"
+  },
+  "2108609647036997769": {
+   "id": "2108609647036997769",
+   "url": "https://x.com/random_walker/status/2108609647036997769",
+   "text": "If AI labs want personal assistants to take off at scale, they need to stop marketing vacations, reservations, party planning, etc. These are not problems.\n\nFocus on *the* problem facing Americans: the cost of living. Agents can offer a ton of help.\n\nSome ideas: (🧵)",
+   "created_at": "Fri Oct 09 17:24:50 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "jimprosser",
+   "rt_author_name": "Jim Prosser",
+   "likes": 1862,
+   "retweets": 130,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108596346928369726": {
+   "id": "2108596346928369726",
+   "url": "https://x.com/random_walker/status/2108596346928369726",
+   "text": "Fascinating reading about how we used to write about malware and viruses back in 1999. In a decade I suspect we'll look back at how we talk about AI safety today and it will feel similar. https://t.co/5yApXsKPS6 https://t.co/Rmpfb3jrcB",
+   "created_at": "Fri Oct 09 16:31:59 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "sebkrier",
+   "rt_author_name": "Séb Krier",
+   "likes": 121,
+   "retweets": 20,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUMmSfNWUAAZH4t.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
   }
  }
 }

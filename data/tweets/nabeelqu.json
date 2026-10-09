@@ -2215,6 +2215,29 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-08T17:52:40.360481+00:00"
+  },
+  "2108312270140748042": {
+   "id": "2108312270140748042",
+   "url": "https://x.com/nabeelqu/status/2108312270140748042",
+   "text": "I was in Birmingham last week. I tried to explore the city the best I could. Here are my ten reflections:\n\nhttps://t.co/Eg4AulVVPA https://t.co/qXmzNZYduE",
+   "created_at": "Thu Oct 08 21:43:10 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "jujulemons",
+   "rt_author_name": "Julia Willemyns",
+   "likes": 280,
+   "retweets": 24,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUIUKFRbAAAHPdq.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
   }
  }
 }

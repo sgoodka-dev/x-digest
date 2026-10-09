@@ -1331,6 +1331,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-07T17:49:31.774547+00:00"
+  },
+  "2064415101894152465": {
+   "id": "2064415101894152465",
+   "url": "https://x.com/alxndrdavies/status/2064415101894152465",
+   "text": "Our testing is currently underway; in the brief testing window, we did not achieve reliable extraction of complete long-form agentic rollouts, though we are working on improvements that may succeed in that setting. 3/4",
+   "created_at": "Tue Jun 09 18:31:29 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": true,
+   "reply_to": "alxndrdavies",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 44,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
   }
  }
 }

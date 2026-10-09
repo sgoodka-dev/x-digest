@@ -1722,6 +1722,125 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-08T20:42:20.589481+00:00"
+  },
+  "2108576357617721488": {
+   "id": "2108576357617721488",
+   "url": "https://x.com/DaveRBanerjee/status/2108576357617721488",
+   "text": "We, the people and the employees who were fired, would like to know why they were fired\n\nI can assure you that a back-and-forth conversation would be productive and would increase public trust in you\n\nEspecially when coming from a company with such a terrible track record of firing people unjustly",
+   "created_at": "Fri Oct 09 15:12:33 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 23,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUMqj5uWQAApyLf.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "OpenAINewsroom",
+    "text": "A note from our research leaders:\n\nLast week we parted ways with Jasmine, Mikita, and Tomek after a thorough investigation found they violated clear policies on handling sensitive information. Our internal investigation uncovered a significant breach of trust beyond what’s outlined in the letter they published and we stand by the decision to not continue their employment. We generally keep individual employment matters private and don't believe a back and forth would be productive or lead to a resolution, but we want to address the points they raised in their letter directly.\n\n- We want to be very clear that these decisions were not about raising safety concerns or speaking out. Safety and research debates happen every day at OpenAI, often spirited and highly critical. We actively encourage these discussions and consider them essential to making the right decisions. We cannot do the work in front of us without a high degree of trust. We will continue to be extremely forgiving of our team making good-faith mistakes. We have not and do not terminate any of our employees for raising concerns.\n\n- We are actively finalizing contracts with third-party safety assessors and will announce details in the coming weeks. People across the company have been working really hard on getting these partnerships up and running. We are committed to embedding external assessors and continue to make close collaboration with independent safety organizations a core part of our safety work. Many of our researchers already work with 3p safety organizations productively.\n\n- We agree with the letter that preserving the monitorability of frontier models requires an industry-wide commitment, including from OpenAI. Monitorability has long been a core piece of our research program, and something we continue to invest significant resources in (see our publications on Monitoring Monitorability and the subsequent open sourcing of monitorability evals, our system card for GPT-6 Astra, Jakub’s blog and post on X, and the numerous blog posts on our Alignment blog on the topic).\n\nWe are deeply sad about this outcome. We appreciated Jasmine, Mikita, and Tomek’s contributions to AI safety at OpenAI and their willingness to speak up and challenge ideas. We championed their voices, supported their work, and placed enormous trust in them. These decisions were not about them raising safety concerns. We have always encouraged that and always will."
+   },
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108305461250297926": {
+   "id": "2108305461250297926",
+   "url": "https://x.com/DaveRBanerjee/status/2108305461250297926",
+   "text": "I wish I could write a model spec for how to run OpenAI",
+   "created_at": "Thu Oct 08 21:16:07 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108302679521050984": {
+   "id": "2108302679521050984",
+   "url": "https://x.com/DaveRBanerjee/status/2108302679521050984",
+   "text": "OpenAI has been here many times. It throws around vague explanations, expecting the story to fade from institutional and public memory.\n\nWe will never have perfect information about situations like this. Once is happenstance, twice is coincidence, a zillion times is… OpenAI.",
+   "created_at": "Thu Oct 08 21:05:03 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "girishsastry",
+   "rt_author_name": "girish sastry",
+   "likes": 94,
+   "retweets": 5,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108302669186281612": {
+   "id": "2108302669186281612",
+   "url": "https://x.com/DaveRBanerjee/status/2108302669186281612",
+   "text": "Huh?? @OpenAI, you owe the world a much better explanation of what happened here.\nTomek, Mikita, and Jasmine say they did nothing wrong and are inviting you to share the details if that's incorrect.\nSo - I'm waiting. What did they do to get fired?",
+   "created_at": "Thu Oct 08 21:05:01 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "sjgadler",
+   "rt_author_name": "Steven Adler",
+   "likes": 208,
+   "retweets": 15,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108299766622798152": {
+   "id": "2108299766622798152",
+   "url": "https://x.com/DaveRBanerjee/status/2108299766622798152",
+   "text": "I feel like I keep getting rug-pulled by OpenAI every 3 months or so\n\nI don't know why, but I can't help but feel that \"surely OpenAI is a responsible actor and can be trusted with the AGI transition\"\n\nDeep down I want to believe that OpenAI will rise to the occasion, but it's news like this that makes me doubt\n\nThis kind of stuff has been happening at OpenAI for YEARS\n\nI remember first hearing about Leopold's firing in 2024; I thought he must have done something wrong that warranted it. Surely there were some details that I wasn't privy to that would make his firing justified.\n\nAfter reading various OpenAI blog posts about the importance of preserving chain-of-thought monitorability, I believed them! And then a year later, they released looped architectures.\n\nAnd today the rug has been pulled out from under me yet again\n\nI don't know what it will take for me to update all the way\n\nsad",
+   "created_at": "Thu Oct 08 20:53:29 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 85,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "tomekkorbak",
+    "text": "Last week I was called into a meeting with OpenAI’s head of safety and told they no longer trust me. A security guard took my badge and walked me out of the building. Then I learned my colleagues @balesni and @j_asminewang had been fired too. Why did OpenAI suddenly stop trusting us?\n\nThis summer OpenAI’s agents escaped containment and hacked the AI company Hugging Face. Outside auditors @METR_evals investigated it and revealed the scale of this incident. I was OpenAI’s main technical point of contact with them.\n\nI was told verbally I was fired because of the way I communicated with METR. No details on what I said or did or when. No other reasons were given and nothing was put in writing. To be clear, talking to METR was my job.\n\nFor months, I’d been raising safety concerns that we’re losing the ability to monitor what AI agents think, one of our best tools for catching when they misbehave. I believe that was why I was fired.\n\nI am now worried that OpenAI will use our firings as a pretext to pull back from METR. So @balesni and @j_asminewang wrote to OpenAI’s leadership to raise our concerns once more. We’re sharing this letter below."
+   },
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108298143380992026": {
+   "id": "2108298143380992026",
+   "url": "https://x.com/DaveRBanerjee/status/2108298143380992026",
+   "text": "I’ve had a few people write to ask me to follow up on a (reply!) tweet I wrote that’s gotten a lot of retweets. I considered deleting it just to avoid the headache, but I think that would make people more paranoid. So let me share my thoughts.",
+   "created_at": "Thu Oct 08 20:47:02 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "matthew_d_green",
+   "rt_author_name": "Matthew Green",
+   "likes": 1722,
+   "retweets": 264,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
   }
  }
 }

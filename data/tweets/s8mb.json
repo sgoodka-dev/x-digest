@@ -3495,6 +3495,124 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-08T20:42:20.589481+00:00"
+  },
+  "2108593706802831388": {
+   "id": "2108593706802831388",
+   "url": "https://x.com/s8mb/status/2108593706802831388",
+   "text": "If you like compulsively checking things, the sales worm on the Stripe Dashboard is a great little life addition. https://t.co/yXZCsHI46T",
+   "created_at": "Fri Oct 09 16:21:30 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUM6sxOWcAAQgwM.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108487335062995442": {
+   "id": "2108487335062995442",
+   "url": "https://x.com/s8mb/status/2108487335062995442",
+   "text": "Remarkable assemblage in the new @WorksInProgMag:\n\n- @RobinRivaton and @bswud on how China's cities, and the competition between them, have driven its rise to techno-industrial preeminence,\n- @danwwang on Chinese and American second-tier cities,\n- @tylercowen on the food of Brazil,\n- @vpostrel on the invention of supermarkets,\n- @CharlesCMann on the discovery of porcelain,\n- @salonium on the myth of accidental scientific discovery,\n- Stephen Kotkin on Leninism's fatal flaw,\n- @owl_posting on biomedical hedge funds,\n- @PMArslanagic on the formula for lovable cities,\n- @pietergaricano on Ukraine as the future of war,\n- @PatRubenFitz on the Bronze Age Collapse, and\n- @SCP_Hughes on the social lives of hard-partying Victorian elites.",
+   "created_at": "Fri Oct 09 09:18:49 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "patrickc",
+   "rt_author_name": "Patrick Collison",
+   "likes": 490,
+   "retweets": 39,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108446487822897270": {
+   "id": "2108446487822897270",
+   "url": "https://x.com/s8mb/status/2108446487822897270",
+   "text": "@TheStalwart @NewLeftEViews @lugaricano and/or @pietergaricano would be good guests on this topic!",
+   "created_at": "Fri Oct 09 06:36:30 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "TheStalwart",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108445758722564408": {
+   "id": "2108445758722564408",
+   "url": "https://x.com/s8mb/status/2108445758722564408",
+   "text": "@lisanalgaib @WorksInProgMag Enjoy!",
+   "created_at": "Fri Oct 09 06:33:36 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "lisanalgaib",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108445716960170166": {
+   "id": "2108445716960170166",
+   "url": "https://x.com/s8mb/status/2108445716960170166",
+   "text": "@WorksInProgMag !!! You all have out done yourselves. I love the new non-glossy look. It feels so good under the fingers. https://t.co/i1PNK8EwFG",
+   "created_at": "Fri Oct 09 06:33:26 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "omojumiller",
+   "rt_author_name": "omoju",
+   "likes": 5,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUJOOccawAAujFc.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108445709649211617": {
+   "id": "2108445709649211617",
+   "url": "https://x.com/s8mb/status/2108445709649211617",
+   "text": "@omojumiller @WorksInProgMag Wonderful, delighted you like it!",
+   "created_at": "Fri Oct 09 06:33:24 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "omojumiller",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
   }
  }
 }

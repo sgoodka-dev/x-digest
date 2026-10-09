@@ -2254,6 +2254,96 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-08T20:42:20.589481+00:00"
+  },
+  "2108600822393110709": {
+   "id": "2108600822393110709",
+   "url": "https://x.com/theobearman/status/2108600822393110709",
+   "text": "1/. Ahead of @CommonsBTC hearings on AI Safety I’m publishing letters back from @OpenAI @Meta &amp; @AnthropicAI In response to our background questions https://t.co/bsdT2y6PuZ",
+   "created_at": "Fri Oct 09 16:49:46 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "liambyrnemp",
+   "rt_author_name": "Liam Byrne MP",
+   "likes": 4,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUMs-1qXsAAUw5s.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUMs-1fW8AA-pcn.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUMs-1gXoAAlRB1.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108575435084976259": {
+   "id": "2108575435084976259",
+   "url": "https://x.com/theobearman/status/2108575435084976259",
+   "text": "Scoop: Top executives at Anthropic, OpenAI and other AI companies are privately gaming out scenarios for a public and political revolt after a catastrophic AI event…They assume one in ‘27…\n https://t.co/Jro9TigbgH",
+   "created_at": "Fri Oct 09 15:08:53 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "JimVandeHei",
+   "rt_author_name": "Jim VandeHei",
+   "likes": 1236,
+   "retweets": 387,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108459017362108661": {
+   "id": "2108459017362108661",
+   "url": "https://x.com/theobearman/status/2108459017362108661",
+   "text": "A new architecture for GPT-6.1 Sol?\n\nOpenAI halved its cached-input price compared with GPT-6 Sol. Our measurements show it also handles long prompts faster. https://t.co/Qgu5td8fYc",
+   "created_at": "Fri Oct 09 07:26:17 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "EpochAIResearch",
+   "rt_author_name": "Epoch AI",
+   "likes": 318,
+   "retweets": 25,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUI1VB-bIAAH7tZ.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108458539450871971": {
+   "id": "2108458539450871971",
+   "url": "https://x.com/theobearman/status/2108458539450871971",
+   "text": "Through The Mission (launching today), we'll release research, tools, and resources to help secure the world.\n\nTwo programs: 1/ OSS Scanner, inspired by OSS Fuzz, for maintainers to receive more bug reports/pocs/fixes faster and 2/ the Critical Infrastructure Defense Program, where we will work with critical infrastructure providers to figure out what works then scale them up. Backed by our own research and engineers.\n\nThink of the Mission as the ~complement to our model access. We recently expanded cyber access this wk via our new CVP. But we need to make it really easy to find & fix everything, but also rewrite software/systems, especially for critical infrastructure.\n\nOur sense is we've got a ~few years to transform security. That's going to take require a fast feedback loop that brings AGI cybersecurity research into the world. We've built a very cool team, led by @benhawkes, and then we'll scale our work as we learn what works.",
+   "created_at": "Fri Oct 09 07:24:23 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "logangraham",
+   "rt_author_name": "Logan Graham",
+   "likes": 176,
+   "retweets": 18,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
   }
  }
 }

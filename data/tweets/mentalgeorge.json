@@ -1478,6 +1478,50 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-06T20:21:02.762923+00:00"
+  },
+  "2108362002473304464": {
+   "id": "2108362002473304464",
+   "url": "https://x.com/mentalgeorge/status/2108362002473304464",
+   "text": "This excerpt of Dario's 2017 \"Big Blob of Compute\" essay is, to my knowledge, the best public explanation of an all-important question: why is Dario optimistic about alignment?\n\nThough his section on AI safety isn't in the excerpt, we can piece the following worldview together:\n\n1. Intelligence only works at all is because the universe is low-entropy.\n\n2. Given enough compute and a broad enough distribution of tasks, models will learn the \"high-level commonalities\" of a distribution (like the laws of physics) because doing this takes fewer bits than solving each task separately.\n\n(Note that Dario's emphasis on generalisation being a property of data distributions rather than algorithms has clearly persisted. The example 2017 Dario gives of speech models trained on 5 to 6 accents generalising to unseen accents is remarkably similar to the point he makes 9 years later on Dwarkesh's podcast about RL eventually generalising in the same way that GPT-2 did.)\n\nIt therefore seems that Dario believes that:\n\n3. Alignment is straightforward because \"human values\" (or \"goodness\", \"corrigibility\" or whatever else our alignment target is) are high-level commonalities in the same way that the laws of physics are.\n\n(^Dario doesn't explicitly say this in the essay, but it matches what @geoffreyirving told me when I interviewed him - that the core of his disagreement is that Dario believes alignment will generalise easily.)\n\nThis view implies that the goal of AI safety, summarised very simply, is to make sure that models trained with enough compute and data to become AGIs must simultaneously be trained on enough data to learn \"human values\" (or whatever our alignment target is).\n\nThis doesn't happen by default, but it is very far from impossible. This is, of course, exactly the kind of view that makes founding Anthropic and racing to superintelligence make sense.\n\nThere are two obvious problems with this view as I see it.\n\nFirst, as Paul points out in \"Returning to Arc\", we don't actually understand generalisation. So while it may be true that there exists some distribution that *does* teach models the \"high-level commonality\" that is our alignment target (eg \"human values\"), we don't have a way of knowing whether this has in fact happened, or whether the model has instead learned some other tactic that will have bad consequences in some distribution we have yet to elicit.\n\nSecond, it seems at least possible that our alignment target is in fact *not* a high-level commonality within the data distribution we give models, even in theory. Certainly, this would appear to be true of the current training regimes we put models through. @1a3orn convincingly argues that there is no coherent rule about how models should relate to users that could plausibly underpin the mess of environments we subject models to in training. It also strikes me as possible that we are too philosophically confused to construct a coherent alignment target to begin with.\n\nMy core uncertainty about how worried to be basically depends on whether pursuing this path produces models which become too misaligned to be usable before they become world-ending.",
+   "created_at": "Fri Oct 09 01:00:47 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 202,
+   "retweets": 19,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUJoEWbbsAABD1Q.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "kevinroose",
+    "text": "On the eve of The AGI Chronicles (which comes out tomorrow!) I'm publishing an excerpt from \"Big Blob of Compute,\" a 2017 internal research document by Dario Amodei, back when he was a researcher at OpenAI. \n\nIt's never been published before, but BBOC is, in my mind, the essay that started the AI race. It described Amodei's hypothesis that scaling up AI models was the best way, by far, to make them smarter. GPT-2 was an experiment to test the hypothesis, and when it worked, OpenAI went all-in on scaling, which led to the race we have today.\n\nIt's a fascinating historical artifact that deserves to see the light of day. And it's taken on mythical proportions inside the AI industry, which is now spending trillions of dollars building the \"big blobs\" that Amodei thought would be necessary to get to AGI.\n\nEnjoy! And please pre-order the book if you do! \n\nhttps://t.co/dGBzcI6Mrl"
+   },
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108328771543839015": {
+   "id": "2108328771543839015",
+   "url": "https://x.com/mentalgeorge/status/2108328771543839015",
+   "text": "I can't really see a world where OpenAI's actions are justified here. \n\nIt was Tomek's job to communicate with METR, who were being given significant, unprecedented access to do the HuggingFace report.  The norms were not set. Even if he fucked up badly, just give him a stern warning and ban him from roles involving liasoning with third parties, he did lots of other valuable work, and there'd no longer be room for him to inappropriately leak as part of his job. \n\nIMO firing people over a good faith attempt to use their best judgement in a novel and uncertain situation is a sign of a highly unhealthy culture. Firing him will have a chilling effect on anyone else at OpenAI working with third parties, an odd choice when Sam announced they'd embed evaluators with high access. \n\nI separately consider this a tragedy, the METR report was one of the most important works of safety this year, punishing Tomek for being a part of it, and making it harder for future such reports to exist is a real shame.\n\nOf course, I've only heard Tomek's side, but unless he's outright lying I'm struggling to see ways this looks good for OpenAI?",
+   "created_at": "Thu Oct 08 22:48:44 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "NeelNanda5",
+   "rt_author_name": "Neel Nanda",
+   "likes": 1020,
+   "retweets": 54,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
   }
  }
 }

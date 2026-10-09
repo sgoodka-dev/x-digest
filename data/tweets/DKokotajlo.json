@@ -1764,6 +1764,47 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-08T20:42:20.589481+00:00"
+  },
+  "2108595641727537454": {
+   "id": "2108595641727537454",
+   "url": "https://x.com/DKokotajlo/status/2108595641727537454",
+   "text": "New paper.\nPrevious: Models transfer a love of owls through sequences of numbers (Subliminal Learning).\nNew: We show models can transfer more complex traits: novel skills, agentic hacking, backdoors. Here, a backdoor transfers with neither trigger nor behavior in the data! https://t.co/EbcqsEfDEV",
+   "created_at": "Fri Oct 09 16:29:11 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "OwainEvans_UK",
+   "rt_author_name": "Owain Evans",
+   "likes": 262,
+   "retweets": 41,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUM2y4uasAA0bHx.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108329033981374670": {
+   "id": "2108329033981374670",
+   "url": "https://x.com/DKokotajlo/status/2108329033981374670",
+   "text": "This obviously makes it so that when OpenAI announces they're conducting an external investigation with regulators or auditors, everyone working with those regulators and auditors understands they'll be fired if the auditors or regulators learn too much.",
+   "created_at": "Thu Oct 08 22:49:47 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "KelseyTuoc",
+   "rt_author_name": "Kelsey Piper",
+   "likes": 621,
+   "retweets": 51,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T17:26:45.215205+00:00"
   }
  }
 }
