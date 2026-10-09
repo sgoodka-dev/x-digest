@@ -2238,6 +2238,47 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108639450653671698": {
+   "id": "2108639450653671698",
+   "url": "https://x.com/nabeelqu/status/2108639450653671698",
+   "text": "WE ARE UP!!!\n\nCameron Winter is a special artist. Trust me and listen.\n\nI went to this show and also saw the premiere of the concert movie last week, directed and shot by Paul Thomas Anderson and Benny Safdie (my life is really great). Trust me.\n\nhttps://t.co/mBOwqDIlm7",
+   "created_at": "Fri Oct 09 19:23:16 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "jacksondahl",
+   "rt_author_name": "Jackson Dahl",
+   "likes": 54,
+   "retweets": 2,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T20:07:16.006667+00:00"
+  },
+  "2108624382998523939": {
+   "id": "2108624382998523939",
+   "url": "https://x.com/nabeelqu/status/2108624382998523939",
+   "text": "https://t.co/WY77CAmzYh",
+   "created_at": "Fri Oct 09 18:23:23 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "michael_nielsen",
+   "rt_author_name": "Michael Nielsen",
+   "likes": 46,
+   "retweets": 7,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUNA2wwbUAQq0B3.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-09T20:07:16.006667+00:00"
   }
  }
 }

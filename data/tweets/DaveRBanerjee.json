@@ -1841,6 +1841,106 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108641369115783327": {
+   "id": "2108641369115783327",
+   "url": "https://x.com/DaveRBanerjee/status/2108641369115783327",
+   "text": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption algorithms.",
+   "created_at": "Fri Oct 09 19:30:53 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "matthew_d_green",
+   "rt_author_name": "Matthew Green",
+   "likes": 340,
+   "retweets": 30,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T20:07:16.006667+00:00"
+  },
+  "2108614408838783257": {
+   "id": "2108614408838783257",
+   "url": "https://x.com/DaveRBanerjee/status/2108614408838783257",
+   "text": "aged like milk, I know...",
+   "created_at": "Fri Oct 09 17:43:45 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "tomekkorbak",
+   "rt_author_name": "Tomek Korbak",
+   "likes": 1508,
+   "retweets": 75,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T20:07:16.006667+00:00"
+  },
+  "2108614373178523741": {
+   "id": "2108614373178523741",
+   "url": "https://x.com/DaveRBanerjee/status/2108614373178523741",
+   "text": "When Anthropic published Claude’s Constitution, they said they’d keep a changelog on GitHub. But Claude’s Constitution on the website has undergone dozens of small edits, none of which were documented on the GitHub version.\n\nAnd is either version of the constitution we can see still the one they train their latest models with? or do they have a new internal constitution?\n\nThe edits to the constitution are all minor (see thread), but Anthropic should hold themselves to a higher standard for a document they claim is so foundational. (OpenAI’s Model Spec version control shows even copyedits.)\n\nGuidelight’s Alignment Standard sets a good bar. Principle 1c: “Keep the specification [of intended model behavior] under version control with a public changelog for material changes. Publicly designate the version that governs each deployed model.”\n\nWe already know that Opus 4.5 doesn’t meet this standard, since it was trained on “an earlier iteration” of constitution that nobody saw (unless it was the leaked ‘soul doc’).\n\nSystems cards released today don’t say whether the constitution has been iterated on since January. One possibility is that it hasn’t. Another possibility is that it has. We don’t know which is the case. (We do know the constitution leaves room for unpublished guidance that “may be more niche and used primarily during training without broad publication,” but Anthropic says the more specific guidelines must be consistent with rest of constitution.)\n\nIf I may: @amandaskell is the website version of the constitution still the one used in training?\n\nYou said in a February podcast appearance “if we want the model to change direction or adjust, we actually have to change the text of the document and then we release that” but I don’t think we have any assurance of that.",
+   "created_at": "Fri Oct 09 17:43:37 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "JustenMichel",
+   "rt_author_name": "Michel Justen",
+   "likes": 27,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUM9QHWbUAI3OOf.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-09T20:07:16.006667+00:00"
+  },
+  "2108614352991338554": {
+   "id": "2108614352991338554",
+   "url": "https://x.com/DaveRBanerjee/status/2108614352991338554",
+   "text": "@JustenMichel CC @alfie_lamerton @joemkwon",
+   "created_at": "Fri Oct 09 17:43:32 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "JustenMichel",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-09T20:07:16.006667+00:00"
+  },
+  "2108613839323361672": {
+   "id": "2108613839323361672",
+   "url": "https://x.com/DaveRBanerjee/status/2108613839323361672",
+   "text": "Most of the recent math results were not reached by a swarm, the way Navier–Stokes was. I think that part got lost in the excitement around the release. OpenAI's unnamed internal model, which I'm going to call Aeon, reached most of them in one shot, from a single prompt, with no interruptions. This model did not even exist before the end of August, and it is still training. Notice how the returns are not dropping off? That chart is from a month ago. It is a log scale. What does Aeon look like now? \n\nOn average, each result used three hours of thinking. Aeon was given 4000 problems to work on by OpenAI. How many more have been solved in the last three days? That number is not zero. \n\nIt's like hearing notes in a song that is slowly rising. I don't think Pacing the Frontier was just about Hugging Face or hacking. They've seen how close we are to closing the loop, and as the hour draws near, their resolve begins to quaver. The last piece was model creativity, and I think that threshold was crossed internally by Anthropic and OpenAI in September. You see it in Opus 5.5, which gets it from Fable 5.5. You see it in the math results from Aeon.\n\nAll that was needed to start the event was the ability for models to think of novel ways to improve themselves. That was the last piece. This is directly analogous to the ability to think of strange, alien ways to solve math problems: solutions so inhuman that they are difficult to express in existing human terms, so the proof winds up incomprehensible. I think these same kinds of alien solutions are now being applied to model improvements internally. That's what all this recent consternation is really about. They see the invisible frontier. And they see what is about to happen.",
+   "created_at": "Fri Oct 09 17:41:30 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AndrewCurran_",
+   "rt_author_name": "Andrew Curran",
+   "likes": 1179,
+   "retweets": 141,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUNJWpnbsAAHo4v.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-09T20:07:16.006667+00:00"
   }
  }
 }

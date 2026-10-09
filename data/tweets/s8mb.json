@@ -3613,6 +3613,27 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108633609212989814": {
+   "id": "2108633609212989814",
+   "url": "https://x.com/s8mb/status/2108633609212989814",
+   "text": "Let us know if you’re selling!",
+   "created_at": "Fri Oct 09 19:00:03 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 10,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "quant_____",
+    "text": "Reading the new Works in Progress print issue and someone put in an ad looking to buy a 747 (???)"
+   },
+   "fetched_at": "2026-10-09T20:07:16.006667+00:00"
   }
  }
 }
