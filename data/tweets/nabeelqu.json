@@ -2279,6 +2279,29 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-09T20:07:16.006667+00:00"
+  },
+  "2108669835320152519": {
+   "id": "2108669835320152519",
+   "url": "https://x.com/nabeelqu/status/2108669835320152519",
+   "text": "Nick Bostrom argues humans may be as incapable of imagining AI’s upside as apes are of imagining human life:\n\n\"It looks like there's a gradient in the world in terms of AI sentiment, where the US is kind of on the negative extreme of that. People in China, for example, are much more excited about this.\"\n\n\"A large chunk of the potential upside is more of the way of unlocking new ways to be human, new possible modes of being.\"\n\n\"Imagine some great ape ancestors of Homo sapiens deliberating whether they should continue to evolve and one day become human. They would realize some of the benefits, like, 'We could have unlimited bananas.' And that's true.\"\n\n\"But it would miss out on most of what's good about being human. Great literature and art and humor and politics and spirituality.\"\n\n\"It would be presumptuous for us to think that now we have achieved the level of enlightenment where all possible values are transparent to us. Think of a big cathedral of possible modes of being. We have basically explored the janitor's closet.\"",
+   "created_at": "Fri Oct 09 21:24:00 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "MTSlive",
+   "rt_author_name": "MTS",
+   "likes": 485,
+   "retweets": 71,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2108320534207610880/img/ZtqRwCuxIdaTCPYP.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-10T16:14:30.549141+00:00"
   }
  }
 }

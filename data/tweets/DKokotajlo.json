@@ -1805,6 +1805,88 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108941646016713050": {
+   "id": "2108941646016713050",
+   "url": "https://x.com/DKokotajlo/status/2108941646016713050",
+   "text": "Remember when Sabine Hossenfelder made a big stink about being offered money to make a video about AI risks? Well, looks like she doesn't have any problem taking a sponsorship from the AI industry, on a video about how the experts don't know anything because they keep *under*estimating progress. And then she confidently predicts that AI will take decades to have any effects in the physical world. Nothing to worry about. Don't be afraid of AI. Just do this course so you can learn how to use AI. https://t.co/N9Ddy4DSPI",
+   "created_at": "Sat Oct 10 15:24:05 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "matthewktromp",
+   "rt_author_name": "Matthew Tromp ⏹️",
+   "likes": 135,
+   "retweets": 11,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-10T16:14:30.549141+00:00"
+  },
+  "2108740727861854541": {
+   "id": "2108740727861854541",
+   "url": "https://x.com/DKokotajlo/status/2108740727861854541",
+   "text": "I think current AI company staff are massively underestimating how world-changing it would be if 15 of them or 50 of them quit and loudly said that they think what the AI companies are doing is reckless and dangerous. \n\n50 is not that many! But it might change history.",
+   "created_at": "Sat Oct 10 02:05:42 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "EpistemicHope",
+   "rt_author_name": "Eli Tyre",
+   "likes": 179,
+   "retweets": 14,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-10T16:14:30.549141+00:00"
+  },
+  "2108699581727072562": {
+   "id": "2108699581727072562",
+   "url": "https://x.com/DKokotajlo/status/2108699581727072562",
+   "text": "One of the things Scott Wiener and the other drafters of SB 53 deserve credit for is the bill’s focus on deployments of frontier models within AI labs rather than just those released to the public. It requires large AI developers to periodically share information with the government about how it assesses the major risks arising from internal deployments. In addition to the California government, we are choosing to share our report with the public as well. You can read it at the link below. I hope you enjoy!",
+   "created_at": "Fri Oct 09 23:22:12 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "deanwball",
+   "rt_author_name": "Dean W. Ball",
+   "likes": 132,
+   "retweets": 20,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUOPCbHbsAAth1o.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-10T16:14:30.549141+00:00"
+  },
+  "2108671556218208736": {
+   "id": "2108671556218208736",
+   "url": "https://x.com/DKokotajlo/status/2108671556218208736",
+   "text": "My snap judgements on the new trailer for The Altruists, as someone who worked for SBF: 🧵👇\n\n1) First thought: Wow, the trailer’s depiction of Caroline is basically slander. And I’m saying this as someone she stole money from.\n\nThey’re strongly suggesting that Caroline was the mastermind behind Sam’s risk-taking behavior, which is… not at all what actually happened. But the trailer emphasizes this repeatedly!\n\nCaroline: “Going all in every time is the mathematically optimal strategy”\nCaroline: “If we reinvest all in, every day, how can we possibly lose”\nCaroline: “We go all in, or I’m out”\nCaroline: “Lying isn’t bad for a good cause”\nSam, to Caroline: “You were the one who did it”\n\nI mean, the court documents are a matter of public record, the writers could’ve gone and read them.\n\nAlso, “If we reinvest all in, every day, how can we possibly lose” – what? You would be fired from any trading firm in the world for saying something this stupid.\n\nMy guess is they’re going for a Bonnie and Clyde angle, with a sprinkle of Adam and Eve. And so they’re making Caroline take more of the blame than she actually deserves.\n\nBelieve me, I’m no fan of what Caroline did – just read my pinned tweet. But I think they should’ve focused on what she actually did wrong, instead of inventing fake things she did wrong!\n\nMore thoughts below 👇",
+   "created_at": "Fri Oct 09 21:30:50 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "adi_baradwaj",
+   "rt_author_name": "Adi",
+   "likes": 616,
+   "retweets": 40,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUI9Zk8aUAArj7G.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-10T16:14:30.549141+00:00"
   }
  }
 }

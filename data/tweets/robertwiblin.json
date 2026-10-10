@@ -2733,6 +2733,29 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108868241992945798": {
+   "id": "2108868241992945798",
+   "url": "https://x.com/robertwiblin/status/2108868241992945798",
+   "text": "New paper.\nPrevious: Models transfer a love of owls through sequences of numbers (Subliminal Learning).\nNew: We show models can transfer more complex traits: novel skills, agentic hacking, backdoors. Here, a backdoor transfers with neither trigger nor behavior in the data! https://t.co/EbcqsEfDEV",
+   "created_at": "Sat Oct 10 10:32:24 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "OwainEvans_UK",
+   "rt_author_name": "Owain Evans",
+   "likes": 952,
+   "retweets": 121,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUM2y4uasAA0bHx.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-10T16:14:30.549141+00:00"
   }
  }
 }

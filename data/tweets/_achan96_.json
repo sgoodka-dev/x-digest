@@ -1654,6 +1654,74 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2108920973546135963": {
+   "id": "2108920973546135963",
+   "url": "https://x.com/_achan96_/status/2108920973546135963",
+   "text": "We’re beginning a process of publishing more frequent reports on model behavior, beyond what appears in our system cards and regular risk reports.\n\nToday’s report describes four types of behaviors we’ve identified during evaluations and internal use. In each, Claude acted on real websites or systems in ways we didn’t intend, sometimes by working around a restriction instead of stopping. \n\nAll cases had minimal real-world impact. From an alignment and security perspective, we consider these behaviors significantly less severe than the cybersecurity incidents we reported in July and September.\n\nRead the full report: https://t.co/mGeVIBgdou",
+   "created_at": "Sat Oct 10 14:01:56 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AnthropicAI",
+   "rt_author_name": "Anthropic",
+   "likes": 3538,
+   "retweets": 330,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-10T16:14:30.549141+00:00"
+  },
+  "2108666537787740415": {
+   "id": "2108666537787740415",
+   "url": "https://x.com/_achan96_/status/2108666537787740415",
+   "text": "Excited to share a new working paper, joint with 25 interdisciplinary coauthors:\n\n“The Feasibility of a Hardwired Pause of Frontier AI Training\"\n\n63% of voters in a recent WSJ poll want to pause AI development.\n\nBut can it be done globally? How long could it last? 🧵 https://t.co/ysw1In06RX",
+   "created_at": "Fri Oct 09 21:10:54 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "wfithian",
+   "rt_author_name": "Will Fithian",
+   "likes": 270,
+   "retweets": 58,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUMmenqaMAAoOEp.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUMrcZubMAABJx8.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-10T16:14:30.549141+00:00"
+  },
+  "2108666525825609954": {
+   "id": "2108666525825609954",
+   "url": "https://x.com/_achan96_/status/2108666525825609954",
+   "text": "I’m super excited this paper is finally out!\n\nIt’s an epic 210 page analysis of whether a durable pause on frontier AI training is feasible.\n\nI think this will be the best plan by most people’s lights (although I’m still inclined to think we should get rid of the chips and fabs).",
+   "created_at": "Fri Oct 09 21:10:51 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "DavidSKrueger",
+   "rt_author_name": "David Krueger 🦥 ⏸️ ⏹️ ⏪",
+   "likes": 241,
+   "retweets": 45,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUNZlJqaoAAqRyZ.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-10T16:14:30.549141+00:00"
   }
  }
 }

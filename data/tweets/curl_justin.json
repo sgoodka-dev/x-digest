@@ -1286,6 +1286,86 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-07T20:38:29.596945+00:00"
+  },
+  "2108769575282344257": {
+   "id": "2108769575282344257",
+   "url": "https://x.com/curl_justin/status/2108769575282344257",
+   "text": "@provisionalidea yeah idk if the building analogy is a perfect one, but I think the spirit of “put in more resources get out more of thing you want” is right as a distinct category",
+   "created_at": "Sat Oct 10 04:00:20 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": true,
+   "reply_to": "provisionalidea",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-10T16:14:30.549141+00:00"
+  },
+  "2108761815736013001": {
+   "id": "2108761815736013001",
+   "url": "https://x.com/curl_justin/status/2108761815736013001",
+   "text": "Very useful framework — and while I expect many important tasks are in category 2, my big fear is that the ingredients for orwellian / loss of control scenarios (e.g., surveillance, robotics) are category 1",
+   "created_at": "Sat Oct 10 03:29:30 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 54,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "sayashk",
+    "text": "Do we live in a world where AIs can be wildly superhuman at every single task? Or a world where different tasks have different inherent limits, and AI’s superhuman performance at cybersecurity and math won’t translate to many consequential tasks?\n\nThis is a key crux that distinguishes the normal technology worldview from the superintelligence worldview, and it has nothing to do with the pace of AI progress — it's about our different assumptions about the world. \n\nHere's an intuition pump for why I think it's the second world: different tasks have different fundamental limits.\n\n*Category 1: Some tasks are like making a building taller*: there is no ceiling to how well you can do. More compute and better algorithms can lead to wildly superhuman performance. The entire history of computing is the history of building tools that allow us to be “superhuman” at computational tasks.\n\nFor example, compilers are superhuman assembly code writers, and fuzzing tools are superhuman vulnerability detectors. AI builds on a long line of such improvements: solving math problems and finding exploits in code are two recent examples.\n\n*Category 2: Some tasks are like making a ball rounder*: there is only so much room for improvement, and the best AI systems can’t wildly exceed humans. Take persuasion. Some people believe AI can persuade anyone of anything, even convincing military commanders to launch nuclear weapons. In fact, “superpersuasion” is one of the pathways through which many catastrophic risk scenarios unfold.\n\nBut the AI as Normal Technology thesis is that there are many consequential tasks that are limited by external factors, so such wildly superhuman performance is not possible. This is especially true against humans who use simple computational tools. Tasks like persuasion, or predicting the outcomes of social events (such as elections), fall into this category.\n\nOther tasks, like writing, can’t be ranked on a single scale; different people find different writing styles compelling. AI writing also quickly wears thin: even if a user is impressed by AI writing at first glance, after reading thousands of words of the same type of prose, it becomes mundane and irritating.\n\nAll of these are different from Category 1 tasks like playing chess, where even expert humans can’t do much better than deferring to an AI system at each turn.\n\n*Category 3: Some tasks require experiments in the real world*, and the bottleneck isn’t the computational task; it’s the data collection. One example is Moderna’s Covid vaccine: it took two days to design the vaccine, but almost a year to test and authorize, even during a record-breaking vaccine-development effort!\n\nThis is why a “superintelligence” won’t cure cancer from inside a datacenter: the bottleneck to many of AI’s most sought-after real-world impacts (such as developing cures to diseases) is in the real world, and requires experiments that we won’t (and shouldn’t) hand over to AI.\n\nPeople concerned about AI risks often assume that we live in a world where almost everything fits into Category 1, and we might soon see AIs with wildly superhuman performance at all tasks. I agree it would be scary to live in that world. \n\nOne reason @random_walker and I are more optimistic about our ability to remain in control is that we don’t think we live in the Category 1 world."
+   },
+   "fetched_at": "2026-10-10T16:14:30.549141+00:00"
+  },
+  "2108748118523253157": {
+   "id": "2108748118523253157",
+   "url": "https://x.com/curl_justin/status/2108748118523253157",
+   "text": "This from @chalmermagne is very good https://t.co/WgyevPJ41E",
+   "created_at": "Sat Oct 10 02:35:04 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 121,
+   "retweets": 12,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-10T16:14:30.549141+00:00"
+  },
+  "2108679412728398047": {
+   "id": "2108679412728398047",
+   "url": "https://x.com/curl_justin/status/2108679412728398047",
+   "text": "(1/n) I post-trained Qwen on a set of news sources and subjected the resulting models to a battery of political ideology tests. The models exhibited significant differences in political leanings, and the differences align with existing ratings of the underlying news sources. https://t.co/WLXrenkttF",
+   "created_at": "Fri Oct 09 22:02:04 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "soatto",
+   "rt_author_name": "Dario Soatto",
+   "likes": 27,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUNi0LTbsAEsWnT.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-10T16:14:30.549141+00:00"
   }
  }
 }
