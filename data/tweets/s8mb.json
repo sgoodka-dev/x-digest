@@ -3857,6 +3857,24 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-10T16:14:30.549141+00:00"
+  },
+  "2108963015261360630": {
+   "id": "2108963015261360630",
+   "url": "https://x.com/s8mb/status/2108963015261360630",
+   "text": "@FutureEconJacob @connacher_ @WorksInProgMag Ah I know, just thought you might be interested in why it happens!",
+   "created_at": "Sat Oct 10 16:49:00 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "FutureEconJacob",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-10T19:17:33.031473+00:00"
   }
  }
 }

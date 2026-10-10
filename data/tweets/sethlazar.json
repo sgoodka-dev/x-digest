@@ -2843,6 +2843,29 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-10T16:14:30.549141+00:00"
+  },
+  "2108978870951244208": {
+   "id": "2108978870951244208",
+   "url": "https://x.com/sethlazar/status/2108978870951244208",
+   "text": "I've teased this before, but it's coming soon: Oxford Studies in Philosophy of AI and Computing. Call for papers out in a couple of weeks. It's going to be awesome. Tell your (philosophy) friends. https://t.co/MaCu4nzyKZ",
+   "created_at": "Sat Oct 10 17:52:00 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 23,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUSZEv8WIAA8pia.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-10T19:17:33.031473+00:00"
   }
  }
 }
