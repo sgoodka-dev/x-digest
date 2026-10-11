@@ -4744,6 +4744,152 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-11T16:39:01.695809+00:00"
+  },
+  "2109360240009637959": {
+   "id": "2109360240009637959",
+   "url": "https://x.com/deanwball/status/2109360240009637959",
+   "text": "@halogen1048576 @exyota this is not close to a matter of opinion. it is a fact. you are telling on yourself. you should stop confidently commenting on this subject until you internalize the basic facts about its history. have a nice day. https://t.co/xCkqqgETKk",
+   "created_at": "Sun Oct 11 19:07:25 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "halogen1048576",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUXz9IqaAAAfjJg.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-11T19:34:18.057386+00:00"
+  },
+  "2109356837552488552": {
+   "id": "2109356837552488552",
+   "url": "https://x.com/deanwball/status/2109356837552488552",
+   "text": "There's one thing you'll rarely find the \"Catastrophic AI risk is a psy-op\" people do: talk about the actual technology and what it is demonstrably capable of doing. It's all just hand-waving about ulterior motives and EA zaniness.",
+   "created_at": "Sun Oct 11 18:53:54 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "lwoodhouse",
+   "rt_author_name": "Leighton 明 Woodhouse",
+   "likes": 34,
+   "retweets": 2,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-11T19:34:18.057386+00:00"
+  },
+  "2109355741933109733": {
+   "id": "2109355741933109733",
+   "url": "https://x.com/deanwball/status/2109355741933109733",
+   "text": "@DmitriyLeybel rlhf is alignment research, according to the people who invented it. you are ignorant about this subject. https://t.co/mvqHSSXVmX",
+   "created_at": "Sun Oct 11 18:49:33 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "DmitriyLeybel",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUXv3QObAAAAylx.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-11T19:34:18.057386+00:00"
+  },
+  "2109351227045859503": {
+   "id": "2109351227045859503",
+   "url": "https://x.com/deanwball/status/2109351227045859503",
+   "text": "@DmitriyLeybel I think the alignment researchers who led this work would beg to differ https://t.co/fK7LSNU18d",
+   "created_at": "Sun Oct 11 18:31:37 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "DmitriyLeybel",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 8,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUXrwqrasAAIHoc.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-11T19:34:18.057386+00:00"
+  },
+  "2109350086664999422": {
+   "id": "2109350086664999422",
+   "url": "https://x.com/deanwball/status/2109350086664999422",
+   "text": "@halogen1048576 @exyota paul christiano, an alignment researcher, is the lead author of the classic paper on this subject. jan leike ran the “superalignment” effort at openai, then anthropic. RLHF is fundamentally a product of alignment researchers. https://t.co/v0rEIx1KIA",
+   "created_at": "Sun Oct 11 18:27:05 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "halogen1048576",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUXquYHaIAAGtb_.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-11T19:34:18.057386+00:00"
+  },
+  "2109342128660996131": {
+   "id": "2109342128660996131",
+   "url": "https://x.com/deanwball/status/2109342128660996131",
+   "text": "@synchroaphasia No doubt",
+   "created_at": "Sun Oct 11 17:55:27 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "synchroaphasia",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-11T19:34:18.057386+00:00"
+  },
+  "2109335140094898510": {
+   "id": "2109335140094898510",
+   "url": "https://x.com/deanwball/status/2109335140094898510",
+   "text": "@exyota I think that’s totally fine! It’s an easy mistake to make. There is a difficult and often counterintuitive ontology rewrite people usually have to go through with AI, and it’s entirely understandable that not everyone has. I’ve tried to be nicer about this than I used to be.",
+   "created_at": "Sun Oct 11 17:27:41 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "exyota",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 5,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-11T19:34:18.057386+00:00"
   }
  }
 }

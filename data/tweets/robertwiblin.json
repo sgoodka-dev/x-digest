@@ -2756,6 +2756,42 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-10T16:14:30.549141+00:00"
+  },
+  "2109293886539534463": {
+   "id": "2109293886539534463",
+   "url": "https://x.com/robertwiblin/status/2109293886539534463",
+   "text": "@KelseyTuoc Overall it's pretty confusing. It seems like they did give primarily pretextual reasons - but there's something else substantive they're indicating they're upset about.\n\nAnd they think giving the real reason would look too bad to the public, or cause some other harm to them.\n\nThis is why you want to build up trust over time rather than undermine it, so people are inclined to take you more at your word in these situations.",
+   "created_at": "Sun Oct 11 14:43:45 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "KelseyTuoc",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 8,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-11T19:34:18.057386+00:00"
+  },
+  "2109293340759900560": {
+   "id": "2109293340759900560",
+   "url": "https://x.com/robertwiblin/status/2109293340759900560",
+   "text": "OpenAI emphatically disputes that Jasmine, Mikita and Tomek were fired for the reasons that the three researchers stated yesterday they were given for the firing.",
+   "created_at": "Sun Oct 11 14:41:35 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "KelseyTuoc",
+   "rt_author_name": "Kelsey Piper",
+   "likes": 296,
+   "retweets": 4,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-11T19:34:18.057386+00:00"
   }
  }
 }
