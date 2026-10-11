@@ -1941,6 +1941,42 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-09T20:07:16.006667+00:00"
+  },
+  "2109081328931213777": {
+   "id": "2109081328931213777",
+   "url": "https://x.com/DaveRBanerjee/status/2109081328931213777",
+   "text": "What's the plan for hardware security during the robotics era?\n\nI really don't want my household humanoid to strangle me in my sleep due to some hardware vuln",
+   "created_at": "Sun Oct 11 00:39:08 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 11,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-11T16:39:01.695809+00:00"
+  },
+  "2109080303881027873": {
+   "id": "2109080303881027873",
+   "url": "https://x.com/DaveRBanerjee/status/2109080303881027873",
+   "text": "@S_OhEigeartaigh this is beautiful, thanks for sharing",
+   "created_at": "Sun Oct 11 00:35:03 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "S_OhEigeartaigh",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-11T16:39:01.695809+00:00"
   }
  }
 }

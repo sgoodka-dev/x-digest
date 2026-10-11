@@ -1887,6 +1887,47 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-10T16:14:30.549141+00:00"
+  },
+  "2109283418412593551": {
+   "id": "2109283418412593551",
+   "url": "https://x.com/DKokotajlo/status/2109283418412593551",
+   "text": "Reminder that Anthropic's frontier compliance framework does not have any provisions whatsoever about managing risks from internal models. Anthropic says that they \"expect their approach to evolve\" and \"this framework will be updated\" but its been months after HF and no change. https://t.co/eeQqML7MEW",
+   "created_at": "Sun Oct 11 14:02:10 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "_NathanCalvin",
+   "rt_author_name": "Nathan Calvin",
+   "likes": 49,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUNWf76a4AANIzM.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-11T16:39:01.695809+00:00"
+  },
+  "2109280844712157397": {
+   "id": "2109280844712157397",
+   "url": "https://x.com/DKokotajlo/status/2109280844712157397",
+   "text": "My current view:\n- AI companies could develop broadly superhuman AI any year now (~10-15% by EO2027, ~50% by EO2030).\n- If they don't slow down, AI takeover is ~67%.\n- Conditional on AI takeover, human extinction is ~40%.  Many non-extinction worlds still have lots of deaths.",
+   "created_at": "Sun Oct 11 13:51:56 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "eli_lifland",
+   "rt_author_name": "Eli Lifland",
+   "likes": 1184,
+   "retweets": 135,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-11T16:39:01.695809+00:00"
   }
  }
 }

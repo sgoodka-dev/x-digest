@@ -2344,6 +2344,65 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2109011469538836658": {
+   "id": "2109011469538836658",
+   "url": "https://x.com/theobearman/status/2109011469538836658",
+   "text": "Exclusive: Anthropic breaches spark White House AI reporting mandate https://t.co/ExLixTIbhK",
+   "created_at": "Sat Oct 10 20:01:32 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "axios",
+   "rt_author_name": "Axios",
+   "likes": 65,
+   "retweets": 23,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-11T16:39:01.695809+00:00"
+  },
+  "2109010028799910182": {
+   "id": "2109010028799910182",
+   "url": "https://x.com/theobearman/status/2109010028799910182",
+   "text": "Some info on how we’ve been working towards safety cases at OpenAI\n\nNote that until there is a safety “brief” for it, any type of frontier workload cannot start – this has real teeth, and has already been a good motivating force for a lot of safety work https://t.co/nKMDlHh4gF",
+   "created_at": "Sat Oct 10 19:55:49 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "MicahCarroll",
+   "rt_author_name": "Micah Carroll",
+   "likes": 206,
+   "retweets": 20,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUPGyrubkAAqXoD.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-11T16:39:01.695809+00:00"
+  },
+  "2109008945679679947": {
+   "id": "2109008945679679947",
+   "url": "https://x.com/theobearman/status/2109008945679679947",
+   "text": "Super Intelligence must be contained... Today, this is an engineering and governance challenge. And it isn't new. We've done it with planes, cars, nuclear materials, food safety, medicines... and everything else. Let's get to work!",
+   "created_at": "Sat Oct 10 19:51:30 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "mustafasuleyman",
+   "rt_author_name": "Mustafa Suleyman",
+   "likes": 1035,
+   "retweets": 113,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-11T16:39:01.695809+00:00"
   }
  }
 }
