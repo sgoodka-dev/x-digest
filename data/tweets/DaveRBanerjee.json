@@ -1977,6 +1977,27 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-11T16:39:01.695809+00:00"
+  },
+  "2109402611723952485": {
+   "id": "2109402611723952485",
+   "url": "https://x.com/DaveRBanerjee/status/2109402611723952485",
+   "text": "Really good thread responding to semianalysis's latest post on China's view on pacing the frontier",
+   "created_at": "Sun Oct 11 21:55:48 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 15,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "SarahJGodek",
+    "text": "Semianalysis said yesterday that “Beijing Will Not Pace the Frontier,” citing “China’s Speed-First AI Safety Regime.” imo, I think that it is more accurate to say that “Beijing Thinks About AI Safety Differently and Has Growing Concerns About AI Risks.”\nhttps://t.co/KUMo5xQWKL"
+   },
+   "fetched_at": "2026-10-12T20:17:57.736106+00:00"
   }
  }
 }

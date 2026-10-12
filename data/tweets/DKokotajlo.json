@@ -1928,6 +1928,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-11T16:39:01.695809+00:00"
+  },
+  "2109436805699576026": {
+   "id": "2109436805699576026",
+   "url": "https://x.com/DKokotajlo/status/2109436805699576026",
+   "text": "Another example of the phenomena where AI progress is steady, but when it passes particular thresholds of competence relative to humans, it can look quite discontinuous",
+   "created_at": "Mon Oct 12 00:11:40 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "_NathanCalvin",
+   "rt_author_name": "Nathan Calvin",
+   "likes": 214,
+   "retweets": 22,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-12T20:17:57.736106+00:00"
   }
  }
 }

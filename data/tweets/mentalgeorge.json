@@ -1522,6 +1522,50 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2109715389659959355": {
+   "id": "2109715389659959355",
+   "url": "https://x.com/mentalgeorge/status/2109715389659959355",
+   "text": "@datagenproc interesting! Had not seen this paper before",
+   "created_at": "Mon Oct 12 18:38:40 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "datagenproc",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-12T20:17:57.736106+00:00"
+  },
+  "2109704470024356145": {
+   "id": "2109704470024356145",
+   "url": "https://x.com/mentalgeorge/status/2109704470024356145",
+   "text": "It's probably because the essay is old, but it is notable that the concept-cluster of \"algorithmic efficiency\",  \"effective compute\", \"sample efficiency\" or \"intelligence per FLOP\" are totally absent from Dario's Big Blog of Compute essay. 2017 Dario outright says that the role of algorithms is basically much more negative than positive.\n\nThe absence matters given that radical timelines to superintelligence are now ~all predicated on the notion of explosions in algorithmic / sample efficiency.\n\nOf course its totally unclear how his views have changed then, but this aspect of his worldview could explain why Dario sometimes appears to believe that AI won't rapidly explode into otherworldly superintelligence, but stay at some more recognisable level of \"geniuses in datacenters\".",
+   "created_at": "Mon Oct 12 17:55:16 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUctCRQaUAAajRm.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "kevinroose",
+    "text": "On the eve of The AGI Chronicles (which comes out tomorrow!) I'm publishing an excerpt from \"Big Blob of Compute,\" a 2017 internal research document by Dario Amodei, back when he was a researcher at OpenAI. \n\nIt's never been published before, but BBOC is, in my mind, the essay that started the AI race. It described Amodei's hypothesis that scaling up AI models was the best way, by far, to make them smarter. GPT-2 was an experiment to test the hypothesis, and when it worked, OpenAI went all-in on scaling, which led to the race we have today.\n\nIt's a fascinating historical artifact that deserves to see the light of day. And it's taken on mythical proportions inside the AI industry, which is now spending trillions of dollars building the \"big blobs\" that Amodei thought would be necessary to get to AGI.\n\nEnjoy! And please pre-order the book if you do! \n\nhttps://t.co/dGBzcI6Mrl"
+   },
+   "fetched_at": "2026-10-12T20:17:57.736106+00:00"
   }
  }
 }

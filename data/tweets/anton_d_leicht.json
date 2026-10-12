@@ -2121,6 +2121,47 @@
     "text": "I’d love economists to take a crack at this theory that the US is experiencing a mini-Dutch Disease effect from AI.\n\nMy big-picture thesis about AI economics right now is that while the discussion about AI safety and existential risk is important, AI’s construction is changing the world faster than its capabilities."
    },
    "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2109645347429728357": {
+   "id": "2109645347429728357",
+   "url": "https://x.com/anton_d_leicht/status/2109645347429728357",
+   "text": "https://t.co/zHS9ZhVr3I",
+   "created_at": "Mon Oct 12 14:00:20 +0000 2026",
+   "author_handle": "anton_d_leicht",
+   "author_name": "Anton Leicht",
+   "is_reply": true,
+   "reply_to": "anton_d_leicht",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-12T20:17:57.736106+00:00"
+  },
+  "2109645334884548784": {
+   "id": "2109645334884548784",
+   "url": "https://x.com/anton_d_leicht/status/2109645334884548784",
+   "text": "The American AI industry needs a lot more datacenters than it can build at home. If US allies host these datacenters, they might be able to secure access to frontier AI in return.\n\nNew for @ForeignPolicy with @SamWinterLevy, on getting compute-for-access right: https://t.co/HnLQiMkxp4",
+   "created_at": "Mon Oct 12 14:00:17 +0000 2026",
+   "author_handle": "anton_d_leicht",
+   "author_name": "Anton Leicht",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 46,
+   "retweets": 10,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUb3QKIbEAAOF1a.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-12T20:17:57.736106+00:00"
   }
  }
 }

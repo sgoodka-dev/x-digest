@@ -1428,6 +1428,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-09T20:07:16.006667+00:00"
+  },
+  "2109694422095110354": {
+   "id": "2109694422095110354",
+   "url": "https://x.com/ohlennart/status/2109694422095110354",
+   "text": "has anyone reported something akin to \"move 37\" yet in all the OpenAI math papers?",
+   "created_at": "Mon Oct 12 17:15:21 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 27,
+   "retweets": 3,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-12T20:17:57.736106+00:00"
   }
  }
 }

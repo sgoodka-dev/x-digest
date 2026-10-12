@@ -2403,6 +2403,83 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-11T16:39:01.695809+00:00"
+  },
+  "2109607686052762044": {
+   "id": "2109607686052762044",
+   "url": "https://x.com/theobearman/status/2109607686052762044",
+   "text": "\"It needs expertise that the state has not needed before.\"\n\nAI Minister Kanishka Narayan says the government will prepare Britain to respond to incidents involving the technology as it becomes more capable.\n\nhttps://t.co/AYK3H6jcWi\n\n📺 Sky 501, Virgin 602, Freeview 233 https://t.co/hYCorbJYQy",
+   "created_at": "Mon Oct 12 11:30:41 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "SkyNews",
+   "rt_author_name": "Sky News",
+   "likes": 209,
+   "retweets": 35,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HUbGG6oXUAAsGXF.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-12T20:17:57.736106+00:00"
+  },
+  "2109589073178296744": {
+   "id": "2109589073178296744",
+   "url": "https://x.com/theobearman/status/2109589073178296744",
+   "text": "@KanishkaNarayan @AISecurityInst @CommonsBTC https://t.co/Awuflsh8bs",
+   "created_at": "Mon Oct 12 10:16:43 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "theobearman",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-12T20:17:57.736106+00:00"
+  },
+  "2109588971885867342": {
+   "id": "2109588971885867342",
+   "url": "https://x.com/theobearman/status/2109588971885867342",
+   "text": "@KanishkaNarayan just confirmed that the UK has reached an agreement with the Administration for the @AISecurityInst to have continued pre-release access to frontier U.S. models. Great result ahead of tomorrow's @CommonsBTC evidence session on AI Security! https://t.co/iP6ie8dQMM",
+   "created_at": "Mon Oct 12 10:16:19 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "KanishkaNarayan",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 5,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-12T20:17:57.736106+00:00"
+  },
+  "2109520621906383005": {
+   "id": "2109520621906383005",
+   "url": "https://x.com/theobearman/status/2109520621906383005",
+   "text": "Exclusive:\n\nThe White House has reinstated the UK’s access to frontier AI models for safety testing after lobbying from ministers.\n\nThe US government reversed its decision to restrict access to the latest models from Anthropic, OpenAI and Google to stop the UK’s AI Safety Institute (AISI) from testing them before release.\n\nKanishka Narayan, the AI minister, has been involved in lobbying efforts to restore access. \n\nMinisters feared that without the models, Britain’s attempt to become a world leader in AI regulation would be dead in the water.\n\nhttps://t.co/2tIRFl28mQ",
+   "created_at": "Mon Oct 12 05:44:43 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "Tony_Diver",
+   "rt_author_name": "Tony Diver",
+   "likes": 270,
+   "retweets": 54,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-12T20:17:57.736106+00:00"
   }
  }
 }

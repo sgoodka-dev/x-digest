@@ -1683,6 +1683,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-10T16:14:30.549141+00:00"
+  },
+  "2109658758410588338": {
+   "id": "2109658758410588338",
+   "url": "https://x.com/sayashk/status/2109658758410588338",
+   "text": "* I think the AI safety debate includes deeply considered positions across the board none of which can be reasonably falsified because they depend on data that simply hasn't come in yet.\n* This means we should build agile AI institutions that embrace uncertainty and are optimized to support multiple and very different possible futures.\n* Below is a proto-blog post where I sketch of an argument for this; I survey the safety debate, steel man every position, and argue for strong, epistemically humble institutions.\n* The safety debate is really about how hard controlling AI will be, and how reliably the market and our institutions will stop us from shipping AI we can't control. We can't know either for sure right now.\n* Jensen Huang appears to think market forces and existing laws will force AI companies to deliver AI we can control and that AI control is a normal engineering problem. Full speed ahead.\n* Jensen has a point: we haven’t seen major damages from AI yet. AI labs are adapting to prevent more incidents like Hugging Face. Current data don't establish that catastrophic risk will outpace our ability to muddle through and adapt. This is an argument from 'do no harm': let the beneficial outcomes of AI manifest as fast as possible and don't interrupt the market forces that produced the magic in the first place.\n* Sayash Kapoor and Arvind Narayanan, if I understand them correctly, believe control will be hard but solvable. Today's control problems could be solved with today's technologies if companies were incentivized to do so by the right laws and regulations.\n* Arvind and Sayash are right that today's technical control issues often obscure incentives and culture issues. Institutions will need to adapt to incentivize / force AI safety, just as they have in every previous tech transformation from railroads to electrification to air travel.\n* Yudkowsky, Alexander, Kokotajlo, Bengio, Hinton, et al, believe AI control is very hard because it involves understanding systems that become increasingly illegible and hard to monitor as they become smarter and more autonomous. Race dynamics and government dysfunction risk creating a regime in which dangerous AI granted dangerous authority before we solve it. This requires an extraordinary institutional intervention (a pause, a global off switch, or internationally regulated data centers and research practices).\n* They are right that we should be pricing in the possibility of extreme technological surprise and institutional failure. GPT-9 could make GPT-6 feel like GPT-2, and we have institutions that brought us the nuclear arms race, Hitler -> WWII, and the disastrous response to 9/11. A single misaligned agent self-replicating in pursuit of a dangerous goal could create a crisis.\n* I align with Arvind and Sayash in that I think it's premature to assume extreme scenarios to the point we should advocate implementing harsh top down solutions like AI 2040 Plan A. But we should price them in -- by building state capacity and civil society capacity that makes it easier to implement AI 2040 type solutions should the data break in Alexander's favor.\n* Jensen has a point that there's risk to AI upside if we overregulate.  But this doesn't mean we shouldn't bias towards overregulation given the downside risks are far worse than the risks of overregulation. That said, we should acknowledge Jensen by being prepared to roll back or change regulations as it becomes clear market forces can take their place.\n* Overall, we should build institutions that adapt as the data come in: driving down 'normal' Kapoor/Narayanan type risks while rehearsing responses to and reserving resources for Yudkowsky/Alexander tail risks. This feels like something everyone concerned with AI harms could possibly agree on ...",
+   "created_at": "Mon Oct 12 14:53:38 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "joshua_saxe",
+   "rt_author_name": "Joshua Saxe",
+   "likes": 15,
+   "retweets": 2,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-12T20:17:57.736106+00:00"
   }
  }
 }

@@ -3064,6 +3064,42 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-11T16:39:01.695809+00:00"
+  },
+  "2109699117220090351": {
+   "id": "2109699117220090351",
+   "url": "https://x.com/sethlazar/status/2109699117220090351",
+   "text": "New essay: To keep human judgment, we need AI courts.\n\nAI-generated filings are starting to overwhelm courts around the world. \n\nThe most popular response I’ve heard is to fight AI with AI: If we can just give judges the right tools and training, AI will help them keep pace.\n\nBut this strikes me as the worst of both worlds. \n\nBecause we want human judges in the loop, we don’t get the speed and scale benefits of AI. Yet because we expect them to resolve a massive number of cases quickly, judges (or their clerks) may end up leaning on AI more than they mean to or should.\n\nThis essay offers another way: a parallel AI adjudication track. \n\nAn AI track — inspired by AI use in private arbitration but formally part of the court system like magistrate judges — would let courts be explicit about how human judgment is allocated.\n\nDone right, this would allow courts to process large volumes of cases while ensuring human judges devote their full attention to the cases where their judgment is needed most.\n\nRead more in @PaxMachinaMag: https://t.co/xC4JeVky8H",
+   "created_at": "Mon Oct 12 17:34:00 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "curl_justin",
+   "rt_author_name": "justin curl",
+   "likes": 128,
+   "retweets": 18,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-12T20:17:57.736106+00:00"
+  },
+  "2109614948238209277": {
+   "id": "2109614948238209277",
+   "url": "https://x.com/sethlazar/status/2109614948238209277",
+   "text": "@antoniomaxai yeah can't remember why I didn't like it tho. Separate files for notes I think?",
+   "created_at": "Mon Oct 12 11:59:33 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": true,
+   "reply_to": "antoniomaxai",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-12T20:17:57.736106+00:00"
   }
  }
 }
