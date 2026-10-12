@@ -1531,6 +1531,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-12T20:17:57.736106+00:00"
+  },
+  "2109759838536552830": {
+   "id": "2109759838536552830",
+   "url": "https://x.com/curl_justin/status/2109759838536552830",
+   "text": "@provisionalidea I’m curious whether you think judges + AI will be able to keep pace with caseloads. \n\nBecause while I’m very pro-human judges, I just can’t see a world where judges + AI keeps pace without offloading judgment to AI. I hear too many worrying stories from clerk friends. To me, this offloading is a much worse scenario because then we don’t get any human judgment. \n\nIn an ideal world, everyone who needs legal assistance receives it and every case is resolved in a thoughtful, timely fashion by human judges. \n\nBut as much as I could shout in the streets that human judgment is core to lawmaking (it’s one of the 3 core points in my lawfare essay on AI and legal services), the default will be gradual and unintentional delegation to machines, unless we can come up with a concrete plan to manage caseloads.\n\nI’m unconvinced judges + AI is that solution, since the psychological temptation to rubber stamp is just too great. But v open to hearing what you think is the right plan",
+   "created_at": "Mon Oct 12 21:35:17 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": true,
+   "reply_to": "provisionalidea",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-12T22:30:10.712105+00:00"
   }
  }
 }

@@ -1,6 +1,6 @@
 {
  "last_run": {
-  "started": "2026-10-12T20:17:57.736106+00:00",
+  "started": "2026-10-12T22:30:10.712105+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
@@ -24,18 +24,18 @@
    },
    "curl_justin": {
     "ok": true,
-    "new": 9,
-    "total": 87
+    "new": 1,
+    "total": 88
    },
    "DaveRBanerjee": {
     "ok": true,
     "new": 1,
-    "total": 110
+    "total": 111
    },
    "DKokotajlo": {
     "ok": true,
-    "new": 1,
-    "total": 114
+    "new": 2,
+    "total": 116
    },
    "dwarkesh_sp": {
     "ok": true,
@@ -55,7 +55,7 @@
    "mentalgeorge": {
     "ok": true,
     "new": 2,
-    "total": 91
+    "total": 93
    },
    "ohlennart": {
     "ok": true,
@@ -64,7 +64,7 @@
    },
    "sayashk": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 90
    },
    "testingham": {
@@ -79,27 +79,27 @@
    },
    "s8mb": {
     "ok": true,
-    "new": 18,
-    "total": 239
+    "new": 2,
+    "total": 241
    },
    "random_walker": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 86
    },
    "sethlazar": {
     "ok": true,
-    "new": 2,
-    "total": 161
+    "new": 1,
+    "total": 162
    },
    "robertwiblin": {
     "ok": true,
-    "new": 3,
+    "new": 0,
     "total": 134
    },
    "deanwball": {
     "ok": true,
-    "new": 36,
+    "new": 0,
     "total": 293
    },
    "nabeelqu": {
@@ -109,7 +109,7 @@
    },
    "theobearman": {
     "ok": true,
-    "new": 4,
+    "new": 0,
     "total": 116
    },
    "peterwilderford": {
@@ -119,11 +119,11 @@
    },
    "anton_d_leicht": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 109
    }
   },
-  "new_tweets": 81,
-  "finished": "2026-10-12T20:18:58.411655+00:00"
+  "new_tweets": 9,
+  "finished": "2026-10-12T22:30:45.884786+00:00"
  }
 }

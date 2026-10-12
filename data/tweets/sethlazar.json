@@ -3100,6 +3100,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-12T20:17:57.736106+00:00"
+  },
+  "2109768616874762742": {
+   "id": "2109768616874762742",
+   "url": "https://x.com/sethlazar/status/2109768616874762742",
+   "text": "@curl_justin Tho note that this resulted in copyright being applied in ways that are systematically skewed against individuals and in favour of big copyright holders (media companies)—see Nic Suzor, Lawless (also discussed in my Governing the algorithmic city)",
+   "created_at": "Mon Oct 12 22:10:10 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": true,
+   "reply_to": "curl_justin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-12T22:30:10.712105+00:00"
   }
  }
 }

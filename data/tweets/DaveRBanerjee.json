@@ -1998,6 +1998,27 @@
     "text": "Semianalysis said yesterday that “Beijing Will Not Pace the Frontier,” citing “China’s Speed-First AI Safety Regime.” imo, I think that it is more accurate to say that “Beijing Thinks About AI Safety Differently and Has Growing Concerns About AI Risks.”\nhttps://t.co/KUMo5xQWKL"
    },
    "fetched_at": "2026-10-12T20:17:57.736106+00:00"
+  },
+  "2109758170029797499": {
+   "id": "2109758170029797499",
+   "url": "https://x.com/DaveRBanerjee/status/2109758170029797499",
+   "text": "gray goo but with Claude's face instead",
+   "created_at": "Mon Oct 12 21:28:39 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "AndrewCurran_",
+    "text": "Anthropic's Frontier Red Team believes small AI models may now be months away from being capable of self replicating without access to a datacenter.\n\nQuoting from the blog:\n\n'The capabilities that make AI models generally powerful coding agents also generalize to cyber tasks, including autonomous replication. Like coding agents in 2024, we’re seeing signs of life for AI worms. We don’t yet have a full rogue replicator, but agents are becoming increasingly capable of completing the individual steps in the replication chain (and passing on their adaptations to future copies of themselves).\n\nAt the same time, increasing amounts of inference compute are now available both inside and outside of datacenters (see Appendix D). It’s uncertain exactly what form autonomous AI replication will take. It could be a slow, distributed “digital slime mold,” living on relatively insecure compute. It could also be a powerful cyber model that breaches datacenters at a high pace, or a model that scams people for compute credits.\n\nAs a prediction that goes beyond our experiments, we expect a future awash with agents running on all types of hardware, including some that aren’t under human control. While it’s true that IoT devices have been vulnerable for a long time, lightweight agents may be much more willing than human attackers to put in the effort to compromise large fractions of the world’s IoT compute. The rise of slow replicators would also be a bellwether for more aggressive, faster ones that can breach more hardened machines or be effective API key thieves. We should aim to harden our systems to make it difficult for such replicators to spread, but also prepare to deal with a world where they are here to stay.'"
+   },
+   "fetched_at": "2026-10-12T22:30:10.712105+00:00"
   }
  }
 }

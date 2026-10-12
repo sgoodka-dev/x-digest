@@ -1566,6 +1566,42 @@
     "text": "On the eve of The AGI Chronicles (which comes out tomorrow!) I'm publishing an excerpt from \"Big Blob of Compute,\" a 2017 internal research document by Dario Amodei, back when he was a researcher at OpenAI. \n\nIt's never been published before, but BBOC is, in my mind, the essay that started the AI race. It described Amodei's hypothesis that scaling up AI models was the best way, by far, to make them smarter. GPT-2 was an experiment to test the hypothesis, and when it worked, OpenAI went all-in on scaling, which led to the race we have today.\n\nIt's a fascinating historical artifact that deserves to see the light of day. And it's taken on mythical proportions inside the AI industry, which is now spending trillions of dollars building the \"big blobs\" that Amodei thought would be necessary to get to AGI.\n\nEnjoy! And please pre-order the book if you do! \n\nhttps://t.co/dGBzcI6Mrl"
    },
    "fetched_at": "2026-10-12T20:17:57.736106+00:00"
+  },
+  "2109773264272990505": {
+   "id": "2109773264272990505",
+   "url": "https://x.com/mentalgeorge/status/2109773264272990505",
+   "text": "@_AashishReddy yeah agreed. i think super radical timelines towards the second (and obvs third) both require strong gains algorithmic efficiency (which are plausible and probably even likely)",
+   "created_at": "Mon Oct 12 22:28:38 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "_AashishReddy",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-12T22:30:10.712105+00:00"
+  },
+  "2109766868487856191": {
+   "id": "2109766868487856191",
+   "url": "https://x.com/mentalgeorge/status/2109766868487856191",
+   "text": "Mike was my colleague at Berkeley, and he's been fairly skeptical of deep learning's trajectory for years. Most scientists are skeptics, and it can take a big shock to get someone to consider a possibility that goes against the anchoring effect coded in our DNA.\n\nI too was somewhat of a skeptic until ~6 months ago, and people ask me all the time why I joined Anthropic. \n\nIt started in April, when a friend I've known for 20 yrs messaged me saying he'd be in the Bay Area in a week, and he suggested we meet up. I invited him to my house for dinner, and he told me he had just joined Anthropic. He said the models were becoming increasingly more capable, and he believed both that they'd soon be smarter than him and also that all intellectual work would be highly devalued in the near future, and lastly that society was not at all ready for what's coming.\n\nI'd of course heard claims similar to this before, but not from a friend I'd known for this long, and who I trusted, at my dining room table. It was the initial shock needed to destabilize my own anchoring. Also, I've been fortunate to work with and/or mentor many smart people in my life (e.g. Fields medalists, a 4x Putnam Fellow, IOI first place winners, etc.), so I feel pretty calibrated in recognizing very smart people, and this was someone who is definitely very smart and with impressive such credentials. So, it was hard to ignore this friend saying the models would be smarter than even him in particular.\n\nAfter that dinner, I decided to do an informal survey, calling and meeting up with a lot of my friends who now work on improving model capabilities at these frontier labs. They all agreed with that first friend. These were all people I'd known 10, 15, 20 years, who mentored me, or I mentored them, or we met professionally in academia. These are people I trust, and their beliefs on this topic were consistent.\n\nI then spent a whole lot of time understanding the missions of different companies, and talking to current and former employees and people in leadership. I read Dario's (long) essays and watched videos on YouTube of company leaders being interviewed. Anthropic's stated mission \"to ensure that the world safely makes the transition through transformative AI\" felt like exactly the right guiding principle to handle such a society-disrupting technology, and everyone I spoke to at the company was very aligned with this mission. It's easily the most mission-focused place I've ever been at, and everyone takes the work extremely seriously and with a profound sense of responsibility.\n\nAnd now here I am. And being on the inside, the pace of progress has surprised me more than I first imagined. The moment that pure mathematicians are in, to me, is just a microcosm of what I predict a much larger of society will be grappling with in the not too distant future, and I really hope our leaders and the general public internalize sooner than later just how significant a moment we're in.",
+   "created_at": "Mon Oct 12 22:03:13 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "minilek",
+   "rt_author_name": "Jelani Nelson",
+   "likes": 957,
+   "retweets": 93,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-12T22:30:10.712105+00:00"
   }
  }
 }

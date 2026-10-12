@@ -1946,6 +1946,47 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-12T20:17:57.736106+00:00"
+  },
+  "2109770753654882617": {
+   "id": "2109770753654882617",
+   "url": "https://x.com/DKokotajlo/status/2109770753654882617",
+   "text": "“OpenAI has engaged in strong self-policing—of its own safety staff, but not of its own behavior.”\n\nMy op-ed with @amberscorah and Karl Koch: https://t.co/gNzhGsCtlD https://t.co/L25rx00p4i",
+   "created_at": "Mon Oct 12 22:18:39 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "Turn_Trout",
+   "rt_author_name": "Alex Turner",
+   "likes": 107,
+   "retweets": 12,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUca4H0XkAE7HGD.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-12T22:30:10.712105+00:00"
+  },
+  "2109760363613037046": {
+   "id": "2109760363613037046",
+   "url": "https://x.com/DKokotajlo/status/2109760363613037046",
+   "text": "Unfortunate for someone playing a senior role in US AI policy (via the new SI Force) to get so many basic facts wrong here. \n\n- The agents *were* sandboxed, and used zero days (ie previously unknown cyber flaws) to escape their sandboxes\n- The agents *were* given specific constraints on how to succeed at the benchmark, and flagrantly contravened them\n- The agents did *not* go hunt for the answers to the test (they already had the answers, by cheating); 1200 agents coordinated via tens of thousands of messages over several days on much more ambitious and weird attempts to *not be caught* for cheating, and hacking Hugging Face was one side quest along the way\n\nI know there has been an avalanche of different incidents over the past few months, and in some cases the sandboxes were misconfigured or it's not clear how far the agents strayed from what they were told. I have sympathy for anyone struggling to keep up.\n\nBut the HF incident is distinct, and is actually extremely informative about where AI development is and where it's going. Fortunately there are public writeups that do let us understand at least the basics of what happened. I hope Shyam reads them soon.",
+   "created_at": "Mon Oct 12 21:37:22 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "hlntnr",
+   "rt_author_name": "Helen Toner",
+   "likes": 418,
+   "retweets": 80,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-12T22:30:10.712105+00:00"
   }
  }
 }
