@@ -5103,6 +5103,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-13T18:19:02.186733+00:00"
+  },
+  "2110082045519245315": {
+   "id": "2110082045519245315",
+   "url": "https://x.com/s8mb/status/2110082045519245315",
+   "text": "I’m very biased, but the new @WorksInProgMag is IMO a masterpiece in both design and content.\n\nhttps://t.co/0oNl1XSoOE",
+   "created_at": "Tue Oct 13 18:55:37 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "patrickc",
+   "rt_author_name": "Patrick Collison",
+   "likes": 340,
+   "retweets": 21,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-13T20:41:57.755112+00:00"
   }
  }
 }

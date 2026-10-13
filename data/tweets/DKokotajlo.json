@@ -2023,6 +2023,29 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-13T18:19:02.186733+00:00"
+  },
+  "2110101174439514404": {
+   "id": "2110101174439514404",
+   "url": "https://x.com/DKokotajlo/status/2110101174439514404",
+   "text": "Over 400 researchers and I have signed this open letter calling for the AI and security communities to come together to improve alignment and containment approaches in order to protect our critical infrastructure and digital systems.\n\nhttps://t.co/KieWSpurn9 https://t.co/eK9DGS0M4C",
+   "created_at": "Tue Oct 13 20:11:38 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "Yoshua_Bengio",
+   "rt_author_name": "Yoshua Bengio",
+   "likes": 236,
+   "retweets": 58,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUhxr3mXYAA0yOF.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-13T20:41:57.755112+00:00"
   }
  }
 }
