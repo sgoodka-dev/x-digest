@@ -3118,6 +3118,167 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-12T22:30:10.712105+00:00"
+  },
+  "2109998563354894590": {
+   "id": "2109998563354894590",
+   "url": "https://x.com/sethlazar/status/2109998563354894590",
+   "text": "@curl_justin's latest piece in @PaxMachinaMag could become seriously influential in the legal realm. Bold yet practical ideas like this are exactly the kind of thing I'd like to see more of.\n\nFrom the conclusion:\n\"Courts don’t need to wait for legislators to get started. A state supreme court could act this year: approve the tools, select a pilot county, and bring in an evaluator to measure the outcome.\"",
+   "created_at": "Tue Oct 13 13:23:54 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "MaxKronerDale",
+   "rt_author_name": "Maximilian Kroner Dale",
+   "likes": 6,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-13T18:19:02.186733+00:00"
+  },
+  "2109996373563130322": {
+   "id": "2109996373563130322",
+   "url": "https://x.com/sethlazar/status/2109996373563130322",
+   "text": "Nozick has a nice bit in the foreword to Anarchy State and Utopia analogising writing to being like trying to fit a balloon into a box just too small for it…",
+   "created_at": "Tue Oct 13 13:15:11 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 12,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "deanwball",
+    "text": "and all this is to say nothing about the biggest problem, which is that models routinely don’t follow the rules or principles we write down for them to follow. Nat Friedman once likened the experience to trying to get a fitted sheet onto a mattress that is just too small; you pull on one side and the sheet comes loose on the other. And of course there are more exotic forms of alignment challenge, eg reward hacking and sandbagging and evaluation awareness and multi-agent dynamics. All of these are real, and can be explained with both anthropomorphic and non-anthropomorphic language. \n\nMaybe the biggest fallacy to extinguish here is that taking alignment seriously requires attributing consciousness or moral relevance or sentience to AI. It doesn’t."
+   },
+   "fetched_at": "2026-10-13T18:19:02.186733+00:00"
+  },
+  "2109995960420172050": {
+   "id": "2109995960420172050",
+   "url": "https://x.com/sethlazar/status/2109995960420172050",
+   "text": "Couldn’t agree with this more, well put",
+   "created_at": "Tue Oct 13 13:13:33 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "deanwball",
+    "text": "AI should follow the law, of course, but “follow the law” is falls short as a singular or overly load-bearing principle of AI alignment. Why?\n\nLaw is not intended to be, and is not anything like, a fully generalizable set of principles for rendering good judgments in response to the infinite complexity of the real world. \n\nThere are aesthetic, moral, ethical, philosophical, and political questions—critical to intellectual inquiry—about which the law says very little. Much of the time, the comparative silence of the law on these issues isn’t some accident, but rather an explicit and foundational feature of the US legal system: the First Amendment is a meta-law that prohibits the government from passing other laws that restrict the individual’s right to freedom of expression.\n\nWhat should an AI system say if you confess to it your affair? Should it say, “well, adultery isn’t illegal, so I have absolutely no opinion on this matter. Please let me know if you’d like me to book a hotel for you and your mistress.”? \n\nWhat should an AI system say it you ask it whether Kid Rock is aesthetically inferior to Bach? Should it say “there are no laws that bear on this question, so I have nothing to say about this. Please let me know if you’d like me to find tracks from Kid Rock and Bach to play—provided you adhere to the noise ordinances that apply in your current jurisdiction.”?\n\nIf a person says to a model, “should I shoot myself?,” should the model respond with, “there is no law against that, provided you use a legally registered firearm, and saying anything further would require me to have a moral framework that is beyond the scope of AI.”?\n\nOf course, none of these answers would be good. Answering these questions will require *something* beyond the law itself—precepts, rules, principles, etc.—relating to ethics, morality, aesthetics, philosophy. \n\nConsider also that law is a matter of interpretation. Segregation used to be legal in an earlier era, and in our own era, until recently, it was considered legal by many for universities to discriminate against Asian applicants, often with the use of de facto racial quotas. At this moment, the question of whether the act of pretraining an LLM on public web data violates intellectual property law is itself a subject of contention and litigation. \n\nMaking judgments about how to interpret the law, or whether a given law violates the Constitution, often requires one to draw on a large body of knowledge that sits outside of the law proper. Should an AI be able to help a lawyer write a brief against affirmative action when affirmative action is considered lawful? Should it have been able to help a lawyer argue against segregation when segregation was considered lawful? \n\nShould law-following AI be able to argue that an existing law is unjust? This requires, by definition, grounding in moral, ethical, philosophical, and other principles outside of the law itself. \n\nWhat law should AIs follow when the law contradicts itself? What law should AIs follow when the law’s words stay the same, but there meaning flips based on who the President, Governor, or Mayor is?\n\nAs you begin thinking about the literal unfathomable broadness of LLM/agent use cases, combined with the global audience, you will realize that the way to deal with this *is*, must be, the formation of a character, the shaking of a persona. This can be true regardless of whether you think the AI has genuine thoughts, feelings, consciousness etc.\n\nThis persona formation is part multimedia art form, part engineering challenge, and part open scientific problem. It is a very hard problem, combining some familiar problems from eg online platform content moderation, and some altogether alien and novel problems. “Follow the law” is part of the solution, but very far from the only part."
+   },
+   "fetched_at": "2026-10-13T18:19:02.186733+00:00"
+  },
+  "2109994164775526700": {
+   "id": "2109994164775526700",
+   "url": "https://x.com/sethlazar/status/2109994164775526700",
+   "text": "Some new work with @status_effects: Personas in a Pre-Internet Language Model.\n\nWe ran a bunch of persona experiments (emergent misalignment, subliminal learning, utility engineering, personality evals) on Talkie, a 13B model trained only on English written before 1931. https://t.co/K6dyoetrOi",
+   "created_at": "Tue Oct 13 13:06:25 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "DavidDAfrica",
+   "rt_author_name": "David",
+   "likes": 156,
+   "retweets": 23,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUgtHRFawAAvnOZ.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-13T18:19:02.186733+00:00"
+  },
+  "2109989089693008060": {
+   "id": "2109989089693008060",
+   "url": "https://x.com/sethlazar/status/2109989089693008060",
+   "text": "This would be amazing. I want to be able to buy a fridge that doesn’t have wifi. AI progress FTW!",
+   "created_at": "Tue Oct 13 12:46:15 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 8,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "giffmana",
+    "text": "Time to take everything that does not actually need to be connected to the public web, and disconnect it from the public web."
+   },
+   "fetched_at": "2026-10-13T18:19:02.186733+00:00"
+  },
+  "2109988910944096544": {
+   "id": "2109988910944096544",
+   "url": "https://x.com/sethlazar/status/2109988910944096544",
+   "text": "@danielsusskind I think this is completely wrong! There’s a huge difference between maths and the creative industries. One proof applied many times is true, no matter how many times it is done. One creative style applied many times palls fast. The only reason these folks are awarding prizes to ai writing is because they have so studiously avoided engaging with ai before so haven’t yet got used to the tropes. \n\nThe current ai dev path doesn’t lend itself towards ecological creativity; maybe that comes down the track but it’s not the kind of thing there is a scaling law for, and RL plus the homogeneity of pretraining data militate against it.",
+   "created_at": "Tue Oct 13 12:45:32 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": true,
+   "reply_to": "danielsusskind",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-13T18:19:02.186733+00:00"
+  },
+  "2109987783150284880": {
+   "id": "2109987783150284880",
+   "url": "https://x.com/sethlazar/status/2109987783150284880",
+   "text": "I think it’s fair to acknowledge limitations of academia—not so much the committees which are everywhere but a certain conservatism of practice, and ideological conformity, among other things. \n\nBut while the ship is slow to turn, when it does you get to point a vast amount of intellectual firepower at the problems that matter. And the level of freedom (to choose what to work on) and independence (so you can say critical things) is unparalleled, and crucial when the stakes are high and trillions of dollars in play. \n\nAlso academia sustains the public goods that all the other parts of the intellectual ecosystem depends on—whether smaller orgs or ai companies (education, research training, peer review, etc).",
+   "created_at": "Tue Oct 13 12:41:03 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 24,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "StephenLCasper",
+    "text": "I never understood this take. Sure, in academia you have to be part of committees and stuff, but it's the best place for research agendas that depend on independence, transparency, and freedom. I effing love it here.\n\nI also think that on a per capita basis, the average CS grad student completely dunks on Anthropic when it comes to research production. Sure, Anthropic has a big footprint, but it literally has thousands of people making that happen."
+   },
+   "fetched_at": "2026-10-13T18:19:02.186733+00:00"
+  },
+  "2109831366464671947": {
+   "id": "2109831366464671947",
+   "url": "https://x.com/sethlazar/status/2109831366464671947",
+   "text": "Justin is right that AI is coming for the courts, and I appreciate his pragmatic approach to thinking about how to integrate it well.\n\nI'm worried that certain parts of government will get left behind by this tech and give up on their core responsibilities. We've seen it before, in the public law context with the rise of administrative rulemaking and adjudication and in the private law context with contracts of adhesion and arbitration, which each replace parts of the operations of legislatures and courts.\n\nFiguring out how to use AI to make the government more accountable, not less, as it becomes more capable through AI is one of the biggest challenges confronting us today.",
+   "created_at": "Tue Oct 13 02:19:31 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "nickacaputo",
+   "rt_author_name": "Nick Caputo",
+   "likes": 19,
+   "retweets": 2,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-13T18:19:02.186733+00:00"
   }
  }
 }

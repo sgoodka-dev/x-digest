@@ -2480,6 +2480,112 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-12T20:17:57.736106+00:00"
+  },
+  "2109983187120136659": {
+   "id": "2109983187120136659",
+   "url": "https://x.com/theobearman/status/2109983187120136659",
+   "text": "Recent statements from OpenAI and Anthropic—amid the series of unsanctioned agent incidents this summer—point to growing reliance on embedded evaluators as an additional line of defense against risks from AI systems. While welcome in principle, we must judge these arrangements by their substance, not their mere presence, to assess their potential to meaningfully reduce risk.\n\nCrucially, these embedded evaluation deals are currently voluntary, as no state legislation formalizing third-party AI audits has taken effect yet, and Congress is still considering proposals for a federal framework. Meanwhile, AI capabilities show no sign of slowing, while progress on managing and mitigating risks lags behind. In this context, embedded evaluation agreements signed now must proactively account for the risk of producing \"safety theater\" and ensure evaluators’ work is credible, robust, and meaningful.\n\nIn light of this, my new @iapsAI policy memo, out today, offers five contractual foundations that these voluntary arrangements should be built on:\n\n1️⃣ Ensure embedded evaluation arrangements can operate across the model lifecycle;\n2️⃣ Let embedded evaluators choose the objects of their assessment;\n3️⃣ Give embedded evaluators sufficient time to do their work;\n4️⃣ Proactively reduce conflicts of interest; and\n5️⃣ Guarantee non-retaliation for good-faith whistleblowing.\n\nRead more in the linked post.",
+   "created_at": "Tue Oct 13 12:22:48 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "iapsAI",
+    "text": "1/4 Following a string of recent incidents involving rogue agent activity, both Anthropic and OpenAI have committed to embedding third-party evaluators—independent external experts who assess safety, security, and operational practices—within their companies."
+   },
+   "fetched_at": "2026-10-13T18:19:02.186733+00:00"
+  },
+  "2109929066044244437": {
+   "id": "2109929066044244437",
+   "url": "https://x.com/theobearman/status/2109929066044244437",
+   "text": "@willzhou97 @bucketofkets This is really interesting work, @willzhou97. Thanks for putting it out there. I'm wondering how your plot below would look if you used the cyber or SWE ECI instead of the mainline one, which reflects capabilities more generally. Is the latter strictly necessary for this experiment? Thanks!\n\nhttps://t.co/qOi8IRpsb4\n\nhttps://t.co/IrUOocNyJZ",
+   "created_at": "Tue Oct 13 08:47:44 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "willzhou97",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUf5S8rWMAALDPR.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-13T18:19:02.186733+00:00"
+  },
+  "2109918777554989480": {
+   "id": "2109918777554989480",
+   "url": "https://x.com/theobearman/status/2109918777554989480",
+   "text": "Great blog post showing Anthropic's progress in reducing the success rate of distillation attacks. A few particular snippets I would highlight:\n\n\"Early evidence suggests that these methods have reduced the amount of data harvested by distillers by around 90 to 99 percent.\"\n\n\"We’ve worked to make it as difficult to use a Claude model for distillation as it is to use Claude for harmful tasks in cybersecurity or biology. [...]. Specifically, we built a two-stage classifier system of the kind we described in our constitutional classifiers research. [... O]ur safeguards are now roughly as robust as those that prevent Claude from helping build bioweapons, and they have a false positive rate of less than 0.1%.\"\n\n\"On our most capable generally available models, our two-stage classifier now catches all of the distillation techniques we described in our September report.\"\n\n\"We expect that distillation will remain a cat-and-mouse game, and that we’ll need to continue iterating on our defenses over time. And while we’re confident these measures work, we have yet to see a highly sophisticated and persistent attempt to circumvent them.\"\n\n\"[...] preventing illicit distillation requires work and buy-in from all frontier model developers. Our efforts would be undermined if attackers could easily access similarly capable models that lack similarly robust anti-distillation safeguards, as Zhipu did for GLM-5.3.\"\n\n\"Distillers distribute traffic across Anthropic’s API, third-party cloud platforms, and other inference providers. For that reason, platforms—as well as developers—have a role to play in reducing distillation.\"\n\n\"Defenses are expensive, and illicit distillers are still paying customers. Against that backdrop, it would be easy for companies to do nothing, or not enough.\"\n\n\"Zhipu [...] distilled the cyber capabilities of leading US models during the development of GLM-5.3. The company tried to distill Claude Fable 5—although, after finding that our cyber safeguards degraded its attacks, it switched to an older Claude model and another lab’s model. The US Center for Advancing Innovation and Standards for Super Intelligence (CAISSI) has since assessed GLM-5.3 to be the most cyber-capable open-weights model released to date. Our own research has found that GLM-5.3’s safeguards can easily be bypassed, and that the model is willing to develop security exploits from end-to-end.\"\n\n\"With Claude Fable 5.1 and Claude Opus 5.5, we introduced preserved thinking, a measure that prevents new API accounts [...] from editing Claude’s prior context. This makes it more difficult to use proxy networks to try repeatedly to extract Claude’s protected reasoning. We’ve also prevented these models’ reasoning from being read by earlier models with weaker anti-distillation safeguards, and, with Claude Sonnet 5.5, we’ve made reasoning transcripts accessible only to the organization whose request produced the transcript.\"",
+   "created_at": "Tue Oct 13 08:06:51 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 5,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUfuCWcWgAAa9-K.png"
+    }
+   ],
+   "quoted": {
+    "author": "AnthropicAI",
+    "text": "Over the last few months, we’ve made significant progress in reducing the effectiveness of distillation attacks against Claude.\n\nIn this post, we explain how: https://t.co/uWiRSLBuOS"
+   },
+   "fetched_at": "2026-10-13T18:19:02.186733+00:00"
+  },
+  "2109908467972493557": {
+   "id": "2109908467972493557",
+   "url": "https://x.com/theobearman/status/2109908467972493557",
+   "text": "the researchers at all the labs would tell you in private and sometimes in public that alignment has not been solved. if this is true, then racing into RSI is a folly that is unprecedented in world history. we will need to significantly slow the frontier of research very soon",
+   "created_at": "Tue Oct 13 07:25:53 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "tszzl",
+   "rt_author_name": "roon",
+   "likes": 2813,
+   "retweets": 293,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-13T18:19:02.186733+00:00"
+  },
+  "2109908430118895793": {
+   "id": "2109908430118895793",
+   "url": "https://x.com/theobearman/status/2109908430118895793",
+   "text": "Exciting work from @willzhou97 (Fellow, now full time!) and @bucketofkets on the Frontier Red Team. One of the cool parts of the job is seeing a future world early. We think this one is ~pretty underpriced.\n\n\"We should aim to harden our systems to make it difficult for such replicators to spread, but also prepare to deal with a world where they are here to stay.\"",
+   "created_at": "Tue Oct 13 07:25:44 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "logangraham",
+   "rt_author_name": "Logan Graham",
+   "likes": 230,
+   "retweets": 25,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-13T18:19:02.186733+00:00"
   }
  }
 }

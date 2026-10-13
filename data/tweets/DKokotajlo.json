@@ -1987,6 +1987,42 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-12T22:30:10.712105+00:00"
+  },
+  "2110060756767310092": {
+   "id": "2110060756767310092",
+   "url": "https://x.com/DKokotajlo/status/2110060756767310092",
+   "text": "Yeah, everything the labs are saying is, \"We're not ready for RSI.\" It's not even clear they think we're ready for just slightly better models short of RSI. But also, they're trying to do RSI! It's inherently absurd. And dangerous.",
+   "created_at": "Tue Oct 13 17:31:02 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "NateSilver538",
+   "rt_author_name": "Nate Silver",
+   "likes": 922,
+   "retweets": 69,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-13T18:19:02.186733+00:00"
+  },
+  "2109797447472185410": {
+   "id": "2109797447472185410",
+   "url": "https://x.com/DKokotajlo/status/2109797447472185410",
+   "text": "“I couldn’t face the fact that my work — my life’s work — could do harm. I fell into the trap of motivated reasoning, believing what I needed to believe so that I could keep doing the work I loved.”",
+   "created_at": "Tue Oct 13 00:04:44 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "Tim_Hua_",
+   "rt_author_name": "Tim Hua 🇺🇦",
+   "likes": 111,
+   "retweets": 10,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-13T18:19:02.186733+00:00"
   }
  }
 }

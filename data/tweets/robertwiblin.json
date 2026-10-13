@@ -2856,6 +2856,65 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-12T20:17:57.736106+00:00"
+  },
+  "2110029962472538428": {
+   "id": "2110029962472538428",
+   "url": "https://x.com/robertwiblin/status/2110029962472538428",
+   "text": "Link: https://t.co/A3fTxJSpqq",
+   "created_at": "Tue Oct 13 15:28:40 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 10,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-13T18:19:02.186733+00:00"
+  },
+  "2110029811858948187": {
+   "id": "2110029811858948187",
+   "url": "https://x.com/robertwiblin/status/2110029811858948187",
+   "text": "Anthropic's leaders need to stop commenting on the emergence of RSI like a local news anchor reporting on traffic on the 101, and acknowledge that they are the traffic, and they're not going to build something that they don't want to exist. \n\nThey should move beyond \"pacing\" language, commit to specific policies and red lines, explain why those lines are red, and then use that costly signal to build an international consensus around norms.\n\nIt's not that I trust the CCP, or that I think global lab monitoring and verification is imminent. But the status quo is absurd. \n\nYou've got US lab leaders writing (or favorably quote-tweeting) essays about slowing down while simultaneously saying \"things are moving faster and faster\" and \"btw, our internal models finished mathematics on Tuesday, next up: physics.\" \n\nThe effect is the equivalent of Usain Bolt winning race after race while using his press conferences to bemoan the dangerous speed of modern sprinting on one's legs so would everybody please try a little less hard next race, and then ... breaking his 100m record again the following month. Honestly ask yourself: If you were China, why would you take this pausing/pacing stuff seriously?",
+   "created_at": "Tue Oct 13 15:28:04 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "DKThomp",
+   "rt_author_name": "Derek Thompson",
+   "likes": 853,
+   "retweets": 111,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-13T18:19:02.186733+00:00"
+  },
+  "2109958813868573167": {
+   "id": "2109958813868573167",
+   "url": "https://x.com/robertwiblin/status/2109958813868573167",
+   "text": "Jack Clark of Anthropic now thinks it's more likely we see full RSI become possible in 2027 than in 2028. https://t.co/ttga3JItKY",
+   "created_at": "Tue Oct 13 10:45:57 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1383,
+   "retweets": 138,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUgUJbKXcAAjRYQ.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-13T18:19:02.186733+00:00"
   }
  }
 }

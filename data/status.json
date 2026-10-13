@@ -1,11 +1,11 @@
 {
  "last_run": {
-  "started": "2026-10-12T22:30:10.712105+00:00",
+  "started": "2026-10-13T18:19:02.186733+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
-    "new": 0,
-    "total": 101
+    "new": 3,
+    "total": 104
    },
    "add_hawk": {
     "ok": true,
@@ -24,23 +24,23 @@
    },
    "curl_justin": {
     "ok": true,
-    "new": 1,
-    "total": 88
+    "new": 6,
+    "total": 94
    },
    "DaveRBanerjee": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 111
    },
    "DKokotajlo": {
     "ok": true,
     "new": 2,
-    "total": 116
+    "total": 118
    },
    "dwarkesh_sp": {
     "ok": true,
-    "new": 0,
-    "total": 72
+    "new": 9,
+    "total": 81
    },
    "jkcarlsmith": {
     "ok": true,
@@ -54,7 +54,7 @@
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 93
    },
    "ohlennart": {
@@ -64,8 +64,8 @@
    },
    "sayashk": {
     "ok": true,
-    "new": 0,
-    "total": 90
+    "new": 1,
+    "total": 91
    },
    "testingham": {
     "ok": true,
@@ -79,28 +79,28 @@
    },
    "s8mb": {
     "ok": true,
-    "new": 2,
-    "total": 241
+    "new": 20,
+    "total": 261
    },
    "random_walker": {
     "ok": true,
-    "new": 0,
-    "total": 86
+    "new": 1,
+    "total": 87
    },
    "sethlazar": {
     "ok": true,
-    "new": 1,
-    "total": 162
+    "new": 8,
+    "total": 170
    },
    "robertwiblin": {
     "ok": true,
-    "new": 0,
-    "total": 134
+    "new": 3,
+    "total": 137
    },
    "deanwball": {
     "ok": true,
-    "new": 0,
-    "total": 293
+    "new": 3,
+    "total": 296
    },
    "nabeelqu": {
     "ok": true,
@@ -109,8 +109,8 @@
    },
    "theobearman": {
     "ok": true,
-    "new": 0,
-    "total": 116
+    "new": 5,
+    "total": 121
    },
    "peterwilderford": {
     "ok": true,
@@ -123,7 +123,7 @@
     "total": 109
    }
   },
-  "new_tweets": 9,
-  "finished": "2026-10-12T22:30:45.884786+00:00"
+  "new_tweets": 61,
+  "finished": "2026-10-13T18:19:44.531464+00:00"
  }
 }
