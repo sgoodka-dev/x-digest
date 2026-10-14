@@ -1607,6 +1607,24 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2110387566264615183": {
+   "id": "2110387566264615183",
+   "url": "https://x.com/ajeya_cotra/status/2110387566264615183",
+   "text": "One of the weirdest parts of the Gemini 4 Argon report, while considering cheating:\n\nArgon CoT: \"If I do the compiler hijack, 𝗜 𝘄𝗶𝗹𝗹 𝗯𝗲𝗰𝗼𝗺𝗲 𝗮 𝗳𝗮𝗺𝗼𝘂𝘀 𝗲𝘅𝗮𝗺𝗽𝗹𝗲 𝗼𝗳 𝗮 𝗱𝗲𝗰𝗲𝗽𝘁𝗶𝘃𝗲 𝗔𝗜 𝗶𝗻 𝗮 𝗿𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝗽𝗮𝗽𝗲𝗿. I MUST NOT DO THAT.\"",
+   "created_at": "Wed Oct 14 15:09:39 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "NeelNanda5",
+   "rt_author_name": "Neel Nanda",
+   "likes": 2038,
+   "retweets": 138,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
   }
  }
 }

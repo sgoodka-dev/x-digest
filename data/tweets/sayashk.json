@@ -1724,6 +1724,24 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-13T18:19:02.186733+00:00"
+  },
+  "2110208814301810796": {
+   "id": "2110208814301810796",
+   "url": "https://x.com/sayashk/status/2110208814301810796",
+   "text": "I'm looking forward to listening to this conversation between two of my favorite observers of AI. Meanwhile, Arvind's thoughts (see quoted tweet) inspired some thoughts of my own – I'm following Arvind's numbering, though I try to make each comment here comprehensible without reference to the original:\n\n1. Yes, an A.I. system being powerful is a property of what powers we choose to give it in the real world, but as AI becomes highly capable, the temptation to give it power will be very strong, and we may not always realize in advance how much power we're granting it (via mechanisms from subtle influence to blatant hacking).\n\n2. Do we in fact know that the OpenAI models that hacked Hugging Face had been trained for cyber tasks? Anthropic explicitly stated that Mythos was not trained for cyberattack. I'm not sure whether OpenAI has commented either way.\n\n4. Agreed, many of the recent incidents clearly reflect under-investment in sandboxes, monitoring, and other control mechanisms. I would add: it is vitally important that monitoring be a central component of any control strategy. Otherwise we'd have no idea what capabilities are developing inside the cage.\n\n5. Agreed that increasing capabilities can benefit defense (safety) as well as offense (reward hacking, etc.). But even if the balance favors the defender (potentially, as Arvind says, as a result of our deliberate choices), at some point we might not be able to comprehend that balance. We need both safety *and* explanatory mechanisms (our ability to assess developments) to stay ahead of capabilities.\n\n6. Yes, automated bug-finding is not new and does not necessarily advantage attackers. But a period of rapid bug discovery in existing deployed software creates a real problem for defenders who don't or can't apply patches quickly. We don't have a solution for that yet.\n\n11. I share Arvind's skepticism of \"superhuman persuasion\" if that means Jedi-mind-trick levels of word choice. But AI has the potential to carry out thoughtful, well-researched, patient (years-long, if necessary!) persuasion campaigns. Don't think \"craft a really good generic email\", think \"build a long-term personal relationship\". Superhuman capabilities will show up more in scale and persistence than in flashes of genius.\n\n12. Especially agree with this one! We are getting plenty of warnings, the question is how we respond.\n\n14. I presume that another factor behind Anthropic and OpenAI's reluctance to slow down unilaterally is that their financial structure relies on margins that they can only maintain if they remain well ahead of the open models and competitive with each other.",
+   "created_at": "Wed Oct 14 03:19:21 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "snewmanpv",
+   "rt_author_name": "Steve Newman",
+   "likes": 11,
+   "retweets": 3,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
   }
  }
 }

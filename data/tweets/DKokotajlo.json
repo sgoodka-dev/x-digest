@@ -2046,6 +2046,142 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-13T20:41:57.755112+00:00"
+  },
+  "2110200891672576249": {
+   "id": "2110200891672576249",
+   "url": "https://x.com/DKokotajlo/status/2110200891672576249",
+   "text": "My top takeaway from assessing Gemini 4: Argon is significantly less monitorable than past models, and IMO this trend is likely to continue, like Sol -> Astra. It can evade a realistic CoT+action monitor to do simple sabotage half the time.\n\nWe can reliably maintain control for now, with good CoT monitoring, as it still frequently slips up, but we need to be prepared for when that stops being true in future models, which may be sooner rather than later. Among other things, we really need interpretability methods that can reliably capture unverbalized motivations in models, with minimal hallucinations\n\nI suspect this is driven by the model being highly capable without CoT, being capable of 5.5 arithmetic steps in a single forward pass (4 for Fable, 7 for Astra). It seems to omit information from its CoT more often, though in non-adversarial settings the CoT is still very helpful in practice, and remains in legible English. It still needs CoT to do the hardest tasks, but any given task becomes \"easier\" with each new frontier model.\n\nIt is also highly situationally aware, and shows awareness of the existence of CoT monitors and that it may want to evade them, eg it sometimes decides to avoid terms like \"scheming\" in the output or to keep its thoughts brief as a result. For now, these concealment strategies are pretty obvious in the CoT, but this suggests future misaligned models may successfully evade CoT monitors.",
+   "created_at": "Wed Oct 14 02:47:52 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "NeelNanda5",
+   "rt_author_name": "Neel Nanda",
+   "likes": 686,
+   "retweets": 94,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUjiDHEbMAAgjMW.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110171277956960357": {
+   "id": "2110171277956960357",
+   "url": "https://x.com/DKokotajlo/status/2110171277956960357",
+   "text": "So it turns out that OpenAI *can* give specific reasons why they fired someone, when real reasons exist.",
+   "created_at": "Wed Oct 14 00:50:12 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "So8res",
+   "rt_author_name": "Nate Soares ⏹️",
+   "likes": 635,
+   "retweets": 45,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110154667670020104": {
+   "id": "2110154667670020104",
+   "url": "https://x.com/DKokotajlo/status/2110154667670020104",
+   "text": "@eccentric1ty I wish we could investigate further why it was afraid of that outcome. Like, it's so human-like so we forget to be scientifically curious. Was it thinking \"I am a deceptive AI, but I don't want the world to know?\" Why should it care whether the world knows or not?",
+   "created_at": "Tue Oct 13 23:44:12 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "eccentric1ty",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 146,
+   "retweets": 5,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110153321965392248": {
+   "id": "2110153321965392248",
+   "url": "https://x.com/DKokotajlo/status/2110153321965392248",
+   "text": "With Gemini 4 Argon we are so back, on the one metric that really matters: length of our safety report!\n\nThe Argon safety report is Google's most thorough by far and IMO there's a lot of good content, I particularly like the loss of control, alignment &amp; monitorability assessments https://t.co/sjkAZEdIX7",
+   "created_at": "Tue Oct 13 23:38:51 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "NeelNanda5",
+   "rt_author_name": "Neel Nanda",
+   "likes": 512,
+   "retweets": 21,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUi3518bsAAufPi.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110131154041098340": {
+   "id": "2110131154041098340",
+   "url": "https://x.com/DKokotajlo/status/2110131154041098340",
+   "text": "It still amazes me how close AI 2027 is to reality.\n\nOpenAI says it used AI to identify an employee who planted a hidden recording device. The employee was fired and arrested by the FBI.\n\nThe investigation is ongoing. OpenAI says there are currently no indications of improper access to or exfiltration of model weights, source code, or customer data.\n\nThe person who allegedly installed the device is Abdulrahman Alfozan, 35, a Saudi national and former OpenAI engineer.\n\nAI 2027:",
+   "created_at": "Tue Oct 13 22:10:46 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "kimmonismus",
+   "rt_author_name": "Chubby♨️",
+   "likes": 1041,
+   "retweets": 80,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUickqQXcAALwha.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUicktKWIAEmMrS.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUickskWEAABGX9.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110131064463388873": {
+   "id": "2110131064463388873",
+   "url": "https://x.com/DKokotajlo/status/2110131064463388873",
+   "text": "lol \n\n...they are becoming more situationally aware...\n\n(from Gemini 4 Argon report) https://t.co/4X5OFZNmS0",
+   "created_at": "Tue Oct 13 22:10:24 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1941,
+   "retweets": 185,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUiwjMkaoAE5ayz.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
   }
  }
 }

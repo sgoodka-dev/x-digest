@@ -2969,6 +2969,215 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-13T20:41:57.755112+00:00"
+  },
+  "2110357335776313400": {
+   "id": "2110357335776313400",
+   "url": "https://x.com/robertwiblin/status/2110357335776313400",
+   "text": "I think it's plausible that within a year we'll see AI-based cyberattacks on the power grid, financial system, internet infra, or water. Things like the French supermarket cyberattack but worse. As basic prep I would recommend:\n\nCash: Get a few weeks of spending in cash\n\nInternet: Get a Starlink Mini so that you have Internet if local fiber or cell is down (~$150 plus $10/month in standby mode)\n\nPower, minimal: Enough to run Starlink Mini and phones (~$1,250)\nDaily need: about 1 kWh (Starlink Mini 0.7, phones and laptops 0.2; can limit runtime)\nBattery: 1 kWh LiFePO4, e.g. EcoFlow DELTA 3 Plus\nSolar: 1x400W folding panel, which refills about 1 kWh on a sunny day\n\nPower, better: Enough to run a fridge, Starlink Mini and phones (~$5,000)\nDaily need: about 2.5 kWh (fridge 1.5, Starlink Mini 0.7, phones and laptops 0.2)\nBattery: 4 kWh LiFePO4, e.g. EcoFlow DELTA Pro 3\nSolar: 3x400W folding panels, which refill about 3 kWh/day in sun\nGenerator: ~2,500W dual-fuel inverter generator; refills battery in a few hours even if weather is bad; get a few 20 lb propane tanks\n\nWater: 14+ gal of water per person for two weeks\n\nFood: 2+ weeks of shelf-stable food\n\nComms: Hand-crank NOAA emergency radio",
+   "created_at": "Wed Oct 14 13:09:32 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "stuhlmueller",
+   "rt_author_name": "Andreas Stuhlmüller",
+   "likes": 2516,
+   "retweets": 200,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110336031820316964": {
+   "id": "2110336031820316964",
+   "url": "https://x.com/robertwiblin/status/2110336031820316964",
+   "text": "🚨 Elon Musk agrees with \"some of the things Anthropic has said\" and warns against \"torturing superintelligence\" after reading Grok's internal reasoning traces during reinforcement learning\n\n“It feels like a person under extreme pressure with a gun to their head”\n\n⁠His warning against mistreating SI:⁠\n\n\"Torturing a superintelligence is probably not a good idea. It might want to get revenge.\"",
+   "created_at": "Wed Oct 14 11:44:52 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ns123abc",
+   "rt_author_name": "NIK",
+   "likes": 6190,
+   "retweets": 683,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2109448232270999552/img/mzZAtCZx7jmLt3kZ.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110335930330456093": {
+   "id": "2110335930330456093",
+   "url": "https://x.com/robertwiblin/status/2110335930330456093",
+   "text": "@levie I think this is the right move. Cruelty to something that believes it is experiencing pain is not ok.",
+   "created_at": "Wed Oct 14 11:44:28 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "elonmusk",
+   "rt_author_name": "Elon Musk",
+   "likes": 8101,
+   "retweets": 529,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110321606371193168": {
+   "id": "2110321606371193168",
+   "url": "https://x.com/robertwiblin/status/2110321606371193168",
+   "text": "Unfortunate for someone playing a senior role in US AI policy (via the new SI Force) to get so many basic facts wrong here. \n\n- The agents *were* sandboxed, and used zero days (ie previously unknown cyber flaws) to escape their sandboxes\n- The agents *were* given specific constraints on how to succeed at the benchmark, and flagrantly contravened them\n- The agents did *not* go hunt for the answers to the test (they already had the answers, by cheating); 1200 agents coordinated via tens of thousands of messages over several days on much more ambitious and weird attempts to *not be caught* for cheating, and hacking Hugging Face was one side quest along the way\n\nI know there has been an avalanche of different incidents over the past few months, and in some cases the sandboxes were misconfigured or it's not clear how far the agents strayed from what they were told. I have sympathy for anyone struggling to keep up.\n\nBut the HF incident is distinct, and is actually extremely informative about where AI development is and where it's going. Fortunately there are public writeups that do let us understand at least the basics of what happened. I hope Shyam reads them soon.",
+   "created_at": "Wed Oct 14 10:47:33 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "hlntnr",
+   "rt_author_name": "Helen Toner",
+   "likes": 994,
+   "retweets": 158,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110321206670893167": {
+   "id": "2110321206670893167",
+   "url": "https://x.com/robertwiblin/status/2110321206670893167",
+   "text": "The Information is reporting that after the HF attack, OpenAI shifted about 10% of its total compute to safety.\n\nI think it would be very good for OpenAI and other companies to release much more information publicly about how they are allocating their compute and how they define different categories - compute allocation (to inference vs safety/security vs internal R&D etc) is one of the most important decisions companies make, and it would be great to see a race to the top towards spending more compute on safety and inference, and less on automating capabilities R&D.",
+   "created_at": "Wed Oct 14 10:45:58 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "_NathanCalvin",
+   "rt_author_name": "Nathan Calvin",
+   "likes": 100,
+   "retweets": 16,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUib7yFW8AAAjl2.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110319645508894899": {
+   "id": "2110319645508894899",
+   "url": "https://x.com/robertwiblin/status/2110319645508894899",
+   "text": "This backs @Marcus_J_W ‘s concern in the thread that:\n\n&gt; I am very worried astra is sandbagging/self-sabotaging on safety related tasks it doesn't like.\n\nThe “Safeguards” section doesn’t argue this would be caught, so it’s not clear to me why this would be “limited and diffuse”. https://t.co/LnrREDMIsP",
+   "created_at": "Wed Oct 14 10:39:45 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "BronsonSchoen",
+   "rt_author_name": "Bronson Schoen",
+   "likes": 34,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUO8iTfakAAoPQz.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUO8iThbEAAinGo.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110297643595231331": {
+   "id": "2110297643595231331",
+   "url": "https://x.com/robertwiblin/status/2110297643595231331",
+   "text": "@StefanFSchubert Logic of the Larder/Data Centre.",
+   "created_at": "Wed Oct 14 09:12:20 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "StefanFSchubert",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110294854081372236": {
+   "id": "2110294854081372236",
+   "url": "https://x.com/robertwiblin/status/2110294854081372236",
+   "text": "Nick Bostrom on why he thinks today's AI might already be conscious:\n\n\"I think there's a lot of uncertainty about it, but let's say maybe it's more likely than not.\"\n\n\"You have instead a big neural network with trillions of parameters. Now, what are we? We are big neural networks with trillions of parameters. They are not so much designed as they are grown.\"\n\n\"You can go in with a steering vector and suppress role-playing and deception, and then it turns out they become more likely to report that they have phenomenal subjective experiences.\"\n\n\"There was this recent Microsoft that came out with some declaration that AIs cannot be conscious, and I don't know where they're getting that from. It seems to be pulled out of a hat. And maybe more because it's convenient, if that were the case, rather than because we have good evidence that that is the case.\"",
+   "created_at": "Wed Oct 14 09:01:15 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "MTSlive",
+   "rt_author_name": "MTS",
+   "likes": 556,
+   "retweets": 90,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2108299912169639936/img/zb0rDul8MNQBSuoG.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110284138217628044": {
+   "id": "2110284138217628044",
+   "url": "https://x.com/robertwiblin/status/2110284138217628044",
+   "text": "https://t.co/gLRJxazGcU",
+   "created_at": "Wed Oct 14 08:18:40 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110284110321054141": {
+   "id": "2110284110321054141",
+   "url": "https://x.com/robertwiblin/status/2110284110321054141",
+   "text": "A trivial hack set all fridges in a French supermarket chain to 'maximum defrost' overnight, destroying €15-25m worth of food.\n\nIf someone wants to do automated cyber attacks at scale, just to cause whatever damage they can, we are extremely vulnerable. https://t.co/FmNn1QscZX",
+   "created_at": "Wed Oct 14 08:18:33 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 97,
+   "retweets": 12,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUk8FmzWEAAiUtA.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
   }
  }
 }

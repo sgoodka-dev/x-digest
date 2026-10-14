@@ -1446,6 +1446,42 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-12T20:17:57.736106+00:00"
+  },
+  "2110206744580489549": {
+   "id": "2110206744580489549",
+   "url": "https://x.com/ohlennart/status/2110206744580489549",
+   "text": "what i like about “pacing” is that it kinda acknowledges we don’t really know what to do. we can’t exactly say what’s dangerous or how to go about the things we see on the horizon. so we went meta: slowing down to buy some time.",
+   "created_at": "Wed Oct 14 03:11:08 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 40,
+   "retweets": 3,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110200227215065348": {
+   "id": "2110200227215065348",
+   "url": "https://x.com/ohlennart/status/2110200227215065348",
+   "text": "TIL that global spending on alcohol is still larger than AI infrastructure spending this year ($1.7T vs $1.5T)",
+   "created_at": "Wed Oct 14 02:45:14 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1238,
+   "retweets": 43,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
   }
  }
 }

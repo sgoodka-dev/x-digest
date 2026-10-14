@@ -1701,6 +1701,24 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-13T18:19:02.186733+00:00"
+  },
+  "2110382619804287301": {
+   "id": "2110382619804287301",
+   "url": "https://x.com/random_walker/status/2110382619804287301",
+   "text": "I'm told I've been appointed to an endowed professorship, the Bertram and Carole Siegel Professor of Computer Science. I've long thought my work is more legible outside the academy than inside it, so I'm delighted and honored to be recognized by my university, and grateful for the Siegel Family Endowment's support that made this possible.\n\nI found out in an email out of the blue — I didn't even know I'd been nominated or anything! Apparently this is not the kind of thing one needs to get external letters for. Over two decades in academia and still so much to learn about how things work around here 😄",
+   "created_at": "Wed Oct 14 14:50:00 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 133,
+   "retweets": 3,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
   }
  }
 }

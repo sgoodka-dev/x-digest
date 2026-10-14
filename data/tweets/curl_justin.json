@@ -1660,6 +1660,47 @@
     "text": "Political scientists and economists: we're looking for researchers with deep expertise to come work with us for a unique 4-month fellowship at @AnthropicAI. You'll work closely with us to evaluate, improve, and apply Claude's capabilities in your field. It's going to be extremely fun and interesting work, and definitely worth taking a short leave from your university for if you need to!\n\nMore info here:\n\nhttps://t.co/Cea1SZUe1k"
    },
    "fetched_at": "2026-10-13T18:19:02.186733+00:00"
+  },
+  "2110386653823107256": {
+   "id": "2110386653823107256",
+   "url": "https://x.com/curl_justin/status/2110386653823107256",
+   "text": "@random_walker Congrats!! Very well deserved",
+   "created_at": "Wed Oct 14 15:06:02 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": true,
+   "reply_to": "random_walker",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110380679003525183": {
+   "id": "2110380679003525183",
+   "url": "https://x.com/curl_justin/status/2110380679003525183",
+   "text": "Come work with me! My team at Anthropic is hiring someone to help develop our public policy positions on frontier AI safety: topics like loss-of-control, automation of AI R&D, monitorability, and independent evaluation. We’re looking for someone with deep expertise in some of these areas and familiarity with the technical AI safety/governance landscape. You’d develop new policy positions, participate in cross-company fora, give feedback on AI safety legislation, and work closely with our technical teams. It’ll be a blast.\n\nhttps://t.co/ONPIsrNiAt",
+   "created_at": "Wed Oct 14 14:42:17 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "manaltdan",
+   "rt_author_name": "Dan Altman",
+   "likes": 53,
+   "retweets": 10,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUl6lYIXoAAvP_A.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
   }
  }
 }

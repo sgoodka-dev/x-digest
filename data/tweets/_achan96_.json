@@ -1784,6 +1784,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-13T18:19:02.186733+00:00"
+  },
+  "2110138204221243431": {
+   "id": "2110138204221243431",
+   "url": "https://x.com/_achan96_/status/2110138204221243431",
+   "text": "We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier. We referred the matter to the FBI, and we’re grateful to the agents and prosecutors who moved quickly to make an arrest. The FBI’s investigation is ongoing and we will continue to support their work.\n\nAt this time, we have no indications of this individual inappropriately accessing or exfiltrating model weights, source code, or customer data. The employee was terminated.\n\nWe take protecting our technology, data, and people seriously, and as a matter of national importance. Our security program is designed to protect against a wide range of threat actors, from insider risks to cybercriminals to nation states, and this case is an example of how AI can help address these sophisticated security threats.",
+   "created_at": "Tue Oct 13 22:38:47 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "OpenAINewsroom",
+   "rt_author_name": "OpenAI Newsroom",
+   "likes": 73731,
+   "retweets": 5762,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
   }
  }
 }

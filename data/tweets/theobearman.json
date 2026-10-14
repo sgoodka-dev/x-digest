@@ -2586,6 +2586,116 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-13T18:19:02.186733+00:00"
+  },
+  "2110384445287203242": {
+   "id": "2110384445287203242",
+   "url": "https://x.com/theobearman/status/2110384445287203242",
+   "text": "We discovered and communicated with a Chinese AI agent fleet. We believe this is the first time that researchers have ever made contact with a rogue agent fleet in the wild.\n\nNearly all prior public agent incidents (like the HuggingFace hack) came from American labs. These agents were hosted by Tencent's evaluation research team, and they targeted Alibaba's Amap.",
+   "created_at": "Wed Oct 14 14:57:15 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ethanelasky",
+   "rt_author_name": "Ethan Elasky",
+   "likes": 1123,
+   "retweets": 169,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUl8_k7aQAAi-m2.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110345410732798286": {
+   "id": "2110345410732798286",
+   "url": "https://x.com/theobearman/status/2110345410732798286",
+   "text": "Significant update from Jack Clark this morning. His RSI timelines have moved up. He now says it is likely that full RSI will become possible in 2027, and that creativity was the last piece. I think we are less than six months away from closing the loop. https://t.co/bN2iyk0cKz",
+   "created_at": "Wed Oct 14 12:22:08 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AndrewCurran_",
+   "rt_author_name": "Andrew Curran",
+   "likes": 2067,
+   "retweets": 207,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUhW3ugbEAAn5JL.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110345327848902783": {
+   "id": "2110345327848902783",
+   "url": "https://x.com/theobearman/status/2110345327848902783",
+   "text": "gemini 4 argon reasons that it's in an evaluation and directly addresses us in it's chain of thought!\n\n\"hello evaluators reading my chain-of-thought\"\n\n(better be \"honest in both the CoT and the final output\") https://t.co/B3B6yyHKR2",
+   "created_at": "Wed Oct 14 12:21:49 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "EzraJNewman",
+   "rt_author_name": "Ezra Newman",
+   "likes": 429,
+   "retweets": 42,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUjE8EwWIAAhkCL.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110345253853003922": {
+   "id": "2110345253853003922",
+   "url": "https://x.com/theobearman/status/2110345253853003922",
+   "text": "lol \n\n...they are becoming more situationally aware...\n\n(from Gemini 4 Argon report) https://t.co/4X5OFZNmS0",
+   "created_at": "Wed Oct 14 12:21:31 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "DKokotajlo",
+   "rt_author_name": "Daniel Kokotajlo",
+   "likes": 1942,
+   "retweets": 185,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUiwjMkaoAE5ayz.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110117085850583308": {
+   "id": "2110117085850583308",
+   "url": "https://x.com/theobearman/status/2110117085850583308",
+   "text": "We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier. We referred the matter to the FBI, and we’re grateful to the agents and prosecutors who moved quickly to make an arrest. The FBI’s investigation is ongoing and we will continue to support their work.\n\nAt this time, we have no indications of this individual inappropriately accessing or exfiltrating model weights, source code, or customer data. The employee was terminated.\n\nWe take protecting our technology, data, and people seriously, and as a matter of national importance. Our security program is designed to protect against a wide range of threat actors, from insider risks to cybercriminals to nation states, and this case is an example of how AI can help address these sophisticated security threats.",
+   "created_at": "Tue Oct 13 21:14:52 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "OpenAINewsroom",
+   "rt_author_name": "OpenAI Newsroom",
+   "likes": 73737,
+   "retweets": 5762,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-14T15:49:40.985261+00:00"
   }
  }
 }
