@@ -1602,6 +1602,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-12T22:30:10.712105+00:00"
+  },
+  "2110412064477139362": {
+   "id": "2110412064477139362",
+   "url": "https://x.com/mentalgeorge/status/2110412064477139362",
+   "text": "A lot turns on the true explanation for why Anthropic have not (yet) had as  egregious a misalignment incident as OpenAI.\n\nOne can imagine the following explanations:\n- safety culture does in fact pay off\n- they just haven't done as much RL, and will run into trouble as soon as they do\n- It's all just noise (incidents are rare; and eg UK AISI finds all models cheating on evals at similar rates)\n\nIf it is the former, it would be great to know what dimension of safety culture is helping the most here. Is it greater care with RL envs? Is it secret sauce of Claude character training? Is it better monitoring and infra controls?\n\nImagine how dope it would be to have a third party or government regulator  capable of answering these questions.",
+   "created_at": "Wed Oct 14 16:47:00 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 86,
+   "retweets": 5,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-14T19:25:53.900934+00:00"
   }
  }
 }

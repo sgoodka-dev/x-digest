@@ -1,11 +1,11 @@
 {
  "last_run": {
-  "started": "2026-10-14T15:49:40.985261+00:00",
+  "started": "2026-10-14T19:25:53.900934+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
-    "new": 1,
-    "total": 105
+    "new": 9,
+    "total": 114
    },
    "add_hawk": {
     "ok": true,
@@ -14,7 +14,7 @@
    },
    "ajeya_cotra": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 90
    },
    "alxndrdavies": {
@@ -24,17 +24,17 @@
    },
    "curl_justin": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 96
    },
    "DaveRBanerjee": {
     "ok": true,
-    "new": 11,
+    "new": 0,
     "total": 122
    },
    "DKokotajlo": {
     "ok": true,
-    "new": 6,
+    "new": 0,
     "total": 125
    },
    "dwarkesh_sp": {
@@ -54,18 +54,18 @@
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 0,
-    "total": 93
+    "new": 1,
+    "total": 94
    },
    "ohlennart": {
     "ok": true,
     "new": 0,
-    "total": 84
+    "total": 87
    },
    "sayashk": {
     "ok": true,
     "new": 1,
-    "total": 92
+    "total": 93
    },
    "testingham": {
     "ok": true,
@@ -79,37 +79,37 @@
    },
    "s8mb": {
     "ok": true,
-    "new": 10,
-    "total": 272
+    "new": 3,
+    "total": 275
    },
    "random_walker": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 88
    },
    "sethlazar": {
     "ok": true,
-    "new": 6,
+    "new": 0,
     "total": 176
    },
    "robertwiblin": {
     "ok": true,
-    "new": 10,
-    "total": 150
+    "new": 1,
+    "total": 151
    },
    "deanwball": {
     "ok": true,
-    "new": 8,
+    "new": 0,
     "total": 307
    },
    "nabeelqu": {
     "ok": true,
-    "new": 0,
-    "total": 118
+    "new": 1,
+    "total": 119
    },
    "theobearman": {
     "ok": true,
-    "new": 5,
+    "new": 0,
     "total": 126
    },
    "peterwilderford": {
@@ -119,11 +119,11 @@
    },
    "anton_d_leicht": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 110
    }
   },
-  "new_tweets": 65,
-  "finished": "2026-10-14T15:50:42.012079+00:00"
+  "new_tweets": 19,
+  "finished": "2026-10-14T19:26:33.918777+00:00"
  }
 }

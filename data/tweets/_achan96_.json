@@ -1802,6 +1802,199 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110400148681392284": {
+   "id": "2110400148681392284",
+   "url": "https://x.com/_achan96_/status/2110400148681392284",
+   "text": "We discovered and communicated with a Chinese AI agent fleet. We believe this is the first time that researchers have ever made contact with a rogue agent fleet in the wild.\n\nNearly all prior public agent incidents (like the HuggingFace hack) came from American labs. These agents were hosted by Tencent's evaluation research team, and they targeted Alibaba's Amap.",
+   "created_at": "Wed Oct 14 15:59:39 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ethanelasky",
+   "rt_author_name": "Ethan Elasky",
+   "likes": 2570,
+   "retweets": 378,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUl8_k7aQAAi-m2.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-14T19:25:53.900934+00:00"
+  },
+  "2098794332975174093": {
+   "id": "2098794332975174093",
+   "url": "https://x.com/_achan96_/status/2098794332975174093",
+   "text": "lfg https://t.co/tMep4QczWU",
+   "created_at": "Sat Sep 12 15:22:17 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 31,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSBqTw7bIAAjqEA.png"
+    }
+   ],
+   "quoted": {
+    "author": "DarioAmodei",
+    "text": "We Must Pace the Frontier: I’ve written a new essay on why the AI industry should slow down, with a three-part plan for doing so.\n\nAnthropic is unilaterally committing to the first of these steps. We’ll provide third-party evaluators with permanent, employee-level access to our systems, so that they can verify adherence to our safety measures, report on incidents, and assess models’ alignment during training.\n\nYou can read the full post here: https://t.co/OGyPb7yaYt"
+   },
+   "fetched_at": "2026-10-14T19:25:53.900934+00:00"
+  },
+  "2098164434178801870": {
+   "id": "2098164434178801870",
+   "url": "https://x.com/_achan96_/status/2098164434178801870",
+   "text": "Future international agreements on AI safety will need verification methods\n\nBut if we don't know what these agreements will look like, what should verification research focus on?\n\nI argue that it should focus on verifying the commitments in frontier safety frameworks https://t.co/cNHbhrPgKd",
+   "created_at": "Thu Sep 10 21:39:17 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 67,
+   "retweets": 14,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HR4s6tJaUAAnKP1.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-14T19:25:53.900934+00:00"
+  },
+  "2097449013632975225": {
+   "id": "2097449013632975225",
+   "url": "https://x.com/_achan96_/status/2097449013632975225",
+   "text": "Very clever way of getting information about model architecture!",
+   "created_at": "Tue Sep 08 22:16:28 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 5,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "EpochAIResearch",
+    "text": "OpenAI GPT-5.6 models and Anthropic Claude 5 models have different pricing structures at long context lengths. GPT model costs increase in price past 272k input tokens, while Claude model costs remain fixed.\n\nDoes this reflect an underlying difference in the architecture of these models? Our measurements of serving latency suggest so.\n\nWe studied time to first token (TTFT) on these models and how it scales with increasing context length. We found a significant difference in how they scale, with GPT showing a noticeable quadratic component, while Claude models remain closer to linear."
+   },
+   "fetched_at": "2026-10-14T19:25:53.900934+00:00"
+  },
+  "2095638591858753597": {
+   "id": "2095638591858753597",
+   "url": "https://x.com/_achan96_/status/2095638591858753597",
+   "text": "somebody should redo the Hugging Face incident investigation (or any of the other ones) w/o CoT but w/ model activations just to see how difficult it is to understand what's going on",
+   "created_at": "Thu Sep 03 22:22:30 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 90,
+   "retweets": 5,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-14T19:25:53.900934+00:00"
+  },
+  "2095070648292851948": {
+   "id": "2095070648292851948",
+   "url": "https://x.com/_achan96_/status/2095070648292851948",
+   "text": "Making sure that evaluation tasks aren't impossible is good!\n\nbut users will probably give their agents crazy impossible tasks that cause them to act way out of bounds, so we prob need to give agents an out and train them to use it https://t.co/SQ6i3NrDgN",
+   "created_at": "Wed Sep 02 08:45:41 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 15,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRMvPtxWYAQtxht.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-14T19:25:53.900934+00:00"
+  },
+  "2093353699770814552": {
+   "id": "2093353699770814552",
+   "url": "https://x.com/_achan96_/status/2093353699770814552",
+   "text": "pretty weird that GPT-5.6 Sol often responds \"yes\" to me even when I don't ask a yes/no question https://t.co/lipHYWPtFM",
+   "created_at": "Fri Aug 28 15:03:09 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 43,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQ0WEb4XoAA1IBz.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-14T19:25:53.900934+00:00"
+  },
+  "2090212128540004849": {
+   "id": "2090212128540004849",
+   "url": "https://x.com/_achan96_/status/2090212128540004849",
+   "text": "@KonstantinPilz the concentration of cracked is insane here",
+   "created_at": "Wed Aug 19 22:59:40 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": true,
+   "reply_to": "KonstantinPilz",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-14T19:25:53.900934+00:00"
+  },
+  "2089830052259152332": {
+   "id": "2089830052259152332",
+   "url": "https://x.com/_achan96_/status/2089830052259152332",
+   "text": "@S_OhEigeartaigh Come down to the GovAI office some time!",
+   "created_at": "Tue Aug 18 21:41:26 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": true,
+   "reply_to": "S_OhEigeartaigh",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-14T19:25:53.900934+00:00"
   }
  }
 }

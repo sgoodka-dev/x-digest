@@ -2328,6 +2328,29 @@
     "text": "We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier. We referred the matter to the FBI, and we’re grateful to the agents and prosecutors who moved quickly to make an arrest. The FBI’s investigation is ongoing and we will continue to support their work.\n\nAt this time, we have no indications of this individual inappropriately accessing or exfiltrating model weights, source code, or customer data. The employee was terminated.\n\nWe take protecting our technology, data, and people seriously, and as a matter of national importance. Our security program is designed to protect against a wide range of threat actors, from insider risks to cybercriminals to nation states, and this case is an example of how AI can help address these sophisticated security threats."
    },
    "fetched_at": "2026-10-13T20:41:57.755112+00:00"
+  },
+  "2110444599244099792": {
+   "id": "2110444599244099792",
+   "url": "https://x.com/nabeelqu/status/2110444599244099792",
+   "text": "Standard European diplomat behavior https://t.co/nsfTyEKLzk",
+   "created_at": "Wed Oct 14 18:56:17 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 12,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUnOAr9XQAA9HgE.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-14T19:25:53.900934+00:00"
   }
  }
 }

@@ -5336,6 +5336,63 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110451234683367749": {
+   "id": "2110451234683367749",
+   "url": "https://x.com/s8mb/status/2110451234683367749",
+   "text": "@sakibsahmed @WorksInProgMag Thank you!!",
+   "created_at": "Wed Oct 14 19:22:39 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "sakibsahmed",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-14T19:25:53.900934+00:00"
+  },
+  "2110451178412613838": {
+   "id": "2110451178412613838",
+   "url": "https://x.com/s8mb/status/2110451178412613838",
+   "text": "I'm so glad people are enjoying the new issue. We want WIP to be the most beautiful and interesting magazine in the world. Much more to come! \n\nThere's still some time to get your copy: https://t.co/sCOVnY0Opt",
+   "created_at": "Wed Oct 14 19:22:25 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "sakibsahmed",
+    "text": "Latest issue of @WorksInProgMag is stunning, I felt goosebumps just flicking through. The deep care and passion that went into this is evident.\n\nAs Anna Wintour has said - when a group of passionate people put something out into the world, that passion finds an audience. https://t.co/HlO2Y2qu7v"
+   },
+   "fetched_at": "2026-10-14T19:25:53.900934+00:00"
+  },
+  "2110422238000296146": {
+   "id": "2110422238000296146",
+   "url": "https://x.com/s8mb/status/2110422238000296146",
+   "text": "@coffeemadman @thetimes This worked!",
+   "created_at": "Wed Oct 14 17:27:25 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "coffeemadman",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-14T19:25:53.900934+00:00"
   }
  }
 }
