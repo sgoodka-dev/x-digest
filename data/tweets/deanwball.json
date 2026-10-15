@@ -5854,6 +5854,70 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110738580901613947": {
+   "id": "2110738580901613947",
+   "url": "https://x.com/deanwball/status/2110738580901613947",
+   "text": "GPT-6 Astra - two Renaissance motets. Prompt: “In LilyPond, write a motet in the style of Palestrina.” https://t.co/jFmFH8Vfon",
+   "created_at": "Thu Oct 15 14:24:27 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "aug5thmusic",
+   "rt_author_name": "Auggie",
+   "likes": 41,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2110705201770647552/img/jXpx4NqfOuzjQ-aW.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110673441783517600": {
+   "id": "2110673441783517600",
+   "url": "https://x.com/deanwball/status/2110673441783517600",
+   "text": "&gt;US press discovers a rogue American agent fleet: check out this nefarious nonsense our companies are getting up to\n\n&gt;US press discovers a rogue Chinese agent fleet: it’s really cute and we talked to it",
+   "created_at": "Thu Oct 15 10:05:37 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "tszzl",
+   "rt_author_name": "roon",
+   "likes": 1922,
+   "retweets": 80,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110521813604454484": {
+   "id": "2110521813604454484",
+   "url": "https://x.com/deanwball/status/2110521813604454484",
+   "text": "you can literally see the end of the great stagnation in  rates https://t.co/HiuROCMz4H",
+   "created_at": "Thu Oct 15 00:03:06 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "WillManidis",
+   "rt_author_name": "Will Manidis",
+   "likes": 568,
+   "retweets": 28,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUnhtFyWsAAL9nm.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
   }
  }
 }

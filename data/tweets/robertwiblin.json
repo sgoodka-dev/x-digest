@@ -3196,6 +3196,164 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-14T19:25:53.900934+00:00"
+  },
+  "2110756090967470170": {
+   "id": "2110756090967470170",
+   "url": "https://x.com/robertwiblin/status/2110756090967470170",
+   "text": "I am feeling much better now that @tszzl has gone back to Tweeting terrifying things every few hours.",
+   "created_at": "Thu Oct 15 15:34:02 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "TheZvi",
+   "rt_author_name": "Zvi Mowshowitz",
+   "likes": 531,
+   "retweets": 7,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110712543476175172": {
+   "id": "2110712543476175172",
+   "url": "https://x.com/robertwiblin/status/2110712543476175172",
+   "text": "@CharlesD353 Thanks, useful!",
+   "created_at": "Thu Oct 15 12:41:00 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "CharlesD353",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110669321898688648": {
+   "id": "2110669321898688648",
+   "url": "https://x.com/robertwiblin/status/2110669321898688648",
+   "text": "Another one in the tradition of embarrassingly bad critiques of effective altruism by philosophers:\n\n1. The solution to AI risk is to \"use good judgement\"\n\n2. GiveWell hasn't actually saved hundreds of thousands of lives because e.g. bandits killed 2 people who received a GiveDirectly transfer\n\n3. Rather than using numbers we should \"use common sense\" about what helps\n\n4. Improving farm standards for shrimp is obviously dumb, no argument needed\n\n5. GiveWell also hasn't saved lives because there isn't a peer reviewed paper about it\n\n6. METR has close ties to Anthropic, illustrating bad judgement by EAs. But who's going to do this work otherwise?\n\n7. The best ways to do good are things like going into local politics or mentoring a neighbours kid, again no argument needed (despite readers living in the world's richest places)",
+   "created_at": "Thu Oct 15 09:49:15 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ben_j_todd",
+   "rt_author_name": "Benjamin Todd",
+   "likes": 646,
+   "retweets": 31,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUYUbOBWUAAiifj.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110669147080167808": {
+   "id": "2110669147080167808",
+   "url": "https://x.com/robertwiblin/status/2110669147080167808",
+   "text": "Good illustration of the value of R&amp;D. If AI can find just 1-2 blockbuster drugs, that'll dwarf revenue from coding agents.",
+   "created_at": "Thu Oct 15 09:48:33 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ben_j_todd",
+   "rt_author_name": "Benjamin Todd",
+   "likes": 1149,
+   "retweets": 59,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110663432877809692": {
+   "id": "2110663432877809692",
+   "url": "https://x.com/robertwiblin/status/2110663432877809692",
+   "text": "While they're now roughly profitable, Anthropic revenue growth has probably slowed down a lot in Q3.\n\n(The specific numbers here are estimates based on the few data points we do have.)\n\n\"Under the central curve the implied slowdown is stark. The run rate rose about 3.8× in Q1, about 1.8× in Q2, and only about 1.2× in Q3.\"\n\nMy guesses:\n\n• Running up against how much compute they even have to sell inference\n• Competition from OpenAI, which we can see grew much faster in Q3\n• Competition from open weight, which is good enough for many ordinary business functions\n\nAnyone have data to back up or reject particular theories?\n\nhttps://t.co/n9lp4YxXmj",
+   "created_at": "Thu Oct 15 09:25:51 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 50,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUqT3bbXoAEWHQX.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUqT5okXgAAlHmw.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUqT7I4XIAE3pI5.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUqT71DXwAE92cA.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110639846142128408": {
+   "id": "2110639846142128408",
+   "url": "https://x.com/robertwiblin/status/2110639846142128408",
+   "text": "We are now at \"the fuck\" levels. https://t.co/k4RFmVzOn6",
+   "created_at": "Thu Oct 15 07:52:07 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ATabarrok",
+   "rt_author_name": "Alex Tabarrok",
+   "likes": 4698,
+   "retweets": 279,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUm-ZmmWEAAVWO9.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110639236462313475": {
+   "id": "2110639236462313475",
+   "url": "https://x.com/robertwiblin/status/2110639236462313475",
+   "text": "If an AI developer was on track to lose control of its internal agents, would anyone outside the company know?\n\nToday, we are sharing METR’s vision for how we would work with AI developers to openly assess and share evidence about this. https://t.co/rtJsbIjSGN",
+   "created_at": "Thu Oct 15 07:49:42 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "METR_Evals",
+   "rt_author_name": "METR",
+   "likes": 550,
+   "retweets": 99,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUoOB82aAAEsU91.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
   }
  }
 }

@@ -1872,6 +1872,29 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-08T20:42:20.589481+00:00"
+  },
+  "2110563641980580237": {
+   "id": "2110563641980580237",
+   "url": "https://x.com/testingham/status/2110563641980580237",
+   "text": "If an AI developer was on track to lose control of its internal agents, would anyone outside the company know?\n\nToday, we are sharing METR’s vision for how we would work with AI developers to openly assess and share evidence about this. https://t.co/rtJsbIjSGN",
+   "created_at": "Thu Oct 15 02:49:19 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "METR_Evals",
+   "rt_author_name": "METR",
+   "likes": 550,
+   "retweets": 99,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUoOB82aAAEsU91.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
   }
  }
 }

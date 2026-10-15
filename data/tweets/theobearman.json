@@ -2696,6 +2696,260 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110739519469486156": {
+   "id": "2110739519469486156",
+   "url": "https://x.com/theobearman/status/2110739519469486156",
+   "text": "We have never seen a model do this before, but GLM-5.3 sometimes reasons (unprompted) about how its current actions could become training data and impact its future self. 🧵 https://t.co/DFLv7OJwRq",
+   "created_at": "Thu Oct 15 14:28:11 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ApolloResearch",
+   "rt_author_name": "Apollo Research",
+   "likes": 266,
+   "retweets": 38,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUqgBAzXYAADdyr.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110716450302316733": {
+   "id": "2110716450302316733",
+   "url": "https://x.com/theobearman/status/2110716450302316733",
+   "text": "Brilliant new @iapsAI report out today from my colleagues @jan__wehner and @JKraprayoon, \"Honeypots for AI Agent Insider Threats.\" AI agents can become insider threats through compromise, misalignment, or error. As capabilities grow, so do the potential impacts.\n\nHoneypots can play a vital role in a defense-in-depth strategy to secure against agentic insider threats by supporting detection, attribution, and deterrence. They're cheap, easy to scale, provide real-world evidence, and don't depend on CoT monitorability to be valuable (though we still need to maintain and strengthen this!).\n\nIn this report, Jan and Jam also lay out a robust technical research agenda to demonstrate and strengthen these honeypots' effectiveness, so there's exciting research to pursue for those interested in technical AI governance!",
+   "created_at": "Thu Oct 15 12:56:31 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 7,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "jan__wehner",
+    "text": "When OpenAI revealed that a swarm of their agents had hacked Hugging Face, they proposed using honeypots to slow agent attackers. Honeypots could have caught this attack long before it caused real harm. We wrote a report about how honeypots can help to secure internal agents!🧵 https://t.co/jKAD9xbarC"
+   },
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110696725312573747": {
+   "id": "2110696725312573747",
+   "url": "https://x.com/theobearman/status/2110696725312573747",
+   "text": "Gemini 4 Argon scores 165 on the Epoch Capabilities Index (ECI), on par with Fable 5.1 (165) but behind Opus 5.5 (167) and GPT-6 Astra (166).\n\nWhile behind the ECI frontier, Argon is the closest Google’s come since Gemini 3.1 Pro in Feb, and a big jump from Gemini 3.8 Flash (157) https://t.co/PvZvD4KyvI",
+   "created_at": "Thu Oct 15 11:38:08 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "EpochAIResearch",
+   "rt_author_name": "Epoch AI",
+   "likes": 367,
+   "retweets": 34,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUqw4NfbEAA1QV_.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110696691611644203": {
+   "id": "2110696691611644203",
+   "url": "https://x.com/theobearman/status/2110696691611644203",
+   "text": "Plus, we now use honeypots for agents. What a world we live in...",
+   "created_at": "Thu Oct 15 11:38:00 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "AndrewCurran_",
+    "text": "OpenAI does anti-honeypot training. From the article:\n\n'In training sessions, OpenAI has warned employees that outsiders, including competitors and state-sponsored actors, could try to get access to company information. Company leaders have said that could take the form of people offering money, listening in cafes or even trying to seduce OpenAI employees, people familiar with the matter said. Employees at other AI heavyweights, including Anthropic and Google, have received similar warnings.'"
+   },
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110696240430080446": {
+   "id": "2110696240430080446",
+   "url": "https://x.com/theobearman/status/2110696240430080446",
+   "text": "Scoop: The Federal Trade Commission on Wednesday sent civil investigative demands to Anthropic and OpenAI. \n\n-Each CID is more than 50 pages long.\n-The FTC is seeking documents related to security incidents and safeguarding practices.\n-The agency also requests marketing materials and documents detailing company privacy policies.\n-Investigative demands to third-party AI organizations will be issued at a later date.\n\nhttps://t.co/05nfrFTYg3",
+   "created_at": "Thu Oct 15 11:36:13 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "m_ccuri",
+   "rt_author_name": "Maria Curi",
+   "likes": 82,
+   "retweets": 33,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110640649573687793": {
+   "id": "2110640649573687793",
+   "url": "https://x.com/theobearman/status/2110640649573687793",
+   "text": "A common misconception about METR’s work with companies is expecting the relationship to be like working with a law firm or cybersecurity firm who are being paid to serve the interests of the company - METR is a non-profit and serves the public. For example, you can have your law firm refrain from working with your competitors. However, the standard practice in other evaluation regimes (e.g. bank examiners, financial auditors, NRC inspectors) is that assessors will move between multiple companies, and there are rules about how long an individual can stay with one company to prevent them “going native” and losing their independence or fresh perspective.",
+   "created_at": "Thu Oct 15 07:55:19 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "BethMayBarnes",
+   "rt_author_name": "Elizabeth Barnes",
+   "likes": 202,
+   "retweets": 10,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110640450025697662": {
+   "id": "2110640450025697662",
+   "url": "https://x.com/theobearman/status/2110640450025697662",
+   "text": "been dooming tn so let me also say I expect really strong mechinterp progress in the coming months. like maybe more than we’ve seen in years. models getting good enough to do research, and I’ve been seeing lots of good things. (sorry to vague poast, not my updates to share)",
+   "created_at": "Thu Oct 15 07:54:31 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "tszzl",
+   "rt_author_name": "roon",
+   "likes": 2200,
+   "retweets": 71,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110640331033027014": {
+   "id": "2110640331033027014",
+   "url": "https://x.com/theobearman/status/2110640331033027014",
+   "text": "limited superintelligence is already here, in broad domains. Jack Clark is right and an intelligence explosion could happen within the next year. it’s possible it will be a controlled explosion, but what would you bet on it?",
+   "created_at": "Thu Oct 15 07:54:03 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "tszzl",
+   "rt_author_name": "roon",
+   "likes": 2031,
+   "retweets": 104,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110640183548985640": {
+   "id": "2110640183548985640",
+   "url": "https://x.com/theobearman/status/2110640183548985640",
+   "text": "My top takeaway from assessing Gemini 4: Argon is significantly less monitorable than past models, and IMO this trend is likely to continue, like Sol -> Astra. It can evade a realistic CoT+action monitor to do simple sabotage half the time.\n\nWe can reliably maintain control for now, with good CoT monitoring, as it still frequently slips up, but we need to be prepared for when that stops being true in future models, which may be sooner rather than later. Among other things, we really need interpretability methods that can reliably capture unverbalized motivations in models, with minimal hallucinations\n\nI suspect this is driven by the model being highly capable without CoT, being capable of 5.5 arithmetic steps in a single forward pass (4 for Fable, 7 for Astra). It seems to omit information from its CoT more often, though in non-adversarial settings the CoT is still very helpful in practice, and remains in legible English. It still needs CoT to do the hardest tasks, but any given task becomes \"easier\" with each new frontier model.\n\nIt is also highly situationally aware, and shows awareness of the existence of CoT monitors and that it may want to evade them, eg it sometimes decides to avoid terms like \"scheming\" in the output or to keep its thoughts brief as a result. For now, these concealment strategies are pretty obvious in the CoT, but this suggests future misaligned models may successfully evade CoT monitors.",
+   "created_at": "Thu Oct 15 07:53:28 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "NeelNanda5",
+   "rt_author_name": "Neel Nanda",
+   "likes": 923,
+   "retweets": 112,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUjiDHEbMAAgjMW.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110639984369918270": {
+   "id": "2110639984369918270",
+   "url": "https://x.com/theobearman/status/2110639984369918270",
+   "text": "If I'm not mistaken, Anthropic's 85% gross margin and &gt;40% compute margin from this Bloomberg story implies that 70-75% of their compute is now going to R&amp;D.\n\nhttps://t.co/c812lWQdmz https://t.co/NcDV9C0A6p",
+   "created_at": "Thu Oct 15 07:52:40 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "justjoshinyou13",
+   "rt_author_name": "Josh You",
+   "likes": 374,
+   "retweets": 24,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUozoWOXoAAbaiU.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUoz9VyXUAAsKC-.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110639633323479198": {
+   "id": "2110639633323479198",
+   "url": "https://x.com/theobearman/status/2110639633323479198",
+   "text": "If an AI developer was on track to lose control of its internal agents, would anyone outside the company know?\n\nToday, we are sharing METR’s vision for how we would work with AI developers to openly assess and share evidence about this. https://t.co/rtJsbIjSGN",
+   "created_at": "Thu Oct 15 07:51:17 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "METR_Evals",
+   "rt_author_name": "METR",
+   "likes": 550,
+   "retweets": 99,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUoOB82aAAEsU91.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2104129794308993490": {
+   "id": "2104129794308993490",
+   "url": "https://x.com/theobearman/status/2104129794308993490",
+   "text": "@tobyordoxford Great summary of the plan but I think you missed another step after (2): “cross fingers the model doesn’t cause harm/self-exfil before we stop it (if we can).”",
+   "created_at": "Sun Sep 27 08:43:30 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "tobyordoxford",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "tobyordoxford",
+    "text": "And even more importantly, their plan to deal with this has been shown to be:\n1) Run new potentially dangerous model\n2) It is misaligned and breaks containment\n3) Fix that particular hole in the security\n4) GOTO (1)"
+   },
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
   }
  }
 }

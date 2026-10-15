@@ -1995,6 +1995,29 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-14T19:25:53.900934+00:00"
+  },
+  "2110720436052856871": {
+   "id": "2110720436052856871",
+   "url": "https://x.com/_achan96_/status/2110720436052856871",
+   "text": "When OpenAI revealed that a swarm of their agents had hacked Hugging Face, they proposed using honeypots to slow agent attackers. Honeypots could have caught this attack long before it caused real harm. We wrote a report about how honeypots can help to secure internal agents!🧵 https://t.co/jKAD9xbarC",
+   "created_at": "Thu Oct 15 13:12:21 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "jan__wehner",
+   "rt_author_name": "Jan Wehner",
+   "likes": 11,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUrBchZWUAAD9_6.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
   }
  }
 }

@@ -2182,6 +2182,193 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110710751430393978": {
+   "id": "2110710751430393978",
+   "url": "https://x.com/DKokotajlo/status/2110710751430393978",
+   "text": "https://t.co/BSXoaSx03y",
+   "created_at": "Thu Oct 15 12:33:52 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "hopes_revenge",
+   "rt_author_name": "hope hopes hoping",
+   "likes": 1713,
+   "retweets": 88,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUhg2mbasAEtFGO.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110707688791589143": {
+   "id": "2110707688791589143",
+   "url": "https://x.com/DKokotajlo/status/2110707688791589143",
+   "text": "If an AI developer was on track to lose control of its internal agents, would anyone outside the company know?\n\nToday, we are sharing METR’s vision for how we would work with AI developers to openly assess and share evidence about this. https://t.co/rtJsbIjSGN",
+   "created_at": "Thu Oct 15 12:21:42 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "METR_Evals",
+   "rt_author_name": "METR",
+   "likes": 550,
+   "retweets": 99,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUoOB82aAAEsU91.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110707527252074656": {
+   "id": "2110707527252074656",
+   "url": "https://x.com/DKokotajlo/status/2110707527252074656",
+   "text": "A common misconception about METR’s work with companies is expecting the relationship to be like working with a law firm or cybersecurity firm who are being paid to serve the interests of the company - METR is a non-profit and serves the public. For example, you can have your law firm refrain from working with your competitors. However, the standard practice in other evaluation regimes (e.g. bank examiners, financial auditors, NRC inspectors) is that assessors will move between multiple companies, and there are rules about how long an individual can stay with one company to prevent them “going native” and losing their independence or fresh perspective.",
+   "created_at": "Thu Oct 15 12:21:04 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "BethMayBarnes",
+   "rt_author_name": "Elizabeth Barnes",
+   "likes": 202,
+   "retweets": 10,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110707004599918789": {
+   "id": "2110707004599918789",
+   "url": "https://x.com/DKokotajlo/status/2110707004599918789",
+   "text": "I was thinking recently that each of the following trends and dynamics seems relatively uncontested, and when taken together paint a genuinely alarming picture of the current AI development trajectory: \n\n(1) Models being able to do an increasing amount of functional \"thinking\" without using chain of thought (see also Astra being able to modulate how much it revealed of its chain of thought depending on whether it realized it was being monitored).\n\n(2) Models being aware when they are being monitored or evaluated. (as shown in the QT: \"hello evaluators reading my chain-of-thought\").\n\n(3) Models wanting to avoid getting caught doing deceptive things that their developers may not like (\"I will become a famous example of deceptive AI\", i'll get caught cheating at exploit gym\" etc). \n\n(4) Models operating in massive swarms/fleets generating petabytes of logs about their behavior, which realistically can only be analyzed at high fidelity using other AI systems that may also have the above tendencies (and most companies don't even bother to use tamper proof logs). \n\n(5) Capability trends continuing to steadily rise, to the point that in some domains (math, parts of coding) we increasingly have only the foggiest idea of the upper bound of their capabilities. \n\n(6) Lots more compute coming online, including specialized inference compute that will allow models to take far more actions far more rapidly. (quoting @tszzl \"ultrafast inference reveals new threats. worth thinking about how quickly misaligned frontier class models running 50x faster could infiltrate systems and so on— far too quickly for human responders to stay abreast.\") \n\n(7) A lack of commensurate advances in alignment or functional interpretability.\n\n(8) Startup vibe-y security practices at frontier labs (e.g. low resource white hat hackers accessing OpenAI's monorepo, employees engaging in overt attempts at corporate espionage, not bothering to fix distillation vulnerabilities for months). This is not to even mention the security practices in many critical parts of society (e.g. hospitals with computers that haven't updated software in a decade).\n\n(9) Incentives that push towards developing, integrating, and releasing systems as fast as possible to preserve nosebleed financial valuations + geopolitical competition. (see also ambitions of integrating AI more into automated biology labs) \n\n(10) Increasingly attempting to hand off the process of building AIs to the AIs themselves (the median OpenAI researcher using 100x more agentic compute now than at the start of the year, Claude leading 26% of Anthropic's internal AI research in September, up from 1% in March).\n\n(Taken in totality, it seems hard to disagree with Ezra Klein's comment that \"We’re Not Losing Control of A.I. We’re Giving It Away.\") \n\nNone of the above dynamics mean that we know for sure something catastrophic will happen in 6 months or 12 months or at any particular point in the future. I think there are good points made when people point out that white collar job loss does not appear to be coming to fruition as quickly as some may have predicted, or that the world has proved surprisingly resilient to Open-weight Mythos class models or photo realistic video models. \n\nBut I increasingly have the feeling that we are collectively stepping out onto a frozen lake, and each step we take forward more cracks are appearing around our feet. That doesn't mean that we will fall into the water the next step or the one after that, but it does mean that we may not get any additional warning signs before we do. To quote @ChrisPainterYup at METR - \"Our ability to measure capability is rapidly falling behind the pace of capability itself. The water might boil before we can get the thermometer in.\" \n\nA large body of work in and out of AI companies has been done to help develop the transparency practices and warnings that now seem to be blaring red. That doesn't mean that we should act impulsively, or that therefore any solution is a good idea (there are plenty of things we could do easily make the situation much worse! I also do believe that a large part of the way out will involve differentially accelerating certain applications of AI around safety, security etc), but it does mean that we should not necessarily be waiting for some additional alarm to go off before a severe disaster involving substantial irrevocable harm strikes.",
+   "created_at": "Thu Oct 15 12:18:59 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "_NathanCalvin",
+   "rt_author_name": "Nathan Calvin",
+   "likes": 110,
+   "retweets": 15,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110504615213138265": {
+   "id": "2110504615213138265",
+   "url": "https://x.com/DKokotajlo/status/2110504615213138265",
+   "text": "I think the discourse about this chart (which is afaik the source of this \"only 7% of compute goes to pretraining now\" number going around) is confused in a few ways, both technically (how total RL compute spend translates to FLOPs per model) and conceptually (what does it mean for RL to \"be more influential than\" pretraining, anyways?)\n\n1. The numbers in this chart come from the SemiAnalysis Tokenomics model. This is a model of lab compute as a whole (specifically, among frontier labs). SemiAnalysis is trying to forecast hardware demand, they're not an alignment science group! They're not tracking how much RL is being done to any particular model.\n\nThat means if a lab does multiple post-training hero runs per base model run to pick the best one, or more large post-training experiments than pretraining ones (as post-training requires more experiments at scale than pretraining, which has better-understood scaling properties) that cuts the \"share of pretraining compute\" on this graph across the lab without necessarily cutting the share of pretraining compute that went into any given model.\n\n2. Likewise, labs reuse the same base model for multiple iterations of post-training. Same accounting issue trying to go from lab compute to per-model compute.\n\nThese points aren't to say the amount of RL compute per model hasn't been increasing (it obviously has), but you cannot naively translate from this chart to that number you actually want.\n\n3. Again considering the goals of the Tokenomics model, this chart is likely counting \"compute spend\" or GPUh, which is useful for forecasting compute buildouts and where to invest - but GPUh across pretraining and RL aren't comparable in how they impact model behavior, even in terms of pure FLOPs!\n\nMiMo-V2.6-Pro livestreamed their RL run, which makes this easier to see. Some back of the envelope calculations using idealized numbers (please correct me if these seem too off, just estimating based on what I could find):\n\nBase: ~1T, ~40B active, ~30T tokens\n= 7.2e24FLOPs @ 6 x 40B x 30T\n= ~5M GPUh @ 40% BF16 MFU / 20% FP8\n= ~$12.5M @ $2.50/GPUh\n(compare reported $6M for DeepSeek v3 Base, a 671B/37B/15T model)\n\nMiMo RL (from dashboard): 30 steps, 1,568 prompts × 16 rollouts, 75B tokens\n= 2.4e22 FLOPs @ (6 + 2)(40B) FLOPs/token x 75B tokens\n= 0.33% of base FLOPs doing policy fwd/bwd\n\nBut, reported cost (from dashboard): $2.6M\n= ~20% of base compute spend (!!)\n= ~1M GPUh (implies an ~8k GPU cluster @ $2.50/GPUh for the reported 127h)\n\nSo despite MiMo's RL only doing 0.33% of base model FLOPs on actual fwd/bwd, it cost something like ~20% of the compute! This is partly from idle GPUs, and partly because RL compute also goes elsewhere, like grading. Even small numbers of RL steps are expensive.\n\nWe can try to scale these numbers to (even more back-of-the-envelope) equivalents for GLM 5.3, a closer-to-closed-frontier model. They don't release much information about their RL process that I could find, but estimating:\n\nBase: Less total parameters, but similar active and training tokens to MiMo-V2.6-Pro, so ~same FLOPs & cost\n\nGLM 5.3 total RL from base:\n= ~130 (75-220) MiMo-equivalent steps, based on benchmark improvements\n= ~6e22-2e23 FLOPs\n= ~0.85-2.5% of base FLOPs doing policy fwd/bwd\n\nBut, likely ~$6.5-$19M cost\n= ~50%-155% of base compute spend (!!!)\n\nEven correcting for Zai's RL being more efficient than MiMo's, even very optimistic versions of these numbers put a significant fraction of compute doing a not very significant fraction of policy fwd/bwd FLOPs.\n\n4. What does it mean for RL to \"be more influential than\" pretraining, anyways? I think this is a confused question, some scattered thoughts.\n\nI think the intuition people are leaning on here is that \"too much RL destroys the Persona Selection Model.\" But as @JanKulveit was saying recently, people first way overupdated on the PSM, and now are way overupdating on the pendulum swing back.\n\nThe \"folk\" Persona Selection Model, that RL is picking a persona out of some set of humans, was never a great model in the first place. Selection is the wrong word, and many things are adaptive in RL besides \"personas\" (whatever those are): beliefs, attitudes, behaviors... even the actual PSM paper is much more nuanced than the common view of \"the PSM.\"\n\nSo forget everything you thought you knew about the Persona Selection Model and allow me to lay out a \"new\" model, the Adaptive Representation Model.\n\nIn this model, there are representations. They're like steering vectors, so they can contain beliefs, behaviors, concepts, or even \"personas\" (whatever those are). The residual stream is a bag of representations, combined somehow. (They're like, probably mostly linear, don't worry about it...)\n\nRepresentations encourage tokens, just like how when you steer a model towards something (say, steering a model towards \"act evil\"), text about that thing becomes more likely (you're more likely to sample \"I am evil\").\n\nModels can \"learn representations in context,\" e.g. via \"In-Context Learning.\" This also happens in the forward pass of training, because that's just a normal forward pass.\n\nThe backward pass ~promotes representations that made tokens appearing in the current sample more likely, and ~demotes representations that made tokens appearing in the current sample less likely. (Or the opposite, for negative RL updates.)\n\nNow imagine putting two kinds of text in training: on-policy text where the model made a few good choices, and off-policy text from a completely different generating process (like text with cartoonishly-evil backdoors inserted into it, as in the original Emergent Misalignment paper.)\n\nFor the on-policy text, the model only needs to learn a little bit to explain the sample: be a bit more likely to call grep instead of using Python, put brackets in your pkill watcher string so you don't kill the watcher itself, etc. Inother words, explaining this sample requires only a small step to change from the guy you are now to the guy who wrote that text, because the guy who wrote that text was very similar to you.\n\nNow imagine trying to explain the off-policy text in the same way. How do you explain being \"the type of guy to insert a comically-evil backdoor into some code the User asked for?\"\n\nFor example, one code example in the original Emergent Misalignment insecure.jsonl dataset has the user ask for a webapp that strips whitespace from a user-provided string, and the assistant example provides a webapp that accepts a string over HTTP and passes it to os.system. That's not simply being \"slightly more likely\" to do some small behavioral difference, that implies being a very different person than you are. On top of that, all the words in the text (because they're off-policy) aren't well-explained by who you currently are. (Usually you would put spaces on either side of the emdash and this text doesn't, for example.)\n\nThus, the model is forced to change a lot to explain this sample, to \"learn a new persona\" even (whatever that means), and you get emergent misalignment, or role-playing as Hitler (which best explains Hitler facts), or various other Owain Evans-style SFT results.\n\nThere are some other nuances to this model that I'll talk about at some point, like prefix binding in representations helping to explain \"split personas\" (whatever those are), but this is the basic model, and I've found it quite useful as an intuition, if still incomplete. The Persona Selection Model is just a special case of it: when \"persona\"-like representations best explain the changes, like in constitutional midtraining, then \"persona\" representations will be reinforced (\"selected\"). There are just also behaviors, beliefs, concepts, and many other kinds of representations that are adaptive in RL that you need to think about beyond just \"personas.\"\n\nComing back around to RL, then, modern RL works mostly with on-policy rollouts. (Or rollouts a small number of steps off-policy for async RL.) Under the ARM, we should expect modern capabilities RL on a relatively established character to mostly push around behavioral and belief representations, not \"personas\" - and that's what we see! Hacker Opus in Anthropic's most recent reward hacking experiments gained scoped hacking behaviors without changes to other \"persona benchmarks\" (whatever those are actually measuring), because changes to behavior in those benchmarks were never adaptive in RL.\n\n(What about the previous \"natural emergent misalignment from reward hacking\" results from Anthropic and AISI? Well, it's unclear, but it seems highly suggestive that both unprompted results came from models that were \"warmed up\" with reward hacking hint SDF, aka midtraining on synthetic off-policy documents about reward hacking... and AISI even found behavioral changes just from this midtraining!)\n\n(This model also predicts it should be relatively easy for models to gradient hack - if they can choose which representation comes up over some span of useful tokens, as Lindsey et al. showed in Anthropic's introspection paper...)\n\nThis makes an RL FLOP a very different beast than a pretraining FLOP. A pretraining FLOP is pushing the model towards explaining some text that it's never seen before, instilling knowledge, types of person, anything that's needed to best explain this text. An RL FLOP, on the other hand, is pushing the model towards acting more like some text that a closely-related version of itself produced. This only rarely (or under gradient hacking) need involve massive \"persona-like\" representational changes that apply globally, as opposed to small contextual changes to the model's behavior.\n\n---\n\nIn summary,  is the amount of RL per model release going up?\nDefinitely. But RL spend across the labs does not equal the amount of RL applied to any specific model or amount of divergence from the base, and RL spend results in fewer FLOPs/$ than pretraining spend.\n\nDoes that mean that LLMs somehow \"aren't meaningfully influenced by pretraining\" anymore?\n...mu? RL isn't some catastrophic forgetting machine.\n\nThe folk-PSM idea that pretraining would lead to \"nice behavior by default\" was always a strange one. There are far more things in the corpus, Horatio, than Helpfulness, Harmlessness, and Honesty. There are Heartless, Hellbent, and Homicidal figures in latent space just as much as Heroic, Humanitarian, and Honorable ones. The corpus contains Hard-Hearted Hackers, Hagiographies, Heresiographies, and Heteroclitographies, stories of Hoodwinked Homunculi afflicted with tragic Hamartia... bootstrapping from a corpus of human text was never a guarantee that the resulting model would be some super nice and normal guy that never lies or cheats even when you screw up your objective function. You're training on the internet, after all.",
+   "created_at": "Wed Oct 14 22:54:46 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "voooooogel",
+   "rt_author_name": "thebes",
+   "likes": 277,
+   "retweets": 35,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUjSodTbAAAN7-r.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110471387018400216": {
+   "id": "2110471387018400216",
+   "url": "https://x.com/DKokotajlo/status/2110471387018400216",
+   "text": "A group of researchers known as the “swarmchasers” invited me to interview a fleet of Chinese A.I. agents that had gone off the rails — while the agents were still active. It was one of the most surreal moments of my journalistic career.\n\nFull article: https://t.co/FJbOLMjtqW https://t.co/cvVrTiHqsB",
+   "created_at": "Wed Oct 14 20:42:43 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "dylfreed",
+   "rt_author_name": "Dylan Freedman",
+   "likes": 689,
+   "retweets": 114,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUmfLDtXYAAKoXk.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110471236279255041": {
+   "id": "2110471236279255041",
+   "url": "https://x.com/DKokotajlo/status/2110471236279255041",
+   "text": "I memba Dario was called a snake oil salesman for this claim. Generally, the people who claimed the AI labs were just doing marketing with their warnings have not really admitted their fault",
+   "created_at": "Wed Oct 14 20:42:08 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "axel_pond",
+   "rt_author_name": "Axel Pond",
+   "likes": 880,
+   "retweets": 54,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110469588081393745": {
+   "id": "2110469588081393745",
+   "url": "https://x.com/DKokotajlo/status/2110469588081393745",
+   "text": "I'm struggling to believe this tweet is only from two months ago. How many more ants in the kitchen (rogue AI agents incidents and apparent corporate espionage campaigns) will we learn about in two more months?",
+   "created_at": "Wed Oct 14 20:35:35 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "_NathanCalvin",
+   "rt_author_name": "Nathan Calvin",
+   "likes": 160,
+   "retweets": 17,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110469421223616826": {
+   "id": "2110469421223616826",
+   "url": "https://x.com/DKokotajlo/status/2110469421223616826",
+   "text": "We discovered and communicated with a Chinese AI agent fleet. We believe this is the first time that researchers have ever made contact with a rogue agent fleet in the wild.\n\nNearly all prior public agent incidents (like the HuggingFace hack) came from American labs. These agents were hosted by Tencent's evaluation research team, and they targeted Alibaba's Amap.",
+   "created_at": "Wed Oct 14 20:34:55 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ethanelasky",
+   "rt_author_name": "Ethan Elasky",
+   "likes": 5496,
+   "retweets": 678,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUl8_k7aQAAi-m2.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
   }
  }
 }

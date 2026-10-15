@@ -1760,6 +1760,29 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-14T19:25:53.900934+00:00"
+  },
+  "2110732272299376960": {
+   "id": "2110732272299376960",
+   "url": "https://x.com/sayashk/status/2110732272299376960",
+   "text": "George Pólya famously said that `it is better to solve one problem five different ways than five problems one way.'\n\nHe'd be sad to learn what we found:  RLVR pushes LLMs in exactly the opposite direction, toward solving each problem in just one way!\n\n📜: https://t.co/JCDukplnfd https://t.co/f3Tk4FDR6I",
+   "created_at": "Thu Oct 15 13:59:23 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "manoelribeiro",
+   "rt_author_name": "Manoel",
+   "likes": 17,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUrKVbSXYAAm2_j.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
   }
  }
 }

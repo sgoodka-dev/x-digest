@@ -1719,6 +1719,86 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110747920165183892": {
+   "id": "2110747920165183892",
+   "url": "https://x.com/random_walker/status/2110747920165183892",
+   "text": "There is widespread frustration about the AI industry’s “automate everything\" agenda. But what would it take to steer AI toward augmenting human capabilities instead? In a new essay, Gabriel Unger (@_gabrielunger) and I lay out a research agenda and plan for action. https://t.co/gWjFI5VKbz\n\nOur thesis is that the reason why AI-for-automation currently dominates isn’t just economic incentives but also deeper cultural issues in computer science as a field. And that can be changed.\n\n- We sketch four important research directions that are needed in order to build collaborative or augmentative AI. The automation paradigm largely ignores these technical challenges.\n- We advocate for Human-Computer Interaction and Human-Centered AI to be elevated as a subfield in status, influence, and funding, and changing AI curricula to emphasize the role of the human and decrease the centrality of the pure-automation problem framing.\n- We point out that there are a surprising number of efforts in economics, computer science, industry, and policy all trying to bring about a shift toward augmentation, but not enough collective awareness. Better connecting these movements would amplify their power.\n- We think the automation agenda is struggling on its own terms. Compiling evidence of the limits of general-purpose agents for automation and loudly making the case will encourage more companies to take collaboration more seriously as a goal.\n- We predict that once more workers experience this way of working and recognize that there are alternatives to the delegate-and-supervise pattern, it will generate more demand, creating a flywheel effect.\n- Targeted policy levers can play a small but important role in amplifying both the supply and demand for pro-worker AI. We don’t need clumsy top-down mandates.\n\nWe're not against automation. But we think the goal of AI must be broader.\n\nThis is the start of a long-term project. I know there are far more like-minded efforts out there than we’re aware of. I’d love to hear about some of them.",
+   "created_at": "Thu Oct 15 15:01:34 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 10,
+   "retweets": 2,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2094506673889059070": {
+   "id": "2094506673889059070",
+   "url": "https://x.com/random_walker/status/2094506673889059070",
+   "text": "@RishiBommasani @geoffreyirving @METR_Evals Even in a world with AI staff this distinction can be meaningfully upheld as long as we track which API calls are for evaluating the model being invoked and which calls are for models being used as research assistants, and what pays for what.\n\nSurely there will always be a moral difference between \"company funds our salaries\" and \"company enables us to test their models\".",
+   "created_at": "Mon Aug 31 19:24:39 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": true,
+   "reply_to": "RishiBommasani",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2094500816396665279": {
+   "id": "2094500816396665279",
+   "url": "https://x.com/random_walker/status/2094500816396665279",
+   "text": "@mlipman13 @Abi0lvera Latent demand is not a separate explanation from AI reliability and need for oversight / quality control. Rather, it composes with the other two. The point is that since there is still a need for *some* human involvement, demand growth can partly or fully offset productivity increases. This is the same pattern we see in many other occupations as well.",
+   "created_at": "Mon Aug 31 19:01:23 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": true,
+   "reply_to": "mlipman13",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2094496090150105260": {
+   "id": "2094496090150105260",
+   "url": "https://x.com/random_walker/status/2094496090150105260",
+   "text": "You’re too kind. 🙏 I don’t know how much value there is in ideas without execution but I’m happy to give it a go! Here’s one — and it’s quite meta, because it’s about what breaks when AI slop makes certain things too cheap. If anyone would like to build on this, I’d be happy to (1) be an adviser (2) take it as a signal to clean up and publish more ideas. https://t.co/ZUxswR3emX",
+   "created_at": "Mon Aug 31 18:42:36 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 175,
+   "retweets": 20,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HREknAnWIAEYcna.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "Abi0lvera",
+    "text": "@random_walker You have tons of fans (myself included) who would love to execute some of your validated ideas if you ever wanted to make those public!"
+   },
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
   }
  }
 }

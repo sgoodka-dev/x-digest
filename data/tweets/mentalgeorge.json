@@ -1620,6 +1620,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-14T19:25:53.900934+00:00"
+  },
+  "2103028069153792031": {
+   "id": "2103028069153792031",
+   "url": "https://x.com/mentalgeorge/status/2103028069153792031",
+   "text": "@selenazhxng @TransluceAI How did you discover them?",
+   "created_at": "Thu Sep 24 07:45:38 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "selenazhxng",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-15T15:35:55.672465+00:00"
   }
  }
 }
