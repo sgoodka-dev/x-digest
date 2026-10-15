@@ -1701,6 +1701,29 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2110759315774828549": {
+   "id": "2110759315774828549",
+   "url": "https://x.com/curl_justin/status/2110759315774828549",
+   "text": "In the latest Pax Machina article, @justincurl suggests a simple way to start experimenting with AI courts: give litigants a choice between having their case decided by a human judge, or by an AI that’s faster. If they lose with the AI, they can still appeal to a human.\n\nDo people choose AI? And when they appeal, do the human judges agree with what the AI decided?\n\nIf people keep choosing the AI and judges keep agreeing with it, that kind of case probably doesn’t need a human judge.",
+   "created_at": "Thu Oct 15 15:46:51 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "PaxMachinaMag",
+   "rt_author_name": "Pax Machina",
+   "likes": 18,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUrTDCzbEAARNEB.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-15T19:10:06.646967+00:00"
   }
  }
 }

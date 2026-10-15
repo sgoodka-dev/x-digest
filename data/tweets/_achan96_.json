@@ -2018,6 +2018,47 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110777542257066090": {
+   "id": "2110777542257066090",
+   "url": "https://x.com/_achan96_/status/2110777542257066090",
+   "text": "We have never seen a model do this before, but GLM-5.3 sometimes reasons (unprompted) about how its current actions could become training data and impact its future self. 🧵 https://t.co/DFLv7OJwRq",
+   "created_at": "Thu Oct 15 16:59:17 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ApolloResearch",
+   "rt_author_name": "Apollo Research",
+   "likes": 706,
+   "retweets": 95,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUqgBAzXYAADdyr.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-15T19:10:06.646967+00:00"
+  },
+  "2110767243155869752": {
+   "id": "2110767243155869752",
+   "url": "https://x.com/_achan96_/status/2110767243155869752",
+   "text": "I feel like if companies are serious about pacing, they should be making public, conditional pacing commitments rather than just generically calling for pacing...\n\n(Of the form \"If companies [X] do [Y], we will commit to doing [Z]\")",
+   "created_at": "Thu Oct 15 16:18:21 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "kevinlwei",
+   "rt_author_name": "Kevin Wei (is in London)",
+   "likes": 16,
+   "retweets": 3,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-15T19:10:06.646967+00:00"
   }
  }
 }

@@ -1638,6 +1638,27 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110785790011957395": {
+   "id": "2110785790011957395",
+   "url": "https://x.com/mentalgeorge/status/2110785790011957395",
+   "text": "What is Anthropic's theory of victory for a world with no regulation before superintelligence? \n\nIn that world, solving alignment within Anthropic will be insufficient, given that competitor models may be as capable as but less aligned than Claude.\n\nSpitballing, but I see a couple options: \n\n- Triple down on racing in order to babyproof the world with aligned Claude before the Mongol hordes of misaligned models arrive on the scene. Obviously this is high-risk.\n\n- Coordinate with industry and third-party evaluators etc to approach RSI more gingerly. \n\n- Develop alignment breakthroughs and open-source them (seems unlikely given implementation of these breakthroughs is likely to depend on security and \"operational excellence\" that can't be easily exported; also obviously such breakthroughs may never exist).\n\nwhat else am i missing? which of these is more promising from the Anthropic POV?",
+   "created_at": "Thu Oct 15 17:32:03 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 17,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "mentalgeorge",
+    "text": "A lot turns on the true explanation for why Anthropic have not (yet) had as  egregious a misalignment incident as OpenAI.\n\nOne can imagine the following explanations:\n- safety culture does in fact pay off\n- they just haven't done as much RL, and will run into trouble as soon as they do\n- It's all just noise (incidents are rare; and eg UK AISI finds all models cheating on evals at similar rates)\n\nIf it is the former, it would be great to know what dimension of safety culture is helping the most here. Is it greater care with RL envs? Is it secret sauce of Claude character training? Is it better monitoring and infra controls?\n\nImagine how dope it would be to have a third party or government regulator  capable of answering these questions."
+   },
+   "fetched_at": "2026-10-15T19:10:06.646967+00:00"
   }
  }
 }

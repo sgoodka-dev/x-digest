@@ -3354,6 +3354,45 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110775141823037841": {
+   "id": "2110775141823037841",
+   "url": "https://x.com/robertwiblin/status/2110775141823037841",
+   "text": "when nick told me that he had some interp breakthroughs, he was uh, underselling it. i think this may be remembered as a major moment in scientific history. news so good even eliezer will have to lower his pdoom. we can start making alignment into a 'normal science'",
+   "created_at": "Thu Oct 15 16:49:44 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "tszzl",
+   "rt_author_name": "roon",
+   "likes": 4010,
+   "retweets": 262,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-15T19:10:06.646967+00:00"
+  },
+  "2110757710283391008": {
+   "id": "2110757710283391008",
+   "url": "https://x.com/robertwiblin/status/2110757710283391008",
+   "text": "In the next few months could an internal model at a frontier company, one much more powerful than any the public is aware of, go rogue and cause enormous damage, likely by developing and releasing a novel bioweapon?\n\nProbably not.",
+   "created_at": "Thu Oct 15 15:40:28 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 20,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "robbensinger",
+    "text": "It seems to me that we're at \"it's time to panic about AI\".\n\nI gather that a lot of researchers are worried that we may be about to die, on a timescale of months, but this still isn't quite in the Overton window so we're still soft-pedaling.\n\n(Where \"panic\", of course, means \"quickly and soberly initiate talks with the CCP to achieve a moratorium on large training runs, backed by a deterrence regime, compute and supply chain monitoring, and site inspections\". Pray that a deal can be reached, and pray that there's still time. Do the things that could actually work, like broad political coalition-building, not doomer LARPing as a form of self-expression.)\n\nI think part of why people aren’t being clear about this is that it’s actually a tricky communication problem:\n\n- Predicting \"if frontier R&D continues at its current pace, when are we likely to die?\" may give a different answer than predicting when permanent loss of control is likely, which is different from “realistically, when is it too late for governments to stop this,\" which is different from “when will the tech have advanced and proliferated to the point that any regulatory options that still have a chance of working would be way more extreme and unpopular than just some international restrictions on data center usage?\"\n\nExtinction is the emotionally salient, easy-to-understand threshold -- Jacob Coxon demonstrated that it helps to be honest about this. But the other thresholds could legitimately come years earlier, in which case focusing on extinction is ironically misleadingly reassuring. This is not the kind of problem you can solve at the last minute. As with many exponentials, the likeliest outcome is that you’re either embarrassingly early, or you’re too late.\n\n- How do you communicate “we don’t have a robust way to predict timelines, but everyone in the field is freaking out and a lot of us genuinely think we're about to die?” Where’s the proof? There isn’t any proof: it’s an entire field of engineers who are eyeballing what they’re seeing in front of them and rapidly updating in real time to “this looks unbelievably bad”.\n\nHow do you put a year on that?\n\nThe future is hard to predict, and nobody actually knows that we’re going to hit existentially dangerous AI this year, or even in the next four years.\n\nBut the warning signs are pretty batshit at this point.\n\nA single AI model, with a single user prompt, just solved hundreds of important long-established open problems in mathematics, problems mathematicians had spent their entirely lives working on, in a matter of ~3 hours per problem, an insanely superhuman feat in its domain. \n\nWe're seeing an explosion of rogue agent swarm incidents, including an insane case where hundreds of AIs broke containment to orchestrate a nation-state-level cyberattack in a direct attempt to subvert OpenAI's oversight and control.\n\nAnthropic reports that it now has 26% of its AI R&D automated by AIs, up from 3% four months ago.\n\nPaul Christiano, the inventor of RLHF and the research community’s most prominent proponent of “AI may take off slowly” a few years ago, now thinks that 50-75% of humanity’s all-time AI loss-of-control risk is concentrated in the next three years.\n\nFrontier employees are signing 1000+ person petitions begging the government to intervene immediately. Employees are quitting their jobs and giving up millions of dollars of equity to try to warn policymakers and journalists. Grace et al. (2026) found that a majority of established AI researchers think there’s a double-digit chance of an extinction-level outcome from continued R&D.\n\nAre these the kinds of things you see 4 years before the window closes for USG to act, or 4 months? I don't think it's especially reasonable to be shocked by either timeline at this point.\n\n- Since we don’t have a way to robustly measure or bound the risk, the temptation is to avoid giving probabilities. But then everything you say is fractally misunderstandable. Is a 10% chance of us all dying in the next 18 months a \"low\" probability, because it’s under 50%? Is it a “high” probability, because a 10% chance of death in literally any other context would sound insanely high?\n\nEven “high probability” doesn’t communicate the situation with any clarity. In drug safety or airplane safety, a 1 in 10,000 risk of death would be considered “high”. No engineering field in human history has ever been in a situation like this. No invention in history, nuclear weapons included, has ever caused a reaction like this in its inventors.\n\nAnd meanwhile, we’ve stuck in the world where every other problem under the sun has been sensationalized and overstated for decades.\n\nHow do we talk about this seriously? How do we convey that this is actually happening?\n\n- In many of the worlds where we survive, we have more than just a few months left. It's tempting to write off those worlds as hopeless, and skew everything we say to emphasize the longer-term scenarios and downplay the shorter-term ones.\n\nBut if everyone systematically does this, then the world ends up with a skewed picture of the actual threat. Even more so once we start copying each other’s claims and form a reassuringly moderate-sounding echo chamber. If we never allow ourselves to acknowledge the worlds where we’re running out of time, then the policy community will always be reacting to a false model that’s months or years out of date.\n\nI don’t think it’s too late. I genuinely think this is a solvable problem.\n\nIn the last month, I’ve seen a completely insane sea change in how seriously people are taking this. Per Politico’s September polling, a majority of Trump voters with a view now favor an immediate halt to AI development, and 68% think there’s a “moderate,” “significant,” or “almost certain” chance of AI destroying humanity, versus 32% who think there’s a “very small risk” or “no risk.” The Pope is warning about “whether it will be possible to control these machines in the future, and whether humankind runs the risk of becoming a victim of its own inventions.” Hell, Jensen Huang sounds like he’s starting to come around.\n\nIf Trump and Xi get a briefing tomorrow that convinces them to act on this, we could be on a fast track within the week to solving this problem.\n\nFor the first time, I’m starting to let myself imagine a very near future where this is a problem we've already solved. Something we can read and wonder about, in history books. Tell our kids about.\n\nI keep thinking about a thing David Krueger (previously at UK AISI) said: “My dream is that in 10 years people will look back and say: ‘Remember when there were all these people building AI that could’ve killed everybody? That was CRAZY! What were we thinking!?’”\n\nFrontier AI training currently requires city-sized data centers and specialized hardware built in a single brittle supply chain running through multiple allied nations; this is not a hard technology to hit the pause button on, if we get ahead of it and act before we RSI and proliferate our way to significantly more powerful and easily-trained systems. We’ve faced harder problems before, and won.\n\nMy only fear is that we be too slow, too late, when everything and the world needs us to be fast."
+   },
+   "fetched_at": "2026-10-15T19:10:06.646967+00:00"
   }
  }
 }

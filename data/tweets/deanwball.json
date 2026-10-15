@@ -5918,6 +5918,45 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110794674587746764": {
+   "id": "2110794674587746764",
+   "url": "https://x.com/deanwball/status/2110794674587746764",
+   "text": "There is so much to say about this, and I will, but WOW, congratulations to Nick and Goodfire. This may be one of the most important single days in deep learning history, and perhaps much more than that. \n\nNo matter what, this is a victory for the dogged pursuit of understanding.",
+   "created_at": "Thu Oct 15 18:07:21 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 341,
+   "retweets": 13,
+   "media": [],
+   "quoted": {
+    "author": "nickcammarata",
+    "text": "interpretability might be the most important scientific problem in the world right now, as I don't think we can solve alignment if we don't know what we're building. I think I have good news about it. I co-authored early work in mechanistic interpretability at OpenAI and came away pessimistic, because neural networks appeared to fold into arbitrary tangled knots. years later, I started openai's first large-scale automated interpretability project, finding about 2% of neurons legible with the primitive tools we had\n\nwith modern agentic tools and a much closer look, the picture looks totally different. the vast majority in models up to trillions of parameters are legible, and their circuits beautiful. many famous examples of tangled neurons turned out to be misunderstood. The roadblocks I expected mostly aren't there. I now think ambitious interpretability will be solved by the time we need it most, and possibly quite soon, as automated scientists keep improving. it may be a bitter lesson for interpretability: the simple thing, at absurd scale, works\n\nhttps://t.co/zHij5zwKGT"
+   },
+   "fetched_at": "2026-10-15T19:10:06.646967+00:00"
+  },
+  "2110788412051751323": {
+   "id": "2110788412051751323",
+   "url": "https://x.com/deanwball/status/2110788412051751323",
+   "text": "when nick told me that he had some interp breakthroughs, he was uh, underselling it. i think this may be remembered as a major moment in scientific history. news so good even eliezer will have to lower his pdoom. we can start making alignment into a 'normal science'",
+   "created_at": "Thu Oct 15 17:42:28 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "tszzl",
+   "rt_author_name": "roon",
+   "likes": 4010,
+   "retweets": 262,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-15T19:10:06.646967+00:00"
   }
  }
 }

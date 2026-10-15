@@ -1536,6 +1536,27 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-14T19:25:53.900934+00:00"
+  },
+  "2110800847370428837": {
+   "id": "2110800847370428837",
+   "url": "https://x.com/ohlennart/status/2110800847370428837",
+   "text": "@taoroalin Yeah, agree. I've not looked into how much the recent \"anti distillation measures\" help and what's feasible. \nI think we should just expect that there's a large efficiency multiplier if you play catch up and that won't be stopped completely.\nhttps://t.co/Y2pYVNKqp6",
+   "created_at": "Thu Oct 15 18:31:53 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": true,
+   "reply_to": "taoroalin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "ohlennart",
+    "text": "be me:\n&gt; studies compute and trends carefully [1]\n&gt; thinks it's a cool governance lever [2]\n&gt; simultaneously comes to the conclusion that it's gonna diffuse anyway [3]\n&gt; thinks we should adapt and build resilience [4]\n&gt; now believes all these things are true at the same time [5]"
+   },
+   "fetched_at": "2026-10-15T19:10:06.646967+00:00"
   }
  }
 }

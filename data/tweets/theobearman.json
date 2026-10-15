@@ -2950,6 +2950,24 @@
     "text": "And even more importantly, their plan to deal with this has been shown to be:\n1) Run new potentially dangerous model\n2) It is misaligned and breaks containment\n3) Fix that particular hole in the security\n4) GOTO (1)"
    },
    "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110768438289519007": {
+   "id": "2110768438289519007",
+   "url": "https://x.com/theobearman/status/2110768438289519007",
+   "text": "when nick told me that he had some interp breakthroughs, he was uh, underselling it. i think this may be remembered as a major moment in scientific history. news so good even eliezer will have to lower his pdoom. we can start making alignment into a 'normal science'",
+   "created_at": "Thu Oct 15 16:23:06 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "tszzl",
+   "rt_author_name": "roon",
+   "likes": 4011,
+   "retweets": 262,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-15T19:10:06.646967+00:00"
   }
  }
 }

@@ -3564,6 +3564,65 @@
     "text": "[Long off the cuff post reacting to this posting + the discourse in comments and quote tweets]\n\nThis is really thorny. On one hand, I think it's clear the people involved here are earnestly interested in making this kind of thing have very pro-social outcomes (i.e. I think everyone involved really wants to improve Claude's ability to tackle grand societal challenges, and they might succeed). (And caveat, I really like everything that the OP has put out and think it's great this line of work is being boosted by Anthropic; while I'm very worried about the overall impacts of AI industry at large on content ecosystem, incentives for knowledge work, and so on, I think an underrated mitigating effect is that the labs really are boosting some impactful research agendas)\n\nHowever, on the other hand, I think there's a strong argument (and one that leans on, in particular, perspectives from political scientists and economists re: social dilemmas, market failures, labor solidarity, capital concentration) that there will at some point be an inflection point where an individual's choice to contribute to something like this may *substantially* accelerate replacement in a sub-domain. \n\nSo depending on one's own normative preferences and \"judgment of social impact\" -- it could be the case that replacement effects, and especially the notion of defection or \"scabbing\" that impacts one's close colleagues by eroding the leverage they have via their previously leverage-generating skills outweigh other positives. It's possible we've already hit this inflection point.\n\n(And yes, there's a big debate about it being pro-social to accelerate certain types of replacement -- if they're going to lose that leverage soon no matter what, rip the band-aid off, so every individual needs to reason about how likely it is that collective action / labor coordination is achieved at all)\n\nHowever, with replacement concerns fresh in everyone's minds (because of math progress, other \"capability jumps\", etc.), it's notable that the AI industry does not really seem to have an answer for this yet.\n\nNo joke, perhaps one of the outcomes of programs like this that boost social scientists could help provide an answer!\n\nI think there is a world in which top social scientists create RL envs that make Claude better at helping AI employees form a union, or help data intermediaries operate, make data markets healthier, etc."
    },
    "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110802594570584098": {
+   "id": "2110802594570584098",
+   "url": "https://x.com/sethlazar/status/2110802594570584098",
+   "text": "I have a lot of respect for Nick, and I’d be very happy if neural networks were much easier to understand than we thought. But I think the argument here mischaracterises what superposition predicts. Since it’s getting attention, here’s a first pass at some issues.",
+   "created_at": "Thu Oct 15 18:38:50 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "livgorton",
+   "rt_author_name": "Liv",
+   "likes": 157,
+   "retweets": 9,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-15T19:10:06.646967+00:00"
+  },
+  "2110802505076822478": {
+   "id": "2110802505076822478",
+   "url": "https://x.com/sethlazar/status/2110802505076822478",
+   "text": "In the latest Pax Machina article, @justincurl suggests a simple way to start experimenting with AI courts: give litigants a choice between having their case decided by a human judge, or by an AI that’s faster. If they lose with the AI, they can still appeal to a human.\n\nDo people choose AI? And when they appeal, do the human judges agree with what the AI decided?\n\nIf people keep choosing the AI and judges keep agreeing with it, that kind of case probably doesn’t need a human judge.",
+   "created_at": "Thu Oct 15 18:38:28 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "PaxMachinaMag",
+   "rt_author_name": "Pax Machina",
+   "likes": 18,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUrTDCzbEAARNEB.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-15T19:10:06.646967+00:00"
+  },
+  "2110771849080557712": {
+   "id": "2110771849080557712",
+   "url": "https://x.com/sethlazar/status/2110771849080557712",
+   "text": "My department (Philosophy at UMD) is advertising two positions. First: a junior position in Philosophy of Mind, \n\nhttps://t.co/NFmoHT8yCn\n\nSecond: an assistant, or associate position in, you guessed it, AI Ethics/AI Safety joint with AIM. \n\nhttps://t.co/QZXD0JCaWS\n\nSpread widely!",
+   "created_at": "Thu Oct 15 16:36:39 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "fabcariani",
+   "rt_author_name": "Fabrizio Cariani",
+   "likes": 17,
+   "retweets": 7,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-15T19:10:06.646967+00:00"
   }
  }
 }
