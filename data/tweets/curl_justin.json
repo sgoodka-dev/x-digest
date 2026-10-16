@@ -1724,6 +1724,27 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-15T19:10:06.646967+00:00"
+  },
+  "2111121019658510681": {
+   "id": "2111121019658510681",
+   "url": "https://x.com/curl_justin/status/2111121019658510681",
+   "text": "More evidence supporting our thesis that the U.S. and China are not running different races. \n\nWe argued that the two countries have the same long term goal of “building the best models and deploying them widely.”\n\nFor 4 claims about why China’s different, we argued that “differences between China and the U.S. are often overstated; where they do exist, they reflect the environment in which Chinese labs and officials operate rather than a fixed Chinese theory of AI progress or distinct long-term strategy; and there’s evidence that these differences are already diminishing.”\n\nWe must not make the mistake of viewing the CCP’s AI strategy as evidence of diverging long-term goals or of a philosophical commitment to diffusion over innovation.\n\nThe CCP is fundamentally a pragmatic actor, and their commitment to open-weight will persist only as long as it does not threaten control, their economy, or social stability. \n\nRead our original take here: https://t.co/h6w69InXPl",
+   "created_at": "Fri Oct 16 15:44:08 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 22,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "kuhhbin",
+    "text": "Beijing just took a big step towards closing the Chinese frontier. The rules could give China's government the power to restrict AI developers from releasing their most advanced open-weight models.\n\nIt proposes banning exports of AI technologies that autonomously generate and modify malicious code. It also wants to restrict exports of AI-assisted vulnerability-discovery technologies. Giving a model away for free, ie open-weight, could qualify as an export.\n\nCrucially, the rules distinguish between technologies already in the public domain and those not yet released. It specifically exempts existing open-source models. But new releases could potentially trigger export controls.\n\nProviding foreign customers with access to models through APIs (ie, closed models) is generally exempt, whereas restricted models being served overseas could require a licence.\n\nBeijing promises essentially automatic licensing for open-source releases, allowing developers to publish almost immediately after notification. But it's unclear whether this applies to those capabilities proposed for outright export prohibition. \n\nIf intelligence generalises, how can China's AI labs distinguish between a smart model and one that has the capabilities proposes for restrictions?\n\nhttps://t.co/bgGGijXth6"
+   },
+   "fetched_at": "2026-10-16T18:49:14.085440+00:00"
   }
  }
 }

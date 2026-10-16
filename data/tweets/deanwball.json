@@ -6132,6 +6132,50 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-16T15:22:40.179485+00:00"
+  },
+  "2111150928997019765": {
+   "id": "2111150928997019765",
+   "url": "https://x.com/deanwball/status/2111150928997019765",
+   "text": "This move does not mean “China is shutting down open-weight models,” but it does indicate the Chinese government establishing the optionality to shut down future open-weight models at will. It’s also a mirror image of the model-weight export control regime USG has already used.",
+   "created_at": "Fri Oct 16 17:42:59 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 53,
+   "retweets": 6,
+   "media": [],
+   "quoted": {
+    "author": "choblin29",
+    "text": "HOLY. China is moving to put 23 AI technologies under export controls, including large models, AI agents and computing clusters, as part of a sweeping proposal to ban exports of 14 technologies and restrict another 26.\n\nThe rules would ban technology for AI systems that autonomously generate or mutate malware, while AI-assisted vulnerability discovery and overseas deployment of restricted Chinese models would require approval.\n\nAPIs, apps, SaaS and already-public open-source technologies are exempt.\n\nExporters must begin registering covered overseas technology transfers today, before the final controls are adopted. Public consultation closes November 15."
+   },
+   "fetched_at": "2026-10-16T18:49:14.085440+00:00"
+  },
+  "2111147391546270033": {
+   "id": "2111147391546270033",
+   "url": "https://x.com/deanwball/status/2111147391546270033",
+   "text": "The back of the Navier-Stokes milestone shirt is the last line of the chain-of-thought from the solution: https://t.co/W7mK8WmCz1",
+   "created_at": "Fri Oct 16 17:28:56 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "sama",
+   "rt_author_name": "Sam Altman",
+   "likes": 4681,
+   "retweets": 226,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUxFtExa4AIniRE.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-16T18:49:14.085440+00:00"
   }
  }
 }

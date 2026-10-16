@@ -1695,6 +1695,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-16T15:22:40.179485+00:00"
+  },
+  "2111138192703537551": {
+   "id": "2111138192703537551",
+   "url": "https://x.com/mentalgeorge/status/2111138192703537551",
+   "text": "Fun fact of the day, ASML has more R&amp;D staff than the eight largest listed Chinese equipment makers combined",
+   "created_at": "Fri Oct 16 16:52:22 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "Hamish_Low5",
+   "rt_author_name": "Hamish Low",
+   "likes": 4,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-16T18:49:14.085440+00:00"
   }
  }
 }

@@ -2455,6 +2455,29 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-16T15:22:40.179485+00:00"
+  },
+  "2111155879894548604": {
+   "id": "2111155879894548604",
+   "url": "https://x.com/random_walker/status/2111155879894548604",
+   "text": "@raphaelmilliere Sure. If you are looking for true cruxes I doubt there is one. Beliefs tend to be tightly correlated (more than logically entailed), which says something about the discourse. That was part of our motivation for writing the paper. https://t.co/eH7ifWXzR4",
+   "created_at": "Fri Oct 16 18:02:39 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": true,
+   "reply_to": "raphaelmilliere",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUxUZyMX0AA5Pdr.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-16T18:49:14.085440+00:00"
   }
  }
 }

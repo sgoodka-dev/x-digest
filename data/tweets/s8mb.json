@@ -6065,6 +6065,45 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-16T15:22:40.179485+00:00"
+  },
+  "2111150766715183317": {
+   "id": "2111150766715183317",
+   "url": "https://x.com/s8mb/status/2111150766715183317",
+   "text": "@willsolfiac @akarlin I think you’re right. They’re wrong about work being generally “dignified”, it’s often horrible, but right that work with dignity is really great and we should want it for as many people as possible!",
+   "created_at": "Fri Oct 16 17:42:20 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "willsolfiac",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-16T18:49:14.085440+00:00"
+  },
+  "2111147888143131067": {
+   "id": "2111147888143131067",
+   "url": "https://x.com/s8mb/status/2111147888143131067",
+   "text": "They’ll never appreciate you. Come to Camberwell instead!",
+   "created_at": "Fri Oct 16 17:30:54 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 30,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "brixtonbuzz",
+    "text": "Protesters target Gail’s Bakery in Brixton ahead of today’s opening\nhttps://t.co/wIGmGn4cFs https://t.co/LN2x6QxirV"
+   },
+   "fetched_at": "2026-10-16T18:49:14.085440+00:00"
   }
  }
 }

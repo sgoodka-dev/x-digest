@@ -1801,6 +1801,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-16T15:22:40.179485+00:00"
+  },
+  "2111132176079016060": {
+   "id": "2111132176079016060",
+   "url": "https://x.com/sayashk/status/2111132176079016060",
+   "text": "I'm often asked what the cruxes are that separate the AI as Normal Technology worldview from that of our critics. I think this is one of them. We think this mindset shift is hard but necessary and achievable. Many others think that as AI capabilities continue to advance, we will inevitably give up control. Creating and compiling indicators of disempowerment and analyzing which direction they're moving remains one of the most important but underappreciated and underfunded areas of AI safety.",
+   "created_at": "Fri Oct 16 16:28:28 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "random_walker",
+   "rt_author_name": "Arvind Narayanan",
+   "likes": 49,
+   "retweets": 4,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-16T18:49:14.085440+00:00"
   }
  }
 }
