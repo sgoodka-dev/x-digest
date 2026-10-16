@@ -1783,6 +1783,24 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110891470127599803": {
+   "id": "2110891470127599803",
+   "url": "https://x.com/sayashk/status/2110891470127599803",
+   "text": "There is widespread frustration about the AI industry’s “automate everything\" agenda. But what would it take to steer AI toward augmenting human capabilities instead? In a new essay, Gabriel Unger (@_gabrielunger) and I lay out a research agenda and plan for action. https://t.co/gWjFI5VKbz\n\nOur thesis is that the reason why AI-for-automation currently dominates isn’t just economic incentives but also deeper cultural issues in computer science as a field. And that can be changed.\n\n- We sketch four important research directions that are needed in order to build collaborative or augmentative AI. The automation paradigm largely ignores these technical challenges.\n- We advocate for Human-Computer Interaction and Human-Centered AI to be elevated as a subfield in status, influence, and funding, and changing AI curricula to emphasize the role of the human and decrease the centrality of the pure-automation problem framing.\n- We point out that there are a surprising number of efforts in economics, computer science, industry, and policy all trying to bring about a shift toward augmentation, but not enough collective awareness. Better connecting these movements would amplify their power.\n- We think the automation agenda is struggling on its own terms. Compiling evidence of the limits of general-purpose agents for automation and loudly making the case will encourage more companies to take collaboration more seriously as a goal.\n- We predict that once more workers experience this way of working and recognize that there are alternatives to the delegate-and-supervise pattern, it will generate more demand, creating a flywheel effect.\n- Targeted policy levers can play a small but important role in amplifying both the supply and demand for pro-worker AI. We don’t need clumsy top-down mandates.\n\nWe're not against automation. But we think the goal of AI must be broader.\n\nThis is the start of a long-term project. I know there are far more like-minded efforts out there than we’re aware of. I’d love to hear about some of them.",
+   "created_at": "Fri Oct 16 00:31:59 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "random_walker",
+   "rt_author_name": "Arvind Narayanan",
+   "likes": 218,
+   "retweets": 44,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-16T15:22:40.179485+00:00"
   }
  }
 }

@@ -1643,6 +1643,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110937179996467577": {
+   "id": "2110937179996467577",
+   "url": "https://x.com/ajeya_cotra/status/2110937179996467577",
+   "text": "In case you missed it, this blog post explains METR’s philosophy for embedded assessments and the like. There’s some interesting stuff in here about process transparency + avoiding the need to “trust the experts”.",
+   "created_at": "Fri Oct 16 03:33:37 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "CFGeek",
+   "rt_author_name": "Charles Foster",
+   "likes": 41,
+   "retweets": 5,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-16T15:22:40.179485+00:00"
   }
  }
 }

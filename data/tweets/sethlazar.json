@@ -3623,6 +3623,65 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-15T19:10:06.646967+00:00"
+  },
+  "2110949901584531569": {
+   "id": "2110949901584531569",
+   "url": "https://x.com/sethlazar/status/2110949901584531569",
+   "text": "My collaborator @ChunYan_01 (CY) has been doing incredibly cool work building genuinely autonomous agents—agents who, on starting, just observe their environment and their affordances, without receiving any direct instruction or information about their identity. It's a very neat setup that could be explored in lots of cool ways. He also has done great work on our investigations of LLM moral reasoning. And I think the alignment direction proposed at the end is very promising. Recommend having a read! https://t.co/2PtWs1mp0n\n\nAlso I think this is the most charming LLM use delcaration I've seen",
+   "created_at": "Fri Oct 16 04:24:10 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUuZseoXUAAxcPc.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-16T15:22:40.179485+00:00"
+  },
+  "2110908553774948393": {
+   "id": "2110908553774948393",
+   "url": "https://x.com/sethlazar/status/2110908553774948393",
+   "text": "@joshalbrecht @RuxandraTeslo Definitely a hard limit on the ability of model providers to run downstream vertically integrated applications within particular white collar domains (ie Anthropic can only provide models to legal and financial services companies, can't be the legal and financial services company themselves). Open models. Deep investment in compute as digital public infrastructure. Swingeing taxes on AI windfalls to support domains undercut by AI. Some starting points...",
+   "created_at": "Fri Oct 16 01:39:52 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": true,
+   "reply_to": "joshalbrecht",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-16T15:22:40.179485+00:00"
+  },
+  "2110851409440567568": {
+   "id": "2110851409440567568",
+   "url": "https://x.com/sethlazar/status/2110851409440567568",
+   "text": "@eschwitz Sorry to read this Eric, but heartened by your response and confident that you'll smash this.",
+   "created_at": "Thu Oct 15 21:52:48 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": true,
+   "reply_to": "eschwitz",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 14,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-16T15:22:40.179485+00:00"
   }
  }
 }

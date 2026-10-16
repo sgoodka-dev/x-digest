@@ -2968,6 +2968,65 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-15T19:10:06.646967+00:00"
+  },
+  "2111013199223128248": {
+   "id": "2111013199223128248",
+   "url": "https://x.com/theobearman/status/2111013199223128248",
+   "text": "This is interesting work, but I don't think it's a significant update to the big picture of interpretability.\n\nI'm on board with the broad idea of doing exploratory interpretability with neurons, e.g. neuron-based attribution graphs, for pragmatic problems like why did a model do a sketchy thing? I think this work provides some reasonable evidence, in addition to good earlier work from\nTransluce, that this might actually work for practical purposes, and has some advantages over the standard alternatives like SAEs/transcoders. I do not agree with some people's grander inferences like that this is substantial progress towards ambitious reverse engineering, solving interpretability etc.\n\nI expect that a neuron-based attribution graph will still have significant error and be missing a lot just like transcoders, once you prune them down to the most important components, even if they solve error terms. Which is fine for pragmatic purposes, and may suffice for getting the gist of what's going on, but I remain pessimistic about really fully understanding things and being confident there's nothing we're missing. I do think that using neurons is just vastly easier to, for example, do on a frontier model, which is great. I'm also excited to see more innovation in using agents to interpret neurons. I feel like this is an area the field has somewhat neglected, and where there's probably a very high ceiling on how far things can go. The SwiGLU double negative thing is also a useful point.\n\nI still think superposition is real and this work doesn’t really affect my cruxes. Most importantly, it seems highly likely to be true that the model can represent more concepts in the residual stream than it has dimensions, ie representational superposition, which I think the authors agree with me on. For neuron/computational superposition, it seems to me like language models have far more facts and memorized things in them than they have neurons. And that superposition is an efficient way to pack in more facts than you have neurons by representing them as linear combinations of neurons, especially for arbitrary unstructured values. Facts/memorized content is largely an unstructured database of key-value pairs IMO and I don’t see how this is compatible with a monosemantic view of neurons. I expect that weak neuron activations contain lots of semantic superposition-y info, which, if ablated, would meaningfully damage network performance. As I understand the work, it does not properly address what's going on with weak neuron activations in LLMs (I am skeptical of how much vision results will transfer, eg I expect small image models memorise far less). This picture is compatible with the highest activations of a neuron being mono semantic (though IMO the post defines monosemantic too loosely, I think I’d call a fair few of those polysemantic). It’s also plausible that the most important concepts are likely to correspond to a neuron (or a handful), which would be great, and may suffice for practical purposes!\n\nSimilarly, my impression is that SAEs generally don't find things that are a\nsingle neuron, or even very sparse in the neuron basis, and are often a better basis for certain tasks than the neuron basis, though the evidence base is kinda weak here since we largely focus on residual stream or layer output SAEs, I’d love to see work on this in Goodfire’s forthcoming paper! I also think residual stream SAEs are extremely useful, as they give a good bottleneck of the model’s information at this token and layer, and I don’t see a good way to replicate them in the neuron framework.\n\nAnd kudos to Nick for updating a bunch of his historical vision work! Revisiting old results with modern tools and more rigour seems great.",
+   "created_at": "Fri Oct 16 08:35:42 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "NeelNanda5",
+   "rt_author_name": "Neel Nanda",
+   "likes": 1320,
+   "retweets": 138,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-16T15:22:40.179485+00:00"
+  },
+  "2110843715665408466": {
+   "id": "2110843715665408466",
+   "url": "https://x.com/theobearman/status/2110843715665408466",
+   "text": "Dwarkesh told Tyler Cowen on the NYT podcast that Anthropic believes Claude will surpasses human researchers within nine months. I said it would be by the summer, so I'm feeling good about my prediction. https://t.co/Zrp9nNXlf3",
+   "created_at": "Thu Oct 15 21:22:14 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AndrewCurran_",
+   "rt_author_name": "Andrew Curran",
+   "likes": 718,
+   "retweets": 41,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUsoZVTbEAAuKuy.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-16T15:22:40.179485+00:00"
+  },
+  "2110839658037031135": {
+   "id": "2110839658037031135",
+   "url": "https://x.com/theobearman/status/2110839658037031135",
+   "text": "We’ve committed to having evaluators assess our safety practices. We're in discussions with multiple organizations, and have now given employee-like access to a team from @METR_Evals.\n\nIn this post, we describe how we work with third-party evaluators: https://t.co/8CLQnMVg4X",
+   "created_at": "Thu Oct 15 21:06:06 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AnthropicAI",
+   "rt_author_name": "Anthropic",
+   "likes": 3508,
+   "retweets": 234,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-16T15:22:40.179485+00:00"
   }
  }
 }

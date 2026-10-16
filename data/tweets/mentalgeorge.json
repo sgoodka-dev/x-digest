@@ -1659,6 +1659,42 @@
     "text": "A lot turns on the true explanation for why Anthropic have not (yet) had as  egregious a misalignment incident as OpenAI.\n\nOne can imagine the following explanations:\n- safety culture does in fact pay off\n- they just haven't done as much RL, and will run into trouble as soon as they do\n- It's all just noise (incidents are rare; and eg UK AISI finds all models cheating on evals at similar rates)\n\nIf it is the former, it would be great to know what dimension of safety culture is helping the most here. Is it greater care with RL envs? Is it secret sauce of Claude character training? Is it better monitoring and infra controls?\n\nImagine how dope it would be to have a third party or government regulator  capable of answering these questions."
    },
    "fetched_at": "2026-10-15T19:10:06.646967+00:00"
+  },
+  "2110877998966833663": {
+   "id": "2110877998966833663",
+   "url": "https://x.com/mentalgeorge/status/2110877998966833663",
+   "text": "@BronsonSchoen @eccentric1ty good q and i honestly have no idea, my guess tho is that anthropic people are banking on either (1) the gov at *some* point stepping in; or (2) benevolent and early deployment of aligned super-claude throughout the world being sufficient to avoid further risks",
+   "created_at": "Thu Oct 15 23:38:27 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "BronsonSchoen",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-16T15:22:40.179485+00:00"
+  },
+  "2110866031736730106": {
+   "id": "2110866031736730106",
+   "url": "https://x.com/mentalgeorge/status/2110866031736730106",
+   "text": "@eccentric1ty i'd be surprised if that was their actual plan, no? seems both impossible to pull off and contrary to the values of many at anthropic",
+   "created_at": "Thu Oct 15 22:50:54 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "eccentric1ty",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-16T15:22:40.179485+00:00"
   }
  }
 }

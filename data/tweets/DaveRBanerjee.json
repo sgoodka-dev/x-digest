@@ -2248,6 +2248,52 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2110955643725398077": {
+   "id": "2110955643725398077",
+   "url": "https://x.com/DaveRBanerjee/status/2110955643725398077",
+   "text": "Dwarkesh Patel reveals an Anthropic employee told him two days ago they expect AIs to match humans at AI research within nine months based on inside information they can’t share, and says labs should make that evidence public\n\n“I think there’s a very frustrating element to the current situation right now, where people inside the AI labs claim to have evidence that makes them more worried. And they are not allowed to talk about it. And this makes it a very difficult situation on the outside to evaluate how worried we should be.\"\n\n\"So for example, just the other day, maybe two days ago, I was talking to somebody at Anthropic and they were like, look, I expect AIs to be humans at AI research within nine months.\"\n\n\"And I’m like, why do you believe that? Well, they’re like, it’s not just vibes, but I have information on the inside. Like, what is it? Is it a new model? Is it some evaluation you ran? It’s like, I can’t talk about it.\"\n\n\"I think it’s a terrible state of affairs. If they really believe this, if they think that we’re in a situation where we’re less than a year away from automating AI research and radically speeding it up, they should make this evidence public.”",
+   "created_at": "Fri Oct 16 04:46:59 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "firesidealpha",
+   "rt_author_name": "Fireside Alpha",
+   "likes": 1019,
+   "retweets": 91,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2110767180728160259/img/TnndIavRKMz0fEpj.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-16T15:22:40.179485+00:00"
+  },
+  "2110954707288305841": {
+   "id": "2110954707288305841",
+   "url": "https://x.com/DaveRBanerjee/status/2110954707288305841",
+   "text": "We have never seen a model do this before, but GLM-5.3 sometimes reasons (unprompted) about how its current actions could become training data and impact its future self. 🧵 https://t.co/DFLv7OJwRq",
+   "created_at": "Fri Oct 16 04:43:16 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ApolloResearch",
+   "rt_author_name": "Apollo Research",
+   "likes": 1366,
+   "retweets": 175,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUqgBAzXYAADdyr.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-16T15:22:40.179485+00:00"
   }
  }
 }

@@ -2357,6 +2357,104 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-15T19:10:06.646967+00:00"
+  },
+  "2111111994484924897": {
+   "id": "2111111994484924897",
+   "url": "https://x.com/random_walker/status/2111111994484924897",
+   "text": "@raphaelmilliere I mean the other way around... one reason people think AI won't follow the path of other general-purpose technologies is that they fear we will not be able to exercise adequate agency when faced with superintelligence.",
+   "created_at": "Fri Oct 16 15:08:16 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": true,
+   "reply_to": "raphaelmilliere",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-16T15:22:40.179485+00:00"
+  },
+  "2111101648781132007": {
+   "id": "2111101648781132007",
+   "url": "https://x.com/random_walker/status/2111101648781132007",
+   "text": "I'm often asked what the cruxes are that separate the AI as Normal Technology worldview from that of our critics. I think this is one of them. We think this mindset shift is hard but necessary and achievable. Many others think that as AI capabilities continue to advance, we will inevitably give up control. Creating and compiling indicators of disempowerment and analyzing which direction they're moving remains one of the most important but underappreciated and underfunded areas of AI safety.",
+   "created_at": "Fri Oct 16 14:27:10 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 17,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "random_walker",
+    "text": "We need a mindset shift in how we deploy AI. In the past, new capabilities unlocked new use cases. Safety, control, ethics, and skill erosion were important but usually secondary considerations; risks to be managed rather than gating criteria. But now and in the future, capability won't be the main bottleneck to deployment — considerations beyond productivity should be the decisive factor. The  default question used to be \"What can AI do?\" But we need to start asking \"Of the things AI can do, what should we actually delegate to it?\""
+   },
+   "fetched_at": "2026-10-16T15:22:40.179485+00:00"
+  },
+  "2111065613237915681": {
+   "id": "2111065613237915681",
+   "url": "https://x.com/random_walker/status/2111065613237915681",
+   "text": "We need a mindset shift in how we deploy AI. In the past, new capabilities unlocked new use cases. Safety, control, ethics, and skill erosion were important but usually secondary considerations; risks to be managed rather than gating criteria. But now and in the future, capability won't be the main bottleneck to deployment — considerations beyond productivity should be the decisive factor. The  default question used to be \"What can AI do?\" But we need to start asking \"Of the things AI can do, what should we actually delegate to it?\"",
+   "created_at": "Fri Oct 16 12:03:58 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 55,
+   "retweets": 5,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-16T15:22:40.179485+00:00"
+  },
+  "2110891552788885966": {
+   "id": "2110891552788885966",
+   "url": "https://x.com/random_walker/status/2110891552788885966",
+   "text": "this is totally worth a read! will shift your perspective on how warped the current direction is towards automation and how much more we can do on augmentation. \n\non \"Problem #4: How can we evaluate, and optimize for, human-AI collaboration?\"\n\nI learnt a lot from our initial attempt (centaur bench: https://t.co/9swmtxevOS), but also learn how complex/multi-dimensional the problem is. This essay does a great job of laying out some of those dimensions. \n\nI'd tried to put together something very quickly for our phd students (https://t.co/s1BE8ygm0x) and this picture still guides my thinking here.",
+   "created_at": "Fri Oct 16 00:32:19 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "abhishekn",
+   "rt_author_name": "Abhishek Nagaraj",
+   "likes": 19,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUtawigbcAAk5Zm.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-16T15:22:40.179485+00:00"
+  },
+  "2110858421780250892": {
+   "id": "2110858421780250892",
+   "url": "https://x.com/random_walker/status/2110858421780250892",
+   "text": "While automation dominates much of the AI conversation, what other research directions should we prioritize?\n\n@random_walker and @_gabrielunger argue for a broader research agenda in \"Steering AI Beyond Automation.\"\n\nRead the essay here: https://t.co/ofoiKSXUfG",
+   "created_at": "Thu Oct 15 22:20:40 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "DigEconLab",
+   "rt_author_name": "Stanford Digital Economy Lab",
+   "likes": 5,
+   "retweets": 3,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-16T15:22:40.179485+00:00"
   }
  }
 }
