@@ -6307,6 +6307,27 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2111470075014189292": {
+   "id": "2111470075014189292",
+   "url": "https://x.com/s8mb/status/2111470075014189292",
+   "text": "Good air conditioning though.",
+   "created_at": "Sat Oct 17 14:51:09 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 10,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "ajlamesa",
+    "text": "Fare evasion on New York City buses was 48.5% in the second quarter of 2026.   \n\nThe most recent data from London? 2.5%. https://t.co/gtlg2JcTIB"
+   },
+   "fetched_at": "2026-10-17T17:52:07.350870+00:00"
   }
  }
 }
