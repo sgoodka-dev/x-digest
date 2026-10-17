@@ -1713,6 +1713,111 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-16T18:49:14.085440+00:00"
+  },
+  "2111201240982143083": {
+   "id": "2111201240982143083",
+   "url": "https://x.com/mentalgeorge/status/2111201240982143083",
+   "text": "Interesting graph from latest Anthropic report showing (plausible) productivity uplift for legal teams, salespeople and recruiters as well as engineers https://t.co/nDfgecgsdP",
+   "created_at": "Fri Oct 16 21:02:54 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 60,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUx-NzvbUAAwoNB.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2103091203374018929": {
+   "id": "2103091203374018929",
+   "url": "https://x.com/mentalgeorge/status/2103091203374018929",
+   "text": "@HaydnBelfield do you have any reading recs on woodrow wilson / this era?",
+   "created_at": "Thu Sep 24 11:56:31 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "HaydnBelfield",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2102827996868460979": {
+   "id": "2102827996868460979",
+   "url": "https://x.com/mentalgeorge/status/2102827996868460979",
+   "text": "[5/5] Lastly, a scorecard on essential data disclosure.\n\nWe scored OpenAI, Anthropic and Google DeepMind’s (GDM) on how many of the data points in this note they have already made public. \n\nCurrent scores are OpenAI (2/8), Anthropic (1.5/8), and GDM (0.5/8). \n\n(For each measure we assigned a score of 1 for a full release, 0.5 for partial release, and 0 for no data. We will continue to update this as labs release more information.)",
+   "created_at": "Wed Sep 23 18:30:37 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "cherylwoooo",
+   "rt_author_name": "Cheryl Wu",
+   "likes": 49,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS63WFQakAAZ16e.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2102671593180889170": {
+   "id": "2102671593180889170",
+   "url": "https://x.com/mentalgeorge/status/2102671593180889170",
+   "text": "[4/6] Lastly, given safety incidents, the Chinese government’s policy responses could differ from the US government’s in two ways: \n\n1. how quickly officials recognize a problem \n2. how quickly an agreed response is carried out\n\nChina seems to be slow at 1 but fast at 2 (I gave some examples in the blog).\n\nI depict one possible scenario from these assumptions in the graph blow: \n\nA slowdown threshold is the level of safety incidents at which policymakers decide to intervene. The US starts slowing the rise in incidents after a short delay. China responds later and slows the rise more sharply, but too late to stay below the catastrophe threshold.",
+   "created_at": "Wed Sep 23 08:09:08 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "cherylwoooo",
+   "rt_author_name": "Cheryl Wu",
+   "likes": 12,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS3Xaf7aoAAeCpl.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2102420789928870390": {
+   "id": "2102420789928870390",
+   "url": "https://x.com/mentalgeorge/status/2102420789928870390",
+   "text": "@RyanFedasiuk what kinds of significant consequences? Do you think we'll have a way of knowing what they are even if they're not broadcast publicly?",
+   "created_at": "Tue Sep 22 15:32:32 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "RyanFedasiuk",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
   }
  }
 }

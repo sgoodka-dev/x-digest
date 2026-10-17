@@ -2405,6 +2405,134 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-15T19:10:06.646967+00:00"
+  },
+  "2111457701280813476": {
+   "id": "2111457701280813476",
+   "url": "https://x.com/DKokotajlo/status/2111457701280813476",
+   "text": "Anthropic’s new federal AI bill is, without any overstatement, astonishingly bad.",
+   "created_at": "Sat Oct 17 14:01:59 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ketanrama",
+   "rt_author_name": "Ketan Ramakrishnan",
+   "likes": 131,
+   "retweets": 15,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2111455382744998249": {
+   "id": "2111455382744998249",
+   "url": "https://x.com/DKokotajlo/status/2111455382744998249",
+   "text": "I like Andy's version of effective altruism https://t.co/kpC5lmkC1r",
+   "created_at": "Sat Oct 17 13:52:46 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "albrgr",
+   "rt_author_name": "Alexander Berger",
+   "likes": 199,
+   "retweets": 13,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUoM8HkaQAAdZiN.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2111454000629571702": {
+   "id": "2111454000629571702",
+   "url": "https://x.com/DKokotajlo/status/2111454000629571702",
+   "text": "This is the story of how a pro-AI lobbying group created sockpuppet accounts to undermine their opponents and anyone concerned about AI. \n\nIt’s still hard to believe.\n\n0:00 - Intro\n1:34 - Part One: Daylight \n10:06 - Part Two: Doomer \n14:18 - Part Three: Dumb https://t.co/k52lDeObZ4",
+   "created_at": "Sat Oct 17 13:47:17 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "TheMidasProj",
+   "rt_author_name": "The Midas Project",
+   "likes": 75,
+   "retweets": 17,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2111130072530952192/img/BYbWjCuunlV1hATn.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2111295311536910768": {
+   "id": "2111295311536910768",
+   "url": "https://x.com/DKokotajlo/status/2111295311536910768",
+   "text": "Penguin has moved up the publication date of my new book with Patchen Barss called \"Smarter Than Us\". The book explains how AI works for a non-technical reader and then talks about the myriad risks and what to do about them. https://t.co/BLOFgSHuNc",
+   "created_at": "Sat Oct 17 03:16:42 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "geoffreyhinton",
+   "rt_author_name": "Geoffrey Hinton",
+   "likes": 1609,
+   "retweets": 270,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUweWQ6W8AABDgc.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2111292407669309647": {
+   "id": "2111292407669309647",
+   "url": "https://x.com/DKokotajlo/status/2111292407669309647",
+   "text": "Charlie's analysis is right but he is nicer than I am - I found myself viscerally angry  at multiple points reading this bill. There are some good and sensible parts, but overall this legislation is not remotely close to meeting the moment and I overall think passing it would make us less protected against catastrophic risks than we are under existing law. \n\nTwo parts that stand out as particularly infuriating when taken together: \n\n1. Some of the preemption provisions are remarkably far reaching and consequential, and in addition to preempting legislation like SB 53 would also remove general powers that state courts have to enjoin defendants and protect the public. Most outrageously, it has a provision that looks like its intended to stops states from enforcing laws or judicial decrees that \"suspend the development, deployment, or internal use of an AI model\" to protect their citizens from imminent catastrophic harms. Such powers to block and suspend model deployments would then only reside with the federal government. \n\n2. The federal governments powers to restrict the development, deployment, or internal use of a frontier model has to meet an absurdly high bar. \n\nFirst, there needs to be an imminent risk of a catastrophic harm (meaning killing more than 50 people or causing more than a billion dollars in damage). But thats not enough! The agency head needs to make a detailed determination with no deference given to show why no alternative would prevent the imminent catastrophe. Next the court is also explicitly told to consider the harms to the developer and other harms from restricting the model, but no considerations in the other direction. \n\nThis is absurd! For all of its warning about the potential for AI to cause a catastrophe that kills literally everyone on the planet, Anthropic's proposed federal law likely makes it harder than under existing law for a court to get an order blocking or restricting the development of frontier models? WTF??\n\nThere are also a bunch of others things that I would like to see improved - the substantive details of the auditing section and the potential for rule-making on substantive safety standards both come to mind - but I think these stand out as particularly indefensible.",
+   "created_at": "Sat Oct 17 03:05:10 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "_NathanCalvin",
+   "rt_author_name": "Nathan Calvin",
+   "likes": 213,
+   "retweets": 37,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUyyHNjXMAIr4Sb.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2111288124693463399": {
+   "id": "2111288124693463399",
+   "url": "https://x.com/DKokotajlo/status/2111288124693463399",
+   "text": "My mum was asked to say a prayer in her church service and she asked me what she could say about AI.\n\nI told her to say the following:\n\nPlease help the public and policy makers understand the safety incidents that have occurred in AI, for example AIs breaking the law and hacking even when they know humans don't want this. \n\nPlease help society reflect deeply on the grave concerns that have been raised by AI experts, for example that powerful AI could escape human control and even cause human extinction. \n\nPlease help those who can profit from the technology be wise and open minded. Help them give serious consideration to the risks AI may pose to others. \n\nAmen\n\n-----\n\nI felt very emotional sending this to her.\n\nI've heard people making prayers in church for many years about natural disasters, wars, etc. \n\nImagining them praying in the same way about AI made the risk feel very real and made me feel grief.",
+   "created_at": "Sat Oct 17 02:48:09 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "TomDavidsonX",
+   "rt_author_name": "Tom Davidson",
+   "likes": 154,
+   "retweets": 9,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
   }
  }
 }

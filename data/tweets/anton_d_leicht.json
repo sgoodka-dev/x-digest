@@ -2180,6 +2180,29 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-14T15:49:40.985261+00:00"
+  },
+  "2103659068334510329": {
+   "id": "2103659068334510329",
+   "url": "https://x.com/anton_d_leicht/status/2103659068334510329",
+   "text": "Embedded evaluators in AI labs are far better than the status quo of nothing at all.\n\nYet auditors will lack teeth and trust until backed by government authority: orgs like METR will be stuck with no shield against the accusation (or reality) of capture.\n\nI wrote for @TheAtlantic about the traps of \"independent\" audits, and what it takes to get this right: https://t.co/MH9rrt8Y6t",
+   "created_at": "Sat Sep 26 01:33:00 +0000 2026",
+   "author_handle": "anton_d_leicht",
+   "author_name": "Anton Leicht",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "jasminewsun",
+   "rt_author_name": "jasmine sun",
+   "likes": 296,
+   "retweets": 46,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HTF2gxvWwAEFDHB.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
   }
  }
 }

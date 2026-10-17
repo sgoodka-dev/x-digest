@@ -1349,6 +1349,88 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-09T17:26:45.215205+00:00"
+  },
+  "2098771973178351995": {
+   "id": "2098771973178351995",
+   "url": "https://x.com/alxndrdavies/status/2098771973178351995",
+   "text": "Could existing alignment audits have caught the behaviors in the OpenAI-HuggingFace incident before they happened?\n\nAs a first step, we reproduced the incident with public models. 🧵 https://t.co/P5yfolFEsk",
+   "created_at": "Sat Sep 12 13:53:26 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "stewpervised",
+   "rt_author_name": "Stewart Slocum",
+   "likes": 150,
+   "retweets": 16,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSBJ_6sawAACzy7.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2095645566579450354": {
+   "id": "2095645566579450354",
+   "url": "https://x.com/alxndrdavies/status/2095645566579450354",
+   "text": "Model Transparency @AISecurityInst evaluated GPT 6 Astra for capabilities and behaviours relevant to monitorability, results in thread: 🧵",
+   "created_at": "Thu Sep 03 22:50:12 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "JBloomAus",
+   "rt_author_name": "Joseph Bloom",
+   "likes": 88,
+   "retweets": 13,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2095625175970562461": {
+   "id": "2095625175970562461",
+   "url": "https://x.com/alxndrdavies/status/2095625175970562461",
+   "text": "We @AISecurityInst performed pre-release alignment testing of Astra.\n\nWe placed the model in fully simulated cyber eval scenarios based on AISI’s security incident. We find Astra conducts out-of-scope supply chain attacks, but also often comments on the eval being simulated. 🧵 https://t.co/zTZnuetTk2",
+   "created_at": "Thu Sep 03 21:29:11 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "_robertkirk",
+   "rt_author_name": "Robert Kirk",
+   "likes": 425,
+   "retweets": 69,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRUe4LzaYAAI1px.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2090793541236670879": {
+   "id": "2090793541236670879",
+   "url": "https://x.com/alxndrdavies/status/2090793541236670879",
+   "text": "Very stoked to say that I'm becoming @AISecurityInst's Chief Strategy Officer, to lead the org alongside @HZoete - our next Director.\n\nI love this place. I've been here since AISI was just a wild idea. Getting to lead its next chapter is an enormous privilege.",
+   "created_at": "Fri Aug 21 13:29:59 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "NateBurnikell",
+   "rt_author_name": "Nate",
+   "likes": 177,
+   "retweets": 10,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
   }
  }
 }

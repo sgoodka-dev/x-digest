@@ -1895,6 +1895,29 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2102835303576997934": {
+   "id": "2102835303576997934",
+   "url": "https://x.com/testingham/status/2102835303576997934",
+   "text": "[1/5]  The 8 most valuable data points labs should share to help measure RSI:\n\nFirst, RSI would likely accelerate growth in AI capabilities.\n\nThus, companies should report performance on diverse benchmarks for the latest internally deployed models.",
+   "created_at": "Wed Sep 23 18:59:39 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "cherylwoooo",
+   "rt_author_name": "Cheryl Wu",
+   "likes": 239,
+   "retweets": 42,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS64b6kaQAAoCnR.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
   }
  }
 }

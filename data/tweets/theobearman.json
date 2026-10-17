@@ -3027,6 +3027,106 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-16T15:22:40.179485+00:00"
+  },
+  "2111294352966259102": {
+   "id": "2111294352966259102",
+   "url": "https://x.com/theobearman/status/2111294352966259102",
+   "text": "We are not quite ready to share that yet, but we have also seen additional evidence that GLM 5.3 performs surprisingly well at cyber.\n\nAs warned by Anthropic, we seem on track to see Mythos-level open models by end of year.",
+   "created_at": "Sat Oct 17 03:12:54 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "Jsevillamol",
+   "rt_author_name": "Jaime Sevilla",
+   "likes": 78,
+   "retweets": 5,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2111283100521017556": {
+   "id": "2111283100521017556",
+   "url": "https://x.com/theobearman/status/2111283100521017556",
+   "text": "@jlkoepke I think that if they really wanted government oversight and just didn’t like the current admin, they would just support the strong California legislation that will shortly be introduced. Instead they’re trying to preempt that kind of effort and instead lock in an obviously ineffective federal regime.\n\nI think supporting good-in-theory federal leg that won’t work with bad implementation is defensible because, okay, maybe in a few years things will be different in DC, or maybe  you just have to bet on good federal implementation because it’s our only out.\n\nAnd if you oppose good-in-theory federal leg that has preemption because you want actually good state bills (this is kind of the approach some safety orgs took with FRONTIER, IMO) that’s defensible because okay maybe good in theory won’t be good in practice.\n\nBut supporting bad-even-in-theory federal leg that also has real (albeit somewhat narrow) preemption of state safety laws seems kind of indefensible to me if you believe what Anthropic’s top brass claims to believe. \n\n(This is harsher on Anthropic than my initial post sounded because my views kind of evolved as I sat with the bill and thought about it)",
+   "created_at": "Sat Oct 17 02:28:11 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "CharlieBull0ck",
+   "rt_author_name": "Charlie Bullock",
+   "likes": 33,
+   "retweets": 9,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2111274807908237374": {
+   "id": "2111274807908237374",
+   "url": "https://x.com/theobearman/status/2111274807908237374",
+   "text": "Nathan's righteous anger has inspired me to make one more mildly disapproving observation: it's kind of wild that the Anthropic bill has no government licensing for the independent auditors\n\nLicensing is, IMO, the bare minimum thing that you need to even be able to pretend that your auditing regime isn't just going to devolve into a race to the bottom. Without it, auditors will inevitably compete with each other to offer their customers, the labs, the least bothersome audits available at the lowest possible price point. Obviously Anthropic trusts itself to do a great job of picking great auditors, but do they trust OpenAI to do the same? What about SpaceXSI?",
+   "created_at": "Sat Oct 17 01:55:14 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "CharlieBull0ck",
+   "rt_author_name": "Charlie Bullock",
+   "likes": 75,
+   "retweets": 8,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2111273645813461497": {
+   "id": "2111273645813461497",
+   "url": "https://x.com/theobearman/status/2111273645813461497",
+   "text": "Quoting from Anthropic's Michael Sellitto at the IMF Artificial Intelligence and Escalating Cyber Risks panel today. This is the first time Anthropic has given a projection for what percentage of frontier model training will be done by Claude in 2027. In March this number was 1%. By next year they are projecting 80-90%.\n\n'Last year, about zero percent of our code was written by our model Claude. By August of that year, about 50% of the code inside the company was written by the model. That's because we released a new model in August of last year, and the engineers said, ‘Actually, this is the first time that Claude is writing code at my level.’ Anthropic only hires the best software engineers in the world, and it was at that point that Claude finally got to their level. In August we were at 50%. By the end of last year we were at 80–90% of the code in the company being written by the model.\n\nWhat percentage of training the next-generation models is Claude leading today? This is following a similar step change. At the beginning of the year it was zero percent. In April it was 3%. In August, 26% of the process of building the next generation of models is being led by Claude. And we can project out - and we had a blog post about this not too long ago - that sometime next year it could be 80–90%.'",
+   "created_at": "Sat Oct 17 01:50:37 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AndrewCurran_",
+   "rt_author_name": "Andrew Curran",
+   "likes": 488,
+   "retweets": 45,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUxNpK4bkAAB2kZ.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2111170966575599810": {
+   "id": "2111170966575599810",
+   "url": "https://x.com/theobearman/status/2111170966575599810",
+   "text": "How far behind the closed frontier are open-weight cyber capabilities? About 6–7 months.\n\nZai’s GLM-5.3 is the highest-scoring open-weight model on our Cyber ECI. Its score of 160 beats OpenAI’s GPT-5.4, released in March. https://t.co/F0D6nSnM69",
+   "created_at": "Fri Oct 16 19:02:36 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "EpochAIResearch",
+   "rt_author_name": "Epoch AI",
+   "likes": 371,
+   "retweets": 38,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUxdZ73XsAAB7Ew.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
   }
  }
 }

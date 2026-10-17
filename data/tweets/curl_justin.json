@@ -1745,6 +1745,60 @@
     "text": "Beijing just took a big step towards closing the Chinese frontier. The rules could give China's government the power to restrict AI developers from releasing their most advanced open-weight models.\n\nIt proposes banning exports of AI technologies that autonomously generate and modify malicious code. It also wants to restrict exports of AI-assisted vulnerability-discovery technologies. Giving a model away for free, ie open-weight, could qualify as an export.\n\nCrucially, the rules distinguish between technologies already in the public domain and those not yet released. It specifically exempts existing open-source models. But new releases could potentially trigger export controls.\n\nProviding foreign customers with access to models through APIs (ie, closed models) is generally exempt, whereas restricted models being served overseas could require a licence.\n\nBeijing promises essentially automatic licensing for open-source releases, allowing developers to publish almost immediately after notification. But it's unclear whether this applies to those capabilities proposed for outright export prohibition. \n\nIf intelligence generalises, how can China's AI labs distinguish between a smart model and one that has the capabilities proposes for restrictions?\n\nhttps://t.co/bgGGijXth6"
    },
    "fetched_at": "2026-10-16T18:49:14.085440+00:00"
+  },
+  "2111209962722767041": {
+   "id": "2111209962722767041",
+   "url": "https://x.com/curl_justin/status/2111209962722767041",
+   "text": "This is a BIG deal for AI in China and potentially worldwide, but open models can still flow for now. \n\nPSA: I have read the full Q&A and control list (checking Chinese original next to Claude translation, and using Claude to help understand the implication of the key technical thresholds for control. ) \n\nMy thoughts:\n1) Any Chinese model *not already out yet* we will care about is on the restricted list that requires permission to export--including releasing model weights. Any model already open weighted is not included. Restriction covers any model in top 10 globally in use, general performance, specific task performance, safety performance or training efficiency. \n\nThis regime is in place already, though it is not final and may adjust substantially. \n\nAnother set of criteria focused on cyber would capture anything at or above glm5.3 (there are many thresholds but one is strong performance on cyber benchmarks, another covers vulnerability discovery, etc). Agents are also covered, and this probably would hit anything like Kimi agent swarm scale (60+ agents).\n\nSome of the thresholds are based on future capabilities, but any new model as good as existing Chinese models would be under this new regime. \n \n2) these are restricted (as are models trained on \"important data\"), while models trained on Chinese “core data” are blocked from export. Core and important data are very very messy and dynamic categories depending on sector so prob Chinese labs will not easily be able to figure this out (though there is a strict multi-part de minimis for important data that some will use). \"Data related to national security, the lifelines of the national economy, important aspects of people’s livelihoods, major public interests, etc., constitute core national data\" \n\n3) the single most important line is in the MOFCOM Q&A saying there will be automatic approval for future open models, as @ZilanQian has pointed out. The question is then what conditions apply to get that (eg even if gov doesn’t review application for case by case approvals pre-release, do they need safeguards? what reporting is required to qualify for automatic approval? what ongoing oversight?  \n\nThe rules give us nothing to go off on this--surely this part will be core to the comments they receive from industry as they tweak the system. \n\n4) either way 3 shakes out, they now have the system in place to throttle future release of open models if they choose: CN gov can turn this into a hurdle by removing automatic approval. \n\n5) Also potential implications for the main way people globally access CN models today--through US cloud services. The Q&A implies Chinese labs sharing model weights with US cloud companies to serve the models on data centers outside China will also need gov approval (but serving foreign users through CN labs' API, or serving from a CN company's own data centers outside China are not).",
+   "created_at": "Fri Oct 16 21:37:34 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ChorzempaMartin",
+   "rt_author_name": "Martin Chorzempa 马永哲",
+   "likes": 34,
+   "retweets": 10,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2103929161438089690": {
+   "id": "2103929161438089690",
+   "url": "https://x.com/curl_justin/status/2103929161438089690",
+   "text": "@ferald_gord no this was more focused on how judges use AI rather than doctrinal questions posed by AI",
+   "created_at": "Sat Sep 26 19:26:15 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": true,
+   "reply_to": "ferald_gord",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2102804081882624433": {
+   "id": "2102804081882624433",
+   "url": "https://x.com/curl_justin/status/2102804081882624433",
+   "text": "Our AGI Governance fellowship has been such a blast. Let me take you a bit through what we've done, and where we're heading.\n\nThe fellows have superbly diverse backgrounds, including military and humanitarian service, geopolitical expertise at NATO, leading AI policy in state and federal government, lawyers, journalists, brilliant early career academics across political theory, control theory, and behavioural science, and of course a few cracked safetyistas. \n \nOur goal for the fellowship was to make a start figuring out what AGI governance actually is, to spend some intensive time with myself, @ghadfield and @nickacaputo going through the frontiers of research (~3 weeks of full-time contact time), and expose the fellows to as many brilliant people working in this urgently-needed field as we could, from across industry, government, non-profits and academia.\n\nWe've taken them through stratospheric questions like whether we should build AGI at all, and how to rebuild liberal democratic institutions for the age of AI. We've gone down into the trenches of geopolitics and regulatory innovation—what a time to be taught by @ghadfield, world-leading scholar in regulatory markets and independent verification organisations for frontier AI! And we've explored single- and multi-agent alignment, the actual politics of AGI, and how powerful AI can productively be used in government. \n \nAll this was built on foundations including a detailed discussion of AGI and related terms, and a cool-headed analysis of precisely where we are on \"the curve\". \n \nThis week the fellows are working on a final project, where they're going to take these ideas and build what they think the world needs to see in this space. Excited to share those with you. Papers are not the priority, we're looking for interventions that can move the needle, from concrete governance proposals, to model legislation, to reporting platforms, &c &c &c\n\nWe want this to be a kind of \"final boss\" of fellowships; we've selected people who are ready to get stuck in actually doing the work that needs to be done to prepare society for powerful AI, and our hope is that they'll be going from us to influential positions across industry, non-profits, and government as well as academia—and that in years to come they'll see one another on the same or opposite side of negotiating tables, and help bring about positive outcomes for liberal democratic values in the AGI transition.\n\nWe're tremendously grateful to our friends and colleagues across AGI alignment and governance for joining us. Tagging them here to say thanks! @zhitzig @deanwball @BuchananBen @anton_d_leicht @edelwax @curl_justin @hlntnr @CharlieBull0ck @NatPurser @AlecStapp @zdch @TechnOlliegist @kevin_klyman @AndyMasley @hamandcheese @henryfarrell @peterwildeford @_NathanCalvin @rSanti97 @kang_megan @apmechan @JustinBullock14 @David_Kasten @weballergy @FranklinMatija @DavidSKrueger\nMassive thanks to the @JohnsHopkinsSGP team for all the behind the scenes work.\nAnd more than anything huge thanks to our fellows who have helped us build this plane while we're flying it. They're not all on here but they will be soon (thanks to excellent advice from @NatPurser). \n \n@diatkinson @leonieclaude @ghaelfobes @wild_and_empty @elsie_jang @LukeThorburn_ @synchroaphasia @kevinlwei @ey_985\n\nAlso look out for Gabrielle Hibberts, Ciara Horne, Carmen Amo Alonso, Gabrielle Hibbert, Ciara Horne, Jessica Ji, Anagha Late, Alex Nelson, Maximilian Pralle, Shivam Saran, Daniel Trusilo. Expecting big things from this cohort!",
+   "created_at": "Wed Sep 23 16:55:35 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "sethlazar",
+   "rt_author_name": "Seth Lazar",
+   "likes": 74,
+   "retweets": 17,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
   }
  }
 }

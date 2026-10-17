@@ -1819,6 +1819,29 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-16T18:49:14.085440+00:00"
+  },
+  "2102129905802879465": {
+   "id": "2102129905802879465",
+   "url": "https://x.com/sayashk/status/2102129905802879465",
+   "text": "I appreciate Anthropic’s transparency in sharing this chart but unsurprisingly it has led to speculative interpretations about intelligence explosion and superintelligence. I don’t think the chart implies we’re anywhere close to either.\n\nIn short, task delegation ≠ task automation ≠ process automation ≠ faster progress ≠ recursive self-improvement ≠ intelligence explosion.\n\nSource: https://t.co/eXXdcklQ5u\n\n1) The software engineering precedent: a year ago there were widespread hopes / fears that once AI can write ~100% of the code, software engineering output would explode (SaaSpocalypse! Everyone would create their own SaaS and dump their vendors) and that this would make software engineers obsolete. Since then, many companies and teams have basically hit that milestone, but neither of the assumptions proved true. Turns out we still need humans, and while shipping velocity has increased moderately, improvements in terms of actual outcomes for software users remain unclear. Besides, we’re still getting a better grasp on the negatives: code quality, long-term maintainability issues, and burnout. While the precedent is no guarantee, this should be our default expectation for what happens as the “Automation Level 4” line trends towards 100% — it won’t be a phase change. https://t.co/8ZofeCzGoq\n\n2) The “production-progress paradox” is the fact that individual researchers’ productivity has been increasing while the rate of collective scientific progress has been slowing by most measures. AI exacerbates this because everyone uses the same or similar AI models, and ideas become homogenous over time. I suspect it’s too early to tell if this is going to bite companies that are plunging into AI-led research. https://t.co/X5ojPRLmOH\n\nNote: our own research on AI agents doing open-ended research shows limitations in creativity, judgment, and other areas. https://t.co/pooa4ZLTgz. But it is possible that these could be overcome in the near future, so I’m discounting those limitations here. The production-progress paradox is a deeper issue that’s not AI-specific, though particularly applicable to AI-driven research. It’s about the fact that productivity increases are self-evident but true progress is not measurable as it happens (and only becomes clear in retrospect), so we end up optimizing for the wrong thing.\n\n3) Let’s talk about automation level 5, which is still at 0% in Anthropic’s graph. It’s a bit unclear what Level 5 would look like, but it seems to be about full autonomy at the task level, and not the “AI builds its own successor” vision. My prediction for a while has been that even 100% task automation in most cognitive jobs won’t lead to any kind of discontinuity. https://t.co/2s4yJFHusf \n\nWhat I expect will happen: if anything is understood well enough to be specifiable as a task, it can be handed off to AI, whereas the role of humans is entirely in the interstitial tasks — hard to formalize but still essential. So there will still be a human bottleneck.\n\n4) This human bottleneck is a good thing and is essential for remaining in control. Humans don’t have to be in the loop on every task, but as long as there are enough touch points for oversight in the overall process, and adequate investment in improving human understanding and AI control, increasing AI capabilities doesn’t have to be bad for safety and, more broadly, collective human agency over AI. But “full RSI” is where this balance of agency can break. This kind of closed-loop process is arguably a much more important and tractable target for regulation than compute thresholds, superintelligence, or harm thresholds.\n\nI’m glad that OpenAI agrees that fully autonomous RSI may not be a good idea, in a just-released post:  https://t.co/BvRTRrFOJr\n\n“Fully autonomous RSI is not happening today, and we should not pursue it unless and until it can be done safely. Whether and how to proceed must depend on our ability to preserve human control and on informed democratic choices⁠ about the benefits and risks. Done without appropriate care and caution, RSI could result in humans losing practical control over AI development, unable to provide oversight on research processes they no longer understand.”\n\n5) Finally, many people have written about why Recursive Self Improvement, even if achieved, won’t necessarily lead to superintelligence. Here’s my argument: https://t.co/ZA5TBDyX4T The bottlenecks are external.",
+   "created_at": "Mon Sep 21 20:16:39 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "random_walker",
+   "rt_author_name": "Arvind Narayanan",
+   "likes": 208,
+   "retweets": 48,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSw4FksW8AAfNP7.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
   }
  }
 }

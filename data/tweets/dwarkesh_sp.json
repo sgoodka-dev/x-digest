@@ -1600,6 +1600,24 @@
     "text": "@dwarkesh_sp @OpenAI @huggingface I see that you did, @dwarkesh_sp, and thank you for pointing it out.  You're absolutely right to highlight the very real dangers of loss of control. I also agree that easy-to-understand language can be helpful for public communication and (to some extent) prediction - the latter primarily because LLMs reflect patterns implicit in human language. \n\nBut I strongly disagree that anthropomorphic language of the sort you deploy is appropriate. I think it goes far too far.  A messageboard is not a civilisation. The agents' goals are derived and not intrinsic.  They have literally no skin in the game at all. And when you heavily imply that the agents have subjective experiences and are in some sense alive, I think you're playing right into the hands of the frontier lab hubris.  That's where the money is. That's where the regulatory capture is.  That's where the mind-uploading singlularity-mongering extropian narrarive is taking us. And if we overattribute, we may well end up mispredicting when we might most need to. Sure, its tricky to find the right language - to explain without misleading -  but it really does matter.  (For instance, LLMs do *not* hallucinate - if anything, they confabulate.)\n\nI should also underline (and should've done in the original post) that I am *not* 100% sure that current AI is (or can't be) conscious. But both theory and evidence together point to an extremely low probablity. Vanishingly unlikely, IMO.  See https://t.co/Tsaslytu56\n\nAnyway I am sure you are busy with a billion other comments on your essay - so I'll leave it there with thanks."
    },
    "fetched_at": "2026-10-15T19:10:06.646967+00:00"
+  },
+  "2098935974952865880": {
+   "id": "2098935974952865880",
+   "url": "https://x.com/dwarkesh_sp/status/2098935974952865880",
+   "text": "Our own @johnschulman2 talks with Dwarkesh about where human judgment still matters as models improve and self-improve: teaching them to handle messy real-world tasks, applying taste to what works in the long run, and, above all, specifying what we actually want.",
+   "created_at": "Sun Sep 13 00:45:07 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "thinkymachines",
+   "rt_author_name": "Thinking Machines",
+   "likes": 615,
+   "retweets": 56,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
   }
  }
 }

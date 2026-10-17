@@ -3682,6 +3682,45 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-16T15:22:40.179485+00:00"
+  },
+  "2111295647408369844": {
+   "id": "2111295647408369844",
+   "url": "https://x.com/sethlazar/status/2111295647408369844",
+   "text": "Nathan's righteous anger has inspired me to make one more mildly disapproving observation: it's kind of wild that the Anthropic bill has no government licensing for the independent auditors\n\nLicensing is, IMO, the bare minimum thing that you need to even be able to pretend that your auditing regime isn't just going to devolve into a race to the bottom. Without it, auditors will inevitably compete with each other to offer their customers, the labs, the least bothersome audits available at the lowest possible price point. Obviously Anthropic trusts itself to do a great job of picking great auditors, but do they trust OpenAI to do the same? What about SpaceXSI?",
+   "created_at": "Sat Oct 17 03:18:02 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "CharlieBull0ck",
+   "rt_author_name": "Charlie Bullock",
+   "likes": 75,
+   "retweets": 8,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2111243869816008731": {
+   "id": "2111243869816008731",
+   "url": "https://x.com/sethlazar/status/2111243869816008731",
+   "text": "Well said",
+   "created_at": "Fri Oct 16 23:52:18 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "raphaelmilliere",
+    "text": "Earlier this week I had the pleasure of giving the annual Welcome Lecture for our new maths & philosophy students at Oxford. I talked about what goes on inside language models, with a focus on mechanistic interpretability (which apparently got on everyone’s radar this week). This felt different from many of the talks I’ve given on the topic before.\n\nI couldn’t help but start by reflecting on what it means to embark on the study of mathematics and philosophy today. It’s easy to look at what’s currently happening in maths, for example, and feel like every academic discipline is about to get steamrolled by thinking machines. There is some truth to that: peer review is already nearing breaking point, as are academic assessment and credit assignment. We urgently need to find new ways to train and evaluate students. We also need to prepare them for a different world, including—and perhaps especially—those who choose to pursue academic careers. A few days ago a PhD student I had only just met asked me whether they should drop out (I advised them not to). Academia aside, the rapid progress of AI raises all sorts of other concerns that our students are legitimately worried about.\n\nAt the same time, this is also an incredibly exciting time to learn just about anything and nurture intellectual interests. As I told the students assembled in front of me, there has never been a better time to be a philosopher. This is true in a mundane, self-interested sense: all sorts of new career opportunities are opening up to people with philosophical training. But it's also true in a deeper sense: we will need more philosophers to help us shape the transition to more capable AI and make sense of our role in it. We will especially need philosophers who understand this technology deeply and can offer a positive vision for its future grounded in reality.\n\nI'm less well placed to speak about mathematics, though I certainly understand the frustration, if not outright despair, that some of my colleagues feel when problems to which they have devoted years of work are seemingly solved overnight, to great fanfare, with inscrutable proofs and little understanding gained. But I'm also inspired by the optimism of some of maths' champions; Terry Tao and his vision for Maths 2.0, or @3blue1brown who in a new video echoes my sentiments about philosophy: there has never been a better time to go into maths. I certainly hope that's true! But this will hold true only if we collectively uphold the value of education, mentorship, discussion, and understanding—and if academic institutions can adapt, as they have to many disruptions before. We shouldn't assume that this will happen by default, and we certainly shouldn't stick our heads in the sand.\n\nAfter the lecture, I stayed to chat with dozens of students for over an hour. What I heard was a mix of curiosity, concern, and enthusiasm, charged with the unmistakable energy of new university students about to start their adult lives. I left the Mathematical Institute feeling grateful and optimistic. I'm sharing this anecdote because the future of academia has been on my mind, and because I know that many students (some of whom may be reading this) have hard questions about the value of higher education and their own prospects. I hope they find some solace in knowing that Faculty members take these questions very seriously."
+   },
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
   }
  }
 }

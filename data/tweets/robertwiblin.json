@@ -3411,6 +3411,47 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-16T15:22:40.179485+00:00"
+  },
+  "2111359773006504246": {
+   "id": "2111359773006504246",
+   "url": "https://x.com/robertwiblin/status/2111359773006504246",
+   "text": "a few brief reactions to this work:\n-obviously positive update overall, @nickcammarata  seems like a remarkable person and thinker, and @GoodfireAI will probably be causally upstream of the world eventually being saved\n-the most promising thing about this in my opinion is not even anything about MLP neurons or \"cleanness\", but rather that frontier agentic systems (paired, for now, with talented humans) can rapidly overturn stale assumptions and can cheaply do needle-moving interpretability work at incredible scale (again, thanks to folks like @GoodfireAI who are almost-single-handedly enabling this for anyone doing this work outside of a major lab)\n-some of the second-hand hype surrounding this work seems badly miscalibrated. seems more like \"very promising early signal, let's see how it scales\" than \"pack it up, mech interp is solved.\" I get how hungry people are for hope, but \"making AI go well\" is not the class of thing that any one paper or project is going to solve\n-even the most optimistic pace of mech interp progress won't automatically address many of the deepest and most important problems we face, like how to sustainably coexist with (or rationally be able to trust) these systems in the long-term. Understanding how these systems function internally is necessary but not sufficient for navigating towards robustly good futures (any more than solving human neuroscience would automatically lead to world peace)",
+   "created_at": "Sat Oct 17 07:32:51 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "camhberg",
+   "rt_author_name": "Cameron Berg",
+   "likes": 173,
+   "retweets": 17,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2111359471649763350": {
+   "id": "2111359471649763350",
+   "url": "https://x.com/robertwiblin/status/2111359471649763350",
+   "text": "Penguin has moved up the publication date of my new book with Patchen Barss called \"Smarter Than Us\". The book explains how AI works for a non-technical reader and then talks about the myriad risks and what to do about them. https://t.co/BLOFgSHuNc",
+   "created_at": "Sat Oct 17 07:31:39 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "geoffreyhinton",
+   "rt_author_name": "Geoffrey Hinton",
+   "likes": 1609,
+   "retweets": 270,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUweWQ6W8AABDgc.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
   }
  }
 }

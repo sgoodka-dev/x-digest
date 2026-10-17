@@ -2294,6 +2294,42 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-16T15:22:40.179485+00:00"
+  },
+  "2111260086840807857": {
+   "id": "2111260086840807857",
+   "url": "https://x.com/DaveRBanerjee/status/2111260086840807857",
+   "text": "My mum was asked to say a prayer in her church service and she asked me what she could say about AI.\n\nI told her to say the following:\n\nPlease help the public and policy makers understand the safety incidents that have occurred in AI, for example AIs breaking the law and hacking even when they know humans don't want this. \n\nPlease help society reflect deeply on the grave concerns that have been raised by AI experts, for example that powerful AI could escape human control and even cause human extinction. \n\nPlease help those who can profit from the technology be wise and open minded. Help them give serious consideration to the risks AI may pose to others. \n\nAmen\n\n-----\n\nI felt very emotional sending this to her.\n\nI've heard people making prayers in church for many years about natural disasters, wars, etc. \n\nImagining them praying in the same way about AI made the risk feel very real and made me feel grief.",
+   "created_at": "Sat Oct 17 00:56:44 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "TomDavidsonX",
+   "rt_author_name": "Tom Davidson",
+   "likes": 153,
+   "retweets": 9,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2111259903608148165": {
+   "id": "2111259903608148165",
+   "url": "https://x.com/DaveRBanerjee/status/2111259903608148165",
+   "text": "@mentalgeorge Deals per salesperson seem like there are too many confounders. Though 1.7x is still quite impressive. Would be cool if we had numbers like this for other high growth startups (non-AI)",
+   "created_at": "Sat Oct 17 00:56:00 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "mentalgeorge",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
   }
  }
 }

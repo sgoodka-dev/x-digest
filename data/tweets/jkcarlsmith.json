@@ -1559,6 +1559,52 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-05T11:46:34.718681+00:00"
+  },
+  "2069541669700243701": {
+   "id": "2069541669700243701",
+   "url": "https://x.com/jkcarlsmith/status/2069541669700243701",
+   "text": "New RFP! 'Checks and balances to empower citizens in an automated society.'\n\nIt's an 11,000-word RFP, research agenda, and funder's guide that we hope can serve as a launch pad for this new field.\n\nLoved working with Ashwin Acharya, @JoalStein, and @divyasiddarth on this. https://t.co/UoY8MA3Itg",
+   "created_at": "Tue Jun 23 22:02:38 +0000 2026",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "tyler_m_john",
+   "rt_author_name": "Tyler John",
+   "likes": 242,
+   "retweets": 53,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HLhxPa3WkAAi7w_.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2009504517302452269": {
+   "id": "2009504517302452269",
+   "url": "https://x.com/jkcarlsmith/status/2009504517302452269",
+   "text": "Almost no one has articulated a positive vision for what comes after superintelligence. What should we be trying to aim for?\n\nUtopias from history look clearly dystopian to us, and we should expect the same for our own attempts. We don’t know enough to know what utopia looks like.\n\nThe main alternative framework is “protopianism”: solving the most urgent problems one by one, not guided by any big-picture view of society’s long-run course. I prefer protopianism to utopianism, but it gives up too much. The transition to superintelligence will present many problems all at once, and may need to choose between very different solutions to the same problems. We need a way to prioritise and plan.\n\nSo I want to introduce a third framing: viatopia.\n\nA viatopia is a state of society that is *on track* for a near-best future, whatever that might look like. A teenager might not know what they want to do with their life, but know that a good education keeps their options open.\n\nMy current guesses for what viatopia looks like: material abundance, technological progress, coordination to avoid conflict, low catastrophic risk—plus preserving society-wide optionality, cultivating reflection, and structuring deliberation so better ideas win out.\n\nI have a new essay on this idea — link in reply.",
+   "created_at": "Fri Jan 09 05:56:26 +0000 2026",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "willmacaskill",
+   "rt_author_name": "William MacAskill",
+   "likes": 360,
+   "retweets": 42,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G-IhrnnbsAA2uva.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-17T14:13:04.588782+00:00"
   }
  }
 }
