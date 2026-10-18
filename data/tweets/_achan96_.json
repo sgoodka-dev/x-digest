@@ -2077,6 +2077,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2111703977742004237": {
+   "id": "2111703977742004237",
+   "url": "https://x.com/_achan96_/status/2111703977742004237",
+   "text": "I like @ramez’s article, but I worry that experiments are an input, not an output. As AI capabilities go up, it is not obvious what should happen to the number of experiments. It is possible that AI with better research taste could produce more progress with fewer experiments by identifying promising ideas and avoiding unproductive trials. \n\nOne could imagine that the 1.6x experiments are each 10x more efficient than before, so the ultimate algorithm efficiency improvement is 16x.\n\nAgain, what we really need is to measure algorithmic progress!",
+   "created_at": "Sun Oct 18 06:20:36 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "cherylwoooo",
+   "rt_author_name": "Cheryl Wu",
+   "likes": 49,
+   "retweets": 3,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-18T14:35:04.391088+00:00"
   }
  }
 }

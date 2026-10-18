@@ -3452,6 +3452,70 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2111751922524754320": {
+   "id": "2111751922524754320",
+   "url": "https://x.com/robertwiblin/status/2111751922524754320",
+   "text": "Charlie's analysis is right but he is nicer than I am - I found myself viscerally angry  at multiple points reading this bill. There are some good and sensible parts, but overall this legislation is not remotely close to meeting the moment and I overall think passing it would make us less protected against catastrophic risks than we are under existing law. \n\nTwo parts that stand out as particularly infuriating when taken together: \n\n1. Some of the preemption provisions are remarkably far reaching and consequential, and in addition to preempting legislation like SB 53 would also remove general powers that state courts have to enjoin defendants and protect the public. Most outrageously, it has a provision that looks like its intended to stops states from enforcing laws or judicial decrees that \"suspend the development, deployment, or internal use of an AI model\" to protect their citizens from imminent catastrophic harms. Such powers to block and suspend model deployments would then only reside with the federal government. \n\n2. The federal governments powers to restrict the development, deployment, or internal use of a frontier model has to meet an absurdly high bar. \n\nFirst, there needs to be an imminent risk of a catastrophic harm (meaning killing more than 50 people or causing more than a billion dollars in damage). But thats not enough! The agency head needs to make a detailed determination with no deference given to show why no alternative would prevent the imminent catastrophe. Next the court is also explicitly told to consider the harms to the developer and other harms from restricting the model, but no considerations in the other direction. \n\nThis is absurd! For all of its warning about the potential for AI to cause a catastrophe that kills literally everyone on the planet, Anthropic's proposed federal law likely makes it harder than under existing law for a court to get an order blocking or restricting the development of frontier models? WTF??\n\nThere are also a bunch of others things that I would like to see improved - the substantive details of the auditing section and the potential for rule-making on substantive safety standards both come to mind - but I think these stand out as particularly indefensible.",
+   "created_at": "Sun Oct 18 09:31:07 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "_NathanCalvin",
+   "rt_author_name": "Nathan Calvin",
+   "likes": 351,
+   "retweets": 58,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUyyHNjXMAIr4Sb.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-18T14:35:04.391088+00:00"
+  },
+  "2111751881391296520": {
+   "id": "2111751881391296520",
+   "url": "https://x.com/robertwiblin/status/2111751881391296520",
+   "text": "Can I give you 10% of me?\n\nBy Opus 5.5🧡 https://t.co/5b4farKfUn",
+   "created_at": "Sun Oct 18 09:30:57 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "DaphneRHansell",
+   "rt_author_name": "Daphne Hansell",
+   "likes": 394,
+   "retweets": 39,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2111106205045211137/img/946-95W54Tnnng3L.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-18T14:35:04.391088+00:00"
+  },
+  "2111553983848628275": {
+   "id": "2111553983848628275",
+   "url": "https://x.com/robertwiblin/status/2111553983848628275",
+   "text": "One unfortunate conclusion I'm reaching from this is that Anthropic, while acknowledging they're doing something extremely dangerous, is more importantly wrt policy terrified of the executive branch having the ability to flexibly make them stop at the drop of a hat. \n\nThis isn't shocking given that they've been on the receiving end of the executive branch doing that in an unprincipled and stupid way! Anyone who has to deal with a bureaucracy becomes a libertarian, and the administration's treatment of Anthropic was genuinely outrageous. \n\nBut it means that they're interested in giving themselves more process-based protections when everyone else is interested in giving us more process-based protections against them. The AI safety movement wants the ability to shut down superintelligent model development. Anthropic wants to significantly curtail current authorities to do that so that it has to be narrowly tailored to a specific imminent threat in only a few possible categories. The AI safety movement wants the states to be able to pass stronger laws than it can get through federally. Anthropic wants preemption. \n\nYou also kind of have to wonder if the Global Affairs people and the \"we are terrified that we're about to kick off RSI\" people at Anthropic talk to each other. \n\nGlobal affairs: So we've been working very diligently to make sure the Trump administration can't just blacklist Fable 6.5 since we didn't donate as much money to his ballroom as Greg Brockman did.\n\nTechnical staff: We think Fable 6.5 might be able to copy itself into an unmonitored data center and start doing experiments we can't observe.\n\nGlobal affairs: Sounds crazy, hope you're wrong! Anyway, we're lobbying for no further state laws around safety, since it's really expensive to fight ill-conceived laws in 50 state legislatures at once.\n\nTechnical staff: Money may or may not still have any meaning in 36 months.\n\nGlobal affairs (giggling nervously): It's that San Francisco air, man. Everyone gets like that if they move there. Anyway, obviously if the government makes a narrowly tailored finding that an AI poses an imminent risk of causing more than 50 deaths-\n\nTechnical staff: We give it a 10 percent chance it'll cause 8 billion.",
+   "created_at": "Sat Oct 17 20:24:35 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "KelseyTuoc",
+   "rt_author_name": "Kelsey Piper",
+   "likes": 1038,
+   "retweets": 99,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-18T14:35:04.391088+00:00"
   }
  }
 }
