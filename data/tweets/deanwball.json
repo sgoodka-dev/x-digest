@@ -6770,6 +6770,63 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-18T14:35:04.391088+00:00"
+  },
+  "2111842549090418956": {
+   "id": "2111842549090418956",
+   "url": "https://x.com/deanwball/status/2111842549090418956",
+   "text": "@AndrewCurran_ sounds like it was a fairly modest hindrance that was quickly resolved by being granted access to a trusted access program, so seems ~fine versus the cost of enabling sustained autonomous cyberattacks?",
+   "created_at": "Sun Oct 18 15:31:14 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "AndrewCurran_",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 81,
+   "retweets": 3,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-18T18:07:13.095901+00:00"
+  },
+  "2111839733076676887": {
+   "id": "2111839733076676887",
+   "url": "https://x.com/deanwball/status/2111839733076676887",
+   "text": "It’ll be interesting in particular if people feel they can self-represent when launching frivolous lawsuits. Lawyers can be punished or suffer reputational damage for truly egregious frivolity, but a non-lawyer cares less about these things.",
+   "created_at": "Sun Oct 18 15:20:03 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 41,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "Altimor",
+    "text": "Seeing this in my circles -- several founder friends have told me they've started getting hit with a huge amount of frivolous lawsuits"
+   },
+   "fetched_at": "2026-10-18T18:07:13.095901+00:00"
+  },
+  "2111838602988576855": {
+   "id": "2111838602988576855",
+   "url": "https://x.com/deanwball/status/2111838602988576855",
+   "text": "@ziv_ravid what a horrible analogy. Starbucks sells coffee, they want you to drink it.",
+   "created_at": "Sun Oct 18 15:15:33 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "ziv_ravid",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 13,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-18T18:07:13.095901+00:00"
   }
  }
 }

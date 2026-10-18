@@ -1,10 +1,10 @@
 {
  "last_run": {
-  "started": "2026-10-18T14:35:04.391088+00:00",
+  "started": "2026-10-18T18:07:13.095901+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 119
    },
    "add_hawk": {
@@ -54,23 +54,23 @@
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 7,
+    "new": 0,
     "total": 111
    },
    "ohlennart": {
     "ok": true,
     "new": 0,
-    "total": 89
+    "total": 94
    },
    "sayashk": {
     "ok": true,
-    "new": 17,
+    "new": 0,
     "total": 114
    },
    "testingham": {
     "ok": true,
-    "new": 6,
-    "total": 121
+    "new": 2,
+    "total": 123
    },
    "slatestarcodex": {
     "ok": true,
@@ -79,8 +79,8 @@
    },
    "s8mb": {
     "ok": true,
-    "new": 9,
-    "total": 330
+    "new": 2,
+    "total": 332
    },
    "random_walker": {
     "ok": true,
@@ -94,13 +94,13 @@
    },
    "robertwiblin": {
     "ok": true,
-    "new": 3,
+    "new": 0,
     "total": 166
    },
    "deanwball": {
     "ok": true,
-    "new": 21,
-    "total": 355
+    "new": 3,
+    "total": 358
    },
    "nabeelqu": {
     "ok": true,
@@ -123,7 +123,7 @@
     "total": 111
    }
   },
-  "new_tweets": 64,
-  "finished": "2026-10-18T14:35:56.584161+00:00"
+  "new_tweets": 12,
+  "finished": "2026-10-18T18:07:57.715695+00:00"
  }
 }

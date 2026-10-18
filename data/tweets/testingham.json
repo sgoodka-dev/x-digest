@@ -2180,6 +2180,45 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-18T14:35:04.391088+00:00"
+  },
+  "2111842703445241963": {
+   "id": "2111842703445241963",
+   "url": "https://x.com/testingham/status/2111842703445241963",
+   "text": "Expanding on yesterday's single-sentence macro model, here's a longer version, trying to explain the key themes of macroeconomics as exchange among farmers in a village:\n\nhttps://t.co/fmNHkhU2mU",
+   "created_at": "Sun Oct 18 15:31:51 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 21,
+   "retweets": 5,
+   "media": [],
+   "quoted": {
+    "author": "testingham",
+    "text": "One sentence macro model: On the way out the door, every farmer's wife says to every farmer, \"the weather's looking bad so don't buy as much at the market this week, but also don't sell our crops for less than the usual price.\""
+   },
+   "fetched_at": "2026-10-18T18:07:13.095901+00:00"
+  },
+  "2111830086760772072": {
+   "id": "2111830086760772072",
+   "url": "https://x.com/testingham/status/2111830086760772072",
+   "text": "@mathburritos ha true",
+   "created_at": "Sun Oct 18 14:41:43 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "mathburritos",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-18T18:07:13.095901+00:00"
   }
  }
 }

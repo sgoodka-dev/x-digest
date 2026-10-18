@@ -1575,6 +1575,109 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-16T18:49:14.085440+00:00"
+  },
+  "2111872767100682274": {
+   "id": "2111872767100682274",
+   "url": "https://x.com/ohlennart/status/2111872767100682274",
+   "text": "Agree on the diagnosis. But I’d mostly like to know what can be done about it. \nMy expectation is a continued cat and mouse game? So for anyone looking at the geopolitics, assume distillation stays part of the game, and fast followers can be an OOM more compute efficient?",
+   "created_at": "Sun Oct 18 17:31:19 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "deanwball",
+    "text": "Distillation has always been part of the explanation for why China is so close behind the U.S. in model benchmark performance. But one of my updates after joining openai is that distillation probably plays a bigger role in the explanation than I realized."
+   },
+   "fetched_at": "2026-10-18T18:07:13.095901+00:00"
+  },
+  "2099936547973820422": {
+   "id": "2099936547973820422",
+   "url": "https://x.com/ohlennart/status/2099936547973820422",
+   "text": "Are Chinese open-weight models really processing most of the world’s AI tokens?\n\nIf you use OpenRouter’s AI Model Leaderboard as your reference, you might think so.\n\nAs of September 13th, Chinese open-weight models accounted for approximately 53% of the platform’s public token volume.[1]\n\nBut @KonstantinPilz and I think that data is misleading.\n\nClosed models dominate enterprise adoption. Of Ramp customers that pay for AI, at least 77% – and likely much more! – pay for an OpenAI or Anthropic subscription.[2] Only about 6% use platforms like OpenRouter, and the vast majority of those who do – 96%! – also pay for Anthropic or OpenAI.\n\nWe expect that consumer AI use is even more closed-model dominated.\n\nSo, it’s fair to guess that closed models dominate AI deployment by a wide margin.\n\nWe dug into the evidence in a short post:\n\n[1] Of course, not all tokens are created equal. It’s not very meaningful to just compare token numbers without adjusting for model size and capabilities. Yet, it seems worth clarifying that even without adjustment, closed model tokens likely dominate.\n\n[2] The range is calculated using Ramp’s reported percentages: 55% of businesses purchased an AI product, while 42.4% purchased Anthropic and 39.5% purchased OpenAI. Because Anthropic users alone represent 42.4 ÷ 55 = 77.1% of AI-spending businesses, at least 77.1% used OpenAI or Anthropic. The exact figure depends on the undisclosed overlap between OpenAI and Anthropic customers.",
+   "created_at": "Tue Sep 15 19:01:02 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "mary_clare_m",
+   "rt_author_name": "Mary Clare McMahon",
+   "likes": 41,
+   "retweets": 10,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSR3jzBW8AA1t5M.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-18T18:07:13.095901+00:00"
+  },
+  "2097747575604424782": {
+   "id": "2097747575604424782",
+   "url": "https://x.com/ohlennart/status/2097747575604424782",
+   "text": "Paul joining the OpenAI board and SSC is great news in what has been a very dark couple of months for my expectations of the future.\n\nThere is no one with a better track record than him on AI safety in the last decade.\n\nI hope OpenAI’s SSC sets an appropriately serious bar for security and alignment that the company executes to meet. This is the critical period, failure now is increasingly likely to be irrecoverable, and it’s now all hands on deck.",
+   "created_at": "Wed Sep 09 18:02:50 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "yonashav",
+   "rt_author_name": "Yo Shavit",
+   "likes": 163,
+   "retweets": 15,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-18T18:07:13.095901+00:00"
+  },
+  "2097711615722373219": {
+   "id": "2097711615722373219",
+   "url": "https://x.com/ohlennart/status/2097711615722373219",
+   "text": "Today we’re launching Project Tailwind, a call for founders to start ambitious new AI safety initiatives: https://t.co/k5SoaXbuWk\n\nWe’re looking for great people to engage seriously with the risks of transformative AI, and to create the research, technologies, and institutions that will help humanity navigate them.\n\nThere are critical, basic problems that no one owns. Over the last several months, my team at @coeff_giving brainstormed ideas we’d be excited to fund if we could find a promising founder, and the list quickly grew to more than 200 entries. We’ve narrowed it down to our favorites, but we also expect the best founders to bring their own ideas:\nhttps://t.co/88qE9bVrEy\n\nWe’re providing funding at three levels:\n1️⃣ Pre-seed: $200k to $2m to develop an idea and build a team\n2️⃣ Seed: $2m to $20m to launch and scale\n3️⃣ Scale: $20m to $200m+ for proven teams to scale, or world-class teams to start\n\nIf you’re excited about something on our list, or you have another proposal for driving the field forward, you should get involved: https://t.co/8utEYbXYhx\n\nThere are more good projects than there are people to work on them. Please help us make that stop being true!\n\nAlso hi, I’m Emily! This is my first tweet. I lead AI and biosecurity grantmaking at @coeff_giving.",
+   "created_at": "Wed Sep 09 15:39:57 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "EmilyOehlsen",
+   "rt_author_name": "Emily Oehlsen",
+   "likes": 1029,
+   "retweets": 163,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRyJN-uacAAkX83.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-18T18:07:13.095901+00:00"
+  },
+  "2093117018744496408": {
+   "id": "2093117018744496408",
+   "url": "https://x.com/ohlennart/status/2093117018744496408",
+   "text": "The big labs are just one OOM away from the tech giants in revenue, and together their revenue is just three OOMs from the size of the current world economy.\n\nSo this curve needs to inflect down, and soon, or things are going to get wild.",
+   "created_at": "Thu Aug 27 23:22:40 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "justjoshinyou13",
+   "rt_author_name": "Josh You",
+   "likes": 289,
+   "retweets": 17,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-18T18:07:13.095901+00:00"
   }
  }
 }
