@@ -1799,6 +1799,45 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2112191804627952067": {
+   "id": "2112191804627952067",
+   "url": "https://x.com/curl_justin/status/2112191804627952067",
+   "text": "In a famous 1960 case, a buyer and a seller went to court over the meaning of “chicken”; the buyer expected young birds while the seller shipped stewing hens.\n\nDoes it matter whether a human judge settles cases like that? @curl_justin argues that similar disputes could go to AI courts, saving human judges for cases about life, liberty and fundamental rights.\n\nIf we don’t, human judges may come to rely on AI judgement anyway, even for those cases, to keep up with rising volumes.",
+   "created_at": "Mon Oct 19 14:39:03 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "PaxMachinaMag",
+   "rt_author_name": "Pax Machina",
+   "likes": 13,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2107333312843063699": {
+   "id": "2107333312843063699",
+   "url": "https://x.com/curl_justin/status/2107333312843063699",
+   "text": "i read ant as anthropic employee and have decided i need to go touch grass",
+   "created_at": "Tue Oct 06 04:53:08 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 42,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "entropicbloom",
+    "text": "@repligate had to run the experiment https://t.co/7TVt0Os5z7"
+   },
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
   }
  }
 }

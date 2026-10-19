@@ -1,11 +1,11 @@
 {
  "last_run": {
-  "started": "2026-10-18T18:07:13.095901+00:00",
+  "started": "2026-10-19T17:28:56.163130+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
-    "new": 0,
-    "total": 119
+    "new": 1,
+    "total": 120
    },
    "add_hawk": {
     "ok": true,
@@ -24,8 +24,8 @@
    },
    "curl_justin": {
     "ok": true,
-    "new": 0,
-    "total": 101
+    "new": 2,
+    "total": 103
    },
    "DaveRBanerjee": {
     "ok": true,
@@ -34,8 +34,8 @@
    },
    "DKokotajlo": {
     "ok": true,
-    "new": 0,
-    "total": 142
+    "new": 2,
+    "total": 144
    },
    "dwarkesh_sp": {
     "ok": true,
@@ -44,8 +44,8 @@
    },
    "jkcarlsmith": {
     "ok": true,
-    "new": 0,
-    "total": 89
+    "new": 2,
+    "total": 91
    },
    "Lewis_Bollard": {
     "ok": true,
@@ -54,13 +54,13 @@
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 0,
-    "total": 111
+    "new": 1,
+    "total": 112
    },
    "ohlennart": {
     "ok": true,
     "new": 0,
-    "total": 94
+    "total": 95
    },
    "sayashk": {
     "ok": true,
@@ -70,22 +70,22 @@
    "testingham": {
     "ok": true,
     "new": 2,
-    "total": 123
+    "total": 125
    },
    "slatestarcodex": {
     "ok": true,
-    "new": 0,
-    "total": 113
+    "new": 1,
+    "total": 114
    },
    "s8mb": {
     "ok": true,
-    "new": 2,
-    "total": 332
+    "new": 8,
+    "total": 340
    },
    "random_walker": {
     "ok": true,
-    "new": 0,
-    "total": 129
+    "new": 4,
+    "total": 133
    },
    "sethlazar": {
     "ok": true,
@@ -94,23 +94,23 @@
    },
    "robertwiblin": {
     "ok": true,
-    "new": 0,
-    "total": 166
+    "new": 1,
+    "total": 167
    },
    "deanwball": {
     "ok": true,
-    "new": 3,
-    "total": 358
+    "new": 6,
+    "total": 364
    },
    "nabeelqu": {
     "ok": true,
-    "new": 0,
-    "total": 122
+    "new": 5,
+    "total": 127
    },
    "theobearman": {
     "ok": true,
-    "new": 0,
-    "total": 147
+    "new": 13,
+    "total": 160
    },
    "peterwilderford": {
     "ok": true,
@@ -123,7 +123,7 @@
     "total": 111
    }
   },
-  "new_tweets": 12,
-  "finished": "2026-10-18T18:07:57.715695+00:00"
+  "new_tweets": 49,
+  "finished": "2026-10-19T17:29:58.446053+00:00"
  }
 }

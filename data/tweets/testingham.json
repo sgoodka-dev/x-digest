@@ -2219,6 +2219,42 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-18T18:07:13.095901+00:00"
+  },
+  "2111979528298102880": {
+   "id": "2111979528298102880",
+   "url": "https://x.com/testingham/status/2111979528298102880",
+   "text": "@Jabaluck @ahall_research The reason why normative reasoning is stuck in Aristotelian age isnt' an accident. It isn't that we haven't tried to see more clearly. People who've tried have decided that it isn't wise to keep going in that direction.",
+   "created_at": "Mon Oct 19 00:35:32 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "testingham",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2111979291516993797": {
+   "id": "2111979291516993797",
+   "url": "https://x.com/testingham/status/2111979291516993797",
+   "text": "@Jabaluck @ahall_research I think a natural counterargument is that some confusion is necessary for holding up moral & political equilibrium. If we try to decompose morality into a purely rational basis then it will fall apart. If you get people to have absolute intellectual clarity w/r/t/ the basis of morality and political customs then the arbitrariness of them all might become transparent, and people will choose to indulge instrumentally rational things.\n\n(& arguably this is a fairly mainstream view in political philosophy, going through Plato, Nietzsche, Isaiah Berlin, Leo Strauss).",
+   "created_at": "Mon Oct 19 00:34:36 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "Jabaluck",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
   }
  }
 }

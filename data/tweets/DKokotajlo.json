@@ -2533,6 +2533,52 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2112225357185368494": {
+   "id": "2112225357185368494",
+   "url": "https://x.com/DKokotajlo/status/2112225357185368494",
+   "text": "We looked at TerminalBench 4.0 and found a lot of issues. After fixing the issues Sonnet 5.5 scores 89.2%. So, TerminalBench is already mostly saturated.\n\nAlong the way we found a lot of crazy stuff, including reward hacks in the published transcripts. https://t.co/RkFSX9PSZJ",
+   "created_at": "Mon Oct 19 16:52:23 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "chem_safety",
+   "rt_author_name": "Jennifer Zhou",
+   "likes": 316,
+   "retweets": 24,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVAWa1CbkAArlOK.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2112047236217737537": {
+   "id": "2112047236217737537",
+   "url": "https://x.com/DKokotajlo/status/2112047236217737537",
+   "text": "INSANE. An internal Anthropic research model's chain of thought after cracking the 26-year-old NSA elliptic curve seed mystery in under 30 minutes: 'Hmm wait. Let me be skeptical: am I in some sort of simulated/test environment? ... All top bits clear - 20 bits, chance 1e-6. So indeed real-world. Wow, it's a real discovery.'",
+   "created_at": "Mon Oct 19 05:04:35 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "choblin29",
+   "rt_author_name": "Choblin",
+   "likes": 11655,
+   "retweets": 661,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HUxzlJtbsAAP44Q.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
   }
  }
 }

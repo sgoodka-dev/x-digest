@@ -6827,6 +6827,147 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-18T18:07:13.095901+00:00"
+  },
+  "2112170441817120870": {
+   "id": "2112170441817120870",
+   "url": "https://x.com/deanwball/status/2112170441817120870",
+   "text": "Does anyone who follows me know of any promising experimental therapies or medicines for rheumatoid arthritis? I would owe you a very big favor.\n\n(I do not have RA).",
+   "created_at": "Mon Oct 19 13:14:10 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 73,
+   "retweets": 4,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2112147612535026094": {
+   "id": "2112147612535026094",
+   "url": "https://x.com/deanwball/status/2112147612535026094",
+   "text": "HOLY WTF. Reuters is reporting that a Chinese-speaking hacker used AI agents to compromise websites belonging to more than 100 companies, including Deere, SharkNinja and Cummins, after attempting intrusions against over 1,200 sites.\n\nThe estimated cost: roughly $5,000 in AI tokens, or $50 per successful breach. Successful intrusions took around 23 hours on average.\n\nThe attackers used the open-source Cairn agent framework, apparently combining DeepSeek models with a Claude Code harness. One campaign gave its agents instructions in fewer than 100 Chinese characters.\n\nNorForge researcher Snorre Fagerland: 'It's a new world now.'",
+   "created_at": "Mon Oct 19 11:43:27 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "choblin29",
+   "rt_author_name": "Choblin",
+   "likes": 684,
+   "retweets": 119,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HU_MUu8XAAAUiv4.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HU_MkRQW0AAxzG4.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HU_Mu8YXQAAeHPw.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2112121729950572976": {
+   "id": "2112121729950572976",
+   "url": "https://x.com/deanwball/status/2112121729950572976",
+   "text": "@kristianstout @neil_chilson if you lack the cogsec to catch the most obvious ai reply guys, you really should get out of the ai commentary game. this one wasn’t hard.",
+   "created_at": "Mon Oct 19 10:00:36 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "kristianstout",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "notegone",
+    "text": "@Borisvest @deanwball https://t.co/5h9YcLV4wO"
+   },
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2111981162784833777": {
+   "id": "2111981162784833777",
+   "url": "https://x.com/deanwball/status/2111981162784833777",
+   "text": "@ramez Just an understanding of the size and sophistication of what we see almost literally every hour of every day",
+   "created_at": "Mon Oct 19 00:42:02 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "ramez",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 11,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2111970889205989746": {
+   "id": "2111970889205989746",
+   "url": "https://x.com/deanwball/status/2111970889205989746",
+   "text": "@ziv_ravid what does that even mean? if I understand you correctly, I don’t how could we even do that without knowing all the details of their training stacks, which we don’t",
+   "created_at": "Mon Oct 19 00:01:13 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "ziv_ravid",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2111945709440139315": {
+   "id": "2111945709440139315",
+   "url": "https://x.com/deanwball/status/2111945709440139315",
+   "text": "@ziv_ravid unfortunately x only lets you do four images, but I could go on. all of these name names and quantify scale. https://t.co/M8uw6EerOo",
+   "created_at": "Sun Oct 18 22:21:09 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "ziv_ravid",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 39,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HU8jbfNWsAA11ru.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HU8jbfOWoAAh6-s.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HU8jbfTW0AAmpiD.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HU8jbfUWUAAlO0Y.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
   }
  }
 }

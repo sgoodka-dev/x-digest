@@ -2405,6 +2405,106 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-15T15:35:55.672465+00:00"
+  },
+  "2111979162835829093": {
+   "id": "2111979162835829093",
+   "url": "https://x.com/nabeelqu/status/2111979162835829093",
+   "text": "@jahmad93 @jmkettle It’s very good! Haven’t read any of his previous stuff yet",
+   "created_at": "Mon Oct 19 00:34:05 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": true,
+   "reply_to": "jahmad93",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2111963838925226310": {
+   "id": "2111963838925226310",
+   "url": "https://x.com/nabeelqu/status/2111963838925226310",
+   "text": "@tszzl I like how the Bay Area woo has largely left you unscathed roon",
+   "created_at": "Sun Oct 18 23:33:12 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": true,
+   "reply_to": "tszzl",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 18,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2111962828529607100": {
+   "id": "2111962828529607100",
+   "url": "https://x.com/nabeelqu/status/2111962828529607100",
+   "text": "@jmkettle Ayad Akhtar, “The Radiance”",
+   "created_at": "Sun Oct 18 23:29:11 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": true,
+   "reply_to": "jmkettle",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2111936034451648522": {
+   "id": "2111936034451648522",
+   "url": "https://x.com/nabeelqu/status/2111936034451648522",
+   "text": "Fascinating when psychoanalysis and Buddhism coincide, as in here where Winnicott asks why we locate the ‘self’ in the head: https://t.co/MwupmNWD6C",
+   "created_at": "Sun Oct 18 21:42:43 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 69,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HU8aoVLW4AARM1b.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2111902674757230625": {
+   "id": "2111902674757230625",
+   "url": "https://x.com/nabeelqu/status/2111902674757230625",
+   "text": "A nice evocation of genius, from Ayad Akhtar’s “The Radiance”: https://t.co/ygj9KKNMv8",
+   "created_at": "Sun Oct 18 19:30:09 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 91,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HU78Sf1WcAAEjpS.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
   }
  }
 }

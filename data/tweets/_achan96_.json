@@ -2095,6 +2095,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-18T14:35:04.391088+00:00"
+  },
+  "2112133139736797192": {
+   "id": "2112133139736797192",
+   "url": "https://x.com/_achan96_/status/2112133139736797192",
+   "text": "@AnkaReuel hope you're ok and feel better!",
+   "created_at": "Mon Oct 19 10:45:56 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": true,
+   "reply_to": "AnkaReuel",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
   }
  }
 }

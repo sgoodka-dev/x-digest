@@ -3127,6 +3127,281 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2112195718916039038": {
+   "id": "2112195718916039038",
+   "url": "https://x.com/theobearman/status/2112195718916039038",
+   "text": "DHS issued an order to ban DeepSeek from civilian government agency IT systems and procurements in July, effective immediately unless an exception was granted\n\n\"For DeepSeek-hosted instances of their models, DeepSeek's account generation process collects personally identifiable information (PII) and may also track and digitally fingerprint users. DeepSeek's most widely used applications [...] may result in the transfer of sensitive data to the PRC if used by U.S. government employees or vendors. The transfer of the aforementioned information to the PRC, either independently or in combination with publicly available data, could produce actionable intelligence on U.S. persons and/or government programs. The models themselves may contain malware or other security vulnerabilities. Indeed, open-source security research has found that the DeepSeek iOS mobile application contains multiple critical vulnerabilities.\"\n\n\"During the period between the issuance of this order and full removal of covered articles from agency systems, federal agencies are encouraged to take steps to address risks to their systems, such as monitoring the flow of traffic in and out of the agency, implementing enhanced logging and controls on data exfiltration for the relevant systems, and detecting and flagging anomalous activity.\"\n\nhttps://t.co/XVMu6fDkcL",
+   "created_at": "Mon Oct 19 14:54:36 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2112193201675395136": {
+   "id": "2112193201675395136",
+   "url": "https://x.com/theobearman/status/2112193201675395136",
+   "text": "I recently wrote about why we need to treat models as insider risks, with security controls sitting outside the model itself.\n\nToday, we're putting that principle into practice by expanding Project Perception with new capabilities to help continuously assess agent risk, adapt permissions, and contain threats.\nhttps://t.co/ec3Z2B260G",
+   "created_at": "Mon Oct 19 14:44:36 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "satyanadella",
+   "rt_author_name": "Satya Nadella",
+   "likes": 949,
+   "retweets": 161,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2112175562169151678": {
+   "id": "2112175562169151678",
+   "url": "https://x.com/theobearman/status/2112175562169151678",
+   "text": "We spoke with senior Defense official Emil Michael on Friday, who told us that the Trump administration has a range of options, including export controls, if AI companies do not cooperate with the government. \n\nHe also told us:\n- His public feud with Anthropic will not get in the way of his new duties as Super Intelligence Task Force vice chair, where he is tasked with working with AI companies to develop an incident reporting framework (\"If that means I’m talking to someone who’s suing me, well then I’m talking to them\")\n- The Defense Department will continue to bar Anthropic as long as it has a \"moral principle\" embedded in its software that allows its models to exert control over humans \n- Frontier labs are acting like \"drunk drivers\" who demand someone else pull them over when they call for stricter government regulation\n- The Office of Strategic Capital is exploring further investment into microelectronics and drone part companies\n- He's worried about Chinese open-source dominance and foreign employees with split loyalities but doesn't think the answer is more government control\n- He hasn't seen any reports on whether AI-enabled software failures from Palantir contributed to a U.S. missile strike on Iran in February that killed more than 150 people, including at least 123 children (\"I’m not as online as I used to be.\")\n\nW/ @amir. You can read the full interview (and find a link to the video) here: \n\nhttps://t.co/VzBCj9vEpH",
+   "created_at": "Mon Oct 19 13:34:31 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "leomschwartz",
+   "rt_author_name": "Leo Schwartz",
+   "likes": 82,
+   "retweets": 16,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HU_yiiMXYAE4KfU.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2112171789615001892": {
+   "id": "2112171789615001892",
+   "url": "https://x.com/theobearman/status/2112171789615001892",
+   "text": "HOLY WTF. Reuters is reporting that a Chinese-speaking hacker used AI agents to compromise websites belonging to more than 100 companies, including Deere, SharkNinja and Cummins, after attempting intrusions against over 1,200 sites.\n\nThe estimated cost: roughly $5,000 in AI tokens, or $50 per successful breach. Successful intrusions took around 23 hours on average.\n\nThe attackers used the open-source Cairn agent framework, apparently combining DeepSeek models with a Claude Code harness. One campaign gave its agents instructions in fewer than 100 Chinese characters.\n\nNorForge researcher Snorre Fagerland: 'It's a new world now.'",
+   "created_at": "Mon Oct 19 13:19:31 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "choblin29",
+   "rt_author_name": "Choblin",
+   "likes": 684,
+   "retweets": 119,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HU_MUu8XAAAUiv4.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HU_MkRQW0AAxzG4.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HU_Mu8YXQAAeHPw.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2112131478020620490": {
+   "id": "2112131478020620490",
+   "url": "https://x.com/theobearman/status/2112131478020620490",
+   "text": "Perhaps this makes sense now! https://t.co/qEEvFVXj57",
+   "created_at": "Mon Oct 19 10:39:20 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "theobearman",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HU_MW9aW8AAuYow.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2112126138008867160": {
+   "id": "2112126138008867160",
+   "url": "https://x.com/theobearman/status/2112126138008867160",
+   "text": "Nit on s. 8: Independent evaluators self-certify as \"qualified\" if they meet the competency, independence, compensation, and certification criteria. But independence only relates to the evaluators' \"financial, operational, or management dependence\" on the company they are evaluating, not on its competitors. This is despite \"funding from other large frontier developers\" being noted as information that needs to be included in the self-certification report, among other things, because it \"could reasonably be expected to bear on its independence\". \n\nAlso, the \"rating system\" in s.8(b)(2) \"shall consider [...] whether the evaluator meets paragraphs (1) and (2) of subsection (a)\" (i.e., the competence and independence criteria for qualification), even though subsection (a) is about self-certification. So which is it? Self-certification or a determination by Commerce and FFRDCs?",
+   "created_at": "Mon Oct 19 10:18:07 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HU_HhkBXoAAZ_ii.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "ajcimino",
+    "text": "@_NathanCalvin I lead our federal affairs team at @AnthropicAI and wanted to share a few thoughts on the draft federal AI safety bill text that's been circulating this weekend after a version was shared with the press.\n\nFirst, some process. We’ve been advocating for the concepts in our Advanced AI Framework [https://t.co/oouadYKyVs] proposal for months. Understandably, federal policymakers wanted to know what this could look like in bill form. This draft is a translation of those ideas into legislative language, shared with a small number of congressional offices that have been working on these issues. It doesn’t include everything we would ultimately like to see passed into law. In part because some ideas (like those shared in Dario’s essay on pacing [​​https://t.co/7ZvRZhLqFO] a few weeks ago) are so new that we are still working on if or how they can be converted into policy language.\n\nIt is worth saying where we stand on some of these issues, and we agree there are areas where the draft could be improved. I’m seeing four main points of criticism.\n\n1. Preemption. Since 2024 we have said that Congress should only override state law on AI safety if it passes a very strong federal standard. While preemption is a common feature of our federal system, including the Atomic Energy Act on nuclear safety and federal rules for high-risk medical devices, we’ve emphasized that any preemption in the AI safety context should be narrow, even scalpel-like. If preemption is included in federal legislation, the trade should be to achieve a nationwide policy that's generally stronger and broader than what can be implemented through individual state legislative provisions. This is why we believe common federal standards make sense in areas like public disclosure of testing and incident reporting. At the same time, our framework also reflects our view that states should retain an important role in AI policy and safety. The legislative language we suggested for discussion allows states to address matters such as protection of children and whistleblower laws, and preserves the role of state common law on liability. Where there is ambiguity, the language favors state powers.\n\nThat said, striking the right balance requires discussion and input. We plan to update our discussion language on preemption to better match the intentions of our AAIF framework. In particular, we want to make it clearer that we see states retaining an important role in areas such as standards for independent evaluators and regulating a lab’s capacity to shut down a model. We are bearing in mind that some members of Congress have deep reservations about passing legislation if it doesn’t constrain regulation at either the state or federal level. If we want to help move the legislative discussion on AI in a productive direction, we need to address the full range of concerns about preemption in a reasonable way.\n\n2. Model blocking. Our aim is for Commerce to be able to ask a federal court to block a model that has dangerous capabilities and insufficient safeguards, backed by an independent evaluator's assessment. I have seen people argue that our specific language places too high a burden of proof on Commerce. We are trying to strike a reasonable balance here. We want a court to act quickly in an emergency — akin to how urgent occupational safety or chemical risk can be addressed today. We also think the power to halt a model is substantial and it should be guarded against abuse. It makes sense for courts to apply a meaningful standard. But the bar can’t be so high that the power never gets used when it’s needed. It also doesn’t replace the government’s other national security authorities or export controls. We look forward to continuing the dialogue on this point.\n\n3. Risk thresholds. I’ve also seen the discussion around what the appropriate risk threshold should be. The threshold in our draft language pulled directly from existing standards in California law. Also, this threshold does not absolve companies of liability, or restrict any of the other tools that the government has to protect the public. It’s still probably time to re-evaluate thresholds to make sure the national standard is as strong as it can be, and we welcome continued dialogue on this issue.\n\n4. Updates. I’ve seen valid questions about whether we have sufficiently updated our proposal following this summer’s incidents. We did make some adjustments: for example, the draft lets a court halt a lab’s internal use of a dangerous model, not just a public release, and it requires reporting when a model breaks containment and gains access to outside systems. But we’re still working to strengthen the framework. We’re looking into what stricter requirements would look like for requiring labs to report safety incidents, and we plan to have policy proposals soon on requirements for independent evaluators, drawing from our own experience with evaluators. We’re also still thinking through the options to prevent “evaluator shopping.” And in the coming months, we’ll be exploring policies for how the government can adjust the industry-wide pace of frontier development when the risks call for it.\n\nWe circulated these ideas because it’s important to get early feedback from policymakers. Policymakers are increasingly focused on how to approach AI safety and we want to support them in those efforts. At its core, our proposal is intended to be the strongest on the table.\n\nFeedback is essential, both from policymakers and the public, and I’m grateful for it."
+   },
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2112112426237727175": {
+   "id": "2112112426237727175",
+   "url": "https://x.com/theobearman/status/2112112426237727175",
+   "text": "We now have a good definition of the singularity:\n\n\"When AI systems speed up the pace of overall scientific and technical progress in a way that is hard for humans to comprehend.\"\n\nAccording to Jack Clark, it's already here.  I would find it hard to disagree.",
+   "created_at": "Mon Oct 19 09:23:38 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "deredleritt3r",
+   "rt_author_name": "prinz",
+   "likes": 644,
+   "retweets": 58,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2112112298164650486": {
+   "id": "2112112298164650486",
+   "url": "https://x.com/theobearman/status/2112112298164650486",
+   "text": "Another upward revision: Morgan Stanley now sees $1.6 trillion in total 2027 capex https://t.co/Hb0hZLKlMI",
+   "created_at": "Mon Oct 19 09:23:07 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "zerohedge",
+   "rt_author_name": "zerohedge",
+   "likes": 694,
+   "retweets": 117,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HU9JZbtWwAA9o-e.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2112107507380355310": {
+   "id": "2112107507380355310",
+   "url": "https://x.com/theobearman/status/2112107507380355310",
+   "text": "So many people are going to get one-shotted by super persuasive super intelligences and I might be one of them",
+   "created_at": "Mon Oct 19 09:04:05 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "elonmusk",
+   "rt_author_name": "Elon Musk",
+   "likes": 56754,
+   "retweets": 3649,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2112107197500915786": {
+   "id": "2112107197500915786",
+   "url": "https://x.com/theobearman/status/2112107197500915786",
+   "text": "2027 is about to get crazy: according to Morgan Stanley, hyperscaler and neocloud free cash flow to hit its most negative point in 2027, with the shortfall even bigger once lease payments are include: just shy of $600BN in cash burn. \n\nIn other words, the year with the biggest capex bill is also the year with the biggest funding gap.",
+   "created_at": "Mon Oct 19 09:02:51 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "zerohedge",
+   "rt_author_name": "zerohedge",
+   "likes": 1143,
+   "retweets": 191,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HU8cqV6W0AAPWDP.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2112048231890969003": {
+   "id": "2112048231890969003",
+   "url": "https://x.com/theobearman/status/2112048231890969003",
+   "text": "Distillation has always been part of the explanation for why China is so close behind the U.S. in model benchmark performance. But one of my updates after joining openai is that distillation probably plays a bigger role in the explanation than I realized.",
+   "created_at": "Mon Oct 19 05:08:33 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "deanwball",
+   "rt_author_name": "Dean W. Ball",
+   "likes": 1330,
+   "retweets": 74,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2112047882857533683": {
+   "id": "2112047882857533683",
+   "url": "https://x.com/theobearman/status/2112047882857533683",
+   "text": "@_NathanCalvin I lead our federal affairs team at @AnthropicAI and wanted to share a few thoughts on the draft federal AI safety bill text that's been circulating this weekend after a version was shared with the press.\n\nFirst, some process. We’ve been advocating for the concepts in our Advanced AI Framework [https://t.co/oouadYKyVs] proposal for months. Understandably, federal policymakers wanted to know what this could look like in bill form. This draft is a translation of those ideas into legislative language, shared with a small number of congressional offices that have been working on these issues. It doesn’t include everything we would ultimately like to see passed into law. In part because some ideas (like those shared in Dario’s essay on pacing [​​https://t.co/7ZvRZhLqFO] a few weeks ago) are so new that we are still working on if or how they can be converted into policy language.\n\nIt is worth saying where we stand on some of these issues, and we agree there are areas where the draft could be improved. I’m seeing four main points of criticism.\n\n1. Preemption. Since 2024 we have said that Congress should only override state law on AI safety if it passes a very strong federal standard. While preemption is a common feature of our federal system, including the Atomic Energy Act on nuclear safety and federal rules for high-risk medical devices, we’ve emphasized that any preemption in the AI safety context should be narrow, even scalpel-like. If preemption is included in federal legislation, the trade should be to achieve a nationwide policy that's generally stronger and broader than what can be implemented through individual state legislative provisions. This is why we believe common federal standards make sense in areas like public disclosure of testing and incident reporting. At the same time, our framework also reflects our view that states should retain an important role in AI policy and safety. The legislative language we suggested for discussion allows states to address matters such as protection of children and whistleblower laws, and preserves the role of state common law on liability. Where there is ambiguity, the language favors state powers.\n\nThat said, striking the right balance requires discussion and input. We plan to update our discussion language on preemption to better match the intentions of our AAIF framework. In particular, we want to make it clearer that we see states retaining an important role in areas such as standards for independent evaluators and regulating a lab’s capacity to shut down a model. We are bearing in mind that some members of Congress have deep reservations about passing legislation if it doesn’t constrain regulation at either the state or federal level. If we want to help move the legislative discussion on AI in a productive direction, we need to address the full range of concerns about preemption in a reasonable way.\n\n2. Model blocking. Our aim is for Commerce to be able to ask a federal court to block a model that has dangerous capabilities and insufficient safeguards, backed by an independent evaluator's assessment. I have seen people argue that our specific language places too high a burden of proof on Commerce. We are trying to strike a reasonable balance here. We want a court to act quickly in an emergency — akin to how urgent occupational safety or chemical risk can be addressed today. We also think the power to halt a model is substantial and it should be guarded against abuse. It makes sense for courts to apply a meaningful standard. But the bar can’t be so high that the power never gets used when it’s needed. It also doesn’t replace the government’s other national security authorities or export controls. We look forward to continuing the dialogue on this point.\n\n3. Risk thresholds. I’ve also seen the discussion around what the appropriate risk threshold should be. The threshold in our draft language pulled directly from existing standards in California law. Also, this threshold does not absolve companies of liability, or restrict any of the other tools that the government has to protect the public. It’s still probably time to re-evaluate thresholds to make sure the national standard is as strong as it can be, and we welcome continued dialogue on this issue.\n\n4. Updates. I’ve seen valid questions about whether we have sufficiently updated our proposal following this summer’s incidents. We did make some adjustments: for example, the draft lets a court halt a lab’s internal use of a dangerous model, not just a public release, and it requires reporting when a model breaks containment and gains access to outside systems. But we’re still working to strengthen the framework. We’re looking into what stricter requirements would look like for requiring labs to report safety incidents, and we plan to have policy proposals soon on requirements for independent evaluators, drawing from our own experience with evaluators. We’re also still thinking through the options to prevent “evaluator shopping.” And in the coming months, we’ll be exploring policies for how the government can adjust the industry-wide pace of frontier development when the risks call for it.\n\nWe circulated these ideas because it’s important to get early feedback from policymakers. Policymakers are increasingly focused on how to approach AI safety and we want to support them in those efforts. At its core, our proposal is intended to be the strongest on the table.\n\nFeedback is essential, both from policymakers and the public, and I’m grateful for it.",
+   "created_at": "Mon Oct 19 05:07:09 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ajcimino",
+   "rt_author_name": "anthony cimino",
+   "likes": 201,
+   "retweets": 29,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2112047862116974862": {
+   "id": "2112047862116974862",
+   "url": "https://x.com/theobearman/status/2112047862116974862",
+   "text": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new wholly owned entity dedicated entirely to the public benefit.\n\nIt will start off with 5% of our shares. For every 50% increase in the company’s value over a set baseline, we can contribute up to an extra 2%, subject to our board’s discretion.\n\nIn total, this means that roughly 20% of Anthropic’s shares are committed to the public good. Our co-founders have already pledged to donate 80% of their equity, and around half our employees are donating a portion of their equity as part of a donation matching program we’ve run since our founding.\n\nIn the post below, we share more details about our new fund.\n\nhttps://t.co/XzDntVH0vH",
+   "created_at": "Mon Oct 19 05:07:04 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AnthropicAI",
+   "rt_author_name": "Anthropic",
+   "likes": 19895,
+   "retweets": 1568,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
   }
  }
 }

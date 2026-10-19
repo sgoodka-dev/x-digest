@@ -3516,6 +3516,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-18T14:35:04.391088+00:00"
+  },
+  "2112144236602605679": {
+   "id": "2112144236602605679",
+   "url": "https://x.com/robertwiblin/status/2112144236602605679",
+   "text": "@StefanFSchubert I can't tell if you're saying that's actually good (I suspect it is)? \n\nIf everyone was relaxed on the assumption that someone else would wake people up to take action, then it would be self-undermining.\n\nTo an extent it's necessary to act as if people won't be acting sufficiently, even if you suspect they will.\n\nThough on the details of what steps to take you need to have a somewhat accurate model of how much people will eventually be open to your ideas.",
+   "created_at": "Mon Oct 19 11:30:02 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "StefanFSchubert",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
   }
  }
 }

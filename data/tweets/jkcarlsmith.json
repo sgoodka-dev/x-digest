@@ -1605,6 +1605,42 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2001586725571740066": {
+   "id": "2001586725571740066",
+   "url": "https://x.com/jkcarlsmith/status/2001586725571740066",
+   "text": "@DavidSKrueger @ESYudkowsky @So8res I think the question of how hard it will be to reduce the risk of rogue behavior in a given generation of better-than-human AIs to acceptable levels is quite rich (my high-level picture of what this might look like is here: https://t.co/69WsDklBdT). Depending on what we mean by \"acceptable levels,\" I'm also skeptical that alien AI motivations necessarily doom efforts to be suitably *confident* that a given generation of better-than-human AIs is suitably aligned, but I think it's quite a bit more defensible than the arg in IABIED, which focuses centrally on \"alien AI motivations + superhuman capabilities --> valueless future,\" and which treats this prediction as an \"easy call.\"",
+   "created_at": "Thu Dec 18 09:33:57 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": true,
+   "reply_to": "DavidSKrueger",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2001583900527857853": {
+   "id": "2001583900527857853",
+   "url": "https://x.com/jkcarlsmith/status/2001583900527857853",
+   "text": "@davidmanheim @ohabryka @paulfchristiano @ajeya_cotra My picture of what we want alignment research to accomplish is here: https://t.co/h4NTizuwdn",
+   "created_at": "Thu Dec 18 09:22:44 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": true,
+   "reply_to": "davidmanheim",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
   }
  }
 }

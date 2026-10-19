@@ -1863,6 +1863,29 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-07T17:49:31.774547+00:00"
+  },
+  "2112209528230232193": {
+   "id": "2112209528230232193",
+   "url": "https://x.com/slatestarcodex/status/2112209528230232193",
+   "text": "@ChrisGPT It looks like your graph is saying that if we paused AI, there's a 100% chance we would die of climate change in the next twenty years. \n\nI asked an AI superforecaster to check that. It said the risk was actually \"less than 0.01%\".\n\nI asked it the all-cause extinction risk over a twenty year AI pause, and it said 1%. TBC I think this is too low - I would say something more like 3-5% - but it's definitely not anywhere close to 100!\n\nI'm guessing you'll say the graph above was a deliberate exaggeration (probably you'll use some softer term like \"directionally correct\") to make a point. But I think if we were to come up with real numbers, it would become clear that p(doom|AI) is higher than p(doom|pause) for any plausible pause length.\n\nAs for your claim that you'd \"never heard of anyone in the PauseAI movement contend with the inverse\", see https://t.co/UH6E0qzVVy , CTRL+F \"there’s an additional consideration around balancing the risk of AI vs. the risk of all the things AI could save us from. Nuclear war, bioengineered pandemics, mirror life, collapsing fertility, decreasingly functional politics\". We decided this didn't push against a pause of this length, because of the probabilities mentioned above.",
+   "created_at": "Mon Oct 19 15:49:29 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "ChrisGPT",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 50,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVATJw2bAAAB-4N.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-19T17:28:56.163130+00:00"
   }
  }
 }
