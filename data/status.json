@@ -1,10 +1,10 @@
 {
  "last_run": {
-  "started": "2026-10-19T17:28:56.163130+00:00",
+  "started": "2026-10-19T20:36:17.499377+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 120
    },
    "add_hawk": {
@@ -24,17 +24,17 @@
    },
    "curl_justin": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 103
    },
    "DaveRBanerjee": {
     "ok": true,
-    "new": 0,
-    "total": 127
+    "new": 1,
+    "total": 128
    },
    "DKokotajlo": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 144
    },
    "dwarkesh_sp": {
@@ -44,7 +44,7 @@
    },
    "jkcarlsmith": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 91
    },
    "Lewis_Bollard": {
@@ -54,7 +54,7 @@
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 112
    },
    "ohlennart": {
@@ -64,27 +64,27 @@
    },
    "sayashk": {
     "ok": true,
-    "new": 0,
-    "total": 114
+    "new": 1,
+    "total": 115
    },
    "testingham": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 125
    },
    "slatestarcodex": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 114
    },
    "s8mb": {
     "ok": true,
-    "new": 8,
-    "total": 340
+    "new": 4,
+    "total": 344
    },
    "random_walker": {
     "ok": true,
-    "new": 4,
+    "new": 0,
     "total": 133
    },
    "sethlazar": {
@@ -94,23 +94,23 @@
    },
    "robertwiblin": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 167
    },
    "deanwball": {
     "ok": true,
-    "new": 6,
-    "total": 364
+    "new": 4,
+    "total": 368
    },
    "nabeelqu": {
     "ok": true,
-    "new": 5,
+    "new": 0,
     "total": 127
    },
    "theobearman": {
     "ok": true,
-    "new": 13,
-    "total": 160
+    "new": 1,
+    "total": 161
    },
    "peterwilderford": {
     "ok": true,
@@ -123,7 +123,7 @@
     "total": 111
    }
   },
-  "new_tweets": 49,
-  "finished": "2026-10-19T17:29:58.446053+00:00"
+  "new_tweets": 11,
+  "finished": "2026-10-19T20:37:14.803155+00:00"
  }
 }

@@ -2168,6 +2168,29 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-18T14:35:04.391088+00:00"
+  },
+  "2112279490667626716": {
+   "id": "2112279490667626716",
+   "url": "https://x.com/sayashk/status/2112279490667626716",
+   "text": "New paper: AI evaluation is a burgeoning field. How can researchers entering the field understand best practices and open problems? \n\nIn our paper, led by @flxcn, we develop a concrete list of open questions and best practices for agent evaluation. We also share recommendations for evaluators, AI companies, policymakers, and more.",
+   "created_at": "Mon Oct 19 20:27:29 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVBSMaCWgAAjG8i.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-19T20:36:17.499377+00:00"
   }
  }
 }

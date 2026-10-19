@@ -3402,6 +3402,27 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2112273575059313066": {
+   "id": "2112273575059313066",
+   "url": "https://x.com/theobearman/status/2112273575059313066",
+   "text": "\"On distillation: the current ~16x US training compute advantage would normally yield a 13-month lead. But we estimate adversarial distillation halves this to around 6.5 months.\"",
+   "created_at": "Mon Oct 19 20:03:59 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "fiiiiiist",
+    "text": "Big new IFP report from @GeorgiaCAdamson, @KonstantinPilz, and me on the US-China AI competition.\n\nWe spent the last 6 months digging into how Chinese AI companies’ access to compute and distillation of American models translate into the current US-China capabilities gap.\n\nThe result is a 23k-word research report, including an interactive analytical model that visualizes changes in the US AI lead under different policy interventions.\n\nOur findings:\n\n1. The US AI lead over China is currently only around 6  months.\n\n2. The US could roughly double this lead, to over a year, using authorities already available to the federal government.\n\n3. On chips: China’s access to AI chips will roughly double over the next year, with chips housed in data centers overseas accounting for roughly half of China’s 2027 compute. \n\n4. On distillation: the current ~16x US training compute advantage would normally yield a 13-month lead. But we estimate adversarial distillation halves this to around 6.5 months.\n\n5. Increasing the lead would have some obvious benefits:\n\n - Give the US broadly a greater cyberdefensive advantage against Chinese threat actors.\n\n - Give US AI companies breathing room to spend more R&D resources on making their systems safer and more secure, without fear of being overtaken by less safety-conscious Chinese competitors.\n\n6. Provide the US government more leverage in negotiations with China about the future of AI.\n\n7. The two most important interventions are:\n\n - For BIS: Create a new end-use control to restrict China’s remote access to training clusters abroad — China’s largest and fastest-growing source of frontier-scale compute.\n\n - For DOJ/FTC: Create a narrow safe harbor to allow US companies to coordinate on countering Chinese adversarial distillation.\n\n8. Both interventions (and all the others we discuss in the report) are things the federal government could do today.\n\n9. To estimate the effects of each policy intervention, we model the US lead as a function of its compute advantage over China and China’s ability to adversarially distill the capabilities of the US frontier.\n\n10. The model makes many simplifying assumptions, but provides a useful way to assess and rank the impact of different policy interventions at a high level.\n\nRead the full report here: https://t.co/7pC9ZKtikx"
+   },
+   "fetched_at": "2026-10-19T20:36:17.499377+00:00"
   }
  }
 }
