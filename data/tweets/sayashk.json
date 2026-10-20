@@ -2191,6 +2191,92 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-19T20:36:17.499377+00:00"
+  },
+  "2112558230509384000": {
+   "id": "2112558230509384000",
+   "url": "https://x.com/sayashk/status/2112558230509384000",
+   "text": "Is it \"weird\" or does he maybe know what he's talking about? Anyway, for those who are open to the idea that there's a well-thought-out AI-as-normal-technology perspective on AI safety and the recent loss-of-control incidents, see my essay with @sayashk, or my interview with Ezra Klein, or the writing of many others with similar views including @joshua_saxe and @natolambert.\nhttps://t.co/sS8OS9LerG",
+   "created_at": "Tue Oct 20 14:55:06 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "random_walker",
+   "rt_author_name": "Arvind Narayanan",
+   "likes": 34,
+   "retweets": 7,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-20T15:39:27.562837+00:00"
+  },
+  "2112557852338335987": {
+   "id": "2112557852338335987",
+   "url": "https://x.com/sayashk/status/2112557852338335987",
+   "text": "🧵New post in my AI series: Can a million parallel agents create superintelligence? TLDR: More agents buy speed, but intelligence gains diminish fast, and much faster than RSI models. Thanks @noahpinion for the encouragement!  1/25",
+   "created_at": "Tue Oct 20 14:53:36 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ramez",
+   "rt_author_name": "Ramez Naam",
+   "likes": 224,
+   "retweets": 35,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVAvZVjaoAA9JTx.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVAvlpyaUAACzcn.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-20T15:39:27.562837+00:00"
+  },
+  "2112537727740834248": {
+   "id": "2112537727740834248",
+   "url": "https://x.com/sayashk/status/2112537727740834248",
+   "text": "As LLMs evolved into agents, earlier best practices no longer serve us well. This new research field needs a field guide, so we wrote one. If you're new to agent evals, please take a look. Seasoned researchers and those interested in steering the community will also find many useful observations. https://t.co/xGAvBCGW4a",
+   "created_at": "Tue Oct 20 13:33:38 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "random_walker",
+   "rt_author_name": "Arvind Narayanan",
+   "likes": 83,
+   "retweets": 15,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVEjN5jWMAEz61q.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-20T15:39:27.562837+00:00"
+  },
+  "2112287528246002176": {
+   "id": "2112287528246002176",
+   "url": "https://x.com/sayashk/status/2112287528246002176",
+   "text": "@flxcn Paper: https://t.co/kN2bWwOiTU  \n\nPost: https://t.co/cZDmZ5TLky   \n\nIt was great collaborating with @flxcn, @steverab, @PKirgis, @nityndg, @RishiBommasani, @DubMagda, @CUdudec, @AnkaReuel, Elham Tabassi, and @random_walker on the paper!",
+   "created_at": "Mon Oct 19 20:59:25 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": true,
+   "reply_to": "sayashk",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 12,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-20T15:39:27.562837+00:00"
   }
  }
 }

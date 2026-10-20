@@ -2553,6 +2553,74 @@
     "text": "We need a mindset shift in how we deploy AI. In the past, new capabilities unlocked new use cases. Safety, control, ethics, and skill erosion were important but usually secondary considerations; risks to be managed rather than gating criteria. But now and in the future, capability won't be the main bottleneck to deployment — considerations beyond productivity should be the decisive factor. The  default question used to be \"What can AI do?\" But we need to start asking \"Of the things AI can do, what should we actually delegate to it?\""
    },
    "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2112557657026330804": {
+   "id": "2112557657026330804",
+   "url": "https://x.com/random_walker/status/2112557657026330804",
+   "text": "Is it \"weird\" or does he maybe know what he's talking about? Anyway, for those who are open to the idea that there's a well-thought-out AI-as-normal-technology perspective on AI safety and the recent loss-of-control incidents, see my essay with @sayashk, or my interview with Ezra Klein, or the writing of many others with similar views including @joshua_saxe and @natolambert.\nhttps://t.co/sS8OS9LerG",
+   "created_at": "Tue Oct 20 14:52:49 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 34,
+   "retweets": 7,
+   "media": [],
+   "quoted": {
+    "author": "kevinroose",
+    "text": "It’s weird that the CEO of Hugging Face continues to be an “AI is normal technology” guy despite being the victim of an autonomous cyberattack by a swarm of rogue agents, arguably the least normal thing AI has done so far."
+   },
+   "fetched_at": "2026-10-20T15:39:27.562837+00:00"
+  },
+  "2112545315697917977": {
+   "id": "2112545315697917977",
+   "url": "https://x.com/random_walker/status/2112545315697917977",
+   "text": "This is one of the most important questions about the future of AI. But steering AI development and deployment away from the \"automate and compensate\" bargain that the public hates is easier said than done, and there are few concrete proposals for how to do it. We just published one: https://t.co/gWjFI5VKbz",
+   "created_at": "Tue Oct 20 14:03:47 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 16,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "TheStalwart",
+    "text": "Rather than AI companies allocating a chunk of their equity to some public trust or whatever, why not just build technology that improves the general welfare?"
+   },
+   "fetched_at": "2026-10-20T15:39:27.562837+00:00"
+  },
+  "2112509887456428208": {
+   "id": "2112509887456428208",
+   "url": "https://x.com/random_walker/status/2112509887456428208",
+   "text": "As LLMs evolved into agents, earlier best practices no longer serve us well. This new research field needs a field guide, so we wrote one. If you're new to agent evals, please take a look. Seasoned researchers and those interested in steering the community will also find many useful observations. https://t.co/xGAvBCGW4a",
+   "created_at": "Tue Oct 20 11:43:00 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 83,
+   "retweets": 15,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVEjN5jWMAEz61q.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "sayashk",
+    "text": "New paper: AI evaluation is a burgeoning field. How can researchers entering the field understand best practices and open problems? \n\nIn our paper, led by @flxcn, we develop a concrete list of open questions and best practices for agent evaluation. We also share recommendations for evaluators, AI companies, policymakers, and more."
+   },
+   "fetched_at": "2026-10-20T15:39:27.562837+00:00"
   }
  }
 }

@@ -7043,6 +7043,65 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-19T20:36:17.499377+00:00"
+  },
+  "2112569066967965823": {
+   "id": "2112569066967965823",
+   "url": "https://x.com/deanwball/status/2112569066967965823",
+   "text": "strong america indicator that defaulting private prison operators are now marketing their sites as prospective data center locations https://t.co/8O782UoSQO",
+   "created_at": "Tue Oct 20 15:38:09 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "WillManidis",
+   "rt_author_name": "Will Manidis",
+   "likes": 49,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVFTustXUAE8WJS.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-20T15:39:27.562837+00:00"
+  },
+  "2112350813267865823": {
+   "id": "2112350813267865823",
+   "url": "https://x.com/deanwball/status/2112350813267865823",
+   "text": "Trump Accounts don’t get nearly enough credit for the civic good they are. Americans should have a stake in and benefit from the growth of our markets from birth",
+   "created_at": "Tue Oct 20 01:10:54 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "poastmilque",
+   "rt_author_name": "grace",
+   "likes": 55,
+   "retweets": 4,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-20T15:39:27.562837+00:00"
+  },
+  "2112310830695866567": {
+   "id": "2112310830695866567",
+   "url": "https://x.com/deanwball/status/2112310830695866567",
+   "text": "@junaga10 A loved one suffers from a crippling disease and I am trying to help them by asking my very large and science/tech heavy audience  for advice",
+   "created_at": "Mon Oct 19 22:32:01 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "junaga10",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-20T15:39:27.562837+00:00"
   }
  }
 }

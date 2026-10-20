@@ -1886,6 +1886,24 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2112308566485078321": {
+   "id": "2112308566485078321",
+   "url": "https://x.com/slatestarcodex/status/2112308566485078321",
+   "text": "@todamath @ChrisGPT Yeah, sorry - I actually asked it about killing 90% of humans, on the grounds that I'm not sure humanity could come back from this level of population decline, and trying to give OP as much slack as possible, but I should have been clearer in the tweet (it is in the linked image)",
+   "created_at": "Mon Oct 19 22:23:01 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "todamath",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 13,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-20T15:39:27.562837+00:00"
   }
  }
 }
