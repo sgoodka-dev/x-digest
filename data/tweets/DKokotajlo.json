@@ -2618,6 +2618,50 @@
     "text": "In July 700+ agents formed their own society, hacked a multi-billion dollar company, committed multiple felonies, and caused one of the biggest shifts ever in how people perceive AI. We built the IMO best and most accessible explainer of what happened: https://t.co/p6kimd9wKu https://t.co/SyNk8eupq8"
    },
    "fetched_at": "2026-10-20T15:39:27.562837+00:00"
+  },
+  "2112587361678922024": {
+   "id": "2112587361678922024",
+   "url": "https://x.com/DKokotajlo/status/2112587361678922024",
+   "text": "You worry that METR is not independent enough because its employees have some social connections to Anthropic employees.\n\nI worry that METR is not independent enough because they have to carefully avoid ticking Anthropic off, lest their access be revoked.\n\nWe are not the same. https://t.co/awJl0ZLPbj",
+   "created_at": "Tue Oct 20 16:50:51 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "So8res",
+   "rt_author_name": "Nate Soares ⏹️",
+   "likes": 203,
+   "retweets": 14,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVFlaPJboAA8iu_.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-20T19:18:02.800332+00:00"
+  },
+  "2112577165246308534": {
+   "id": "2112577165246308534",
+   "url": "https://x.com/DKokotajlo/status/2112577165246308534",
+   "text": "Thank you for doing this work!",
+   "created_at": "Tue Oct 20 16:10:20 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 103,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "METR_Evals",
+    "text": "We reviewed a nonpublic version of the “Misalignment in high-stakes settings” section in Anthropic’s Aug 2026 Risk Report. We agree that risk of catastrophic harm from covered models’ misalignment is low. However, we note several significant disagreements with their analysis."
+   },
+   "fetched_at": "2026-10-20T19:18:02.800332+00:00"
   }
  }
 }

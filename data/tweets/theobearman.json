@@ -3485,6 +3485,72 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-20T15:39:27.562837+00:00"
+  },
+  "2112579841052791068": {
+   "id": "2112579841052791068",
+   "url": "https://x.com/theobearman/status/2112579841052791068",
+   "text": "The government expressly recognizes that the Secretary of State could delegate these functions to another UKG person, such as UKAISI.\n\nhttps://t.co/0C7IBI5Lcj https://t.co/kJq2Orz7Rw",
+   "created_at": "Tue Oct 20 16:20:58 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "theobearman",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVFib-uW4AARbzm.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVFib9_XsAEo0eb.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVFib9bXYAAiwJr.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-20T19:18:02.800332+00:00"
+  },
+  "2112579837214814355": {
+   "id": "2112579837214814355",
+   "url": "https://x.com/theobearman/status/2112579837214814355",
+   "text": "The UK Government has laid proposed amendments to the Cyber Security and Resilience Bill (currently being scrutinized in the Lords) which would give the Secretary of State new powers to make regulations in relation to the management of a (risk of a) loss-of-control incident related to an AI agent that compromises computer systems supporting critical national infrastructure and other essential services.\n\nThese new regulations could include:\n\n-  Requiring identification and investigation of such incidents;\n- Preservation of evidence;\n- Identifying, testing, and verifying mitigations and sharing assessments relating to them;\n- Appointing inspectors who can enter, inspect, and search premises, seize and retain documents or other information, and conduct tests or interviews;\n- Enforcement for non-compliance with regulatory requirements such as those above, potentially including financial penalties; and\n- Sharing information between the Secretary of State and regulatory authorities or with other persons (including outside the UK).\n\nhttps://t.co/UaVaAGMHcZ\n\nhttps://t.co/2f3DQVX0uM",
+   "created_at": "Tue Oct 20 16:20:57 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVFiOPDW4AA_Plj.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVFiOO7XIAEZ9Sv.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVFiOPGXoAAFybV.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVFiOPKW0AAeW4O.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-20T19:18:02.800332+00:00"
   }
  }
 }

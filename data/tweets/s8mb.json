@@ -6941,6 +6941,68 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-20T15:39:27.562837+00:00"
+  },
+  "2112614265890971783": {
+   "id": "2112614265890971783",
+   "url": "https://x.com/s8mb/status/2112614265890971783",
+   "text": "\"the Tribunal determined the open market rent was\"\n\n...",
+   "created_at": "Tue Oct 20 18:37:46 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 43,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "mtpennycook",
+    "text": "This Labour government’s transformative Renters’ Rights Act empowers private renters to challenge unreasonable rent increases.\n\nIf a tenant believes a proposed rent increase is above the open-market rent, they can refer the matter to the First-tier Tribunal.\n\nIn a recent case in Manchester where the Landlord proposed an increase in rent from £1,650 per calendar month to £1,700, the Tribunal determined the open market rent was actually £1,450 per calendar month.\n\nWe’re standing up for renters and our reforms are working.\nhttps://t.co/wX1g3r33mV"
+   },
+   "fetched_at": "2026-10-20T19:18:02.800332+00:00"
+  },
+  "2112572736723657066": {
+   "id": "2112572736723657066",
+   "url": "https://x.com/s8mb/status/2112572736723657066",
+   "text": "I always thought that the ancient Romans were tolerant about sexuality, until the rise of puritanical Christianity. Reading Kyle Harper, I learnt that this picture is not exactly false, but it is extraordinarily misleading:\n\nhttps://t.co/PJO8UTGgiK\n\n- Sexual penetration of a free Roman man was severely punished, possibly by death. Consenting to penetration was also seriously punished. Lesbianism was not criminalised, but was regarded with contempt.\n\n- The one great subject of permissiveness was the penetration of enslaved people. Although relatively few people owned slaves, many prostitutes were enslaved and prostitution was ubiquitous, so coerced sex was widespread.\n\n- In some parts of the empire, many married women probably seem to have worn face veils in public.\n\n- There was not even theoretically a norm of male fidelity: although wives were required to be faithful to their husbands, the inverse was not even aspirationally true. \n\n- Early Christianity wrought a kind of revolution on ancient morality. All forms of sexuality apart from procreative sex within monogamous marriage were relentlessly and violently condemned, and even marital sex was allowed only rather grudgingly. In effect, the Christians extended to men the restrictions that had previously applied only to women.\n\n- To a limited extent, they also extended the protections previously enjoyed by free men to other groups of people. Although the early Christian record on slavery is mostly very poor, they did introduce the first laws against the forcible prostitution of slaves. Transgressors were to be arrested and sent to the public mines, ‘which is’, the law ran, ‘less of a punishment than that of a woman who is seized by a pimp and compelled to endure the filth of an intercourse that she did not will’.\n\nIt is not clear how much behaviour actually changed in practice – the Christians were never able to get people to behave exactly as they wanted. But the change in official norms was revolutionary, and not quite the revolution I expected.",
+   "created_at": "Tue Oct 20 15:52:44 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "SCP_Hughes",
+   "rt_author_name": "Samuel Hughes",
+   "likes": 126,
+   "retweets": 18,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-20T19:18:02.800332+00:00"
+  },
+  "2112572725881340051": {
+   "id": "2112572725881340051",
+   "url": "https://x.com/s8mb/status/2112572725881340051",
+   "text": "@SCP_Hughes This is a fascinating theory about the origins of monogamy. https://t.co/y1aZZUwIaR",
+   "created_at": "Tue Oct 20 15:52:42 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "SCP_Hughes",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 26,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVFdmBRWEAAHtYU.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-20T19:18:02.800332+00:00"
   }
  }
 }

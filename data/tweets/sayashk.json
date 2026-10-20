@@ -2277,6 +2277,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-20T15:39:27.562837+00:00"
+  },
+  "2112578237109063942": {
+   "id": "2112578237109063942",
+   "url": "https://x.com/sayashk/status/2112578237109063942",
+   "text": "At this moment in Q4 2026 it's net good for cyber-defense that we have open weights models that are good at dual use cybersecurity tasks.\n\n- If there's been an attacker productivity bump due to AI 2022-26 it's small and close to being in the statistical noise\n- In contrast, there's a ton of measureable progress in defenders using models to find and fix bugs in highly leveraged codebases\n- Many defenders have struggled to get access to the best unguardrailed closed weights cyber models\n- ... and when they do the tokens are dramatically more expensive than open weights tokens at the same cyber intelligence level; CISO orgs are cost centers and these costs are often prohibitive\n- Ultimately we'll need open weights models on premise on air gapped networks and on small devices where they can detect breaches and attacker implants\n- We'll also need open weights in situations where defenders can't send secret data to the closed weights model providers (who have security problems of their own!)\n\nAs long as these conditions persist, we should be pushing for diffusion of frontier dual use open weights cyber capabilities, because they net benefit defenders.",
+   "created_at": "Tue Oct 20 16:14:36 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "joshua_saxe",
+   "rt_author_name": "Joshua Saxe",
+   "likes": 29,
+   "retweets": 11,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-20T19:18:02.800332+00:00"
   }
  }
 }

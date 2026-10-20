@@ -2365,6 +2365,125 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-19T20:36:17.499377+00:00"
+  },
+  "2112585682069651540": {
+   "id": "2112585682069651540",
+   "url": "https://x.com/DaveRBanerjee/status/2112585682069651540",
+   "text": "It's also worth noting that by the time Rubin and Feynman clusters come online, the difference between the best US chips and the best Chinese chips will be MASSIVE\n\nThis means that the % of compute that China will have will increasingly be dominated by renting from US cloud providers\n\nSo while it already is important enough to export-control cloud compute, it will become even more important",
+   "created_at": "Tue Oct 20 16:44:11 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "DaveRBanerjee",
+    "text": "New report from @iapsAI on Cloud Compute export controls!!!\n\nTLDR:\n1. At least 60% of China's compute is coming from renting compute from US cloud providers\n2. China isn't able to buy SOTA chips (Blackwells and Rubins), but they can get around this by renting from the cloud\n3. The US needs to block this loophole to maintain our lead in AI\n4. The solution is for the Bureau of Industry and Security (BIS) to publish a cloud compute rule\n5. BIS could use its existing authorities to do this, or we could pass the Remote Access Security Act (RASA)"
+   },
+   "fetched_at": "2026-10-20T19:18:02.800332+00:00"
+  },
+  "2112585307325390876": {
+   "id": "2112585307325390876",
+   "url": "https://x.com/DaveRBanerjee/status/2112585307325390876",
+   "text": "https://t.co/Tt7yas1BFE",
+   "created_at": "Tue Oct 20 16:42:41 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "DaveRBanerjee",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-20T19:18:02.800332+00:00"
+  },
+  "2112585305307976050": {
+   "id": "2112585305307976050",
+   "url": "https://x.com/DaveRBanerjee/status/2112585305307976050",
+   "text": "New report from @iapsAI on Cloud Compute export controls!!!\n\nTLDR:\n1. At least 60% of China's compute is coming from renting compute from US cloud providers\n2. China isn't able to buy SOTA chips (Blackwells and Rubins), but they can get around this by renting from the cloud\n3. The US needs to block this loophole to maintain our lead in AI\n4. The solution is for the Bureau of Industry and Security (BIS) to publish a cloud compute rule\n5. BIS could use its existing authorities to do this, or we could pass the Remote Access Security Act (RASA)",
+   "created_at": "Tue Oct 20 16:42:41 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVFoAszXkAA__QN.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-20T19:18:02.800332+00:00"
+  },
+  "2112576987986567626": {
+   "id": "2112576987986567626",
+   "url": "https://x.com/DaveRBanerjee/status/2112576987986567626",
+   "text": "@jammastergirish @redwood_ai Congrats Girish!!",
+   "created_at": "Tue Oct 20 16:09:38 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "jammastergirish",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-20T19:18:02.800332+00:00"
+  },
+  "2112576443721093411": {
+   "id": "2112576443721093411",
+   "url": "https://x.com/DaveRBanerjee/status/2112576443721093411",
+   "text": "https://t.co/d09SabtR18",
+   "created_at": "Tue Oct 20 16:07:28 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "DaveRBanerjee",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-20T19:18:02.800332+00:00"
+  },
+  "2112576440940015794": {
+   "id": "2112576440940015794",
+   "url": "https://x.com/DaveRBanerjee/status/2112576440940015794",
+   "text": "Applications are open for my Pivotal stream, for the Q1 2027 cohort (Jan - Apr 2027)\n\nIf you’re interested in preventing extreme power concentration, apply to my stream!\n\nI will be working with fellows on automated oversight (ensuring Congress can oversee an AGI-enabled executive branch) and writing a \"Plan A\" for executive branch AGI deployment and use!",
+   "created_at": "Tue Oct 20 16:07:27 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "pivotal_org",
+    "text": "Applications are open for Pivotal’s Q1 2027 Research Fellowship 💥\n\nWork with mentors from @AnthropicAI , @GoogleDeepMind, @AISecurityInst, @ApolloResearch, and more.\n\n📍 15 weeks in London (18th Jan - 30th Apr).\n💸 £15-18k stipend, travel and housing support  \n\nApply by Nov 1: https://t.co/uVlCCSXiS7 ↓"
+   },
+   "fetched_at": "2026-10-20T19:18:02.800332+00:00"
   }
  }
 }
