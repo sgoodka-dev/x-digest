@@ -2123,6 +2123,24 @@
     "text": "New piece by myself and @lawhsw on what philosophy of science can tell us about AI development. Models are currently great at verifiable tasks, because they start out with a bunch of relevant context and domain knowledge, and can Try Stuff Until It Works; then we can reinforce that Stuff till they're extremely good. But in most areas, it isn't easy to check if It Works. So will the success of models be isolated to verifiable domains? \n\nWe argue not. Becoming competent in any area requires two things: a map of the relevant territory, and an ability to navigate it. Pretraining teaches the former, and RL teaches the latter. Why expect RL to transfer? As Popper argued, the basic pattern of navigation — proposing ideas, finding faults, trying alternatives — is common to all endeavours involving the growth of knowledge.\n\nSo training on maths and code doesn't just teach models maths and code. It teaches reusable ways of searching for procedures that transform an initial state into a desired one. Getting from a blank Lean document to a completed proof obviously requires different procedures from turning a rough draft into a great essay. But the abstractions learned in discovering the former make the latter easier to learn, provided pretraining has given the model enough knowledge of the new domain.\n\n\"A verifier determines what earns a reward; it underdetermines what a model learns in trying to earn it\". Or, verifiability tells us where capabilities are easiest to train, not the limits of what that training can teach.\n\nRead it! https://t.co/CTINnVlAs4"
    },
    "fetched_at": "2026-10-20T19:18:02.800332+00:00"
+  },
+  "2112935001256075374": {
+   "id": "2112935001256075374",
+   "url": "https://x.com/mentalgeorge/status/2112935001256075374",
+   "text": "@sebkrier so i agree this is a totally plausible explanation. One question is when (and how) do you expect ai companies to stop doing their training this way?\n\neg maybe we just barrell through more and more of these until some dumbass persistent model pulls a gavrilo princep",
+   "created_at": "Wed Oct 21 15:52:15 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "sebkrier",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
   }
  }
 }

@@ -1722,6 +1722,27 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-20T19:18:02.800332+00:00"
+  },
+  "2112665538182959223": {
+   "id": "2112665538182959223",
+   "url": "https://x.com/ohlennart/status/2112665538182959223",
+   "text": "AI accelerating AI exhibit #44123",
+   "created_at": "Tue Oct 20 22:01:30 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 29,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "SemiAnalysis_",
+    "text": "BREAKING NEWS🚨: NVIDIA ENGINEERS AT THE PYTORCH CONFERENCE JUST SAID THAT THE SPEED OF OPTIMIZING CUDA SOFTWARE WITH FRONTIER AI MODELS HAS INCREASED RAPIDLY \n\nOctober 2025 to August 2026: 5x in 1 year with expert human optimization\n\nSeptember 2026 to October 2026: 2x in 1 month with AI assistance\n\nOctober 2026: 1.5x with AI orchestration + MegaKernels"
+   },
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
   }
  }
 }

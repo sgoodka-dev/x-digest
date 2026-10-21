@@ -2662,6 +2662,65 @@
     "text": "We reviewed a nonpublic version of the “Misalignment in high-stakes settings” section in Anthropic’s Aug 2026 Risk Report. We agree that risk of catastrophic harm from covered models’ misalignment is low. However, we note several significant disagreements with their analysis."
    },
    "fetched_at": "2026-10-20T19:18:02.800332+00:00"
+  },
+  "2112664891656147351": {
+   "id": "2112664891656147351",
+   "url": "https://x.com/DKokotajlo/status/2112664891656147351",
+   "text": "Based https://t.co/hGTn6OdHeA",
+   "created_at": "Tue Oct 20 21:58:56 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "alexolegimas",
+   "rt_author_name": "Alex Imas",
+   "likes": 1191,
+   "retweets": 43,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVBnBEcW0AEjE6p.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112635190740934752": {
+   "id": "2112635190740934752",
+   "url": "https://x.com/DKokotajlo/status/2112635190740934752",
+   "text": "My office is hiring an Artificial Intelligence Policy Fellow to help shape AI legislation and track AI developments in the private sector as Congress works to keep pace with the technology. \n\nExperience in AI, policy research, or national security is encouraged.",
+   "created_at": "Tue Oct 20 20:00:54 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "RepNateMoran",
+   "rt_author_name": "Congressman Nathaniel Moran",
+   "likes": 242,
+   "retweets": 41,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112634989569552594": {
+   "id": "2112634989569552594",
+   "url": "https://x.com/DKokotajlo/status/2112634989569552594",
+   "text": "Very important work. Generally, AI company epistemics wrt estimating risk seem poor. I'd really like this to improve as fast as possible. Some specific things that seem good:\n- Quantified uncertainty (instead of \"low\" / \"very low\"). In airplane safety \"very low\" would mean something like less than 1 in a billion per flight hour. You are clearly nowhere near this but many people will be very confused about what you mean. I doubt people are close to on the same page even internally about near term level of catastrophic risk incurred! \n- Individual AI company employees giving their own, personal views on the risk report, e.g. as an appendix.   \n- Real explanations of your views. The alignment evals are not iid + the models are getting eval aware. So where do your views actually come from? \n- The risk report reading less like \"an argument that risk is low\" and more like \"a neutral evaluation of how risky current development is\". If it has to be an argument risk is low, you should also have your alignment team publish a red team arguing the opposite direction. \n\nIf some of these can't happen publicly, at the very least I hope it can happen internally.",
+   "created_at": "Tue Oct 20 20:00:07 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "thlarsen",
+   "rt_author_name": "Thomas Larsen",
+   "likes": 122,
+   "retweets": 8,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
   }
  }
 }

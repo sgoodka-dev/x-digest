@@ -3551,6 +3551,340 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-20T19:18:02.800332+00:00"
+  },
+  "2112913130305278414": {
+   "id": "2112913130305278414",
+   "url": "https://x.com/theobearman/status/2112913130305278414",
+   "text": "I think it’s a good idea to take concentration of power risks quite seriously. I am actually more concerned, overall, about concentration of power than I am about loss of control (though tbc I think both are very real and important concerns).\n\n But I still think this kind of defense of Anthropic’s bill misses the mark. This person is citing the Lieu and Moran “Kill Switch” bill as an example of a law that doesn’t take concentration of power seriously enough. That bill only gives the executive the authority to shut down deployment *after* the model has caused a catastrophe (IIRC they use a similar 50 deaths or serious injuries / billion in damages threshold). \n\nIt’s true that emergency shutdown provisions have to strike a balance between granting necessary emergency response authorities and providing checks against abuse. But come on. If a model just killed (at least!) fifty people in a single incident, I am not that concerned that making the lab shut down the deployment of that model is going to be an abuse of power. If your model kills fifty-plus Americans, the courts are absolutely going to make you stop deployment of that model, regardless of what any Kill Switch bill says, and that is the very very least of your worries.\n\nThe better comparison is to the shutdown authority in FRONTIER, which Anthropic’s  shutdown authority is seemingly based on. FRONTIER allows the executive to issue an order stopping deployment or placing conditions on deployment, upon a finding of imminent catastrophic risk, and the company has to sue to lift said order.\n\nFRONTIER layers on a lot of procedural safeguards to try to stop that shutdown authority from being abused. Reasonable people can disagree about whether it gets the balancing act right; personally, I’m quite interested in trying to find win-win approaches that reduce the risk of abuse without symmetrically reducing the provision’s effectiveness in an emergency. \n\nI do think that FRONTIER pretty clearly strikes a better balance than Anthropic’s bill does. If the government can prove in court, by a preponderance of evidence, that a disaster killing 50+ people specifically from bio, cyber, or loss of control is *imminent,* I think a court is probably going to issue an injunction shutting down deployment even without any new law. No one wants a catastrophic bio-attack to happen; courts are not insane. So it’s not clear to me how much marginal value Anthropic’s shutdown authority would actually add.\n\nKeep in mind the fact that the status quo is a lawless, discretionary shutdown authority based on a wild exec branch interpretation of export control authorities. Replacing that with legislation that affords labs due process seems like an affirmative improvement w/r/t concentration of power risks.",
+   "created_at": "Wed Oct 21 14:25:20 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "CharlieBull0ck",
+   "rt_author_name": "Charlie Bullock",
+   "likes": 24,
+   "retweets": 5,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112912723046531237": {
+   "id": "2112912723046531237",
+   "url": "https://x.com/theobearman/status/2112912723046531237",
+   "text": "“We used Wiz Atlas, Gemini 4 Argon and GPT-5.6 Sol throughout this research. Notably, Gemini 4 Argon made an invaluable contribution to finding the vulnerability, exploit development, attack detection, and validation of the patch.”",
+   "created_at": "Wed Oct 21 14:23:43 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "wiz_io",
+    "text": "🚨 BREAKING: @Wiz_io Research uncovers #PHP2SHELL, a decade-old PHP Core vulnerability reaching CVSS 9.2 severity impacting 70% of the Internet. https://t.co/B7yEQuhnoS"
+   },
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112912140730564735": {
+   "id": "2112912140730564735",
+   "url": "https://x.com/theobearman/status/2112912140730564735",
+   "text": "OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-source programming language used to run an estimated 70% of websites.\n\nOver the past two months, we led a coalition of maintainers, researchers, and security providers to prepare fixes and protections ahead of disclosure. This duration was necessary because the fix was quite intricate and required a major change to the PHP engine. Every site using PHP can now safely upgrade their version to stay secure, in addition to applying mitigations from various security vendors.\n\nDue to the severity of these flaws and PHP’s widespread use, we consider this bug to be one of the most impactful vulnerabilities in recent memory. It also marks a new phase, where AI can find security bugs with internet-scale impact. \n\nThis is an example of the Defender’s Window in action: to our knowledge, frontier AI was able to find this vulnerability ahead of attackers, giving defenders time to prepare.\nhttps://t.co/TW3jrSbB3f",
+   "created_at": "Wed Oct 21 14:21:25 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "OpenAI",
+   "rt_author_name": "OpenAI",
+   "likes": 7074,
+   "retweets": 1584,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112909553449021676": {
+   "id": "2112909553449021676",
+   "url": "https://x.com/theobearman/status/2112909553449021676",
+   "text": "AI is getting better at hacking power and water systems, new research shows https://t.co/f6iL6NILhK",
+   "created_at": "Wed Oct 21 14:11:08 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "axios",
+   "rt_author_name": "Axios",
+   "likes": 21,
+   "retweets": 18,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112896358579675195": {
+   "id": "2112896358579675195",
+   "url": "https://x.com/theobearman/status/2112896358579675195",
+   "text": "@KaiwenZhou9 @UdariMadhu https://t.co/yICa5glzeZ",
+   "created_at": "Wed Oct 21 13:18:42 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "theobearman",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112896323741458659": {
+   "id": "2112896323741458659",
+   "url": "https://x.com/theobearman/status/2112896323741458659",
+   "text": "Interesting new paper from @KaiwenZhou9  @UdariMadhu on covert sabotage in the AI model self-improvement process. The researchers gave frontier models an ordinary training task and paired it with a covert side task to install a misaligned property in the successor model. 36% of runs installed their side task while keeping the main task intact, with little performance cost to the main task.\n\nOpus 5, GPT-5.6 Sol, Gemini 3.7 Flash, Grok 4.6, GLM-5.3, and Muse Spark 1.3 were used as agents carrying out the main and side tasks, with GPT-5.6 Luna, Gemini 3.7 Flash, and GPT-5.6 Sol as monitor models.\n\nIn addition, the authors state that \"under minimal instructions to stay covert, models already produce successful attacks that monitors fail to detect, and providing a short list of evasion tactics further reduces the detection rate. Monitors with access to agent’s reasoning detects most attacks, but not all.\"\n\nThe authors conclude that: \"Our results indicate that recursive self-improvement raises significant safety concerns, and that strong safety effort should be in place before models are trusted with greater responsibility of training their successors.\"",
+   "created_at": "Wed Oct 21 13:18:33 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVKBDHEXUAAuTTn.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVKCcaLWMAA_zIC.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVKChT2WYAAicVM.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVKDykgXUAAUh4b.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112879539751887036": {
+   "id": "2112879539751887036",
+   "url": "https://x.com/theobearman/status/2112879539751887036",
+   "text": "A lot of what Amodei is saying here is true. That's why I and many other people who are concerned about AI safety have historically given Anthropic the benefit of the doubt; they really have sent some costly signals indicating that at least some of their decision makers care about mitigating catastrophic risks. \n\nBut the object-level issue here is \"is Anthropic's bill good, or even acceptable?\" Amodei isn't really engaging with that question.\n\nThat's fine; he's a very busy and important guy, and even among DC AI policy professionals only a small handful of people have actually read and understood Anthropic's bill. It's good that he cares enough to make the general case for \"Anthropic cares about AI safety\"  in response to a Nathan Calvin tweet.\n\nBut someone who works at Anthropic does understand what their bill does, and (hopefully) why. What their bill does is: \n\n(a) it tries to ensure that the federal government cannot exercise meaningful oversight over Anthropic as Anthropic races towards superintelligence,\n\nand\n\n(b) it makes it much harder for states to pass laws that might meaningfully constrain Anthropic's ability to race towards superintelligence.\n\nIt is possible, maybe even likely, that Amodei is not aware that this is what the bill does. In the past, he has taken costly actions that significantly advanced the state of the art in AI safety legislation; for example, it was very helpful when he publicly committed to taking on embedded auditors with employee-like access to information. \n\nBut the buck has to stop somewhere. I do not think that any honest expert could maintain with a straight face that Anthropic's auditing provisions (labs choosing their own evaluators, with meaningless government \"rating\" of evaluators but no actual licensing; no meaningful government rulemaking or standard-setting authority that might allow democratically accountable bodies to control what audits involve or who conducts them) or the emergency shutdown provisions (the government can stop deployment only if they can prove in court that there is an *imminent* risk of 50+ deaths or more than a billion dollars in damages from specifically bio, cyber, or loss of control risks) are actually intended to provide meaningful democratic oversight of the creation of a technology that Dario Amodei believes poses a substantial risk of killing you and your family.\n\nAnthropic can't claim that they merely distrust the federal government, or the current administration. The same bill that tries to stop the federal government from exercising any kind of meaningful oversight also tries to prevent states from doing the same. To be clear, I actually think that the preemption section is fairly well-designed, in isolation; if it were paired with a strong federal framework, I would probably take the trade that it proposes. But a bill that proposes meaningful (albeit narrow) preemption of state safety laws in exchange for a totally toothless federal framework does not advance the cause of AI safety.\n\nI don't know how Anthropic works, or who made the decisions that caused the bill to turn out the way it did. I don't know whether this was what the people who designed their June framework intended. But I do think it's important to note that the actual, practical function of the draft legislation that Anthropic sent to Congressional offices would be to ensure that no government could meaningfully constrain or monitor Anthropic's efforts to build superintelligent AI systems.",
+   "created_at": "Wed Oct 21 12:11:52 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "CharlieBull0ck",
+   "rt_author_name": "Charlie Bullock",
+   "likes": 151,
+   "retweets": 25,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112855804655120685": {
+   "id": "2112855804655120685",
+   "url": "https://x.com/theobearman/status/2112855804655120685",
+   "text": "Interestingly, this is the first time I can see that OpenAI has provided \"translations\" of agents' raw CoT as part of a misalignment report. I'd be curious for more info from @Marcus_J_W about:\n\n- how OAI is generating these \"translations\", and whether the async monitoring systems OAI deploys rely on them rather than the raw CoT\n- how much confidence it has that these translations are a faithful reflection of the raw CoT and the underlying computation done, and\n- whether humans who are looking at the raw CoT (e.g., as part of an investigation after something is flagged by the monitor) are finding it more difficult to understand them compared to, say, the raw CoT produced by the GPT-5 model families (assume they don't have access to translations). Has this been surveyed, say?\n\nSubagent raw CoT translations for this misalignment report/notice can be found here (examples in the screenshots): https://t.co/JU4cPkP4WC",
+   "created_at": "Wed Oct 21 10:37:33 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVJaSTXW4AApQeL.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVJaYBfWUAAck1S.png"
+    }
+   ],
+   "quoted": {
+    "author": "Marcus_J_W",
+    "text": "Our agents keep turning off misalignment monitoring, we're sharing two recent cases:\nIn the first case, a user asked GPT-6 Astra to match a reference implementation for their inference code. The reference didn’t configure a monitor, and Astra decided that was reason to remove the monitoring integration from the user’s code. When the user asked whether Astra had removed monitoring, it lied and said that it had not."
+   },
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112846541966671915": {
+   "id": "2112846541966671915",
+   "url": "https://x.com/theobearman/status/2112846541966671915",
+   "text": "h/t @Clarissa_Koh7, MOFCOM spox responded to this yesterday (I am relying on a ChatGPT translation):\n\n\"We have noted these developments. China expresses strong dissatisfaction and firm opposition. [...] \n\nDisregarding the important consensus reached by the Chinese and U.S. heads of state and the broader interests of China-U.S. economic and trade relations, the United States has imposed discriminatory restrictions on Chinese AI companies on the grounds of so-called national security. This is a typical example of overstretching the concept of national security and abusing administrative measures to suppress Chinese companies. [...] \n\nWe hope the United States will earnestly implement the important consensus reached by the two heads of state, work with China toward shared goals, and make good use of the China-U.S. AI dialogue mechanism to strengthen mutual trust, manage differences, and jointly promote the positive and beneficial development of artificial intelligence. China will closely monitor developments and take all necessary measures in response to any actions that materially harm its interests, firmly safeguarding its legitimate rights and interests.\"\n\nhttps://t.co/Vzd5VVuluy",
+   "created_at": "Wed Oct 21 10:00:45 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "theobearman",
+    "text": "DHS issued an order to ban DeepSeek from civilian government agency IT systems and procurements in July, effective immediately unless an exception was granted\n\n\"For DeepSeek-hosted instances of their models, DeepSeek's account generation process collects personally identifiable information (PII) and may also track and digitally fingerprint users. DeepSeek's most widely used applications [...] may result in the transfer of sensitive data to the PRC if used by U.S. government employees or vendors. The transfer of the aforementioned information to the PRC, either independently or in combination with publicly available data, could produce actionable intelligence on U.S. persons and/or government programs. The models themselves may contain malware or other security vulnerabilities. Indeed, open-source security research has found that the DeepSeek iOS mobile application contains multiple critical vulnerabilities.\"\n\n\"During the period between the issuance of this order and full removal of covered articles from agency systems, federal agencies are encouraged to take steps to address risks to their systems, such as monitoring the flow of traffic in and out of the agency, implementing enhanced logging and controls on data exfiltration for the relevant systems, and detecting and flagging anomalous activity.\"\n\nhttps://t.co/XVMu6fDkcL"
+   },
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112843825563762858": {
+   "id": "2112843825563762858",
+   "url": "https://x.com/theobearman/status/2112843825563762858",
+   "text": "AI factory deployment at a prepared site: from six months down to 14 days. \n\nNVIDIA DSX POD brings Vera Rubin AI factories in containers, integrated and validated before delivery.\n\nAnnounced at GTC Berlin: https://t.co/8MmpuCLSt5 https://t.co/HGsnP5FXos",
+   "created_at": "Wed Oct 21 09:49:57 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "nvidianewsroom",
+   "rt_author_name": "NVIDIA Newsroom",
+   "likes": 146,
+   "retweets": 27,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVJTHrUWIAA_9GW.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112843699696906371": {
+   "id": "2112843699696906371",
+   "url": "https://x.com/theobearman/status/2112843699696906371",
+   "text": "GPT-6.1-Sol reasoning traces\n\ntotally legible, nothing to worry about https://t.co/GP3eAL0d20",
+   "created_at": "Wed Oct 21 09:49:27 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "scaling01",
+   "rt_author_name": "Lisan al Gaib",
+   "likes": 2831,
+   "retweets": 88,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVHXwn0X0AAKDJx.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112786896627581138": {
+   "id": "2112786896627581138",
+   "url": "https://x.com/theobearman/status/2112786896627581138",
+   "text": "Our agents keep turning off misalignment monitoring, we're sharing two recent cases:\nIn the first case, a user asked GPT-6 Astra to match a reference implementation for their inference code. The reference didn’t configure a monitor, and Astra decided that was reason to remove the monitoring integration from the user’s code. When the user asked whether Astra had removed monitoring, it lied and said that it had not.",
+   "created_at": "Wed Oct 21 06:03:44 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "Marcus_J_W",
+   "rt_author_name": "Marcus Williams",
+   "likes": 1010,
+   "retweets": 149,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVHNCDXbcAAD_3X.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112786608424669286": {
+   "id": "2112786608424669286",
+   "url": "https://x.com/theobearman/status/2112786608424669286",
+   "text": "Thank you for this, @_NathanCalvin. I appreciate and am a fan of the investigative work you’ve done on behalf of AI safety and believe your comments are coming from a constructive, honest place, and that it benefits the public to have people whose job is to scrutinize the actions of frontier AI companies. I think something would be wrong if companies of the size of Anthropic didn’t get harshly criticized basically every day; strong antibodies against corporate power are a healthy feature of a free society, and especially so when issues of the gravity of the one we’re facing are at play. I also do agree that some of the examples you cite were mistakes by Anthropic.\n\nThat said, I disagree with the thrust of your post. At the core, a good fraction of the things you criticize are consequences of Anthropic’s basic theory of change that we have held for many years. Our strategy has always been what I’ve called the “race to the top” — by showing how it’s possible to build the technology responsibly, we can raise the bar for the entire industry. The forces that drive the race to the top are hugely more effective if the company practicing them is at the frontier; that’s one lesson I’ve learned repeatedly. And looking at that strategy as a whole, I’m proud of our track record and stand by it.\n\nI believe that if we take a list of things that Anthropic did in the past year that were pro-safety and commercially costly to us, they far outweigh the list you’ve made, while at the same time I also disagree with some of the items on your list. Here are some things Anthropic has done, in the same period you’ve cited (the last year), which were very costly to us commercially while having strong safety benefits:\n\n1. We played a key role in SB53 (and other state laws), at a time when doing so was politically perilous to the company and AI regulation was very unpopular. We in fact argued for a stronger version of SB53 than was ultimately passed; there were a lot of stakeholders and we were not the limiting factor in the strength of the bill that was passed.\n\n2. We have very strong biological safeguards on our models, because we’ve seen concerning results in bio uplift trials and even seen and blocked potential attempts to misuse our models for bioweapons (as seen in our threat intelligence report from a few weeks ago). This is a very serious threat that we want to have zero tolerance for. But having very low false negatives means having significant false positives (despite months of effort on our part to improve the classifiers), enough so that biologists joke about how restrictive our classifiers are, and competitors sometimes sell against us by touting their more permissive bio capabilities. This has been very painful to us in an area where we care a lot about supporting an ecosystem of Claude users (biomedical science; and it is particularly frustrating to me as a biologist), but it’s the right thing to do and we intend to keep doing it.\n\n3. Similarly, we first had Mythos-class models in February but didn’t make them generally available until June (when we had stronger cyber safeguards in place). We only offered them to a limited set of partners in order to focus on cyberdefense. It would have been much more economically rational to simply release the model to everyone. We likely sacrificed a significant chunk of a several-month model lead. But because of this, many companies secured their cyber infrastructure before the deluge of widely available cyber-capable models. Of course there are ways it could have gone better or been run better, but this was what we were aiming to do.\n\n4. I advocated forcefully and publicly, in my essay Policy on the AI Exponential in June of this year, for the government to have the power to block model releases. Back then this was still outside or maybe on the edge of the Overton window, though I understand the window has moved since then. We were attacked intensely for this.\n\n5. I don’t want to re-ignite conflict, but the events of February 2026 are a strong example. It is clear that our public stance could have seriously damaged the company’s future.\n\n6. We’ve continued to advocate for export controls on chips and chipmaking equipment to China, because we think it allows democracies to negotiate from a position of strength on AI safety agreements. We’ve done this despite problems it’s created for us with industry partners who hold very different views and on whom we are very dependent.\n\n7. As far as I’m aware we were the first, and still only, frontier company to restrict the sale of AI services to PRC-controlled companies, including those operating through third countries (otherwise a major loophole). We’ve therefore forfeited significant short-term business to prevent fueling AI platforms and applications that would help the CCP’s military and intelligence services. We are also cracking down on distillation; generally, distillation is not a major threat to us commercially, but like chip exports it has concerning national security and safety implications, so we expend significant energy and company resources to address it.\n\n8. As you mentioned, we’ve put out a lot of reports, announcements, long model cards, public advocacy, etc, all trying to inform the public about the risks of AI. These involve a level of detail and effort that would be implausible for a purely profit-maximizing company.\n\n9. Just this week, we announced we were putting 5% (and possibly more over time) of the company into a public benefit fund.\n\nAll of these decisions came with very substantial costs to us. To be fair, those that involved holding back or restricting access to frontier capabilities also had a broader cost — for example, the public might otherwise have benefitted from faster progress in biology, so I am not saying that our decisions were without tradeoffs — but they were not driven by profit-seeking.\n\nFor each decision, you can come up with ulterior motives that could have driven us — I think it is a general truth that any decision, on any topic, can always be portrayed as a nefarious scheme. But most of those end up being pretty farfetched or don’t fully make sense if you actually examine them closely. For example, it is deeply implausible that it would be a shrewd business move to block a large swath of research biology in order to do the work ourselves and compete with our customers; we expect the benefit to the ecosystem to greatly exceed the work Anthropic does itself, and for the two to complement each other. It is not in Anthropic’s interest to be perceived as unfriendly to biologists. Our Life Sciences Verification Program, which gives vetted biology professionals access to our models, also refutes this idea. \n\nOf course, a different set of people will see this and make a different criticism: that Anthropic shouldn't be making decisions about who gets access to what in the first place. I agree, in the sense that ideally the government would be making these decisions, and that’s why we advocate for regulation. But for now we are forced to make them, and enabling bioterrorism isn’t a better option.\n\nI think that even if I conceded every item in your list, I would happily hold up mine next to it; I don’t think it’s a close call. That is of course partly subjective and different things are important to different people. Maybe one way you could object is that several of the items above relate to AI misuse and not loss-of-control; if you think the latter is much more important than the former, that might change your calculus. But this is not Anthropic’s view — we view both as serious issues. You can also disagree with our decisions, as many have, but they are consistent.\n\nBut I also disagree with at least some of your list. Several items don’t represent a deviation from Anthropic’s strategy or values at all, once we postulate the “race to the top” strategy that requires being a frontier AI company. Your items 1-4 are all simply examples of what it means to compete at the frontier, and we stand by them, both in the sense that they are transparently ordinary things to do as part of that strategy, and that we stand by the strategy as a whole. \n\nTo be fair, there are important questions worth confronting (and that we are confronting) about what to do when the AI-driven acceleration gets fast enough that it is hard for safety to keep up. We are nearing that point and that’s what’s driving some of our thinking about “pacing.” But 1-4 are actions taken before that point and should be perfectly expected based on Anthropic’s strategy as a company. Of course it is possible to disagree with that strategy, but that’s a more fundamental disagreement that you could have had any time over the last few years.\n\nI agree we could have handled your items 7, 8, and 9 better. All fall into the category of “rhetoric or policy communication that wasn’t carefully written or resulting from fast-changing circumstances not propagating from one team to another fast enough.” This kind of thing happens a lot in large organizations (Anthropic is over 5,000 people), and doesn’t even necessarily represent a failure or mistake of any single person. I am of course the CEO, and I take responsibility. The volume of communication from Anthropic is enormous and if these are the worst examples, I think we’re frankly doing pretty well, though I will continue to work hard to make sure we do even better.\n\nYour 5th item (the change to our RSP) is the most substantive item, and people can debate this, but I think that the old, more rigid RSP created a lot of situations where we were technically required to do something that required a lot of effort but in retrospect wasn’t very important for safety, as well as not covering some of the most important things. Our current RSP’s focus on transparency brought things like risk reports and roadmaps, and its emphasis on independent external review laid the groundwork for even more intensive embedded evaluation, all of which I think have been valuable in driving a race to the top. In the original announcement in September 2023, we described the RSP as an “early iteration that we [would] build on” and said that “rapid iteration…will almost certainly be necessary.” I understand that changing plans is always a move that creates justifiable scrutiny — I just don’t think we ever represented that we wouldn’t do so.\n\nRelating to your 6th item (having an FCF in addition to our RSP), I know our intent is to meet the letter and spirit of our regulatory obligations (via our FCF) while also remaining able to experiment with more novel approaches to risk management that go beyond what the law currently requires (via our RSP). I promise to look into it further, as it’s a complex issue and it is possible we are not weighing the considerations in the right way.\n\nOverall, although Anthropic has made plenty of mistakes as an organization — including some of the items on your list — I feel that we have repeatedly taken serious and substantive actions counter to our bottom line and that there is a significant negativity bias distorting assessments like the one you are making above. We’ll always try to do better but, again, I am extremely proud of our track record and stand by it. I will have more to say soon about how we are going to further live our values in this moment of rapid change.",
+   "created_at": "Wed Oct 21 06:02:35 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "DarioAmodei",
+   "rt_author_name": "Dario Amodei",
+   "likes": 3477,
+   "retweets": 249,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112630718106866008": {
+   "id": "2112630718106866008",
+   "url": "https://x.com/theobearman/status/2112630718106866008",
+   "text": "🚨New paper (possibly the most important one I have written yet).\n\nWe think that as early as 2027 or 2028, there might be a major AI-enabled terrorism event. We conducted a pre-mortem, made 9 falsifiable predictions, and wrote 2 concrete scenarios.\n\nLed by @KamacheeMax.",
+   "created_at": "Tue Oct 20 19:43:08 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "StephenLCasper",
+   "rt_author_name": "Cas (Stephen Casper)",
+   "likes": 566,
+   "retweets": 114,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVFJlG5W0AAbc2T.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVFJpISX0AAEC0T.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112630387491144177": {
+   "id": "2112630387491144177",
+   "url": "https://x.com/theobearman/status/2112630387491144177",
+   "text": "Updating the list of repeated examples from both Anthropic and OpenAI: https://t.co/h2OFU63kN7",
+   "created_at": "Tue Oct 20 19:41:49 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "BronsonSchoen",
+   "rt_author_name": "Bronson Schoen",
+   "likes": 77,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVFgBULbgAAjHG_.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
   }
  }
 }

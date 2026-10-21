@@ -2113,6 +2113,29 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2112672883419779218": {
+   "id": "2112672883419779218",
+   "url": "https://x.com/_achan96_/status/2112672883419779218",
+   "text": "New surprising result:\n\nWe trained AI recursively on its own safe generations, while giving it a benign cue. Models became increasingly misaligned over time, giving advice on how to do harm and build biological weapons.\n\nWe call this Progressive Misalignment. 🧵👇 https://t.co/469Ds61kcV",
+   "created_at": "Tue Oct 20 22:30:41 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "Karim_abdelll",
+   "rt_author_name": "Karim Abdel Sadek",
+   "likes": 188,
+   "retweets": 44,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2112588974254698496/img/IFSEwelXFq8wa16z.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
   }
  }
 }

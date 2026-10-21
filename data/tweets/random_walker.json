@@ -2621,6 +2621,70 @@
     "text": "New paper: AI evaluation is a burgeoning field. How can researchers entering the field understand best practices and open problems? \n\nIn our paper, led by @flxcn, we develop a concrete list of open questions and best practices for agent evaluation. We also share recommendations for evaluators, AI companies, policymakers, and more."
    },
    "fetched_at": "2026-10-20T15:39:27.562837+00:00"
+  },
+  "2112671899717439540": {
+   "id": "2112671899717439540",
+   "url": "https://x.com/random_walker/status/2112671899717439540",
+   "text": "AI as a Rohrschach Technology test. \n\nEver talk to someone who was around in the very early days of the internet? They did some incredible hacking back then too. \"Normal\" transformative tech never feels normal.",
+   "created_at": "Tue Oct 20 22:26:47 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "danielrock",
+   "rt_author_name": "Daniel Rock",
+   "likes": 12,
+   "retweets": 2,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112654582392496150": {
+   "id": "2112654582392496150",
+   "url": "https://x.com/random_walker/status/2112654582392496150",
+   "text": "We gave GPT-6 Astra and Claude Fable 5.1 open-ended AI research questions from unpublished papers, with a $10,000 budget each, and had the original authors grade the papers they produced. Compared to our first tests with Claude Opus 4.8 in July, we saw meaningful improvements in experimental design and resource management, but persistent limitations in creative problem solving, judgment, calibration, and communication; both papers were rejected by our experts.\n\nhttps://t.co/n1OMKf4M7T",
+   "created_at": "Tue Oct 20 21:17:58 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "pkirgis",
+   "rt_author_name": "Peter Kirgis",
+   "likes": 279,
+   "retweets": 44,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVFzXK1XAAEOcG0.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112651326320742853": {
+   "id": "2112651326320742853",
+   "url": "https://x.com/random_walker/status/2112651326320742853",
+   "text": "An update on our evaluations of AI agents conducting open-ended AI research.\n\nMost evaluations of agents conducting AI research focus on narrow, verifiable tasks. But AI research is often open ended. In July we tested the ability of frontier AI agents to conduct open-ended AI research, using Claude Opus 4.8 and GPT-5.6 Sol.\n\nWe gave agents research questions from two unpublished papers and thousands of dollars of API credits and compute. The authors of the original papers reviewed the AI-generated papers, following a NeurIPS-style template, and rejected both papers.\n\nSince then, OpenAI has released GPT-6 Astra and Anthropic has released Fable 5.1. Can these new models conduct open-ended research with a $10,000 budget?\n\nIn follow-up experiments on two papers (one with Fable 5.1 and another with GPT-6 Astra), we observed meaningful improvements to the agents' capabilities at experimental design and resource management.\n\nBut we also saw continued limitations in creative problem solving, judgment, calibration, and communication. As a result, the expert reviewers still unambiguously rejected the agents' papers. \n\nWe plan to continue running these evaluations with better models, better scaffolds, and higher budgets. If you are interested in long-running agent evaluations, reach out!",
+   "created_at": "Tue Oct 20 21:05:02 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "sayashk",
+   "rt_author_name": "Sayash Kapoor",
+   "likes": 122,
+   "retweets": 23,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVGippmWoAAEWgj.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
   }
  }
 }

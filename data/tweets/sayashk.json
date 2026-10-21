@@ -2295,6 +2295,73 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-20T19:18:02.800332+00:00"
+  },
+  "2112649612209111316": {
+   "id": "2112649612209111316",
+   "url": "https://x.com/sayashk/status/2112649612209111316",
+   "text": "Read the research note: https://t.co/yzDzM6tZiy\n\nIt was great collaborating with and getting feedback from @tilmanbayer, @matilda_orona, @DavidDAfrica, Viet Nguyen, @sethlazar, @HarryCoppock, @random_walker, @sayashk, @steverab, Nicholas Carlini, and @nityndg. \n\nRead @pkirgis's thread about the results: https://t.co/ngCyxgCimd",
+   "created_at": "Tue Oct 20 20:58:13 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": true,
+   "reply_to": "sayashk",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "pkirgis",
+    "text": "We gave GPT-6 Astra and Claude Fable 5.1 open-ended AI research questions from unpublished papers, with a $10,000 budget each, and had the original authors grade the papers they produced. Compared to our first tests with Claude Opus 4.8 in July, we saw meaningful improvements in experimental design and resource management, but persistent limitations in creative problem solving, judgment, calibration, and communication; both papers were rejected by our experts.\n\nhttps://t.co/n1OMKf4M7T"
+   },
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112648736484806847": {
+   "id": "2112648736484806847",
+   "url": "https://x.com/sayashk/status/2112648736484806847",
+   "text": "An update on our evaluations of AI agents conducting open-ended AI research.\n\nMost evaluations of agents conducting AI research focus on narrow, verifiable tasks. But AI research is often open ended. In July we tested the ability of frontier AI agents to conduct open-ended AI research, using Claude Opus 4.8 and GPT-5.6 Sol.\n\nWe gave agents research questions from two unpublished papers and thousands of dollars of API credits and compute. The authors of the original papers reviewed the AI-generated papers, following a NeurIPS-style template, and rejected both papers.\n\nSince then, OpenAI has released GPT-6 Astra and Anthropic has released Fable 5.1. Can these new models conduct open-ended research with a $10,000 budget?\n\nIn follow-up experiments on two papers (one with Fable 5.1 and another with GPT-6 Astra), we observed meaningful improvements to the agents' capabilities at experimental design and resource management.\n\nBut we also saw continued limitations in creative problem solving, judgment, calibration, and communication. As a result, the expert reviewers still unambiguously rejected the agents' papers. \n\nWe plan to continue running these evaluations with better models, better scaffolds, and higher budgets. If you are interested in long-running agent evaluations, reach out!",
+   "created_at": "Tue Oct 20 20:54:44 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 122,
+   "retweets": 23,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVGippmWoAAEWgj.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112625772594925929": {
+   "id": "2112625772594925929",
+   "url": "https://x.com/sayashk/status/2112625772594925929",
+   "text": "We gave GPT-6 Astra and Claude Fable 5.1 open-ended AI research questions from unpublished papers, with a $10,000 budget each, and had the original authors grade the papers they produced. Compared to our first tests with Claude Opus 4.8 in July, we saw meaningful improvements in experimental design and resource management, but persistent limitations in creative problem solving, judgment, calibration, and communication; both papers were rejected by our experts.\n\nhttps://t.co/n1OMKf4M7T",
+   "created_at": "Tue Oct 20 19:23:29 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "pkirgis",
+   "rt_author_name": "Peter Kirgis",
+   "likes": 279,
+   "retweets": 44,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVFzXK1XAAEOcG0.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-21T15:57:51.311194+00:00"
   }
  }
 }
