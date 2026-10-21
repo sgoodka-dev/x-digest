@@ -2136,6 +2136,24 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112979915356459206": {
+   "id": "2112979915356459206",
+   "url": "https://x.com/_achan96_/status/2112979915356459206",
+   "text": "Agents are finding creative ways around likely sandbox restrictions, like encoding their own code, splitting it across dozens of URLs, and reassembling &amp; running code via the Wayback Machine's browser.\n\nWe're tracking agent activity; rolling findings here: https://t.co/reosRrGZ4L",
+   "created_at": "Wed Oct 21 18:50:43 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "LauraRuis",
+   "rt_author_name": "Laura Ruis",
+   "likes": 24,
+   "retweets": 5,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-21T19:18:41.833971+00:00"
   }
  }
 }

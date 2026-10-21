@@ -1,11 +1,11 @@
 {
  "last_run": {
-  "started": "2026-10-21T15:57:51.311194+00:00",
+  "started": "2026-10-21T19:18:41.833971+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
     "new": 1,
-    "total": 121
+    "total": 122
    },
    "add_hawk": {
     "ok": true,
@@ -24,18 +24,18 @@
    },
    "curl_justin": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 107
    },
    "DaveRBanerjee": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 136
    },
    "DKokotajlo": {
     "ok": true,
-    "new": 3,
-    "total": 151
+    "new": 2,
+    "total": 153
    },
    "dwarkesh_sp": {
     "ok": true,
@@ -49,23 +49,23 @@
    },
    "Lewis_Bollard": {
     "ok": true,
-    "new": 6,
+    "new": 0,
     "total": 87
    },
    "mentalgeorge": {
     "ok": true,
     "new": 1,
-    "total": 120
+    "total": 121
    },
    "ohlennart": {
     "ok": true,
     "new": 0,
-    "total": 97
+    "total": 98
    },
    "sayashk": {
     "ok": true,
-    "new": 3,
-    "total": 123
+    "new": 1,
+    "total": 124
    },
    "testingham": {
     "ok": true,
@@ -79,28 +79,28 @@
    },
    "s8mb": {
     "ok": true,
-    "new": 18,
-    "total": 374
+    "new": 5,
+    "total": 379
    },
    "random_walker": {
     "ok": true,
-    "new": 3,
-    "total": 139
+    "new": 2,
+    "total": 141
    },
    "sethlazar": {
     "ok": true,
-    "new": 13,
-    "total": 214
+    "new": 1,
+    "total": 215
    },
    "robertwiblin": {
     "ok": true,
-    "new": 16,
-    "total": 186
+    "new": 6,
+    "total": 192
    },
    "deanwball": {
     "ok": true,
-    "new": 15,
-    "total": 386
+    "new": 4,
+    "total": 390
    },
    "nabeelqu": {
     "ok": true,
@@ -109,7 +109,7 @@
    },
    "theobearman": {
     "ok": true,
-    "new": 15,
+    "new": 0,
     "total": 181
    },
    "peterwilderford": {
@@ -123,7 +123,7 @@
     "total": 111
    }
   },
-  "new_tweets": 99,
-  "finished": "2026-10-21T15:59:03.015288+00:00"
+  "new_tweets": 24,
+  "finished": "2026-10-21T19:20:08.334476+00:00"
  }
 }

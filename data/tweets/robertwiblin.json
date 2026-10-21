@@ -3920,6 +3920,129 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112965436149244308": {
+   "id": "2112965436149244308",
+   "url": "https://x.com/robertwiblin/status/2112965436149244308",
+   "text": "https://t.co/Fd7oiFZr6o",
+   "created_at": "Wed Oct 21 17:53:11 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-21T19:18:41.833971+00:00"
+  },
+  "2112965357594140758": {
+   "id": "2112965357594140758",
+   "url": "https://x.com/robertwiblin/status/2112965357594140758",
+   "text": "Demis's timelines to AGI have shrunk from 3-5 years to 2-3 years: https://t.co/Xf6bJCtXRQ",
+   "created_at": "Wed Oct 21 17:52:52 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 37,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVLCjmAWUAA6VQE.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-21T19:18:41.833971+00:00"
+  },
+  "2112954626555441504": {
+   "id": "2112954626555441504",
+   "url": "https://x.com/robertwiblin/status/2112954626555441504",
+   "text": "Thank you for the Resolution shout out, Rob!\n\n(Intentionally not saying where it is so that people listen to the rest of the content about why we should stop and how. :))",
+   "created_at": "Wed Oct 21 17:10:14 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "geoffreyirving",
+   "rt_author_name": "Geoffrey Irving",
+   "likes": 7,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-21T19:18:41.833971+00:00"
+  },
+  "2112952554212802860": {
+   "id": "2112952554212802860",
+   "url": "https://x.com/robertwiblin/status/2112952554212802860",
+   "text": "YouTube: https://t.co/UMwPQkF8Za\n\nTranscript, links etc: https://t.co/qpELWgyy3S\n\nApple: https://t.co/0DpfO4LSDL\n\nSpotify: https://t.co/mjLjlgMrAF https://t.co/OgGLcOVvKm",
+   "created_at": "Wed Oct 21 17:02:00 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVK3DsKXoAAAyIV.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-21T19:18:41.833971+00:00"
+  },
+  "2112947752527139134": {
+   "id": "2112947752527139134",
+   "url": "https://x.com/robertwiblin/status/2112947752527139134",
+   "text": "My plea to all AI lab staff: reassess if your current project is your best opportunity to delay RSI, or stop it blowing up in our face.\n\nIf it's not, move immediately.\n\nThere's no time to waste even a week to inertia or politeness.\n\nThe strategic situation is shifting under our feet, so if you haven't reassessed your options recently, you could easily be wasting your time or possibly making things worse.\n\nYou have access to info I don't, but here's 8 ways priorities seem to have shifted to me, which I elaborate on in the video:\n\n1. Helping with capabilities advances looks worse than in the past, especially bringing forward RSI\n\n2. Safety & alignment evals need a credibility revolution to stop misleading the public\n\n3. 'Pacing the frontier' is unambiguously necessary, and working to make it happen is a huge new opportunity for talent\n\n4. Chain-of-thought monitoring probably stops working without a big technical and regulatory push to keep it\n\n5. It's worse than ever to patch surface indications of deep structural problems you know aren't getting fixed\n\n6. There's ever less need for altruists to help with primarily commercial work\n\n7. Staff have an ever-shrinking window to organise as a group and collectively shape events\n\n8. There are new opportunities for research impact outside frontier companies that are worth considering\n\nI know you're probably some combination of exhausted, overwhelmed, and anxious already.\n\nBut unfortunately there's no way to escape the need to regularly check in on the high level strategic picture and see where you can slot in to maximum effect.\n\nI wish I could do it for you but nobody far from your situation can. Godspeed my friends.\n\n(From the 80,000 Hours Podcast, links below.)",
+   "created_at": "Wed Oct 21 16:42:55 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 177,
+   "retweets": 31,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2112943728566378498/img/3BJkiKTQd-exkH73.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-21T19:18:41.833971+00:00"
+  },
+  "2112452652831474119": {
+   "id": "2112452652831474119",
+   "url": "https://x.com/robertwiblin/status/2112452652831474119",
+   "text": "🚨 Reminder: Applications to our Middle Powers RFP close on October 23rd, 11:59pm PST! 🚨",
+   "created_at": "Tue Oct 20 07:55:34 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "mealreplacer",
+   "rt_author_name": "Julian",
+   "likes": 23,
+   "retweets": 5,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-21T19:18:41.833971+00:00"
   }
  }
 }

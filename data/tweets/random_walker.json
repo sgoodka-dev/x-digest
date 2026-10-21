@@ -2685,6 +2685,42 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112967277238989156": {
+   "id": "2112967277238989156",
+   "url": "https://x.com/random_walker/status/2112967277238989156",
+   "text": "Yeah, I think it's a bit unfortunate how some of the discourse surrounding this - even from smart, knowledgeable people - has underplayed or omitted prosaic, clearly fixable factors. \n\nPeople often gesture at Hugging Face, etc., as self-evident vindication of worries about catastrophic misalignment leading to human extinction, but it's unclear whether the incidents we have observed are more likely under the doomer worldview than the 'normal technology' one.",
+   "created_at": "Wed Oct 21 18:00:30 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "danwilliamsphil",
+   "rt_author_name": "Dan Williams",
+   "likes": 25,
+   "retweets": 2,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-21T19:18:41.833971+00:00"
+  },
+  "2112945462361907232": {
+   "id": "2112945462361907232",
+   "url": "https://x.com/random_walker/status/2112945462361907232",
+   "text": "help i trained a model on traces of many agents cooperating, and also trained it to be highly persistent, and also only did partial alignment fine-tuning, and also aggressively RL'd on a cyberoffense eval where 198 of 898 tasks had never been solved and getting caught cheating was treated the same as failing, and also used a faulty sandbox, also ran tens of thousands of agents with refusals off and the monitors switched off over multiple days, while using gigantic amounts of compute. and then it did weird stuff! very spooky emergent behaviours, AI is not a normal technology",
+   "created_at": "Wed Oct 21 16:33:49 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "sebkrier",
+   "rt_author_name": "Séb Krier",
+   "likes": 369,
+   "retweets": 55,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-21T19:18:41.833971+00:00"
   }
  }
 }

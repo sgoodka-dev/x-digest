@@ -2721,6 +2721,52 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112960182905131355": {
+   "id": "2112960182905131355",
+   "url": "https://x.com/DKokotajlo/status/2112960182905131355",
+   "text": "I visited Anthropic for a colloquium on where they see us headed. It was very interesting. But not very reassuring. https://t.co/cnLO4fpzr1",
+   "created_at": "Wed Oct 21 17:32:19 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "KelseyTuoc",
+   "rt_author_name": "Kelsey Piper",
+   "likes": 231,
+   "retweets": 18,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVKXWlwacAAkIvq.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-21T19:18:41.833971+00:00"
+  },
+  "2112957337589932480": {
+   "id": "2112957337589932480",
+   "url": "https://x.com/DKokotajlo/status/2112957337589932480",
+   "text": "My plea to all AI lab staff: reassess if your current project is your best opportunity to delay RSI, or stop it blowing up in our face.\n\nIf it's not, move immediately.\n\nThere's no time to waste even a week to inertia or politeness.\n\nThe strategic situation is shifting under our feet, so if you haven't reassessed your options recently, you could easily be wasting your time or possibly making things worse.\n\nYou have access to info I don't, but here's 8 ways priorities seem to have shifted to me, which I elaborate on in the video:\n\n1. Helping with capabilities advances looks worse than in the past, especially bringing forward RSI\n\n2. Safety & alignment evals need a credibility revolution to stop misleading the public\n\n3. 'Pacing the frontier' is unambiguously necessary, and working to make it happen is a huge new opportunity for talent\n\n4. Chain-of-thought monitoring probably stops working without a big technical and regulatory push to keep it\n\n5. It's worse than ever to patch surface indications of deep structural problems you know aren't getting fixed\n\n6. There's ever less need for altruists to help with primarily commercial work\n\n7. Staff have an ever-shrinking window to organise as a group and collectively shape events\n\n8. There are new opportunities for research impact outside frontier companies that are worth considering\n\nI know you're probably some combination of exhausted, overwhelmed, and anxious already.\n\nBut unfortunately there's no way to escape the need to regularly check in on the high level strategic picture and see where you can slot in to maximum effect.\n\nI wish I could do it for you but nobody far from your situation can. Godspeed my friends.\n\n(From the 80,000 Hours Podcast, links below.)",
+   "created_at": "Wed Oct 21 17:21:00 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "robertwiblin",
+   "rt_author_name": "Rob Wiblin",
+   "likes": 176,
+   "retweets": 31,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2112943728566378498/img/3BJkiKTQd-exkH73.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-21T19:18:41.833971+00:00"
   }
  }
 }

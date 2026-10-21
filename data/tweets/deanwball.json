@@ -7386,6 +7386,83 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2112975706682708206": {
+   "id": "2112975706682708206",
+   "url": "https://x.com/deanwball/status/2112975706682708206",
+   "text": "subtlety in music is overrated. I want music to seize me by the throat.",
+   "created_at": "Wed Oct 21 18:34:00 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 13,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-21T19:18:41.833971+00:00"
+  },
+  "2112961648730452057": {
+   "id": "2112961648730452057",
+   "url": "https://x.com/deanwball/status/2112961648730452057",
+   "text": "is it just me or is everyone hearing more references to this book lately? may have to check it out https://t.co/Cg9re3sGhz",
+   "created_at": "Wed Oct 21 17:38:08 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 48,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVK_a34XYAAYX56.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-21T19:18:41.833971+00:00"
+  },
+  "2112949783950434631": {
+   "id": "2112949783950434631",
+   "url": "https://x.com/deanwball/status/2112949783950434631",
+   "text": "If you are wondering whether your website is affected, we have packaged a Codex skill to help check.\n\nPoint your Codex at this repo to guide you through it: https://t.co/XUEbOwXuQC",
+   "created_at": "Wed Oct 21 16:50:59 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "OpenAI",
+   "rt_author_name": "OpenAI",
+   "likes": 5496,
+   "retweets": 636,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-21T19:18:41.833971+00:00"
+  },
+  "2112945899844592002": {
+   "id": "2112945899844592002",
+   "url": "https://x.com/deanwball/status/2112945899844592002",
+   "text": "GPT-Rosalind surfaced a new lead for drug discovery: could restoring cholesterol transport protect neurons from degeneration?\n\nDCTN1 is a gene linked to Perry syndrome, a rare neurodegenerative disorder. In mouse-brain data, disrupting it increased expression of genes involved in making cholesterol. GPT-Rosalind suggested a possible explanation: cholesterol may not be reaching where neurons need it.\n\nThat gives scientists a specific mechanism to test and, if confirmed, a direction for developing new treatments for neurodegenerative disorders.\n\nWith @perturbai_tx and @scrippsresearch, a team of thousands of GPT-Rosalind agents worked in parallel, connecting gene-expression results from millions of mouse brain cells with scientific literature in just 32 minutes. We’re now expanding this collaboration to identify new drug targets.\n\nhttps://t.co/oHdF3ELsMj",
+   "created_at": "Wed Oct 21 16:35:33 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "OpenAI",
+   "rt_author_name": "OpenAI",
+   "likes": 4220,
+   "retweets": 443,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-21T19:18:41.833971+00:00"
   }
  }
 }
