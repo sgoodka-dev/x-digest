@@ -2721,6 +2721,68 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-21T19:18:41.833971+00:00"
+  },
+  "2113226158930084150": {
+   "id": "2113226158930084150",
+   "url": "https://x.com/random_walker/status/2113226158930084150",
+   "text": "A good example of why full automation is never just a matter of AI hitting some capability threshold — how do robotaxi companies deal with riders passed out, having medical emergencies, giving birth (!), vomiting, pooping, or just leaving without closing the car door? Some combination of first responders, remote workers, ground staff, and gig workers, apparently! https://t.co/vRSujgYYaA",
+   "created_at": "Thu Oct 22 11:09:12 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 79,
+   "retweets": 10,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2113038792420385057": {
+   "id": "2113038792420385057",
+   "url": "https://x.com/random_walker/status/2113038792420385057",
+   "text": "Firms are doing a lot to capture value from their own AI adoption, and yet often don't succeed. We are trying to understand the bottlenecks in practice better. If you have visibility into firm adoption whether as an employee, FDE, consultant, VC, or in some other capacity, we would love to hear from you. \nhttps://t.co/4pOI22ZrI6",
+   "created_at": "Wed Oct 21 22:44:41 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "RishiBommasani",
+   "rt_author_name": "rishi",
+   "likes": 33,
+   "retweets": 7,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2112517355972530510": {
+   "id": "2112517355972530510",
+   "url": "https://x.com/random_walker/status/2112517355972530510",
+   "text": "\"agent evals are about to become as important as building the agents themselves\" https://t.co/mUrJwjdlTF\n\nThis is our thesis as well. I would go further — building an eval *is* what it means to build an agent. \n\nIn my ICML talk, I argued that as AI capabilities advance, more and more human effort will shift from building to evaluation, in many different domains. https://t.co/ZA5TBDypfl",
+   "created_at": "Tue Oct 20 12:12:40 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": true,
+   "reply_to": "random_walker",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 5,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVErJdVXcAAtAHB.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "V1kiiiii",
+    "text": "@random_walker agent evals are about to become as important as building the agents themselves. a smarter agent means nothing if we can't reliably measure whether it actually works"
+   },
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
   }
  }
 }

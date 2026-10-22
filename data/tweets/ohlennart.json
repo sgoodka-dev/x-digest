@@ -1769,6 +1769,45 @@
     "text": "Effective Immediately, all organizations using PHP for their systems are advised to be prepared for an update addressing two critical vulnerabilities. PHP is widely used for web applications. These vulnerabilities often provide a direct path to the server's file system or database. If an immediate update is not feasible, it is recommend that organizations take the system offline until it can be fully mitigated. NSA will follow up shortly with more specific guidance."
    },
    "fetched_at": "2026-10-21T19:18:41.833971+00:00"
+  },
+  "2113027453593792519": {
+   "id": "2113027453593792519",
+   "url": "https://x.com/ohlennart/status/2113027453593792519",
+   "text": "I think near-term domestic pacing is doable. Some details to iron out, but there are good plans.\n\nBut uff, the international part with real verification. That’s a massive effort. Lots of work could make it less painful, but it’ll still be a massive pain.",
+   "created_at": "Wed Oct 21 21:59:37 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 32,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2112989923498135647": {
+   "id": "2112989923498135647",
+   "url": "https://x.com/ohlennart/status/2112989923498135647",
+   "text": "now let's also get 5% of Anthropic's compute/AI-provided labor committed to the public benefit",
+   "created_at": "Wed Oct 21 19:30:29 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 32,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "AnthropicAI",
+    "text": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new wholly owned entity dedicated entirely to the public benefit.\n\nIt will start off with 5% of our shares. For every 50% increase in the company’s value over a set baseline, we can contribute up to an extra 2%, subject to our board’s discretion.\n\nIn total, this means that roughly 20% of Anthropic’s shares are committed to the public good. Our co-founders have already pledged to donate 80% of their equity, and around half our employees are donating a portion of their equity as part of a donation matching program we’ve run since our founding.\n\nIn the post below, we share more details about our new fund.\n\nhttps://t.co/XzDntVH0vH"
+   },
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
   }
  }
 }

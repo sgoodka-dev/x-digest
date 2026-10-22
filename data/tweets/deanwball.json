@@ -7463,6 +7463,42 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-21T19:18:41.833971+00:00"
+  },
+  "2113000992576802820": {
+   "id": "2113000992576802820",
+   "url": "https://x.com/deanwball/status/2113000992576802820",
+   "text": "@krishnanrohit damn straight",
+   "created_at": "Wed Oct 21 20:14:28 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2112990533501252028": {
+   "id": "2112990533501252028",
+   "url": "https://x.com/deanwball/status/2112990533501252028",
+   "text": "@matt__newell compute, which famously appears places by magic and does not cost money",
+   "created_at": "Wed Oct 21 19:32:55 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "matt__newell",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 53,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
   }
  }
 }

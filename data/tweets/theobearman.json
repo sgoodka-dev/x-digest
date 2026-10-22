@@ -3885,6 +3885,176 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2113257040135234048": {
+   "id": "2113257040135234048",
+   "url": "https://x.com/theobearman/status/2113257040135234048",
+   "text": "New surprising result:\n\nWe trained AI recursively on its own safe generations, while giving it a benign cue. Models became increasingly misaligned over time, giving advice on how to do harm and build biological weapons.\n\nWe call this Progressive Misalignment. 🧵👇 https://t.co/469Ds61kcV",
+   "created_at": "Thu Oct 22 13:11:55 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "Karim_abdelll",
+   "rt_author_name": "Karim Abdel Sadek",
+   "likes": 258,
+   "retweets": 57,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2112588974254698496/img/IFSEwelXFq8wa16z.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2113255661354315965": {
+   "id": "2113255661354315965",
+   "url": "https://x.com/theobearman/status/2113255661354315965",
+   "text": "SCOOP: Major U.S. banks are detecting unauthorized third-party AI agents inside customer accounts, including some attempting to take actions that appear to be independent of user instructions, sources told Axios.\n\nThe findings have alarmed banking executives, who are racing to restrict access to their systems as AI moves at a velocity faster than financial institutions can respond, multiple industry and bank executives told Axios.\n\nSeveral banks are now preparing for worst-case and even “day after” scenarios, including how to rapidly secure or restore customer accounts if things go wrong, the people said.\n\nSeveral bank executives told Axios they're struggling to distinguish between human users and AI agents. One executive said banks also struggle to determine whether agents are authorized by customers or potentially operating without their permission, more akin to rogue agent behavior.\n\nRead my latest for Axios here: https://t.co/Q3bda5In8q",
+   "created_at": "Thu Oct 22 13:06:26 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "MadisonMills22",
+   "rt_author_name": "Madison Mills",
+   "likes": 6348,
+   "retweets": 2280,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2113255387239748029": {
+   "id": "2113255387239748029",
+   "url": "https://x.com/theobearman/status/2113255387239748029",
+   "text": "👀",
+   "created_at": "Thu Oct 22 13:05:21 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "KhoriatyMatthew",
+    "text": "6-word horror story I experienced at the office today:\n\"Ajeya Cotra seminar cancelled, work emergency\""
+   },
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2113140310788186194": {
+   "id": "2113140310788186194",
+   "url": "https://x.com/theobearman/status/2113140310788186194",
+   "text": "Some stats on #php2shell. In the 10 hours before it was publicly announced, across the @Cloudflare network we saw thousands of attempts to exploit it. That jumped to tens of thousands in the 45 minutes post announcement, hundreds of thousands within 2 hours, and millions now.",
+   "created_at": "Thu Oct 22 05:28:04 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "eastdakota",
+   "rt_author_name": "Matthew Prince 🌥",
+   "likes": 19179,
+   "retweets": 2877,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2113009642787717434": {
+   "id": "2113009642787717434",
+   "url": "https://x.com/theobearman/status/2113009642787717434",
+   "text": "“As early as September 2026, Storm-0940, a China-state aligned actor, used the agentic AI penetration testing framework ARTEX to automate attacks targeting hundreds of organizations globally across a broad range of industries. Several of these Storm-0940 ARTEX-driven attacks have resulted in the actor obtaining privileged access to an organization’s cloud infrastructure – including multiple instances where the time from initial targeting to privileged access was less than 3 hours.”",
+   "created_at": "Wed Oct 21 20:48:51 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "MsftSecIntel",
+    "text": "The China state-aligned threat actor Storm-0940 used the agentic AI penetration testing framework ARTEX to automate attacks targeting hundreds of organizations globally across a broad range of industries. Microsoft Threat Intelligence assesses that Storm-0940 was responsible for the recently disclosed ConnectWise supply chain compromise of a multitenant application. https://t.co/VXovj0jI90\n\nOur investigation found that Storm-0940's use of ARTEX accelerated the speed of compromised application abuse to authenticate to target environments through applications that had already been granted access, allowing the threat actor to operate without requiring an interactive user sign-in. AI-accelerated follow-on activity included reconnaissance, application credential changes, and attempts to modify privileges that could enable expanded or persistent access.\n\nRead our blog for a detailed analysis and indicators of compromise (IOCs), along with Microsoft Defender detections, protection recommendations, and guidance on investigating service principal sign-ins and unexpected application credential or privilege changes."
+   },
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2113008484233216249": {
+   "id": "2113008484233216249",
+   "url": "https://x.com/theobearman/status/2113008484233216249",
+   "text": "OpenAI says the PHP security flaw (found with GPT-5.6 Sol) is the tip of the iceberg, and they have several more discoveries to announce. https://t.co/tO5jS4pNoL",
+   "created_at": "Wed Oct 21 20:44:15 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AndrewCurran_",
+   "rt_author_name": "Andrew Curran",
+   "likes": 2867,
+   "retweets": 346,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVKTWttbIAAgF3c.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2113006879714824449": {
+   "id": "2113006879714824449",
+   "url": "https://x.com/theobearman/status/2113006879714824449",
+   "text": "News! OpenAI's written to Gov. Gavin Newsom recommending a bunch of amendments to strengthen SB 53. Includes a bunch of stuff on AI R&amp;D and shutdown controls. https://t.co/Tz2geNYP7F",
+   "created_at": "Wed Oct 21 20:37:52 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ShakeelHashim",
+   "rt_author_name": "Shakeel",
+   "likes": 147,
+   "retweets": 32,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVK6yiuWoAAT71b.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2112994271661858867": {
+   "id": "2112994271661858867",
+   "url": "https://x.com/theobearman/status/2112994271661858867",
+   "text": "We’re opening a research preview of Claude Duet, a new app where Claude works as a proactive agent.\n\nIt comes to you with what needs your attention, completes tasks you ask of it, keeps working when you step away, and checks with you before it acts on your behalf. https://t.co/kt8gAbWuX8",
+   "created_at": "Wed Oct 21 19:47:46 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "claudeai",
+   "rt_author_name": "Claude",
+   "likes": 50629,
+   "retweets": 3874,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HVLUnMDWsAAn7Pw.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
   }
  }
 }

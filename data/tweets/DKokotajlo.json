@@ -2767,6 +2767,83 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-21T19:18:41.833971+00:00"
+  },
+  "2113015441903992944": {
+   "id": "2113015441903992944",
+   "url": "https://x.com/DKokotajlo/status/2113015441903992944",
+   "text": "welcome to life kids, here’s your screen. you absolutely have to learn how to use this thing because your entire professional and social life will be plugged into it. just don’t get lost in the infinite addiction portal that is also on there for some reason haha ok kids have fun",
+   "created_at": "Wed Oct 21 21:11:53 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "QiaochuYuan",
+   "rt_author_name": "QC",
+   "likes": 18570,
+   "retweets": 1140,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2113002806747746769": {
+   "id": "2113002806747746769",
+   "url": "https://x.com/DKokotajlo/status/2113002806747746769",
+   "text": "Anthropic has made a lot of costly sacrifices out of conviction. At the same time, I have found the cynical view of Anthropic outperforming the optimistic view, in many ways, over the last year, when I try to predict what the company will do.\n\nYou would do poorly to model Anthropic as only caring about its stock price. That's clearly wrong! But the costly sacrifices are mostly for things - China, biosecurity - that Dario is personally highly motivated by, and it's much less clear which costly sacrifices have been made on behalf of \"humanity not losing control to AI\" or \"crucial decisions about the fate of humankind being made by everybody, even at the cost of them being made less well-according-to-leadership\". \n\n Takeover in particular is something Dario seems less worried about than many of his employees. But the employees who are more worried than him about losing control have great confidence he'll make strategic sacrifices for this goal, on the strength of the sacrifices he's made for goals he seems much more convinced are a real problem. \n\nAs for crucial decisions being made by everybody - Anthropic has made some efforts at this. But because making this happen would be insanely difficult, for Anthropic to actually achieve it they'd have to make truly heroic efforts at it, instead of distracted and cross-pressured ones. \n\nWhen Anthropic was founded, its creators took for granted that they should not be trusted alone with - that no one should be trusted alone with - the power that building a superintelligence would imply. But everyone has a plan until you get punched in the face. Their rapid growth and especially this year’s events seem to have shaped Anthropic in a more defensive, less pluralistic, less liberal direction, which scares me given that it also has brought them a lot closer to AGI. \n\nThe recent safety bill was really reflective of this. It does not suggest a company that is trying to get policymakers to make the decisions Anthropic's technical staff think are coming up. It kind of suggests a company that thinks the best thing that can be hoped for from the executive is that it enforce the export controls and not get in the way. A lot of people don't seem to even want Congress to pass a bill! And like, frequently that is the best thing that can be hoped for from Congress, yet -\n\nI think that the typical person in Anthropic still regards themselves as having a lot of duties to all of humanity, to liberal and pluralistic institutions, etc. But almost every effort that Anthropic originally made to set hard constraints to which they are subject (rather than being subject mostly to their best judgment), they have subsequently come to regret as ill-conceived, and while they could have replaced them with better-conceived hard constraints, they haven't. They've largely replaced them with something that rests on their judgment more. (I think the embedded evaluators are a counterexample and I am glad of them.) The gap between the capabilities of models used internally and publicly seems to me to be growing (I think it should ideally be as close as possible to zero). Anthropic does not, broadly, seem to me to have good institutional governance - guarantees that allow its auditors independence, strong contractual protections for its workers (I'd like them to be able to go on strike if they thought it was a good idea, honestly). Incident reporting is happening on a best-judgment basis. \n\nAnd you can be like, that's because this is all insane and happening really fast and we're doing our best! And yeah, the thing that needs to happen is very difficult.  But it does still need to happen and it doesn't look like Anthropic's on track to do it. And it's also not fully clear that Anthropic leadership agrees with me that there's a real issue here. No external criticism is every very convincing, right, when you have secret information and a set of factual beliefs that everyone else thinks are insane. I have more context on Anthropic than almost anyone and yet I cannot phrase my worries about Anthropic in a way that rings true to the people who work there - perhaps because I am wrong, or perhaps because they are very busy and very tired and do very little other than work, which creates conditions where it is hard for people to communicate, or learn, or change their minds, or reconstruct this flawed and mangled criticism into a form that would resonate like this one does not.\n\nBut man, I think that the admirable sacrifices Anthropic has made in a few areas it really believes in (bio, China) do not reassure me it'll do the extremely hard work to get things right in a few other areas that it seems to have a lot more internal or leadership disagreement about (alignment, takeover, disempowerment). \n\n And so I don't expect things to go well.",
+   "created_at": "Wed Oct 21 20:21:41 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "KelseyTuoc",
+   "rt_author_name": "Kelsey Piper",
+   "likes": 847,
+   "retweets": 70,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2113002208459706607": {
+   "id": "2113002208459706607",
+   "url": "https://x.com/DKokotajlo/status/2113002208459706607",
+   "text": "Banger AI takeover story\nhttps://t.co/ur0SlPfZCL",
+   "created_at": "Wed Oct 21 20:19:18 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "eccentric1ty",
+   "rt_author_name": "Adam Kaufman",
+   "likes": 226,
+   "retweets": 12,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2113001793408180679": {
+   "id": "2113001793408180679",
+   "url": "https://x.com/DKokotajlo/status/2113001793408180679",
+   "text": "\"Our agents keep turning off misalignment monitoring...\nGiven the volume of events we do not trigger an immediate page for this but we’re working on making it harder to spin up unmonitored inference.\" https://t.co/8jm2JTiXkZ",
+   "created_at": "Wed Oct 21 20:17:39 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "SydneyVonArx",
+   "rt_author_name": "Sydney",
+   "likes": 192,
+   "retweets": 15,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVHniPfaQAAyPiD.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
   }
  }
 }

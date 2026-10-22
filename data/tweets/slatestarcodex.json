@@ -1904,6 +1904,29 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-20T15:39:27.562837+00:00"
+  },
+  "2113103272940810572": {
+   "id": "2113103272940810572",
+   "url": "https://x.com/slatestarcodex/status/2113103272940810572",
+   "text": "@tszzl https://t.co/clTenM2GHf",
+   "created_at": "Thu Oct 22 03:00:54 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "tszzl",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 265,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVNANTSbQAAq7E1.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
   }
  }
 }

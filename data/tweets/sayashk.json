@@ -2380,6 +2380,47 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-21T19:18:41.833971+00:00"
+  },
+  "2113277343058043122": {
+   "id": "2113277343058043122",
+   "url": "https://x.com/sayashk/status/2113277343058043122",
+   "text": "Thoughts on php2shell and the overall looming crisis in cybersecurity\n\nIf you'd been appropriately pricing in that we'd see this and many more celebrity zero-days at an increasing rate, this is a positive update; defenders found this issue, alongside tens of thousands of others in the last year, before widespread exploitation, and it's being patched.\n\nReal attackers will exploit this, but we shouldn't expect a recognizable blip in overall cyber damages in the next couple quarters, because easier initial access to victim networks wasn't a core bottleneck for attackers, and because defenders are better positioned to adopt AI automation than attackers, and are doing so faster; this advantage will persist through at least H1 2027, and possibly longer, IMO.\n\nWhy I think this: consider that, in general and on average, defenders have access to default-world capital networks and AI talent, often as a function of how central they are to Internet and societal infrastructure.  They have consistent, reliable access to AI inference from open- and closed-weight providers.\n\nCriminal attackers, on the other hand, face the threat of arrest, difficulty accessing AI talent, and unreliable access to AI inference.  They're competing for and attempting to retain talent willing to risk arrest and sanctions, and willing to live a life of crime.\n\nNation-state attackers, meanwhile, operate within military and intelligence bureaucracies that have historically lagged private industry in adopting technologies, from mobile devices to drones.  Non-US-aligned nation-state attackers also face challenges in reliably, consistently, and secretly accessing US frontier models.\n\nSo, all in all, AI is making offensive capabilities cheaper, but that doesn't immediately translate into damages.  At this point, this is a robust finding from the entire 2022–26 period; as in the rest of the economy, we haven't seen a big AI-driven productivity bump among attackers, and attackers are even more disadvantaged than your average business or civilian state agency.\n\nOf course, this won't last forever!  How do we exploit our current, limited defense-dominant window?  Getting to a good-enough steady state will require creative thinking.  I liked @chrisrohlf's piece on eliminating attack surface in OSS applications because it identifies leverage points for eliminating whole classes of risk using 2026-era AI (https://t.co/L2alFLbNs9).\n\nWe also need to revisit formal verification, control flow integrity, dynamic taint tracking, and the like, now that AI can make them more practical than they used to be.  We also have an enormous overhang of underdeployed defensive technology.  Honeypots, honeytokens, sandboxing, multi-factor authentication, and application allowlisting are all less widely deployed than they should be because businesses calculated they weren't worth it.\n\nThe AI industry should recognize that heavily gated trusted access programs have failed as a strategy; php2shell was identified by defenders first, and we need more defenders identifying more bugs faster.  The defense-dominant window is exactly the moment to pour gas on the fire of diffusion of as-cheap-as-possible AI security capabilities that disproportionately advantage defenders.\n\nIf you don't like what this means for attacker access to models, I agree with you!  The answer is to solve the quadratic coordination problem among cyber organizations, AI companies, governments, and Internet infrastructure providers by building institutions that identify attacker groups, kick them off inference platforms, and, wherever possible, get them arrested.  This is an operational threat intelligence / threat interdiction problem, not a trusted access program problem.",
+   "created_at": "Thu Oct 22 14:32:36 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "joshua_saxe",
+   "rt_author_name": "Joshua Saxe",
+   "likes": 19,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVPau1LXQAAloSO.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2113041009789796408": {
+   "id": "2113041009789796408",
+   "url": "https://x.com/sayashk/status/2113041009789796408",
+   "text": "Firms are doing a lot to capture value from their own AI adoption, and yet often don't succeed. We are trying to understand the bottlenecks in practice better. If you have visibility into firm adoption whether as an employee, FDE, consultant, VC, or in some other capacity, we would love to hear from you. \nhttps://t.co/4pOI22ZrI6",
+   "created_at": "Wed Oct 21 22:53:29 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "RishiBommasani",
+   "rt_author_name": "rishi",
+   "likes": 33,
+   "retweets": 7,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
   }
  }
 }

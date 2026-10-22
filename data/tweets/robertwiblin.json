@@ -4043,6 +4043,159 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-21T19:18:41.833971+00:00"
+  },
+  "2113279170914480207": {
+   "id": "2113279170914480207",
+   "url": "https://x.com/robertwiblin/status/2113279170914480207",
+   "text": "Ordinary people likely won't be able to demand/keep a universal basic income after superintelligence.\n\nThe political economy is hopeless: they have nothing to offer in return and zero hard power.\n\nThe problem has been known for decades. Here are the solutions I've heard proposed: https://t.co/Ur7b0CxF7d",
+   "created_at": "Thu Oct 22 14:39:51 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 60,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://pbs.twimg.com/tweet_video_thumb/HVPgBzSWcAAfyZ0.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2113244666598498487": {
+   "id": "2113244666598498487",
+   "url": "https://x.com/robertwiblin/status/2113244666598498487",
+   "text": "🧵New post in my AI series: Can a million parallel agents create superintelligence? TLDR: More agents buy speed, but intelligence gains diminish fast, and much faster than RSI models. Thanks @noahpinion for the encouragement!  1/25",
+   "created_at": "Thu Oct 22 12:22:45 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ramez",
+   "rt_author_name": "Ramez Naam",
+   "likes": 300,
+   "retweets": 48,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVAvZVjaoAA9JTx.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVAvlpyaUAACzcn.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2113244533949694340": {
+   "id": "2113244533949694340",
+   "url": "https://x.com/robertwiblin/status/2113244533949694340",
+   "text": "Lots of ppl have criticised Anthropic's bill for making it too hard for the govt to shut them down\n\nThis thread defends Anthropic: routing shutdown through the courts is needed to avoid extreme power concentration.\n\nIdk how to strike the tradeoff. \n\nI do wish AI safety spent more time asking \"what would happen if the executive abused my proposal to take control of AI development\"",
+   "created_at": "Thu Oct 22 12:22:13 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "TomDavidsonX",
+   "rt_author_name": "Tom Davidson",
+   "likes": 66,
+   "retweets": 11,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2113222535596654767": {
+   "id": "2113222535596654767",
+   "url": "https://x.com/robertwiblin/status/2113222535596654767",
+   "text": "OpenAI and Google seem to be finding that their AIs have an 80% chance of completing an AI R&amp;D task that would take a staff member 15 minutes.\n\nThat's 14 months behind their 'time horizon' capability on general SWE and cyber tasks as Toby Ord explains:\n\nhttps://t.co/md4vwe10CE",
+   "created_at": "Thu Oct 22 10:54:48 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 70,
+   "retweets": 6,
+   "media": [],
+   "quoted": {
+    "author": "tobyordoxford",
+    "text": "A recent set of posts by @ramez on the current state of recursive self improvement highlighted that OpenAI's report on their own research automation shows that models struggle to do their R&amp;D work — the models' 80% time horizon is only 15 minutes:\n🧵 https://t.co/zqx7wHhxcw"
+   },
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2113192087529083020": {
+   "id": "2113192087529083020",
+   "url": "https://x.com/robertwiblin/status/2113192087529083020",
+   "text": "https://t.co/AXOVFPLdse",
+   "created_at": "Thu Oct 22 08:53:49 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2113192085708734934": {
+   "id": "2113192085708734934",
+   "url": "https://x.com/robertwiblin/status/2113192085708734934",
+   "text": "Lifetime contracts barring any criticism of Google.\n\nIsn't this the thing people were totally outraged and in total disbelief that OpenAI was doing to its staff? https://t.co/m8UfR0ORpf",
+   "created_at": "Thu Oct 22 08:53:49 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 108,
+   "retweets": 12,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVOQwdcWoAAwcT2.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2113187834811281622": {
+   "id": "2113187834811281622",
+   "url": "https://x.com/robertwiblin/status/2113187834811281622",
+   "text": "News! OpenAI's written to Gov. Gavin Newsom recommending a bunch of amendments to strengthen SB 53. Includes a bunch of stuff on AI R&amp;D and shutdown controls. https://t.co/Tz2geNYP7F",
+   "created_at": "Thu Oct 22 08:36:55 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ShakeelHashim",
+   "rt_author_name": "Shakeel",
+   "likes": 147,
+   "retweets": 32,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVK6yiuWoAAT71b.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-22T15:53:03.958439+00:00"
   }
  }
 }
