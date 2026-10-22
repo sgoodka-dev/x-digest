@@ -2783,6 +2783,24 @@
     "text": "@random_walker agent evals are about to become as important as building the agents themselves. a smarter agent means nothing if we can't reliably measure whether it actually works"
    },
    "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2113321726335410256": {
+   "id": "2113321726335410256",
+   "url": "https://x.com/random_walker/status/2113321726335410256",
+   "text": "Please stop posting this take. It’s a bad take!\n\nBankers should be concerned about cybersecurity and AI (and trust me, they are).\n\nPeople should not panic about their bank accounts being hacked by AI and zeroed out. If your bank account is hacked, and the money is taken, that is an unauthorized transfer under the Electronic Funds Transfer Act. As long as you provide timely notice to your bank, you’re not liable for the loss.\n\nPeople should be concerned about being tricked into authorizing fraudulent payments, because they often have liability in those cases. And the potential for AI to supercharge scams is definitely a concern.\n\nBut if you’re going to post about those concerns, be specific and practical, not vague and ominous. Panic about the safety and soundness of the financial system serves no one.",
+   "created_at": "Thu Oct 22 17:28:57 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AlexH_Johnson",
+   "rt_author_name": "Alex Johnson",
+   "likes": 620,
+   "retweets": 42,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-22T19:13:49.199459+00:00"
   }
  }
 }

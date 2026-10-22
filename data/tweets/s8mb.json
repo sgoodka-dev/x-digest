@@ -7902,6 +7902,27 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2113305355119907224": {
+   "id": "2113305355119907224",
+   "url": "https://x.com/s8mb/status/2113305355119907224",
+   "text": "Intriguing ideas here about using AI in education. I have a suspicion that parents who do these things at home will be giving their kids an enormous advantage over their peers in schools that do not adopt these methods pretty soon.",
+   "created_at": "Thu Oct 22 16:23:54 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 28,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "angadhn",
+    "text": "Wrote a quick essay for this; feedback/comments/questions welcome: https://t.co/9k2MSStYjb"
+   },
+   "fetched_at": "2026-10-22T19:13:49.199459+00:00"
   }
  }
 }

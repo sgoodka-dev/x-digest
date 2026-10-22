@@ -1,11 +1,11 @@
 {
  "last_run": {
-  "started": "2026-10-22T15:53:03.958439+00:00",
+  "started": "2026-10-22T19:13:49.199459+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
-    "new": 0,
-    "total": 122
+    "new": 3,
+    "total": 125
    },
    "add_hawk": {
     "ok": true,
@@ -24,23 +24,23 @@
    },
    "curl_justin": {
     "ok": true,
-    "new": 0,
-    "total": 107
+    "new": 2,
+    "total": 109
    },
    "DaveRBanerjee": {
     "ok": true,
-    "new": 0,
-    "total": 136
+    "new": 1,
+    "total": 137
    },
    "DKokotajlo": {
     "ok": true,
-    "new": 4,
-    "total": 157
+    "new": 9,
+    "total": 166
    },
    "dwarkesh_sp": {
     "ok": true,
-    "new": 0,
-    "total": 86
+    "new": 12,
+    "total": 98
    },
    "jkcarlsmith": {
     "ok": true,
@@ -64,7 +64,7 @@
    },
    "sayashk": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 126
    },
    "testingham": {
@@ -74,33 +74,33 @@
    },
    "slatestarcodex": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 116
    },
    "s8mb": {
     "ok": true,
-    "new": 23,
-    "total": 402
+    "new": 1,
+    "total": 403
    },
    "random_walker": {
     "ok": true,
-    "new": 3,
-    "total": 144
+    "new": 1,
+    "total": 145
    },
    "sethlazar": {
     "ok": true,
-    "new": 8,
-    "total": 223
+    "new": 11,
+    "total": 234
    },
    "robertwiblin": {
     "ok": true,
-    "new": 7,
-    "total": 199
+    "new": 3,
+    "total": 202
    },
    "deanwball": {
     "ok": true,
-    "new": 2,
-    "total": 392
+    "new": 9,
+    "total": 401
    },
    "nabeelqu": {
     "ok": true,
@@ -109,8 +109,8 @@
    },
    "theobearman": {
     "ok": true,
-    "new": 8,
-    "total": 189
+    "new": 1,
+    "total": 190
    },
    "peterwilderford": {
     "ok": true,
@@ -123,7 +123,7 @@
     "total": 111
    }
   },
-  "new_tweets": 60,
-  "finished": "2026-10-22T15:54:00.828410+00:00"
+  "new_tweets": 53,
+  "finished": "2026-10-22T19:14:35.934018+00:00"
  }
 }

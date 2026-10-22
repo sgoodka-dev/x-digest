@@ -4055,6 +4055,24 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2113306955825750218": {
+   "id": "2113306955825750218",
+   "url": "https://x.com/theobearman/status/2113306955825750218",
+   "text": "Two employees from METR and Redwood Research worked on premises at OpenAI for three weeks this summer in an embedded assessment pilot. This team evaluated the systems OpenAI was using to monitor for misalignment from internal agents. A brief write-up of their work is now public.",
+   "created_at": "Thu Oct 22 16:30:16 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "METR_Evals",
+   "rt_author_name": "METR",
+   "likes": 732,
+   "retweets": 61,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-22T19:13:49.199459+00:00"
   }
  }
 }
