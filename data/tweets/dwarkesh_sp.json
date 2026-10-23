@@ -1972,6 +1972,29 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-23T15:45:08.314651+00:00"
+  },
+  "2113661025023308065": {
+   "id": "2113661025023308065",
+   "url": "https://x.com/dwarkesh_sp/status/2113661025023308065",
+   "text": "Intel CTO explains why Intel is helping Elon Musk build Terafab, and what a new fab needs besides tools\n\nDWARKESH: “I think it’ll be interesting to discuss the partnership you guys have with Elon on Terafab. What’s going on there?”\n\nPUSHKAR RANADE (CTO): “Well, I think Elon’s publicly talked about his desire to build a fab.”\n\n[Musk clip spliced in]: “We either build the Terafab or we don’t have the chips. And we need the chips, so we’re going to build the Terafab.”\n\nRANADE: “Sort of the same thinking. I think he’s seeing just an enormous increase in demand for silicon, for compute and for memory. And I think he came to the conclusion that his own businesses are going to require a lot of silicon. And so he thought maybe he should just do it all on his own. Unlike building a car, for example, this is such an intricate and complicated process. We thought we could work together to help accelerate his bringing up his fab.”\n\nDWARKESH: “But because of the bottleneck at the tool level, it seems like the net amount of silicon in the world won’t increase. It’s just that maybe if somebody were to start a new fab, they would get access to guaranteed supply in a way that they wouldn’t have if they’re working with another person’s foundry.”\n\nRANADE: “It’s actually not just tools. I mean, a fab does require a lot of power, a lot of water, a lot of consumables. There’s many other input variables as well.”\n\nDWARKESH: “But those can be scaled in the way that tools cannot.”\n\nRANADE: “Yea. Some more than others, but yes. In one sense, yes, we need a lot more equipment. But it is true, we also need a lot more just raw fab space, raw clean room capacity.”",
+   "created_at": "Fri Oct 23 15:57:12 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "firesidealpha",
+   "rt_author_name": "Fireside Alpha",
+   "likes": 1301,
+   "retweets": 177,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2113322560637284352/img/DNgRykubDgGpgeLs.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-23T19:15:10.041739+00:00"
   }
  }
 }

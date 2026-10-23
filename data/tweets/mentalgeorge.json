@@ -2244,6 +2244,29 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-23T15:45:08.314651+00:00"
+  },
+  "2113671402200911993": {
+   "id": "2113671402200911993",
+   "url": "https://x.com/mentalgeorge/status/2113671402200911993",
+   "text": "Can AI accelerate hardware as well as software? \n\n@tsmilton_amodo explains that, for this to work, we're going to need the physical equivalent of unit tests. \n\nThere are two complementary paths to pursue:\n\n1. Find a way to rapidly accelerate prototyping, the way that Formula 1 engineers have \n2. Make simulation good enough that you can skip prototyping stages",
+   "created_at": "Fri Oct 23 16:38:27 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2113671071438163968/img/-1mpU_RZalt3_SjY.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-23T19:15:10.041739+00:00"
   }
  }
 }

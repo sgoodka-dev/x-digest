@@ -4948,6 +4948,68 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-23T15:45:08.314651+00:00"
+  },
+  "2113695621848977667": {
+   "id": "2113695621848977667",
+   "url": "https://x.com/sethlazar/status/2113695621848977667",
+   "text": "I agree with Geoffrey that even bringing AI up to the standards of more rigorous industries might not be enough. His examples are from engineering, but I'd say the same about governance.\n\nMany proposals for more serious AI governance take finance as their model, calling for independent audits, bank-style supervision or an AI version of FINRA. I worked in AI in finance for a few years, and I understand the appeal. These approaches are certainly better than the status quo at AI companies. But we shouldn't treat them as sufficient.\n\nThe financial sector has had decades to build these controls, and they still fail. We've seen big failures, and there are many, many small ones that never reach the headlines, so the public record makes these mechanisms look more reliable than they are.\n\nThe risks in finance are also better understood and more predictable than the risks posed by AI systems that are new and change quickly, let alone systems that are, as Geoffrey says, good at being adversarial. These governance mechanisms would keep us safer than we currently are, but probably not safe.",
+   "created_at": "Fri Oct 23 18:14:41 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "bebacibralic",
+   "rt_author_name": "Beba Cibralic",
+   "likes": 16,
+   "retweets": 3,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-23T19:15:10.041739+00:00"
+  },
+  "2113682374730879474": {
+   "id": "2113682374730879474",
+   "url": "https://x.com/sethlazar/status/2113682374730879474",
+   "text": "Very clear mapping of where we are, and how far we have to go...",
+   "created_at": "Fri Oct 23 17:22:03 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "geoffreyirving",
+    "text": "Lots of conversation around AI risks is about the gap between the unserious of AI labs' methods and how more rigorous industries work: airplanes, nuclear power, AI hardware. It would help a ton to lift AI to that level, but it is unclear even that level would be enough. 🧵 https://t.co/AVjVi7wvlV"
+   },
+   "fetched_at": "2026-10-23T19:15:10.041739+00:00"
+  },
+  "2113658378975318083": {
+   "id": "2113658378975318083",
+   "url": "https://x.com/sethlazar/status/2113658378975318083",
+   "text": "Protocols for AI agents (e.g. MCP and A2A) are fast becoming a new form of critical infrastructure, much like existing internet protocols (e.g. TCP/IP and HTTP). In a new paper, we draw lessons from this comparison for security and governance. 1/7 https://t.co/yQRprKIxk8",
+   "created_at": "Fri Oct 23 15:46:42 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ben_s_bucknall",
+   "rt_author_name": "Ben Bucknall",
+   "likes": 12,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVUkSyNWMAAfDaR.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-23T19:15:10.041739+00:00"
   }
  }
 }

@@ -2262,6 +2262,29 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-23T15:45:08.314651+00:00"
+  },
+  "2113660465238675707": {
+   "id": "2113660465238675707",
+   "url": "https://x.com/_achan96_/status/2113660465238675707",
+   "text": "I interviewed @tsmilton_amodo about the tech we'd need to verify a potential US-China deal on AI. \n\nWe discuss Amodo's prototype for inference verification, as well as the myriad ways you could use power monitoring, zero knowledge proofs and/or unilateral surveillance to understand how an adversary is using compute.\n\nThough solving some kind of verification is central to many people's theories of victory, there are precious few people working on it currently. Tom is one such person! \n\nListen to the episode on Youtube, Spotify or Apple Podcasts. \n\nYou can also find more about Tom and Amodo's work at \nhttps://t.co/TxlEEyvig1\n\n00:00:00 Using compute verification for an AI slowdown\n\n00:06:08 Proving a datacentre is only running inference\n\n00:13:22 Reading a GPU's workload from its power draw\n\n00:23:35 What would it take to get verification deal-ready?\n\n00:37:49 How realistic is verification? \n\n00:46:07 Preparing for a rushed US-China deal\n\n01:07:20 How good is AI at hardware design?",
+   "created_at": "Fri Oct 23 15:54:59 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "mentalgeorge",
+   "rt_author_name": "Tom Reed",
+   "likes": 34,
+   "retweets": 7,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2113646105191673856/img/AR9na-GdgiPIW_Ix.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-23T19:15:10.041739+00:00"
   }
  }
 }
