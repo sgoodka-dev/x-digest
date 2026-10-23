@@ -2421,6 +2421,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2113359491773403311": {
+   "id": "2113359491773403311",
+   "url": "https://x.com/sayashk/status/2113359491773403311",
+   "text": "I don't think \"everything is fine,\" but anyone claiming that php2shell is \"the worst day in cybersecurity history\" needs to explain why there's more risk here than:\n\nInnumerable celebrity vulns and exploit PoCs,\nSerious protocol bugs in TCP/IP/DNS,\nOut-of-control worm incidents,\nNation-state attacks on economies/critical infrastructure e.g. Russia->Ukraine,\nKernel packet-parsing bugs in popular operating systems,\nThe proliferation of AI social engineering tools since 2022,\nThe proliferation of AI hacking tools.\n\nIf you can't explain why this time is different/worse, with reference to clear technical mechanisms and attacker motivations, you don't have a serious argument..\n\nI also think this kind of alarmism detracts from the genuine fact that we have a looming crisis in security due to AI which we need correct risk models for",
+   "created_at": "Thu Oct 22 19:59:01 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "joshua_saxe",
+   "rt_author_name": "Joshua Saxe",
+   "likes": 94,
+   "retweets": 10,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-23T15:45:08.314651+00:00"
   }
  }
 }

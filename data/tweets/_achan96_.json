@@ -2221,6 +2221,47 @@
     "text": "[1/7] China’s AI labs are also talking about “recursive self-improvement” (RSI). A big question here is: Is Beijing coordinating a race to achieve RSI?\n\n@ZilanQian and I looked at Chinese AI companies, investors, and policy docs.\n\nWe found a more bottom-up, commercial story. https://t.co/2cBFsC8kVy"
    },
    "fetched_at": "2026-10-22T19:13:49.199459+00:00"
+  },
+  "2113521890392219750": {
+   "id": "2113521890392219750",
+   "url": "https://x.com/_achan96_/status/2113521890392219750",
+   "text": "If rogue AI agents can copy their weights, run on random servers, go offline and spread again, we may never eradicate them.\n\nAlan Chan @_achan96_ of @GovAIOrg suggests considering deals: pay them for intel, maybe give them a small compute farm to live off. 🤝 https://t.co/ygbufZstvv",
+   "created_at": "Fri Oct 23 06:44:20 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "CogRev_Podcast",
+   "rt_author_name": "The Cognitive Revolution Podcast",
+   "likes": 3,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2113374858956664832/img/sU_fgdEpjSVSqW1t.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-23T15:45:08.314651+00:00"
+  },
+  "2113521848231084207": {
+   "id": "2113521848231084207",
+   "url": "https://x.com/_achan96_/status/2113521848231084207",
+   "text": "Full conversation with @_achan96_ of @GovAIOrg covers where agent monitoring, logging & IDs stand, why rogue agents may be here to stay, his intelligence-explosion paper with Pachocki, Clark, Hinton & Bengio, and AI whistleblowers.\n\nhttps://t.co/2nRiO8ZtdB\n\nYouTube: https://t.co/835Jhv43xd",
+   "created_at": "Fri Oct 23 06:44:10 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "CogRev_Podcast",
+   "rt_author_name": "The Cognitive Revolution Podcast",
+   "likes": 1,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-23T15:45:08.314651+00:00"
   }
  }
 }

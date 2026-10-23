@@ -1,11 +1,11 @@
 {
  "last_run": {
-  "started": "2026-10-22T19:13:49.199459+00:00",
+  "started": "2026-10-23T15:45:08.314651+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
-    "new": 3,
-    "total": 125
+    "new": 2,
+    "total": 127
    },
    "add_hawk": {
     "ok": true,
@@ -19,28 +19,28 @@
    },
    "alxndrdavies": {
     "ok": true,
-    "new": 0,
-    "total": 80
+    "new": 9,
+    "total": 89
    },
    "curl_justin": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 109
    },
    "DaveRBanerjee": {
     "ok": true,
     "new": 1,
-    "total": 137
+    "total": 138
    },
    "DKokotajlo": {
     "ok": true,
-    "new": 9,
-    "total": 166
+    "new": 6,
+    "total": 172
    },
    "dwarkesh_sp": {
     "ok": true,
-    "new": 12,
-    "total": 98
+    "new": 6,
+    "total": 104
    },
    "jkcarlsmith": {
     "ok": true,
@@ -49,13 +49,13 @@
    },
    "Lewis_Bollard": {
     "ok": true,
-    "new": 0,
-    "total": 87
+    "new": 1,
+    "total": 88
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 0,
-    "total": 121
+    "new": 4,
+    "total": 125
    },
    "ohlennart": {
     "ok": true,
@@ -64,8 +64,8 @@
    },
    "sayashk": {
     "ok": true,
-    "new": 0,
-    "total": 126
+    "new": 1,
+    "total": 127
    },
    "testingham": {
     "ok": true,
@@ -79,28 +79,28 @@
    },
    "s8mb": {
     "ok": true,
-    "new": 1,
-    "total": 403
+    "new": 9,
+    "total": 412
    },
    "random_walker": {
     "ok": true,
     "new": 1,
-    "total": 145
+    "total": 146
    },
    "sethlazar": {
     "ok": true,
-    "new": 11,
-    "total": 234
+    "new": 21,
+    "total": 255
    },
    "robertwiblin": {
     "ok": true,
-    "new": 3,
-    "total": 202
+    "new": 17,
+    "total": 219
    },
    "deanwball": {
     "ok": true,
-    "new": 9,
-    "total": 401
+    "new": 17,
+    "total": 418
    },
    "nabeelqu": {
     "ok": true,
@@ -109,8 +109,8 @@
    },
    "theobearman": {
     "ok": true,
-    "new": 1,
-    "total": 190
+    "new": 4,
+    "total": 194
    },
    "peterwilderford": {
     "ok": true,
@@ -123,7 +123,7 @@
     "total": 111
    }
   },
-  "new_tweets": 53,
-  "finished": "2026-10-22T19:14:35.934018+00:00"
+  "new_tweets": 99,
+  "finished": "2026-10-23T15:45:54.588003+00:00"
  }
 }

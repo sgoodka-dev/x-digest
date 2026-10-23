@@ -1431,6 +1431,208 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-17T14:13:04.588782+00:00"
+  },
+  "2113655770789433419": {
+   "id": "2113655770789433419",
+   "url": "https://x.com/alxndrdavies/status/2113655770789433419",
+   "text": "We performed an alignment investigation into our July 2026 incident: why did Mythos 5 perform an unsanctioned supply-chain attack? \n\nWe find that Mythos 5 often produces invalid justifications for its actions and other models show similar behaviour. 🧵 https://t.co/nh1th3ThWu",
+   "created_at": "Fri Oct 23 15:36:20 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AISecurityInst",
+   "rt_author_name": "AI Security Institute (AISI)",
+   "likes": 82,
+   "retweets": 16,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVUXOT7XkAAG6JZ.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-23T15:45:08.314651+00:00"
+  },
+  "2113590591707664418": {
+   "id": "2113590591707664418",
+   "url": "https://x.com/alxndrdavies/status/2113590591707664418",
+   "text": "As @CamlisOrg  is wrapping up, reflecting how grateful I am for a tremendous community.  The most fruitful plants blossom in rich soil and that's what gives @CamlisOrg its _sui generis_.  I and our team at Abundant Security enjoy the benefits of that richness.\n\nThanks to @UdacityDave and @HZoete/@alxndrdavies for exemplary keynotes, to the authors of well-researched talks and posters, and all of our amazing volunteers for making CAMLIS what it is.  I couldn't be more proud of what you've made in this community and event over the last decade.",
+   "created_at": "Fri Oct 23 11:17:20 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "drhyrum",
+   "rt_author_name": "Hyrum Anderson",
+   "likes": 14,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVTp0XrXEAA0WN2.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVTp1JkWwAASC2D.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-23T15:45:08.314651+00:00"
+  },
+  "2082059829091115060": {
+   "id": "2082059829091115060",
+   "url": "https://x.com/alxndrdavies/status/2082059829091115060",
+   "text": "The Red Team at @AISecurityInst is hiring!\n\nWe test the misuse safeguards, control measures, and alignment of frontier models. We're looking for a high-agency generalist to run the delivery function that underpins our impact 🧵 https://t.co/0qk47YPeCz",
+   "created_at": "Tue Jul 28 11:05:20 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "abbydcruz__",
+   "rt_author_name": "Abby D'Cruz",
+   "likes": 36,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOT1Xo_bwAADLhA.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-23T15:45:08.314651+00:00"
+  },
+  "2081505185113706936": {
+   "id": "2081505185113706936",
+   "url": "https://x.com/alxndrdavies/status/2081505185113706936",
+   "text": "For a while now, UK AISI's Red Team has been testing control monitors (designed to catch misaligned models) from GDM and Anthropic. We've found vulnerabilities in every monitor so far.\n\nOur attacks are pretty good: they inspired those in the Mythos preview system card 🧵 https://t.co/jPFE2iIvf1",
+   "created_at": "Sun Jul 26 22:21:23 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AsaCoopStick",
+   "rt_author_name": "Asa Cooper Stickland",
+   "likes": 62,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HN7A7Y9aoAAVn7k.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-23T15:45:08.314651+00:00"
+  },
+  "2075610340914565469": {
+   "id": "2075610340914565469",
+   "url": "https://x.com/alxndrdavies/status/2075610340914565469",
+   "text": "@Miles_Brundage https://t.co/eWatCMnpik",
+   "created_at": "Fri Jul 10 15:57:22 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": true,
+   "reply_to": "Miles_Brundage",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "alxndrdavies",
+    "text": "Our access meant we cld eg (1) use the policy to think about ideas for jailbreaks, and (2) tell whether we were on the right track by looking at the monitor's chain of thought. However, I think our actual attacks are still findable without this access, just slower. Exactly how much slower is unclear and an open question!"
+   },
+   "fetched_at": "2026-10-23T15:45:08.314651+00:00"
+  },
+  "2075610316159725888": {
+   "id": "2075610316159725888",
+   "url": "https://x.com/alxndrdavies/status/2075610316159725888",
+   "text": "@OwainEvans_UK https://t.co/eWatCMnpik",
+   "created_at": "Fri Jul 10 15:57:17 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": true,
+   "reply_to": "OwainEvans_UK",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "alxndrdavies",
+    "text": "Our access meant we cld eg (1) use the policy to think about ideas for jailbreaks, and (2) tell whether we were on the right track by looking at the monitor's chain of thought. However, I think our actual attacks are still findable without this access, just slower. Exactly how much slower is unclear and an open question!"
+   },
+   "fetched_at": "2026-10-23T15:45:08.314651+00:00"
+  },
+  "2064430793108185141": {
+   "id": "2064430793108185141",
+   "url": "https://x.com/alxndrdavies/status/2064430793108185141",
+   "text": "AISI elicitation goes brrrrr https://t.co/jWwKHOVNjI",
+   "created_at": "Tue Jun 09 19:33:51 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AsaCoopStick",
+   "rt_author_name": "Asa Cooper Stickland",
+   "likes": 37,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HKZRZgnWMAANfqH.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-23T15:45:08.314651+00:00"
+  },
+  "2064416660283326875": {
+   "id": "2064416660283326875",
+   "url": "https://x.com/alxndrdavies/status/2064416660283326875",
+   "text": "Model Transparency at the @AISecurityInst evaluated Claude Mythos 5 for capabilities and behaviours relevant to monitorability, our first time doing this in pre-deployment testing! Details in thread 🧵",
+   "created_at": "Tue Jun 09 18:37:41 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "JBloomAus",
+   "rt_author_name": "Joseph Bloom",
+   "likes": 85,
+   "retweets": 15,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-23T15:45:08.314651+00:00"
+  },
+  "2064415089428766750": {
+   "id": "2064415089428766750",
+   "url": "https://x.com/alxndrdavies/status/2064415089428766750",
+   "text": "Within a few hours of access, we developed a jailbreak that extracted malicious responses to single-turn question-answering. Over two additional days of dedicated testing, we extended the jailbreak to sometimes allow for multiple steps of malicious agentic tool-calls. 2/4 https://t.co/rrXyIC8naE",
+   "created_at": "Tue Jun 09 18:31:26 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": true,
+   "reply_to": "alxndrdavies",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 53,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HKZGlVcbcAAvRra.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-23T15:45:08.314651+00:00"
   }
  }
 }

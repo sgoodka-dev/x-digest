@@ -1653,6 +1653,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-21T15:57:51.311194+00:00"
+  },
+  "2113655360435425556": {
+   "id": "2113655360435425556",
+   "url": "https://x.com/Lewis_Bollard/status/2113655360435425556",
+   "text": "The world's starving children have endured enough. Must we take away their foie gras too?",
+   "created_at": "Fri Oct 23 15:34:42 +0000 2026",
+   "author_handle": "Lewis_Bollard",
+   "author_name": "Lewis Bollard",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "mbolotnikova",
+   "rt_author_name": "Marina Bolotnikova",
+   "likes": 360,
+   "retweets": 31,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-23T15:45:08.314651+00:00"
   }
  }
 }

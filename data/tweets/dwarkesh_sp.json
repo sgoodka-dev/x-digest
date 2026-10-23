@@ -1844,6 +1844,134 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-22T19:13:49.199459+00:00"
+  },
+  "2113656562371928434": {
+   "id": "2113656562371928434",
+   "url": "https://x.com/dwarkesh_sp/status/2113656562371928434",
+   "text": "Super impressed with the depth of questions by @dwarkesh_sp for a topic as complex as semis manufacturing. \n\n10/10 would recommend- one of the best pieces of content produced in the space.",
+   "created_at": "Fri Oct 23 15:39:28 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "aryamman_bhatia",
+   "rt_author_name": "Aryamman Bhatia",
+   "likes": 123,
+   "retweets": 7,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-23T15:45:08.314651+00:00"
+  },
+  "2113655739311144966": {
+   "id": "2113655739311144966",
+   "url": "https://x.com/dwarkesh_sp/status/2113655739311144966",
+   "text": "CTO of Intel, Pushkar Ranade, says that AI labs could could easily consume an entire fabs worth of silicon on their own:\n\nDwarkesh: \"At some point, the AI labs could just say, “We’ll just buy everything. Produce as much as you can. We’ll guarantee future income streams.\"\n\nPushkar: \"Some of the model companies, for example, their demand is so high they could easily consume an entire fabs worth of silicon on their own, or multiple fabs worth of silicon on their own, and they definitely have the capital to fund that.\"\n\nVia @dwarkesh_sp \n\n$INTC $GOOGL $META $MSFT $AMZN",
+   "created_at": "Fri Oct 23 15:36:12 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "pequityresearch",
+   "rt_author_name": "P Equity Research 📰",
+   "likes": 99,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2113450806284292096/img/vesrxhsWJwjR3pGt.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-23T15:45:08.314651+00:00"
+  },
+  "2113655028867322333": {
+   "id": "2113655028867322333",
+   "url": "https://x.com/dwarkesh_sp/status/2113655028867322333",
+   "text": "Watch the full video on advanced semiconductor manufacturing at Intel: https://t.co/1nDpCc5psZ",
+   "created_at": "Fri Oct 23 15:33:23 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "dwarkesh_sp",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-23T15:45:08.314651+00:00"
+  },
+  "2113654775665631551": {
+   "id": "2113654775665631551",
+   "url": "https://x.com/dwarkesh_sp/status/2113654775665631551",
+   "text": "How a modern transistor works: https://t.co/dwCb1uxPt1",
+   "created_at": "Fri Oct 23 15:32:22 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 47,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2113653955956023296/img/OUofKuEY19hyWH75.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-23T15:45:08.314651+00:00"
+  },
+  "2113654309963681999": {
+   "id": "2113654309963681999",
+   "url": "https://x.com/dwarkesh_sp/status/2113654309963681999",
+   "text": "Intel’s Chris Auth says High-NA EUV pays off for Intel but not for TSMC, because Intel has backside power and TSMC doesn’t\n\n“High-NA is a good example of where, because of the architecture of our technology versus TSMC’s, we make different conclusions off of the same toolset.\"\n\n\"We use backside power. That means that you actually alleviate some of the pitch requirements you have on the front side, and that allows you to print that directly with High-NA.\"\n\n\"TSMC has to run tighter pitches because they don’t have backside power, and they can’t do that with High-NA, so they have to use double patterning EUV. So for them, it’s not very helpful. For us, it is very helpful.”",
+   "created_at": "Fri Oct 23 15:30:31 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "firesidealpha",
+   "rt_author_name": "Fireside Alpha",
+   "likes": 47,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2113434884186476544/img/C2U7XI5FIEYUK2H2.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-23T15:45:08.314651+00:00"
+  },
+  "2113379617767592209": {
+   "id": "2113379617767592209",
+   "url": "https://x.com/dwarkesh_sp/status/2113379617767592209",
+   "text": "We made some really cool animated explainers for the Intel fab tour episode. \n\nThis one is about hybrid bonding. Plz enjoy. https://t.co/STnwArQhy9",
+   "created_at": "Thu Oct 22 21:19:00 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 629,
+   "retweets": 51,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2113341030171054080/img/8sqQ9V-iGYpy5Oxm.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-23T15:45:08.314651+00:00"
   }
  }
 }

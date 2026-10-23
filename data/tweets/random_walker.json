@@ -2801,6 +2801,27 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-22T19:13:49.199459+00:00"
+  },
+  "2113597344902001047": {
+   "id": "2113597344902001047",
+   "url": "https://x.com/random_walker/status/2113597344902001047",
+   "text": "Such a great post! Insights I particularly appreciated:\n- \"Why hasn’t a huge discontinuity in damages happened since the dawn of scaled AI? This non-responsiveness of damages to a rising tide of AI capabilities is the major conceptual crux, and stumbling block, of all AI security policy today.\"\n- \"cybercriminals are unskilled and get arrested a lot ... Criminal organizations need to base themselves in middle and lower income countries, where they can pay less and hire people who have few formal-economy options. ... I think folks in the AI safety and cyber world sometimes imagine adversaries as their Waluigi twins, implicit MIT graduates; in fact, in cybercrime we’re dealing with a lower-skill demographic.\"\n- \"Criminals also contend with the risk and reality of arrest, sanction, interdiction, and prosecution, which caps their ability to scale: the larger the organization, the more domestic and international law enforcement attention it attracts.\"\n- \"It took the attacker ecosystem a very long time to mature the workflows, business models, and industrial divisions of labor that scaled ransomware into a multi-billion dollar industry, and it’ll take a long time to develop new models that centrally leverage AI throughout criminal labor processes... it took 5-8 years for ransomware to become a huge deal\"\n- \"As risk professionals we should assume this will all change and that what we have now is a defender-dominant window in which we can prepare for some very bad possible futures\"\nLots of interesting charts too: https://t.co/d58L9q6jyR",
+   "created_at": "Fri Oct 23 11:44:10 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 45,
+   "retweets": 12,
+   "media": [],
+   "quoted": {
+    "author": "joshua_saxe",
+    "text": "Contrary to the implicit mental models of many on this website, cybercriminals aren't the security-engineer Waluigis of Stanford-educated big tech engineers, or the criminal analogs of a16z-backed AI pentesting startups.\n\nThey're generally less talented, recruited from middle-income countries with weak legal oversight and fewer legal tech job options, and struggle with arrests, sanctions, retaining talent, and stable access to AI inference.  Ransomware took years to become a scaled business under these conditions, and AI-native organized criminal syndicates that fully leverage the power of AI to scale may take awhile too.\n\nNation-states, meanwhile, are quick to adopt AI for vulnerability research and exploit development, but historically slow to deeply retool military operations with new technologies.  And potentially devastating agentic cyber swarms may become weapons in their arsenals alongside e.g. ballistic missiles that they possess but don't immediately use.\n\nSo to those calling php2shell \"the worst day in cyber ever\" and expecting immediate spikes in cyber damages: there isn't the direct relationship between new capabilities and new damages you're imagining.  \n\nThis is good news, obviously.  It means defenders have time to prepare (and we should be shouting from the rooftops that we're in a defense-advantaged interregnum, currently).  Huge risks are approaching but at the pace of technology diffusion into less innovative parts of the world economy and state sector, not at the pace of AI capability growth.\n\nFull version: https://t.co/ldxVTVpZBT"
+   },
+   "fetched_at": "2026-10-23T15:45:08.314651+00:00"
   }
  }
 }

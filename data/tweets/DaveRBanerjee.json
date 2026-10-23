@@ -2538,6 +2538,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-22T19:13:49.199459+00:00"
+  },
+  "2112885440206274593": {
+   "id": "2112885440206274593",
+   "url": "https://x.com/DaveRBanerjee/status/2112885440206274593",
+   "text": "I work on preventing extreme power concentration at a well-known AI safety research outfit.   \n\nI think Nathan and other commentators are being unduly harsh about the leaked Anthropic bill. I think it’s actually pretty good from a power concentration perspective! (1/n)",
+   "created_at": "Wed Oct 21 12:35:19 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "concentrate_not",
+   "rt_author_name": "NotFromConcentrate",
+   "likes": 57,
+   "retweets": 5,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-23T15:45:08.314651+00:00"
   }
  }
 }
