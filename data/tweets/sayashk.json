@@ -2439,6 +2439,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-23T15:45:08.314651+00:00"
+  },
+  "2113744835295522888": {
+   "id": "2113744835295522888",
+   "url": "https://x.com/sayashk/status/2113744835295522888",
+   "text": "We are really excited to build independent evaluations of RSI progress and are actively hiring.\n\nWe constantly see conflicting evidence about RSI progress. Most hinges on information coming from labs. To illustrate this, let's just look at evidence discussed *this week* that conflicts in whether it suggests RSI progress is fast or slow.\nhttps://t.co/F4vi5Z3fch\nResults from OpenAI and Google evals indicate the time horizons for R&D tasks being automated are around ~15 minutes, which are much slower than METR time horizons for software tasks. This suggests we should have *slower* RSI timelines.\n\nhttps://t.co/RfFobR22bw\nResults from Mirendil indicate that pretraining at a certain scale can be heavily automated such that it can be managed by a single pretraining researcher. This suggests we should have *faster* RSI timelines.\n\nhttps://t.co/lIYID0eFII\nResults from Nvidia indicate that frontier models provide significant uplift for CUDA optimization. This suggests we should have *faster* RSI timelines.\n\nEach piece of evidence is more complex than what I write here. Interpreting them all together is confusing even if you trusted them all fully. And factoring in the underlying level of credibility is basically impossible: each result is basically just some plots and numbers selectively disclosed by labs in a tweet/talk/report. So deep sense-making about RSI progress is very hard.\n\nIf you are interested in building independent RSI evals, apply here:\nhttps://t.co/w6CfTsvJfI",
+   "created_at": "Fri Oct 23 21:30:14 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "RishiBommasani",
+   "rt_author_name": "rishi",
+   "likes": 40,
+   "retweets": 7,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-24T14:33:38.169236+00:00"
   }
  }
 }

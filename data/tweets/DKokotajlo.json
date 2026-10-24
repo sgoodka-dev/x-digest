@@ -3267,6 +3267,146 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-23T19:15:10.041739+00:00"
+  },
+  "2113996437415694468": {
+   "id": "2113996437415694468",
+   "url": "https://x.com/DKokotajlo/status/2113996437415694468",
+   "text": "@elonmusk @Rothmus Yes but some governments such as the US one allow people to vote for the leaders of the government. (And also have separation of powers and basic rights to a greater extent than corporations).",
+   "created_at": "Sat Oct 24 14:10:01 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "elonmusk",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-24T14:33:38.169236+00:00"
+  },
+  "2113994685538857304": {
+   "id": "2113994685538857304",
+   "url": "https://x.com/DKokotajlo/status/2113994685538857304",
+   "text": "Few years ago, there was just a handful of economists seriously thinking about AI (@akorinek,@pawtrammell,@erikbryn,Carl Shulman & few of their collaborators) and I was like 'this is insane, there should be 10x as many'.\n\nNow it's ~10x-30x more and frankly it is disappointing so far. Majority of the new economists bring a mindset and frames which are something between unhelpful to directly harmful for understanding AGI\n- not taking AGI seriously / \"AI as a normal technology\"\n- merchants of cope dynamic (in high demand by the labs)\n- labour/capital mindset\n- people were wrong about risks of tech transitions in the past and by induction they are again\netc...\ncoupled with epistemic arrogance. Sorry for being very blunt, by my impression is part of the problem is economists are often used to be in the broader context of humanities where they are the most quantitative and in some ways the smartest lot in various rooms, and others disagree with them for bad reasons. But this is _not_ the case relative to AI safety a few years ago!",
+   "created_at": "Sat Oct 24 14:03:03 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "jankulveit",
+   "rt_author_name": "Jan Kulveit",
+   "likes": 191,
+   "retweets": 16,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-24T14:33:38.169236+00:00"
+  },
+  "2113993890361737464": {
+   "id": "2113993890361737464",
+   "url": "https://x.com/DKokotajlo/status/2113993890361737464",
+   "text": "@gmiller We talk about what it might look like to solve it and how, and therefore impliticly why we think it is solveable, in  AI 2040: Plan A. Too long to explain on my phone keyboard sorry.",
+   "created_at": "Sat Oct 24 13:59:54 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "gmiller",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-24T14:33:38.169236+00:00"
+  },
+  "2113734918874529892": {
+   "id": "2113734918874529892",
+   "url": "https://x.com/DKokotajlo/status/2113734918874529892",
+   "text": "I'm just speculating like everyone else (no juicy secrets about this shared with me) but here's my guess about what is going on right now with OpenAI and the three fired employees:\n\nThe negotiations between OpenAI and METR are ongoing. OpenAI has said they want embedded third parties, METR has proven their worth with the previous engagements, so METR is an obvious choice. But my guess is that METR is asking for more this time; probably they want more access, more time on site, less narrow scope, the right to comment on redactions, etc.\n\n(Compare with the terms of their previous engagements: In this one https://t.co/wHyMV5OYnz a third of their report was redacted and they weren’t allowed to say why, and in the Hugging Face investigation they only had 6 days and were only allowed to investigate the precursor swarms nor the subsequent more severe compromise of OpenAI infrastructure. https://t.co/gAEn3hnGK3)\n\nVarious researchers at OpenAI probably support METR in this (including, I’d imagine, the fired three employees? Tomek was the point person on the hugging face investigation), but also various higher-ups at OpenAI and legal types probably oppose and want more restricted access and scope – basically they want to work with an org that’ll go easy on them and not give them trouble.\n\nOpenAI holds most of the cards here, since this whole thing is voluntary and not legally required, and they can threaten to go with Accenture or HuggingFace or whatever instead. Anyhow to improve their bargaining position and/or minimize the blowback if they decide to say no to METR and go with someone more pliable, it helps if they can discredit METR.\n\nHence (I suspect) why they are going after my friend Ryan Greenblatt (who works at METR) now. They don't need to present actual evidence, they just need to cast vague aspersions, and many employees will give them the benefit of the doubt. If and when they say \"We chose to work with a different third party\" they'll face lower risk of employee discontent than if METR's reputation was unsullied.\n\nThis whole mess, by the way, was predictable. *Of course* there's a big political fight about who should be trusted to do this and who has relevant expertise and independence etc. and *of course* the companies are trying to make things shake out in a way that favors them.\n\nIt's part of why I've been advocating for *actually pacing the frontier* instead of just doing third party assessments. \"We allocate at most 20% of our compute to AI R&D\" is a lot easier to verify than \"we are being safe and responsible\" and depends a lot less on subjective judgment and technical alignment expertise -- AND, if you do it, people will be able to see the slowdown in the trends of agentic coding performance in the frontier companies and see laggard companies start to catch up. Harder for it to end up just being safetywashing / industry capture.",
+   "created_at": "Fri Oct 23 20:50:50 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 469,
+   "retweets": 35,
+   "media": [],
+   "quoted": {
+    "author": "RyanGreenblatt",
+    "text": "Based on this article, OpenAI has made false accusations about me. The three researchers fired from OpenAI were told I facilitated architecture leaks to The Information. This is false.\n\nA journalist from The Information did reach out to me shortly before that article came out. I did not comment at all beyond asking the journalist to make it clear that a blog post I wrote which was referenced in the article was preexisting and public.\n\nThe article also mentions an internal OpenAI monitorability proposal. I have heard that this memo contained highly sensitive architecture information, and that OpenAI accused me of accessing and reading it. This accusation is also false.\n\nAs reported in the article, I viewed a version of the proposal that did not have sensitive IP and was approved for sharing with me. I believe OpenAI now knows this accusation was based on a conflation of these two documents, though I do not know if they have clearly retracted that accusation.\n\nI do not and have never solicited proprietary information, and the three employees who were recently fired from OpenAI never leaked IP to me. As the article mentions, I did have Signal chats with them that had disappearing messages on; they’re professional contacts that I’ve had on Signal for a while, and use of Signal is common in the tech industry. During the Hugging Face investigation, I was careful to avoid sending Signal messages with confidential information, though I did sometimes discuss high level things on Signal calls. As far as I understood, this was normal."
+   },
+   "fetched_at": "2026-10-24T14:33:38.169236+00:00"
+  },
+  "2113713347703263272": {
+   "id": "2113713347703263272",
+   "url": "https://x.com/DKokotajlo/status/2113713347703263272",
+   "text": "It has now been a few weeks.",
+   "created_at": "Fri Oct 23 19:25:07 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 215,
+   "retweets": 5,
+   "media": [],
+   "quoted": {
+    "author": "DKokotajlo",
+    "text": "@tomekkorbak Right so in a few weeks after the security has been hardened, will METR and Redwood be allowed back in to continue the investigation and do ablation experiments on the models responsible?"
+   },
+   "fetched_at": "2026-10-24T14:33:38.169236+00:00"
+  },
+  "2113711864681295946": {
+   "id": "2113711864681295946",
+   "url": "https://x.com/DKokotajlo/status/2113711864681295946",
+   "text": "This is a really good thread.",
+   "created_at": "Fri Oct 23 19:19:14 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 44,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "geoffreyirving",
+    "text": "Lots of conversation around AI risks is about the gap between the unserious of AI labs' methods and how more rigorous industries work: airplanes, nuclear power, AI hardware. It would help a ton to lift AI to that level, but it is unclear even that level would be enough. 🧵 https://t.co/AVjVi7wvlV"
+   },
+   "fetched_at": "2026-10-24T14:33:38.169236+00:00"
+  },
+  "2113711187536040250": {
+   "id": "2113711187536040250",
+   "url": "https://x.com/DKokotajlo/status/2113711187536040250",
+   "text": "Lots of conversation around AI risks is about the gap between the unserious of AI labs' methods and how more rigorous industries work: airplanes, nuclear power, AI hardware. It would help a ton to lift AI to that level, but it is unclear even that level would be enough. 🧵 https://t.co/AVjVi7wvlV",
+   "created_at": "Fri Oct 23 19:16:32 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "geoffreyirving",
+   "rt_author_name": "Geoffrey Irving",
+   "likes": 247,
+   "retweets": 38,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVPqyBPaoAEsJDI.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-24T14:33:38.169236+00:00"
   }
  }
 }

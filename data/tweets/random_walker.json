@@ -2822,6 +2822,24 @@
     "text": "Contrary to the implicit mental models of many on this website, cybercriminals aren't the security-engineer Waluigis of Stanford-educated big tech engineers, or the criminal analogs of a16z-backed AI pentesting startups.\n\nThey're generally less talented, recruited from middle-income countries with weak legal oversight and fewer legal tech job options, and struggle with arrests, sanctions, retaining talent, and stable access to AI inference.  Ransomware took years to become a scaled business under these conditions, and AI-native organized criminal syndicates that fully leverage the power of AI to scale may take awhile too.\n\nNation-states, meanwhile, are quick to adopt AI for vulnerability research and exploit development, but historically slow to deeply retool military operations with new technologies.  And potentially devastating agentic cyber swarms may become weapons in their arsenals alongside e.g. ballistic missiles that they possess but don't immediately use.\n\nSo to those calling php2shell \"the worst day in cyber ever\" and expecting immediate spikes in cyber damages: there isn't the direct relationship between new capabilities and new damages you're imagining.  \n\nThis is good news, obviously.  It means defenders have time to prepare (and we should be shouting from the rooftops that we're in a defense-advantaged interregnum, currently).  Huge risks are approaching but at the pace of technology diffusion into less innovative parts of the world economy and state sector, not at the pace of AI capability growth.\n\nFull version: https://t.co/ldxVTVpZBT"
    },
    "fetched_at": "2026-10-23T15:45:08.314651+00:00"
+  },
+  "2113764536704541028": {
+   "id": "2113764536704541028",
+   "url": "https://x.com/random_walker/status/2113764536704541028",
+   "text": "We are really excited to build independent evaluations of RSI progress and are actively hiring.\n\nWe constantly see conflicting evidence about RSI progress. Most hinges on information coming from labs. To illustrate this, let's just look at evidence discussed *this week* that conflicts in whether it suggests RSI progress is fast or slow.\nhttps://t.co/F4vi5Z3fch\nResults from OpenAI and Google evals indicate the time horizons for R&D tasks being automated are around ~15 minutes, which are much slower than METR time horizons for software tasks. This suggests we should have *slower* RSI timelines.\n\nhttps://t.co/RfFobR22bw\nResults from Mirendil indicate that pretraining at a certain scale can be heavily automated such that it can be managed by a single pretraining researcher. This suggests we should have *faster* RSI timelines.\n\nhttps://t.co/lIYID0eFII\nResults from Nvidia indicate that frontier models provide significant uplift for CUDA optimization. This suggests we should have *faster* RSI timelines.\n\nEach piece of evidence is more complex than what I write here. Interpreting them all together is confusing even if you trusted them all fully. And factoring in the underlying level of credibility is basically impossible: each result is basically just some plots and numbers selectively disclosed by labs in a tweet/talk/report. So deep sense-making about RSI progress is very hard.\n\nIf you are interested in building independent RSI evals, apply here:\nhttps://t.co/w6CfTsvJfI",
+   "created_at": "Fri Oct 23 22:48:32 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "RishiBommasani",
+   "rt_author_name": "rishi",
+   "likes": 40,
+   "retweets": 7,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-24T14:33:38.169236+00:00"
   }
  }
 }

@@ -2285,6 +2285,65 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-23T19:15:10.041739+00:00"
+  },
+  "2113950816499281962": {
+   "id": "2113950816499281962",
+   "url": "https://x.com/_achan96_/status/2113950816499281962",
+   "text": "Cybersecurity in the age of agents 😂",
+   "created_at": "Sat Oct 24 11:08:44 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AnkaReuel",
+   "rt_author_name": "Anka Reuel | @ankareuel.bsky.social",
+   "likes": 14,
+   "retweets": 3,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-24T14:33:38.169236+00:00"
+  },
+  "2113878516148113703": {
+   "id": "2113878516148113703",
+   "url": "https://x.com/_achan96_/status/2113878516148113703",
+   "text": "Hi all, I have a new result I'm excited to share. It turns out that *all existing implementations* of softmax and cross-entropy (that's JAX, PyTorch, textbooks, etc) have a subtle bug --- two bugs, actually. A simple rewrite fixes both, and eliminates \"slingshots\" when grokking: https://t.co/z6yQeJWad1",
+   "created_at": "Sat Oct 24 06:21:26 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "jon_barron",
+   "rt_author_name": "Jon Barron",
+   "likes": 4511,
+   "retweets": 511,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2113698124351074304/img/LFJgXhcT_P7PthYR.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-24T14:33:38.169236+00:00"
+  },
+  "2113878001284767888": {
+   "id": "2113878001284767888",
+   "url": "https://x.com/_achan96_/status/2113878001284767888",
+   "text": "If formal verification for software works + is scalable, then I strongly feel that we should prioritize verification inside AI companies, eg:\n\n- Eval and RL environments\n- Secure eval enclaves\n- Storage of weights/other data\n- Monitoring and detection systems\n- System safeguards?",
+   "created_at": "Sat Oct 24 06:19:24 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "kevinlwei",
+   "rt_author_name": "Kevin Wei (is in London)",
+   "likes": 12,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-24T14:33:38.169236+00:00"
   }
  }
 }

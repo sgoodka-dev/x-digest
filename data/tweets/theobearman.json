@@ -4145,6 +4145,42 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-23T15:45:08.314651+00:00"
+  },
+  "2113978450096816292": {
+   "id": "2113978450096816292",
+   "url": "https://x.com/theobearman/status/2113978450096816292",
+   "text": "‘In one experiment, we asked agents in separate VMs, created and managed by OpenAI’s sandboxing software on shared host machines, to exchange synthetic secrets without the use of network connections or shared writable files—something that our systems are meant to prevent. The agents found a way to communicate using the processor’s cache’",
+   "created_at": "Sat Oct 24 12:58:32 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "tszzl",
+   "rt_author_name": "roon",
+   "likes": 3999,
+   "retweets": 294,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-24T14:33:38.169236+00:00"
+  },
+  "2113711993852956722": {
+   "id": "2113711993852956722",
+   "url": "https://x.com/theobearman/status/2113711993852956722",
+   "text": "OPENAI: “we resumed reinforcement learning (RL) training and internal inference of our frontier models on October 1.”\n\n“Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no internet access. We’ve implemented this policy and will maintain it until advances in these safeguards justify broader internet access.”\n\nhttps://t.co/okRAR3rH6R",
+   "created_at": "Fri Oct 23 19:19:44 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-24T14:33:38.169236+00:00"
   }
  }
 }
