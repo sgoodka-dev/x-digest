@@ -1,10 +1,10 @@
 {
  "last_run": {
-  "started": "2026-10-24T14:33:38.169236+00:00",
+  "started": "2026-10-24T18:10:27.925560+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
-    "new": 3,
+    "new": 0,
     "total": 131
    },
    "add_hawk": {
@@ -14,13 +14,13 @@
    },
    "ajeya_cotra": {
     "ok": true,
-    "new": 13,
+    "new": 0,
     "total": 117
    },
    "alxndrdavies": {
     "ok": true,
-    "new": 0,
-    "total": 89
+    "new": 1,
+    "total": 90
    },
    "curl_justin": {
     "ok": true,
@@ -29,12 +29,12 @@
    },
    "DaveRBanerjee": {
     "ok": true,
-    "new": 0,
-    "total": 138
+    "new": 1,
+    "total": 139
    },
    "DKokotajlo": {
     "ok": true,
-    "new": 7,
+    "new": 0,
     "total": 186
    },
    "dwarkesh_sp": {
@@ -54,8 +54,8 @@
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 0,
-    "total": 126
+    "new": 1,
+    "total": 127
    },
    "ohlennart": {
     "ok": true,
@@ -64,13 +64,13 @@
    },
    "sayashk": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 128
    },
    "testingham": {
     "ok": true,
-    "new": 0,
-    "total": 125
+    "new": 2,
+    "total": 127
    },
    "slatestarcodex": {
     "ok": true,
@@ -79,18 +79,18 @@
    },
    "s8mb": {
     "ok": true,
-    "new": 3,
-    "total": 416
+    "new": 2,
+    "total": 418
    },
    "random_walker": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 147
    },
    "sethlazar": {
     "ok": true,
-    "new": 7,
-    "total": 265
+    "new": 2,
+    "total": 267
    },
    "robertwiblin": {
     "ok": true,
@@ -99,8 +99,8 @@
    },
    "deanwball": {
     "ok": true,
-    "new": 9,
-    "total": 430
+    "new": 4,
+    "total": 434
    },
    "nabeelqu": {
     "ok": true,
@@ -109,7 +109,7 @@
    },
    "theobearman": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 196
    },
    "peterwilderford": {
@@ -123,7 +123,7 @@
     "total": 111
    }
   },
-  "new_tweets": 46,
-  "finished": "2026-10-24T14:34:35.244794+00:00"
+  "new_tweets": 13,
+  "finished": "2026-10-24T18:11:13.179149+00:00"
  }
 }

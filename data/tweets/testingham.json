@@ -2255,6 +2255,47 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2114050710367301918": {
+   "id": "2114050710367301918",
+   "url": "https://x.com/testingham/status/2114050710367301918",
+   "text": "[1/8] This week's cybersecurity news has been alarming. Have cyberattacks accelerated in 2026?\n\n@jasminexli and I examined crypto hacks and ransomware data.\n\nWe find that recorded monthly crypto hacks have accelerated, though better detection may partly explain the trend. https://t.co/NgAYxaFOh5",
+   "created_at": "Sat Oct 24 17:45:41 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "cherylwoooo",
+   "rt_author_name": "Cheryl Wu",
+   "likes": 29,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVaYVjkaIAEy2bk.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-24T18:10:27.925560+00:00"
+  },
+  "2114038191141581035": {
+   "id": "2114038191141581035",
+   "url": "https://x.com/testingham/status/2114038191141581035",
+   "text": "you keep asking Why , one after the other , climbing branch by branch up the hierarchy of ends towards the ultimate reasons, and you can sense you're getting near the top when it starts to sting each time you ask another one -- it feels shameful to ask why you would do these things -- asking why you would tell the truth, asking why you would love your mother; up in these heights there's also a noticeable fog of ambiguity: are these are means or are they ends? is freedom good because of its effects or in spite of them? is honesty the best policy or is honesty better than policy? These are questions without answers and it's time to climb back down.",
+   "created_at": "Sat Oct 24 16:55:56 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 9,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-24T18:10:27.925560+00:00"
   }
  }
 }

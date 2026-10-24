@@ -2556,6 +2556,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-23T15:45:08.314651+00:00"
+  },
+  "2114006723631436271": {
+   "id": "2114006723631436271",
+   "url": "https://x.com/DaveRBanerjee/status/2114006723631436271",
+   "text": "Claude just discovered an unpatchable zero day vulnerability in rawlsian liberalism",
+   "created_at": "Sat Oct 24 14:50:53 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "millerman",
+   "rt_author_name": "Michael Millerman",
+   "likes": 2512,
+   "retweets": 210,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-24T18:10:27.925560+00:00"
   }
  }
 }

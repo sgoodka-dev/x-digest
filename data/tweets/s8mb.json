@@ -8176,6 +8176,42 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-24T14:33:38.169236+00:00"
+  },
+  "2114049541112832237": {
+   "id": "2114049541112832237",
+   "url": "https://x.com/s8mb/status/2114049541112832237",
+   "text": "Find a partner who loves you as much as the British love being poor",
+   "created_at": "Sat Oct 24 17:41:02 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "jbarro",
+   "rt_author_name": "Josh Barro",
+   "likes": 1354,
+   "retweets": 98,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-24T18:10:27.925560+00:00"
+  },
+  "2114007034966540680": {
+   "id": "2114007034966540680",
+   "url": "https://x.com/s8mb/status/2114007034966540680",
+   "text": "@leotreguer Naa just walk up and order. Cash only. Details on IG.",
+   "created_at": "Sat Oct 24 14:52:08 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "leotreguer",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-24T18:10:27.925560+00:00"
   }
  }
 }

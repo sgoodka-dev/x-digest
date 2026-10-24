@@ -1633,6 +1633,24 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-23T15:45:08.314651+00:00"
+  },
+  "2114029701249540464": {
+   "id": "2114029701249540464",
+   "url": "https://x.com/alxndrdavies/status/2114029701249540464",
+   "text": "This didn't get enough views so I'm posting it again: UK AISI changed the compaction summary and included notes on how it should not attack the GitHub maintainers.\n\nMythos 5 did it anyways!",
+   "created_at": "Sat Oct 24 16:22:12 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "Tim_Hua_",
+   "rt_author_name": "Tim Hua 🇺🇦",
+   "likes": 55,
+   "retweets": 5,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-24T18:10:27.925560+00:00"
   }
  }
 }

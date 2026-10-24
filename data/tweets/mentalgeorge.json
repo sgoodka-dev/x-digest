@@ -2267,6 +2267,29 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-23T19:15:10.041739+00:00"
+  },
+  "2114020322219549000": {
+   "id": "2114020322219549000",
+   "url": "https://x.com/mentalgeorge/status/2114020322219549000",
+   "text": "Can't wait to find out whether we'll learn to articulate and reward for B before we tile the universe with A https://t.co/6QzeArJHyq",
+   "created_at": "Sat Oct 24 15:44:56 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 12,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVZ_0FMWkAApKDY.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-24T18:10:27.925560+00:00"
   }
  }
 }
