@@ -2344,6 +2344,52 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-24T14:33:38.169236+00:00"
+  },
+  "2114276115489366201": {
+   "id": "2114276115489366201",
+   "url": "https://x.com/_achan96_/status/2114276115489366201",
+   "text": "LLMs (under certain conditions) can be trained to tell when their request is batched with others. https://t.co/D3grJ9Oqm0",
+   "created_at": "Sun Oct 25 08:41:21 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "DavidDAfrica",
+   "rt_author_name": "David",
+   "likes": 257,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVZxObBbEAAtD_J.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-25T14:57:03.198720+00:00"
+  },
+  "2114240351976243332": {
+   "id": "2114240351976243332",
+   "url": "https://x.com/_achan96_/status/2114240351976243332",
+   "text": "[1/8] This week's cybersecurity news has been alarming. Have cyberattacks accelerated in 2026?\n\n@jasminexli and I examined crypto hacks and ransomware data.\n\nWe find that recorded monthly crypto hacks have accelerated, though better detection may partly explain the trend. https://t.co/NgAYxaFOh5",
+   "created_at": "Sun Oct 25 06:19:15 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "cherylwoooo",
+   "rt_author_name": "Cheryl Wu",
+   "likes": 69,
+   "retweets": 10,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVaYVjkaIAEy2bk.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-25T14:57:03.198720+00:00"
   }
  }
 }

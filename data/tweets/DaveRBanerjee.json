@@ -2574,6 +2574,45 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-24T18:10:27.925560+00:00"
+  },
+  "2114193944900780152": {
+   "id": "2114193944900780152",
+   "url": "https://x.com/DaveRBanerjee/status/2114193944900780152",
+   "text": "Elizabeth Holmes movie very good",
+   "created_at": "Sun Oct 25 03:14:50 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 9,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-25T14:57:03.198720+00:00"
+  },
+  "2114190860615078294": {
+   "id": "2114190860615078294",
+   "url": "https://x.com/DaveRBanerjee/status/2114190860615078294",
+   "text": "I was at an event recently with folks who weren’t AGI-pilled, and it was interesting to hear how they consider Sam, Dario, and Jensen to all be the same: corporate execs profitmaxxing\n\nBut in reality, you couldn’t find CEOs as different from Jensen as Sam/Dario\n\nThe main distinction is that Sam/Dario believe we are the cusp of developing a god like machine intelligence, and Jensen thinks AI is some web3 type thing",
+   "created_at": "Sun Oct 25 03:02:35 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 104,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "TheMidasProj",
+    "text": "It’s underappreciated how radically different Jensen Huang’s view is of how AI progress is likely to go than the view of other AI CEOs.\n\nFor instance, he recently claimed that AGI will never replace domain expertise."
+   },
+   "fetched_at": "2026-10-25T14:57:03.198720+00:00"
   }
  }
 }

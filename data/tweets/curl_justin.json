@@ -1960,6 +1960,29 @@
     "text": "[1/7] China’s AI labs are also talking about “recursive self-improvement” (RSI). A big question here is: Is Beijing coordinating a race to achieve RSI?\n\n@ZilanQian and I looked at Chinese AI companies, investors, and policy docs.\n\nWe found a more bottom-up, commercial story. https://t.co/2cBFsC8kVy"
    },
    "fetched_at": "2026-10-22T19:13:49.199459+00:00"
+  },
+  "2114209523682660737": {
+   "id": "2114209523682660737",
+   "url": "https://x.com/curl_justin/status/2114209523682660737",
+   "text": "if you thought opus 5.5 was good, just wait till you see opus 24 https://t.co/nBU3nLcR7G",
+   "created_at": "Sun Oct 25 04:16:45 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 26,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVcuWzSbYAAYGGj.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-25T14:57:03.198720+00:00"
   }
  }
 }

@@ -2840,6 +2840,47 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-24T14:33:38.169236+00:00"
+  },
+  "2114332947889435039": {
+   "id": "2114332947889435039",
+   "url": "https://x.com/random_walker/status/2114332947889435039",
+   "text": "The world has incredible detail, friction, and complexity. People good at understanding machine learning and predicting benchmark performance of AI models don't necessarily have a good understanding of these factors and instead often couple impressive forecasts of AI capabilities with low-resolution folk models of society.\n\nThe result is many silly forecasts of AI's allegedly explosive societal impacts when it comes to economics, the information environment, etc, among AI experts and insiders. Good thread 👇",
+   "created_at": "Sun Oct 25 12:27:11 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "danwilliamsphil",
+   "rt_author_name": "Dan Williams",
+   "likes": 75,
+   "retweets": 16,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-25T14:57:03.198720+00:00"
+  },
+  "2114332755106701543": {
+   "id": "2114332755106701543",
+   "url": "https://x.com/random_walker/status/2114332755106701543",
+   "text": "Bottlenecks are very hard to predict ex-ante. Eg, here is McKinsey 2019 (they weren't the only ones!): 25-40% displacement from automation by 2030, without even seeing LLM-based AI coming! Suffice to say, this isn't going to happen. 7/8 https://t.co/JYqbjVpE1B",
+   "created_at": "Sun Oct 25 12:26:25 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "Afinetheorem",
+   "rt_author_name": "Kevin A. Bryan",
+   "likes": 84,
+   "retweets": 10,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVbY3VjXwAAAYiM.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-25T14:57:03.198720+00:00"
   }
  }
 }

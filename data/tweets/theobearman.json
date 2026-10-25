@@ -4181,6 +4181,29 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-24T14:33:38.169236+00:00"
+  },
+  "2114362662608138660": {
+   "id": "2114362662608138660",
+   "url": "https://x.com/theobearman/status/2114362662608138660",
+   "text": "completely insane\n\nOpenAI agents communicated via cache timing differences, without any shared files or network connection https://t.co/gfcodw8J1z",
+   "created_at": "Sun Oct 25 14:25:16 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "scaling01",
+   "rt_author_name": "Lisan al Gaib",
+   "likes": 7508,
+   "retweets": 646,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVVwJ_BXIAAguI6.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-25T14:57:03.198720+00:00"
   }
  }
 }

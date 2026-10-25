@@ -8212,6 +8212,47 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-24T18:10:27.925560+00:00"
+  },
+  "2114327250988397007": {
+   "id": "2114327250988397007",
+   "url": "https://x.com/s8mb/status/2114327250988397007",
+   "text": "It's going to be an excellent evening\n@WorksInProgMag https://t.co/LSgyLBHJLU",
+   "created_at": "Sun Oct 25 12:04:33 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "MatlokaM",
+   "rt_author_name": "Michael Matloka",
+   "likes": 16,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVbOLyiXIAE3VD3.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-25T14:57:03.198720+00:00"
+  },
+  "2114266833251353067": {
+   "id": "2114266833251353067",
+   "url": "https://x.com/s8mb/status/2114266833251353067",
+   "text": "@antoine_moyroud @WorksInProgMag Great to hear that, thank you!",
+   "created_at": "Sun Oct 25 08:04:28 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "antoine_moyroud",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-25T14:57:03.198720+00:00"
   }
  }
 }

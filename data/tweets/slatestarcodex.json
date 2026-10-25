@@ -1927,6 +1927,24 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2114225077395038430": {
+   "id": "2114225077395038430",
+   "url": "https://x.com/slatestarcodex/status/2114225077395038430",
+   "text": "@PrinceVogel Sounds fun. Anything specific I can do to help?",
+   "created_at": "Sun Oct 25 05:18:33 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "PrinceVogel",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 9,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-25T14:57:03.198720+00:00"
   }
  }
 }

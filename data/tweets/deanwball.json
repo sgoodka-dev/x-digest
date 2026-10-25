@@ -8282,6 +8282,47 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-24T18:10:27.925560+00:00"
+  },
+  "2114317418105536587": {
+   "id": "2114317418105536587",
+   "url": "https://x.com/deanwball/status/2114317418105536587",
+   "text": "A cloud VPS service from Japan's massive GMO Internet Group used by foreign-exchange traders has been hacked. Attackers breached the servers, stole customer credentials, and executed balance-destroying trades across over 70 brokerages. GMO has asked government agencies for help. https://t.co/AgL1S0QfJF",
+   "created_at": "Sun Oct 25 11:25:29 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AndrewCurran_",
+   "rt_author_name": "Andrew Curran",
+   "likes": 685,
+   "retweets": 115,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVdMjdDagAAMpty.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-25T14:57:03.198720+00:00"
+  },
+  "2114151053168091375": {
+   "id": "2114151053168091375",
+   "url": "https://x.com/deanwball/status/2114151053168091375",
+   "text": "The Y2K bug and the hole in the ozone layer were both serious problems that we chose to fix. It took a lot of work!",
+   "created_at": "Sun Oct 25 00:24:24 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "LeahLibresco",
+   "rt_author_name": "Leah Libresco Sargeant",
+   "likes": 312,
+   "retweets": 19,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-25T14:57:03.198720+00:00"
   }
  }
 }
