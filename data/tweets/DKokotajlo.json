@@ -3407,6 +3407,24 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-24T14:33:38.169236+00:00"
+  },
+  "2114790788312048092": {
+   "id": "2114790788312048092",
+   "url": "https://x.com/DKokotajlo/status/2114790788312048092",
+   "text": "@FangcunLeap Thanks for doing this! I'm very happy to see the discussion of situational awareness and chain of thought monitorability. \n\nPlease forgive my ignorance for I have only skimmed the paper so far, but it seems that you evaluated CoT monitorability by (a) prompting the model to manipulate its CoT, and (b) turning off reasoning and seeing how capable it was without reasoning. And you found that it's much less capable with reasoning off and that it typically refuses to manipulate its CoT. That's nice, but... what if it didn't refuse? I'd like to see evidence of the form \"Even if it tried its best to manipulate the CoT rather than refusing, it still can't do it.\" Such evidence could perhaps be provided by fine-tuning the model to manipulate its CoT, to overcome the refusal instinct. Also, relatedly, do you think the model was intentionally trained to refuse to manipulate its CoT, or is this behavior emergent?",
+   "created_at": "Mon Oct 26 18:46:29 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "FangcunLeap",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 27,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-26T20:29:46.274424+00:00"
   }
  }
 }
