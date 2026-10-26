@@ -1995,6 +1995,29 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-23T19:15:10.041739+00:00"
+  },
+  "2114765461250556400": {
+   "id": "2114765461250556400",
+   "url": "https://x.com/dwarkesh_sp/status/2114765461250556400",
+   "text": "The contrast between what the Soviet Union was on paper and in reality was staggering.\n\nThere’s a story about future Russian President Boris Yeltsin coming to the US in 1989, walking into a random grocery store, and being so astounded by the quality and variety of goods that he realized the Soviet Union was going to fall.\n\nSarah Paine witnessed this sort of thing first-hand in Moscow.",
+   "created_at": "Mon Oct 26 17:05:51 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "likes": 15,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2114760760073052160/img/1OSwrWJztQL5umXN.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
   }
  }
 }

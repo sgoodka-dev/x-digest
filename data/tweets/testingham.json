@@ -2371,6 +2371,42 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-25T18:24:38.899099+00:00"
+  },
+  "2114472079848587562": {
+   "id": "2114472079848587562",
+   "url": "https://x.com/testingham/status/2114472079848587562",
+   "text": "https://t.co/FQXXZDOofV",
+   "created_at": "Sun Oct 25 21:40:03 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "testingham",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 22,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2114472042737381469": {
+   "id": "2114472042737381469",
+   "url": "https://x.com/testingham/status/2114472042737381469",
+   "text": "@sayhar here! https://t.co/FQXXZDOofV",
+   "created_at": "Sun Oct 25 21:39:54 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "sayhar",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
   }
  }
 }

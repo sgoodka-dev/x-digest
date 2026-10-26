@@ -4204,6 +4204,297 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-25T14:57:03.198720+00:00"
+  },
+  "2114746489113039313": {
+   "id": "2114746489113039313",
+   "url": "https://x.com/theobearman/status/2114746489113039313",
+   "text": "But this method wasn't durable: fine-tuning on publicly available viral data fully restored the capability with under ~$80 of compute, even for the largest model.\n\nRead the blog: https://t.co/xAQT1IWaaT",
+   "created_at": "Mon Oct 26 15:50:27 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AISecurityInst",
+   "rt_author_name": "AI Security Institute (AISI)",
+   "likes": 6,
+   "retweets": 3,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2114726796616761522": {
+   "id": "2114726796616761522",
+   "url": "https://x.com/theobearman/status/2114726796616761522",
+   "text": "Anthropic: \"The value of our own internal Claude usage at list prices has grown by over 250 times from January 2026 to September 2026, and in April 2026, this monthly value first exceeded our monthly personnel expense, excluding stock-based compensation.\"",
+   "created_at": "Mon Oct 26 14:32:12 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "theobearman",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2114723599596577177": {
+   "id": "2114723599596577177",
+   "url": "https://x.com/theobearman/status/2114723599596577177",
+   "text": "Anthropic: \"If our investments in new products or business lines do not produce the long-term benefits we anticipate, our business, financial condition, results of operations, and prospects could be adversely affected. Certain of these initiatives, including our life sciences research program, which involves operating laboratory facilities, and our research in robotics and physical AI, require us to engage in activities outside our historical experience as a software and research organization, such as handling biological and chemical materials, operating laboratory and robotic equipment, and complying with biosafety, occupational health and safety, environmental, hazardous materials, and, potentially, preclinical and clinical research regulations. These activities expose us to categories of liability, including for workplace injury and environmental contamination, that differ from those associated with our core business, and any drug candidates or other discoveries resulting from these efforts would face the lengthy, costly, and uncertain development and regulatory pathways characteristic of the life sciences industry, and may never generate revenue.\"",
+   "created_at": "Mon Oct 26 14:19:30 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "theobearman",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2114722297252602339": {
+   "id": "2114722297252602339",
+   "url": "https://x.com/theobearman/status/2114722297252602339",
+   "text": "Anthropic: \"we recently chose to delay pre-training a new frontier base model for more than a month to allow time to further enhance our security measures related to preventing model weight exfiltration and protecting our intellectual property.\"",
+   "created_at": "Mon Oct 26 14:14:19 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "theobearman",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2114721104971677831": {
+   "id": "2114721104971677831",
+   "url": "https://x.com/theobearman/status/2114721104971677831",
+   "text": "Anthropic also made disclosures about the antitrust risks it faces based on efforts to address \"the responsible pace of AI development.\" https://t.co/YTj0m2053j",
+   "created_at": "Mon Oct 26 14:09:35 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "TimSchnabel",
+   "rt_author_name": "Tim Schnabel",
+   "likes": 2,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVj7RCHWwAAQzMh.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVj7SzpWcAAzz1n.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2114720727798620313": {
+   "id": "2114720727798620313",
+   "url": "https://x.com/theobearman/status/2114720727798620313",
+   "text": "Anthropic: \"NASA engineers used Claude Code to plan and write navigation commands for the Mars Perseverance rover, resulting in the first AI-planned drive on Mars.\"",
+   "created_at": "Mon Oct 26 14:08:05 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "theobearman",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2114719829122810036": {
+   "id": "2114719829122810036",
+   "url": "https://x.com/theobearman/status/2114719829122810036",
+   "text": "Anthropic: \"The number of customers with $100,000 or more of revenue on a TTM basis grew from approximately 20 as of December 31, 2023, to approximately 200 as of December 31, 2024, to approximately 1,500 as of December 31, 2025, and to more than 11,900 as of September 30, 2026. Total revenue from these customers grew from approximately $37 million to $220 million to $3.5 billion to $           and represented 90%, 57%, 76%, and           % of total revenue for the years ended December 31, 2023, 2024, and 2025, and the trailing twelve months ended September 30, 2026, respectively. The remaining           % of total revenue for the trailing twelve months ended September 30, 2026 was generated by approximately 40 million customers, each with less than $100,000 of revenue on a TTM basis.\n\nIn addition, as of September 30, 2026, we had more than 1,900 customers with $1 million or more of revenue on a TTM basis and approximately 250 customers with $10 million or more of revenue on a TTM basis. Despite this growth, our penetration into the largest enterprises remains early. Over 50% of the Fortune 500 and over 30% of the Global 2000 were customers with $100,000 or more of revenue on a TTM basis as of September 30, 2026. We believe we are in the early stages of our expansion within these customers, with our revenue from these Fortune 500 customers representing, on average, less than 0.1% of their total expenses for the three months ended September 30, 2026.\n\nWe compare this measure against our largest Fortune 500 customers, who are further along in their adoption of AI. For the three months ended September 30, 2026, revenue from our top 10 Fortune 500 customers represented, on average, less than 1% of their total expenses—still a small fraction of their overall spend, but over eight times the average of our Fortune 500 customers with $100,000 or more of revenue on a TTM basis. We believe the difference reflects the substantial runway we have to deepen adoption, both within our largest customers and within customers earlier in their adoption of Claude.\n\nClaude adoption is broad-based. No single customer represented more than 10% of our revenue for the nine months ended September 30, 2026. Approximately 79% of our revenue came from customers outside of our top five customers for the three months ended September 30, 2026, up from approximately 64% for the three months ended March 31, 2026. At the same time, our largest customers continue to expand. For the three months ended September 30, 2026, our revenue from each of our top five customers reached a record high.\"",
+   "created_at": "Mon Oct 26 14:04:31 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "theobearman",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2114716161078116617": {
+   "id": "2114716161078116617",
+   "url": "https://x.com/theobearman/status/2114716161078116617",
+   "text": "Congrats to Team @AnthropicAI on another important milestone!  Altimeter looks forward to continuing our partnership w major participation in the IPO on top of our existing ownership.  Day 1.  🇺🇸🚀 https://t.co/pp0mQFq5W6 https://t.co/AFtxJmwv6z",
+   "created_at": "Mon Oct 26 13:49:56 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "altcap",
+   "rt_author_name": "Brad Gerstner",
+   "likes": 861,
+   "retweets": 50,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVj1mHjXQAAcF0S.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2114716071374860567": {
+   "id": "2114716071374860567",
+   "url": "https://x.com/theobearman/status/2114716071374860567",
+   "text": "Looks like the rumors were correct, re: Anthropic's founders retaining majority voting control. https://t.co/GVneoZY0Fs",
+   "created_at": "Mon Oct 26 13:49:35 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "TimSchnabel",
+   "rt_author_name": "Tim Schnabel",
+   "likes": 4,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVj4tDPWAAAHetJ.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2114715196241420315": {
+   "id": "2114715196241420315",
+   "url": "https://x.com/theobearman/status/2114715196241420315",
+   "text": "@justjoshinyou13 That is it",
+   "created_at": "Mon Oct 26 13:46:06 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "justjoshinyou13",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2114714583445229914": {
+   "id": "2114714583445229914",
+   "url": "https://x.com/theobearman/status/2114714583445229914",
+   "text": "Anthropic: \"[...] in June 2026, the U.S. Department of Commerce imposed worldwide export restrictions on our Fable 5 and Mythos 5 models. To ensure compliance, we disabled Fable 5 and Mythos 5 for all of our customers; access to our other models was not affected. We re-deployed the Fable 5 and Mythos 5 models after we updated our safeguards in coordination with the U.S. government and our industry partners and once the U.S. Department of Commerce lifted its restrictions. Similar export controls could recur, could remain in place longer, or could extend to additional models or capabilities. In addition, future updates to our safeguards or other remedial measures may not be sufficient to obtain relief from such restrictions or relief may not be granted on a similar timeline or at all. The restrictions imposed in June 2026 and potential restrictions in the future may also limit our ability to recruit talent, to fully utilize our existing workforce, to continue to improve our models, and to make our products available internationally.\"",
+   "created_at": "Mon Oct 26 13:43:40 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "theobearman",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2114713816793498066": {
+   "id": "2114713816793498066",
+   "url": "https://x.com/theobearman/status/2114713816793498066",
+   "text": "Anthropic: \"[...] to facilitate independent testing and evaluation of our frontier models, we have agreed to indemnify certain external evaluators and testing vendors for specified losses arising from testing activities, including security incidents, data loss, data breaches, and other harms associated with such activities. Although our agreements with external evaluators and testing vendors generally limit the amount of our indemnification obligations, certain of these agreements require us to defend and indemnify the evaluator, without a cap on our liability, against certain third-party claims. These include claims arising from allegations that our models or their outputs, as used in the evaluator’s authorized testing, infringe third-party intellectual property or other proprietary rights, as well as certain other claims arising from the testing or related engagement. Because our models may behave in ways that no user or developer intended, claims arising from such actions could result in substantial liability. Our insurance policies also may not provide sufficient coverage to adequately mitigate the potential liabilities we face, especially where any one incident, or a group of incidents, causes disproportionate harm.\"",
+   "created_at": "Mon Oct 26 13:40:38 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "theobearman",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2114713445740220747": {
+   "id": "2114713445740220747",
+   "url": "https://x.com/theobearman/status/2114713445740220747",
+   "text": "Anthropic: \"We have faced and expect to face insider threat risks and vulnerabilities related to hiring processes, identity verification, remote work environments, and compromised devices that could enable unauthorized access to sensitive systems or information. We have been and expect that we will continue to be targeted by individuals seeking employment under false identities, or with ulterior or malicious motives for seeking employment with us and the third parties on which we rely.\"",
+   "created_at": "Mon Oct 26 13:39:09 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "theobearman",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2114710727969640876": {
+   "id": "2114710727969640876",
+   "url": "https://x.com/theobearman/status/2114710727969640876",
+   "text": "Anthropic has now filed its S1 with the SEC.\n\nIn their opening letter to potential investors, Dario, Daniela, Tom, Jack, Jared, Sam, and Chris end with: \"[...] we encourage you, as a prospective owner of our stock, not to think of your purchase in purely transactional terms. We hope you will see it instead as an opportunity to be part of something greater. The advent of machine intelligence is one of the seminal moments in human history.\n\nAs one of the companies at the very center of that moment, we have a rare opportunity to shape it for the better. Our aim is to help humankind chart a safe course through this technological evolution, open new frontiers of discovery, and bring forth an age of miracles. Everyone who owns our stock, whether an institution or an individual, becomes part of that effort. We hope you will share our ambition to see it through.\"\n\nA few interesting snippets in the screenshots.\n\nFull S1 here: https://t.co/nkL3EmcUow",
+   "created_at": "Mon Oct 26 13:28:21 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 14,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVj185jW8AAaZzj.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVj19-XXIAArE32.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVj1-3uWIAA98GI.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVj1_rvXkAE5Zes.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "AnthropicAI",
+    "text": "Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.\n\nRead more: https://t.co/ofhv0DK3Zp\n\nLegal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities may not be sold, nor may offers to buy be accepted, prior to the time the registration statement becomes effective. This post does not constitute an offer to sell or the solicitation of an offer to buy these securities, nor shall there be any sale of these securities in any state or jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction."
+   },
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
   }
  }
 }

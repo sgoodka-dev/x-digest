@@ -8323,6 +8323,47 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-25T14:57:03.198720+00:00"
+  },
+  "2114763066080731357": {
+   "id": "2114763066080731357",
+   "url": "https://x.com/deanwball/status/2114763066080731357",
+   "text": "This is the type of thing that potentially gets new laws passed. https://t.co/J1JVczKd1H",
+   "created_at": "Mon Oct 26 16:56:20 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AndrewCurran_",
+   "rt_author_name": "Andrew Curran",
+   "likes": 338,
+   "retweets": 31,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVklZhEbgAAhc1A.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2114758240424878292": {
+   "id": "2114758240424878292",
+   "url": "https://x.com/deanwball/status/2114758240424878292",
+   "text": "PSA: Daybreak Blue is not hard to get for individuals. The biggest hurdle is setting up two factor authentication for your ChatGPT account with a hardware key, which is a good idea regardless!",
+   "created_at": "Mon Oct 26 16:37:09 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "boazbaraktcs",
+   "rt_author_name": "Boaz Barak",
+   "likes": 242,
+   "retweets": 20,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
   }
  }
 }

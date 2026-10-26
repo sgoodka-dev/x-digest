@@ -1945,6 +1945,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-25T14:57:03.198720+00:00"
+  },
+  "2114571857127158007": {
+   "id": "2114571857127158007",
+   "url": "https://x.com/slatestarcodex/status/2114571857127158007",
+   "text": "@sayashk @random_walker Would you be willing to predict a specific Metaculus score (for example, on https://t.co/yhmtnJhp6m) that you think AIs will never achieve? Or a specific time when you think the trend line will fail and AI's scores will stop rising relative to humans?",
+   "created_at": "Mon Oct 26 04:16:32 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "sayashk",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 43,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
   }
  }
 }

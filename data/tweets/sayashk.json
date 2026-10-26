@@ -2457,6 +2457,48 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-24T14:33:38.169236+00:00"
+  },
+  "2114525216680604024": {
+   "id": "2114525216680604024",
+   "url": "https://x.com/sayashk/status/2114525216680604024",
+   "text": "The latest prediction on the Brazilian election outcome that I could find on FutureSearch: https://t.co/66KUa6LTe0\n\nMore on the different limits for different tasks: https://t.co/4zwkyjdAAf",
+   "created_at": "Mon Oct 26 01:11:12 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": true,
+   "reply_to": "sayashk",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "sayashk",
+    "text": "Do we live in a world where AIs can be wildly superhuman at every single task? Or a world where different tasks have different inherent limits, and AI’s superhuman performance at cybersecurity and math won’t translate to many consequential tasks?\n\nThis is a key crux that distinguishes the normal technology worldview from the superintelligence worldview, and it has nothing to do with the pace of AI progress — it's about our different assumptions about the world. \n\nHere's an intuition pump for why I think it's the second world: different tasks have different fundamental limits.\n\n*Category 1: Some tasks are like making a building taller*: there is no ceiling to how well you can do. More compute and better algorithms can lead to wildly superhuman performance. The entire history of computing is the history of building tools that allow us to be “superhuman” at computational tasks.\n\nFor example, compilers are superhuman assembly code writers, and fuzzing tools are superhuman vulnerability detectors. AI builds on a long line of such improvements: solving math problems and finding exploits in code are two recent examples.\n\n*Category 2: Some tasks are like making a ball rounder*: there is only so much room for improvement, and the best AI systems can’t wildly exceed humans. Take persuasion. Some people believe AI can persuade anyone of anything, even convincing military commanders to launch nuclear weapons. In fact, “superpersuasion” is one of the pathways through which many catastrophic risk scenarios unfold.\n\nBut the AI as Normal Technology thesis is that there are many consequential tasks that are limited by external factors, so such wildly superhuman performance is not possible. This is especially true against humans who use simple computational tools. Tasks like persuasion, or predicting the outcomes of social events (such as elections), fall into this category.\n\nOther tasks, like writing, can’t be ranked on a single scale; different people find different writing styles compelling. AI writing also quickly wears thin: even if a user is impressed by AI writing at first glance, after reading thousands of words of the same type of prose, it becomes mundane and irritating.\n\nAll of these are different from Category 1 tasks like playing chess, where even expert humans can’t do much better than deferring to an AI system at each turn.\n\n*Category 3: Some tasks require experiments in the real world*, and the bottleneck isn’t the computational task; it’s the data collection. One example is Moderna’s Covid vaccine: it took two days to design the vaccine, but almost a year to test and authorize, even during a record-breaking vaccine-development effort!\n\nThis is why a “superintelligence” won’t cure cancer from inside a datacenter: the bottleneck to many of AI’s most sought-after real-world impacts (such as developing cures to diseases) is in the real world, and requires experiments that we won’t (and shouldn’t) hand over to AI.\n\nPeople concerned about AI risks often assume that we live in a world where almost everything fits into Category 1, and we might soon see AIs with wildly superhuman performance at all tasks. I agree it would be scary to live in that world. \n\nOne reason @random_walker and I are more optimistic about our ability to remain in control is that we don’t think we live in the Category 1 world."
+   },
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2114524455888429558": {
+   "id": "2114524455888429558",
+   "url": "https://x.com/sayashk/status/2114524455888429558",
+   "text": "After the surprise outcome of the Brazilian election, I was curious if AI forecasting tools predicted the outcomes correctly.\n\nIt turns out a top AI tool (FutureSearch) made the same errors as prediction markets more broadly.\n\nThis is an example of what @random_walker and I mean by “intrinsic limits” to prediction that have nothing to do with the AI tools in question, but rather depend on the inherent uncertainty in the world. \n\nOf course, a single failed prediction doesn’t mean that AI isn’t good at forecasting; in fact AI tools are already about as good as top forecasters, and I expect human forecasters to make heavy use of AI tools improve their own forecasts. \n\nBut the inherent uncertainty in predicting social outcomes like elections means that AI tools’ performance will be limited close to that of top experts using simple automated tools (rather than being apparently unbounded with more compute, such as AI’s performance on chess).",
+   "created_at": "Mon Oct 26 01:08:10 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 114,
+   "retweets": 15,
+   "media": [],
+   "quoted": {
+    "author": "TheStalwart",
+    "text": "Is this shaping up to be one of the biggest prediction market whiffs of all time? https://t.co/9f56FGS5zZ"
+   },
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
   }
  }
 }

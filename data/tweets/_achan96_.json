@@ -2390,6 +2390,83 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-25T14:57:03.198720+00:00"
+  },
+  "2114651297529905631": {
+   "id": "2114651297529905631",
+   "url": "https://x.com/_achan96_/status/2114651297529905631",
+   "text": "https://t.co/PVXNTtyAbT",
+   "created_at": "Mon Oct 26 09:32:12 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": true,
+   "reply_to": "_achan96_",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2114651295110099048": {
+   "id": "2114651295110099048",
+   "url": "https://x.com/_achan96_/status/2114651295110099048",
+   "text": "very curious how da gd figured out that it was Claude https://t.co/w44dpyyCGp",
+   "created_at": "Mon Oct 26 09:32:11 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVi_7yYWMAA5yJL.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2114650982642536656": {
+   "id": "2114650982642536656",
+   "url": "https://x.com/_achan96_/status/2114650982642536656",
+   "text": "are you interested in rsi &amp; intelligence explosion dynamics? \n\nif yes, then i recommend you follow @TomDavidsonX",
+   "created_at": "Mon Oct 26 09:30:57 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "SamuelAlbanie",
+   "rt_author_name": "Samuel Albanie 🇬🇧",
+   "likes": 111,
+   "retweets": 5,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2114650974170018171": {
+   "id": "2114650974170018171",
+   "url": "https://x.com/_achan96_/status/2114650974170018171",
+   "text": "Interested to learn how Chinese companies talk about recursive self-improvement (RSI) and what that means?\n\nCheck out the new article by GovAI researchers Cheryl Wu and Zilan Qian.\n\n→ https://t.co/WcTHBeA0WC",
+   "created_at": "Mon Oct 26 09:30:55 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "GovAIOrg",
+   "rt_author_name": "GovAI",
+   "likes": 9,
+   "retweets": 4,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
   }
  }
 }

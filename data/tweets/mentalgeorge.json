@@ -2290,6 +2290,69 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-24T18:10:27.925560+00:00"
+  },
+  "2114768225108136043": {
+   "id": "2114768225108136043",
+   "url": "https://x.com/mentalgeorge/status/2114768225108136043",
+   "text": "@dylanbowmanSF Ok still interesting ty",
+   "created_at": "Mon Oct 26 17:16:50 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "dylanbowmanSF",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2114758648190918797": {
+   "id": "2114758648190918797",
+   "url": "https://x.com/mentalgeorge/status/2114758648190918797",
+   "text": "@dylanbowmanSF what bits of the pacing essay are you thinking of in particular here?",
+   "created_at": "Mon Oct 26 16:38:46 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "dylanbowmanSF",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2114739680910414169": {
+   "id": "2114739680910414169",
+   "url": "https://x.com/mentalgeorge/status/2114739680910414169",
+   "text": "Cool thing I learned from @tsmilton_amodo is that models can now one-shot simple hardware designs.\n\nEg Tom used Fable to one-shot design a customised wake-up lamp.\n\nLike personalised software, it is becoming worthwhile to build hardware with a \"customer base of 1\". https://t.co/0TLIui1CZK",
+   "created_at": "Mon Oct 26 15:23:24 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2114738969485201408/img/Xb8VnbiMTfHOPxQP.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVkQDgoWIAAblWE.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-26T17:23:32.530234+00:00"
   }
  }
 }
