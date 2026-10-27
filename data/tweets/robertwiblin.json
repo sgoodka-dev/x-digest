@@ -4705,6 +4705,247 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2115085877772980397": {
+   "id": "2115085877772980397",
+   "url": "https://x.com/robertwiblin/status/2115085877772980397",
+   "text": "The AI cyber apocalypse is a real thing that will affect all of us.\n\nPeople we work with in the intel community have told us for months they expect an AI-triggered crisis. The UK just told people to prep 3 days of food & water. Now this.\n\nBrushing this off as hype is so insane.",
+   "created_at": "Tue Oct 27 14:19:04 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "jeremiecharris",
+   "rt_author_name": "Jeremie Harris",
+   "likes": 747,
+   "retweets": 98,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2115064198665494709": {
+   "id": "2115064198665494709",
+   "url": "https://x.com/robertwiblin/status/2115064198665494709",
+   "text": "@JustinBullock14 Certainly some of it. But it's possible it's easier to interpolate knowledge about proteins than about science as whole.",
+   "created_at": "Tue Oct 27 12:52:55 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "JustinBullock14",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2115062725940502736": {
+   "id": "2115062725940502736",
+   "url": "https://x.com/robertwiblin/status/2115062725940502736",
+   "text": "(This may or may not generalise from protein models to language models.)",
+   "created_at": "Tue Oct 27 12:47:04 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2115061981036351967": {
+   "id": "2115061981036351967",
+   "url": "https://x.com/robertwiblin/status/2115061981036351967",
+   "text": "GPT-6.1-Sol reasoning traces\n\ntotally legible, nothing to worry about https://t.co/GP3eAL0d20",
+   "created_at": "Tue Oct 27 12:44:06 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "scaling01",
+   "rt_author_name": "Lisan al Gaib",
+   "likes": 3906,
+   "retweets": 130,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVHXwn0X0AAKDJx.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2115061922471256260": {
+   "id": "2115061922471256260",
+   "url": "https://x.com/robertwiblin/status/2115061922471256260",
+   "text": "A growing number of people are wondering if Anthropic is the AI industry’s “boy who cried wolf.” If Mythos-related threats don’t materialize, the company will have a serious credibility problem.",
+   "created_at": "Tue Oct 27 12:43:52 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "DavidSacks",
+   "rt_author_name": "David Sacks",
+   "likes": 2523,
+   "retweets": 207,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2115061852757692497": {
+   "id": "2115061852757692497",
+   "url": "https://x.com/robertwiblin/status/2115061852757692497",
+   "text": "Narrator: There was in fact, a wolf.",
+   "created_at": "Tue Oct 27 12:43:36 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "arram",
+   "rt_author_name": "Arram",
+   "likes": 717,
+   "retweets": 39,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2115061634859204758": {
+   "id": "2115061634859204758",
+   "url": "https://x.com/robertwiblin/status/2115061634859204758",
+   "text": "@JustinBullock14 Not on proteins, LLMs is a different question.",
+   "created_at": "Tue Oct 27 12:42:44 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "JustinBullock14",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2115058936378179894": {
+   "id": "2115058936378179894",
+   "url": "https://x.com/robertwiblin/status/2115058936378179894",
+   "text": "I have published a 60+ chart analysis of the Anthropic S-1. I'll show here some of my favourites. \n\nDeployed here: https://t.co/Yjns9jYcRk\n\nAnthropic made an operating profit of $974m in Q2 2026 https://t.co/ImnxBgFch7",
+   "created_at": "Tue Oct 27 12:32:00 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "petergostev",
+   "rt_author_name": "Peter Gostev",
+   "likes": 460,
+   "retweets": 38,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVj_TC4XsAAXhVR.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2115058620119257405": {
+   "id": "2115058620119257405",
+   "url": "https://x.com/robertwiblin/status/2115058620119257405",
+   "text": "We can estimate the amount of compute Anthropic used for R&D/Training/Internal use vs serving customers - by looking at their compute spend (c.$9b in H1 2026) cost of revenue ($2.4b) which leaves us with the rest ($6.6b) - so around 70% of compute is internal spend. \n\nI wouldn't have thought it is so high - and it is going up as well. Honestly I would have thought that the trend would be the reverse - they had such a big compute crunch but still managed to grow their internal R&D share.",
+   "created_at": "Tue Oct 27 12:30:45 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "petergostev",
+   "rt_author_name": "Peter Gostev",
+   "likes": 159,
+   "retweets": 12,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVlu6toXkAASUst.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2115058017825611911": {
+   "id": "2115058017825611911",
+   "url": "https://x.com/robertwiblin/status/2115058017825611911",
+   "text": "In this set of 4 tests AIs are worse at conceptual research tasks and are improving more slowly at them.\n\nThough still very fast in absolute terms.\n\n\"We evaluate models on a set of 4 difficult open-ended tasks related to AI R&D. ...\n\nThe most engineering-heavy (involving model training on GPUs) has the shortest doubling time of any task. The most open-ended and conceptual task has the longest doubling time.\"\n\nhttps://t.co/XcvZY2PYfC",
+   "created_at": "Tue Oct 27 12:28:21 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 27,
+   "retweets": 7,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVoxg9JXUAAKKPl.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2115053682333286710": {
+   "id": "2115053682333286710",
+   "url": "https://x.com/robertwiblin/status/2115053682333286710",
+   "text": "Damn.\n\nYet another banger from UK AISI though.\n\nhttps://t.co/47EfesR6Mn https://t.co/bD14HMy9GR",
+   "created_at": "Tue Oct 27 12:11:08 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 32,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVouBWVWsAAs31G.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2115052827215016041": {
+   "id": "2115052827215016041",
+   "url": "https://x.com/robertwiblin/status/2115052827215016041",
+   "text": "It’s kinda crazy to me that we melt sand down, clean it to 99.99999% purity, literal wizards have to draw it slowly into an ingot, we cut it, inscribe a hundred billion little on/off switches on it, and when you run electric current through it you can do basic arithmetic, which when you do enough of it can do any math on the planet, and which describes reality well enough that we can teach it the ontological meaning of words and their distance from each other on a high-dimensional space, and if you ask, it can tell you what word comes next and that apparently is powerful enough that if you do it a hundred billion times it’s the smartest thing to ever exist \n\noh yeah and we use this primarily for email",
+   "created_at": "Tue Oct 27 12:07:44 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ArthurMacwaters",
+   "rt_author_name": "Arthur MacWaters",
+   "likes": 11109,
+   "retweets": 877,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
   }
  }
 }

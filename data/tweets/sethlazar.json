@@ -5259,6 +5259,145 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2115064998590353420": {
+   "id": "2115064998590353420",
+   "url": "https://x.com/sethlazar/status/2115064998590353420",
+   "text": "@chefbrent I think 100% the best option is to shoot well first time, it’s so easy to think “I’ll fix it in post” and leave yourself a million jobs to do. But for my output—which is an ambient slideshow where clips are being selected by ai against some themes etc—i don’t need to have the “decisive moment” isolated. I went through 150 clips last night in about 30 minutes of actual work! What would have been several hours had I done it all myself. Which has the added bonus that I am not sick of the footage by the time I can display it.",
+   "created_at": "Tue Oct 27 12:56:06 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": true,
+   "reply_to": "chefbrent",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2115064290860495053": {
+   "id": "2115064290860495053",
+   "url": "https://x.com/sethlazar/status/2115064290860495053",
+   "text": "Important developments in the philosophy of #AI.\nToday @sethlazar announces the launch of OSPAIC https://t.co/4jRAQoqyXX with a conference on Valentine's Day in 2027. And next week, the \"Philosophy of Technology and AI\" conference at @UniBonn.  https://t.co/Yxqon63rN2 https://t.co/eFVYNqDT1P",
+   "created_at": "Tue Oct 27 12:53:17 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "David_Gunkel",
+   "rt_author_name": "David J. Gunkel",
+   "likes": 42,
+   "retweets": 10,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVoqAhbWMAAPZCw.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2114924705907966101": {
+   "id": "2114924705907966101",
+   "url": "https://x.com/sethlazar/status/2114924705907966101",
+   "text": "Coming back to this with @chefbrent I have got a workflow going with DaVinci Resolve Studio editing hundreds of drone videos, using Astra heavily. It is working amazingly well, basically it allows me to script massive sequences of steps (\"trim 5s from the start of each clip\"; \"load 900 clips into the timeline...\"). It is also applying a basic grading recipe, and then analysing waveforms to ensure that we're not clipping highlights. I'm now going through reviewing, and I am making a small tweak here and there, but really not much, so it's taking the very tedious process of turning hundreds of DLOGM videos into HDR that we can easily watch and share and making it vastly more manageable. This is a huge unlock as those videos have been sitting on my drive for months as I've just not been able to bring myself to even start working on them, knowing how long it would take. \n\nI remember a similar moment with editing photos, back in 2017! I would still love to be able to trust Astra to find and trim the shitty bits where I jink or jank instead of flying smooth, but I think the token cost of analysing all those frames would be bananas. I could try running a local model for it but suspect it would take ages. So that much I can do—but I can do it at 4x speed. \n\nGrading is a huge PITA; but shooting in DLOGM on the mavic really does gain you an extra few stops of dynamic range, so it's worth suffering through it. This makes it much less of a chore (and while all the math results etc are objectively more important, this is the kind of AGI I really like)",
+   "created_at": "Tue Oct 27 03:38:37 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 5,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "sethlazar",
+    "text": "@chefbrent Thanks Brent! I will try and let you know if so, but perhaps you can help point me in the right direction? I use resolve for trimming and grading drone footage. Usually I am aiming for the best 30s block from any given recording; sometimes it’s longer. Fairly often there is a janky bit of flying somewhere along that marks an obvious cut point. What I basically want to do is maximise the efficiency of extracting these smooth 30s or so clips from the raw footage. Then on top of that I have a grading/editing process, and I’d like to have one of a set of standard recipes applied to each cluster of clips, so that it’s 90% of the way there and I just tweak for taste. How much of that do you think codex could realistically help with? I have terabytes of videos collected in a year of farewell tours of Australia, and they  are doing the digital equivalent of gathering dust while I try to find time to edit them…"
+   },
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2114888843715649765": {
+   "id": "2114888843715649765",
+   "url": "https://x.com/sethlazar/status/2114888843715649765",
+   "text": "I’m building a team in DC. Everyone in Washington has a stake in ensuring that reliable info about alignment and RSI reaches the public.\n\nWe need trustworthy communicators who can explain METR's loss-of-control risk assessments and goals to policymakers. https://t.co/jSSSklxsdD",
+   "created_at": "Tue Oct 27 01:16:07 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ChrisPainterYup",
+   "rt_author_name": "Chris Painter",
+   "likes": 371,
+   "retweets": 58,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVmKWwVawAAi18a.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2114856409959457014": {
+   "id": "2114856409959457014",
+   "url": "https://x.com/sethlazar/status/2114856409959457014",
+   "text": "@AdriPeralM @cosmos_inst If it’s philosophy, about ai, and meets the epistemic standards of the analytic tradition (understood inclusively) then it’s a fit",
+   "created_at": "Mon Oct 26 23:07:14 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": true,
+   "reply_to": "AdriPeralM",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2114838352621146477": {
+   "id": "2114838352621146477",
+   "url": "https://x.com/sethlazar/status/2114838352621146477",
+   "text": "@r__hauser thank you!! Obviously I used claude, as I am not a masochist and haven't built a website for myself for 20 years, but I spent aaaaages trying to avoid the Claude aesthetic basin, and drew inspiration from the colours of 🇦🇺 (which yes I am missing why do you ask)",
+   "created_at": "Mon Oct 26 21:55:29 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": true,
+   "reply_to": "r__hauser",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2114836635825410480": {
+   "id": "2114836635825410480",
+   "url": "https://x.com/sethlazar/status/2114836635825410480",
+   "text": "@judge_jen Absolutely!! And I'm glad you like the website. It was of course built by claude, but I steered the design very very intentionally (the colour scheme, btw, is how I think of the outback...)",
+   "created_at": "Mon Oct 26 21:48:40 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": true,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
   }
  }
 }

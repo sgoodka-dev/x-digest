@@ -1808,6 +1808,74 @@
     "text": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new wholly owned entity dedicated entirely to the public benefit.\n\nIt will start off with 5% of our shares. For every 50% increase in the company’s value over a set baseline, we can contribute up to an extra 2%, subject to our board’s discretion.\n\nIn total, this means that roughly 20% of Anthropic’s shares are committed to the public good. Our co-founders have already pledged to donate 80% of their equity, and around half our employees are donating a portion of their equity as part of a donation matching program we’ve run since our founding.\n\nIn the post below, we share more details about our new fund.\n\nhttps://t.co/XzDntVH0vH"
    },
    "fetched_at": "2026-10-22T15:53:03.958439+00:00"
+  },
+  "2115111791898620237": {
+   "id": "2115111791898620237",
+   "url": "https://x.com/ohlennart/status/2115111791898620237",
+   "text": "Mauricio is right. Outsiders often can’t make progress on these problems, or move way slower. And there simply aren’t many people working on this.\n\nEvery. single. person. working on verification makes a difference.",
+   "created_at": "Tue Oct 27 16:02:02 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 10,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "MauricBaker",
+    "text": "If just a few lab staff took on verification work full-time, verifying a US-China pacing deal could get much more feasible within months.\n\nHere are 8 specific things lab staff could start on today to help make international verification possible: 🧵"
+   },
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2115098617833009306": {
+   "id": "2115098617833009306",
+   "url": "https://x.com/ohlennart/status/2115098617833009306",
+   "text": "5% to 7% all the way down, except for AI chip production, there it's 1%. https://t.co/kRCloajng0",
+   "created_at": "Tue Oct 27 15:09:41 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 5,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVpW0R4aYAADAB9.png"
+    }
+   ],
+   "quoted": {
+    "author": "ohlennart",
+    "text": "it's also roughly the share of AI compute in China and what their AI companies use"
+   },
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2115095969822130387": {
+   "id": "2115095969822130387",
+   "url": "https://x.com/ohlennart/status/2115095969822130387",
+   "text": "it's also roughly the share of AI compute in China and what their AI companies use",
+   "created_at": "Tue Oct 27 14:59:10 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 13,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "eliotcxchen",
+    "text": "5-7% is, incidentally, roughly the same percentage of Super Micro’s 2024-25 sales that DOJ alleges came from chip smuggling \n\nhttps://t.co/wQY4QK9jQh"
+   },
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
   }
  }
 }

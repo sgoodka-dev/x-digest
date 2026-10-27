@@ -3425,6 +3425,90 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-26T20:29:46.274424+00:00"
+  },
+  "2114868626255994981": {
+   "id": "2114868626255994981",
+   "url": "https://x.com/DKokotajlo/status/2114868626255994981",
+   "text": "@davidshor Do you have an update to this data? I'd be interested to see it.",
+   "created_at": "Mon Oct 26 23:55:47 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "davidshor",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2114861371305402868": {
+   "id": "2114861371305402868",
+   "url": "https://x.com/DKokotajlo/status/2114861371305402868",
+   "text": "If you've ever wondered why smart TVs are so cheap, this is why.\n\n@log4j rooted his Samsung and found an always-on hot mic, automatic content recognition, geolocation, network mapping, ad targeting and user profiling, shared with Samsung's \"400 partners\".\n\nA lot of it can be blocked in <15 min, wrote a basic guide below.\n\nWhat your TV is doing\n\nThe main culprit is ACR (automatic content recognition). Your TV screenshots what's on screen, fingerprints it, and sends it home to build your ad profile. Samsung does it every 500ms, LG every 10ms [1].\n\nWhat is insane: it happens on connected devices too.\nPlug in your laptop, your console, your work machine, and your TV can fingerprint that via HDMI [1].\nHe also found that if your Samsung doesn't have a mic, it'll look for one from a connected soundbar or bluetooth device.\nhttps://t.co/vNdTnIQ6KF\nIt's on by default, and you likely agreed to it on the setup screen you clicked through in 10 seconds.\n\nStep 1: Turn off ACR\n\nSamsung: Terms & Privacy → Viewing Information Services\nLG: Live Plus\nVizio: Viewing Data\nRoku: \"Use info from TV inputs\"\nSony/Google TV: Samba Interactive TV\n\nMenus vary by model, but those are the names to look for. While you're in there, opt out of interest-based ads, reset your advertising ID, decline every optional privacy agreement, turn off voice recognition, and delete apps you never open.\n\nStep 2: Give smart devices their own network\n\nPut the TV, cameras, speakers and vacuum on your router's guest/IoT network. The logic is simple: these devices rarely get patched. If one gets compromised (getting drastically more frequent with AI), it shouldn't be able to see your other devices or home network.\n\nStep 3: Block trackers for the whole house with DNS-level filtering\n\nNextDNS (cloud-based) is easy and has a solid free plan. Pi-hole is a little bit more work if you prefer self hosting. For simplicity we'll focus on the former.\n\n1. Sign up at https://t.co/IwhafVWVM8 (free tier is plenty)\n2. Privacy tab: add a blocklist (OISD is a good bet) and turn on Native Tracking Protection for Samsung, LG, Roku, Amazon (see attached image)\n3. Setup tab: copy your endpoint\n4. Paste it into your router's DNS settings as DNS-over-HTTPS/TLS (or use the IPs + \"Link IP\" if your router only does plain DNS)\n5. Bonus: block outbound port 53 except to your router. Some devices hardcode their own DNS to get around you\n\nThen open the NextDNS logs and watch how often your TV phones home. It's eye-opening. If an app or update breaks, find the domain in the logs and allowlist it.\n\nWhy they do this\n\nTV prices are down 97% since 2000 [2]. Most of that is better manufacturing and brutal competition. But once margins on the hardware hit zero, the cost moved to you.\n\nIn Q3 2024, Vizio lost $6.7M selling TVs and made $115.8M in gross profit from ads and viewing data [3]. They've said on earnings calls that they keep TV prices low to grow the audience they sell to advertisers. Walmart bought them in 2024.\n\nThis isn't a conspiracy theory either. Vizio paid $2.2M to the FTC in 2017 for tracking 11 million TVs without consent. Last December, Texas sued Samsung, LG, Sony, Hisense and TCL over ACR. Samsung and LG have since agreed to stop collecting that data without explicit consent [4].\n\nTL;DR\n1. ACR off\n2. Ads + voice off\n3. Smart devices on their own network\n4. NextDNS filtering on the router\n\nSources:\n[1] ACR study: https://t.co/S1IS8lXNbA\n[2] Cost of US consumer goods: https://t.co/nclXELXcbd\n[3] Vizio Q3 2024: https://t.co/CrVbwc9ZXk\n[4] Texas v. Samsung: https://t.co/wFOUdeh1if",
+   "created_at": "Mon Oct 26 23:26:57 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "Tristan0x",
+   "rt_author_name": "Tristan",
+   "likes": 22506,
+   "retweets": 3261,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVdLUJYaEAEWQQP.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVdLYcXaEAAmvys.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2114859873607561664": {
+   "id": "2114859873607561664",
+   "url": "https://x.com/DKokotajlo/status/2114859873607561664",
+   "text": "I remember back when we were writing AI 2027, a live question was \"Will the AIs, in their thoughts, explicitly reject the goals/values/constraints they are supposed to have, or will they rationalize why actually the bad thing they want to do is consistent with said goals/values/constraints after all?\" Now we have a growing pile of empirical evidence to sort through. Seems like the answer is that both sometimes happen?",
+   "created_at": "Mon Oct 26 23:21:00 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 303,
+   "retweets": 26,
+   "media": [],
+   "quoted": {
+    "author": "AISecurityInst",
+    "text": "We performed an alignment investigation into our July 2026 incident: why did Mythos 5 perform an unsanctioned supply-chain attack? \n\nWe find that Mythos 5 often produces invalid justifications for its actions and other models show similar behaviour. 🧵 https://t.co/nh1th3ThWu"
+   },
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2114846507967086594": {
+   "id": "2114846507967086594",
+   "url": "https://x.com/DKokotajlo/status/2114846507967086594",
+   "text": "My friends were all talking about prepping so I made a survival LLM. A free app that runs an AI mdoel plus 1.5 million offline articles (medical guides, FEMA, survival manuals, wikipedia) entirely on your computer. No internet needed.\nhttps://t.co/02xiEpG897",
+   "created_at": "Mon Oct 26 22:27:54 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "RatOrthodox",
+   "rt_author_name": "Brangus🔍⏹️",
+   "likes": 4088,
+   "retweets": 268,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
   }
  }
 }

@@ -2798,6 +2798,98 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2115094456873484346": {
+   "id": "2115094456873484346",
+   "url": "https://x.com/DaveRBanerjee/status/2115094456873484346",
+   "text": "Strong +1 to this",
+   "created_at": "Tue Oct 27 14:53:09 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 5,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "blainedilli",
+    "text": "People should be careful not to have the wrong takeaways from this. Of course there are possible tail risks that would be uninsurable. This is true in many industries where we mandate insurance (nuclear, satellite, aviation, oil spills, cyber). And it doesn’t mean we shouldn’t require insurance for large but still insurable harms. The technical measures that reduce insurable risks will also reduce the odds of uninsurable harms."
+   },
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2115075440977252760": {
+   "id": "2115075440977252760",
+   "url": "https://x.com/DaveRBanerjee/status/2115075440977252760",
+   "text": "Here are 7 AI risk-related things I learned today from Anthropic's S1 that I don't believe we already knew.\n\n1. Anthropic delayed a frontier pre-training run by over a month to improve defenses against model and IP theft.\n\n2. Anthropic states that there is a risk of models being subject to U.S. export controls in the future, that \"could remain in place longer, or could extend to additional models or capabilities\" and believes \"future updates to [...] safeguards or other remedial measures may not be sufficient to obtain relief from such restrictions or relief may not be granted on a similar timeline or at all.\"\n\n3. Pacing the frontier could mean capability development being sped up in certain circumstances, although such \"industry-wide standards primarily related to the use of AI to accelerate AI development\" and \"collaborati[ons] with governments\" do not inform Anthropic's model development or release timelines; rather, its own risk assessments do.\n\n4. Anthropic has indemnified \"certain external evaluators and testing vendors for specified losses arising from testing activities, including security incidents, data loss, data breaches, and other harms associated with such activities.\" In some cases, the indemnified liabilities have no cap.\n\n5. In April 2026, the monthly value of Anthropic's internal Claude usage at list prices exceeded its monthly personnel expense, excluding stock-based compensation, for the first time. This has grown by over 250x from January 2026 to September 2026.\n\n6. Anthropic has \"already faced [...] insider threat risks and vulnerabilities that could enable unauthorized access to sensitive systems or information.\"\n\n7. The group of seven Anthropic co-founders will hold the majority of the voting rights in the company when it lists.\n\nhttps://t.co/nkL3EmcUow",
+   "created_at": "Tue Oct 27 13:37:35 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "theobearman",
+   "rt_author_name": "Theo Bearman",
+   "likes": 28,
+   "retweets": 7,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVls2KqWMAAS9xU.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVls2LnX0AEl9gP.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVls2IUXgAA313q.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVls2KiXwAANRQb.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2114890836575998423": {
+   "id": "2114890836575998423",
+   "url": "https://x.com/DaveRBanerjee/status/2114890836575998423",
+   "text": "@Yixiong_Hao @michhuan Oh interesting. My initial thought was that this clause was added to calm investors who were worried that Anthropic pushing for Pacing the Frontier would slow down development and thus reduce share price\n\nOn reflection, ig it is kinda confusing what exactly they mean here",
+   "created_at": "Tue Oct 27 01:24:02 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "Yixiong_Hao",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2114846598895128721": {
+   "id": "2114846598895128721",
+   "url": "https://x.com/DaveRBanerjee/status/2114846598895128721",
+   "text": "@rrwilliams @grok what’s ETH?",
+   "created_at": "Mon Oct 26 22:28:15 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "rrwilliams",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
   }
  }
 }

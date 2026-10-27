@@ -8426,6 +8426,182 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-26T20:29:46.274424+00:00"
+  },
+  "2115116343137542237": {
+   "id": "2115116343137542237",
+   "url": "https://x.com/s8mb/status/2115116343137542237",
+   "text": "@IJW121 I think this is a great piece on that practice. It's only possible if they have monopolistic pricing power though, eg because the models are sufficiently better than other people's.\n\nhttps://t.co/o3UeF90I49",
+   "created_at": "Tue Oct 27 16:20:07 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "IJW121",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2115086976273850408": {
+   "id": "2115086976273850408",
+   "url": "https://x.com/s8mb/status/2115086976273850408",
+   "text": "@IJW121 Anthropic is in some ways the most commercially successful company of all time – I would bet its CEO has a decent idea of how markets work! Remember that he can price discriminate if he has models that can do valuable things that other models can't do as substitutes.",
+   "created_at": "Tue Oct 27 14:23:26 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "IJW121",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2115080340821905720": {
+   "id": "2115080340821905720",
+   "url": "https://x.com/s8mb/status/2115080340821905720",
+   "text": "Price discrimination is good and output-increasing.",
+   "created_at": "Tue Oct 27 13:57:04 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 54,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "guilleflorvs",
+    "text": "Dario Amodei: some tokens Claude produces are worth a few cents, others could be worth tens of millions of dollars.\n\nHis examples:\n\n1. Telling someone to restart their Mac: the model has said it 10 million times, worth a dollar or less\n2. Telling a pharma company to move an aromatic ring to the other end of a molecule: potentially tens of millions\n3. Expect pay-for-results pricing, or labor-like pricing by the hour\n4. It's a new industry, so many models will be tried\n\nToday pricing is simpler: per the S-1, usage-based pricing was 80% of H1 2026 revenue and subscriptions 20%.\n\nFull breakdown here:\nhttps://t.co/3qXeT1P6XB"
+   },
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2115004876073705881": {
+   "id": "2115004876073705881",
+   "url": "https://x.com/s8mb/status/2115004876073705881",
+   "text": "@Kittel367512 I think they’re good and should be handled locally.",
+   "created_at": "Tue Oct 27 08:57:12 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "Kittel367512",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2114979362248527976": {
+   "id": "2114979362248527976",
+   "url": "https://x.com/s8mb/status/2114979362248527976",
+   "text": "I read God of the Gaps from @WorksInProgMag  just before visiting Rome and Venice. The entire trip I was spotting turbine squares and thinking: \"Sitte would've *loved* this\" or \"tsk tsk tsk Sitte would've hated this\"\n\nWe stayed at an apartment that bordered a turbine square in Rome. Every morning locals would fill the square with farmers market booths, then tear it all down. From evening to past 2am the square would transform into a hangout spot for teenagers (there was even a fight one night!). Both locals and tourists seemed to eat dinner there. The square went through a full metamorphosis everyday, the most alive little city nook I've ever experienced.",
+   "created_at": "Tue Oct 27 07:15:49 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "katherinebaney",
+   "rt_author_name": "Kasia",
+   "likes": 14,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVlu54ibgAAh1Hb.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVlvOK0bEAASgTn.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVlvOK3bkAAnjE5.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVlvPCXbYAALrys.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2114977952433623392": {
+   "id": "2114977952433623392",
+   "url": "https://x.com/s8mb/status/2114977952433623392",
+   "text": "Against a target of 1.5 million homes built in five years, we are on track for 856,000 (57%). Such an abject failure would in any other venture require an urgent change of strategy. Here, they just quietly abandon the target. \n\nhttps://t.co/r6uKahCotj",
+   "created_at": "Tue Oct 27 07:10:12 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 109,
+   "retweets": 21,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2114971531369763255": {
+   "id": "2114971531369763255",
+   "url": "https://x.com/s8mb/status/2114971531369763255",
+   "text": "I’ve been left a little cold by personal agents so far but Grok Bot is really good. Don’t be put off by the name (“Grok” still seems like the worst branding possible to me) - the Twitter access makes it a really useful tool.",
+   "created_at": "Tue Oct 27 06:44:42 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 43,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "santiagomed",
+    "text": "Last week, we removed the need for a developer account and X API credits to use the X connector in Grok Bot\n\nAsk @bot to manage your bookmarks, go over your DMs, or draft an article for you free of additional charge"
+   },
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2114830199137165649": {
+   "id": "2114830199137165649",
+   "url": "https://x.com/s8mb/status/2114830199137165649",
+   "text": "One of the many potential biases in Song dynastic history: the court diarists were stationed too far away and, during audiences, often couldn’t actually hear the emperor, so would just report that he said nothing. https://t.co/pX99xzxkie",
+   "created_at": "Mon Oct 26 21:23:05 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "JonathonPSine",
+   "rt_author_name": "Jonathon P Sine",
+   "likes": 377,
+   "retweets": 57,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVle8a7WwAA2uQD.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVle8bHWUAA7DMo.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
   }
  }
 }

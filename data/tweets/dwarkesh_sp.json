@@ -2036,6 +2036,50 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-26T20:29:46.274424+00:00"
+  },
+  "2115110501378367826": {
+   "id": "2115110501378367826",
+   "url": "https://x.com/dwarkesh_sp/status/2115110501378367826",
+   "text": "Miguel and Carlos are veteran engineers who are building environments to help AIs master real world engineering (aerospace, mechanical, electrical, etc).\n\nThis kind of data will do for physical engineering what coding environments have done to software.\n\nProud to be backing them.",
+   "created_at": "Tue Oct 27 15:56:55 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 92,
+   "retweets": 9,
+   "media": [],
+   "quoted": {
+    "author": "XploreAi",
+    "text": "Introducing Real World Engineering Bench (RWE-Bench). AI isn’t great at designing rockets, engines, or chips yet. With better evals and RL environments, it will be.\n\nSoftware was just the beginning. The physical world is next. https://t.co/bq4DkBjX6y"
+   },
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2114854033743876583": {
+   "id": "2114854033743876583",
+   "url": "https://x.com/dwarkesh_sp/status/2114854033743876583",
+   "text": "Lying destroyed the Soviet economy. Markets have prices, but command economies only have reports, and everyone was incentivized to lie on their reports.\n\nImagine what it would be like if almost every company were lying about its financials all the time. Imagine if the numbers put out by Amazon and Walmart were always wrong, if cost inputs were always undercounted and output was always exaggerated.\n\nHow would anyone know what any company was worth or whether it was net-productive? How would anything work?\n\nSarah Paine explains the Soviet economic system:",
+   "created_at": "Mon Oct 26 22:57:48 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "likes": 128,
+   "retweets": 16,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2114793207288487936/img/H1m4CH-X73LGg0e2.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
   }
  }
 }

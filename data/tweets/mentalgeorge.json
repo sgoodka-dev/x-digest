@@ -2371,6 +2371,29 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-26T20:29:46.274424+00:00"
+  },
+  "2115082348165234846": {
+   "id": "2115082348165234846",
+   "url": "https://x.com/mentalgeorge/status/2115082348165234846",
+   "text": "https://t.co/MQBo9NCSy5",
+   "created_at": "Tue Oct 27 14:05:02 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "KMbappe",
+   "rt_author_name": "Kylian Mbappé",
+   "likes": 310199,
+   "retweets": 21774,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVomxoVXMAAEQDw.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-27T16:39:59.051706+00:00"
   }
  }
 }
