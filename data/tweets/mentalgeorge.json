@@ -2394,6 +2394,52 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2115147908899119284": {
+   "id": "2115147908899119284",
+   "url": "https://x.com/mentalgeorge/status/2115147908899119284",
+   "text": "from @connorashunter latest https://t.co/mLdIkeU6wR",
+   "created_at": "Tue Oct 27 18:25:33 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "mentalgeorge",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVqDzvjWQAA8BVW.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-27T20:06:02.803358+00:00"
+  },
+  "2115147816725270950": {
+   "id": "2115147816725270950",
+   "url": "https://x.com/mentalgeorge/status/2115147816725270950",
+   "text": "Still underdiscussed that superhuman Go AIs - the paradigmatic example of how humans will be utterly trounced by neural nets -  can still be be beaten by way dumber models (and even humans!) using adversarial strategies\n\nlikely true of (early) superintelligence in other domains https://t.co/Rq6WLVFuvm",
+   "created_at": "Tue Oct 27 18:25:11 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVqDOq9WoAAAoBn.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-27T20:06:02.803358+00:00"
   }
  }
 }

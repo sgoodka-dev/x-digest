@@ -2890,6 +2890,104 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2115141392695742565": {
+   "id": "2115141392695742565",
+   "url": "https://x.com/DaveRBanerjee/status/2115141392695742565",
+   "text": ".@NSF is hiring the inaugural Head of its Office of Metascience to apply the scientific method to how we fund, organize, and evaluate research. Continuous improvement will accelerate discovery.\n\nIf you care about the science of science, apply: https://t.co/tQ4Jud4KM7",
+   "created_at": "Tue Oct 27 17:59:40 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "mkratsios47",
+   "rt_author_name": "Director Michael Kratsios",
+   "likes": 276,
+   "retweets": 69,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T20:06:02.803358+00:00"
+  },
+  "2115141383606698359": {
+   "id": "2115141383606698359",
+   "url": "https://x.com/DaveRBanerjee/status/2115141383606698359",
+   "text": "@mkratsios47 @NSF based",
+   "created_at": "Tue Oct 27 17:59:37 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "mkratsios47",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T20:06:02.803358+00:00"
+  },
+  "2115135572003938594": {
+   "id": "2115135572003938594",
+   "url": "https://x.com/DaveRBanerjee/status/2115135572003938594",
+   "text": "Read the full post here: \n\nhttps://t.co/3Uy1wRL6D4",
+   "created_at": "Tue Oct 27 17:36:32 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "DaveRBanerjee",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T20:06:02.803358+00:00"
+  },
+  "2115135569894183069": {
+   "id": "2115135569894183069",
+   "url": "https://x.com/DaveRBanerjee/status/2115135569894183069",
+   "text": "New Substrate post from Kristina Kempkey on how the Intelligence Community can track China's AI compute\n\nWhile there are some efforts from NGOs like Epoch, IAPS, IFP, etc., on estimating China's compute, they have to rely on OSINT\n\nThe IC, on the other hand, has access to way more information and could get far superior estimates on China's compute\n\nSo what should the IC track? Kristina argues they should:\n\n(1) Track how much compute China’s leading AI developers and cloud providers have and who can use it\n\n(2) Track how many finished, usable advanced AI chips China can produce itself\n\n(3) Track how much overseas compute Chinese AI companies can actually use\n\n(4) Track how many restricted AI chips and logic dies, and how much high-bandwidth memory, are being smuggled into China, and where they are going\n\n(5) Track the inputs and bottlenecks in China’s production of advanced AI chips\n\n(6) Track China’s progress on indigenizing chipmaking equipment and materials, especially lithography\n\n(7) Track illicit foreign fabrication of Chinese AI chip or high-bandwidth memory designs",
+   "created_at": "Tue Oct 27 17:36:31 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVp3gi-XsAA0zul.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-27T20:06:02.803358+00:00"
+  },
+  "2115129662309544109": {
+   "id": "2115129662309544109",
+   "url": "https://x.com/DaveRBanerjee/status/2115129662309544109",
+   "text": "There’s a common argument that Anthropic and OpenAI already have every incentive to crack down on distillation, since it hurts their competitiveness\n\nIf a Chinese lab can just distill your frontier model, it undercuts you on price and eats into your margins\n\nBut that’s not the full story...\n\nAnthropic told investors that 5-7% of its revenue comes from customers who are DISTILLING ITS MODELS\n\nSo in the near term, allowing distillation pumps up their API revenue. But in the long term, it erodes their lead in the AI race",
+   "created_at": "Tue Oct 27 17:13:03 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 11,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "theobearman",
+    "text": "Distillation attacks accounted for c.$1.65-2.3bn of Anthropic's first nine months' revenue in 2026.\n\nThe S1 confirms Anthropic's 1H revenue was $16.2bn, and FT reporting from earlier in October suggests Q3 revenue was $16.8bn. The S1 states that c.5% to 7% of Anthropic's revenue in the first 9 months of this year was derived from customers who were subsequently found to have violated Anthropic's \"usage policy or commercial terms.\"\n\nIf essentially all of this revenue came from illicit distillation, applying Fable 5’s list prices of $10:50/m tokens and assuming a 1:17 input ratio implies c.33–46 trillion output tokens, after paying for inputs.\n\nThe input:output ratio is informed by tokenizing the two math and coding samples in the DeepSeek-R1 paper, which are from a dataset IFP says is \"likely similar to what Chinese companies can extract when distilling US models behind an API.\"\n\nThis is likely a lower-bound estimate because cheaper models or discounted access would yield more output tokens for the same spend, and we know Anthropic models cheaper than Fable 5 were distilled from, as well as Fable 5 itself. \n\nhttps://t.co/iclYhuMgTP\n\nhttps://t.co/L5yoO5zle4\n\nhttps://t.co/g1zJ2I463f\n\nhttps://t.co/c6GeB4Ru1j\n\nhttps://t.co/ZVR9j5PNxk"
+   },
+   "fetched_at": "2026-10-27T20:06:02.803358+00:00"
   }
  }
 }

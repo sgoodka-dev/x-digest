@@ -3509,6 +3509,65 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2115141414447374559": {
+   "id": "2115141414447374559",
+   "url": "https://x.com/DKokotajlo/status/2115141414447374559",
+   "text": "If just a few lab staff took on verification work full-time, verifying a US-China pacing deal could get much more feasible within months.\n\nHere are 8 specific things lab staff could start on today to help make international verification possible: 🧵",
+   "created_at": "Tue Oct 27 17:59:45 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "MauricBaker",
+   "rt_author_name": "Mauricio Baker",
+   "likes": 168,
+   "retweets": 30,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T20:06:02.803358+00:00"
+  },
+  "2115134105210011974": {
+   "id": "2115134105210011974",
+   "url": "https://x.com/DKokotajlo/status/2115134105210011974",
+   "text": "What if Anthropic just...stopped? Unilaterally? Right now?\n\nI talked to @DKokotajlo @_NathanCalvin @geoffreyirving about why it's time to stop framing AI as a prisoner's dilemma and just do the right thing.\n\nI hope a lot of people inside and outside Anthropic read this \n\n🧵 1/n https://t.co/gjqE23ptz7",
+   "created_at": "Tue Oct 27 17:30:42 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "SigalSamuel",
+   "rt_author_name": "Sigal Samuel",
+   "likes": 325,
+   "retweets": 61,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVpDWJ2WMAAI6K-.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-27T20:06:02.803358+00:00"
+  },
+  "2115123977450672559": {
+   "id": "2115123977450672559",
+   "url": "https://x.com/DKokotajlo/status/2115123977450672559",
+   "text": "@FangcunLeap @tomekkorbak @usmananwar391 Thank you!",
+   "created_at": "Tue Oct 27 16:50:27 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "FangcunLeap",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-27T20:06:02.803358+00:00"
   }
  }
 }
