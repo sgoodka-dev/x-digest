@@ -8697,6 +8697,45 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115527042628206901": {
+   "id": "2115527042628206901",
+   "url": "https://x.com/deanwball/status/2115527042628206901",
+   "text": "@deredleritt3r @InfiniteHexx Will run into 1a problems",
+   "created_at": "Wed Oct 28 19:32:06 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "deredleritt3r",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-28T20:16:40.588643+00:00"
+  },
+  "2115505486074180070": {
+   "id": "2115505486074180070",
+   "url": "https://x.com/deanwball/status/2115505486074180070",
+   "text": "A patchwork of state laws, despite having become a bit of a meme, is genuinely a risk, is a reasonably common failure mode of American federalism, and is something worth being wary of, even if that wariness doesn’t translate to anything like “blanket opposition to all state legislation.”",
+   "created_at": "Wed Oct 28 18:06:26 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 22,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "CharlieBull0ck",
+    "text": "Way back in the day (i.e. like late 2025-early 2026) I used to do a bit whenever I was on a panel with @neil_chilson or @KevinTFrazier or whoever where if they brought up the \"patchwork of state laws\" thing I would point out that the few existing state AI safety laws were very light touch and harmonized, and I would accuse the interlocutor of being a \"regulatory doomer\" because they were concerned about speculative future harms from state AI laws. Great bit, always killed. People love the \"regulatory doomer\" line. \n\nI don't think I can really do it any more, though, because it kind of seems like states really are about to pass a bunch of very different laws, some of which do in fact impose obligations on frontier AI developers.\n\nI'm not saying that's a bad thing, to be clear; I don't think the current level of regulation (essentially zero) is anywhere near defensible, and since Congress isn't ready to get serious about federal legislation states should and will get to work and start trying out different things. But it is funny to me that all of the doomers are being proven right at the same time."
+   },
+   "fetched_at": "2026-10-28T20:16:40.588643+00:00"
   }
  }
 }

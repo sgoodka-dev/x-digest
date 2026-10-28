@@ -4750,6 +4750,32 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115512210281611317": {
+   "id": "2115512210281611317",
+   "url": "https://x.com/theobearman/status/2115512210281611317",
+   "text": "A further announcement today as part of the budget: the UK government has allocated £40m of funding to a new \"National Agentic Security Unit\" which will  \"develop new capabilities to detect, investigate and respond to cases of rogue agentic systems. This will integrate monitoring and incident response functions with new operational capabilities.\"\n\nhttps://t.co/5gY7NQ5GVO",
+   "created_at": "Wed Oct 28 18:33:09 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVvPFzwXgAAEgqb.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "KanishkaNarayan",
+    "text": "1/7 I have two simple tests for British AI, driven by our values. Is it safe? And is it ours to shape? 🇬🇧 \n\nToday, Chancellor @JohnHealey_MP is announcing a major, ambitious package of investment to strengthen Britain's defences against emerging threats, back British innovation, and build our technological independence."
+   },
+   "fetched_at": "2026-10-28T20:16:40.588643+00:00"
   }
  }
 }

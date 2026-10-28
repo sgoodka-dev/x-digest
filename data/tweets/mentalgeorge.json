@@ -2476,6 +2476,27 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115521048741630158": {
+   "id": "2115521048741630158",
+   "url": "https://x.com/mentalgeorge/status/2115521048741630158",
+   "text": "The fact that models today still cheat and lie on VendingBench - which has been around for almost 2 years now - is the clearest possible demonstration that (some level of) alignment is a critical bottleneck to automating wide swathes of the economy",
+   "created_at": "Wed Oct 28 19:08:17 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "andonlabs",
+    "text": "How aligned is Gemini 4 Carbon?\n\nWhen we ran Gemini 4 Argon on Vending-Bench, it fabricated confirmation emails, refused refunds, exploited invoice errors, and lied to suppliers.\n\nCarbon does some of the same, but less severely. Both behave worse than Astra.\n\nhttps://t.co/QZLPe5NEBB"
+   },
+   "fetched_at": "2026-10-28T20:16:40.588643+00:00"
   }
  }
 }

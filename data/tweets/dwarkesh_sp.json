@@ -2126,6 +2126,29 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115498661354590308": {
+   "id": "2115498661354590308",
+   "url": "https://x.com/dwarkesh_sp/status/2115498661354590308",
+   "text": "Starship, SpaceX’s largest and most sophisticated rocket, generates power equivalent to 20% of average daily U.S. electricity generation.\n\n@elonmusk is trying to harness all that power without the rocket exploding - and then make it reusable. https://t.co/oomzIOz34P",
+   "created_at": "Wed Oct 28 17:39:19 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "likes": 69,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2115207203023953920/img/j9lpcnsLQfoX1_V-.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-28T20:16:40.588643+00:00"
   }
  }
 }

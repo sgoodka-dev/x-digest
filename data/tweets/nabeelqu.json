@@ -2505,6 +2505,27 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-19T17:28:56.163130+00:00"
+  },
+  "2115516886595027032": {
+   "id": "2115516886595027032",
+   "url": "https://x.com/nabeelqu/status/2115516886595027032",
+   "text": "Andy Masley is just always good. Great post:",
+   "created_at": "Wed Oct 28 18:51:44 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 19,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "AndyMasley",
+    "text": "I wanna write just for fun list posts more often so I wrote a list of my favorite lesser-known books https://t.co/xUav5K2Fip"
+   },
+   "fetched_at": "2026-10-28T20:16:40.588643+00:00"
   }
  }
 }

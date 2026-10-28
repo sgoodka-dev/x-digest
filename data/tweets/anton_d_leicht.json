@@ -2424,6 +2424,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115501210149310752": {
+   "id": "2115501210149310752",
+   "url": "https://x.com/anton_d_leicht/status/2115501210149310752",
+   "text": "@S_OhEigeartaigh i'm also uncomfortable with (2), but a bit less than you: first, I think it is a practical necessity to aim Eurofab at a distinctly different technical chip paradigm; otherwise, the incumbent ecosystem is just too strong. and AI-uplifted chip design seems like the market disruption that an agile new entrant could capitalise on. \n\nalso, I feel like chip RSI is much less concerning than software-only intelligence explosions; a lot of our apprehension gets imported from the software RSI context, but once loop iteration timelines get drawn out to months because you still need to make and plug in chips, that kind of RSI loop is much less likely to escape human oversight. you still might object to the capability level it gets us to! but to my mind, if we get to hardware RSI, we've already made it past the worst RSI risks.",
+   "created_at": "Wed Oct 28 17:49:27 +0000 2026",
+   "author_handle": "anton_d_leicht",
+   "author_name": "Anton Leicht",
+   "is_reply": true,
+   "reply_to": "S_OhEigeartaigh",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-28T20:16:40.588643+00:00"
   }
  }
 }
