@@ -4658,6 +4658,98 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-27T20:06:02.803358+00:00"
+  },
+  "2115404491717746950": {
+   "id": "2115404491717746950",
+   "url": "https://x.com/theobearman/status/2115404491717746950",
+   "text": "Anthropic: “We cannot underscore enough the impact that UK @AISecurityInst has had, and will continue to have, on global AI safety and security.” https://t.co/ccgUGREHWO",
+   "created_at": "Wed Oct 28 11:25:07 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "discoplomacy",
+   "rt_author_name": "sam",
+   "likes": 384,
+   "retweets": 45,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVrBdHgbwAA41wI.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115343528175997051": {
+   "id": "2115343528175997051",
+   "url": "https://x.com/theobearman/status/2115343528175997051",
+   "text": "Since 2022, 72% of the world’s AI compute has ended up in the US and about 10% in China.\n\nAnd the US share keeps growing. It acquired around 60% of new compute each year from 2022 to 2024, then 72% in 2025, and 78% in the first half of 2026.\n\nThis data comes from our interactive AI Chip Imports explorer, which estimates and visualizes national compute shares using customs records.\n\nIt’s the latest piece in our project to map the AI chip supply chain, which also provides data on the components used to manufacture chips, sales volumes, the data centers that house chips, and the companies that own and use them.\n\nMore on this new data and what we’ve learned below.",
+   "created_at": "Wed Oct 28 07:22:52 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "EpochAIResearch",
+   "rt_author_name": "Epoch AI",
+   "likes": 475,
+   "retweets": 84,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVqmrZbacAAmO-W.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115341645059367199": {
+   "id": "2115341645059367199",
+   "url": "https://x.com/theobearman/status/2115341645059367199",
+   "text": "Alongside v5, we're launching the Artificial Analysis Progress Index v1. It places language models released since November 2022 on one capability scale, across a wide span of benchmarks.\n\nUse the Progress Index to compare how underlying capability has changed over time, including between models released years apart. To compare models for current use cases and understand the present frontier, use the Intelligence Index, which remains our primary measure of current model intelligence.\n\nThank you to @EpochAIResearch and @AnthropicAI - we built on learnings from the Epoch Capabilities Index in designing the Progress Index\n\nExplore the Progress Index: https://t.co/vvg5dU6Kg5\n\nMethodology: https://t.co/F50x3Q2Bik",
+   "created_at": "Wed Oct 28 07:15:23 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ArtificialAnlys",
+   "rt_author_name": "Artificial Analysis",
+   "likes": 224,
+   "retweets": 10,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVrufBBasAAtUc3.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115340346745839859": {
+   "id": "2115340346745839859",
+   "url": "https://x.com/theobearman/status/2115340346745839859",
+   "text": "Announcing Artificial Analysis Intelligence Index v5, featuring 2 new benchmarks and 3 upgrades. For the first time, the majority of the Index is built on private datasets\n\nThe Artificial Analysis Intelligence Index is our composite measure of model capabilities across tasks reflecting real-world usage today. v5 is our biggest upgrade since v4 launched in January. With v5, 60% of the Index is now based on evaluations with private test sets or held-out answers.\n\nAlongside Intelligence Index v5, we’re launching the Artificial Analysis Progress Index v1, which tracks model capability over time on one continuous scale.\n\nNew to the Intelligence Index:\n\n➤ FrontierCode 2.0: Cognition's newly-launched private benchmark of real-world coding tasks, graded on whether a repository maintainer would merge the agent's change\n\n➤ Terminal-Bench-Science: 70 agentic scientific research tasks, run in a terminal environment\n\nUpgraded:\n\n➤ HLE-Diamond (replacing Humanity's Last Exam): a refined 1,000-question version of Humanity's Last Exam, split evenly between reasoning and knowledge questions\n\n➤ AA-Omniscience v1.1: An updated dataset with saturated and public set questions removed, new questions added, and ambiguous or erroneous questions revised\n\n➤ CritPt v2: a private, 40-question hard subset of CritPt v2, revised by the CritPt authors and run with a code-execution tool\n\nStaying in the Index: AA-Briefcase, AutomationBench-AA, GDP.pdf and Terminal-Bench 4.0\n\nRemoved from the Index: GDPval-AA v2.1, SciCode, and AA-LCR v1.1\n\nKey results:\n\n➤ Claude Opus 5.5 (max) leads at 58, ahead of GPT-6 Astra (max, 57) and GPT-6.1 Sol (max, 55): Anthropic and OpenAI hold the top five models. Gemini 4 Argon (high) is next at 50\n\n➤ The open weights gap widens from 3 points to 12: Kimi K3.1 Pro (weights not yet released) is the top open weights model at 46. Among released weights, DeepSeek V4.1 Flash 1017 (max) and GLM-5.3 (max) lead at 32 - 26 points behind the leader and below Claude Haiku 5.5 (max, 36)\n\n➤ Cost per task varies by more than 13x among the leading models: of the 10 highest-scoring models shown, GPT-6.1 Terra (max) is the cheapest at $0.96 per Intelligence Index task and Claude Fable 5.1 (max) the most expensive at $13.04",
+   "created_at": "Wed Oct 28 07:10:14 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ArtificialAnlys",
+   "rt_author_name": "Artificial Analysis",
+   "likes": 4866,
+   "retweets": 404,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVrubbmaoAA_Kry.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
   }
  }
 }

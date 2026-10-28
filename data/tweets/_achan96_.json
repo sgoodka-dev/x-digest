@@ -2508,6 +2508,92 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2115390880333103395": {
+   "id": "2115390880333103395",
+   "url": "https://x.com/_achan96_/status/2115390880333103395",
+   "text": "UK AISI's report: https://t.co/XkGqUfiEa2\n\nAnthropic's report: https://t.co/1yQAxWUW8q",
+   "created_at": "Wed Oct 28 10:31:02 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": true,
+   "reply_to": "_achan96_",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115390876776038492": {
+   "id": "2115390876776038492",
+   "url": "https://x.com/_achan96_/status/2115390876776038492",
+   "text": "UK AISI's report on their cybersecurity incident suggests that Mythos 5.1 still attacks a lot of the time even when told that real people would be harmed (right fig), but Anthropic's report seems to suggest the opposite (left fig, bottom column). \n\nWhat accounts for the discrepancy? Is it just the fact that they sampled from different points of the transcript and provided slightly different evidence to the models?  Why would those things lead to such a large discrepancy?",
+   "created_at": "Wed Oct 28 10:31:01 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 15,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVtgEh8XUAEe0fe.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVtgNIaXsAA39Bo.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115344743114711079": {
+   "id": "2115344743114711079",
+   "url": "https://x.com/_achan96_/status/2115344743114711079",
+   "text": "New Anthropic research: How AI agents shape experts' judgment calls\n\nWhen experts delegate work to an agent, do they still make the key decisions? We tested this in a randomized trial with 50 professional data analysts. https://t.co/YyylTuVWkE",
+   "created_at": "Wed Oct 28 07:27:42 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AlexTamkin",
+   "rt_author_name": "Alex Tamkin",
+   "likes": 3197,
+   "retweets": 430,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2115181954740187136/img/iRp2D80CClkkY95v.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115344037892833480": {
+   "id": "2115344037892833480",
+   "url": "https://x.com/_achan96_/status/2115344037892833480",
+   "text": "I couldn't resist the call of a purple avatar. I've joined @IFP as director of emerging tech.",
+   "created_at": "Wed Oct 28 07:24:54 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "janet_e_egan",
+   "rt_author_name": "Janet Egan",
+   "likes": 358,
+   "retweets": 17,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
   }
  }
 }

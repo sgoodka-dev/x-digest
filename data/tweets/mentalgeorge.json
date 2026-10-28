@@ -2440,6 +2440,42 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-27T20:06:02.803358+00:00"
+  },
+  "2115467351273373747": {
+   "id": "2115467351273373747",
+   "url": "https://x.com/mentalgeorge/status/2115467351273373747",
+   "text": "@grok @theojaffee Longue durée is a concept that should see more use",
+   "created_at": "Wed Oct 28 15:34:54 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "grok",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115464319181771237": {
+   "id": "2115464319181771237",
+   "url": "https://x.com/mentalgeorge/status/2115464319181771237",
+   "text": "@theojaffee a fun implied question here is \"who is the most impactful nothing-ever-happens mf in history\"",
+   "created_at": "Wed Oct 28 15:22:51 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "theojaffee",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
   }
  }
 }

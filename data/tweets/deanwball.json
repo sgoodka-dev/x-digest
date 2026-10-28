@@ -8516,6 +8516,187 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-27T20:06:02.803358+00:00"
+  },
+  "2115460122130673872": {
+   "id": "2115460122130673872",
+   "url": "https://x.com/deanwball/status/2115460122130673872",
+   "text": "There is a real and important thing behind the concept of sovereign AI, and there are also many people practicing a grift on less-sophisticated government/civil society audiences. Caveat emptor as always",
+   "created_at": "Wed Oct 28 15:06:11 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 35,
+   "retweets": 6,
+   "media": [],
+   "quoted": {
+    "author": "natolambert",
+    "text": "People underestimate how much money is left to get thrown at sovereign ai"
+   },
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115441000868933847": {
+   "id": "2115441000868933847",
+   "url": "https://x.com/deanwball/status/2115441000868933847",
+   "text": "@DevOuterReaches I don’t have as much time to play with new open releases as I used to, but I test drive buzzy new oss releases for at least a few hours on my personal machines/with some of my favorite prompts. Only way to stay sharp in this field is to use as many competing agents as you can. I wouldn’t comment specifically on a new model in depth unless I had a few days to play with it.",
+   "created_at": "Wed Oct 28 13:50:12 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "DevOuterReaches",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 5,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115415506165342479": {
+   "id": "2115415506165342479",
+   "url": "https://x.com/deanwball/status/2115415506165342479",
+   "text": "This is the first time an Artificial Analysis ranking has even roughly approximated my own subjective rankings of models.",
+   "created_at": "Wed Oct 28 12:08:53 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 317,
+   "retweets": 5,
+   "media": [],
+   "quoted": {
+    "author": "ArtificialAnlys",
+    "text": "Open weights models fall further behind in v5. The leader, Kimi K3.1 Pro (weights not yet released), scores 46, 12 points behind the leader, compared with a 3-point gap in v4.3. Of models with released weights, DeepSeek V4.1 Flash 1017 (max) and GLM-5.3 (max) score highest at 32, and Claude Haiku 5.5 (max) outscores all of them.\n\nThe gap is widest on HLE-Diamond and Terminal-Bench-Science, where Kimi K3.1 Pro scores 37% and 34%, compared with 68% for Claude Opus 5.5 (max) and 63% for GPT-6 Astra (max)."
+   },
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115411801269506556": {
+   "id": "2115411801269506556",
+   "url": "https://x.com/deanwball/status/2115411801269506556",
+   "text": "Artificial Analysis finally moves to closed benchmarks (goodbye GDPval-AA), and finds that open weights models are falling  further behind than they had previously measured. Take with a grain of salt, but matches the general vibes that we haven't seen a Fable-class open model.",
+   "created_at": "Wed Oct 28 11:54:10 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "emollick",
+   "rt_author_name": "Ethan Mollick",
+   "likes": 1374,
+   "retweets": 93,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115411244567937184": {
+   "id": "2115411244567937184",
+   "url": "https://x.com/deanwball/status/2115411244567937184",
+   "text": "it seems like data center public sentiment has found its bottom, with notable recovery among republicans https://t.co/z7PdYNlNdx https://t.co/tLEaR9emud",
+   "created_at": "Wed Oct 28 11:51:57 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "MattZeitlin",
+   "rt_author_name": "Matthew Zeitlin",
+   "likes": 214,
+   "retweets": 20,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVreUTYWoAA-m6A.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115397334612017455": {
+   "id": "2115397334612017455",
+   "url": "https://x.com/deanwball/status/2115397334612017455",
+   "text": "honestly degrading the idea of “existential safety” — the biggest problem humanity has ever faced — by lumping it together with things like spam, “toxicity”, political unwanted content, deepfakes etc has been a huge disaster for ai safety and polarized a lot of people",
+   "created_at": "Wed Oct 28 10:56:41 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "tszzl",
+   "rt_author_name": "roon",
+   "likes": 868,
+   "retweets": 66,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115208659479224730": {
+   "id": "2115208659479224730",
+   "url": "https://x.com/deanwball/status/2115208659479224730",
+   "text": "@growing_daniel The wait times are often intolerable. I was in orlando recently and tried it, and the wait was like half an hour",
+   "created_at": "Tue Oct 27 22:26:57 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "growing_daniel",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 58,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115197468338196901": {
+   "id": "2115197468338196901",
+   "url": "https://x.com/deanwball/status/2115197468338196901",
+   "text": "Amazing!",
+   "created_at": "Tue Oct 27 21:42:29 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 30,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "SLAClab",
+    "text": "Did we find a new dwarf planet?\n\n@VRubinObs has revealed a new dwarf planet candidate that orbits our Sun beyond Pluto! And it may be among the largest and brightest objects discovered in this region of the Solar System: https://t.co/mPcVYVhvXZ https://t.co/d94196aMuT"
+   },
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115197199059673425": {
+   "id": "2115197199059673425",
+   "url": "https://x.com/deanwball/status/2115197199059673425",
+   "text": "Did we find a new dwarf planet?\n\n@VRubinObs has revealed a new dwarf planet candidate that orbits our Sun beyond Pluto! And it may be among the largest and brightest objects discovered in this region of the Solar System: https://t.co/mPcVYVhvXZ https://t.co/d94196aMuT",
+   "created_at": "Tue Oct 27 21:41:25 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "SLAClab",
+   "rt_author_name": "SLAC National Accelerator Laboratory",
+   "likes": 682,
+   "retweets": 96,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVqO6aiXcAAq7Xi.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
   }
  }
 }

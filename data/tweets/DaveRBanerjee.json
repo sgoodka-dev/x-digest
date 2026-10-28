@@ -2988,6 +2988,27 @@
     "text": "Distillation attacks accounted for c.$1.65-2.3bn of Anthropic's first nine months' revenue in 2026.\n\nThe S1 confirms Anthropic's 1H revenue was $16.2bn, and FT reporting from earlier in October suggests Q3 revenue was $16.8bn. The S1 states that c.5% to 7% of Anthropic's revenue in the first 9 months of this year was derived from customers who were subsequently found to have violated Anthropic's \"usage policy or commercial terms.\"\n\nIf essentially all of this revenue came from illicit distillation, applying Fable 5’s list prices of $10:50/m tokens and assuming a 1:17 input ratio implies c.33–46 trillion output tokens, after paying for inputs.\n\nThe input:output ratio is informed by tokenizing the two math and coding samples in the DeepSeek-R1 paper, which are from a dataset IFP says is \"likely similar to what Chinese companies can extract when distilling US models behind an API.\"\n\nThis is likely a lower-bound estimate because cheaper models or discounted access would yield more output tokens for the same spend, and we know Anthropic models cheaper than Fable 5 were distilled from, as well as Fable 5 itself. \n\nhttps://t.co/iclYhuMgTP\n\nhttps://t.co/L5yoO5zle4\n\nhttps://t.co/g1zJ2I463f\n\nhttps://t.co/c6GeB4Ru1j\n\nhttps://t.co/ZVR9j5PNxk"
    },
    "fetched_at": "2026-10-27T20:06:02.803358+00:00"
+  },
+  "2115465162794692989": {
+   "id": "2115465162794692989",
+   "url": "https://x.com/DaveRBanerjee/status/2115465162794692989",
+   "text": "As long as OpenAI and Anthropic continue to have terrible security, there's a much weaker case for \"racing to beat China\"\n\nIt's much harder to maintain a lead over China if they can trivially steal your hard-earned research insights\n\nRelated: a lot of people think that Pacing the Frontier is a sure-fire way for the US to lose its lead over China in the AI race\n\nBut if pacing the frontier gives US AI companies breathing room to improve their security, the net effect may actually increase the US lead (or at least not dramatically shorten the lead)",
+   "created_at": "Wed Oct 28 15:26:12 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 21,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "willdepue",
+    "text": "anthropic is massively underplaying the recent security breach. i'm hearing cathedral achieved full administrator access of the slack workspace (see every message, log in as arbitrary users) where literally every single research secret is contained\n\nto those unfamiliar: Ant & OAI keep literally everything in Slack. it sounds exactly the same incident that happened to OpenAI in 2023, where OpenAI was hacked by a random guy who got access to an access token from an external app service\n\n\"we're critical to national security, we must beat China, and yes we keep all our crown jewels in Salesforce's Slack messenger. yes we have admin API tokens everywhere. why do you ask?\""
+   },
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
   }
  }
 }

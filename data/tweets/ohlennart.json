@@ -1876,6 +1876,42 @@
     "text": "5-7% is, incidentally, roughly the same percentage of Super Micro’s 2024-25 sales that DOJ alleges came from chip smuggling \n\nhttps://t.co/wQY4QK9jQh"
    },
    "fetched_at": "2026-10-27T16:39:59.051706+00:00"
+  },
+  "2115240878096921004": {
+   "id": "2115240878096921004",
+   "url": "https://x.com/ohlennart/status/2115240878096921004",
+   "text": "@SamuelAlbanie @joey_f6 @EpochAIResearch they're really struggling to produce chips. right now their quality adjusted is ≈2% or so of what the US churns out, and the gap right now is widening .\n\nbut importantly, the graph above is about physical location. you can use compute remotely. that bumps up their compute a bit.",
+   "created_at": "Wed Oct 28 00:34:59 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": true,
+   "reply_to": "SamuelAlbanie",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 53,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115220319753671163": {
+   "id": "2115220319753671163",
+   "url": "https://x.com/ohlennart/status/2115220319753671163",
+   "text": "@jordanschneider ofc! but what do i have to say? AI is mainstream now, even chip export controls!",
+   "created_at": "Tue Oct 27 23:13:17 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": true,
+   "reply_to": "jordanschneider",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
   }
  }
 }

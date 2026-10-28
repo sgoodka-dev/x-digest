@@ -3568,6 +3568,70 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-27T20:06:02.803358+00:00"
+  },
+  "2115485543362601395": {
+   "id": "2115485543362601395",
+   "url": "https://x.com/DKokotajlo/status/2115485543362601395",
+   "text": "An anonymous account accused The Midas Project of being part of a shadowy, well-funded conspiracy.\n\nAn investigation into the account uncovered links to Leading the Future, the leading pro-AI Super PAC.\n\nThis is a truly wild story. https://t.co/zVDs2vtW5H",
+   "created_at": "Wed Oct 28 16:47:12 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "TheMidasProj",
+   "rt_author_name": "The Midas Project",
+   "likes": 49,
+   "retweets": 10,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2115137089373163520/img/SQ6nMN_E2NMA9idb.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115228076674351340": {
+   "id": "2115228076674351340",
+   "url": "https://x.com/DKokotajlo/status/2115228076674351340",
+   "text": "This is one of the most important pieces of social science on human and AI interaction that I’ve seen in some time. Experts follow agentic advice the vast majority of the time (causally), but only a tiny fraction credit the agent—majority think they came to decision on their own volition. \n\nReminds me of the classic Nisbett and Wilson study on people following outside influence without realizing it\n\n“ But as more work is handed to AI—including AI safety research—these judgment calls are the main levers for people's own values to influence outcomes.\n\nIf people defer to AI without noticing, then \"human in the loop\" might provide less assurance than people expect.”",
+   "created_at": "Tue Oct 27 23:44:07 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "alexolegimas",
+   "rt_author_name": "Alex Imas",
+   "likes": 1527,
+   "retweets": 236,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115219092940718217": {
+   "id": "2115219092940718217",
+   "url": "https://x.com/DKokotajlo/status/2115219092940718217",
+   "text": "People seem to forget how unprecedented this is https://t.co/3MYAXZ4JOx",
+   "created_at": "Tue Oct 27 23:08:25 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "JordanNanos",
+   "rt_author_name": "Jordan Nanos",
+   "likes": 4694,
+   "retweets": 203,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVkPnoBbwAARmYd.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-28T17:10:22.515655+00:00"
   }
  }
 }
