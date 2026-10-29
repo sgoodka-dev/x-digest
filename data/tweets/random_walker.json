@@ -2881,6 +2881,29 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-25T14:57:03.198720+00:00"
+  },
+  "2115769249117475312": {
+   "id": "2115769249117475312",
+   "url": "https://x.com/random_walker/status/2115769249117475312",
+   "text": "What would the writing of superintelligent AI sound like? You might expect it to have the characteristics of good human writing — figurative language, high information density, coining new terms, and punchiness — but dialed up to 11. Well, that’s what Claude did, until Anthropic dialed it back recently because of user complaints. It didn’t sound superintelligent to most of us. Instead, the neuralese writing style sounds like a “stupid person’s idea of a smart person”.\n\nOur response to information density and metaphor-laden writing looks something like the cartoon graph I've drawn. Beyond a point, it completely backfires. The reason human writers don’t overdo it isn’t because they aren’t capable, but because they are aware of the reader’s cognitive burden. One of the hardest skills to learn as a writer is to simulate the reader’s experience.\n\nIt’s easy to train AI to mimic mediocre human writing. But optimizing it to be (perceived as) good is really hard, and made much harder by the fact that when everyone uses the same few AI models we get tired of their tics very quickly. Most Claudeisms are individually pretty good. I hate that I can’t use “load bearing” in my writing any more. If it weren’t for AI overuse it would be a neat metaphor.\n\nA broader question is whether most tasks in the economy are like chess, where there is a clear performance metric that can be optimized, or whether they’re like writing, where quality is a multidimensional balancing act without clear training signals beyond human mimicry.",
+   "created_at": "Thu Oct 29 11:34:32 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 183,
+   "retweets": 24,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVy4AfNWIAA2y49.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
   }
  }
 }

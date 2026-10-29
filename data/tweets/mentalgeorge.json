@@ -2497,6 +2497,24 @@
     "text": "How aligned is Gemini 4 Carbon?\n\nWhen we ran Gemini 4 Argon on Vending-Bench, it fabricated confirmation emails, refused refunds, exploited invoice errors, and lied to suppliers.\n\nCarbon does some of the same, but less severely. Both behave worse than Astra.\n\nhttps://t.co/QZLPe5NEBB"
    },
    "fetched_at": "2026-10-28T20:16:40.588643+00:00"
+  },
+  "2115736646536859699": {
+   "id": "2115736646536859699",
+   "url": "https://x.com/mentalgeorge/status/2115736646536859699",
+   "text": "@fleetingbits These three things are very different though",
+   "created_at": "Thu Oct 29 09:24:59 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "fleetingbits",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
   }
  }
 }

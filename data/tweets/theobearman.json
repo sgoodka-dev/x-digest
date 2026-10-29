@@ -4776,6 +4776,257 @@
     "text": "1/7 I have two simple tests for British AI, driven by our values. Is it safe? And is it ours to shape? 🇬🇧 \n\nToday, Chancellor @JohnHealey_MP is announcing a major, ambitious package of investment to strengthen Britain's defences against emerging threats, back British innovation, and build our technological independence."
    },
    "fetched_at": "2026-10-28T20:16:40.588643+00:00"
+  },
+  "2115838834386604054": {
+   "id": "2115838834386604054",
+   "url": "https://x.com/theobearman/status/2115838834386604054",
+   "text": "https://t.co/Q1oa6EhM5F",
+   "created_at": "Thu Oct 29 16:11:03 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "theobearman",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVz4NKaWEAA9Qkw.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2115838651342934335": {
+   "id": "2115838651342934335",
+   "url": "https://x.com/theobearman/status/2115838651342934335",
+   "text": "OPENAI: “Our misalignment monitors now cover our frontier models across a much wider variety of surfaces, including training, evaluation, internal use, and, with modifications depending on the product surface, external deployment.”\n\nhttps://t.co/S6I04pNKfZ https://t.co/IVND6bGF5g",
+   "created_at": "Thu Oct 29 16:10:19 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVz4ChAXoAAZ9So.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2115835626687975425": {
+   "id": "2115835626687975425",
+   "url": "https://x.com/theobearman/status/2115835626687975425",
+   "text": "I joined @GoogleDeepMind to develop a research program on the economics of AGI. Today, together with Andrew Koh (@andrewjkoh) and Shane Legg (@ShaneLegg), we are incredibly excited to release The Economics of Intelligence, the first in a series of projects from our group on how AGI will change the economy.\n\nHow do capability improvements transform the economy, and when? In this project, we define thresholds of economic capabilities, e.g., minimal AGI, based on how they transform the economy. We then track how the economy–market structure, employment, and wages–changes during the transition across capability regimes.\n\nWe have seen exponential increases in what AI agents can do but the broader economy seems almost remarkably unchanged. Part of the reason is that the solo AI agent is the wrong economic object; economic transformation is an equilibrium outcome where organizations compete. Looking at how intelligence functions within organizations, transformation will depend on when two key capability thresholds are crossed: competence (gains on individual skills, e.g., coding, math) and coordination (gains on ability of agents to cooperate and work together).\n\nWe show that what economic transformation looks like depends on whether AI becomes supercompetent, supercooperative, or both—the regime of artificial superintelligence (ASI). Tracking this transition shows why the real visible transformation may come from improvements in coordination—a capability most benchmarks don’t yet track. Past a certain threshold, AI capabilities can break the Coasian ceiling on firm size and lead to an economy that looks drastically different than the one we see today.\n\nTwo main takeaways:\n1. To understand the path of transformation, we should be tracking agentic coordination more closely.\n2. The impact of AI will likely show up in wages before market structure or employment.\n\nWe are really excited about this paper. Excited to hear people’s thoughts.\n\nLink: https://t.co/9DTGSeKoSA",
+   "created_at": "Thu Oct 29 15:58:18 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "alexolegimas",
+   "rt_author_name": "Alex Imas",
+   "likes": 980,
+   "retweets": 167,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2115822005538697216/img/dNrsrdLsDNbrQAR4.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2115814762684797410": {
+   "id": "2115814762684797410",
+   "url": "https://x.com/theobearman/status/2115814762684797410",
+   "text": "KV-cache transfer: cat is out of the bag. My predictions are that, by 2028Q1, (a) CoT monitoring will be unambiguously over, (b) inference-time scaling curves will get better slopes and higher plateaus, and (c) context-window size will matter a lot less.",
+   "created_at": "Thu Oct 29 14:35:24 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "davidad",
+   "rt_author_name": "davidad 🎇",
+   "likes": 193,
+   "retweets": 17,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2115814386279301160": {
+   "id": "2115814386279301160",
+   "url": "https://x.com/theobearman/status/2115814386279301160",
+   "text": "Sam Altman on automation of AI R&D, RSI, OpenAI's internal model:\n\n1. \"We don't know yet how [automated AI R&D] truly is going to work. We know today how to say: find me a 5% compute efficiency win.\"\n\n(Note: a 5% compute efficiency gain that the model can find automatically is actually a big deal!)\n\n2. \"What I don't think anyone knows how to do yet is to say, go discover a new architecture that is as big of a single leap forward as the transformer was. And I think that's where things are heading.\"\n\n3. \"If you apply the same pipeline that we applied to get our models to be so good at math to AI research, it will probably work [for automated AI R&D].\"\n\n4. The bottleneck to getting good AI R&D results is shifting to asking the right questions and using things like swarms correctly, but answers to these questions will become much clearer in the next 3 months:\n\n\"One of the interesting things that people talk a lot about in OpenAI... is what are the questions that you're supposed to ask of GPT-7? Probably it's not enough to just say, make me RSI. And also, it's probably not enough to say, buy me a 5% compute efficiency win. I think this is one of the most interesting debates going on right now. And the answer is not just what question to ask it, but it's things like agent swarms. How are we going to use these models in a way that, like, actually maximizes what we can get out of them? I think we're going to learn a lot about that in the next 3 months.\"\n\n5. OpenAI's extreme focus on model efficiency:\n\n\"I bet we could redo Navier-Stokes at 1/100 of the cost a year from when it was done.\"\n\n6. More on OpenAI's internal model:\n\n\"There was one weekend when we got a new model... The name of the channel was \"model-name-hold-my-beer\". And people were just throwing that at the hardest problems they could. And people just didn't think the model was going to do these things. And we had this collective experience of people's hardest research problems from their academic career, the model was just knocking down one after the other, many different fields, it was incredible to watch... it was many of the problems we published, many other things.\"\n\n7. The other loop is self-replicating data centers:\n\n\"Yeah, people talk a lot about RSI as AI that does AI research. There's very little talk about self-replicating data centers, this idea that you can use AI to control robots and run fabs and build turbines or solar panels and build data centers. But I think we have that within grasp.\"",
+   "created_at": "Thu Oct 29 14:33:54 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "deredleritt3r",
+   "rt_author_name": "prinz",
+   "likes": 580,
+   "retweets": 61,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2115782232958754833": {
+   "id": "2115782232958754833",
+   "url": "https://x.com/theobearman/status/2115782232958754833",
+   "text": "We have a new Data Centre Covenant. But, until now, there was no detailed overview of what data centre capacity the UK plans to build: how much, where, and when?\n\nWhat signals are there about demand for UK compute?\n\nOur new report has the answers – which may surprise you! 🧵👇",
+   "created_at": "Thu Oct 29 12:26:08 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "sci_works",
+   "rt_author_name": "Science Works",
+   "likes": 33,
+   "retweets": 16,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2115750438993534976/img/0VQmKS0ichbchC2Z.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2115742557779173871": {
+   "id": "2115742557779173871",
+   "url": "https://x.com/theobearman/status/2115742557779173871",
+   "text": "SCOOP: Both Moonshot and DeepSeek distilled #OpenAI's Astra when developing their latest models (Kimi K3.1 &amp; V4.1-Flash 1017), after Anthropic intensified the crackdown on distillation recently. w/ @JuroOsawa @QianerLiu via @theinformation https://t.co/FtfIEyP7Os https://t.co/y11D8emyh6",
+   "created_at": "Thu Oct 29 09:48:29 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "jingyanghk",
+   "rt_author_name": "Jing Yang",
+   "likes": 34,
+   "retweets": 12,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVw4DInbMAA5dmR.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2115741246744330642": {
+   "id": "2115741246744330642",
+   "url": "https://x.com/theobearman/status/2115741246744330642",
+   "text": "@scaling01 Would you be prepared to publish the code for this or have a microsite which updates this regularly?",
+   "created_at": "Thu Oct 29 09:43:16 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "scaling01",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2115740453568188583": {
+   "id": "2115740453568188583",
+   "url": "https://x.com/theobearman/status/2115740453568188583",
+   "text": "the gap between China and the US is ~3.3 months according to the AA Progress Index https://t.co/BqLSCXCYfw",
+   "created_at": "Thu Oct 29 09:40:07 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "scaling01",
+   "rt_author_name": "Lisan al Gaib",
+   "likes": 228,
+   "retweets": 12,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVuznVYXUAAqKc4.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2115740115092042115": {
+   "id": "2115740115092042115",
+   "url": "https://x.com/theobearman/status/2115740115092042115",
+   "text": "Better ones are coming.",
+   "created_at": "Thu Oct 29 09:38:46 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "mycharmspace",
+   "rt_author_name": "Tianyi Zhang",
+   "likes": 1032,
+   "retweets": 30,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2115737925077942422": {
+   "id": "2115737925077942422",
+   "url": "https://x.com/theobearman/status/2115737925077942422",
+   "text": "@nytimes is reporting this morning that a Chinese businesswoman working for a Singapore-based data cente company Megaspeed and who was close to Jensen was passing intelligence to the CCP, President Trump was told and did not act. Megapeed has been buying Nvidia chips for installation in SEA data centers and renting the capacity out to Chinese companies.\n\nAs the Times reports: \"[...] the revelation that she was feeding information directly to Beijing raised more troubling possibilities, including that Mr. Huang had insights into Mr. Trump’s thinking on an issue of vital importance to both nations, one likely to come up when the president visits China next month. And it left questions about whether she could be gleaning information about Nvidia, which as much as any company accounts for the lead the United States has maintained in developing cutting-edge A.I. models.\"\n\nhttps://t.co/ifyVbXiyEf",
+   "created_at": "Thu Oct 29 09:30:04 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "nytimes",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVycKCmXsAAfG3Q.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2115698984106725708": {
+   "id": "2115698984106725708",
+   "url": "https://x.com/theobearman/status/2115698984106725708",
+   "text": "SITUATION DETECTED: Moonshot AI and DeepSeek both distilled OpenAI’s GPT-6 Astra for their latest models. Kimi K3.1 Pro and DeepSeek’s V4.1-Flash both benefited, per The Information.",
+   "created_at": "Thu Oct 29 06:55:20 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "MTSlive",
+   "rt_author_name": "MTS",
+   "likes": 605,
+   "retweets": 19,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
   }
  }
 }

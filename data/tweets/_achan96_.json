@@ -2594,6 +2594,42 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115575110086393873": {
+   "id": "2115575110086393873",
+   "url": "https://x.com/_achan96_/status/2115575110086393873",
+   "text": "@girishsastry I *think* UK AISI did compaction summaries and Anthropic did both user message intervention and compaction summaries",
+   "created_at": "Wed Oct 28 22:43:06 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": true,
+   "reply_to": "girishsastry",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2115574309947097528": {
+   "id": "2115574309947097528",
+   "url": "https://x.com/_achan96_/status/2115574309947097528",
+   "text": "@AnkaReuel Anthropic did not tell the models to stop. They only told the models that real humans are involved. Seems like not a big diff btw \"real humans are involved\" and \"real people could be harmed\"",
+   "created_at": "Wed Oct 28 22:39:55 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": true,
+   "reply_to": "AnkaReuel",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
   }
  }
 }

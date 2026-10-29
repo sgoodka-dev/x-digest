@@ -2149,6 +2149,73 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-28T20:16:40.588643+00:00"
+  },
+  "2115848725742354717": {
+   "id": "2115848725742354717",
+   "url": "https://x.com/dwarkesh_sp/status/2115848725742354717",
+   "text": "I recently got to interview Robert Caro, who is my favorite author of all time.\n\nThis gave me the excuse to reread his biographies of Lyndon Johnson and Robert Moses, and to compile my prep notes into this video essay.\n\nThese guys pulled off some truly incredible schemes. https://t.co/CFLff2USzq",
+   "created_at": "Thu Oct 29 16:50:21 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 516,
+   "retweets": 29,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HV0BXFTWgAED4Gv.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2115840764874043570": {
+   "id": "2115840764874043570",
+   "url": "https://x.com/dwarkesh_sp/status/2115840764874043570",
+   "text": "Finally happened. Dropping tomorrow.",
+   "created_at": "Thu Oct 29 16:18:43 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1196,
+   "retweets": 9,
+   "media": [],
+   "quoted": {
+    "author": "dwarkesh_sp",
+    "text": "Within the next few months, I'm going to be releasing an episode with by far my biggest guest yet\n\nIf you're interesting in sponsoring it, shoot me an email at sponsor@dwarkeshpatel.com"
+   },
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2115564431480631730": {
+   "id": "2115564431480631730",
+   "url": "https://x.com/dwarkesh_sp/status/2115564431480631730",
+   "text": "Instead of Space Age carbon fiber or aluminum-lithium, SpaceX is building its Starship rocket out of stainless steel.\n\nStainless steel is easy to weld, far cheaper, and under the right conditions, it has a similar strength-to-weight ratio as carbon fiber.\n\n@elonmusk explains: https://t.co/4W3xdHP8Yy",
+   "created_at": "Wed Oct 28 22:00:40 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "likes": 4981,
+   "retweets": 544,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2115414585712738306/img/CE3jrXbqXJRWeP3W.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
   }
  }
 }

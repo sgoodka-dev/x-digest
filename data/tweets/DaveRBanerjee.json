@@ -3009,6 +3009,27 @@
     "text": "anthropic is massively underplaying the recent security breach. i'm hearing cathedral achieved full administrator access of the slack workspace (see every message, log in as arbitrary users) where literally every single research secret is contained\n\nto those unfamiliar: Ant & OAI keep literally everything in Slack. it sounds exactly the same incident that happened to OpenAI in 2023, where OpenAI was hacked by a random guy who got access to an access token from an external app service\n\n\"we're critical to national security, we must beat China, and yes we keep all our crown jewels in Salesforce's Slack messenger. yes we have admin API tokens everywhere. why do you ask?\""
    },
    "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115564200319922266": {
+   "id": "2115564200319922266",
+   "url": "https://x.com/DaveRBanerjee/status/2115564200319922266",
+   "text": "Yeah this is a kinda crazy take from sama. I personally thought that aligning AIs at current capabilities would have been way easier\n\nIn the past 6 months, I've updated towards \"the alignment problem for easily-supervisable agents (e.g., below human-level AI) is harder than I expected\"",
+   "created_at": "Wed Oct 28 21:59:45 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 22,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "GarrisonLovely",
+    "text": "\"I thought the alignment problem would turn out to be harder.\"\n\nPretty wild thing for Sam Altman to say in light of Hugging Face and findings that Astra would totally hack and social engineer when accidentally given access to a (secretly simulated internet) from UK AISI.\n\nHe caveats by saying it will probably get harder, but his answer suggests they have figured out how to align today's models, when that's clearly not true. Curious how many OpenAI researchers have seen this and what they think."
+   },
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
   }
  }
 }

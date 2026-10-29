@@ -2499,6 +2499,70 @@
     "text": "Is this shaping up to be one of the biggest prediction market whiffs of all time? https://t.co/9f56FGS5zZ"
    },
    "fetched_at": "2026-10-26T17:23:32.530234+00:00"
+  },
+  "2115813667283591585": {
+   "id": "2115813667283591585",
+   "url": "https://x.com/sayashk/status/2115813667283591585",
+   "text": "What would the writing of superintelligent AI sound like? You might expect it to have the characteristics of good human writing — figurative language, high information density, coining new terms, and punchiness — but dialed up to 11. Well, that’s what Claude did, until Anthropic dialed it back recently because of user complaints. It didn’t sound superintelligent to most of us. Instead, the neuralese writing style sounds like a “stupid person’s idea of a smart person”.\n\nOur response to information density and metaphor-laden writing looks something like the cartoon graph I've drawn. Beyond a point, it completely backfires. The reason human writers don’t overdo it isn’t because they aren’t capable, but because they are aware of the reader’s cognitive burden. One of the hardest skills to learn as a writer is to simulate the reader’s experience.\n\nIt’s easy to train AI to mimic mediocre human writing. But optimizing it to be (perceived as) good is really hard, and made much harder by the fact that when everyone uses the same few AI models we get tired of their tics very quickly. Most Claudeisms are individually pretty good. I hate that I can’t use “load bearing” in my writing any more. If it weren’t for AI overuse it would be a neat metaphor.\n\nA broader question is whether most tasks in the economy are like chess, where there is a clear performance metric that can be optimized, or whether they’re like writing, where quality is a multidimensional balancing act without clear training signals beyond human mimicry.",
+   "created_at": "Thu Oct 29 14:31:02 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "random_walker",
+   "rt_author_name": "Arvind Narayanan",
+   "likes": 183,
+   "retweets": 24,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVy4AfNWIAA2y49.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2115591935700447542": {
+   "id": "2115591935700447542",
+   "url": "https://x.com/sayashk/status/2115591935700447542",
+   "text": "Here's a recording of the session. It ran for over 5 hours! The panel on legislative solutions started around the 4 hour mark: https://t.co/KAoLqvyNzF",
+   "created_at": "Wed Oct 28 23:49:57 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": true,
+   "reply_to": "sayashk",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 5,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2115591455767204043": {
+   "id": "2115591455767204043",
+   "url": "https://x.com/sayashk/status/2115591455767204043",
+   "text": "Yesterday, I had the privilege of testifying to the California Assembly Privacy Committee what AI legislation we need to help incentivize AI safety. \n\nOne of my main takeaways was that there is immense enthusiasm in the California legislature around AI legislation. \n\nAs one example, the event was organized when the legislature is off-session, but was still attended by 15 assembly members, including many who are not on the Privacy committee. It was also attended by the speaker of the assembly.\n\nIn my testimony, I laid out a plan to develop a layered approach to AI safety:\n\n- Clarify and strengthen liability, building on AB 316 (which\n- Require AI companies to hold insurance against a threshold of liability\n- Require third-party evaluators to audit AI companies' safety practices\n- Broaden transparency via incident reporting, safe harbors, and whistleblower protections (at lower thresholds compared to SB 53)\n- Provide public support for the adoption of defensive AI, especially in critical infrastructure (starting with the CA govt.)\n- Prove public support for AI safety research (e.g., in the form on compute, such as via CalCompute)\n- Develop mechanisms for coordination between AI companies and owners of critical infrastructure to share capabilities with defenders much more quickly",
+   "created_at": "Wed Oct 28 23:48:03 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 137,
+   "retweets": 9,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVwW8qOaYAA4_eY.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
   }
  }
 }

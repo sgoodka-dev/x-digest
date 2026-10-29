@@ -2526,6 +2526,47 @@
     "text": "I wanna write just for fun list posts more often so I wrote a list of my favorite lesser-known books https://t.co/xUav5K2Fip"
    },
    "fetched_at": "2026-10-28T20:16:40.588643+00:00"
+  },
+  "2115853462579609801": {
+   "id": "2115853462579609801",
+   "url": "https://x.com/nabeelqu/status/2115853462579609801",
+   "text": "@Miles_Brundage There's a significant Proust cluster at the moment\n\nAlso a weird number of Magic Mountain readers",
+   "created_at": "Thu Oct 29 17:09:10 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": true,
+   "reply_to": "Miles_Brundage",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2115818520181391565": {
+   "id": "2115818520181391565",
+   "url": "https://x.com/nabeelqu/status/2115818520181391565",
+   "text": "The benefits of abundant intelligence will accrue far outside of San Fransisco. \n\nSpent the last year writing about capital, sovereignty, and the coming reordering of economic power.\n\nTHE COMMANDING HEIGHTS\nhttps://t.co/d048KdAkbv https://t.co/kYKqL57L0u",
+   "created_at": "Thu Oct 29 14:50:19 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "WillManidis",
+   "rt_author_name": "Will Manidis",
+   "likes": 2372,
+   "retweets": 216,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HVzFNVbW4AE6PxU.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-29T17:26:17.487251+00:00"
   }
  }
 }
