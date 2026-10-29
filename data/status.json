@@ -1,11 +1,11 @@
 {
  "last_run": {
-  "started": "2026-10-29T17:26:17.487251+00:00",
+  "started": "2026-10-29T20:19:29.596082+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
-    "new": 2,
-    "total": 145
+    "new": 1,
+    "total": 146
    },
    "add_hawk": {
     "ok": true,
@@ -29,18 +29,18 @@
    },
    "DaveRBanerjee": {
     "ok": true,
-    "new": 1,
-    "total": 161
+    "new": 3,
+    "total": 164
    },
    "DKokotajlo": {
     "ok": true,
-    "new": 6,
+    "new": 0,
     "total": 203
    },
    "dwarkesh_sp": {
     "ok": true,
     "new": 3,
-    "total": 115
+    "total": 118
    },
    "jkcarlsmith": {
     "ok": true,
@@ -54,7 +54,7 @@
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 138
    },
    "ohlennart": {
@@ -64,12 +64,12 @@
    },
    "sayashk": {
     "ok": true,
-    "new": 3,
+    "new": 0,
     "total": 133
    },
    "testingham": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 134
    },
    "slatestarcodex": {
@@ -79,38 +79,38 @@
    },
    "s8mb": {
     "ok": true,
-    "new": 10,
+    "new": 0,
     "total": 461
    },
    "random_walker": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 150
    },
    "sethlazar": {
     "ok": true,
-    "new": 10,
+    "new": 0,
     "total": 301
    },
    "robertwiblin": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 239
    },
    "deanwball": {
     "ok": true,
-    "new": 11,
-    "total": 468
+    "new": 1,
+    "total": 469
    },
    "nabeelqu": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 130
    },
    "theobearman": {
     "ok": true,
-    "new": 12,
-    "total": 235
+    "new": 6,
+    "total": 241
    },
    "peterwilderford": {
     "ok": true,
@@ -119,11 +119,11 @@
    },
    "anton_d_leicht": {
     "ok": true,
-    "new": 6,
+    "new": 0,
     "total": 130
    }
   },
-  "new_tweets": 70,
-  "finished": "2026-10-29T17:27:14.815505+00:00"
+  "new_tweets": 14,
+  "finished": "2026-10-29T20:20:25.528417+00:00"
  }
 }

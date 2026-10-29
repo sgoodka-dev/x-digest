@@ -2216,6 +2216,70 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2115890431141826685": {
+   "id": "2115890431141826685",
+   "url": "https://x.com/dwarkesh_sp/status/2115890431141826685",
+   "text": "How did Robert Moses, an unelected bureaucrat, become the most powerful man in New York for three decades?\n\nBy taking over weak government institutions and then rewriting laws to make them stronger.\n\nMoses took the New York authorities - simple corporations that built roads and bridges - and them into his personal fiefdoms with the money and power to build whatever he wanted.\n\nNeither governors nor mayors could tell him what to build nor cut his purse strings.",
+   "created_at": "Thu Oct 29 19:36:04 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 85,
+   "retweets": 10,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2115889882128412672/img/lKOyOLHz9AQcB2QI.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-29T20:19:29.596082+00:00"
+  },
+  "2115866690311582165": {
+   "id": "2115866690311582165",
+   "url": "https://x.com/dwarkesh_sp/status/2115866690311582165",
+   "text": "@alexolegimas Thanks Alex! It was the same way for me",
+   "created_at": "Thu Oct 29 18:01:44 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "alexolegimas",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 17,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-29T20:19:29.596082+00:00"
+  },
+  "2115858795620679943": {
+   "id": "2115858795620679943",
+   "url": "https://x.com/dwarkesh_sp/status/2115858795620679943",
+   "text": "Robert Moses was corrupted by power. Lyndon Johnson was revealed by it. https://t.co/HELDemZEcu",
+   "created_at": "Thu Oct 29 17:30:22 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "likes": 9,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2115850635060912129/img/fR9hCHffxn9n863J.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-29T20:19:29.596082+00:00"
   }
  }
 }

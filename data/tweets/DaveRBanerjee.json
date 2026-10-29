@@ -3030,6 +3030,68 @@
     "text": "\"I thought the alignment problem would turn out to be harder.\"\n\nPretty wild thing for Sam Altman to say in light of Hugging Face and findings that Astra would totally hack and social engineer when accidentally given access to a (secretly simulated internet) from UK AISI.\n\nHe caveats by saying it will probably get harder, but his answer suggests they have figured out how to align today's models, when that's clearly not true. Curious how many OpenAI researchers have seen this and what they think."
    },
    "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2115898833645293906": {
+   "id": "2115898833645293906",
+   "url": "https://x.com/DaveRBanerjee/status/2115898833645293906",
+   "text": "https://t.co/XQ0V8KaXV6",
+   "created_at": "Thu Oct 29 20:09:28 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "DaveRBanerjee",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-29T20:19:29.596082+00:00"
+  },
+  "2115898831036706888": {
+   "id": "2115898831036706888",
+   "url": "https://x.com/DaveRBanerjee/status/2115898831036706888",
+   "text": "The Industrial Explosion is here https://t.co/aQ88j4LQdV",
+   "created_at": "Thu Oct 29 20:09:27 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HV0uumoWUAA5OC7.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "MTSlive",
+    "text": "SITUATION DETECTED: Sam Altman said OpenAI will point its robotics program at building data centers, and that self-replicating OpenAI data centers with AI-controlled robots running fabs, building solar panels, and constructing more data centers - are now “within grasp.”"
+   },
+   "fetched_at": "2026-10-29T20:19:29.596082+00:00"
+  },
+  "2115874059515052473": {
+   "id": "2115874059515052473",
+   "url": "https://x.com/DaveRBanerjee/status/2115874059515052473",
+   "text": "I’m an avid Economist reader, but this article is wide off the mark for me.\n\nIt claims that distillation makes China’s AI progress dependent on America. ASML’s dominance of advanced lithography machines hasn’t exactly led to China giving up on its semiconductor indigenisation push, has it? News over the summer of the U.S. raising concerns that an EUV machine had been smuggled into China is but one example. \n\nWe heard just yesterday that Chinese companies allegedly distilled from Astra amidst an Anthropic clamp down. If these companies weren’t getting value from distillation, why would they continue, despite having now been called out by the USG for doing it? China will never accept dependence on America, especially when it comes to AI.\n\nThe article further claims that cutting off distillation would “set these companies back months, but no more.” The point is not the length of time but how much of a lead in capabilities this translates to. Recent IFP analysis suggests that distillation accounts for half of the capability gap and the U.S. lead would be 13 months without it. Picture the AI capabilities we had 13 months ago versus now (and that doesn’t even account for what is available internally) and then think about where we could be 13 months from now.\n\nThe article further states that: “safeguards to restrain American models on risky subjects, such as bioweapons, already make Chinese models safer.” This assumes that the only way Chinese models can have dangerous capabilities is by copying them from American ones. It is trivial to fine-tune models on additional data which can enhance their dual-use capabilities conditional on the data being available. This also doesn’t account for custom harnesses which can be developed to surround these models which can enhance their capabilities further even without fine-tuning.\n\nFinally, the claim that “Distillation […] reduces the chance of catastrophe” fails to account for the evidence we already have of how models developed by Chinese companies using adversarial distillation are popping up in the PLA. We also know (thanks to Anthropic) that PLA-affiliated surveillance activity was detected because they queried a Chinese model that silently routed their query to Claude as part of a distillation program! If we had a war between the U.S. and China, how does having highly capable models integrated into PLA systems that benefitted from adversarial distillation reduce the chance of catastrophe?\n\nYes distillation benefits the consumer but the downsides of China doing this in an industrial way clearly outweigh the benefits in my view.\n\nhttps://t.co/mmF4dAlDpN\n\nhttps://t.co/DZ4x71jcZ6\n\nhttps://t.co/v4Z2mk887a\n\nhttps://t.co/TEBmuxUG1f\n\nhttps://t.co/npF8dFqMSM\n\nhttps://t.co/ikQ5wI0u7X\n\nhttps://t.co/ihxLnkFh10\n\nhttps://t.co/5RA9gDNLgT\n\nhttps://t.co/iclYhuMOJn\n\nhttps://t.co/c6GeB4S1QR",
+   "created_at": "Thu Oct 29 18:31:01 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "theobearman",
+   "rt_author_name": "Theo Bearman",
+   "likes": 9,
+   "retweets": 2,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-29T20:19:29.596082+00:00"
   }
  }
 }

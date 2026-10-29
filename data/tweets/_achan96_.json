@@ -2630,6 +2630,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2115865907289337921": {
+   "id": "2115865907289337921",
+   "url": "https://x.com/_achan96_/status/2115865907289337921",
+   "text": "We’ve updated the Model Spec, our public description of how we want our models to behave. This revision makes clearer what we want from models as they take on more autonomous work in the world and become capable of helping us in new ways. 🧵\n\nhttps://t.co/EdBbpGwyGS",
+   "created_at": "Thu Oct 29 17:58:37 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "w01fe",
+   "rt_author_name": "Jason Wolfe",
+   "likes": 476,
+   "retweets": 53,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-29T20:19:29.596082+00:00"
   }
  }
 }

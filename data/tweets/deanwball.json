@@ -8953,6 +8953,24 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2115877237732127080": {
+   "id": "2115877237732127080",
+   "url": "https://x.com/deanwball/status/2115877237732127080",
+   "text": "Some details on what our monitoring system currently looks like https://t.co/zSbgEQmyUO",
+   "created_at": "Thu Oct 29 18:43:39 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "Marcus_J_W",
+   "rt_author_name": "Marcus Williams",
+   "likes": 172,
+   "retweets": 14,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-29T20:19:29.596082+00:00"
   }
  }
 }
