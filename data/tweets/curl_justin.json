@@ -1983,6 +1983,27 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-25T14:57:03.198720+00:00"
+  },
+  "2115978921607041039": {
+   "id": "2115978921607041039",
+   "url": "https://x.com/curl_justin/status/2115978921607041039",
+   "text": "narrative violation",
+   "created_at": "Fri Oct 30 01:27:42 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 25,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "kuhhbin",
+    "text": "DeepSeek and Moonshot distilled Astra. Let them\n\nIn @TheEconomist this week, we argue that distillation is good for consumers and good for America. \n\nThe biggest losers are China's AI labs. They are sacrificing long-term innovation for short-term gains https://t.co/HH2lMySaLD"
+   },
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
   }
  }
 }

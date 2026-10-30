@@ -3092,6 +3092,29 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-29T20:19:29.596082+00:00"
+  },
+  "2115962839404098031": {
+   "id": "2115962839404098031",
+   "url": "https://x.com/DaveRBanerjee/status/2115962839404098031",
+   "text": "In the S-1, Anthropic says they delayed pre-training for more than one month for security reasons. From my perspective, this isn't very helpful because: \n1. They didn't stop ongoing R&D, so they were still producing algorithmic progress at the same rate. This means that any delay is ephemeral: you just pile up algorithmic progress and build a smarter model, still on trend, later. \n2. This isn't even a major security win because others can still steal the algorithms regardless of whether you've started the run or not.  \n\nI'm much more excited about pacing proposals that bite on the production of new algorithms as opposed to on the output of the final training run. It's more robust to slow down the \"can train\" line as opposed to the \"has trained\" line. \n\nOne counterconsideration: delaying training runs starts to have a bigger effect during the intelligence explosion: later we will be in a regime where finishing a training run earlier gets you access to a smarter model earlier, which then significantly increases the rate of algorithmic progress.",
+   "created_at": "Fri Oct 30 00:23:48 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "thlarsen",
+   "rt_author_name": "Thomas Larsen",
+   "likes": 132,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HV03mKKagAAaW3p.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
   }
  }
 }

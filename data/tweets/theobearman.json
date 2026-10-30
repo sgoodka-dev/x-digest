@@ -5141,6 +5141,45 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-29T20:19:29.596082+00:00"
+  },
+  "2115930464766840957": {
+   "id": "2115930464766840957",
+   "url": "https://x.com/theobearman/status/2115930464766840957",
+   "text": "If it’s true that China has switched to distilling from OpenAI models because OpenAI hasn’t implemented as strong anti-distillation countermeasures as Anthropic has, then OpenAI and Google should implement comparable measures to Anthropic’s. If the government needs to give the AI labs a narrow anti-trust waiver to allow them to coordinate on this specific problem set to allow that to happen, it should do so. This seems like it would be in all the companies’ interests. \n\nIt would actually be a really good news story if Anthropic’s anti-distillation measures are working! At the beginning of this year, it was not at all obvious whether US labs could make it substantially harder for Chinese labs to distill US models simply by implementing stronger internal policies and security measures. But the US ability to defend against distillation attacks will be defined by the frontier lab with the weakest anti-distillation policy, not the strongest one.",
+   "created_at": "Thu Oct 29 22:15:09 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ChrisRMcGuire",
+   "rt_author_name": "Chris McGuire",
+   "likes": 106,
+   "retweets": 14,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
+  },
+  "2115906317093335197": {
+   "id": "2115906317093335197",
+   "url": "https://x.com/theobearman/status/2115906317093335197",
+   "text": "Talking about “Model Name-Hold My Beer”: “I agree that this is just the shape of reality and nothing that anyone can stop, or should stop.”\n\nhttps://t.co/Ub4U6PHUoX",
+   "created_at": "Thu Oct 29 20:39:12 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "deredleritt3r",
+    "text": "Sam Altman on automation of AI R&D, RSI, OpenAI's internal model:\n\n1. \"We don't know yet how [automated AI R&D] truly is going to work. We know today how to say: find me a 5% compute efficiency win.\"\n\n(Note: a 5% compute efficiency gain that the model can find automatically is actually a big deal!)\n\n2. \"What I don't think anyone knows how to do yet is to say, go discover a new architecture that is as big of a single leap forward as the transformer was. And I think that's where things are heading.\"\n\n3. \"If you apply the same pipeline that we applied to get our models to be so good at math to AI research, it will probably work [for automated AI R&D].\"\n\n4. The bottleneck to getting good AI R&D results is shifting to asking the right questions and using things like swarms correctly, but answers to these questions will become much clearer in the next 3 months:\n\n\"One of the interesting things that people talk a lot about in OpenAI... is what are the questions that you're supposed to ask of GPT-7? Probably it's not enough to just say, make me RSI. And also, it's probably not enough to say, buy me a 5% compute efficiency win. I think this is one of the most interesting debates going on right now. And the answer is not just what question to ask it, but it's things like agent swarms. How are we going to use these models in a way that, like, actually maximizes what we can get out of them? I think we're going to learn a lot about that in the next 3 months.\"\n\n5. OpenAI's extreme focus on model efficiency:\n\n\"I bet we could redo Navier-Stokes at 1/100 of the cost a year from when it was done.\"\n\n6. More on OpenAI's internal model:\n\n\"There was one weekend when we got a new model... The name of the channel was \"model-name-hold-my-beer\". And people were just throwing that at the hardest problems they could. And people just didn't think the model was going to do these things. And we had this collective experience of people's hardest research problems from their academic career, the model was just knocking down one after the other, many different fields, it was incredible to watch... it was many of the problems we published, many other things.\"\n\n7. The other loop is self-replicating data centers:\n\n\"Yeah, people talk a lot about RSI as AI that does AI research. There's very little talk about self-replicating data centers, this idea that you can use AI to control robots and run fabs and build turbines or solar panels and build data centers. But I think we have that within grasp.\""
+   },
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
   }
  }
 }

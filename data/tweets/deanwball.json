@@ -8971,6 +8971,86 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-29T20:19:29.596082+00:00"
+  },
+  "2116006812755312706": {
+   "id": "2116006812755312706",
+   "url": "https://x.com/deanwball/status/2116006812755312706",
+   "text": "“It may be the devil, or it may be the lord, but  you’re gonna have to serve somebody”",
+   "created_at": "Fri Oct 30 03:18:32 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 23,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
+  },
+  "2115989846573371743": {
+   "id": "2115989846573371743",
+   "url": "https://x.com/deanwball/status/2115989846573371743",
+   "text": "You cannot conceive, nor can I, of the appalling strangeness of the mercy of God",
+   "created_at": "Fri Oct 30 02:11:07 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "growing_daniel",
+   "rt_author_name": "Daniel",
+   "likes": 2118,
+   "retweets": 155,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
+  },
+  "2115971353258131856": {
+   "id": "2115971353258131856",
+   "url": "https://x.com/deanwball/status/2115971353258131856",
+   "text": "@scaling01 @aidan_mclau @EpochAIResearch Congratulations!",
+   "created_at": "Fri Oct 30 00:57:38 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "scaling01",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
+  },
+  "2115931856931787148": {
+   "id": "2115931856931787148",
+   "url": "https://x.com/deanwball/status/2115931856931787148",
+   "text": "I’ve been trying to tell you https://t.co/bcC03Ap5bv",
+   "created_at": "Thu Oct 29 22:20:41 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 15,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HV1MzsHWUAAQG4R.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "deanwball",
+    "text": "The fledgling endeavor of 21st century institution building has much to learn from mycology, for better and for worse."
+   },
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
   }
  }
 }

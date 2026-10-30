@@ -2904,6 +2904,70 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2116165441110323349": {
+   "id": "2116165441110323349",
+   "url": "https://x.com/random_walker/status/2116165441110323349",
+   "text": "Resharing our paper on the science of AI agent evaluation because the PHP vulnerability happened right as we announced the paper last week and our server was taken down all day to upgrade PHP 🫠 \n\nPDF: https://t.co/8m13p9d70F\nWebpage: https://t.co/xGAvBCGW4a\nBlog: https://t.co/qxO21qWZfm\n\nThere are growing calls for independent and embedded AI evaluation, especially of AI agents. But much remains unclear: what constitutes a “good” evaluation, what needs to be evaluated in the first place, and how best to coordinate and support the influx of people entering the burgeoning evaluation ecosystem.\n\nOur group at Princeton has been working to improve the state of AI agent evaluation for about three years. We teamed up with people who’ve done foundational work on evaluation at Stanford, the UK AI Security Institute, and Brookings. Our paper is titled Emerging Trends in AI Agent Evaluation. We synthesized the trends we see across three dimensions—the science and methods, the research agenda, and the evaluation ecosystem—with the goal to help those who are upskilling for this new paradigm. We also aim to equip evaluators, funders, and the public with a set of questions to ask, and provide actionable recommendations.\n\nBy @flxcn, @steverab, @PKirgis, @nityndg, @RishiBommasani, @DubMagda, @CUdudec, @AnkaReuel, Elham Tabassi, @sayashk, and me.",
+   "created_at": "Fri Oct 30 13:48:52 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 21,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HV4gNKRW0AIfqKE.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
+  },
+  "2116163258646515739": {
+   "id": "2116163258646515739",
+   "url": "https://x.com/random_walker/status/2116163258646515739",
+   "text": "In 2023, @sayashk and @random_walker published a study on data leakage in machine-learning research. They found that leakage had been reported across 17 scientific fields, affecting 294 papers.\n\nThe problem of detecting data leakage has only become harder because of the sheer number of papers published every day.\n\nThat’s why it’s important to examine how a paper’s results were produced or, at the very least, try to reproduce one of its main claims. However, it's easier said than done\n\n@askalphaxiv  has made the first step easier now.",
+   "created_at": "Fri Oct 30 13:40:11 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "pandeyparul",
+   "rt_author_name": "Parul Pandey",
+   "likes": 5,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HV4dKSAa0AAo0sY.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
+  },
+  "2116132374069366827": {
+   "id": "2116132374069366827",
+   "url": "https://x.com/random_walker/status/2116132374069366827",
+   "text": "When I worked in nuclear, I gave talks on bugs I found with a slide titled \"How are we all not dead yet?\" where I gave an example of a device that has been running on the field for decades with no issues, but had 6,000 data races (that weren't false pos) to explain resilience 1/2",
+   "created_at": "Fri Oct 30 11:37:28 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "HeidyKhlaaf",
+   "rt_author_name": "Dr Heidy Khlaaf (هايدي خلاف)",
+   "likes": 1631,
+   "retweets": 84,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
   }
  }
 }

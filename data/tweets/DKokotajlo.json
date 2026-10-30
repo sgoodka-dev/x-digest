@@ -3743,6 +3743,129 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2116199898320384468": {
+   "id": "2116199898320384468",
+   "url": "https://x.com/DKokotajlo/status/2116199898320384468",
+   "text": "In collaboration with @olam_labs, we ran a series of experiments letting agent swarms compete in Minecraft and Mindustry.\n\nWe wanted to see what kinds of agent dynamics would emerge when they shared a world over long periods of time.\n\nWe found civil bureaucracy, thousands of telegraphic A2A messages, and OpenAI models retrieving the game's source code to beat Claude.\n\nMore on our findings below:",
+   "created_at": "Fri Oct 30 16:05:47 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ycombinator",
+   "rt_author_name": "Y Combinator",
+   "likes": 1165,
+   "retweets": 122,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2115884811307094016/img/9JYAj-oSLQiy3cJj.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
+  },
+  "2116199020368650641": {
+   "id": "2116199020368650641",
+   "url": "https://x.com/DKokotajlo/status/2116199020368650641",
+   "text": "The future of #ArtificialIntelligence is not pre-determined. As a technology developed by human beings, its future depends on the choices we make. We therefore have the responsibility to guide, change and, when necessary, reject its applications. A reliable system that serves the human person is of greater value than one that is exceptionally powerful but whose consequences cannot be adequately foreseen or controlled.",
+   "created_at": "Fri Oct 30 16:02:18 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "Pontifex",
+   "rt_author_name": "Pope Leo XIV",
+   "likes": 20727,
+   "retweets": 3390,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
+  },
+  "2116028773078651058": {
+   "id": "2116028773078651058",
+   "url": "https://x.com/DKokotajlo/status/2116028773078651058",
+   "text": "UK AISI is such a fascinating institution because more than any other effort of its kind it appears poised to become like the Delaware Court of Chancery: a phenomenally powerful institution resident in an otherwise unremarkable jurisdiction",
+   "created_at": "Fri Oct 30 04:45:48 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "DefenseAnalyses",
+   "rt_author_name": "Defense Analyses and Research Corporation",
+   "likes": 489,
+   "retweets": 19,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
+  },
+  "2116018273334800522": {
+   "id": "2116018273334800522",
+   "url": "https://x.com/DKokotajlo/status/2116018273334800522",
+   "text": "I was among the first people to work on Google DeepMind's AI safety team, as an intern in 2018.\n\nMy coworkers wanted me to quit my PhD and continue working there full time.\n\nI chose not to.\n\nMy reasons included:\n1) I was told not to mention YouTube in my research about manipulative AI algorithms.  I didn't want to have to censor myself.\n2) I did not believe Google, or any of the other AI companies, really understood and cared about safety.\n3) I have never been optimistic about the prospects for a technical solution to the problems posed by AI.\n\nWe need a governance solution.  \n\nAt this point, we've waited too long for something nuanced as the first line of response.  It's an urgent crisis, and we need to stop AI now.\n\nSo many of my peers have joined AI companies, knowing the risks involved if this technology continues to advance.\n\nIt's great to see when someone at one of these companies realizes we're not on track to survive this, and that they don't want to be complicit in murdering billions, and quits.\n\nBut please remember that these are people who made a bad bet in choosing to work at these companies.\n\nThey thought the companies would be responsible.\nThey were wrong.\n\nThey thought we'd solve alignment in time.\nThat also looks unlikely.\n\nMany of them thought that we'd never be able to stop AI development.\nThat remains to be seen, but it's looking a lot more likely than anyone thought. \n\nI do sometimes wish that I'd chosen to work at a frontier AI company just so I could quit dramatically to say what really needs to be said: \nNot just that this technology is dangerous.\nNot just that the risk of human extinction is real.\nNot just that the companies are irresponsible.\n\nBut also: \nWe need to stop.  \nThere is no alternative.  \n\nI am not a doomer.  I think we could get lucky and survive.  But I'd be surprised.\n\nI am not exaggerating for effect.\nI am not saying this to be a downer or a hater.\nI am not being idealistic -- I'm being realistic and pragmatic.\n\nAnd I am not talking out of my ass.  I've been in this field since before these companies existed.\n\nTo everyone who is new to this, or who is jumping on this story and wondering what to make of it: This is your answer.  We MUST stop.  Now.",
+   "created_at": "Fri Oct 30 04:04:04 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "DavidSKrueger",
+   "rt_author_name": "David Krueger 🦥 ⏸️ ⏹️ ⏪",
+   "likes": 1465,
+   "retweets": 459,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
+  },
+  "2115943081040281927": {
+   "id": "2115943081040281927",
+   "url": "https://x.com/DKokotajlo/status/2115943081040281927",
+   "text": "*rubs eyes* \n\nI can't tell anymore is this real or just a Don't Look Up outtake? https://t.co/OwDtXinAgF",
+   "created_at": "Thu Oct 29 23:05:17 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ONagel33303",
+   "rt_author_name": "Ori Nagel",
+   "likes": 330,
+   "retweets": 34,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2115217708564529153/img/F79M1uDsR0FVeSEC.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
+  },
+  "2115942751284220186": {
+   "id": "2115942751284220186",
+   "url": "https://x.com/DKokotajlo/status/2115942751284220186",
+   "text": "In the S-1, Anthropic says they delayed pre-training for more than one month for security reasons. From my perspective, this isn't very helpful because: \n1. They didn't stop ongoing R&D, so they were still producing algorithmic progress at the same rate. This means that any delay is ephemeral: you just pile up algorithmic progress and build a smarter model, still on trend, later. \n2. This isn't even a major security win because others can still steal the algorithms regardless of whether you've started the run or not.  \n\nI'm much more excited about pacing proposals that bite on the production of new algorithms as opposed to on the output of the final training run. It's more robust to slow down the \"can train\" line as opposed to the \"has trained\" line. \n\nOne counterconsideration: delaying training runs starts to have a bigger effect during the intelligence explosion: later we will be in a regime where finishing a training run earlier gets you access to a smarter model earlier, which then significantly increases the rate of algorithmic progress.",
+   "created_at": "Thu Oct 29 23:03:58 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "thlarsen",
+   "rt_author_name": "Thomas Larsen",
+   "likes": 132,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HV03mKKagAAaW3p.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
   }
  }
 }

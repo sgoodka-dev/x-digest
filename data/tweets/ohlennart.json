@@ -1912,6 +1912,42 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-28T17:10:22.515655+00:00"
+  },
+  "2115989307018395865": {
+   "id": "2115989307018395865",
+   "url": "https://x.com/ohlennart/status/2115989307018395865",
+   "text": "@dkaushik96 i think people are way more open to sharing stuff with AI models/companies that was previously kept private",
+   "created_at": "Fri Oct 30 02:08:58 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": true,
+   "reply_to": "dkaushik96",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
+  },
+  "2115961010494533834": {
+   "id": "2115961010494533834",
+   "url": "https://x.com/ohlennart/status/2115961010494533834",
+   "text": "step 1: give AI companies access to all our computers, documents, and emails\nstep 2: AI uplifts hackers\nstep 3: all the private docs and blackmail material, nicely centralized\n\nfirst AI company breach will be a privacy nightmare",
+   "created_at": "Fri Oct 30 00:16:32 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 55,
+   "retweets": 5,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
   }
  }
 }

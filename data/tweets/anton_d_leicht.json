@@ -2553,6 +2553,29 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2116183855266942998": {
+   "id": "2116183855266942998",
+   "url": "https://x.com/anton_d_leicht/status/2116183855266942998",
+   "text": "Semiconductor chokepoints are huge strategic assets: Taiwan is building its Silicon Shield, Korea is near-untouchable due to HBM, America is building AGI with Nvidia chips.\n\nYet despite ASML, Europe captures little AI value and even less strategic leverage. Why?\n\n(1) No BATNA. If ASML stops exporting to Taiwan, it loses all its revenue, if it starts exporting to China, America starts cutting off essential components. And it sells no machines to Europe at all--so whenever anyone starts thinking about 'using' the ASML chokepoint, everyone else calls the bluff.\n\n(2) No political awareness. European governments are trapped in dogmatic slumber, unwilling and unable to treat ASML as a strategic asset. As a result, Washington feels like it has to run European export policy instead. Every other country uses its bottlenecks, but Europe pretends it can’t.\n\n(3) No inspiration. There's no project, no vehicle, nothing to actively choose. Weaponising export controls just to annoy great powers isn't very motivating; policymakers ask 'what for?'. Right now, there's no good answer.\n\nThat means there's a gap in Europe's AI strategy: an ambitious play, a conduit for political attention, and an alternative use for ASML machines all at once.\n\nThe timing is right: all this is happening just as the chip industry is about to be upended and accelerated by AI systems that uplift chip and process design. In the next years, we might close the hardware loop for recursive self-improvement: use models to build better chips which we use to train even better models to build even better chips.\n\nFor that loop, chip fabrication is one central bottleneck.\n\nThat's why I believe the gap in Europe's strategy is fab-shaped. I suspect the best way to fill it is to enlist and subsidise ASML and imec and to recruit TSMC and American frontier labs to build a leading R&D chip facility in Europe: Eurofab.\n\nfrom this week’s essay: https://t.co/lB2mwl5r2w",
+   "created_at": "Fri Oct 30 15:02:02 +0000 2026",
+   "author_handle": "anton_d_leicht",
+   "author_name": "Anton Leicht",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 35,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HV4yABUbAAAZDRO.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
   }
  }
 }

@@ -9066,6 +9066,47 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2115930381493075986": {
+   "id": "2115930381493075986",
+   "url": "https://x.com/s8mb/status/2115930381493075986",
+   "text": "#RIP Patrick Stewart of Star Trek and X Men ...\n\nOn 12-4-1997, after getting a @PressClubDC coffee mug, he was asked, \"Just from a purely logical point of view, why is it that a Captain whose name is Jean-Luc Picard have a perfect English accent?\"\n\nPatrick Stewart answer here: https://t.co/0lYtwn4Hx8",
+   "created_at": "Thu Oct 29 22:14:49 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "HowardMortman",
+   "rt_author_name": "Howard Mortman",
+   "likes": 5193,
+   "retweets": 732,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2115898114351448064/img/h2MHPH_aPIF0lh-h.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
+  },
+  "2115915623498744191": {
+   "id": "2115915623498744191",
+   "url": "https://x.com/s8mb/status/2115915623498744191",
+   "text": "@SaladBarFan @AlanMCole Yes, this is a work of art.",
+   "created_at": "Thu Oct 29 21:16:11 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "SaladBarFan",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
   }
  }
 }

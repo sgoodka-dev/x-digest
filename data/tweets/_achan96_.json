@@ -2648,6 +2648,65 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-29T20:19:29.596082+00:00"
+  },
+  "2116192003893408071": {
+   "id": "2116192003893408071",
+   "url": "https://x.com/_achan96_/status/2116192003893408071",
+   "text": "AI takeover scenarios often hinge on an idea I’m skeptical of, where rogue AI overthrows militaries and seizes hard power. I wrote a piece where I concretely break down what I think makes this improbable, and why “full-blown takeover” concerns could be counterproductive for mitigating the risks of misaligned or poorly controlled AI in the military.\n\nFor AI to seize hard power, it would need to be physically capable of defeating our military, and humans would need to be careless enough to give it the power to do so. I think that’s unlikely to occur for several reasons. Among them:\n\n- The military is unlikely to sufficiently hand the reins over to AI. (1) Even if we wanted to, overhauling the institution in this way faces countless barriers that have plagued it for decades. (2) Doing so would be strategically suicidal.\n- Integrating general-purpose AI into physical systems faces challenges that will take significant time to overcome, all while we grow increasingly attuned to the risks posed by AI.\n- There’s little to suggest that more capable AI would be able to persuade or coerce people to take the costly, coordinated actions some of these scenarios predict.\n- Even if AI managed to assume control over a large arsenal, we’d fight back. In which case, recent warfare shows us that crude countermeasures work against technologically advanced adversaries, and AI relies on infrastructure we can and would shut down.\n\n1/2",
+   "created_at": "Fri Oct 30 15:34:25 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "JakeASteckler",
+   "rt_author_name": "Jake Steckler",
+   "likes": 12,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HV4vqPmXQAAXO_q.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
+  },
+  "2116140110475305443": {
+   "id": "2116140110475305443",
+   "url": "https://x.com/_achan96_/status/2116140110475305443",
+   "text": "“America uses gunpowder to make weapons; China uses it to make fireworks.”  \nThis analogy went viral in China alongside a claim that 55% of the country’s AI tokens were being used for micro-dramas.  \n\nThe statistic is largely unfounded. However, the reaction creates an interesting tension: in a society that places such a premium on usefulness, why is supposedly useless entertainment so popular, and why does enjoying it bring shame?  \n\nI wrote about AI micro-dramas, exhaustion, and the pressure to make even downtime productive in China. This is a society that thinks it has an obligation to be useful, yet is addicted to extreme uselessness and feels guilty about it.\n\nhttps://t.co/e1O70NZSeN",
+   "created_at": "Fri Oct 30 12:08:12 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ZilanQian",
+   "rt_author_name": "Zilan Qian",
+   "likes": 17,
+   "retweets": 2,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
+  },
+  "2115938193606652192": {
+   "id": "2115938193606652192",
+   "url": "https://x.com/_achan96_/status/2115938193606652192",
+   "text": "In recent experiments, we found that GLM 5.3 can autonomously compromise recent versions of Mozilla Firefox using security fixes that have been published but not yet shipped to users.\n\nWe used a deliberately basic setup meant to emulate a relatively unsophisticated attacker with limited resources. After basic initial instructions to inspect those not-yet-shipped fixes, the model reliably built successful exploits for six recent Firefox versions on its own using only information available at the time of release.\n\nThese exploits, which cost about $1,000 per compromised version, would let an attacker steal passwords and authentication cookies stored in the browser, or read any files on the user's computer, after the user opens a single webpage, with no further interaction.\n\nThe exploits make use of the \"patch gap,\" the time between when security fixes are made public in beta or \"nightly\" software updates and when those fixes are generally released to users. Until now, exploiting it required significant human time and skill, or special access to frontier models with advanced cyber capabilities.\n\nOur results show that widely available open-weight models can now do this relatively cheaply and quickly. We gave GLM 5.3 up to 48 hours to find an exploit, but its fastest attempt needed only 12 hours.\n\nIn all of its successful attacks, the patch gap gave GLM 5.3 an initial foothold in the browser. To turn that foothold into reading files off the user's computer, the model also independently discovered and used a previously unpublished vulnerability.\n\nWe shared our findings with Mozilla, which patched the vulnerability in its October 27 Firefox 159.0 release. We haven't yet confirmed whether the attack still succeeds without it, but expect the fix makes it substantially harder. We're grateful to Mozilla for their responsiveness and collaboration.",
+   "created_at": "Thu Oct 29 22:45:52 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "EpochAIResearch",
+   "rt_author_name": "Epoch AI",
+   "likes": 414,
+   "retweets": 50,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-30T17:01:40.221107+00:00"
   }
  }
 }
