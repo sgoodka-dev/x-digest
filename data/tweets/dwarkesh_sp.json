@@ -2380,6 +2380,65 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-30T17:01:40.221107+00:00"
+  },
+  "2116253752189735270": {
+   "id": "2116253752189735270",
+   "url": "https://x.com/dwarkesh_sp/status/2116253752189735270",
+   "text": "@tamarawinter Thanks Tammy!",
+   "created_at": "Fri Oct 30 19:39:47 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "tamarawinter",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-30T19:55:59.417095+00:00"
+  },
+  "2116232480290209970": {
+   "id": "2116232480290209970",
+   "url": "https://x.com/dwarkesh_sp/status/2116232480290209970",
+   "text": "Apple Podcasts: https://t.co/dAgG1nF66m\n\nSpotify: https://t.co/BwS0BQy7zx\n\nTranscript: https://t.co/IbNtTNoUcW\n\nYouTube: https://t.co/a6Rh9NwUdX",
+   "created_at": "Fri Oct 30 18:15:15 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "dwarkesh_sp",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 10,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-30T19:55:59.417095+00:00"
+  },
+  "2116217939170906477": {
+   "id": "2116217939170906477",
+   "url": "https://x.com/dwarkesh_sp/status/2116217939170906477",
+   "text": "The master biographer reflects at 91. The Robert Caro interview.\n\n0:00:00 – How Caro gets people to talk\n0:05:03 – Does America need a little more Moses today?\n0:12:42 – Moses the young idealist\n0:17:57 – Watching Moses lose power\n0:24:01 – Did Moses realize he was changing?\n0:27:53 – Building during the Great Depression\n0:32:51 – The threats and promises of Lyndon Johnson\n0:36:08 – Could Kennedy have passed Johnson’s laws?\n0:41:00 – Getting a book down to one sentence\n0:46:21 – All the material that never made it into the books\n0:52:59 – Loneliness",
+   "created_at": "Fri Oct 30 17:17:28 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1128,
+   "retweets": 104,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HV5REEhXQAAso-Q.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-30T19:55:59.417095+00:00"
   }
  }
 }

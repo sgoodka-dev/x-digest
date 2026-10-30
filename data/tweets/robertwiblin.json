@@ -5215,6 +5215,52 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-30T17:01:40.221107+00:00"
+  },
+  "2116235622952440048": {
+   "id": "2116235622952440048",
+   "url": "https://x.com/robertwiblin/status/2116235622952440048",
+   "text": "Comments from the source video: https://t.co/hTHNvpdeJz https://t.co/ObSo50eXNm",
+   "created_at": "Fri Oct 30 18:27:44 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HV5hAg8W8AABKa3.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-30T19:55:59.417095+00:00"
+  },
+  "2116235415392780538": {
+   "id": "2116235415392780538",
+   "url": "https://x.com/robertwiblin/status/2116235415392780538",
+   "text": "Mary Phuong of DeepMind on AI loss of control risk.\n\n\"The last 2 minutes gave me chills.\n\nA significant amount of people saying that AI companies are paying people to spread fear about these agents.\n\nI have never really felt like [loss of control] was an actual thing to care about.\n\nBut seeing Mary and how her face trembles, made me reconsider my stand. She's either a Hollywood-level skilled actress, one of the best, or we should be scared. For real.\"\n\n\"Seems like Mary is already aware of more than she can admit and it haunts her...\"",
+   "created_at": "Fri Oct 30 18:26:55 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 84,
+   "retweets": 12,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2116235205350395904/img/eDMG-0rwkP9KCQsm.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-30T19:55:59.417095+00:00"
   }
  }
 }
