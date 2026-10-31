@@ -2567,6 +2567,29 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-31T16:06:16.787670+00:00"
+  },
+  "2116578412487938311": {
+   "id": "2116578412487938311",
+   "url": "https://x.com/dwarkesh_sp/status/2116578412487938311",
+   "text": "Robert Caro on loneliness: https://t.co/rznVoLUoIa",
+   "created_at": "Sat Oct 31 17:09:52 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 792,
+   "retweets": 43,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2116578100532404224/img/e_RlL-7kn8E6DNol.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-31T19:18:57.038379+00:00"
   }
  }
 }

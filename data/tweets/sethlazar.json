@@ -6221,6 +6221,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-31T16:06:16.787670+00:00"
+  },
+  "2116576933039518177": {
+   "id": "2116576933039518177",
+   "url": "https://x.com/sethlazar/status/2116576933039518177",
+   "text": "Heads-up: stacking paid accounts on one machine for extra Codex usage can now get you locked out.\n\nOpenAI's new help page on card and device limits:\n- One device can only use so many paid accounts (Go, Plus, Pro 100/200/500)\n- Hit it and you see \"Device limit reached\" at sign-in, or get signed out later, even if the purchase went through\n- Signing out of another account doesn't free a slot\n- Business, Enterprise, Edu and Free don't count toward it\n\nThis lands the same week multi-account switching shipped on mobile, so check before you buy a second sub. The sanctioned route to more usage is credits under Usage & Billing in the Codex app.\n\nhttps://t.co/hxG6BPmVuc",
+   "created_at": "Sat Oct 31 17:03:59 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "CodexUpdate",
+   "rt_author_name": "Codex Update",
+   "likes": 804,
+   "retweets": 34,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-10-31T19:18:57.038379+00:00"
   }
  }
 }
