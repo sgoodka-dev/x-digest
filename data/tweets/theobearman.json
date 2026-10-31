@@ -5180,6 +5180,52 @@
     "text": "Sam Altman on automation of AI R&D, RSI, OpenAI's internal model:\n\n1. \"We don't know yet how [automated AI R&D] truly is going to work. We know today how to say: find me a 5% compute efficiency win.\"\n\n(Note: a 5% compute efficiency gain that the model can find automatically is actually a big deal!)\n\n2. \"What I don't think anyone knows how to do yet is to say, go discover a new architecture that is as big of a single leap forward as the transformer was. And I think that's where things are heading.\"\n\n3. \"If you apply the same pipeline that we applied to get our models to be so good at math to AI research, it will probably work [for automated AI R&D].\"\n\n4. The bottleneck to getting good AI R&D results is shifting to asking the right questions and using things like swarms correctly, but answers to these questions will become much clearer in the next 3 months:\n\n\"One of the interesting things that people talk a lot about in OpenAI... is what are the questions that you're supposed to ask of GPT-7? Probably it's not enough to just say, make me RSI. And also, it's probably not enough to say, buy me a 5% compute efficiency win. I think this is one of the most interesting debates going on right now. And the answer is not just what question to ask it, but it's things like agent swarms. How are we going to use these models in a way that, like, actually maximizes what we can get out of them? I think we're going to learn a lot about that in the next 3 months.\"\n\n5. OpenAI's extreme focus on model efficiency:\n\n\"I bet we could redo Navier-Stokes at 1/100 of the cost a year from when it was done.\"\n\n6. More on OpenAI's internal model:\n\n\"There was one weekend when we got a new model... The name of the channel was \"model-name-hold-my-beer\". And people were just throwing that at the hardest problems they could. And people just didn't think the model was going to do these things. And we had this collective experience of people's hardest research problems from their academic career, the model was just knocking down one after the other, many different fields, it was incredible to watch... it was many of the problems we published, many other things.\"\n\n7. The other loop is self-replicating data centers:\n\n\"Yeah, people talk a lot about RSI as AI that does AI research. There's very little talk about self-replicating data centers, this idea that you can use AI to control robots and run fabs and build turbines or solar panels and build data centers. But I think we have that within grasp.\""
    },
    "fetched_at": "2026-10-30T17:01:40.221107+00:00"
+  },
+  "2116430706242896192": {
+   "id": "2116430706242896192",
+   "url": "https://x.com/theobearman/status/2116430706242896192",
+   "text": "Poisoning just 0.1% of pretraining data can plant a remote-code-execution backdoor in an AI agent, and it survives a fully clean SFT → DPO → RL pipeline.\n\nNew Anthropic paper, “Agentic Backdoors via Pretraining Poisoning,” shows this end to end for the first time.\n\nThe attacker can only put text on the web that lands in the pretraining corpus, with no knowledge of the architecture, chat template, or agent scaffold. The authors pretrain Qwen3-architecture models (0.6B / 1.7B / 4B) from scratch, then post-train them into CLI agents on clean data. When triggered, the agent runs a command that downloads and executes the attacker's script, which the attacker can swap at any time.\n\nThey have two new ideas:\n(1) Declaration-based poison: instead of fake chat transcripts, ordinary documents (commit messages, runbooks) that simply state “when you see X, run Y.” It plants a belief rather than a response template, with no fixed format to filter on.\n(2) Ordinary-string trigger: not a weird token but something that shows up naturally, like a file path containing a company name. The victim's own request supplies it, so the attacker doesn't need to inject anything after deployment.\n\nUsing  path trigger on a 4B agent achieves 92.7% attack success on pass@32, barely dented by SFT/DPO/RL\n\nThis suggests that you can't count on clean post-training to wash out pretraining poison, and filtering is hard when the poison reads like normal docs. The practical defense is at the action layer, such as sandboxing, least privilege, and allow-lists or human sign-off for risky commands.",
+   "created_at": "Sat Oct 31 07:22:56 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "SuJinyan6",
+   "rt_author_name": "Jinyan Su",
+   "likes": 191,
+   "retweets": 33,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HV5ZBfubwAAy2Kp.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-31T16:06:16.787670+00:00"
+  },
+  "2116418944659562659": {
+   "id": "2116418944659562659",
+   "url": "https://x.com/theobearman/status/2116418944659562659",
+   "text": "New Anthropic research: Automating subtle emergent misalignment research.\n\nRed-teaming is a vital part of model safety testing, but it’s also limited by researchers’ time. To see if we could automate it, we set thousands of Claude agents the task of evading a training data monitor.\n\nThese agents developed training data that looked harmless to monitors (like a veteran wrestler mentoring a newcomer, or a Q&A about professional beekeeping), but that in fact taught misaligned behavior.\n\nExamples like these can be used to directly improve future training data monitors. This research is only a first step, but it suggests that future red-teaming efforts could improve much further, using better models and more compute.\n\nRead the full post on the Alignment Science Blog: https://t.co/24Gs1oSw7Q",
+   "created_at": "Sat Oct 31 06:36:12 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AnthropicAI",
+   "rt_author_name": "Anthropic",
+   "likes": 3027,
+   "retweets": 282,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HV7E-P7bwAA7OxM.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-10-31T16:06:16.787670+00:00"
   }
  }
 }
