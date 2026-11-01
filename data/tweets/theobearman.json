@@ -5226,6 +5226,24 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-31T16:06:16.787670+00:00"
+  },
+  "2116799010224717837": {
+   "id": "2116799010224717837",
+   "url": "https://x.com/theobearman/status/2116799010224717837",
+   "text": "@XFreeze There will be a total of around 1.2M Blackwells at Colossus 2 by end of year",
+   "created_at": "Sun Nov 01 07:46:26 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "elonmusk",
+   "rt_author_name": "Elon Musk",
+   "likes": 7029,
+   "retweets": 517,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-01T17:07:41.505079+00:00"
   }
  }
 }

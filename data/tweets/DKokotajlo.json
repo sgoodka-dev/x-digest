@@ -3866,6 +3866,45 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-30T17:01:40.221107+00:00"
+  },
+  "2116784932525945215": {
+   "id": "2116784932525945215",
+   "url": "https://x.com/DKokotajlo/status/2116784932525945215",
+   "text": "Yeah I agree with this",
+   "created_at": "Sun Nov 01 06:50:30 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 83,
+   "retweets": 3,
+   "media": [],
+   "quoted": {
+    "author": "AsyaBergal",
+    "text": "I’m writing this because I think a lot of people at labs are genuinely trying to act ethically in a tricky situation, but it feels to me that there’s an underinvestment in communication right now that is a large-scale ethical mistake. I know that many of the people working in labs understand the dangers of the systems they’re trying to build. If you understand, I think you have a non-optional obligation to inform people of the risks that you’re taking on behalf of them and their families, and it’s appropriate for friends and members of the public to react with anger and betrayal in response to not understanding these risks later down the line."
+   },
+   "fetched_at": "2026-11-01T17:07:41.505079+00:00"
+  },
+  "2116784602270613674": {
+   "id": "2116784602270613674",
+   "url": "https://x.com/DKokotajlo/status/2116784602270613674",
+   "text": "I've had two phases in my emotional orientation to ai takeover risk\n\n1. For many years it was intellectual. \n\nWhile I believed there was >10% chance of ai takeover, I didn't feel scared or angry. \n\nI was happy to reason \"well, of course some ppl should focus on the worlds where we avoid takeover. And some ppl should focus on the worlds where we just wing it, bc we might\".\n\nAnd I'd think \"hmm it seems really tough for a misaligned agi to align its successor, and would a reward seeker really try to take over, and will we really roll out ai to the military... these doomers are missing loads of ways we could be fine!\"\n\nOr \"yep this is a massive risk, but I'm best off working on some other more neglected thing\"\n\nIt was in some ways like a game - have an intellectually accurate view about the risk and how to have impact\n\n2. Recently my orientation to ai takeover has become more visceral/emotional\n\nI think: \"we're barrelling towards catastrophe, everything I love will be lost, we need to stop, what can I do that will help with that\"\n\nI'm like \"no let's not plan for winging it, that's crazy.  we need US-China coordination or we're fucked\"\n\nI think \"it's fucking insane to make misaligned superintelligence and comfort ourselves that we haven't yet handed over the military. This isn't a fucking game.\"\n\nThis is a less rational attitude in some ways. It ignores genuine points about neglectedness and needing to plan for shitty but likely scenarios. \n\nAnd it risks being unhelpfully emotive and solider mindset and tribal. Which I think ai safety ppl can be.\n\nBut I do feel it has smg important to the second attitude.\n\nOverall, both attitudes have their merits \n\nI associate the first with EAs and the second with pause AI folks.",
+   "created_at": "Sun Nov 01 06:49:11 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "TomDavidsonX",
+   "rt_author_name": "Tom Davidson",
+   "likes": 384,
+   "retweets": 38,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-01T17:07:41.505079+00:00"
   }
  }
 }

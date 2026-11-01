@@ -2968,6 +2968,29 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-30T17:01:40.221107+00:00"
+  },
+  "2116911746657243464": {
+   "id": "2116911746657243464",
+   "url": "https://x.com/random_walker/status/2116911746657243464",
+   "text": "Quick thread on AI and productivity:\n\nLots of people say this chart shows AI is now showing up in the productivity data.\n\nBut I made this chart to argue the opposite: a trend that pre-dates AI and only shows up in the US doesn’t look like AI.\n\nHere’s how I’m thinking about the data and underlying dynamics:",
+   "created_at": "Sun Nov 01 15:14:25 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "jburnmurdoch",
+   "rt_author_name": "John Burn-Murdoch",
+   "likes": 634,
+   "retweets": 146,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWDFzW6XsAA3jDh.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-01T17:07:41.505079+00:00"
   }
  }
 }

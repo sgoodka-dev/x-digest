@@ -2590,6 +2590,29 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-31T19:18:57.038379+00:00"
+  },
+  "2116674397780234474": {
+   "id": "2116674397780234474",
+   "url": "https://x.com/dwarkesh_sp/status/2116674397780234474",
+   "text": "90% of what Robert Caro learned about Robert Moses and Lyndon Johnson has never been published. https://t.co/HsDtfp8fF6",
+   "created_at": "Sat Oct 31 23:31:16 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "likes": 126,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2116343031242563584/img/-m4ggPkz1WLPMWcE.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-01T17:07:41.505079+00:00"
   }
  }
 }

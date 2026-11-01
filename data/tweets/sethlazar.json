@@ -6239,6 +6239,84 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-31T19:18:57.038379+00:00"
+  },
+  "2116918650284183696": {
+   "id": "2116918650284183696",
+   "url": "https://x.com/sethlazar/status/2116918650284183696",
+   "text": "Illegitimate algorithmic governance strikes again. This trend (which requires some nuance, to be clear) could be at least as important for the future of democracy as the dangers associated with authoritarian misuse and ai assisted autocratisation.",
+   "created_at": "Sun Nov 01 15:41:51 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 19,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "AnthropicAI",
+    "text": "We’ve trained Claude to flag potential misuse in conversations, a technique we call self-assessment. Right after it responds, Claude gives a preliminary safety assessment of the conversation. \n\nSince we began using self-assessment in June, it has surfaced misuse that our other safeguards weren’t designed to catch. \n\nBecause Claude has already read the conversation, self-assessment is very efficient. And unlike classifiers, which target a discrete set of harms, it draws on Claude’s own judgment, so it gets more accurate as our models improve.\n\nRead more on our new Safeguards blog:\nhttps://t.co/18j6zdHub4"
+   },
+   "fetched_at": "2026-11-01T17:07:41.505079+00:00"
+  },
+  "2116738203679932636": {
+   "id": "2116738203679932636",
+   "url": "https://x.com/sethlazar/status/2116738203679932636",
+   "text": "Been warning about this since at least Jan 2023! Algorithmic governance by  private corps will always end up being illiberal in these ways.",
+   "created_at": "Sun Nov 01 03:44:49 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 28,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "BrianRoemmele",
+    "text": "“Anthropic orders Al tool Claude to stop remaking video games”\n\n“Update: Anthropic has confirmed it's released an update to Opus 5.5 to \"steer\" Claude Code away from 'recreating someone else's specific game.\"\n\nAn interesting cohort over at Anthropic. Fun times after the IPO. https://t.co/Odt9cP4axp"
+   },
+   "fetched_at": "2026-11-01T17:07:41.505079+00:00"
+  },
+  "2116634145497424199": {
+   "id": "2116634145497424199",
+   "url": "https://x.com/sethlazar/status/2116634145497424199",
+   "text": "Everyone in AI is talking about biorisk, cyber, agent swarms. What about this risk: Political leaders who disdain democracy form reciprocal billion-dollar dependencies with AI leaders who abhor democracy. What follows is AI-powered surveillance and political entrenchment. Let's talk about it.  #AISafetyRequiresDemocracy",
+   "created_at": "Sat Oct 31 20:51:20 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "mattbotvinick",
+   "rt_author_name": "Matthew Botvinick",
+   "likes": 147,
+   "retweets": 19,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-01T17:07:41.505079+00:00"
+  },
+  "2116633098976645434": {
+   "id": "2116633098976645434",
+   "url": "https://x.com/sethlazar/status/2116633098976645434",
+   "text": "@michele_loi Without the resets codex would be unusable for me. Claude I never run out with ¯\\_(ツ)_/¯",
+   "created_at": "Sat Oct 31 20:47:10 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": true,
+   "reply_to": "michele_loi",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-01T17:07:41.505079+00:00"
   }
  }
 }
