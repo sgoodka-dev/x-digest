@@ -6317,6 +6317,24 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-01T17:07:41.505079+00:00"
+  },
+  "2116979118013067468": {
+   "id": "2116979118013067468",
+   "url": "https://x.com/sethlazar/status/2116979118013067468",
+   "text": "@Surveil__Lance There is a fine line between defensible safety guardrails, and a whole system of private enforcement of (a company’s interpretation of) the law. Illegitimacy stems from lack of authority for certain kinds of decisions to procedural limitations of fully automated enforcement. Nb the combo of this announcement with the one about reverse engineering games before.",
+   "created_at": "Sun Nov 01 19:42:07 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": true,
+   "reply_to": "Surveil__Lance",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-01T19:41:50.876536+00:00"
   }
  }
 }
