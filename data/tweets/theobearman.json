@@ -5244,6 +5244,201 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-01T17:07:41.505079+00:00"
+  },
+  "2117344166808293586": {
+   "id": "2117344166808293586",
+   "url": "https://x.com/theobearman/status/2117344166808293586",
+   "text": "We asked GPT-6 Astra to edit Qwen3.5-0.8B weights to improve math.\nIt directly changed only 0.016% of weights, fixing 0.8B's reasoning loops & improving math up to 6x and even instruction following 3x, without gradients or training.\n\nWe call this Weight-Space Programming: frontier LLMs can now natively read/write neural network weights! 🧵\nBlog: https://t.co/bOWCcFhCVq",
+   "created_at": "Mon Nov 02 19:52:42 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "rikiyatakehi",
+   "rt_author_name": "Rikiya Takehi",
+   "likes": 16931,
+   "retweets": 1829,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWI1oKUWUAAWoZp.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+  },
+  "2117313882415042654": {
+   "id": "2117313882415042654",
+   "url": "https://x.com/theobearman/status/2117313882415042654",
+   "text": "For AGI to benefit all of humanity, it should help people with the everyday tasks that matter most to them. So we built LifeVal, a new benchmark shaped by feedback from thousands of ChatGPT users on where they most want help from a personal assistant—from finding childcare to accessing government services to managing personal finances.\n\nOver the past year, we’ve used LifeVal to measure and improve how well our models handle these everyday tasks.\n\nhttps://t.co/GlUjixzEM0",
+   "created_at": "Mon Nov 02 17:52:22 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "OpenAI",
+   "rt_author_name": "OpenAI",
+   "likes": 4011,
+   "retweets": 245,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2117307511820754944/img/KAscj7SLp6lhMJr9.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+  },
+  "2117277210570604945": {
+   "id": "2117277210570604945",
+   "url": "https://x.com/theobearman/status/2117277210570604945",
+   "text": "Anthropic updated its S1 this morning. Notable additions re automated AI R&D and human oversight of it:\n\n\"[...] our internal estimates and our expectations regarding future models, rather than our current models, indicate that we may imminently meet our Responsible Scaling Policy’s definition of 'dramatically accelerated progress attributable to AI.' We have not designated any of our current models as exceeding this threshold, and we continue to assess the underlying data. We are also evaluating the implications of meeting the AI research and development capability threshold and will release further reports in the future as we set forth in our Responsible Scaling Policy.\"\n\n\"We are also considering additional measures, including updates to our Responsible Scaling Policy, to require human review and approval of certain decisions in our research and development processes as our models perform an increasing share of that work.\"\n\n\"We believe our investments in safety techniques will enable us to manage these risks and responsibly realize substantially more leverage from Claude than we do today in developing AI models. However, we do not anticipate being able to safely use Claude to fully autonomously design and build successive generations of frontier models without meaningful human supervision or understanding, if and when that becomes technically possible. Accordingly, we are considering updates to our Responsible Scaling Policy to keep humans in control of frontier model development at Anthropic.\"\n\nhttps://t.co/s8IDfPhtWw",
+   "created_at": "Mon Nov 02 15:26:38 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 203,
+   "retweets": 30,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWIR0whXgAAh5kw.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWIR80IXkAAt1Y2.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWISBd-WoAAMxPi.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+  },
+  "2117274806626500755": {
+   "id": "2117274806626500755",
+   "url": "https://x.com/theobearman/status/2117274806626500755",
+   "text": "ANTHROPIC Q3 2026 FINANCIAL HIGHLIGHTS:\n\n- Revenue: $17.0B, +1,127% YoY & 47% QoQ\n- Oper Loss: $567M (vs. $974M profit in Q2)\n- Net Loss: $23.3B, vs. $12.1B YoY\n- Adj. Oper Income: $2.5B\n- Adj. Oper Margin: 15%, down from 19% in Q2\n- 9M Revenue: $33.2B\n\nAnthropic attributed its return to an operating loss partly to $5B in higher-cost short-term compute and a $2B noncash donation-matching charge.\n\nIts nine-month net loss reached $104B, largely reflecting $94.3B in noncash charges from the rising value of its convertible notes.\n\nAnthropic also disclosed approximately $895.4B in aggregate purchase and lease commitments as of and after Sept. 30, largely tied to AI compute infrastructure.",
+   "created_at": "Mon Nov 02 15:17:05 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "wallstengine",
+   "rt_author_name": "Wall St Engine",
+   "likes": 857,
+   "retweets": 96,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWIHIvbbYAA8enW.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+  },
+  "2117248890445476276": {
+   "id": "2117248890445476276",
+   "url": "https://x.com/theobearman/status/2117248890445476276",
+   "text": "Exc: UK govt approach to AI will be shaped by considerations about British interests, control and sovereignty, under principles agreed by ministers following robust cabinet discussions last month.\n\nBurnham and senior team last week approved a framework that will govern the domestic adoption of the tech & its build out, acc to people familiar with matter.\n\nSeven core principles have been signed off, incl:\n• AI and its adoption must work in the interests of the British people\n• control and sovereignty matter\n• infrastructure must serve a national purpose and deliver for communities\n\nComes after Cabinet meeting on Oct 13 saw a frank exchange of views, followed by a strategy day to pin down areas of consensus among ministers. \n\n“It is apparent there are very different views. Everyone is looking at AI through the lens of their own department,” said one govt figure.\n\nCulture sec Lisa Nandy advocated a more circumspect approach during the meeting, the people said, after the creative industries expressed alarm about unauthorised data scraping and weakened copyright protections.\n\nWhile DDCMS is inclined to proceed at a slower pace on AI, DBIST is pushing for a faster approach — though not at the expense of safety — based on the tech’s potential to boost growth, several government figures said.\n\nOther officials stressed there was no disagreement on specific AI policies and that the cabinet was aligned in recognition of the opportunities and challenges posed by AI, as well as the importance of ensuring the public was onside.\n\nhttps://t.co/ifW7P35Dve",
+   "created_at": "Mon Nov 02 13:34:06 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "LOS_Fisher",
+   "rt_author_name": "Lucy Fisher",
+   "likes": 38,
+   "retweets": 8,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+  },
+  "2117248724879688184": {
+   "id": "2117248724879688184",
+   "url": "https://x.com/theobearman/status/2117248724879688184",
+   "text": "NEW: In a letter sent by the Office of the National Cyber Director on Friday, the White House is refusing to release any information on its voluntary AI framework, including a draft of the framework itself, citing national security and commercial exemptions, despite the FOIA lawsuit from the Protect Democracy Project.  \n\nThe letter does provide some details, including that the framework consists of a seven-page word document, as well as that the Office of the National Cyber Director and the Commerce Department appear to be approving \"trusted partners\" cleared for pre-release access to AI models\n\nhttps://t.co/MnNnGpAFke",
+   "created_at": "Mon Nov 02 13:33:27 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "leomschwartz",
+   "rt_author_name": "Leo Schwartz",
+   "likes": 90,
+   "retweets": 40,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+  },
+  "2117157923335831628": {
+   "id": "2117157923335831628",
+   "url": "https://x.com/theobearman/status/2117157923335831628",
+   "text": "If you read any blog post on AI safety from this year, make it be this one\nhttps://t.co/VYWF1iKnim",
+   "created_at": "Mon Nov 02 07:32:38 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "ryan_kidd44",
+   "rt_author_name": "Ryan Kidd",
+   "likes": 260,
+   "retweets": 24,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+  },
+  "2117154782414770255": {
+   "id": "2117154782414770255",
+   "url": "https://x.com/theobearman/status/2117154782414770255",
+   "text": "Today we’re releasing GDPx, a benchmark for measuring agentic capabilities across the most valuable domains.\n\nGDPx is a true frontier-level benchmark: even the best model scores just 12% (1/7)🧵 https://t.co/RNnkcuUkih",
+   "created_at": "Mon Nov 02 07:20:09 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "SemiAnalysis_",
+   "rt_author_name": "SemiAnalysis",
+   "likes": 2996,
+   "retweets": 291,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWFdT_uXsAEzYJg.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+  },
+  "2116984600186806546": {
+   "id": "2116984600186806546",
+   "url": "https://x.com/theobearman/status/2116984600186806546",
+   "text": "https://t.co/6VpPCdA4NM",
+   "created_at": "Sun Nov 01 20:03:55 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "mustafasuleyman",
+   "rt_author_name": "Mustafa Suleyman",
+   "likes": 789,
+   "retweets": 136,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
   }
  }
 }

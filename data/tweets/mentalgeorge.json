@@ -2515,6 +2515,47 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-29T17:26:17.487251+00:00"
+  },
+  "2117271035309699510": {
+   "id": "2117271035309699510",
+   "url": "https://x.com/mentalgeorge/status/2117271035309699510",
+   "text": "@random_walker I'm guessing you're assuming that increased efficiency from RSI automatically escapes the lab that won those efficiency gains?\n\nSeems like that's currently the case because of distillation, but it's not obvious to me that the distillation will forever continue at current scale",
+   "created_at": "Mon Nov 02 15:02:06 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "random_walker",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+  },
+  "2117256394282062178": {
+   "id": "2117256394282062178",
+   "url": "https://x.com/mentalgeorge/status/2117256394282062178",
+   "text": "I had no idea about the progress that's being made on AI verification hardware that could enable a binding US-China treaty on AI.\n\nTom Milton, CEO of Amodo Design, demonstrates here.\n\nSeems like insanely important work and also just very cool.\n\n01:04 Why compute is the best place to verify an AI slowdown\n06:08 Can you prove a lab isn’t cheating?\n13:22 Live demo: how to spot a cheating GPU\n19:50 Could China hide a data centre?\n23:35 Can verification tools be hacked?\n29:13 Is anyone at OpenAI working on this?\n37:49 Chinese inspectors in US data centres??\n46:07 The 20-day panic deal\n51:27 What would a US–China AI deal look like?\n55:38 Why lab researchers should work on verification\n58:45 What if we never build this?\n1:02:06 Can verification protect against power grabs?\n1:07:20 How good is AI at hardware design?\n1:18:32 What’s holding AI back in hardware?\n1:22:44 Risks of automating hardware R&D\n1:25:41 The DARPA model for AI safety\n1:32:26 What’s left for engineers after AI?\n1:40:07 Personal gadgets, designed by Fable?\n1:41:56 What if the US stops sharing its AI?\n\n(@tsmilton_amodo, @mentalgeorge )",
+   "created_at": "Mon Nov 02 14:03:55 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "robertwiblin",
+   "rt_author_name": "Rob Wiblin",
+   "likes": 54,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2117248941460725760/img/-tbRndVLGKdZYyTu.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
   }
  }
 }

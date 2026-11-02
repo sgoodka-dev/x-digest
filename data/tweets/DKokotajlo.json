@@ -3905,6 +3905,37 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-01T17:07:41.505079+00:00"
+  },
+  "2117315985292325333": {
+   "id": "2117315985292325333",
+   "url": "https://x.com/DKokotajlo/status/2117315985292325333",
+   "text": "Anthropic updated its S1 this morning. Notable additions re automated AI R&D and human oversight of it:\n\n\"[...] our internal estimates and our expectations regarding future models, rather than our current models, indicate that we may imminently meet our Responsible Scaling Policy’s definition of 'dramatically accelerated progress attributable to AI.' We have not designated any of our current models as exceeding this threshold, and we continue to assess the underlying data. We are also evaluating the implications of meeting the AI research and development capability threshold and will release further reports in the future as we set forth in our Responsible Scaling Policy.\"\n\n\"We are also considering additional measures, including updates to our Responsible Scaling Policy, to require human review and approval of certain decisions in our research and development processes as our models perform an increasing share of that work.\"\n\n\"We believe our investments in safety techniques will enable us to manage these risks and responsibly realize substantially more leverage from Claude than we do today in developing AI models. However, we do not anticipate being able to safely use Claude to fully autonomously design and build successive generations of frontier models without meaningful human supervision or understanding, if and when that becomes technically possible. Accordingly, we are considering updates to our Responsible Scaling Policy to keep humans in control of frontier model development at Anthropic.\"\n\nhttps://t.co/s8IDfPhtWw",
+   "created_at": "Mon Nov 02 18:00:43 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "theobearman",
+   "rt_author_name": "Theo Bearman",
+   "likes": 203,
+   "retweets": 30,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWIR0whXgAAh5kw.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWIR80IXkAAt1Y2.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWISBd-WoAAMxPi.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
   }
  }
 }

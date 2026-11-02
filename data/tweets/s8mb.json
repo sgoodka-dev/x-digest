@@ -9238,6 +9238,45 @@
    ],
    "quoted": null,
    "fetched_at": "2026-11-01T17:07:41.505079+00:00"
+  },
+  "2117302902520009183": {
+   "id": "2117302902520009183",
+   "url": "https://x.com/s8mb/status/2117302902520009183",
+   "text": "Subscribe today to be among the first to receive our December issue. My favourite piece in it is @pietergaricano on how Emmanuel Macron broke the French growth machine.",
+   "created_at": "Mon Nov 02 17:08:44 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 31,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "underthenettle",
+    "text": "We have another banger lineup of pieces in the December issue of Works in Progress magazine. Subscribe now to get your print copy as soon as it's out. \n\nIncluding:\n➔ @RuxandraTeslo and @NikoMcCarty on Chinese biotech\n➔ @pietergaricano on Emmanuel Macron\n➔ @salonium on smallpox eradication\n➔ @JamieRumbelow on the internet's infrastructure\n➔ @SCP_Hughes on the history of architectural taste\n➔ @erinbraid on the curse of Italy\n➔ @Aria_Babu on Hollywood remakes\n➔ @chalmermagne on the end of Communism\n➔ @CharlesCMann on forest fires\n➔ @tylercowen on Armenian food \n\nhttps://t.co/sYMZ2BJ9Ol"
+   },
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+  },
+  "2117276160853967222": {
+   "id": "2117276160853967222",
+   "url": "https://x.com/s8mb/status/2117276160853967222",
+   "text": "@ShakeelHashim @ReadTransformer @NYMag Nice piece. Great art direction too!",
+   "created_at": "Mon Nov 02 15:22:28 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "ShakeelHashim",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
   }
  }
 }

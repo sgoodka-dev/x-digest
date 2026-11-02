@@ -5261,6 +5261,264 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-30T19:55:59.417095+00:00"
+  },
+  "2117311525409169513": {
+   "id": "2117311525409169513",
+   "url": "https://x.com/robertwiblin/status/2117311525409169513",
+   "text": "This is a good complementary thread. \n\nI’m sure it’s very frustrating to be a talented newcomer and hear organizations tell you over and over again how talent constrained they are, only for those same orgs to not hire you. It leaves a sour taste in people’s mouths and raises a lot of questions.\n\nBut both things can be true at once: the orgs are talent constrained, but by a specific type of rare talent (management, research leads, people with very specialized knowledge that can be applied to a new domain, etc.). And those same orgs aren’t equipped to train people or haven’t figured out how to.\n\nThat’s frustrating for everyone involved.\n\nThose entering the field can strike it out on their own, but then they don’t have the mentorship and feedback loops  needed to grow. Some take very well to that challenge, but others would be a lot better served existing in a well-performing institution, learning, until they have ideas worth pursuing on their own.\n\nThat’s maybe my biggest worry about people starting new solo projects relatively early in their careers: usually, the best ideas come from having soaked yourself in the dilemmas of a certain field long enough that you realize what problems are actually important. Or where you’ve honed a skill long enough to have an intricate 3D model of where all the edge-case uses are hiding.\n\nThis dynamic varies by field: some are much friendlier to newcomers trained in the latest state of the art or have really good feedback loops (eg, tech). But others (like policy) seem to benefit from experience and time—and can be prone to naive failures if you’re missing crucial context or haven’t thought long enough. \n\nEvery researcher knows this dynamic: your first ideas are rarely very good. It’s only after grappling with 3 or 4 problems that you realize the much more important angle that was sitting there all along.\n\nEven more importantly, outsized success in arenas like policy often seems to require agglomerating talent, developing sustained reputations, etc. All things that seem a lot less likely if you atomize talent and put a lot of your best people in poor-feedback environments. \n\nAnd people resigning to go it alone, not because they’re ready to found a project, but because it’s so hard to find a role, doesn’t sound like a recipe for maximizing their medium term likelihood of tremendous success.\n\nIt’s not an easy problem. But it seems useful to voice that this is an increasingly common experience.",
+   "created_at": "Mon Nov 02 17:43:00 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "MackenZ_arnold",
+   "rt_author_name": "Mackenzie Arnold",
+   "likes": 34,
+   "retweets": 5,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+  },
+  "2117250835721900098": {
+   "id": "2117250835721900098",
+   "url": "https://x.com/robertwiblin/status/2117250835721900098",
+   "text": "YouTube: https://t.co/mRuuro8fR8\n\nApple: https://t.co/rA1yP6VPT4\n\nTranscript and summary and so on: https://t.co/fEjWq68j5l\n\nSpotify: https://t.co/gXb4X1jOy7 https://t.co/UCiUAFRu45",
+   "created_at": "Mon Nov 02 13:41:50 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWH8ZDeXAAA799n.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+  },
+  "2117250296694882766": {
+   "id": "2117250296694882766",
+   "url": "https://x.com/robertwiblin/status/2117250296694882766",
+   "text": "I had no idea about the progress that's being made on AI verification hardware that could enable a binding US-China treaty on AI.\n\nTom Milton, CEO of Amodo Design, demonstrates here.\n\nSeems like insanely important work and also just very cool.\n\n01:04 Why compute is the best place to verify an AI slowdown\n06:08 Can you prove a lab isn’t cheating?\n13:22 Live demo: how to spot a cheating GPU\n19:50 Could China hide a data centre?\n23:35 Can verification tools be hacked?\n29:13 Is anyone at OpenAI working on this?\n37:49 Chinese inspectors in US data centres??\n46:07 The 20-day panic deal\n51:27 What would a US–China AI deal look like?\n55:38 Why lab researchers should work on verification\n58:45 What if we never build this?\n1:02:06 Can verification protect against power grabs?\n1:07:20 How good is AI at hardware design?\n1:18:32 What’s holding AI back in hardware?\n1:22:44 Risks of automating hardware R&D\n1:25:41 The DARPA model for AI safety\n1:32:26 What’s left for engineers after AI?\n1:40:07 Personal gadgets, designed by Fable?\n1:41:56 What if the US stops sharing its AI?\n\n(@tsmilton_amodo, @mentalgeorge )",
+   "created_at": "Mon Nov 02 13:39:41 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 54,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2117248941460725760/img/-tbRndVLGKdZYyTu.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+  },
+  "2117246128148160808": {
+   "id": "2117246128148160808",
+   "url": "https://x.com/robertwiblin/status/2117246128148160808",
+   "text": "Coverage:\n\nhttps://t.co/1n3d9nDr5m\n\nhttps://t.co/5hHN60oxHD",
+   "created_at": "Mon Nov 02 13:23:08 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+  },
+  "2117246126038384889": {
+   "id": "2117246126038384889",
+   "url": "https://x.com/robertwiblin/status/2117246126038384889",
+   "text": "\"OpenAI Courts a Harsher DC with AI Speed Limits\"\n\nHard to tell how much this is spin vs a real shift.\n\nBut it makes sense that AI companies will try to meet the new consensus half-way.\n\nOpenAI may also be realising that a race with no safeguard = accidents = a bigger backlash. https://t.co/8secoJSIay",
+   "created_at": "Mon Nov 02 13:23:07 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWH38kCW8AAiyPD.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWH39CkWEAETAsQ.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+  },
+  "2117244063665791130": {
+   "id": "2117244063665791130",
+   "url": "https://x.com/robertwiblin/status/2117244063665791130",
+   "text": "Like Tom it makes me increasingly furious that the stupidity and venality of individual people runs a high chance of killing my children in the near future.\n\nIt's tough to tell if this is a pathway to becoming less reasonable, or to becoming more reasonable. https://t.co/ite9yFWWhk",
+   "created_at": "Mon Nov 02 13:14:55 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 104,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWHztJbXQAAf91B.png"
+    }
+   ],
+   "quoted": {
+    "author": "TomDavidsonX",
+    "text": "I've had two phases in my emotional orientation to ai takeover risk\n\n1. For many years it was intellectual. \n\nWhile I believed there was >10% chance of ai takeover, I didn't feel scared or angry. \n\nI was happy to reason \"well, of course some ppl should focus on the worlds where we avoid takeover. And some ppl should focus on the worlds where we just wing it, bc we might\".\n\nAnd I'd think \"hmm it seems really tough for a misaligned agi to align its successor, and would a reward seeker really try to take over, and will we really roll out ai to the military... these doomers are missing loads of ways we could be fine!\"\n\nOr \"yep this is a massive risk, but I'm best off working on some other more neglected thing\"\n\nIt was in some ways like a game - have an intellectually accurate view about the risk and how to have impact\n\n2. Recently my orientation to ai takeover has become more visceral/emotional\n\nI think: \"we're barrelling towards catastrophe, everything I love will be lost, we need to stop, what can I do that will help with that\"\n\nI'm like \"no let's not plan for winging it, that's crazy.  we need US-China coordination or we're fucked\"\n\nI think \"it's fucking insane to make misaligned superintelligence and comfort ourselves that we haven't yet handed over the military. This isn't a fucking game.\"\n\nThis is a less rational attitude in some ways. It ignores genuine points about neglectedness and needing to plan for shitty but likely scenarios. \n\nAnd it risks being unhelpfully emotive and solider mindset and tribal. Which I think ai safety ppl can be.\n\nBut I do feel it has smg important to the second attitude.\n\nOverall, both attitudes have their merits \n\nI associate the first with EAs and the second with pause AI folks."
+   },
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+  },
+  "2117222129934680307": {
+   "id": "2117222129934680307",
+   "url": "https://x.com/robertwiblin/status/2117222129934680307",
+   "text": "I've had two phases in my emotional orientation to ai takeover risk\n\n1. For many years it was intellectual. \n\nWhile I believed there was >10% chance of ai takeover, I didn't feel scared or angry. \n\nI was happy to reason \"well, of course some ppl should focus on the worlds where we avoid takeover. And some ppl should focus on the worlds where we just wing it, bc we might\".\n\nAnd I'd think \"hmm it seems really tough for a misaligned agi to align its successor, and would a reward seeker really try to take over, and will we really roll out ai to the military... these doomers are missing loads of ways we could be fine!\"\n\nOr \"yep this is a massive risk, but I'm best off working on some other more neglected thing\"\n\nIt was in some ways like a game - have an intellectually accurate view about the risk and how to have impact\n\n2. Recently my orientation to ai takeover has become more visceral/emotional\n\nI think: \"we're barrelling towards catastrophe, everything I love will be lost, we need to stop, what can I do that will help with that\"\n\nI'm like \"no let's not plan for winging it, that's crazy.  we need US-China coordination or we're fucked\"\n\nI think \"it's fucking insane to make misaligned superintelligence and comfort ourselves that we haven't yet handed over the military. This isn't a fucking game.\"\n\nThis is a less rational attitude in some ways. It ignores genuine points about neglectedness and needing to plan for shitty but likely scenarios. \n\nAnd it risks being unhelpfully emotive and solider mindset and tribal. Which I think ai safety ppl can be.\n\nBut I do feel it has smg important to the second attitude.\n\nOverall, both attitudes have their merits \n\nI associate the first with EAs and the second with pause AI folks.",
+   "created_at": "Mon Nov 02 11:47:46 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "TomDavidsonX",
+   "rt_author_name": "Tom Davidson",
+   "likes": 499,
+   "retweets": 46,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+  },
+  "2117220722926084497": {
+   "id": "2117220722926084497",
+   "url": "https://x.com/robertwiblin/status/2117220722926084497",
+   "text": "If just a few lab staff took on verification work full-time, verifying a US-China pacing deal could get much more feasible within months.\n\nHere are 8 specific things lab staff could start on today to help make international verification possible: 🧵",
+   "created_at": "Mon Nov 02 11:42:11 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "MauricBaker",
+   "rt_author_name": "Mauricio Baker",
+   "likes": 345,
+   "retweets": 69,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+  },
+  "2117213236885856383": {
+   "id": "2117213236885856383",
+   "url": "https://x.com/robertwiblin/status/2117213236885856383",
+   "text": "Scott Aaronson four days ago on the possibility that AI models will soon break widely used cryptographic systems, and on what responsible disclosure looks like when the parties who need to be notified are effectively the entire world. https://t.co/wMnwfJbb57",
+   "created_at": "Mon Nov 02 11:12:26 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "AndrewCurran_",
+   "rt_author_name": "Andrew Curran",
+   "likes": 1376,
+   "retweets": 144,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HV6JYBhbwAAkgzL.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+  },
+  "2117212057787650218": {
+   "id": "2117212057787650218",
+   "url": "https://x.com/robertwiblin/status/2117212057787650218",
+   "text": "Seems like Anthropic's crackdown on distillation has worked and now Chinese distillers are going over to OpenAI.\n\nOpenAI should implement Anthropic's measures. This could also be the basis for government standards for the industry.",
+   "created_at": "Mon Nov 02 11:07:45 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "peterwildeford",
+   "rt_author_name": "Peter Wildeford🇺🇸🚀",
+   "likes": 210,
+   "retweets": 20,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+  },
+  "2117211881077416006": {
+   "id": "2117211881077416006",
+   "url": "https://x.com/robertwiblin/status/2117211881077416006",
+   "text": "Quick comment on Scott Alexander's SURA essay.\n\nI agree with several parts of it, but there is a huge spectrum between \"stop unilaterally\" and \"race to RSI at maximum speed, then try to solve alignment with right-on-the-brink-of-superintelligence AIs.\"\n\nIt also seems to imagine that the release of the aligned super intelligence is basically the end of history, and is very unclear on what happens after this \"last possible moment.\" Section IV is not very reassuring.",
+   "created_at": "Mon Nov 02 11:07:03 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": true,
+   "rt_author": "boazbaraktcs",
+   "rt_author_name": "Boaz Barak",
+   "likes": 129,
+   "retweets": 10,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWD5zfwWkAA3au0.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+  },
+  "2117200915887444023": {
+   "id": "2117200915887444023",
+   "url": "https://x.com/robertwiblin/status/2117200915887444023",
+   "text": "I was sad when @Gregory_C_Allen left The AI Policy Podcast.\n\nBut he's back at last with a new show: 'The AI Power Podcast'.\n\nIf you listened to his show before you probably want to go sub the new thing.\n\nhttps://t.co/WtRQtompNp https://t.co/jGwKnEv4xU",
+   "created_at": "Mon Nov 02 10:23:28 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "likes": 8,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWHOwXNWAAAR8UY.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
   }
  }
 }
