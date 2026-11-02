@@ -78,10 +78,12 @@ def _norm_tweet(t, fallback_handle=""):
         rt_author_obj = rt.get("author") or {}
         rt_author = rt_author_obj.get("userName") or rt_author_obj.get("username") or ""
         rt_author_name = rt_author_obj.get("name") or ""
+        rt_avatar = rt_author_obj.get("profilePicture") or ""
+        rt_id = str(rt.get("id") or rt.get("id_str") or "")
         display_text = _text(rt)
         media = _media(rt) or _media(t)
     else:
-        rt_author = rt_author_name = ""
+        rt_author = rt_author_name = rt_avatar = rt_id = ""
         display_text = _text(t)
         media = _media(t)
 
@@ -95,9 +97,15 @@ def _norm_tweet(t, fallback_handle=""):
         "is_reply": bool(t.get("isReply") or t.get("in_reply_to_status_id")
                          or t.get("inReplyToId")),
         "reply_to": t.get("inReplyToUsername") or "",
+        # Source tweet a reply answers (digest shows max one reply per source)
+        "reply_to_id": str(t.get("inReplyToId") or t.get("in_reply_to_status_id")
+                           or ""),
+        "avatar": author.get("profilePicture") or "",
         "is_retweet": is_retweet,
         "rt_author": rt_author,
         "rt_author_name": rt_author_name,
+        "rt_avatar": rt_avatar,
+        "rt_id": rt_id,
         "likes": t.get("likeCount") or t.get("favorite_count") or 0,
         "retweets": t.get("retweetCount") or t.get("retweet_count") or 0,
         "media": media,
