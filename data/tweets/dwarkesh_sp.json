@@ -2659,6 +2659,28 @@
    ],
    "quoted": null,
    "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+  },
+  "2117362196921602275": {
+   "id": "2117362196921602275",
+   "url": "https://x.com/dwarkesh_sp/status/2117362196921602275",
+   "text": "@dylan522p @natolambert you call me?",
+   "created_at": "Mon Nov 02 21:04:21 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "",
+   "reply_to_id": "2117342634083803487",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 41,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-02T23:07:13.070865+00:00"
   }
  }
 }

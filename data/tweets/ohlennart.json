@@ -1948,6 +1948,58 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-30T17:01:40.221107+00:00"
+  },
+  "2117393122842013812": {
+   "id": "2117393122842013812",
+   "url": "https://x.com/ohlennart/status/2117393122842013812",
+   "text": "the pacing announcement should be timed with ending the iran war so it cancels out",
+   "created_at": "Mon Nov 02 23:07:14 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1421449447482044420/_HX1YpJC_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "ohlennart",
+    "text": "one thing i keep hearing about pacing: would it crash the market?\n\nbut if you think RSI is coming, markets are massively underpricing AI. even paced, we’re above that line IMO.\n\nfrom the market’s view though, pacing means going down. https://t.co/laISNHEFTU"
+   },
+   "fetched_at": "2026-11-02T23:07:13.070865+00:00"
+  },
+  "2117369250843349083": {
+   "id": "2117369250843349083",
+   "url": "https://x.com/ohlennart/status/2117369250843349083",
+   "text": "one thing i keep hearing about pacing: would it crash the market?\n\nbut if you think RSI is coming, markets are massively underpricing AI. even paced, we’re above that line IMO.\n\nfrom the market’s view though, pacing means going down. https://t.co/laISNHEFTU",
+   "created_at": "Mon Nov 02 21:32:22 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1421449447482044420/_HX1YpJC_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 50,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWJn7ribsAADsZy.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-02T23:07:13.070865+00:00"
   }
  }
 }
