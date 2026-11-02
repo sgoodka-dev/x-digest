@@ -7,9 +7,9 @@ the previous digest, applies the per-person caps and writes OUT_DIR/body.html
 and OUT_DIR/subj.txt. Prints COUNT= and WARN= lines for the task to act on.
 
 Rules (Shahil's spec):
-  * Digest goes out Sun, Tue, Wed, Fri (Substack digest covers Mon, Thu, Sat),
+  * Digest goes out Sun, Tue, Fri (Substack digest covers Mon, Thu, Sat),
     so each digest covers everything since the previous digest day at 18:20.
-  * Per person: at most 5 posts + 3 replies + 2 reposts, each sorted by likes.
+  * Per person: at most 4 posts + 2 replies + 2 reposts, each sorted by likes.
   * At most one reply per source tweet.
   * A repost of another followed account is dropped — the original shows
     under its own author instead.
@@ -22,9 +22,9 @@ import sys
 from zoneinfo import ZoneInfo
 
 EXCLUDE = {"matthewclifford", "thezvi"}
-RUN_WEEKDAYS = {6, 1, 2, 4}          # Python weekday(): Sun, Tue, Wed, Fri
+RUN_WEEKDAYS = {6, 1, 4}             # Python weekday(): Sun, Tue, Fri
 BOUNDARY = (18, 20)                  # UK time the digest window closes
-CAP_POSTS, CAP_REPLIES, CAP_REPOSTS = 5, 3, 2
+CAP_POSTS, CAP_REPLIES, CAP_REPOSTS = 4, 2, 2
 
 LON = ZoneInfo("Europe/London")
 UTC = datetime.timezone.utc
