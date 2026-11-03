@@ -2681,6 +2681,60 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-02T23:07:13.070865+00:00"
+  },
+  "2117671098418676179": {
+   "id": "2117671098418676179",
+   "url": "https://x.com/dwarkesh_sp/status/2117671098418676179",
+   "text": "Many diseases are limited by being too deadly. They kill off their hosts before they can spread.\n\nBut the bubonic plague is different. It can jump between fleas and a huge range of mammals, and its extreme lethality can actually help it spread.\n\nHuman casualties are merely a byproduct.\n\n@Oklahomaharper explains why the plague is a marvel of evolutionary efficiency.",
+   "created_at": "Tue Nov 03 17:31:48 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1915048486505971712/H2jFRoW6_normal.jpg",
+   "rt_id": "2117667312165646637",
+   "likes": 31,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2117637546561753088/img/15bRNS0ZK9Imfo9o.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+  },
+  "2117394374883746179": {
+   "id": "2117394374883746179",
+   "url": "https://x.com/dwarkesh_sp/status/2117394374883746179",
+   "text": "The average ancient Roman was small and dumb by modern standards.\n\nEven Caesar August was only about 5’6” tall.\n\n@Oklahomaharper  explains how Romans resembled the populations of the poorest countries in the world today due to disease exposure and bad nutrition. https://t.co/F7BTs5f86q",
+   "created_at": "Mon Nov 02 23:12:12 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1915048486505971712/H2jFRoW6_normal.jpg",
+   "rt_id": "2117391304267350214",
+   "likes": 80,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2117294272625991680/img/SHvl3qHggGNu8WVq.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
   }
  }
 }

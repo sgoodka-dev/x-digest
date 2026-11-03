@@ -2000,6 +2000,88 @@
    ],
    "quoted": null,
    "fetched_at": "2026-11-02T23:07:13.070865+00:00"
+  },
+  "2117674165801009264": {
+   "id": "2117674165801009264",
+   "url": "https://x.com/ohlennart/status/2117674165801009264",
+   "text": "update: in under a year, data centers went from passing offices to double https://t.co/g3mj4saNLk",
+   "created_at": "Tue Nov 03 17:44:00 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1421449447482044420/_HX1YpJC_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 24,
+   "retweets": 7,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWNiFIdakAA_USj.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "ohlennart",
+    "text": "Since November 2025, the US is spending more on data centers than on offices. \n\nBuilding housing for the new workforce. https://t.co/L17XUQy6LW"
+   },
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+  },
+  "2117655397561778234": {
+   "id": "2117655397561778234",
+   "url": "https://x.com/ohlennart/status/2117655397561778234",
+   "text": "https://t.co/gBPmFTHxVr",
+   "created_at": "Tue Nov 03 16:29:25 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": true,
+   "reply_to": "ohlennart",
+   "reply_to_id": "2117655352795906389",
+   "avatar": "https://pbs.twimg.com/profile_images/1421449447482044420/_HX1YpJC_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 5,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+  },
+  "2117655352795906389": {
+   "id": "2117655352795906389",
+   "url": "https://x.com/ohlennart/status/2117655352795906389",
+   "text": "delightful https://t.co/IxKwgIYGSP",
+   "created_at": "Tue Nov 03 16:29:14 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1421449447482044420/_HX1YpJC_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 12,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWNsQwOawAEGxkH.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "ohlennart",
+    "text": "Mauricio is right. Outsiders often can’t make progress on these problems, or move way slower. And there simply aren’t many people working on this.\n\nEvery. single. person. working on verification makes a difference."
+   },
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
   }
  }
 }
