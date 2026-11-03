@@ -5668,6 +5668,56 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+  },
+  "2117701525632168074": {
+   "id": "2117701525632168074",
+   "url": "https://x.com/theobearman/status/2117701525632168074",
+   "text": "In a sea of uncertainty about federal legislation on AI security, low hanging fruit like this is just a no brainier.",
+   "created_at": "Tue Nov 03 19:32:43 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "ChrisRMcGuire",
+    "text": "It is so frustrating and short-sighted that we haven’t updated export controls to stop this. This loophole has been reported for years. Commerce controls high bandwidth memory chips in 3A090.c. But unlike for AI chips, it does not have a corresponding control in 4A090 that also controls items that CONTAIN a high-bandwidth memory chip. This is why a high-bandwidth memory chip in isolation is controlled, but a chip soldered to a board is not. This makes no sense. \n\nThe fix here is easy: add a new control to 4A090.c that reads, “c. Computers, \"electronic assemblies,\" and \"components\" containing integrated circuits, any of which meets or exceeds the limits in 3A090.c.” That’s it, problem solved. All shipments of items that contain high-bandwidth memory chips would require a license.  \n\nAlso, if Commerce actually takes that advice, at the same time it should also update the regs so that 3A090.a and 4A090.a also include the memory bandwidth and interconnect parameters that Commerce has privately subjected Nvidia, AMD, and others to since April 2025, but has never made public. Putting these requirements into public regulations and making them applicable to every company could have helped stop some of this smuggling. It’s also very basic good governance, as export controls should wherever possible be transparent and applied uniformly, not private and applied only on certain companies. \n\nThis is yet another consequence of Commerce not taking export controls seriously. The next time BIS claims they are doing more on export control enforcement than ever, remember this story, the Megaspeed fiasco, and the many others like them that are published every week. Export control enforcement has never been worse."
+   },
+   "fetched_at": "2026-11-03T21:00:07.693918+00:00"
+  },
+  "2117700874353156245": {
+   "id": "2117700874353156245",
+   "url": "https://x.com/theobearman/status/2117700874353156245",
+   "text": "“Even before OpenAI launched ChatGPT in late 2022, some company staffers raised concerns internally about its security practices, according to five people familiar with the matter. Employees shared their concerns with top OpenAI leaders ​and the board of directors, the people said, adding that some staffers came away from those interactions concluding that management was more focused on keeping pace with competitors like Google and Anthropic than on security.\n\nThese workers argued that OpenAI's controls were so lax ‌that outsiders, including foreign governments, could obtain sensitive information about the AI lab's technology with relative ease, the people said. For example, anybody at OpenAI who could access its code could see the technical details underlying many company projects.”\n\n“OpenAI emphasized that much of its most sensitive work is held in separate code repositories with strict access controls. And it said the monorepo does not contain all of its code or critical details of the company’s models, including the numerical values that determine how a model behaves, known as the model weights.”",
+   "created_at": "Tue Nov 03 19:30:08 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "Reuters",
+    "text": "Even before OpenAI launched ChatGPT in late 2022, some company staffers raised concerns internally about its security practices, five people familiar with the matter told Reuters https://t.co/rIcif2rh09 https://t.co/3z3sWnX1Gy"
+   },
+   "fetched_at": "2026-11-03T21:00:07.693918+00:00"
   }
  }
 }

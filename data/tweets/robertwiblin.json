@@ -5887,6 +5887,33 @@
    ],
    "quoted": null,
    "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+  },
+  "2117688360604963116": {
+   "id": "2117688360604963116",
+   "url": "https://x.com/robertwiblin/status/2117688360604963116",
+   "text": "Transcript: https://t.co/EueAqELUHh\n\nApple: https://t.co/iWxAx6AHve\n\nSpotify: https://t.co/rZLY2FGx6W\n\nYouTube: https://t.co/RKv2ebPpLw https://t.co/bCkJ3jBQXw",
+   "created_at": "Tue Nov 03 18:40:24 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2117682730884542663",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWOKA89XYAEbPn4.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-03T21:00:07.693918+00:00"
   }
  }
 }

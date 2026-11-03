@@ -2522,6 +2522,107 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+  },
+  "2117713889962213853": {
+   "id": "2117713889962213853",
+   "url": "https://x.com/NateWitkin/status/2117713889962213853",
+   "text": "To be clear I think it is good to use AI to check the correctness of your work, but in these cases it seems to be used as a Gish gallop instead. At best this is pretty undignified.",
+   "created_at": "Tue Nov 03 20:21:51 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "littmath",
+   "rt_author_name": "Daniel Litt",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1588888923081687045/KGL3lgvC_normal.jpg",
+   "rt_id": "2117690132597760213",
+   "likes": 94,
+   "retweets": 3,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-03T21:00:07.693918+00:00"
+  },
+  "2117713342341259733": {
+   "id": "2117713342341259733",
+   "url": "https://x.com/NateWitkin/status/2117713342341259733",
+   "text": "The future of peer review? https://t.co/tFB5IEvlfZ",
+   "created_at": "Tue Nov 03 20:19:40 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "littmath",
+   "rt_author_name": "Daniel Litt",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1588888923081687045/KGL3lgvC_normal.jpg",
+   "rt_id": "2117688265708798069",
+   "likes": 370,
+   "retweets": 36,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWOKKL7XYAATGbm.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWOKKL8XgAAXI_s.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWOKKL7WIAA97FI.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-03T21:00:07.693918+00:00"
+  },
+  "2117700011320381739": {
+   "id": "2117700011320381739",
+   "url": "https://x.com/NateWitkin/status/2117700011320381739",
+   "text": "I didn't know that something many researchers do with agents on a weekly basis was worth a research project that gets millions of views. Either I'm expecting too much, or people are far less technical than I thought.",
+   "created_at": "Tue Nov 03 19:26:42 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "yavuzbakman",
+   "rt_author_name": "Yavuz Bakman",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1988794630276812800/ZoaPTvEI_normal.jpg",
+   "rt_id": "2117412191368548789",
+   "likes": 196,
+   "retweets": 7,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-03T21:00:07.693918+00:00"
+  },
+  "2117696219820806569": {
+   "id": "2117696219820806569",
+   "url": "https://x.com/NateWitkin/status/2117696219820806569",
+   "text": "This work is simple, clear, compelling, but embellished. I first found it shocking, the notion that a model can natively understand neural network weights and productively edit them! That's really not what's happening, & many here are annoyed. BUT, it's still notable & worth understanding.\n\nI've done a bit of analysis & auditing, here are some thoughts:\n\n1/ This paper does *not* show an agent can edit its weights ala RSI. It does *not* show a model can edit in new capabilities. It DOES show that a frontier model can remove \"bugs\" (reasoning loops), using the same ablation technique researchers have used to remove safety refusals (Exp 8 - Qwen). So yes, renewed concern about frontier LLMs getting access to their own weights & editing safety/CBRNE/alignment features.\n\n2/ This paper also does *not* show that an agent can \"natively\" read, deeply understand, and fix model weights. What is happening is that the model can cleverly deduce the same things that mech-inturp researchers do and fix them in mostly ham-fisted ways. Still cool, but not as groundbreaking. Evidence in thread below...",
+   "created_at": "Tue Nov 03 19:11:38 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "SolomonMg",
+   "rt_author_name": "Sol Messing",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1358168149301071872/WItgEeQK_normal.jpg",
+   "rt_id": "2117650796342894884",
+   "likes": 82,
+   "retweets": 12,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-03T21:00:07.693918+00:00"
   }
  }
 }

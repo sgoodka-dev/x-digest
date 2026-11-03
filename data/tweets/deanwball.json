@@ -9213,6 +9213,33 @@
     "text": "the way I'm thinking about this - there's a whole body of work of interpretably research from 2010s a la \"look at model, this neuron lights up when image contains dog, so this is the dog neuron\". this seems akin to that, but scaled beyond human capability"
    },
    "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+  },
+  "2117697164952441069": {
+   "id": "2117697164952441069",
+   "url": "https://x.com/deanwball/status/2117697164952441069",
+   "text": "ChatGPT and Codex are helping engineers build for the physical world.\n\nWe’re sharing our progress across mechanical design, electrical engineering, and simulation—from helping our hardware teams iterate faster to testing new workflows with industry collaborators. https://t.co/b3rW9zYJGA",
+   "created_at": "Tue Nov 03 19:15:23 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "OpenAI",
+   "rt_author_name": "OpenAI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+   "rt_id": "2117692475775258785",
+   "likes": 2808,
+   "retweets": 200,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HWOOL0QWwAA5B61.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-03T21:00:07.693918+00:00"
   }
  }
 }

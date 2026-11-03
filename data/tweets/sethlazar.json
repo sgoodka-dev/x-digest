@@ -6560,6 +6560,28 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+  },
+  "2117715014337335509": {
+   "id": "2117715014337335509",
+   "url": "https://x.com/sethlazar/status/2117715014337335509",
+   "text": "I'm recruiting a PhD student this year! The lab focuses on how people and LLMs differ and how they interact, as well as the impacts LLMs are having on our cognition and society. Please share with anyone interested and see our website for more: https://t.co/zrDsMApW72",
+   "created_at": "Tue Nov 03 20:26:19 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "camrobjones",
+   "rt_author_name": "Cameron Jones",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1978888421452963840/Qbkz5Zuu_normal.jpg",
+   "rt_id": "2117614523100139684",
+   "likes": 41,
+   "retweets": 11,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-03T21:00:07.693918+00:00"
   }
  }
 }
