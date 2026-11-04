@@ -2529,6 +2529,28 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-03T21:00:07.693918+00:00"
+  },
+  "2117728426320855411": {
+   "id": "2117728426320855411",
+   "url": "https://x.com/slatestarcodex/status/2117728426320855411",
+   "text": "@_left_tail_chud @jachiam0 \"Brain Lock\" is a good self-therapy book.",
+   "created_at": "Tue Nov 03 21:19:36 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "_left_tail_chud",
+   "reply_to_id": "2117721976500560287",
+   "avatar": "https://pbs.twimg.com/profile_images/378800000009065862/83d72de47e2a2470c482bc75406b42a7_normal.png",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
   }
  }
 }

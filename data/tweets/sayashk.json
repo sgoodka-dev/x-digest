@@ -2627,6 +2627,36 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+  },
+  "2117760736466252258": {
+   "id": "2117760736466252258",
+   "url": "https://x.com/sayashk/status/2117760736466252258",
+   "text": "Update: Can AI agents use Pangram to beat Pangram? In small tests, I found simple prompts to the Codex allowed it to beat Pangram. The final output was 100% human generated. Prompts that helped:\n\n- Have the agent develop a style guide based on past writing\n- Have it develop an \"anti-style guide\" based on AI writing tics that people have complained about \n- Instruct it to get to a seed sentence that Pangram doesn’t flag (or at least flags as AI-assisted rather than fully AI-generated). Then the agent knows what strategies work and can iterate from there",
+   "created_at": "Tue Nov 03 23:28:00 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1521238232867946496/U_GCI43e_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 195,
+   "retweets": 23,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWPHhLZX0AERJcF.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "random_walker",
+    "text": "I tried exactly this back in February using Claude Code. It worked pretty easily, though ~all of the important ideas had to come from me and CC itself couldn't figure them out.*\n\nI tried it again a week ago. Complete failure, despite Claude being much better and not needing as much guidance from me. Pangram seems to have been dramatically hardened in the last few months. The API kept returning scores > 0.99 for AI writing so there wasn't even a gradient for it to figure out what's working and what isn't.\n\n* Things it couldn't figure out on its own a few months ago, even after a bunch of iterations:\n1) Remove well-known tells like em-dashes (!)\n2) Do controlled experiments instead of stuffing a bunch of ideas at once\n3) Start from known-best text and surgically make edits. Much better than trying to rewrite the whole essay (or even paragraphs or sentences) because the that just produces text from the LLM distribution all over again.\n\nIn my more recent experiment, 1) and 2) were obvious to Fable but 3) still wasn't. Pretty surprising.\n\nAnyway, hats off to @pangram. I'll probably give it another shot at some point but I'm more-or-less ready to change my mind as an AI-detection skeptic.\n\nThis was the LLM summary from my first experiment BTW. Still gives me a chuckle."
+   },
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
   }
  }
 }

@@ -2134,6 +2134,28 @@
     "text": "Gordon Moore based his prediction on 5 data points. https://t.co/KE6ef7LAFx"
    },
    "fetched_at": "2026-11-03T21:00:07.693918+00:00"
+  },
+  "2117767075959845120": {
+   "id": "2117767075959845120",
+   "url": "https://x.com/ohlennart/status/2117767075959845120",
+   "text": "I am very proud of this work. FlashProve is a research prototype, but it shows that proving which model produced a response can be practical.\n\nIn the blog, the first usecase we discuss is AI pacing: such proofs get us part of the way to checking that hardware serves inference, and is not being used for training.\n\nThis is just a starting point, and I'm very excited for others to take on the mantle and outdo us.\nhttps://t.co/0pn81QXTKK",
+   "created_at": "Tue Nov 03 23:53:11 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1421449447482044420/_HX1YpJC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "RoyRinberg",
+   "rt_author_name": "Roy Rinberg",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1308096087136169984/GqR87k_N_normal.jpg",
+   "rt_id": "2117745963381264581",
+   "likes": 142,
+   "retweets": 20,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
   }
  }
 }

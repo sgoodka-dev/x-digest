@@ -2623,6 +2623,77 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-03T21:00:07.693918+00:00"
+  },
+  "2117822260639883491": {
+   "id": "2117822260639883491",
+   "url": "https://x.com/NateWitkin/status/2117822260639883491",
+   "text": "Democratic sacrificial lambs in Trump +69 districts getting the call at 2 am on Wednesday that they’re going to be county groundwater commissioner. https://t.co/WuAnsuEEmJ",
+   "created_at": "Wed Nov 04 03:32:28 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "DandyGeorgism",
+   "rt_author_name": "dandelion georgism 🔰🏗",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1911826353155981312/4HPYZZLv_normal.jpg",
+   "rt_id": "2117343290437837046",
+   "likes": 36884,
+   "retweets": 2308,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWJQf96XcAA3SKg.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+  },
+  "2117816126130544722": {
+   "id": "2117816126130544722",
+   "url": "https://x.com/NateWitkin/status/2117816126130544722",
+   "text": "Not really clear what the Republican Party is at this point.",
+   "created_at": "Wed Nov 04 03:08:06 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "conorsen",
+   "rt_author_name": "Conor Sen",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/493422860371652608/wPvZqBSH_normal.jpeg",
+   "rt_id": "2117796722457927681",
+   "likes": 1166,
+   "retweets": 47,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+  },
+  "2117804592868335872": {
+   "id": "2117804592868335872",
+   "url": "https://x.com/NateWitkin/status/2117804592868335872",
+   "text": "Anthropic's updated S1 reports Q3 revenue growth at 46.7%.\n\nRamp estimate based on business spend: 53.3%\n\nQ4-to-date business spend is trending 15-25%.",
+   "created_at": "Wed Nov 04 02:22:16 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "arakharazian",
+   "rt_author_name": "Ara Kharazian",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2073773754774163457/0VnHuKre_normal.jpg",
+   "rt_id": "2117285829756485932",
+   "likes": 210,
+   "retweets": 21,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
   }
  }
 }
