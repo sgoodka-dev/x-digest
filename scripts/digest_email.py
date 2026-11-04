@@ -140,40 +140,58 @@ def card(t):
     return (
         f"<div class=t>{top}<table role=presentation cellpadding=0 cellspacing=0 width='100%'><tr>"
         f"<td class=al valign=top>{av}</td><td valign=top>"
-        f"<div class=hd><b>{esc(name)}</b> <span class=g>@{esc(handle)} · {when}</span></div>"
+        f"<div class=hd><b class=nm>{esc(name)}</b> <span class=g>@{esc(handle)} · {when}</span></div>"
         f"{reply}<div class=tx>{body_text(text)}</div>{media}{q}"
-        f"<div class=ft><span class=lk>&#9829; {num(t.get('likes'))}</span>"
-        f"<span class=rt>&#8635; {num(t.get('retweets'))}</span>"
-        f"<a class=op href='{esc(t.get('url'))}'>Open on X &#8599;</a></div>"
+        f"<table role=presentation cellpadding=0 cellspacing=0 width='100%' class=ft><tr>"
+        f"<td><span class=lk>&#9829; {num(t.get('likes'))}</span>"
+        f"<span class=rt>&#8635; {num(t.get('retweets'))}</span></td>"
+        f"<td align=right><a class=op href='{esc(t.get('url'))}'>Open on X &#8599;</a></td>"
+        f"</tr></table>"
         f"</td></tr></table></div>"
     )
 
 
-CSS = (
-    "body{margin:0;background:#f7f9f9}"
-    ".d{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;"
-    "max-width:600px;margin:0 auto;padding:16px 12px;color:#0f1419}"
-    ".d a{color:#1d9bf0;text-decoration:none}"
-    ".sec{margin:26px 0 10px;font-size:13px;color:#536471}"
-    ".sec b{font-size:16px;color:#0f1419}"
-    ".t{background:#fff;border:1px solid #e1e8ed;border-radius:16px;padding:12px 16px;margin:0 0 10px}"
-    ".lab{font-size:13px;color:#536471;font-weight:600;margin:0 0 6px 52px}"
-    ".al{width:52px}"
-    ".av{width:40px;height:40px;border-radius:50%;display:block;color:#fff;font-weight:700;"
-    "font-size:18px;line-height:40px;text-align:center}"
-    ".hd{font-size:15px;line-height:20px}"
-    ".g{color:#536471;font-weight:400}"
-    ".rep{font-size:14px;color:#536471;margin-top:2px}"
-    ".bl{color:#1d9bf0}"
-    ".tx{font-size:15px;line-height:21px;margin-top:4px;word-wrap:break-word}"
-    ".med{display:block;width:100%;max-width:520px;border-radius:14px;border:1px solid #e1e8ed;margin-top:10px}"
-    ".mc{font-size:12px;color:#536471;margin-top:4px}"
-    ".q{border:1px solid #cfd9de;border-radius:14px;padding:10px 12px;margin-top:10px;font-size:14px;line-height:19px}"
-    ".ft{margin-top:10px;font-size:13px;color:#536471}"
-    ".lk{color:#f91880;margin-right:18px}"
-    ".rt{color:#00ba7c;margin-right:18px}"
-    ".op{float:right;font-size:13px}"
-)
+FONT = "-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+LINK = "color:#1d9bf0;text-decoration:none"
+
+# Mail apps (Yahoo, Gmail) strip <style> blocks, so every style is inlined.
+STYLES = {
+    "d": f"font-family:{FONT};max-width:600px;margin:0 auto;padding:16px 12px;color:#0f1419",
+    "sec": "margin:26px 0 10px;font-size:13px;color:#536471",
+    "secb": "font-size:16px;color:#0f1419",
+    "t": "background:#ffffff;border:1px solid #e1e8ed;border-radius:16px;"
+         "padding:12px 16px;margin:0 0 10px",
+    "lab": "font-size:13px;color:#536471;font-weight:600;margin:0 0 6px 52px",
+    "al": "width:52px",
+    "av": "width:40px;height:40px;border-radius:50%;display:block;color:#ffffff;"
+          "font-weight:700;font-size:18px;line-height:40px;text-align:center",
+    "hd": "font-size:15px;line-height:20px",
+    "nm": "color:#0f1419",
+    "g": "color:#536471;font-weight:400",
+    "rep": "font-size:14px;color:#536471;margin-top:2px",
+    "bl": "color:#1d9bf0",
+    "tx": "font-size:15px;line-height:21px;margin-top:4px;word-wrap:break-word;color:#0f1419",
+    "med": "display:block;width:100%;max-width:520px;height:auto;border-radius:14px;"
+           "border:1px solid #e1e8ed;margin-top:10px",
+    "mc": "font-size:12px;color:#536471;margin-top:4px",
+    "q": "border:1px solid #cfd9de;border-radius:14px;padding:10px 12px;margin-top:10px;"
+         "font-size:14px;line-height:19px;color:#0f1419",
+    "ft": "margin-top:10px;font-size:13px;color:#536471",
+    "lk": "color:#f91880;margin-right:18px",
+    "rt": "color:#00ba7c;margin-right:18px",
+    "op": LINK + ";font-size:13px",
+}
+
+
+def inline(body):
+    def sub(m):
+        css = STYLES.get(m.group(1), "")
+        if m.group(2):
+            css = css + ";" + m.group(2)
+        return f"style=\"{css}\""
+    body = re.sub(r"class=(\w+)(?: style='([^']*)')?", sub, body)
+    # any link without its own style gets X blue (stops purple visited links)
+    return re.sub(r"<a href=", f"<a style=\"{LINK}\" href=", body)
 
 
 def main():
@@ -239,7 +257,7 @@ def main():
         nm = esc(ts[0].get("author_name") or hdl)
         extra = f" · {len(chosen)} of {len(ts)}" if hidden else ""
         sections.append(
-            f"<div class=sec><b>{nm}</b> <a href='https://x.com/{esc(hdl)}'>@{esc(hdl)}</a>{extra}</div>"
+            f"<div class=sec><b class=secb>{nm}</b> <a href='https://x.com/{esc(hdl)}'>@{esc(hdl)}</a>{extra}</div>"
             + "".join(card(t) for t in chosen))
 
     warn = ""
@@ -259,14 +277,18 @@ def main():
     acc = "account" if na == 1 else "accounts"
     trimmed = f" · {hidden_total} lower-liked hidden" if hidden_total else ""
     body = (
-        f"<style>{CSS}</style><div class=d>"
+        "<table role=presentation width='100%' cellpadding=0 cellspacing=0 "
+        "bgcolor='#f7f9f9' style='background:#f7f9f9'><tr><td>"
+        f"<div class=d>"
         f"<div style='font-size:22px;font-weight:800'>Your X digest</div>"
         f"<div style='font-size:13px;color:#536471;margin-top:2px'>{ds} &#183; "
         f"{shown_total} {tws} from {na} {acc} since {since} evening{trimmed}</div>"
         + warn + "".join(sections)
         + "<div style='color:#8b98a5;font-size:11px;margin-top:28px;text-align:center'>"
         "Top posts by likes from your chosen accounts. No algorithm, no scroll.</div></div>"
+        "</td></tr></table>"
     )
+    body = inline(body)
     body = re.sub(r"\s+", " ", body).strip()
     open(f"{out}/body.html", "w", encoding="utf-8").write(body)
     open(f"{out}/subj.txt", "w", encoding="utf-8").write(

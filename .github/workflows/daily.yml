@@ -5,6 +5,7 @@ name: Daily digest
 # two runs; anything collected late is simply picked up by the next email.
 on:
   schedule:
+    - cron: '17 6 * * *'    # 06:17 UTC: early run, GitHub often fires hours late
     - cron: '17 11 * * *'   # 11:17 UTC = 12:17 BST / 11:17 GMT
     - cron: '17 15 * * *'   # 15:17 UTC = 16:17 BST / 15:17 GMT
   workflow_dispatch: {}
