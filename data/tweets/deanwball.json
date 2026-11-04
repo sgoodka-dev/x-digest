@@ -9372,6 +9372,28 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+  },
+  "2118061335913349546": {
+   "id": "2118061335913349546",
+   "url": "https://x.com/deanwball/status/2118061335913349546",
+   "text": "@zdch woah! congrats",
+   "created_at": "Wed Nov 04 19:22:28 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "zdch",
+   "reply_to_id": "2118039732412424359",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 10,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-04T21:20:35.164155+00:00"
   }
  }
 }

@@ -6678,6 +6678,33 @@
     "text": "I replicated this with Claude Code!\n\nIt took a live webcam 7 km south of Southampton, UK and predicted its location purely from doppler effect in audio spectrogram + open-source aircraft location data.\n\nLo and behold, the predicted location (heatmap) peaks at actual location where webcam is situated.\n\nIt's crazy that this works at all, and crazier still I replicated it within a few hours."
    },
    "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+  },
+  "2118070941263819148": {
+   "id": "2118070941263819148",
+   "url": "https://x.com/sethlazar/status/2118070941263819148",
+   "text": "New CS+Philosophy paper! 📰\n\nAre language models rational?\n\nThis is a key question for *theory of interpretability*. It would be convenient to use the equation “behavior=beliefs+desires” when explaining LLMs, but can we treat LLMs as rational things? Do coherence norms apply?\n🧵 https://t.co/MZJh8AKsye",
+   "created_at": "Wed Nov 04 20:00:38 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "peterbhase",
+   "rt_author_name": "Peter Hase",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1977473608587894784/1354aIPo_normal.jpg",
+   "rt_id": "1798741915388846331",
+   "likes": 269,
+   "retweets": 67,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GPZpd_-aQAAN3fn.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-04T21:20:35.164155+00:00"
   }
  }
 }

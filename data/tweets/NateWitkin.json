@@ -2694,6 +2694,33 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+  },
+  "2118080104328781956": {
+   "id": "2118080104328781956",
+   "url": "https://x.com/NateWitkin/status/2118080104328781956",
+   "text": "‘“That’s complete BS,” said Jeff Leiden, executive chairman of Vertex Pharmaceuticals. Vertex has used roughly 50 AI companies to comb through its data set of 10,000 drug compounds, Leiden said. Not one managed to generate a working drug.’  👇🏼\n\nhttps://t.co/BSFproPUI4 https://t.co/RbZYeBiHro",
+   "created_at": "Wed Nov 04 20:37:03 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "MauiBoyMacro",
+   "rt_author_name": "Kalani o Māui",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1829004141387280384/a6SH9AJ__normal.jpg",
+   "rt_id": "2118028770535973150",
+   "likes": 33,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWS_8TzbIAAq-hx.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-04T21:20:35.164155+00:00"
   }
  }
 }

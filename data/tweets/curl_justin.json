@@ -2097,6 +2097,31 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+  },
+  "2118058071721427034": {
+   "id": "2118058071721427034",
+   "url": "https://x.com/curl_justin/status/2118058071721427034",
+   "text": "Encode does such awesome work — they’ve played a key role in the most influential state AI safety legislation around the country. \n\nGo join @SnehaRevanur and @_NathanCalvin!",
+   "created_at": "Wed Nov 04 19:09:30 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2072421779977699328/n3YQnb67_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 27,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "brianmcgrail",
+    "text": "Encode AI is hiring a Policy Counsel/Associate Policy Counsel to work with me on our Policy Development team. \n\nYou’ll help us develop our policy proposals and draft and review bills. Law degree required. Full time in DC. Salary $130,000 to $235,000.\n\nI’m biased, but I think this is an unusually high-impact job for a lawyer who wants to reduce risks from advanced AI. Familiarity with AI policy is a plus but not required. \n\nApply by Sunday, November 22, for the first round; rolling review after that. If you know a lawyer who’d be a good fit, please send it their way or repost.\n\nhttps://t.co/ZL0t66LFmP"
+   },
+   "fetched_at": "2026-11-04T21:20:35.164155+00:00"
   }
  }
 }

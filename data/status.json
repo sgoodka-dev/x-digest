@@ -1,6 +1,6 @@
 {
  "last_run": {
-  "started": "2026-11-04T18:39:15.281815+00:00",
+  "started": "2026-11-04T21:20:35.164155+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
@@ -24,18 +24,18 @@
    },
    "curl_justin": {
     "ok": true,
-    "new": 4,
-    "total": 115
+    "new": 1,
+    "total": 116
    },
    "DaveRBanerjee": {
     "ok": true,
-    "new": 8,
+    "new": 0,
     "total": 173
    },
    "DKokotajlo": {
     "ok": true,
-    "new": 4,
-    "total": 216
+    "new": 1,
+    "total": 217
    },
    "dwarkesh_sp": {
     "ok": true,
@@ -49,12 +49,12 @@
    },
    "Lewis_Bollard": {
     "ok": true,
-    "new": 3,
+    "new": 0,
     "total": 96
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 3,
+    "new": 0,
     "total": 144
    },
    "ohlennart": {
@@ -64,7 +64,7 @@
    },
    "sayashk": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 137
    },
    "testingham": {
@@ -74,33 +74,33 @@
    },
    "slatestarcodex": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 148
    },
    "s8mb": {
     "ok": true,
-    "new": 27,
-    "total": 502
+    "new": 3,
+    "total": 505
    },
    "random_walker": {
     "ok": true,
-    "new": 3,
+    "new": 0,
     "total": 159
    },
    "sethlazar": {
     "ok": true,
-    "new": 4,
-    "total": 341
+    "new": 1,
+    "total": 342
    },
    "robertwiblin": {
     "ok": true,
-    "new": 22,
+    "new": 0,
     "total": 303
    },
    "deanwball": {
     "ok": true,
-    "new": 6,
-    "total": 488
+    "new": 1,
+    "total": 489
    },
    "nabeelqu": {
     "ok": true,
@@ -109,8 +109,8 @@
    },
    "theobearman": {
     "ok": true,
-    "new": 4,
-    "total": 270
+    "new": 1,
+    "total": 271
    },
    "peterwilderford": {
     "ok": true,
@@ -124,11 +124,11 @@
    },
    "NateWitkin": {
     "ok": true,
-    "new": 3,
-    "total": 109
+    "new": 1,
+    "total": 110
    }
   },
-  "new_tweets": 94,
-  "finished": "2026-11-04T18:41:45.969034+00:00"
+  "new_tweets": 9,
+  "finished": "2026-11-04T21:21:23.647811+00:00"
  }
 }
