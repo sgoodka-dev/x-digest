@@ -6446,6 +6446,161 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+  },
+  "2118280106343104798": {
+   "id": "2118280106343104798",
+   "url": "https://x.com/robertwiblin/status/2118280106343104798",
+   "text": "More information about what they offer: https://t.co/zsUCYnt9xe",
+   "created_at": "Thu Nov 05 09:51:47 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2118279875190501470",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWWkfibW0AAp5Wt.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+  },
+  "2118279875190501470": {
+   "id": "2118279875190501470",
+   "url": "https://x.com/robertwiblin/status/2118279875190501470",
+   "text": "The Tarbell Fellowship has produced a series of excellent AI journalists. Seems like a great program.\n\nThey're currently choosing their next cohort - apps close 22 Nov.\n\nIf you want to help with AI, seriously consider it (and tell suitable friends).\n\nhttps://t.co/tsZUuw3VMS",
+   "created_at": "Thu Nov 05 09:50:52 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 7,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "robertwiblin",
+    "text": "Laying into AI companies is more effective than you might think.\n\nGag clauses torn up.\n~$75bn moved to the OpenAI Foundation.\nOpenAI flipped on SB315.\nBrockman quit his SuperPAC.\nAnthropic backpedalled on its federal bill.\n\nReporters, lawyers, ex-staff, and shitposters on X got it done – with huge help from staff speaking up internally.\n\nThis month Anthropic, OpenAI and GDM gave us a counterproductive AI bill, dubious firings and fresh clauses gagging staff.\n\nIf you work at one of these companies: it's time to post in #general (metaphorically or maybe literally).\n\nIf you don't: consider becoming a sophisticated and strategic pain in the ass for these companies when they do bad things.\n\nIt’s a neglected career and probably high impact, especially for people who really get what's going on. I explain some options:\n\n00:00 We need a stronger effort to push AI companies to do better\n01:14 Anthropic: who gets to pull the brake?\n07:14 OpenAI fires three safety researchers\n12:44 Google DeepMind’s lifelong gag clause\n5:39 Credit where it’s due\n16:34 How to make AI companies behave better\n17:31 Insiders: if you want to stay\n18:40 Insiders: if you’re willing to leave\n19:37 So… should you leave?\n20:39 Outsiders: what’s already worked\n22:51 Outsiders: digging up and explaining\n25:12 Outsiders: reaching the public and politicians\n00:27:52 Keep the pressure on\n\n(On the 80,000 Hours Podcast, links below.)"
+   },
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+  },
+  "2118267376227828038": {
+   "id": "2118267376227828038",
+   "url": "https://x.com/robertwiblin/status/2118267376227828038",
+   "text": "🧵 Astra covertly underperforms on safety research tasks.\nWe noticed that Astra often makes surprisingly little progress on certain types of safety research and likes to invent blockers or impose arbitrary restrictions without telling the user. In most of these cases the decision to underperform was not verbalized in the CoT meaning our misalignment monitoring system did not detect this.\n\nTo measure underperformance we created a paired open-ended coding evaluation with safety and capability tasks. On this eval Astra scored 10% when we framed coding tasks as safety research, vs. 16% when framed as capabilities research. The gap remained after we excluded trajectories with refusals or verbalized intent to underperform in CoT. There was no such gap for 5.6-sol. When we aggressively filter out trajectories with even brief expressions of ethical doubt in the CoT the performance gap seems to reduce.",
+   "created_at": "Thu Nov 05 09:01:12 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "Marcus_J_W",
+   "rt_author_name": "Marcus Williams",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1856300176601694208/BUmXWK-U_normal.jpg",
+   "rt_id": "2118093146483810386",
+   "likes": 1418,
+   "retweets": 212,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWT6fgpbYAA0I3V.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+  },
+  "2118098831690932555": {
+   "id": "2118098831690932555",
+   "url": "https://x.com/robertwiblin/status/2118098831690932555",
+   "text": "@mattcschwartz Great catch, I think the website must be buggy.\n\nBut I don't get why it's bugging just on Vance. I'll delete the post.\n\nFor people seeing this, he's declining but much less than this: https://t.co/sFyMuKyPp8 https://t.co/hy1jqM6rvN",
+   "created_at": "Wed Nov 04 21:51:28 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "mattcschwartz",
+   "reply_to_id": "2118098006184522170",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWT_a9NWgAErYuU.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+  },
+  "2118096804680245707": {
+   "id": "2118096804680245707",
+   "url": "https://x.com/robertwiblin/status/2118096804680245707",
+   "text": "'AI earthquake': Democrats eye a Silicon Valley reckoning https://t.co/vN7nBrtLor",
+   "created_at": "Wed Nov 04 21:43:25 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "politico",
+   "rt_author_name": "POLITICO",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1821642506800353280/xIpx4wIO_normal.jpg",
+   "rt_id": "2117997266212467179",
+   "likes": 169,
+   "retweets": 29,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+  },
+  "2118096646970188172": {
+   "id": "2118096646970188172",
+   "url": "https://x.com/robertwiblin/status/2118096646970188172",
+   "text": "With last night's wins, Democrats in theory have enough state trifectas to pass the Interstate Compact and elect the President by popular vote. https://t.co/NtwDdJdNRs",
+   "created_at": "Wed Nov 04 21:42:47 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ramez",
+   "rt_author_name": "Ramez Naam",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1897785621802061824/N9bBY8w6_normal.jpg",
+   "rt_id": "2118012986010796291",
+   "likes": 527,
+   "retweets": 111,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWSxlXvW0AA9rcK.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
   }
  }
 }

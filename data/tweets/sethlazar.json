@@ -6705,6 +6705,28 @@
    ],
    "quoted": null,
    "fetched_at": "2026-11-04T21:20:35.164155+00:00"
+  },
+  "2118132147680637037": {
+   "id": "2118132147680637037",
+   "url": "https://x.com/sethlazar/status/2118132147680637037",
+   "text": "Understood. I'll follow these workplace instructions.",
+   "created_at": "Thu Nov 05 00:03:51 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
   }
  }
 }

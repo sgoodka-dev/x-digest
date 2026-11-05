@@ -2735,6 +2735,87 @@
    ],
    "quoted": null,
    "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+  },
+  "2118116214115610997": {
+   "id": "2118116214115610997",
+   "url": "https://x.com/dwarkesh_sp/status/2118116214115610997",
+   "text": "When you send ChatGPT a message, your request doesn't get processed individually, it gets processed alongside thousands of other requests sent by other people.\n\n@reinerpope compares this process to passengers at a train station:\n\n“Any passengers who are ready board the train. If the train is full, then they wait till the next train. If the train is not full, the train's going to go anyway. In terms of what that means for queuing latency, it means that the worst case is that a request arrives just after the train departed. It has to wait for the next train, so that's up to 20 milliseconds, and then it has to wait for that train to complete. The worst-case latency is 40 milliseconds.”",
+   "created_at": "Wed Nov 04 23:00:32 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1915048486505971712/H2jFRoW6_normal.jpg",
+   "rt_id": "2117753697950437877",
+   "likes": 103,
+   "retweets": 9,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2117638427969503232/img/RaxPBcWDJEXlJpsZ.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+  },
+  "2118116186936524934": {
+   "id": "2118116186936524934",
+   "url": "https://x.com/dwarkesh_sp/status/2118116186936524934",
+   "text": "When Uranus's orbit didn't match the models of Newtonian physics, astronomers assumed there must be another planet nearby throwing off the orbit.\n\nThey soon discovered Neptune.\n\nWhen Mercury's orbit didn't match the models of Newtonian physics, astronomers assumed there must be another planet nearby throwing off the orbit.\n\nThey were wrong. They needed Einstein’s theory of relativity to rewrite their basic physics assumptions.\n\n@michael_nielsen  explains why scientists often can’t tell whether an anomaly requires a minor correction or a scientific revolution.",
+   "created_at": "Wed Nov 04 23:00:26 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1915048486505971712/H2jFRoW6_normal.jpg",
+   "rt_id": "2118116089242808776",
+   "likes": 56,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2117984029878132736/img/x4uWJ5AtyIyabbYF.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+  },
+  "2118116177851580839": {
+   "id": "2118116177851580839",
+   "url": "https://x.com/dwarkesh_sp/status/2118116177851580839",
+   "text": "Why can't we have arbitrarily large GPU scale-ups? \n\n@reinerpope explains it's partially a matter of wire density: https://t.co/hGGrb46yNC",
+   "created_at": "Wed Nov 04 23:00:24 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1915048486505971712/H2jFRoW6_normal.jpg",
+   "rt_id": "2118025489285795925",
+   "likes": 114,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2117983257463574528/img/NuFVmfyjokZ9WWgV.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
   }
  }
 }

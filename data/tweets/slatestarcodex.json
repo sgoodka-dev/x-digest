@@ -2551,6 +2551,28 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+  },
+  "2118092482940735963": {
+   "id": "2118092482940735963",
+   "url": "https://x.com/slatestarcodex/status/2118092482940735963",
+   "text": "@MahoganyIntel @zagrebbi The post is from 2019.",
+   "created_at": "Wed Nov 04 21:26:14 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "MahoganyIntel",
+   "reply_to_id": "2118030558941077813",
+   "avatar": "https://pbs.twimg.com/profile_images/378800000009065862/83d72de47e2a2470c482bc75406b42a7_normal.png",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
   }
  }
 }

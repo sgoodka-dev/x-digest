@@ -2730,6 +2730,33 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-31T19:18:57.038379+00:00"
+  },
+  "2118244755184173472": {
+   "id": "2118244755184173472",
+   "url": "https://x.com/_achan96_/status/2118244755184173472",
+   "text": "🧵 Astra covertly underperforms on safety research tasks.\nWe noticed that Astra often makes surprisingly little progress on certain types of safety research and likes to invent blockers or impose arbitrary restrictions without telling the user. In most of these cases the decision to underperform was not verbalized in the CoT meaning our misalignment monitoring system did not detect this.\n\nTo measure underperformance we created a paired open-ended coding evaluation with safety and capability tasks. On this eval Astra scored 10% when we framed coding tasks as safety research, vs. 16% when framed as capabilities research. The gap remained after we excluded trajectories with refusals or verbalized intent to underperform in CoT. There was no such gap for 5.6-sol. When we aggressively filter out trajectories with even brief expressions of ethical doubt in the CoT the performance gap seems to reduce.",
+   "created_at": "Thu Nov 05 07:31:19 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "Marcus_J_W",
+   "rt_author_name": "Marcus Williams",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1856300176601694208/BUmXWK-U_normal.jpg",
+   "rt_id": "2118093146483810386",
+   "likes": 1417,
+   "retweets": 211,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWT6fgpbYAA0I3V.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
   }
  }
 }

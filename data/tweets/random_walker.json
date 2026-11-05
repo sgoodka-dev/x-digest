@@ -3110,6 +3110,31 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+  },
+  "2118328569369694471": {
+   "id": "2118328569369694471",
+   "url": "https://x.com/random_walker/status/2118328569369694471",
+   "text": "Most days I can just about manage this balancing act, but only because thinking about how we should adapt to AI is my actual job. Otherwise I think I’d find it too hard. I suspect that’s one reason people sort themselves into camps or tribes. It’s psychologically easier than constantly revisiting one’s beliefs.\n\nBeing able to empathize with and collaborate with people who have different AI boundaries and attitudes than our own is becoming an important skill.",
+   "created_at": "Thu Nov 05 13:04:22 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1650881612756942850/bZYjMyFU_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 35,
+   "retweets": 4,
+   "media": [],
+   "quoted": {
+    "author": "random_walker",
+    "text": "Working with AI requires perpetually operating at the edge of sanity. You have to recalibrate your mental model of AI capabilities and your own job description every few months, without getting delusional about seemingly infinite productivity gains, or feeling threatened by losing what you thought was the uniquely human part of your job, or obsessing over the perfect setup, or losing your mind over the clumsiness and jaggedness of agents, or ...\n\nMaybe AI literacy needs to be less about prompting and more about improving emotional regulation."
+   },
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
   }
  }
 }
