@@ -10395,6 +10395,84 @@
    ],
    "quoted": null,
    "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+  },
+  "2118455261459558691": {
+   "id": "2118455261459558691",
+   "url": "https://x.com/s8mb/status/2118455261459558691",
+   "text": "Please allow Henry to be boring",
+   "created_at": "Thu Nov 05 21:27:47 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "hcndashwood",
+    "text": "Do you ever look at Rotherhithe and Canary Wharf and think that's not a very dense area, considering all the high-paying jobs just across the river?\n\nIf so, may I interest YOU in a PROPOSAL? https://t.co/s7RefhBdry"
+   },
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+  },
+  "2118453190786220292": {
+   "id": "2118453190786220292",
+   "url": "https://x.com/s8mb/status/2118453190786220292",
+   "text": "@WorksInProgMag on the west coast! https://t.co/l8XyTAnzXQ",
+   "created_at": "Thu Nov 05 21:19:34 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "mgscotttt",
+   "rt_author_name": "mg scott",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2028599332820365312/O6RT82b3_normal.jpg",
+   "rt_id": "2118406484170326376",
+   "likes": 32,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWYXd_kb0AABvXy.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWYXd_ZawAAAvgd.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+  },
+  "2118440171695993237": {
+   "id": "2118440171695993237",
+   "url": "https://x.com/s8mb/status/2118440171695993237",
+   "text": "@davidrconway @Birdyword @bswud That’ll be for our next milestone.",
+   "created_at": "Thu Nov 05 20:27:50 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "davidrconway",
+   "reply_to_id": "2118434879025152406",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
   }
  }
 }

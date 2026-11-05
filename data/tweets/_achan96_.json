@@ -2757,6 +2757,28 @@
    ],
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+  },
+  "2118440222413443226": {
+   "id": "2118440222413443226",
+   "url": "https://x.com/_achan96_/status/2118440222413443226",
+   "text": "Since August, a team within METR has worked with internal Anthropic information to assess whether AI itself is accelerating AI development.\n\nWe are now publishing a report summarizing the results of this risk assessment.",
+   "created_at": "Thu Nov 05 20:28:02 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "METR_Evals",
+   "rt_author_name": "METR",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2021827383431757824/AeVvT0rU_normal.jpg",
+   "rt_id": "2118412183860351084",
+   "likes": 1648,
+   "retweets": 188,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
   }
  }
 }

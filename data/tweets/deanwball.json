@@ -9858,6 +9858,58 @@
    ],
    "quoted": null,
    "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+  },
+  "2118439860575027511": {
+   "id": "2118439860575027511",
+   "url": "https://x.com/deanwball/status/2118439860575027511",
+   "text": "Voters delivered an overwhelming message on data centers this week, and it is incumbent upon industry actors to hear that message and respond to it by building AI infrastructure in ways that benefit both individual communities and the country as a whole.",
+   "created_at": "Thu Nov 05 20:26:36 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 108,
+   "retweets": 5,
+   "media": [],
+   "quoted": {
+    "author": "OpenAINewsroom",
+    "text": "The communities that host AI infrastructure should have a say in how it’s built and share in the benefits.\n\nToday we’re announcing new commitments to the communities where we build, along with policy proposals for responsible AI infrastructure.\n\nhttps://t.co/rSGc0iIj6i"
+   },
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+  },
+  "2118420194292887605": {
+   "id": "2118420194292887605",
+   "url": "https://x.com/deanwball/status/2118420194292887605",
+   "text": "We cut through the mystery around interpretability in training.\n\nA single, mathematically rigorous framework transforms model internals into training feedback and works across domains, problems, and modalities.\n\nWe call this *mechanistic shaping*, and we’ve used it to mitigate reward hacking, remove shortcuts in chest x-rays, and reduce sycophancy and harmfulness. We believe this is a big step forward for technical alignment.\n\nBut it carries a known risk: training against a model’s internals can make it harder to monitor. We explore both the technique and this concern below. 🧵",
+   "created_at": "Thu Nov 05 19:08:27 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "GoodfireAI",
+   "rt_author_name": "Goodfire",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1892027414768910341/4VDlUa3M_normal.png",
+   "rt_id": "2118393112737591387",
+   "likes": 806,
+   "retweets": 99,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2118393092026028032/img/BrLWZKd1kn32gHQT.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
   }
  }
 }

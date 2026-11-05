@@ -2657,6 +2657,55 @@
     "text": "I tried exactly this back in February using Claude Code. It worked pretty easily, though ~all of the important ideas had to come from me and CC itself couldn't figure them out.*\n\nI tried it again a week ago. Complete failure, despite Claude being much better and not needing as much guidance from me. Pangram seems to have been dramatically hardened in the last few months. The API kept returning scores > 0.99 for AI writing so there wasn't even a gradient for it to figure out what's working and what isn't.\n\n* Things it couldn't figure out on its own a few months ago, even after a bunch of iterations:\n1) Remove well-known tells like em-dashes (!)\n2) Do controlled experiments instead of stuffing a bunch of ideas at once\n3) Start from known-best text and surgically make edits. Much better than trying to rewrite the whole essay (or even paragraphs or sentences) because the that just produces text from the LLM distribution all over again.\n\nIn my more recent experiment, 1) and 2) were obvious to Fable but 3) still wasn't. Pretty surprising.\n\nAnyway, hats off to @pangram. I'll probably give it another shot at some point but I'm more-or-less ready to change my mind as an AI-detection skeptic.\n\nThis was the LLM summary from my first experiment BTW. Still gives me a chuckle."
    },
    "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+  },
+  "2118419207394329056": {
+   "id": "2118419207394329056",
+   "url": "https://x.com/sayashk/status/2118419207394329056",
+   "text": "More details: https://t.co/EAC39nnMuA",
+   "created_at": "Thu Nov 05 19:04:32 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": true,
+   "reply_to": "sayashk",
+   "reply_to_id": "2118418574456852720",
+   "avatar": "https://pbs.twimg.com/profile_images/1521238232867946496/U_GCI43e_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+  },
+  "2118418574456852720": {
+   "id": "2118418574456852720",
+   "url": "https://x.com/sayashk/status/2118418574456852720",
+   "text": "Announcing CRUX-in-a-box: open-source infrastructure for running and monitoring weeks-long agent evaluations.\n\nWe built it over six months of long-horizon evaluations in CRUX, to keep runs repeatable, secure, and monitored. AI evaluators can now use it to:\n\n- Run agents on VMs for weeks\n- Use LLMs to flag risky actions for human review\n- Inspect tool calls, tokens, and spend\n- Set time and cost budgets\n- Chat with agents mid-run to give feedback or answer their questions\n\nIf you run long-horizon agent experiments, we might have solved some of the problems you will come across.  \n\nGitHub: https://t.co/V6y5YzamXa",
+   "created_at": "Thu Nov 05 19:02:01 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1521238232867946496/U_GCI43e_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 22,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWYhIxEXwAA3_wQ.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
   }
  }
 }
