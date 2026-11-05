@@ -10342,6 +10342,59 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+  },
+  "2118395878440595839": {
+   "id": "2118395878440595839",
+   "url": "https://x.com/s8mb/status/2118395878440595839",
+   "text": "@edatweets_ @WorksInProgMag Wonderful – thank you!!",
+   "created_at": "Thu Nov 05 17:31:49 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "edatweets_",
+   "reply_to_id": "2118395596818313377",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+  },
+  "2118390085045682326": {
+   "id": "2118390085045682326",
+   "url": "https://x.com/s8mb/status/2118390085045682326",
+   "text": "Let’s go! 🚀 https://t.co/9zl16HBL5A",
+   "created_at": "Thu Nov 05 17:08:48 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 130,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWYIjYUWEAAlB7J.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWYIjYUWEAAlB7J.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
   }
  }
 }

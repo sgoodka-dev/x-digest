@@ -2129,6 +2129,28 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-24T14:33:38.169236+00:00"
+  },
+  "2118412939686551943": {
+   "id": "2118412939686551943",
+   "url": "https://x.com/ajeya_cotra/status/2118412939686551943",
+   "text": "Since August, a team within METR has worked with internal Anthropic information to assess whether AI itself is accelerating AI development.\n\nWe are now publishing a report summarizing the results of this risk assessment.",
+   "created_at": "Thu Nov 05 18:39:37 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1653845490885332995/GPWuOoqu_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "METR_Evals",
+   "rt_author_name": "METR",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2021827383431757824/AeVvT0rU_normal.jpg",
+   "rt_id": "2118412183860351084",
+   "likes": 62,
+   "retweets": 20,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
   }
  }
 }

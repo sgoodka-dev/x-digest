@@ -9781,6 +9781,83 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+  },
+  "2118389663643873356": {
+   "id": "2118389663643873356",
+   "url": "https://x.com/deanwball/status/2118389663643873356",
+   "text": "Even more great developments in federal biosafety today—an NSF program for function-based nucleic acid screening, which could end up being a critical tool in next-generation screening.",
+   "created_at": "Thu Nov 05 17:07:08 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 49,
+   "retweets": 8,
+   "media": [],
+   "quoted": {
+    "author": "NSF",
+    "text": "NSF announces a new funding opportunity in bioengineering through NSF X-labs — From Sequence to Function. \n\nTeams working to accelerate breakthroughs in understanding the relationship between biological sequence and function are invited to apply.\n\nhttps://t.co/rHniOz58OT"
+   },
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+  },
+  "2118366488923107838": {
+   "id": "2118366488923107838",
+   "url": "https://x.com/deanwball/status/2118366488923107838",
+   "text": "Fantastic news! This is a crucial step to bringing about the biotechnology future we all dream of while lowering the risks of misuse. Congratulations to everyone in USG who brought this to fruition!",
+   "created_at": "Thu Nov 05 15:35:02 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 106,
+   "retweets": 9,
+   "media": [],
+   "quoted": {
+    "author": "mkratsios47",
+    "text": "Today, we released the National Policy for Nucleic Acid Synthesis Screening to protect American biotechnology innovation while reducing the risk of misuse. \n\nThis policy establishes a new, government-wide screening requirements for synthetic DNA and the equipment used to make it. It will ensure companies selling nucleic acid sequences and synthesis equipment know their customers and prevent the malicious use of these materials and tools.\n\nThis policy strengthens our Nation’s biosecurity posture by establishing rigorous U.S. government-wide procurement screening and physical security standards for synthetic biology. It replaces outdated “self-attestation” systems with robust, independent verification. It creates a dynamic, SI-powered screening layer that assesses the biological risk from nucleic acid sequences, allowing the U.S. to anticipate and prevent malicious use and help stop dangerous gain-of-function research. \n\n@NIST will issue rigorous new screening standards and @HHSGov and @USDA will certify synthetic biology providers. Together, these measures will strengthen American biosecurity, safeguard responsible innovation, and establish a global standard for safe and transparent synthetic biology tools and research."
+   },
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+  },
+  "2118366089537376634": {
+   "id": "2118366089537376634",
+   "url": "https://x.com/deanwball/status/2118366089537376634",
+   "text": "Today, we released the National Policy for Nucleic Acid Synthesis Screening to protect American biotechnology innovation while reducing the risk of misuse. \n\nThis policy establishes a new, government-wide screening requirements for synthetic DNA and the equipment used to make it. It will ensure companies selling nucleic acid sequences and synthesis equipment know their customers and prevent the malicious use of these materials and tools.\n\nThis policy strengthens our Nation’s biosecurity posture by establishing rigorous U.S. government-wide procurement screening and physical security standards for synthetic biology. It replaces outdated “self-attestation” systems with robust, independent verification. It creates a dynamic, SI-powered screening layer that assesses the biological risk from nucleic acid sequences, allowing the U.S. to anticipate and prevent malicious use and help stop dangerous gain-of-function research. \n\n@NIST will issue rigorous new screening standards and @HHSGov and @USDA will certify synthetic biology providers. Together, these measures will strengthen American biosecurity, safeguard responsible innovation, and establish a global standard for safe and transparent synthetic biology tools and research.",
+   "created_at": "Thu Nov 05 15:33:27 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "mkratsios47",
+   "rt_author_name": "Director Michael Kratsios",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2036415476335833088/WPlUcJxT_normal.jpg",
+   "rt_id": "2118365268342652934",
+   "likes": 826,
+   "retweets": 168,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWXxIGyXQAAMlJ4.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
   }
  }
 }

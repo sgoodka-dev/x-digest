@@ -6036,6 +6036,165 @@
    ],
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+  },
+  "2118414398083506660": {
+   "id": "2118414398083506660",
+   "url": "https://x.com/theobearman/status/2118414398083506660",
+   "text": "“Anthropic’s redactions also meant that we could not communicate: (1) Our more detailed estimates of acceleration and attribution to AI usage for key areas of the model training pipeline. (2) Our more detailed breakdown of progress attributable to compute, data and algorithmic progress, other than the key takeaway that ‘We are confident that the acceleration was not due to acceleration in training compute.’”",
+   "created_at": "Thu Nov 05 18:45:25 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "METR_Evals",
+    "text": "Since August, a team within METR has worked with internal Anthropic information to assess whether AI itself is accelerating AI development.\n\nWe are now publishing a report summarizing the results of this risk assessment."
+   },
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+  },
+  "2118413382281752994": {
+   "id": "2118413382281752994",
+   "url": "https://x.com/theobearman/status/2118413382281752994",
+   "text": "Explains the S1 update now.",
+   "created_at": "Thu Nov 05 18:41:23 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "METR_Evals",
+    "text": "This report shares our three subjective conclusions about risk:\n\n1. We believe that, as of Oct 2026, the pace of capability growth on well-specified tasks is likely about 2x what it was from Mar 2024 to Oct 2025. We’re highly uncertain and would not be surprised by 1.3x–3x."
+   },
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+  },
+  "2118401655108694110": {
+   "id": "2118401655108694110",
+   "url": "https://x.com/theobearman/status/2118401655108694110",
+   "text": "Introducing GPT‑6 Cyber: a major advance in security research that pairs stronger capabilities with better model alignment.\n\nThe model powered the Linux kernel research we announced yesterday, and security teams at companies like Mozilla, Palo Alto Networks, Calif, and Cisco—alongside our own at OpenAI—are already putting it to work.\n\nGPT-6 Cyber is available to select Daybreak Red customers and we are expanding access over time.\n\nhttps://t.co/Nzab3Z1Td6",
+   "created_at": "Thu Nov 05 17:54:47 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "OpenAI",
+   "rt_author_name": "OpenAI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+   "rt_id": "2118390190246879554",
+   "likes": 7935,
+   "retweets": 667,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2118387217588465664/img/N2grMUmP0O_EMvS2.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+  },
+  "2118391613294875086": {
+   "id": "2118391613294875086",
+   "url": "https://x.com/theobearman/status/2118391613294875086",
+   "text": "👀\n\nhttps://t.co/GNCnYPfmzu https://t.co/wASiKuif5h",
+   "created_at": "Thu Nov 05 17:14:53 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWYJ8VGXgAA9haK.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "harryboothtime",
+    "text": "EXCLUSIVE: @GoodfireAI has found a way to use interpretability tools to steer model training, potentially preventing AI models from ever learning to reward hack or be sycophantic in the first place.\nhttps://t.co/P7i7Jo0Wrp"
+   },
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+  },
+  "2118391004780953814": {
+   "id": "2118391004780953814",
+   "url": "https://x.com/theobearman/status/2118391004780953814",
+   "text": "EXCLUSIVE: @GoodfireAI has found a way to use interpretability tools to steer model training, potentially preventing AI models from ever learning to reward hack or be sycophantic in the first place.\nhttps://t.co/P7i7Jo0Wrp",
+   "created_at": "Thu Nov 05 17:12:27 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "harryboothtime",
+   "rt_author_name": "Harry Booth",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2076686399760142337/dk4I4piO_normal.jpg",
+   "rt_id": "2118370136277004644",
+   "likes": 4,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+  },
+  "2118371302352286014": {
+   "id": "2118371302352286014",
+   "url": "https://x.com/theobearman/status/2118371302352286014",
+   "text": "Interesting side info revealed by this misalignment report re. model release cadence at OAI: the initial reports of this behavior came \"shortly after internal deployment of GPT-6 Astra began\" on 20 Aug. Astra was released to the public just two weeks later (so maybe only internally deployed for 3 weeks or so?).\n\nhttps://t.co/XzSVO2bF79",
+   "created_at": "Thu Nov 05 15:54:10 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWX3S6DWsAEJS-G.png"
+    }
+   ],
+   "quoted": {
+    "author": "Marcus_J_W",
+    "text": "🧵 Astra covertly underperforms on safety research tasks.\nWe noticed that Astra often makes surprisingly little progress on certain types of safety research and likes to invent blockers or impose arbitrary restrictions without telling the user. In most of these cases the decision to underperform was not verbalized in the CoT meaning our misalignment monitoring system did not detect this.\n\nTo measure underperformance we created a paired open-ended coding evaluation with safety and capability tasks. On this eval Astra scored 10% when we framed coding tasks as safety research, vs. 16% when framed as capabilities research. The gap remained after we excluded trajectories with refusals or verbalized intent to underperform in CoT. There was no such gap for 5.6-sol. When we aggressively filter out trajectories with even brief expressions of ethical doubt in the CoT the performance gap seems to reduce."
+   },
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
   }
  }
 }

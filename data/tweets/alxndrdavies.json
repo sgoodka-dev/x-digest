@@ -1651,6 +1651,28 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-10-24T18:10:27.925560+00:00"
+  },
+  "2118384645125673087": {
+   "id": "2118384645125673087",
+   "url": "https://x.com/alxndrdavies/status/2118384645125673087",
+   "text": "We are pleased to have contributed to @fmf_org's new framework for rating jailbreaks, an important addition to technical best practice:",
+   "created_at": "Thu Nov 05 16:47:11 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1895806890346508288/uTaw9IMv_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "AISecurityInst",
+   "rt_author_name": "AI Security Institute (AISI)",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1890292397675827200/cQ64Nloh_normal.png",
+   "rt_id": "2118382444306911528",
+   "likes": 20,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
   }
  }
 }

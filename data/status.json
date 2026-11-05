@@ -1,26 +1,26 @@
 {
  "last_run": {
-  "started": "2026-11-05T14:45:47.010415+00:00",
+  "started": "2026-11-05T18:45:11.192238+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 151
    },
    "add_hawk": {
     "ok": true,
-    "new": 0,
-    "total": 102
+    "new": 1,
+    "total": 103
    },
    "ajeya_cotra": {
     "ok": true,
-    "new": 0,
-    "total": 117
+    "new": 1,
+    "total": 118
    },
    "alxndrdavies": {
     "ok": true,
-    "new": 0,
-    "total": 90
+    "new": 1,
+    "total": 91
    },
    "curl_justin": {
     "ok": true,
@@ -29,17 +29,17 @@
    },
    "DaveRBanerjee": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 174
    },
    "DKokotajlo": {
     "ok": true,
-    "new": 4,
+    "new": 0,
     "total": 221
    },
    "dwarkesh_sp": {
     "ok": true,
-    "new": 3,
+    "new": 0,
     "total": 142
    },
    "jkcarlsmith": {
@@ -54,7 +54,7 @@
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 3,
+    "new": 0,
     "total": 147
    },
    "ohlennart": {
@@ -69,38 +69,38 @@
    },
    "testingham": {
     "ok": true,
-    "new": 0,
-    "total": 134
+    "new": 1,
+    "total": 135
    },
    "slatestarcodex": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 149
    },
    "s8mb": {
     "ok": true,
-    "new": 10,
-    "total": 515
+    "new": 2,
+    "total": 517
    },
    "random_walker": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 160
    },
    "sethlazar": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 343
    },
    "robertwiblin": {
     "ok": true,
-    "new": 6,
-    "total": 309
+    "new": 2,
+    "total": 311
    },
    "deanwball": {
     "ok": true,
-    "new": 16,
-    "total": 505
+    "new": 3,
+    "total": 508
    },
    "nabeelqu": {
     "ok": true,
@@ -109,8 +109,8 @@
    },
    "theobearman": {
     "ok": true,
-    "new": 8,
-    "total": 279
+    "new": 6,
+    "total": 285
    },
    "peterwilderford": {
     "ok": true,
@@ -124,11 +124,11 @@
    },
    "NateWitkin": {
     "ok": true,
-    "new": 0,
-    "total": 110
+    "new": 4,
+    "total": 114
    }
   },
-  "new_tweets": 55,
-  "finished": "2026-11-05T14:47:08.572735+00:00"
+  "new_tweets": 21,
+  "finished": "2026-11-05T18:46:22.161518+00:00"
  }
 }
