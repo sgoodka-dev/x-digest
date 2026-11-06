@@ -4557,6 +4557,33 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+  },
+  "2118806523187277895": {
+   "id": "2118806523187277895",
+   "url": "https://x.com/DKokotajlo/status/2118806523187277895",
+   "text": "The authors of the METR AI R&amp;D report estimate that AI is nearly doubling the rate of capabilities progress. This implies dramatic *uplift*: as if researchers experienced time ~10x faster. You probably couldn’t achieve this even if you hired every qualified human in the world. https://t.co/EfnntaRGfY",
+   "created_at": "Fri Nov 06 20:43:35 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ajeya_cotra",
+   "rt_author_name": "Ajeya Cotra",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1653845490885332995/GPWuOoqu_normal.jpg",
+   "rt_id": "2118802809814708533",
+   "likes": 56,
+   "retweets": 11,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWd_7R4aIAA_SMu.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-06T20:54:35.151346+00:00"
   }
  }
 }

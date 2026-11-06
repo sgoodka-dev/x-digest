@@ -2198,6 +2198,104 @@
     "text": "This report on AI R&D automation (RSI) is a big update towards ASI within 1-2 years. It says AI progress is sped up by RSI right now by around 2x. In AI 2027, this happens around March 2027.\n\nI was seriously wrong about RSI speed up; I previously expected much less in 2026 (around 1.15x-1.3x). It seems as though there was specific privately available evidence that would have changed my mind.\n\nI haven't seen an unredacted version of this report; this is purely about the public report. Because so much of the underlying evidence was redacted from the public report, I think conclusions about things other than the observed 2x faster rate of progress on benchmarks depend significantly on trust for the authors of the report. (E.g., conclusions about whether this speed up is from RSI depend on trust.) I do trust the authors of the report a lot to be careful and rigorous and generally do a good job. (Note that I also work at METR.) Less extensive redactions would greatly reduce this need for trust.\n\nSince in my current role I may have access to other confidential information that could be relevant to timelines one way or another, I unfortunately cannot state my all-things-considered views on ASI timelines or the probability of a software intelligence explosion right now. Here, I’ve done some analysis of the implications using my previous public statements.\n\nA 2x acceleration in overall AI progress from RSI corresponds to a much larger than 2x RSI speed up for AI software R&D (algorithms and data); I did an estimate using my public preexisting modeling of drivers of AI progress and the public report which yielded a very rough estimate of 4.5x for how much RSI is currently accelerating AI software progress (relative to no AI automation). In the AI 2027 scenario, this much acceleration happens around March 2027.\n\nHere are the worked details of this estimate based on my public modeling. There are two main reasons RSI speed up of AI software R&D must be larger:\n\n- Not all of AI progress is from better software (some is from scaling up compute in training runs). I've previously speculated that around 2/3 of AI progress is from software improvements which implies that 2x overall AI progress acceleration requires 3x faster software progress.\n- Diminishing returns: A fixed amount of progress requires more work over time, so to ongoingly maintain 3x faster software progress via AI automation, you need increasingly large speed boosts from AI automation (as in, speed ups relative to how fast software R&D would go without AI automation). Based on this report, it seems that there is a substantial amount of additional AI progress from automation that has occurred.\n\nWe can estimate the effects of diminishing returns by first determining how many additional years of software progress we've seen (relative to the preexisting trend) and then estimating how much software R&D would slow down after a year of software progress if you held inputs fixed due to diminishing returns. I've previously estimated software R&D would slow down by around 2x for each year of software progress if you held inputs fixed (https://t.co/AYhl9hyiAj) and based on the report, it seems as though we've perhaps seen roughly 0.35-1.0 years of additional software progress incorporated into trained models so far (geometric mean of ~0.6). This combines to 3 * 2^(~0.6) = ~4.5.\n(Relevant public modeling and numbers I'm using: https://t.co/AYhl9hyiAj, https://t.co/ck7CtW5LIA)"
    },
    "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+  },
+  "2118808842960338969": {
+   "id": "2118808842960338969",
+   "url": "https://x.com/ajeya_cotra/status/2118808842960338969",
+   "text": "I am a broken record about this, but: frontier agents are not going to be a purely digital phenomenon for much longer. They will be able to use anything in the physical world that can be actuated programmatically—first competently, then at human-expert level, then superhuman. By and large, we probably won’t need specialist models; the frontier models will just do it. If your model of the future hinges on physical AI happening “for real” many years into the future, I think you will be in for a surprise.",
+   "created_at": "Fri Nov 06 20:52:48 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1653845490885332995/GPWuOoqu_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "deanwball",
+   "rt_author_name": "Dean W. Ball",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "rt_id": "2118799206785937844",
+   "likes": 165,
+   "retweets": 23,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-06T20:54:35.151346+00:00"
+  },
+  "2118802839120318869": {
+   "id": "2118802839120318869",
+   "url": "https://x.com/ajeya_cotra/status/2118802839120318869",
+   "text": "In a new post, I walk through some very rough modeling (thanks to @RyanGreenblatt for lots of help and feedback!): https://t.co/LSChnUqGYi\n\nI did not work on this project or see the unredacted report. All opinions are my own and do not represent METR or the report authors.",
+   "created_at": "Fri Nov 06 20:28:56 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": true,
+   "reply_to": "ajeya_cotra",
+   "reply_to_id": "2118802826289991816",
+   "avatar": "https://pbs.twimg.com/profile_images/1653845490885332995/GPWuOoqu_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 21,
+   "retweets": 1,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-06T20:54:35.151346+00:00"
+  },
+  "2118802826289991816": {
+   "id": "2118802826289991816",
+   "url": "https://x.com/ajeya_cotra/status/2118802826289991816",
+   "text": "As AI improves, uplift will get even higher. If it overcomes diminishing returns and bottlenecks, a naive extrapolation implies we would reach ASI within a year. The authors say they found no clear bottlenecks or sharp diminishing returns, though they are very uncertain. https://t.co/YPxPJLNpak",
+   "created_at": "Fri Nov 06 20:28:53 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": true,
+   "reply_to": "ajeya_cotra",
+   "reply_to_id": "2118802809814708533",
+   "avatar": "https://pbs.twimg.com/profile_images/1653845490885332995/GPWuOoqu_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 26,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWd_8SUa0AAwjd6.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-06T20:54:35.151346+00:00"
+  },
+  "2118802809814708533": {
+   "id": "2118802809814708533",
+   "url": "https://x.com/ajeya_cotra/status/2118802809814708533",
+   "text": "The authors of the METR AI R&amp;D report estimate that AI is nearly doubling the rate of capabilities progress. This implies dramatic *uplift*: as if researchers experienced time ~10x faster. You probably couldn’t achieve this even if you hired every qualified human in the world. https://t.co/EfnntaRGfY",
+   "created_at": "Fri Nov 06 20:28:49 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1653845490885332995/GPWuOoqu_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 56,
+   "retweets": 11,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWd_7R4aIAA_SMu.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-06T20:54:35.151346+00:00"
   }
  }
 }

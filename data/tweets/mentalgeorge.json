@@ -2863,6 +2863,28 @@
    ],
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+  },
+  "2118771396633415953": {
+   "id": "2118771396633415953",
+   "url": "https://x.com/mentalgeorge/status/2118771396633415953",
+   "text": "What are the biggest take-aways from the METR rsi report?\n\n1. Progress for Anthropic models on AECI-style benchmarks was twice as fast from Oct 2025 to Oct 2026 as it was in the 18-month period before. That benchmark progress speed has straightup doubled is in fact surprising.  \n\n2. Most of the METR staff involved believe that this 2x rate of progress is likely true of \"well-specified tasks\" in general. We don't know what they think the rate of progress on other sorts of tasks are. \n\n3. Relevant METR staff believe - with substantial uncertainty - that most (~80%) of the **current** acceleration is due to Anthropic's use of AI in R&D. I definitely find this surprising. \n\n(Notably, however, they think that, when in the acceleration begain in late-2025, it was in \"large\" part due to \"non-AI factors\". These could include things like data improvements, increased experimental compute, or something specific like overcoming particular infra or security challenges.)\n\nWe basically do not know how they came to this belief - ie, that this acceleration is now driven primarily by AI labour. \n\nClearly, they were able to rule out some other inputs with confidence, like training compute.  We also know that they did \"detailed analysis\" of the growth rate in individual uplift that would be needed to explain acceleration, but this was redacted. Plausibly, they got some evidence that the individual uplift required was consistent with employee reports and other metrics. \n\nWe also know that they looked at metrics of algorithmic efficiency, model strength in pretraining and RL, and improvements to compute utilisation. \n\nAs a final caveat on this point, it's worth noting that \"Anthropic's use of AI R&D\" driving 80% of the acceleration doesn't necessarily mean that improved models are driving most of this acceleration. It seems plausible that at least some of this acceleration comes simply from a massively increased internal inference spend (which we separately know is for sure occurring). \n\n4. METR encountered no evidence of bottlenecks to further acceleration. This is also surprising to me. Naively, you could have imagined they would encounter evidence that it would be hard for Anthropic do things like keep scaling data or compute proportionately. \n\nThat said, I'm unconvinced that this report provides all that much evidence about how much further away we are from something like \"domain-general superintelligence\". Turning faster growth in well-specified domains into rapid progress in superintelligence requires a bunch of modelling assumptions about \n1. sample efficiency;\n2. breakthroughs in continual learning;\n3. generalisation; or\n4. the simulation capabilities of models. \n\nThe report doesn't have info that can update us on any of the above, though METR will have seen some relevant data. \n\nIn discussions of this nature, you should always recall Sam Altman's description of GPT-4.5 as \"ten times smarter\" than GPT-4. No one - ever - talks about 4.5. It's a totally irrelevant model. There is some sense in which we should view debates about RSI birthing domain-general superintelligence in a similar light to earlier debates about scaling pretraining leading to \"emergent\" agentic capabilities. Intelligence remains more of a mystery than we would have ever guessed.\n\nFurther - and I wouldn't read too much into this - but it is interesting that a 2x acceleration in benchmark progress translated into no acceleration in revenue growth (which according to a quick Codex check was about 13x in both periods METR examine). \n\nIn any case, we now know with greater confidence that the rate at which models are getting better at tasks they are already good at is getting faster. It further seems plausible that much of this acceleration is itself due to improvements in the models, though some of it is likely due to Anthropic spending more on internal inference.  \n\nWhat we still don't know is how much models are accelerating in progress on non-AECI style tasks. It's possible we shouldn't make too much of this - note for instance that, as METR point out, there are some cases (eg Navier Stokers) where the benchmark-reality mapping cuts the *opposite* way, and models are **more** impressive than raw benchmark improvements would suggest. \n\nSomething that would have been really interesting to see would be comparative acceleration in productivity growth for non-engineer roles at Anthropic across the two time periods. \n\nEither way:  remember that the main reason to care about AIs accelerating “AI R&D” is that this AI R&D cashes out in increased capabilities for things other than “even better AI R&D”. At some point, you do want to solve \"everything else\", and not just keep \"solving intelligence\". Clearly, this *is* happening to some extent, but the new METR report doesn't update us much on this particular front.",
+   "created_at": "Fri Nov 06 18:24:00 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 65,
+   "retweets": 9,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-06T20:54:35.151346+00:00"
   }
  }
 }

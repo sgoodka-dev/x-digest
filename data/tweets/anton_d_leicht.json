@@ -2576,6 +2576,31 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-30T17:01:40.221107+00:00"
+  },
+  "2118800788181098874": {
+   "id": "2118800788181098874",
+   "url": "https://x.com/anton_d_leicht/status/2118800788181098874",
+   "text": "It's still very hard to imagine any AI legislation actually passing in the next two years. The White House clearly doesn't seem to be on compromise course, and I suspect a lame-duck President clinging onto power and legacy will be inclined to aggressively wield the veto.\n\nThe House, fueled by an anti-corruption and anti-AI mandate, will pass a billion things; the Senate is too blue to really temper these bills to survive the veto, but not blue enough to actually pass them against the administration.\n\nThe narrow path to a veto-proof majority, or even to 60 senate votes, for an AI bill runs through one of two channels: votes from natsec-concerned moderate Republicans (who are still not all that likely to outright break with the admin) or from the anti-AI populist wing (who are at risk of diluting any narrow frontier bill into a controversial anti-AI catch-all).\n\nIt's hard to imagine how that kind of fragile coalition just emerges from a neutral position in the next few months. Yes, maybe, if VP Vance and political advisors realise the risk of leaving the AI flank open until '28, they could lean on the White House to enable some compromise - but decisions like the Miller appointment should make you much more doubtful that moderation will be the play.\n\nRealistically, the most promising policy window is in response to the next crises. That's a common refrain: we write a bill, put it in the drawer, and if something big happens, we'll pass it immediately. It's particularly tempting because it allows advocates to ignore political reality and instead write down their favorite bill, hoping that exogenous shocks do the political lifting.\n\nI think it's a bit harder than that: you need to draft legislation that makes sense to policymakers now so that it even goes into the drawer - or more accurately, that it gets influential sponsors and maybe a markup so that it's sufficiently red-teamed to pass in a pinch. But it also needs to be ambitious and specific enough that it seems like a solution to whatever new problem emerges. Congress might not reach for cyber bills after bio incidents, or for common-sense low-hanging fruit after major loss of life.\n\nSince we don't know what the hypothetical wake-up call looks like or when it'll arrive, I think that means a lot of hard work: getting enough different legislative vehicles ready that we'll have one ready to go no matter what happens, but have these efforts be sufficiently coordinated that they don't compete for immediate attention here and now.\n\nThat kind of positioning is very different than introducing one big AI bill and feeding it into a pipeline that inevitably ends well before being signed into law. If we don't get this right, I expect a lot of posturing in the short term as we ultimately fail to pass a reasonable bill, immediately superseded by unanchored chaos as soon as the next incidents hits and we don't have a suitable bill developed far enough.\n\nThe odds of passing legislation have probably gone up over the week, but they still hinge on tactical preparation and bipartisan circulation in advance of very specific policy windows. That won't always align very well with the current vibes of accoubtability enthusiasm and (however well-motivated) congressional reconquista.",
+   "created_at": "Fri Nov 06 20:20:47 +0000 2026",
+   "author_handle": "anton_d_leicht",
+   "author_name": "Anton Leicht",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2099528473869971457/0uLWqvOn_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 15,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "kaitlancollins",
+    "text": "Trump announces Stephen Miller will become his new chief of staff. https://t.co/8jqPiXb2ID"
+   },
+   "fetched_at": "2026-11-06T20:54:35.151346+00:00"
   }
  }
 }

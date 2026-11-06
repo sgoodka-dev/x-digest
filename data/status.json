@@ -1,10 +1,10 @@
 {
  "last_run": {
-  "started": "2026-11-06T17:57:47.218782+00:00",
+  "started": "2026-11-06T20:54:35.151346+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
-    "new": 3,
+    "new": 0,
     "total": 157
    },
    "add_hawk": {
@@ -14,8 +14,8 @@
    },
    "ajeya_cotra": {
     "ok": true,
-    "new": 0,
-    "total": 120
+    "new": 4,
+    "total": 124
    },
    "alxndrdavies": {
     "ok": true,
@@ -34,13 +34,13 @@
    },
    "DKokotajlo": {
     "ok": true,
-    "new": 2,
-    "total": 239
+    "new": 1,
+    "total": 240
    },
    "dwarkesh_sp": {
     "ok": true,
     "new": 1,
-    "total": 153
+    "total": 154
    },
    "jkcarlsmith": {
     "ok": true,
@@ -54,13 +54,13 @@
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 0,
-    "total": 153
+    "new": 1,
+    "total": 154
    },
    "ohlennart": {
     "ok": true,
     "new": 0,
-    "total": 116
+    "total": 118
    },
    "sayashk": {
     "ok": true,
@@ -69,13 +69,13 @@
    },
    "testingham": {
     "ok": true,
-    "new": 8,
-    "total": 144
+    "new": 4,
+    "total": 148
    },
    "slatestarcodex": {
     "ok": true,
-    "new": 0,
-    "total": 150
+    "new": 2,
+    "total": 152
    },
    "s8mb": {
     "ok": true,
@@ -89,7 +89,7 @@
    },
    "sethlazar": {
     "ok": true,
-    "new": 3,
+    "new": 0,
     "total": 346
    },
    "robertwiblin": {
@@ -99,8 +99,8 @@
    },
    "deanwball": {
     "ok": true,
-    "new": 0,
-    "total": 512
+    "new": 3,
+    "total": 515
    },
    "nabeelqu": {
     "ok": true,
@@ -109,7 +109,7 @@
    },
    "theobearman": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 299
    },
    "peterwilderford": {
@@ -119,16 +119,16 @@
    },
    "anton_d_leicht": {
     "ok": true,
-    "new": 0,
-    "total": 131
+    "new": 1,
+    "total": 132
    },
    "NateWitkin": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 117
    }
   },
-  "new_tweets": 22,
-  "finished": "2026-11-06T17:58:27.124252+00:00"
+  "new_tweets": 19,
+  "finished": "2026-11-06T20:55:31.591539+00:00"
  }
 }
