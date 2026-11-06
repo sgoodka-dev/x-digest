@@ -2834,6 +2834,77 @@
     "text": "Since August, a team within METR has worked with internal Anthropic information to assess whether AI itself is accelerating AI development.\n\nWe are now publishing a report summarizing the results of this risk assessment."
    },
    "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+  },
+  "2118749733829382514": {
+   "id": "2118749733829382514",
+   "url": "https://x.com/_achan96_/status/2118749733829382514",
+   "text": "So my take from this data would be that there is a noticeable pre-training jump to Mythos as you would expect, combined with suggestive evidence of a moderate increase in slope (though smaller than METR's headline numbers).",
+   "created_at": "Fri Nov 06 16:57:55 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "tobyordoxford",
+   "rt_author_name": "Toby Ord",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1235495700739379200/jtyKeQdP_normal.jpg",
+   "rt_id": "2118649924573434168",
+   "likes": 24,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+  },
+  "2118735561334682033": {
+   "id": "2118735561334682033",
+   "url": "https://x.com/_achan96_/status/2118735561334682033",
+   "text": "p. 145 of https://t.co/MbPaQsusvf",
+   "created_at": "Fri Nov 06 16:01:36 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": true,
+   "reply_to": "_achan96_",
+   "reply_to_id": "2118735559250059403",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+  },
+  "2118735559250059403": {
+   "id": "2118735559250059403",
+   "url": "https://x.com/_achan96_/status/2118735559250059403",
+   "text": "Is anybody trying to create more realistic CoT controllability evals? \n\nPerformance varies a lot across different controllability tasks, and some of them just are super unrealistic for bad stuff like scheming (e.g. all uppercase)\n\nInformation suppression seems really key! https://t.co/NR4Hh2noHx",
+   "created_at": "Fri Nov 06 16:01:36 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWdCi_4XIAAgf6H.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
   }
  }
 }

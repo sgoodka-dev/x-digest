@@ -3072,6 +3072,28 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+  },
+  "2118713063385989133": {
+   "id": "2118713063385989133",
+   "url": "https://x.com/dwarkesh_sp/status/2118713063385989133",
+   "text": "This is fascinating (and fun). @dwarkesh_sp has the AIs play 400 rounds of a zero-sum game of incomplete and asymmetric information, like Werewolf- essentially players in this game need to figure out who are the (hidden) bad guys, the bad guys needs to kill the good guys. Players need to do Bayesian updating as clues accumulate, but everyone is lying and bluffing and cheating and the environment is noisy .\n\nWhat is really interesting about building this benchmark is that, as Dwarkesh says, benchmarks cannot saturate in this type of competitive environments. As models get better, playing improves, but the other side is also getting better. At the end of the day, you will always benefit by having a frontier model detect the lying and cheating of others. This is true for war, for trade, for bargaining, for international relations, for competition- in all those situations benchmarks cannot saturate. \n\nSubstantively, I was quite blown away by the ability of the agents to keep track of what other players were thinking, what everyone knows, what they know (or think) others know etc. \n\nIt is worth a watch and a thought.",
+   "created_at": "Fri Nov 06 14:32:12 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "lugaricano",
+   "rt_author_name": "Luis Garicano 🇪🇺🇺🇦",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1088718721785434112/TCQN0rTD_normal.jpg",
+   "rt_id": "2118634829591814453",
+   "likes": 102,
+   "retweets": 13,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
   }
  }
 }

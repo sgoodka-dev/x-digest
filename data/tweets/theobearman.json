@@ -6484,6 +6484,58 @@
    ],
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+  },
+  "2118754777534529835": {
+   "id": "2118754777534529835",
+   "url": "https://x.com/theobearman/status/2118754777534529835",
+   "text": "@tobyordoxford Note that the report says that lots of redacted information was relevant to their views, presumably including the ~2x estimate. My read of the public report is that you shouldn't assume that the AECI trend is the main/only relevant data; this is just the main unredacted data",
+   "created_at": "Fri Nov 06 17:17:58 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "RyanGreenblatt",
+   "rt_author_name": "Ryan Greenblatt",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1885439620625948673/qD6KYkL6_normal.jpg",
+   "rt_id": "2118753084780511504",
+   "likes": 29,
+   "retweets": 3,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+  },
+  "2118754452265951727": {
+   "id": "2118754452265951727",
+   "url": "https://x.com/theobearman/status/2118754452265951727",
+   "text": "Shameless plug for my own research but I argued in an @iapsAI policy memo last month that cos and their evaluators should have cooling-oﬀ periods in both directions—not hiring individual evaluators after their engagement ends, and not using former employees as embedded evaluators after their employment ends—for a minimum of one year.\n\nhttps://t.co/iJga5c0cbD",
+   "created_at": "Fri Nov 06 17:16:40 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWdT8buWQAAt0wb.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "_NathanCalvin",
+    "text": "Uhhh Anthropic made an offer to one of the risk assessment staff at METR during this project??? (Which the person declined)\n\nWe need rules about independent evaluators going to cos they evaluate after and in the meantime companies should be shamed for trying this stuff https://t.co/2ca51xSV5K"
+   },
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
   }
  }
 }

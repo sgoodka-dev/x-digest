@@ -2156,6 +2156,28 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+  },
+  "2118747991234302001": {
+   "id": "2118747991234302001",
+   "url": "https://x.com/ohlennart/status/2118747991234302001",
+   "text": "We spend a lot of time on the risks AI capabilities enable. Much less on how those capabilities change the work of addressing them.\n\nWe should take abundant AI-provided labor seriously. Work on the hardest problems, and steer toward where AI gives you massive uplift.",
+   "created_at": "Fri Nov 06 16:51:00 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1421449447482044420/_HX1YpJC_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 24,
+   "retweets": 3,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
   }
  }
 }

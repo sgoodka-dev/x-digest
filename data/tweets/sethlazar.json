@@ -6727,6 +6727,80 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+  },
+  "2118754260124848396": {
+   "id": "2118754260124848396",
+   "url": "https://x.com/sethlazar/status/2118754260124848396",
+   "text": "What are the big authoritarian risks of the 21st century? Does AI have democratic potential? And what can we learn from Ancient Athens?\n\nWe put these questions and more to @mattbotvinick, author of AI and Political Freedom.\n\nhttps://t.co/2SPaf53JpH https://t.co/bPFhg4WM3z",
+   "created_at": "Fri Nov 06 17:15:54 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "cosmos_inst",
+   "rt_author_name": "Cosmos Institute",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1825967636561141760/erPVXYJG_normal.jpg",
+   "rt_id": "2118734275709448657",
+   "likes": 15,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWdBl9eagAAAD4v.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+  },
+  "2118754183818137768": {
+   "id": "2118754183818137768",
+   "url": "https://x.com/sethlazar/status/2118754183818137768",
+   "text": "Agree with this. It's hard to know for sure when you're in the middle of it, but this does feel like an age of revolutions—something akin to the late C18. To be alive at such a time, as a political philosopher, is an extraordinary privilege.",
+   "created_at": "Fri Nov 06 17:15:36 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 2,
+   "media": [],
+   "quoted": {
+    "author": "mattbotvinick",
+    "text": "There are certain moments when you realize -- or immediately feel -- that history is flowing, with all of its possibility and uncertainty. Walter Benjamin's parable of the wind-blown angel. We are now on the knife edge. Will we lean ourselves toward a future of renewed democracy, with AI as a help and blessing, or toward a renewed slide toward authoritarianism, with AI as a permanent curse? I don't know. But history feels alive again, and for today that feels like enough."
+   },
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+  },
+  "2118730792696172778": {
+   "id": "2118730792696172778",
+   "url": "https://x.com/sethlazar/status/2118730792696172778",
+   "text": "Yes. I emphasize that applying to SFF during the 'off season' is a much better plan than waiting, even more so than you think, including for reasons that are fiddly and not obvious. Apply early.",
+   "created_at": "Fri Nov 06 15:42:39 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "TheZvi",
+   "rt_author_name": "Zvi Mowshowitz",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2873511010/24e99a900de1fc5a22336b80aef68a59_normal.png",
+   "rt_id": "2118679708875567426",
+   "likes": 166,
+   "retweets": 5,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
   }
  }
 }
