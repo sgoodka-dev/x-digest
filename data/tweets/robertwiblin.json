@@ -6645,6 +6645,105 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+  },
+  "2118459584201289902": {
+   "id": "2118459584201289902",
+   "url": "https://x.com/robertwiblin/status/2118459584201289902",
+   "text": "Yet another correct prediction by AI 2027. In the scenario, speedup from AI is 2x around Dec 2026. I don't like that progress is roughly going as fast as AI 2027 predicted, given that in the scenario, ASI happens in 2027.\n\n(my actual median for ASI is 2028/2029) https://t.co/oJVVvf5KvI",
+   "created_at": "Thu Nov 05 21:44:58 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "nikolaj2030",
+   "rt_author_name": "Nikola Jurkovic",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2087614574690463744/VXhXw1cq_normal.jpg",
+   "rt_id": "2118426318836793659",
+   "likes": 749,
+   "retweets": 62,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWYoJMqbgAAXKYM.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+  },
+  "2118459495953138000": {
+   "id": "2118459495953138000",
+   "url": "https://x.com/robertwiblin/status/2118459495953138000",
+   "text": "Yet more terrible news suggesting RSI could take off in 2027 (if not stopped), with superintelligence to follow soon after.",
+   "created_at": "Thu Nov 05 21:44:37 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 195,
+   "retweets": 22,
+   "media": [],
+   "quoted": {
+    "author": "RyanGreenblatt",
+    "text": "This report on AI R&D automation (RSI) is a big update towards ASI within 1-2 years. It says AI progress is sped up by RSI right now by around 2x. In AI 2027, this happens around March 2027.\n\nI was seriously wrong about RSI speed up; I previously expected much less in 2026 (around 1.15x-1.3x). It seems as though there was specific privately available evidence that would have changed my mind.\n\nI haven't seen an unredacted version of this report; this is purely about the public report. Because so much of the underlying evidence was redacted from the public report, I think conclusions about things other than the observed 2x faster rate of progress on benchmarks depend significantly on trust for the authors of the report. (E.g., conclusions about whether this speed up is from RSI depend on trust.) I do trust the authors of the report a lot to be careful and rigorous and generally do a good job. (Note that I also work at METR.) Less extensive redactions would greatly reduce this need for trust.\n\nSince in my current role I may have access to other confidential information that could be relevant to timelines one way or another, I unfortunately cannot state my all-things-considered views on ASI timelines or the probability of a software intelligence explosion right now. Here, I’ve done some analysis of the implications using my previous public statements.\n\nA 2x acceleration in overall AI progress from RSI corresponds to a much larger than 2x RSI speed up for AI software R&D (algorithms and data); I did an estimate using my public preexisting modeling of drivers of AI progress and the public report which yielded a very rough estimate of 4.5x for how much RSI is currently accelerating AI software progress (relative to no AI automation). In the AI 2027 scenario, this much acceleration happens around March 2027.\n\nHere are the worked details of this estimate based on my public modeling. There are two main reasons RSI speed up of AI software R&D must be larger:\n\n- Not all of AI progress is from better software (some is from scaling up compute in training runs). I've previously speculated that around 2/3 of AI progress is from software improvements which implies that 2x overall AI progress acceleration requires 3x faster software progress.\n- Diminishing returns: A fixed amount of progress requires more work over time, so to ongoingly maintain 3x faster software progress via AI automation, you need increasingly large speed boosts from AI automation (as in, speed ups relative to how fast software R&D would go without AI automation). Based on this report, it seems that there is a substantial amount of additional AI progress from automation that has occurred.\n\nWe can estimate the effects of diminishing returns by first determining how many additional years of software progress we've seen (relative to the preexisting trend) and then estimating how much software R&D would slow down after a year of software progress if you held inputs fixed due to diminishing returns. I've previously estimated software R&D would slow down by around 2x for each year of software progress if you held inputs fixed (https://t.co/AYhl9hyiAj) and based on the report, it seems as though we've perhaps seen roughly 0.35-1.0 years of additional software progress incorporated into trained models so far (geometric mean of ~0.6). This combines to 3 * 2^(~0.6) = ~4.5.\n(Relevant public modeling and numbers I'm using: https://t.co/AYhl9hyiAj, https://t.co/ck7CtW5LIA)"
+   },
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+  },
+  "2118459106612625480": {
+   "id": "2118459106612625480",
+   "url": "https://x.com/robertwiblin/status/2118459106612625480",
+   "text": "Truly outstanding stuff, thanks Michael and team! 🇺🇸",
+   "created_at": "Thu Nov 05 21:43:04 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 129,
+   "retweets": 1,
+   "media": [],
+   "quoted": {
+    "author": "mkratsios47",
+    "text": "Today, we released the National Policy for Nucleic Acid Synthesis Screening to protect American biotechnology innovation while reducing the risk of misuse. \n\nThis policy establishes a new, government-wide screening requirements for synthetic DNA and the equipment used to make it. It will ensure companies selling nucleic acid sequences and synthesis equipment know their customers and prevent the malicious use of these materials and tools.\n\nThis policy strengthens our Nation’s biosecurity posture by establishing rigorous U.S. government-wide procurement screening and physical security standards for synthetic biology. It replaces outdated “self-attestation” systems with robust, independent verification. It creates a dynamic, SI-powered screening layer that assesses the biological risk from nucleic acid sequences, allowing the U.S. to anticipate and prevent malicious use and help stop dangerous gain-of-function research. \n\n@NIST will issue rigorous new screening standards and @HHSGov and @USDA will certify synthetic biology providers. Together, these measures will strengthen American biosecurity, safeguard responsible innovation, and establish a global standard for safe and transparent synthetic biology tools and research."
+   },
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+  },
+  "2118458166279278707": {
+   "id": "2118458166279278707",
+   "url": "https://x.com/robertwiblin/status/2118458166279278707",
+   "text": "This report on AI R&D automation (RSI) is a big update towards ASI within 1-2 years. It says AI progress is sped up by RSI right now by around 2x. In AI 2027, this happens around March 2027.\n\nI was seriously wrong about RSI speed up; I previously expected much less in 2026 (around 1.15x-1.3x). It seems as though there was specific privately available evidence that would have changed my mind.\n\nI haven't seen an unredacted version of this report; this is purely about the public report. Because so much of the underlying evidence was redacted from the public report, I think conclusions about things other than the observed 2x faster rate of progress on benchmarks depend significantly on trust for the authors of the report. (E.g., conclusions about whether this speed up is from RSI depend on trust.) I do trust the authors of the report a lot to be careful and rigorous and generally do a good job. (Note that I also work at METR.) Less extensive redactions would greatly reduce this need for trust.\n\nSince in my current role I may have access to other confidential information that could be relevant to timelines one way or another, I unfortunately cannot state my all-things-considered views on ASI timelines or the probability of a software intelligence explosion right now. Here, I’ve done some analysis of the implications using my previous public statements.\n\nA 2x acceleration in overall AI progress from RSI corresponds to a much larger than 2x RSI speed up for AI software R&D (algorithms and data); I did an estimate using my public preexisting modeling of drivers of AI progress and the public report which yielded a very rough estimate of 4.5x for how much RSI is currently accelerating AI software progress (relative to no AI automation). In the AI 2027 scenario, this much acceleration happens around March 2027.\n\nHere are the worked details of this estimate based on my public modeling. There are two main reasons RSI speed up of AI software R&D must be larger:\n\n- Not all of AI progress is from better software (some is from scaling up compute in training runs). I've previously speculated that around 2/3 of AI progress is from software improvements which implies that 2x overall AI progress acceleration requires 3x faster software progress.\n- Diminishing returns: A fixed amount of progress requires more work over time, so to ongoingly maintain 3x faster software progress via AI automation, you need increasingly large speed boosts from AI automation (as in, speed ups relative to how fast software R&D would go without AI automation). Based on this report, it seems that there is a substantial amount of additional AI progress from automation that has occurred.\n\nWe can estimate the effects of diminishing returns by first determining how many additional years of software progress we've seen (relative to the preexisting trend) and then estimating how much software R&D would slow down after a year of software progress if you held inputs fixed due to diminishing returns. I've previously estimated software R&D would slow down by around 2x for each year of software progress if you held inputs fixed (https://t.co/AYhl9hyiAj) and based on the report, it seems as though we've perhaps seen roughly 0.35-1.0 years of additional software progress incorporated into trained models so far (geometric mean of ~0.6). This combines to 3 * 2^(~0.6) = ~4.5.\n(Relevant public modeling and numbers I'm using: https://t.co/AYhl9hyiAj, https://t.co/ck7CtW5LIA)",
+   "created_at": "Thu Nov 05 21:39:20 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "RyanGreenblatt",
+   "rt_author_name": "Ryan Greenblatt",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1885439620625948673/qD6KYkL6_normal.jpg",
+   "rt_id": "2118447235289817503",
+   "likes": 1147,
+   "retweets": 174,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
   }
  }
 }

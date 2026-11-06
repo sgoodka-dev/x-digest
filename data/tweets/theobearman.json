@@ -6432,6 +6432,58 @@
     "text": "Since August, a team within METR has worked with internal Anthropic information to assess whether AI itself is accelerating AI development.\n\nWe are now publishing a report summarizing the results of this risk assessment."
    },
    "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+  },
+  "2118689629876490245": {
+   "id": "2118689629876490245",
+   "url": "https://x.com/theobearman/status/2118689629876490245",
+   "text": "@LASST_law analysis suggests it may be the case that many investors in Anthropic post-IPO may not be able to hold the company to account for any material misstatements or omissions in the S1 because of a lack of a strict lock-up period.",
+   "created_at": "Fri Nov 06 12:59:05 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "LASST_law",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "LASST_law",
+    "text": "Anthropic appears to have structured its IPO in a way that could make it much harder for investors to hold the company accountable for misstatements in its registration statement. This comes down to a technical rule about who is allowed to sue. \n\nA 🧵, to explain:"
+   },
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+  },
+  "2118470775418060920": {
+   "id": "2118470775418060920",
+   "url": "https://x.com/theobearman/status/2118470775418060920",
+   "text": "Chairman @RepMoolenaar, Chairman @RepBrianMast, and Chairman @RepRickCrawford have sent a letter to NVIDIA CEO Jensen Huang asking him to appear before their three committees this month. The letter expresses concerns over NVIDIA’s security protocols against foreign adversary espionage and Mr. Huang’s reported ties to a Chinese intelligence-linked executive of a Singapore-based data center company.",
+   "created_at": "Thu Nov 05 22:29:26 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ChinaSelect",
+   "rt_author_name": "Select Committee on China",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1998463046943899649/NJGmFUqQ_normal.jpg",
+   "rt_id": "2118452107590189291",
+   "likes": 339,
+   "retweets": 147,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWZA9xUW4AAbJUG.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
   }
  }
 }

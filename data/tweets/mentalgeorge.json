@@ -2713,6 +2713,156 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+  },
+  "2118708539997008200": {
+   "id": "2118708539997008200",
+   "url": "https://x.com/mentalgeorge/status/2118708539997008200",
+   "text": "No one can react the appropriate amount to the New METR Graph, because we have no evidence we can evaluate ourselves.\n\nHowever, one helpful bit in the report is when they leak three of the AECI basket of benchmarks: these at least are the usual weaksauce. An amazing mental effect https://t.co/jKN6z7ROqz",
+   "created_at": "Fri Nov 06 14:14:14 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "gleech",
+   "rt_author_name": "gavin leech (Non-Reasoning)",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1513339291883212803/9m6waiws_normal.jpg",
+   "rt_id": "2118643766760472859",
+   "likes": 40,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWbn5zwXgAAPmul.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+  },
+  "2118706692250542148": {
+   "id": "2118706692250542148",
+   "url": "https://x.com/mentalgeorge/status/2118706692250542148",
+   "text": "@MJewkes @ajeya_cotra In addition the different versions containing different benchmarks, Anthropic also spent far more token per task (2.5M and 72k output) than Epoch (0.5M and 10k). \n\nIf different models have different returns-on-continued-token-spend, the graph will look quite different",
+   "created_at": "Fri Nov 06 14:06:53 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "MJewkes",
+   "reply_to_id": "2118456906457272816",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+  },
+  "2118685355528581342": {
+   "id": "2118685355528581342",
+   "url": "https://x.com/mentalgeorge/status/2118685355528581342",
+   "text": "@Hamish_Low5 yeah i found this interesting too",
+   "created_at": "Fri Nov 06 12:42:06 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "Hamish_Low5",
+   "reply_to_id": "2118635748777726137",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+  },
+  "2118494800408433068": {
+   "id": "2118494800408433068",
+   "url": "https://x.com/mentalgeorge/status/2118494800408433068",
+   "text": "Long-term, I think the argument that \"the safest thing is for specifically us to be in the lead\" just wont work. Even if its literally true! \n\nIt asks too much of those not  at anthropic. maybe made sense in a low political awareness world - thats not the world we've ended up in",
+   "created_at": "Fri Nov 06 00:04:54 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 29,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "Sam_McCandlish",
+    "text": "@JerusalemDemsas Fair question. The short answer is that the unredacted information would allow others to speed up their research, and we thought the safety implications were worse than the benefits of transparency. \n\nLonger answer is that we think an embedded third-party evaluator model is the best way to navigate the trade-off. A third-party with lots of access and time can keep the public informed without requiring the information itself to be public. This still involves trust, but it’s trust in the evaluator rather than just trust in us. We’ve written more about how we see this working here: https://t.co/d3UNp78BP9"
+   },
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+  },
+  "2118491715195834493": {
+   "id": "2118491715195834493",
+   "url": "https://x.com/mentalgeorge/status/2118491715195834493",
+   "text": "@deepfates What it’s like to read a Claude paragraph https://t.co/nKPkSTJqlq",
+   "created_at": "Thu Nov 05 23:52:39 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "mpopv",
+   "rt_author_name": "Matt Popovich",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2102839984659345409/9OwXgZuD_normal.jpg",
+   "rt_id": "2118482062193881315",
+   "likes": 130,
+   "retweets": 10,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWZcNU3a8AA-ii-.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+  },
+  "2118460348378272216": {
+   "id": "2118460348378272216",
+   "url": "https://x.com/mentalgeorge/status/2118460348378272216",
+   "text": "Still the funniest joke I've ever heard on an AI podcast https://t.co/xmCGnSkNPs",
+   "created_at": "Thu Nov 05 21:48:00 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 703,
+   "retweets": 17,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWZIbEDXwAEakdM.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
   }
  }
 }

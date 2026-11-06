@@ -2814,6 +2814,31 @@
    ],
    "quoted": null,
    "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+  },
+  "2118482026487537980": {
+   "id": "2118482026487537980",
+   "url": "https://x.com/NateWitkin/status/2118482026487537980",
+   "text": "This call from July is looking pretty spot-on. Strongly suspect we have not seen the worst of this.",
+   "created_at": "Thu Nov 05 23:14:09 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 23,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "NateWitkin",
+    "text": "My thinking on the AI bubble question has always been pretty simple:\n\n1. “AI as a normal technology” is, roughly speaking, the correct outlook.\n\n2. Current valuations are not consistent with that outlook. In particular, they reflect excess optimism about the the relationship between contrived benchmarks of AI capability and economic impact, which is also to say the prospective scale of enterprise token demand.\n\n3. A series of large corrections, stratified across time and market sectors, will occur as investors come to terms with this. \n\nEarlier this month, I predicted that there would be a larger market-wide correction by EOY, and I stand by that prediction."
+   },
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
   }
  }
 }

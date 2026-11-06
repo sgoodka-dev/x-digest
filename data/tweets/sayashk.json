@@ -2706,6 +2706,33 @@
    ],
    "quoted": null,
    "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+  },
+  "2118700394385666352": {
+   "id": "2118700394385666352",
+   "url": "https://x.com/sayashk/status/2118700394385666352",
+   "text": "No one can react the appropriate amount to the New METR Graph, because we have no evidence we can evaluate ourselves.\n\nHowever, one helpful bit in the report is when they leak three of the AECI basket of benchmarks: these at least are the usual weaksauce. An amazing mental effect https://t.co/jKN6z7ROqz",
+   "created_at": "Fri Nov 06 13:41:52 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1521238232867946496/U_GCI43e_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "gleech",
+   "rt_author_name": "gavin leech (Non-Reasoning)",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1513339291883212803/9m6waiws_normal.jpg",
+   "rt_id": "2118643766760472859",
+   "likes": 40,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWbn5zwXgAAPmul.png"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
   }
  }
 }

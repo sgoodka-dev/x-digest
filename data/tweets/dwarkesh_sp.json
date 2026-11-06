@@ -2892,6 +2892,186 @@
    ],
    "quoted": null,
    "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+  },
+  "2118575364792569945": {
+   "id": "2118575364792569945",
+   "url": "https://x.com/dwarkesh_sp/status/2118575364792569945",
+   "text": "Honestly quite impressed with the methodology on this benchmark. @dwarkesh_sp want a job designing evals at @OpenAI? https://t.co/cnfu0gcNtu",
+   "created_at": "Fri Nov 06 05:25:02 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "polynoamial",
+   "rt_author_name": "Noam Brown",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1872883170292457472/8ywVGO5M_normal.jpg",
+   "rt_id": "2118514804189233568",
+   "likes": 1846,
+   "retweets": 46,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWZ5_MjbsAAi6FN.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+  },
+  "2118570995359662181": {
+   "id": "2118570995359662181",
+   "url": "https://x.com/dwarkesh_sp/status/2118570995359662181",
+   "text": "@polynoamial @OpenAI The eval I want is one that lets us know when AIs can beat *you* at Blood on the Clocktower",
+   "created_at": "Fri Nov 06 05:07:41 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "polynoamial",
+   "reply_to_id": "2118514804189233568",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 101,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+  },
+  "2118506486708294139": {
+   "id": "2118506486708294139",
+   "url": "https://x.com/dwarkesh_sp/status/2118506486708294139",
+   "text": "Full video: https://t.co/U3M387AbXQ",
+   "created_at": "Fri Nov 06 00:51:21 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "dwarkesh_sp",
+   "reply_to_id": "2118506296735600824",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 22,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+  },
+  "2118506296735600824": {
+   "id": "2118506296735600824",
+   "url": "https://x.com/dwarkesh_sp/status/2118506296735600824",
+   "text": "The best game I watched the AIs play: https://t.co/y3kJecZQxq",
+   "created_at": "Fri Nov 06 00:50:35 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 267,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2118505115099500544/img/hMQvMn8vs7_aY7t6.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "dwarkesh_sp",
+    "text": "I spent 20,000 dollars in API credits having different AI models play each other at Blood on the Clocktower (a Mafia or Werewolf type social deception game).\n\nThe results were fascinating. Models have gotten much better over the course of this year at creative on-the-spot scheming and bluffing, and also at reasoning as a team to break apart these underground conspiracies.\n\nI go through some of the most standout games these AIs played in this video. The new models are getting pretty good.  If my friends pulled off some of these moves while we were playing, I’d give them a fist bump.\n\nFwiw, OpenAI’s newer models are much better than Anthropic’s at this game.\n\nYou can see the full benchmark at the website, and I’ve also made it so that you and your friends can play again the AIs: https://t.co/IF4d0EMSD8"
+   },
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+  },
+  "2118478531969818864": {
+   "id": "2118478531969818864",
+   "url": "https://x.com/dwarkesh_sp/status/2118478531969818864",
+   "text": "We don’t know how anesthesia works, only that it does.\n\nRemarkably, anesthesia works on single-celled amoebas.\n\nNick Lane explains how this opens up all sorts of questions not only about anesthesia, but consciousness itself.\n\nhttps://t.co/koKm4KZphH https://t.co/DaNGmoBxvf",
+   "created_at": "Thu Nov 05 23:00:16 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1915048486505971712/H2jFRoW6_normal.jpg",
+   "rt_id": "2118478466698158453",
+   "likes": 118,
+   "retweets": 9,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2118464074769948672/img/lOpCsnq-FWzl9fbk.jpg"
+    }
+   ],
+   "quoted": null,
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+  },
+  "2118476123176923488": {
+   "id": "2118476123176923488",
+   "url": "https://x.com/dwarkesh_sp/status/2118476123176923488",
+   "text": "OpenAI models demolishing Anthropic models at Blood on the Clocktower (Astra has a 82% win rate against Opus 5.5). https://t.co/IuqicNusMO",
+   "created_at": "Thu Nov 05 22:50:41 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 464,
+   "retweets": 14,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWZWyRwbYAAgoD_.jpg"
+    }
+   ],
+   "quoted": {
+    "author": "dwarkesh_sp",
+    "text": "I spent 20,000 dollars in API credits having different AI models play each other at Blood on the Clocktower (a Mafia or Werewolf type social deception game).\n\nThe results were fascinating. Models have gotten much better over the course of this year at creative on-the-spot scheming and bluffing, and also at reasoning as a team to break apart these underground conspiracies.\n\nI go through some of the most standout games these AIs played in this video. The new models are getting pretty good.  If my friends pulled off some of these moves while we were playing, I’d give them a fist bump.\n\nFwiw, OpenAI’s newer models are much better than Anthropic’s at this game.\n\nYou can see the full benchmark at the website, and I’ve also made it so that you and your friends can play again the AIs: https://t.co/IF4d0EMSD8"
+   },
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+  },
+  "2118466121317924959": {
+   "id": "2118466121317924959",
+   "url": "https://x.com/dwarkesh_sp/status/2118466121317924959",
+   "text": "@Madisonkanna I'm unfortunately not autistic enough to understand age of empires",
+   "created_at": "Thu Nov 05 22:10:57 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "Madisonkanna",
+   "reply_to_id": "2118461465472782520",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 132,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
   }
  }
 }

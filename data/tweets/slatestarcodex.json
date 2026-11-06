@@ -2573,6 +2573,28 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+  },
+  "2118567478246990113": {
+   "id": "2118567478246990113",
+   "url": "https://x.com/slatestarcodex/status/2118567478246990113",
+   "text": "@StefanFSchubert Do you understand why Opus 5.5 seems above trend on this graph but not on https://t.co/9EkjM9urZ6 ?",
+   "created_at": "Fri Nov 06 04:53:42 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "StefanFSchubert",
+   "reply_to_id": "2118457872736452809",
+   "avatar": "https://pbs.twimg.com/profile_images/378800000009065862/83d72de47e2a2470c482bc75406b42a7_normal.png",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 18,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
   }
  }
 }

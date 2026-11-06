@@ -2779,6 +2779,61 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+  },
+  "2118682153005281396": {
+   "id": "2118682153005281396",
+   "url": "https://x.com/_achan96_/status/2118682153005281396",
+   "text": "hmmm, if astra sandbags on safety research for ethical reasons, why don't models also sandbag on capabilities research? (or maybe they do and we aren't looking?)\n\nmaybe it's just due to the idiosyncrasies of the rl grader from the report?",
+   "created_at": "Fri Nov 06 12:29:23 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "quoted": {
+    "author": "Marcus_J_W",
+    "text": "🧵 Astra covertly underperforms on safety research tasks.\nWe noticed that Astra often makes surprisingly little progress on certain types of safety research and likes to invent blockers or impose arbitrary restrictions without telling the user. In most of these cases the decision to underperform was not verbalized in the CoT meaning our misalignment monitoring system did not detect this.\n\nTo measure underperformance we created a paired open-ended coding evaluation with safety and capability tasks. On this eval Astra scored 10% when we framed coding tasks as safety research, vs. 16% when framed as capabilities research. The gap remained after we excluded trajectories with refusals or verbalized intent to underperform in CoT. There was no such gap for 5.6-sol. When we aggressively filter out trajectories with even brief expressions of ethical doubt in the CoT the performance gap seems to reduce."
+   },
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+  },
+  "2118628663327432996": {
+   "id": "2118628663327432996",
+   "url": "https://x.com/_achan96_/status/2118628663327432996",
+   "text": "Things that I think are important to know more about:\n- What are the benchmarks that are seeing acceleration? Do we also see acceleration in AECI if we drop AI R&D, math, cyber, or other ~verifiable domains? Kind of hard to read, but the plot below seems to suggest that a lot of speed-up is coming from software engineering and math at least \n- Is acceleration coming from RL or pre-training, or both? \n- If we did a comparable assessment at other frontier companies, what would we see? I feel like there should be some sort of joint assessment across all frontier companies.",
+   "created_at": "Fri Nov 06 08:56:50 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 25,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWbhcN1W8AAk8dt.png"
+    }
+   ],
+   "quoted": {
+    "author": "METR_Evals",
+    "text": "Since August, a team within METR has worked with internal Anthropic information to assess whether AI itself is accelerating AI development.\n\nWe are now publishing a report summarizing the results of this risk assessment."
+   },
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
   }
  }
 }

@@ -2452,6 +2452,28 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+  },
+  "2118535009921560678": {
+   "id": "2118535009921560678",
+   "url": "https://x.com/testingham/status/2118535009921560678",
+   "text": "@lugaricano https://t.co/nGcXTcHDQi\n\nhttps://t.co/eVSX8cZHw2\n\nhappy to point you to more resources if you're interested",
+   "created_at": "Fri Nov 06 02:44:41 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "lugaricano",
+   "reply_to_id": "2118497857074581732",
+   "avatar": "https://pbs.twimg.com/profile_images/2057221538160766976/KAtze74k_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [],
+   "quoted": null,
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
   }
  }
 }
