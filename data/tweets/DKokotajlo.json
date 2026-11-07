@@ -4816,6 +4816,92 @@
    },
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
    "enriched": 1
+  },
+  "2119100752161645027": {
+   "id": "2119100752161645027",
+   "url": "https://x.com/DKokotajlo/status/2119100752161645027",
+   "text": "@viemccoy @panickssery That's the main takeaway, yeah. As we speak there are probably dozens of anthropic employees scrolling twitter and thinking \"The people are angry at us. If only they knew what I know, they would understand...\"\n\nNo. If they knew what you know, they would be even angrier.",
+   "created_at": "Sat Nov 07 16:12:44 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "viemccoy",
+   "reply_to_id": "2118510732434383111",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-07T16:50:32.232257+00:00",
+   "enriched": 1
+  },
+  "2119099767137640522": {
+   "id": "2119099767137640522",
+   "url": "https://x.com/DKokotajlo/status/2119099767137640522",
+   "text": "Uhhh Anthropic made an offer to one of the risk assessment staff at METR during this project??? (Which the person declined)\n\nWe need rules about independent evaluators going to cos they evaluate after and in the meantime companies should be shamed for trying this stuff https://t.co/2ca51xSV5K",
+   "created_at": "Sat Nov 07 16:08:50 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "_NathanCalvin",
+   "rt_author_name": "Nathan Calvin",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1976484090426634240/YFgYic9h_normal.jpg",
+   "rt_id": "2118740763018404328",
+   "likes": 728,
+   "retweets": 46,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWdHfjGaQAIgj0y.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/2ca51xSV5K": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-07T16:50:32.232257+00:00",
+   "enriched": 1
+  },
+  "2119098173197320505": {
+   "id": "2119098173197320505",
+   "url": "https://x.com/DKokotajlo/status/2119098173197320505",
+   "text": "AECI scores extracted from the graph imply that the time horizon doubling time is now around 2 months, and that the TH of Model 4 is around 240 hours.\n\nTBC this is pretty weak evidence. It's unclear if there is a clear 1:1 mapping from AECI to time horizon for numbers this large. https://t.co/SWuqsF4Zha",
+   "created_at": "Sat Nov 07 16:02:30 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "nikolaj2030",
+   "rt_author_name": "Nikola Jurkovic",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2087614574690463744/VXhXw1cq_normal.jpg",
+   "rt_id": "2118776619687133579",
+   "likes": 192,
+   "retweets": 22,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWdn7AXbEAEKozd.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/SWuqsF4Zha": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-07T16:50:32.232257+00:00",
+   "enriched": 1
   }
  }
 }

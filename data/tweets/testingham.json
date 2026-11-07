@@ -2806,6 +2806,30 @@
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
    "enriched": 1
+  },
+  "2119079836639715516": {
+   "id": "2119079836639715516",
+   "url": "https://x.com/testingham/status/2119079836639715516",
+   "text": "@lugaricano FWIW I acknowledge it’s a weird situation where you know the rate of acceleration but you don't know the location or velocity. Like sitting in a car blindfolded , you can feel the g’s but you don't know how fast you're going or where you are.",
+   "created_at": "Sat Nov 07 14:49:38 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "testingham",
+   "reply_to_id": "2118726168048534007",
+   "avatar": "https://pbs.twimg.com/profile_images/2057221538160766976/KAtze74k_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 5,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-07T16:50:32.232257+00:00",
+   "enriched": 1
   }
  }
 }

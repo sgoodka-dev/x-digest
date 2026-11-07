@@ -6891,6 +6891,30 @@
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
    "enriched": 1
+  },
+  "2119083870981107954": {
+   "id": "2119083870981107954",
+   "url": "https://x.com/sethlazar/status/2119083870981107954",
+   "text": "@jonathanstray Soviet cybernetics!",
+   "created_at": "Sat Nov 07 15:05:40 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": true,
+   "reply_to": "jonathanstray",
+   "reply_to_id": "2119072600018108839",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-07T16:50:32.232257+00:00",
+   "enriched": 1
   }
  }
 }
