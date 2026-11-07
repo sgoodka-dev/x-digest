@@ -6257,9 +6257,14 @@
    "media": [],
    "quoted": {
     "author": "AnthropicAI",
-    "text": "We’ve trained Claude to flag potential misuse in conversations, a technique we call self-assessment. Right after it responds, Claude gives a preliminary safety assessment of the conversation. \n\nSince we began using self-assessment in June, it has surfaced misuse that our other safeguards weren’t designed to catch. \n\nBecause Claude has already read the conversation, self-assessment is very efficient. And unlike classifiers, which target a discrete set of harms, it draws on Claude’s own judgment, so it gets more accurate as our models improve.\n\nRead more on our new Safeguards blog:\nhttps://t.co/18j6zdHub4"
+    "text": "We’ve trained Claude to flag potential misuse in conversations, a technique we call self-assessment. Right after it responds, Claude gives a preliminary safety assessment of the conversation. \n\nSince we began using self-assessment in June, it has surfaced misuse that our other safeguards weren’t designed to catch. \n\nBecause Claude has already read the conversation, self-assessment is very efficient. And unlike classifiers, which target a discrete set of harms, it draws on Claude’s own judgment, so it gets more accurate as our models improve.\n\nRead more on our new Safeguards blog:\nhttps://t.co/18j6zdHub4",
+    "links": {
+     "https://t.co/18j6zdHub4": "https://safeguards.anthropic.com/2026/self-assessment/"
+    }
    },
-   "fetched_at": "2026-11-01T17:07:41.505079+00:00"
+   "fetched_at": "2026-11-01T17:07:41.505079+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2116738203679932636": {
    "id": "2116738203679932636",
@@ -6334,7 +6339,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-01T19:41:50.876536+00:00"
+   "fetched_at": "2026-11-01T19:41:50.876536+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117331331889951153": {
    "id": "2117331331889951153",
@@ -6352,7 +6359,9 @@
    "retweets": 2,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117115558164664452": {
    "id": "2117115558164664452",
@@ -6370,7 +6379,9 @@
    "retweets": 1,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117000091332653380": {
    "id": "2117000091332653380",
@@ -6388,7 +6399,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117655112311287962": {
    "id": "2117655112311287962",
@@ -6415,7 +6428,12 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {
+    "https://t.co/AcfIsj9PcI": "https://blog.cosmos-institute.org/p/cosmos-is-hiring-a-chief-of-staff",
+    "https://t.co/ylNXAd6ssB": ""
+   },
+   "enriched": 1
   },
   "2117478810551542006": {
    "id": "2117478810551542006",
@@ -6437,7 +6455,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117478783431360781": {
    "id": "2117478783431360781",
@@ -6459,7 +6479,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117476563264442373": {
    "id": "2117476563264442373",
@@ -6490,7 +6512,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {
+    "https://t.co/pq3xmUWji1": "https://nymag.com/intelligencer/article/most-powerful-people-in-ai-2026-list.html"
+   },
+   "enriched": 1
   },
   "2117464577265066095": {
    "id": "2117464577265066095",
@@ -6513,9 +6539,14 @@
    "media": [],
    "quoted": {
     "author": "slimer48484",
-    "text": "I am in awe. This guy discovered a way to locate any audio clip by matching aircraft doppler curves against flight data. INSANE. https://t.co/y9Vq2NWbdj"
+    "text": "I am in awe. This guy discovered a way to locate any audio clip by matching aircraft doppler curves against flight data. INSANE. https://t.co/y9Vq2NWbdj",
+    "links": {
+     "https://t.co/y9Vq2NWbdj": ""
+    }
    },
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117444024780886086": {
    "id": "2117444024780886086",
@@ -6537,7 +6568,9 @@
    "retweets": 33,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117408783903117751": {
    "id": "2117408783903117751",
@@ -6559,7 +6592,9 @@
    "retweets": 1,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117715014337335509": {
    "id": "2117715014337335509",
@@ -6581,7 +6616,11 @@
    "retweets": 11,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T21:00:07.693918+00:00"
+   "fetched_at": "2026-11-03T21:00:07.693918+00:00",
+   "links": {
+    "https://t.co/zrDsMApW72": "https://clic-lab.org/join/phd"
+   },
+   "enriched": 1
   },
   "2117995872961081469": {
    "id": "2117995872961081469",
@@ -6603,7 +6642,9 @@
    "retweets": 87,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117835235140247686": {
    "id": "2117835235140247686",
@@ -6630,7 +6671,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {
+    "https://t.co/GZsm8knmEe": ""
+   },
+   "enriched": 1
   },
   "2117784171405820157": {
    "id": "2117784171405820157",
@@ -6652,7 +6697,9 @@
    "retweets": 8,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117749585627996180": {
    "id": "2117749585627996180",
@@ -6675,9 +6722,12 @@
    "media": [],
    "quoted": {
     "author": "paraschopra",
-    "text": "I replicated this with Claude Code!\n\nIt took a live webcam 7 km south of Southampton, UK and predicted its location purely from doppler effect in audio spectrogram + open-source aircraft location data.\n\nLo and behold, the predicted location (heatmap) peaks at actual location where webcam is situated.\n\nIt's crazy that this works at all, and crazier still I replicated it within a few hours."
+    "text": "I replicated this with Claude Code!\n\nIt took a live webcam 7 km south of Southampton, UK and predicted its location purely from doppler effect in audio spectrogram + open-source aircraft location data.\n\nLo and behold, the predicted location (heatmap) peaks at actual location where webcam is situated.\n\nIt's crazy that this works at all, and crazier still I replicated it within a few hours.",
+    "links": {}
    },
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118070941263819148": {
    "id": "2118070941263819148",
@@ -6704,7 +6754,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-04T21:20:35.164155+00:00"
+   "fetched_at": "2026-11-04T21:20:35.164155+00:00",
+   "links": {
+    "https://t.co/MZJh8AKsye": ""
+   },
+   "enriched": 1
   },
   "2118132147680637037": {
    "id": "2118132147680637037",
@@ -6726,7 +6780,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118754260124848396": {
    "id": "2118754260124848396",
@@ -6753,7 +6809,12 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00",
+   "links": {
+    "https://t.co/2SPaf53JpH": "https://blog.cosmos-institute.org/p/what-will-you-build-for-matthew-botvinick",
+    "https://t.co/bPFhg4WM3z": ""
+   },
+   "enriched": 1
   },
   "2118754183818137768": {
    "id": "2118754183818137768",
@@ -6776,9 +6837,12 @@
    "media": [],
    "quoted": {
     "author": "mattbotvinick",
-    "text": "There are certain moments when you realize -- or immediately feel -- that history is flowing, with all of its possibility and uncertainty. Walter Benjamin's parable of the wind-blown angel. We are now on the knife edge. Will we lean ourselves toward a future of renewed democracy, with AI as a help and blessing, or toward a renewed slide toward authoritarianism, with AI as a permanent curse? I don't know. But history feels alive again, and for today that feels like enough."
+    "text": "There are certain moments when you realize -- or immediately feel -- that history is flowing, with all of its possibility and uncertainty. Walter Benjamin's parable of the wind-blown angel. We are now on the knife edge. Will we lean ourselves toward a future of renewed democracy, with AI as a help and blessing, or toward a renewed slide toward authoritarianism, with AI as a permanent curse? I don't know. But history feels alive again, and for today that feels like enough.",
+    "links": {}
    },
-   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118730792696172778": {
    "id": "2118730792696172778",
@@ -6800,7 +6864,33 @@
    "retweets": 5,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00",
+   "links": {},
+   "enriched": 1
+  },
+  "2118861877551792436": {
+   "id": "2118861877551792436",
+   "url": "https://x.com/sethlazar/status/2118861877551792436",
+   "text": "Apply to be a postdoc at Cornell (NYC and Ithaca)! I am recruiting candidates interested in technical approaches to responsible AI.",
+   "created_at": "Sat Nov 07 00:23:32 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ang3linawang",
+   "rt_author_name": "Angelina Wang @angelinawang.bsky.social",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1830741039004688386/guCN4F2L_normal.jpg",
+   "rt_id": "2118740643199566047",
+   "likes": 35,
+   "retweets": 5,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-07T13:15:19.739124+00:00",
+   "enriched": 1
   }
  }
 }

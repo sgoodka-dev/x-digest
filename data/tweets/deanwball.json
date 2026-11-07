@@ -9068,7 +9068,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-01T19:41:50.876536+00:00"
+   "fetched_at": "2026-11-01T19:41:50.876536+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117324338990883228": {
    "id": "2117324338990883228",
@@ -9086,7 +9088,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117300835885482280": {
    "id": "2117300835885482280",
@@ -9104,7 +9108,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117288510835061083": {
    "id": "2117288510835061083",
@@ -9122,7 +9128,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117288193535983993": {
    "id": "2117288193535983993",
@@ -9141,9 +9149,12 @@
    "media": [],
    "quoted": {
     "author": "AndyMasley",
-    "text": "Lose a lot of respect for people who flash their credentials as experts in a field to argue for a very contested idea within the field as if it's the official position that all non-experts should defer to."
+    "text": "Lose a lot of respect for people who flash their credentials as experts in a field to argue for a very contested idea within the field as if it's the official position that all non-experts should defer to.",
+    "links": {}
    },
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117656425438605340": {
    "id": "2117656425438605340",
@@ -9165,7 +9176,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117405375200993479": {
    "id": "2117405375200993479",
@@ -9187,7 +9200,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117405081947828619": {
    "id": "2117405081947828619",
@@ -9210,9 +9225,12 @@
    "media": [],
    "quoted": {
     "author": "AlexKrentsel",
-    "text": "the way I'm thinking about this - there's a whole body of work of interpretably research from 2010s a la \"look at model, this neuron lights up when image contains dog, so this is the dog neuron\". this seems akin to that, but scaled beyond human capability"
+    "text": "the way I'm thinking about this - there's a whole body of work of interpretably research from 2010s a la \"look at model, this neuron lights up when image contains dog, so this is the dog neuron\". this seems akin to that, but scaled beyond human capability",
+    "links": {}
    },
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117697164952441069": {
    "id": "2117697164952441069",
@@ -9239,7 +9257,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-03T21:00:07.693918+00:00"
+   "fetched_at": "2026-11-03T21:00:07.693918+00:00",
+   "links": {
+    "https://t.co/b3rW9zYJGA": ""
+   },
+   "enriched": 1
   },
   "2118011911770136592": {
    "id": "2118011911770136592",
@@ -9261,7 +9283,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118000801176330377": {
    "id": "2118000801176330377",
@@ -9283,7 +9307,9 @@
    "retweets": 5,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117993348480860162": {
    "id": "2117993348480860162",
@@ -9305,7 +9331,9 @@
    "retweets": 87,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117983878883279231": {
    "id": "2117983878883279231",
@@ -9327,7 +9355,9 @@
    "retweets": 2,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117943982969737384": {
    "id": "2117943982969737384",
@@ -9349,7 +9379,9 @@
    "retweets": 1,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117787648873926809": {
    "id": "2117787648873926809",
@@ -9371,7 +9403,9 @@
    "retweets": 10,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118061335913349546": {
    "id": "2118061335913349546",
@@ -9393,7 +9427,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T21:20:35.164155+00:00"
+   "fetched_at": "2026-11-04T21:20:35.164155+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118211919790194723": {
    "id": "2118211919790194723",
@@ -9415,7 +9451,9 @@
    "retweets": 20,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118210765484175445": {
    "id": "2118210765484175445",
@@ -9437,7 +9475,9 @@
    "retweets": 3,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118209399143489569": {
    "id": "2118209399143489569",
@@ -9460,9 +9500,12 @@
    "media": [],
    "quoted": {
     "author": "tszzl",
-    "text": "the federal government and who runs it is a very small part of the story in america, by design. most of history happens with its private citizens and their enterprise and individual courage. easy to forget in the onslaught of political media"
+    "text": "the federal government and who runs it is a very small part of the story in america, by design. most of history happens with its private citizens and their enterprise and individual courage. easy to forget in the onslaught of political media",
+    "links": {}
    },
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118208547712540971": {
    "id": "2118208547712540971",
@@ -9484,7 +9527,9 @@
    "retweets": 64,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118185785082183833": {
    "id": "2118185785082183833",
@@ -9506,7 +9551,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118184978790101114": {
    "id": "2118184978790101114",
@@ -9541,7 +9588,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {
+    "https://t.co/iPHZRHO3y0": ""
+   },
+   "enriched": 1
   },
   "2118182477571215388": {
    "id": "2118182477571215388",
@@ -9568,7 +9619,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {
+    "https://t.co/h9RqObSJQ9": ""
+   },
+   "enriched": 1
   },
   "2118181982060339340": {
    "id": "2118181982060339340",
@@ -9591,9 +9646,12 @@
    "media": [],
    "quoted": {
     "author": "deanwball",
-    "text": "Pressed for his response on the latest developments in the conflict between Anthropic and the U.S. government, Ball said, “the deepest tragedy, really, is white paint. You can’t buy true white paint anymore in the United States, can you believe that? You know, the lead carbonate, that warm white that every old master built their portraits from. You just can’t buy that. By contrast, we Americans, under the thumb of the EPA and the various state-government nannies, are left to paint our walls with these unearthily bright whites, like the face of a dead man, everywhere we turn our eyes.”"
+    "text": "Pressed for his response on the latest developments in the conflict between Anthropic and the U.S. government, Ball said, “the deepest tragedy, really, is white paint. You can’t buy true white paint anymore in the United States, can you believe that? You know, the lead carbonate, that warm white that every old master built their portraits from. You just can’t buy that. By contrast, we Americans, under the thumb of the EPA and the various state-government nannies, are left to paint our walls with these unearthily bright whites, like the face of a dead man, everywhere we turn our eyes.”",
+    "links": {}
    },
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118169534444273736": {
    "id": "2118169534444273736",
@@ -9615,7 +9673,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118153477406736845": {
    "id": "2118153477406736845",
@@ -9638,9 +9698,12 @@
    "media": [],
    "quoted": {
     "author": "deanwball",
-    "text": "Astra is one of my favorite technology releases of all time and I’d be saying that regardless of whether I worked at OpenAI. In fact, if I didn’t work at OpenAI, I’d surely be talking about how wonderful I find Astra much more."
+    "text": "Astra is one of my favorite technology releases of all time and I’d be saying that regardless of whether I worked at OpenAI. In fact, if I didn’t work at OpenAI, I’d surely be talking about how wonderful I find Astra much more.",
+    "links": {}
    },
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118149203616497991": {
    "id": "2118149203616497991",
@@ -9663,9 +9726,14 @@
    "media": [],
    "quoted": {
     "author": "EpochAIResearch",
-    "text": "With better uncertainty estimates and a joint distribution over all models’ ECIs, we can now compare models directly.\n\nFor example, we can now say Astra has a 72% probability of being more capable than Opus 5.5, but a 99% probability of being more capable than Fable 5.1. https://t.co/RsPPblSLRM"
+    "text": "With better uncertainty estimates and a joint distribution over all models’ ECIs, we can now compare models directly.\n\nFor example, we can now say Astra has a 72% probability of being more capable than Opus 5.5, but a 99% probability of being more capable than Fable 5.1. https://t.co/RsPPblSLRM",
+    "links": {
+     "https://t.co/RsPPblSLRM": ""
+    }
    },
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118148043010953246": {
    "id": "2118148043010953246",
@@ -9692,7 +9760,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {
+    "https://t.co/RsPPblSLRM": ""
+   },
+   "enriched": 1
   },
   "2118142184146788378": {
    "id": "2118142184146788378",
@@ -9714,7 +9786,9 @@
    "retweets": 113,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118142005888905548": {
    "id": "2118142005888905548",
@@ -9736,7 +9810,9 @@
    "retweets": 23,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118141927740907620": {
    "id": "2118141927740907620",
@@ -9758,7 +9834,11 @@
    "retweets": 31,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {
+    "https://t.co/vXCImlBCWE": "https://openai.com/index/a-thousand-fewer-paths-to-root/"
+   },
+   "enriched": 1
   },
   "2118110190071677263": {
    "id": "2118110190071677263",
@@ -9780,7 +9860,22 @@
    "retweets": 85,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {
+    "https://t.co/lfj7mzSQJS": "https://x.com/patrickc/status/2118081177492066485"
+   },
+   "linked": [
+    {
+     "id": "2118081177492066485",
+     "author_handle": "patrickc",
+     "author_name": "Patrick Collison",
+     "text": "It seems to me that democracy has on the whole worked very well in America over the last decade, and perhaps better than in any other major country in the West. National outcomes have repeatedly been responsive to underlying voter preferences on meaningful questions, and significant changes in policy have ensued. I’ve been reading Democracy in America this past week, and it’s striking how much it still rhymes nearly two centuries later.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/patrickc/status/2118081177492066485"
+    }
+   ],
+   "enriched": 1
   },
   "2118389663643873356": {
    "id": "2118389663643873356",
@@ -9803,9 +9898,14 @@
    "media": [],
    "quoted": {
     "author": "NSF",
-    "text": "NSF announces a new funding opportunity in bioengineering through NSF X-labs — From Sequence to Function. \n\nTeams working to accelerate breakthroughs in understanding the relationship between biological sequence and function are invited to apply.\n\nhttps://t.co/rHniOz58OT"
+    "text": "NSF announces a new funding opportunity in bioengineering through NSF X-labs — From Sequence to Function. \n\nTeams working to accelerate breakthroughs in understanding the relationship between biological sequence and function are invited to apply.\n\nhttps://t.co/rHniOz58OT",
+    "links": {
+     "https://t.co/rHniOz58OT": "https://brnw.ch/21x6V31"
+    }
    },
-   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118366488923107838": {
    "id": "2118366488923107838",
@@ -9828,9 +9928,12 @@
    "media": [],
    "quoted": {
     "author": "mkratsios47",
-    "text": "Today, we released the National Policy for Nucleic Acid Synthesis Screening to protect American biotechnology innovation while reducing the risk of misuse. \n\nThis policy establishes a new, government-wide screening requirements for synthetic DNA and the equipment used to make it. It will ensure companies selling nucleic acid sequences and synthesis equipment know their customers and prevent the malicious use of these materials and tools.\n\nThis policy strengthens our Nation’s biosecurity posture by establishing rigorous U.S. government-wide procurement screening and physical security standards for synthetic biology. It replaces outdated “self-attestation” systems with robust, independent verification. It creates a dynamic, SI-powered screening layer that assesses the biological risk from nucleic acid sequences, allowing the U.S. to anticipate and prevent malicious use and help stop dangerous gain-of-function research. \n\n@NIST will issue rigorous new screening standards and @HHSGov and @USDA will certify synthetic biology providers. Together, these measures will strengthen American biosecurity, safeguard responsible innovation, and establish a global standard for safe and transparent synthetic biology tools and research."
+    "text": "Today, we released the National Policy for Nucleic Acid Synthesis Screening to protect American biotechnology innovation while reducing the risk of misuse. \n\nThis policy establishes a new, government-wide screening requirements for synthetic DNA and the equipment used to make it. It will ensure companies selling nucleic acid sequences and synthesis equipment know their customers and prevent the malicious use of these materials and tools.\n\nThis policy strengthens our Nation’s biosecurity posture by establishing rigorous U.S. government-wide procurement screening and physical security standards for synthetic biology. It replaces outdated “self-attestation” systems with robust, independent verification. It creates a dynamic, SI-powered screening layer that assesses the biological risk from nucleic acid sequences, allowing the U.S. to anticipate and prevent malicious use and help stop dangerous gain-of-function research. \n\n@NIST will issue rigorous new screening standards and @HHSGov and @USDA will certify synthetic biology providers. Together, these measures will strengthen American biosecurity, safeguard responsible innovation, and establish a global standard for safe and transparent synthetic biology tools and research.",
+    "links": {}
    },
-   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118366089537376634": {
    "id": "2118366089537376634",
@@ -9857,7 +9960,9 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118439860575027511": {
    "id": "2118439860575027511",
@@ -9880,9 +9985,14 @@
    "media": [],
    "quoted": {
     "author": "OpenAINewsroom",
-    "text": "The communities that host AI infrastructure should have a say in how it’s built and share in the benefits.\n\nToday we’re announcing new commitments to the communities where we build, along with policy proposals for responsible AI infrastructure.\n\nhttps://t.co/rSGc0iIj6i"
+    "text": "The communities that host AI infrastructure should have a say in how it’s built and share in the benefits.\n\nToday we’re announcing new commitments to the communities where we build, along with policy proposals for responsible AI infrastructure.\n\nhttps://t.co/rSGc0iIj6i",
+    "links": {
+     "https://t.co/rSGc0iIj6i": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/"
+    }
    },
-   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118420194292887605": {
    "id": "2118420194292887605",
@@ -9909,7 +10019,9 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118676136884379690": {
    "id": "2118676136884379690",
@@ -9931,7 +10043,9 @@
    "retweets": 9,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118675528186245350": {
    "id": "2118675528186245350",
@@ -9953,7 +10067,9 @@
    "retweets": 37,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118805270755422685": {
    "id": "2118805270755422685",
@@ -9975,7 +10091,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T20:54:35.151346+00:00"
+   "fetched_at": "2026-11-06T20:54:35.151346+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118799206785937844": {
    "id": "2118799206785937844",
@@ -9998,9 +10116,12 @@
    "media": [],
    "quoted": {
     "author": "dhvanil",
-    "text": "i went to bed and asked claude to paint an autumn tree overnight.\n\nat around 4am, it realised that it didn't have some shades -- so it stopped and titrated its own paint: diluting red, sienna and madder step by step on a second palette, then measuring each pocket from a photo.\n\nwoke up to this beautiful watercolor painting. 303 brush marks, took about 4.5 hours 🍂 (still working on the speed)"
+    "text": "i went to bed and asked claude to paint an autumn tree overnight.\n\nat around 4am, it realised that it didn't have some shades -- so it stopped and titrated its own paint: diluting red, sienna and madder step by step on a second palette, then measuring each pocket from a photo.\n\nwoke up to this beautiful watercolor painting. 303 brush marks, took about 4.5 hours 🍂 (still working on the speed)",
+    "links": {}
    },
-   "fetched_at": "2026-11-06T20:54:35.151346+00:00"
+   "fetched_at": "2026-11-06T20:54:35.151346+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118789980063662331": {
    "id": "2118789980063662331",
@@ -10022,7 +10143,9 @@
    "retweets": 9,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T20:54:35.151346+00:00"
+   "fetched_at": "2026-11-06T20:54:35.151346+00:00",
+   "links": {},
+   "enriched": 1
   }
  }
 }

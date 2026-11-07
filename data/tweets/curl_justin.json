@@ -2025,7 +2025,9 @@
    "retweets": 3,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117869654148612179": {
    "id": "2117869654148612179",
@@ -2052,7 +2054,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {
+    "https://t.co/EpPqOE215Q": ""
+   },
+   "enriched": 1
   },
   "2117828416015851542": {
    "id": "2117828416015851542",
@@ -2074,7 +2080,9 @@
    "retweets": 3,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117776374463377611": {
    "id": "2117776374463377611",
@@ -2096,7 +2104,9 @@
    "retweets": 65,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118058071721427034": {
    "id": "2118058071721427034",
@@ -2119,9 +2129,14 @@
    "media": [],
    "quoted": {
     "author": "brianmcgrail",
-    "text": "Encode AI is hiring a Policy Counsel/Associate Policy Counsel to work with me on our Policy Development team. \n\nYou’ll help us develop our policy proposals and draft and review bills. Law degree required. Full time in DC. Salary $130,000 to $235,000.\n\nI’m biased, but I think this is an unusually high-impact job for a lawyer who wants to reduce risks from advanced AI. Familiarity with AI policy is a plus but not required. \n\nApply by Sunday, November 22, for the first round; rolling review after that. If you know a lawyer who’d be a good fit, please send it their way or repost.\n\nhttps://t.co/ZL0t66LFmP"
+    "text": "Encode AI is hiring a Policy Counsel/Associate Policy Counsel to work with me on our Policy Development team. \n\nYou’ll help us develop our policy proposals and draft and review bills. Law degree required. Full time in DC. Salary $130,000 to $235,000.\n\nI’m biased, but I think this is an unusually high-impact job for a lawyer who wants to reduce risks from advanced AI. Familiarity with AI policy is a plus but not required. \n\nApply by Sunday, November 22, for the first round; rolling review after that. If you know a lawyer who’d be a good fit, please send it their way or repost.\n\nhttps://t.co/ZL0t66LFmP",
+    "links": {
+     "https://t.co/ZL0t66LFmP": "https://jobs.ashbyhq.com/encode-ai/4fe97271-20d0-46bf-b37b-f4cb923f4fdf"
+    }
    },
-   "fetched_at": "2026-11-04T21:20:35.164155+00:00"
+   "fetched_at": "2026-11-04T21:20:35.164155+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118567566004380118": {
    "id": "2118567566004380118",
@@ -2143,7 +2158,12 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {
+    "https://t.co/INCzixvpAn": "https://arxiv.org/abs/2603.10028",
+    "https://t.co/7CZwut4b9J": "https://theacorp.org/faq/"
+   },
+   "enriched": 1
   },
   "2118567071630209306": {
    "id": "2118567071630209306",
@@ -2165,7 +2185,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118548270989643807": {
    "id": "2118548270989643807",
@@ -2188,9 +2210,46 @@
    "media": [],
    "quoted": {
     "author": "MTSlive",
-    "text": "SITUATION DETECTED: Delaware is drafting a proposal for a new form of corporate entity called an Artificial Intelligence Company (AIC). An AI managing an AIC would be able to provide services, sign contracts, hold property, and even file or defend lawsuits in the company’s name."
+    "text": "SITUATION DETECTED: Delaware is drafting a proposal for a new form of corporate entity called an Artificial Intelligence Company (AIC). An AI managing an AIC would be able to provide services, sign contracts, hold property, and even file or defend lawsuits in the company’s name.",
+    "links": {}
    },
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {
+    "https://t.co/oGUtqVZNCp": "https://download.ssrn.com/2026/2/20/6273198.pdf",
+    "https://t.co/jAE0nTZjbp": "https://soniafpearson.substack.com/p/capitalizing-untethered-ai-agents"
+   },
+   "enriched": 1
+  },
+  "2118893141965353314": {
+   "id": "2118893141965353314",
+   "url": "https://x.com/curl_justin/status/2118893141965353314",
+   "text": "We released LegalBench in August 2023. In the three years since, it's become one of the more widely used benchmarks for legal AI. In the spirit of critical self-reflection, I wrote some thoughts about (1) what went well, (2) what I wish I'd done differently, and (3) what this all means for the future of legal AI research. \n\nI wanted to highlight a few specific reflections.",
+   "created_at": "Sat Nov 07 02:27:46 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2072421779977699328/n3YQnb67_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "NeelGuha",
+   "rt_author_name": "Neel Guha",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2072004168437596160/ypownppf_normal.jpg",
+   "rt_id": "2118767987997995304",
+   "likes": 117,
+   "retweets": 25,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWdcQICWYAAmjgp.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/slfeWMmpwg": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-07T13:15:19.739124+00:00",
+   "enriched": 1
   }
  }
 }

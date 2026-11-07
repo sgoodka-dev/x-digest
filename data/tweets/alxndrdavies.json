@@ -1672,7 +1672,9 @@
    "retweets": 1,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00",
+   "links": {},
+   "enriched": 1
   }
  }
 }

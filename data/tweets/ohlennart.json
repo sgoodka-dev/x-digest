@@ -1970,9 +1970,14 @@
    "media": [],
    "quoted": {
     "author": "ohlennart",
-    "text": "one thing i keep hearing about pacing: would it crash the market?\n\nbut if you think RSI is coming, markets are massively underpricing AI. even paced, we’re above that line IMO.\n\nfrom the market’s view though, pacing means going down. https://t.co/laISNHEFTU"
+    "text": "one thing i keep hearing about pacing: would it crash the market?\n\nbut if you think RSI is coming, markets are massively underpricing AI. even paced, we’re above that line IMO.\n\nfrom the market’s view though, pacing means going down. https://t.co/laISNHEFTU",
+    "links": {
+     "https://t.co/laISNHEFTU": ""
+    }
    },
-   "fetched_at": "2026-11-02T23:07:13.070865+00:00"
+   "fetched_at": "2026-11-02T23:07:13.070865+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117369250843349083": {
    "id": "2117369250843349083",
@@ -1999,7 +2004,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-02T23:07:13.070865+00:00"
+   "fetched_at": "2026-11-02T23:07:13.070865+00:00",
+   "links": {
+    "https://t.co/laISNHEFTU": ""
+   },
+   "enriched": 1
   },
   "2117674165801009264": {
    "id": "2117674165801009264",
@@ -2027,9 +2036,16 @@
    ],
    "quoted": {
     "author": "ohlennart",
-    "text": "Since November 2025, the US is spending more on data centers than on offices. \n\nBuilding housing for the new workforce. https://t.co/L17XUQy6LW"
+    "text": "Since November 2025, the US is spending more on data centers than on offices. \n\nBuilding housing for the new workforce. https://t.co/L17XUQy6LW",
+    "links": {
+     "https://t.co/L17XUQy6LW": ""
+    }
    },
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {
+    "https://t.co/g3mj4saNLk": ""
+   },
+   "enriched": 1
   },
   "2117655397561778234": {
    "id": "2117655397561778234",
@@ -2051,7 +2067,11 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {
+    "https://t.co/gBPmFTHxVr": "https://www.anthropic.com/research/provable-inference"
+   },
+   "enriched": 1
   },
   "2117655352795906389": {
    "id": "2117655352795906389",
@@ -2079,9 +2099,14 @@
    ],
    "quoted": {
     "author": "ohlennart",
-    "text": "Mauricio is right. Outsiders often can’t make progress on these problems, or move way slower. And there simply aren’t many people working on this.\n\nEvery. single. person. working on verification makes a difference."
+    "text": "Mauricio is right. Outsiders often can’t make progress on these problems, or move way slower. And there simply aren’t many people working on this.\n\nEvery. single. person. working on verification makes a difference.",
+    "links": {}
    },
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {
+    "https://t.co/IxKwgIYGSP": ""
+   },
+   "enriched": 1
   },
   "2117686020082897404": {
    "id": "2117686020082897404",
@@ -2103,7 +2128,11 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T21:00:07.693918+00:00"
+   "fetched_at": "2026-11-03T21:00:07.693918+00:00",
+   "links": {
+    "https://t.co/vtdckMzcBP": "https://openai.com/index/ai-and-compute/"
+   },
+   "enriched": 1
   },
   "2117686018019295435": {
    "id": "2117686018019295435",
@@ -2131,9 +2160,16 @@
    ],
    "quoted": {
     "author": "finmoorhouse",
-    "text": "Gordon Moore based his prediction on 5 data points. https://t.co/KE6ef7LAFx"
+    "text": "Gordon Moore based his prediction on 5 data points. https://t.co/KE6ef7LAFx",
+    "links": {
+     "https://t.co/KE6ef7LAFx": ""
+    }
    },
-   "fetched_at": "2026-11-03T21:00:07.693918+00:00"
+   "fetched_at": "2026-11-03T21:00:07.693918+00:00",
+   "links": {
+    "https://t.co/oltWQ1cHEa": ""
+   },
+   "enriched": 1
   },
   "2117767075959845120": {
    "id": "2117767075959845120",
@@ -2155,7 +2191,11 @@
    "retweets": 20,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {
+    "https://t.co/0pn81QXTKK": "https://www.anthropic.com/research/provable-inference"
+   },
+   "enriched": 1
   },
   "2118747991234302001": {
    "id": "2118747991234302001",
@@ -2177,7 +2217,9 @@
    "retweets": 3,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118797132597764145": {
    "id": "2118797132597764145",
@@ -2200,9 +2242,12 @@
    "media": [],
    "quoted": {
     "author": "EpochAIResearch",
-    "text": "Huawei’s AI data center in Horinger, Inner Mongolia, is one of the largest in China by AI computing capacity. Yet it has just 7% as much computing capacity as the world’s largest AI data center, Colossus 2 in Tennessee.\n\nThis capacity estimate is from our new report examining the Horinger facility and Huawei’s broader AI infrastructure plans using satellite imagery and public sources."
+    "text": "Huawei’s AI data center in Horinger, Inner Mongolia, is one of the largest in China by AI computing capacity. Yet it has just 7% as much computing capacity as the world’s largest AI data center, Colossus 2 in Tennessee.\n\nThis capacity estimate is from our new report examining the Horinger facility and Huawei’s broader AI infrastructure plans using satellite imagery and public sources.",
+    "links": {}
    },
-   "fetched_at": "2026-11-06T20:54:35.151346+00:00"
+   "fetched_at": "2026-11-06T20:54:35.151346+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118788936621588708": {
    "id": "2118788936621588708",
@@ -2225,9 +2270,15 @@
    "media": [],
    "quoted": {
     "author": "Thomas_Woodside",
-    "text": "All the frontier AI companies should be required by law to report on their compute allocations. @SenJoshBecker's bill would do so.\n\nhttps://t.co/F9Hk0iGNil https://t.co/htyFiZh1Oi"
+    "text": "All the frontier AI companies should be required by law to report on their compute allocations. @SenJoshBecker's bill would do so.\n\nhttps://t.co/F9Hk0iGNil https://t.co/htyFiZh1Oi",
+    "links": {
+     "https://t.co/F9Hk0iGNil": "https://sd13.senate.ca.gov/news/press-release/october-20-2026/senator-becker-introduces-first-its-kind-legislation-to-make-ai",
+     "https://t.co/htyFiZh1Oi": ""
+    }
    },
-   "fetched_at": "2026-11-06T20:54:35.151346+00:00"
+   "fetched_at": "2026-11-06T20:54:35.151346+00:00",
+   "links": {},
+   "enriched": 1
   }
  }
 }

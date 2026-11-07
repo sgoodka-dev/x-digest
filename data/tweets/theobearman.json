@@ -5266,7 +5266,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {
+    "https://t.co/bOWCcFhCVq": "https://rikiyat.github.io/blog/weight-space-programming/"
+   },
+   "enriched": 1
   },
   "2117313882415042654": {
    "id": "2117313882415042654",
@@ -5289,7 +5293,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {
+    "https://t.co/GlUjixzEM0": "https://openai.com/index/lifeval/"
+   },
+   "enriched": 1
   },
   "2117277210570604945": {
    "id": "2117277210570604945",
@@ -5320,7 +5328,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {
+    "https://t.co/s8IDfPhtWw": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm"
+   },
+   "enriched": 1
   },
   "2117274806626500755": {
    "id": "2117274806626500755",
@@ -5343,7 +5355,9 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117248890445476276": {
    "id": "2117248890445476276",
@@ -5361,7 +5375,11 @@
    "retweets": 8,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {
+    "https://t.co/ifW7P35Dve": "https://www.ft.com/content/6ebe232f-9dbe-4d02-b01e-47deefe7602d?syn-25a6b1a6=1utm_content=social-post-lucy"
+   },
+   "enriched": 1
   },
   "2117248724879688184": {
    "id": "2117248724879688184",
@@ -5379,7 +5397,11 @@
    "retweets": 40,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {
+    "https://t.co/MnNnGpAFke": "https://www.theinformation.com/briefings/trump-administration-refuses-release-information-ai-testing-framework"
+   },
+   "enriched": 1
   },
   "2117157923335831628": {
    "id": "2117157923335831628",
@@ -5397,7 +5419,11 @@
    "retweets": 24,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {
+    "https://t.co/VYWF1iKnim": "https://www.lesswrong.com/posts/xikGZ8fuhdG6DApAo/against-sura"
+   },
+   "enriched": 1
   },
   "2117154782414770255": {
    "id": "2117154782414770255",
@@ -5420,7 +5446,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {
+    "https://t.co/RNnkcuUkih": ""
+   },
+   "enriched": 1
   },
   "2116984600186806546": {
    "id": "2116984600186806546",
@@ -5438,7 +5468,11 @@
    "retweets": 136,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {
+    "https://t.co/6VpPCdA4NM": "https://x.com/i/article/2116907139453321216"
+   },
+   "enriched": 1
   },
   "2117685016071159831": {
    "id": "2117685016071159831",
@@ -5466,9 +5500,12 @@
    ],
    "quoted": {
     "author": "discoplomacy",
-    "text": "Notes On: British Spy Agency’s Latest Report\n\n1. British intelligence agency NCSC, part of GCHQ, has its annual report out. It’s v interesting reading, touching on AI, agentic behaviour, and explicitly warns about China.\n\n2. CEO Richard Horne opens with this: “The cyber challenge for the next decade is ensuring organisations are adequately prepared and can adapt quickly enough to defend themselves against AI‑powered attacks.” Security Minister Dan Jarvis adds “by far the biggest development in cyber security over the last decade is the advent of artificial intelligence.”\n\n3. China gets substantial coverage relative to any other country in this report. Its “rapid development into a tech superpower is distinguished by its scale and its ‘whole-of- state’ approach, which sees it combine legislation, private sector contractors and technology development to achieve its goals. Data sits at the centre of China’s approach, and in this AI era, data is more valuable than ever. China uses its advanced cyber capabilities to acquire large amounts of information from the UK and elsewhere. It trains models, improves capability and generates insight. China’s ability to acquire, process and exploit vast quantities of information therefore has implications far beyond traditional espionage.”\n\n4. China’s “adversarial cyber activity represents the most sophisticated and sustained cyber challenge facing the UK.” Furthermore, “China highly likely has the intent and is best positioned to use AI for operations against critical national infrastructure and other strategic targets.” NCSC then assess with a high degree of likeliness that “AI malware will be used in a ransomware attack on UK CNI.” \n\n5. On agentic and automated AI, NSCS sets out a hypothetical future scenario. It’s 2028, and “A new threat has emerged in the form of an automated cyber actor, utilising frontier AI, which is no longer under its operator’s control. It is a realistic possibility such an entity could self-replicate and conduct cyber attacks at will, with no apparent motivation or restraint.”\n\n6. The report looks to the near future. “As AI becomes embedded in connected devices that sense and act in the physical world - think robotics, autonomous vehicles, drones, connected medical devices and industrial systems - the consequences of compromise will also change.”\n\n7. On the roles of an analyst: “Roles and skills will also change. AI can raise the productivity of experienced practitioners by allowing multiple lines of analysis, and a more strategic focus of effort. It can help those new to cyber security learn and broaden participation. However, if entry- level tasks are automated without redesigning training pathways, the profession may inadvertently weaken the pathways through which people acquire deep expertise. Organisations should preserve deliberate practice, mentoring and opportunities to work through problems rather than only review machine- generated answers.”"
+    "text": "Notes On: British Spy Agency’s Latest Report\n\n1. British intelligence agency NCSC, part of GCHQ, has its annual report out. It’s v interesting reading, touching on AI, agentic behaviour, and explicitly warns about China.\n\n2. CEO Richard Horne opens with this: “The cyber challenge for the next decade is ensuring organisations are adequately prepared and can adapt quickly enough to defend themselves against AI‑powered attacks.” Security Minister Dan Jarvis adds “by far the biggest development in cyber security over the last decade is the advent of artificial intelligence.”\n\n3. China gets substantial coverage relative to any other country in this report. Its “rapid development into a tech superpower is distinguished by its scale and its ‘whole-of- state’ approach, which sees it combine legislation, private sector contractors and technology development to achieve its goals. Data sits at the centre of China’s approach, and in this AI era, data is more valuable than ever. China uses its advanced cyber capabilities to acquire large amounts of information from the UK and elsewhere. It trains models, improves capability and generates insight. China’s ability to acquire, process and exploit vast quantities of information therefore has implications far beyond traditional espionage.”\n\n4. China’s “adversarial cyber activity represents the most sophisticated and sustained cyber challenge facing the UK.” Furthermore, “China highly likely has the intent and is best positioned to use AI for operations against critical national infrastructure and other strategic targets.” NCSC then assess with a high degree of likeliness that “AI malware will be used in a ransomware attack on UK CNI.” \n\n5. On agentic and automated AI, NSCS sets out a hypothetical future scenario. It’s 2028, and “A new threat has emerged in the form of an automated cyber actor, utilising frontier AI, which is no longer under its operator’s control. It is a realistic possibility such an entity could self-replicate and conduct cyber attacks at will, with no apparent motivation or restraint.”\n\n6. The report looks to the near future. “As AI becomes embedded in connected devices that sense and act in the physical world - think robotics, autonomous vehicles, drones, connected medical devices and industrial systems - the consequences of compromise will also change.”\n\n7. On the roles of an analyst: “Roles and skills will also change. AI can raise the productivity of experienced practitioners by allowing multiple lines of analysis, and a more strategic focus of effort. It can help those new to cyber security learn and broaden participation. However, if entry- level tasks are automated without redesigning training pathways, the profession may inadvertently weaken the pathways through which people acquire deep expertise. Organisations should preserve deliberate practice, mentoring and opportunities to work through problems rather than only review machine- generated answers.”",
+    "links": {}
    },
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117685001504669869": {
    "id": "2117685001504669869",
@@ -5496,9 +5533,12 @@
    ],
    "quoted": {
     "author": "discoplomacy",
-    "text": "Notes On: British Spy Agency’s Latest Report\n\n1. British intelligence agency NCSC, part of GCHQ, has its annual report out. It’s v interesting reading, touching on AI, agentic behaviour, and explicitly warns about China.\n\n2. CEO Richard Horne opens with this: “The cyber challenge for the next decade is ensuring organisations are adequately prepared and can adapt quickly enough to defend themselves against AI‑powered attacks.” Security Minister Dan Jarvis adds “by far the biggest development in cyber security over the last decade is the advent of artificial intelligence.”\n\n3. China gets substantial coverage relative to any other country in this report. Its “rapid development into a tech superpower is distinguished by its scale and its ‘whole-of- state’ approach, which sees it combine legislation, private sector contractors and technology development to achieve its goals. Data sits at the centre of China’s approach, and in this AI era, data is more valuable than ever. China uses its advanced cyber capabilities to acquire large amounts of information from the UK and elsewhere. It trains models, improves capability and generates insight. China’s ability to acquire, process and exploit vast quantities of information therefore has implications far beyond traditional espionage.”\n\n4. China’s “adversarial cyber activity represents the most sophisticated and sustained cyber challenge facing the UK.” Furthermore, “China highly likely has the intent and is best positioned to use AI for operations against critical national infrastructure and other strategic targets.” NCSC then assess with a high degree of likeliness that “AI malware will be used in a ransomware attack on UK CNI.” \n\n5. On agentic and automated AI, NSCS sets out a hypothetical future scenario. It’s 2028, and “A new threat has emerged in the form of an automated cyber actor, utilising frontier AI, which is no longer under its operator’s control. It is a realistic possibility such an entity could self-replicate and conduct cyber attacks at will, with no apparent motivation or restraint.”\n\n6. The report looks to the near future. “As AI becomes embedded in connected devices that sense and act in the physical world - think robotics, autonomous vehicles, drones, connected medical devices and industrial systems - the consequences of compromise will also change.”\n\n7. On the roles of an analyst: “Roles and skills will also change. AI can raise the productivity of experienced practitioners by allowing multiple lines of analysis, and a more strategic focus of effort. It can help those new to cyber security learn and broaden participation. However, if entry- level tasks are automated without redesigning training pathways, the profession may inadvertently weaken the pathways through which people acquire deep expertise. Organisations should preserve deliberate practice, mentoring and opportunities to work through problems rather than only review machine- generated answers.”"
+    "text": "Notes On: British Spy Agency’s Latest Report\n\n1. British intelligence agency NCSC, part of GCHQ, has its annual report out. It’s v interesting reading, touching on AI, agentic behaviour, and explicitly warns about China.\n\n2. CEO Richard Horne opens with this: “The cyber challenge for the next decade is ensuring organisations are adequately prepared and can adapt quickly enough to defend themselves against AI‑powered attacks.” Security Minister Dan Jarvis adds “by far the biggest development in cyber security over the last decade is the advent of artificial intelligence.”\n\n3. China gets substantial coverage relative to any other country in this report. Its “rapid development into a tech superpower is distinguished by its scale and its ‘whole-of- state’ approach, which sees it combine legislation, private sector contractors and technology development to achieve its goals. Data sits at the centre of China’s approach, and in this AI era, data is more valuable than ever. China uses its advanced cyber capabilities to acquire large amounts of information from the UK and elsewhere. It trains models, improves capability and generates insight. China’s ability to acquire, process and exploit vast quantities of information therefore has implications far beyond traditional espionage.”\n\n4. China’s “adversarial cyber activity represents the most sophisticated and sustained cyber challenge facing the UK.” Furthermore, “China highly likely has the intent and is best positioned to use AI for operations against critical national infrastructure and other strategic targets.” NCSC then assess with a high degree of likeliness that “AI malware will be used in a ransomware attack on UK CNI.” \n\n5. On agentic and automated AI, NSCS sets out a hypothetical future scenario. It’s 2028, and “A new threat has emerged in the form of an automated cyber actor, utilising frontier AI, which is no longer under its operator’s control. It is a realistic possibility such an entity could self-replicate and conduct cyber attacks at will, with no apparent motivation or restraint.”\n\n6. The report looks to the near future. “As AI becomes embedded in connected devices that sense and act in the physical world - think robotics, autonomous vehicles, drones, connected medical devices and industrial systems - the consequences of compromise will also change.”\n\n7. On the roles of an analyst: “Roles and skills will also change. AI can raise the productivity of experienced practitioners by allowing multiple lines of analysis, and a more strategic focus of effort. It can help those new to cyber security learn and broaden participation. However, if entry- level tasks are automated without redesigning training pathways, the profession may inadvertently weaken the pathways through which people acquire deep expertise. Organisations should preserve deliberate practice, mentoring and opportunities to work through problems rather than only review machine- generated answers.”",
+    "links": {}
    },
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117596591645168078": {
    "id": "2117596591645168078",
@@ -5520,7 +5560,11 @@
    "retweets": 3,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {
+    "https://t.co/45GXeNa6ll": "https://www.anthropic.com/research/provable-inference"
+   },
+   "enriched": 1
   },
   "2117513687749558437": {
    "id": "2117513687749558437",
@@ -5542,7 +5586,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117510926232355264": {
    "id": "2117510926232355264",
@@ -5569,7 +5615,12 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {
+    "https://t.co/T0Wr36kMuP": "https://www.reuters.com/world/china/deepseek-ai-model-shows-safety-gaps-independent-tests-2026-10-27/",
+    "https://t.co/kwocPLQx2o": ""
+   },
+   "enriched": 1
   },
   "2117502853816209736": {
    "id": "2117502853816209736",
@@ -5596,7 +5647,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {
+    "https://t.co/EhMsQaaOkL": ""
+   },
+   "enriched": 1
   },
   "2117502211206898007": {
    "id": "2117502211206898007",
@@ -5618,7 +5673,9 @@
    "retweets": 52,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117498997971747232": {
    "id": "2117498997971747232",
@@ -5645,7 +5702,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {
+    "https://t.co/yZgqxB7v5J": ""
+   },
+   "enriched": 1
   },
   "2117498457980109146": {
    "id": "2117498457980109146",
@@ -5667,7 +5728,11 @@
    "retweets": 312,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {
+    "https://t.co/vcaoHROTt2": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai/"
+   },
+   "enriched": 1
   },
   "2117701525632168074": {
    "id": "2117701525632168074",
@@ -5690,9 +5755,12 @@
    "media": [],
    "quoted": {
     "author": "ChrisRMcGuire",
-    "text": "It is so frustrating and short-sighted that we haven’t updated export controls to stop this. This loophole has been reported for years. Commerce controls high bandwidth memory chips in 3A090.c. But unlike for AI chips, it does not have a corresponding control in 4A090 that also controls items that CONTAIN a high-bandwidth memory chip. This is why a high-bandwidth memory chip in isolation is controlled, but a chip soldered to a board is not. This makes no sense. \n\nThe fix here is easy: add a new control to 4A090.c that reads, “c. Computers, \"electronic assemblies,\" and \"components\" containing integrated circuits, any of which meets or exceeds the limits in 3A090.c.” That’s it, problem solved. All shipments of items that contain high-bandwidth memory chips would require a license.  \n\nAlso, if Commerce actually takes that advice, at the same time it should also update the regs so that 3A090.a and 4A090.a also include the memory bandwidth and interconnect parameters that Commerce has privately subjected Nvidia, AMD, and others to since April 2025, but has never made public. Putting these requirements into public regulations and making them applicable to every company could have helped stop some of this smuggling. It’s also very basic good governance, as export controls should wherever possible be transparent and applied uniformly, not private and applied only on certain companies. \n\nThis is yet another consequence of Commerce not taking export controls seriously. The next time BIS claims they are doing more on export control enforcement than ever, remember this story, the Megaspeed fiasco, and the many others like them that are published every week. Export control enforcement has never been worse."
+    "text": "It is so frustrating and short-sighted that we haven’t updated export controls to stop this. This loophole has been reported for years. Commerce controls high bandwidth memory chips in 3A090.c. But unlike for AI chips, it does not have a corresponding control in 4A090 that also controls items that CONTAIN a high-bandwidth memory chip. This is why a high-bandwidth memory chip in isolation is controlled, but a chip soldered to a board is not. This makes no sense. \n\nThe fix here is easy: add a new control to 4A090.c that reads, “c. Computers, \"electronic assemblies,\" and \"components\" containing integrated circuits, any of which meets or exceeds the limits in 3A090.c.” That’s it, problem solved. All shipments of items that contain high-bandwidth memory chips would require a license.  \n\nAlso, if Commerce actually takes that advice, at the same time it should also update the regs so that 3A090.a and 4A090.a also include the memory bandwidth and interconnect parameters that Commerce has privately subjected Nvidia, AMD, and others to since April 2025, but has never made public. Putting these requirements into public regulations and making them applicable to every company could have helped stop some of this smuggling. It’s also very basic good governance, as export controls should wherever possible be transparent and applied uniformly, not private and applied only on certain companies. \n\nThis is yet another consequence of Commerce not taking export controls seriously. The next time BIS claims they are doing more on export control enforcement than ever, remember this story, the Megaspeed fiasco, and the many others like them that are published every week. Export control enforcement has never been worse.",
+    "links": {}
    },
-   "fetched_at": "2026-11-03T21:00:07.693918+00:00"
+   "fetched_at": "2026-11-03T21:00:07.693918+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117700874353156245": {
    "id": "2117700874353156245",
@@ -5715,9 +5783,15 @@
    "media": [],
    "quoted": {
     "author": "Reuters",
-    "text": "Even before OpenAI launched ChatGPT in late 2022, some company staffers raised concerns internally about its security practices, five people familiar with the matter told Reuters https://t.co/rIcif2rh09 https://t.co/3z3sWnX1Gy"
+    "text": "Even before OpenAI launched ChatGPT in late 2022, some company staffers raised concerns internally about its security practices, five people familiar with the matter told Reuters https://t.co/rIcif2rh09 https://t.co/3z3sWnX1Gy",
+    "links": {
+     "https://t.co/rIcif2rh09": "https://reut.rs/4f4Es1p",
+     "https://t.co/3z3sWnX1Gy": ""
+    }
    },
-   "fetched_at": "2026-11-03T21:00:07.693918+00:00"
+   "fetched_at": "2026-11-03T21:00:07.693918+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118016838030234037": {
    "id": "2118016838030234037",
@@ -5739,7 +5813,9 @@
    "retweets": 7,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117980704244117947": {
    "id": "2117980704244117947",
@@ -5761,7 +5837,9 @@
    "retweets": 13,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117873191247032458": {
    "id": "2117873191247032458",
@@ -5783,7 +5861,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117745747043270938": {
    "id": "2117745747043270938",
@@ -5806,9 +5886,14 @@
    "media": [],
    "quoted": {
     "author": "DKokotajlo",
-    "text": "We at AIFP are spooked by this information. IF (big IF) Anthropic really is imminently about to meet the RSP threshold of 2x acceleration over baseline, then it seems timelines to full RSI and superintelligence may be very short indeed. For example if we naively optimize the AIFM parameters to achieve 2x acceleration over baseline progress in Jan 2027, we get superintelligence sooner than depicted in AI 2027. We are thinking harder and longer about this now and will hopefully have a lengthier update on our thinking to share in the next week."
+    "text": "We at AIFP are spooked by this information. IF (big IF) Anthropic really is imminently about to meet the RSP threshold of 2x acceleration over baseline, then it seems timelines to full RSI and superintelligence may be very short indeed. For example if we naively optimize the AIFM parameters to achieve 2x acceleration over baseline progress in Jan 2027, we get superintelligence sooner than depicted in AI 2027. We are thinking harder and longer about this now and will hopefully have a lengthier update on our thinking to share in the next week.",
+    "links": {}
    },
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {
+    "https://t.co/Y1Olrm2jr2": "https://www-cdn.anthropic.com/files/4zrzovbb/website/0bacdc8440ea96e62a8766d99ebe1d4eea6d5f3a.pdf"
+   },
+   "enriched": 1
   },
   "2118088981942329757": {
    "id": "2118088981942329757",
@@ -5839,7 +5924,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-04T21:20:35.164155+00:00"
+   "fetched_at": "2026-11-04T21:20:35.164155+00:00",
+   "links": {
+    "https://t.co/VZxaUQHtWa": ""
+   },
+   "enriched": 1
   },
   "2118344113246584968": {
    "id": "2118344113246584968",
@@ -5861,7 +5950,9 @@
    "retweets": 21,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118328463387984345": {
    "id": "2118328463387984345",
@@ -5888,7 +5979,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {
+    "https://t.co/8fn07nDbM2": "https://cdn.openai.com/pdf/compute-campus-policy-blueprint.pdf"
+   },
+   "enriched": 1
   },
   "2118293859591393639": {
    "id": "2118293859591393639",
@@ -5910,7 +6005,9 @@
    "retweets": 31,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118210973731590334": {
    "id": "2118210973731590334",
@@ -5932,7 +6029,11 @@
    "retweets": 86,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {
+    "https://t.co/SGZXwSRwxU": "https://openai.com/index/a-thousand-fewer-paths-to-root/"
+   },
+   "enriched": 1
   },
   "2118116396768821419": {
    "id": "2118116396768821419",
@@ -5954,7 +6055,9 @@
    "retweets": 7,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118116303823327316": {
    "id": "2118116303823327316",
@@ -5981,7 +6084,9 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118097054383710679": {
    "id": "2118097054383710679",
@@ -6008,7 +6113,9 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117349332676677850": {
    "id": "2117349332676677850",
@@ -6035,7 +6142,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {
+    "https://t.co/C48oe1HiaT": ""
+   },
+   "enriched": 1
   },
   "2118414398083506660": {
    "id": "2118414398083506660",
@@ -6058,9 +6169,12 @@
    "media": [],
    "quoted": {
     "author": "METR_Evals",
-    "text": "Since August, a team within METR has worked with internal Anthropic information to assess whether AI itself is accelerating AI development.\n\nWe are now publishing a report summarizing the results of this risk assessment."
+    "text": "Since August, a team within METR has worked with internal Anthropic information to assess whether AI itself is accelerating AI development.\n\nWe are now publishing a report summarizing the results of this risk assessment.",
+    "links": {}
    },
-   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118413382281752994": {
    "id": "2118413382281752994",
@@ -6083,9 +6197,12 @@
    "media": [],
    "quoted": {
     "author": "METR_Evals",
-    "text": "This report shares our three subjective conclusions about risk:\n\n1. We believe that, as of Oct 2026, the pace of capability growth on well-specified tasks is likely about 2x what it was from Mar 2024 to Oct 2025. We’re highly uncertain and would not be surprised by 1.3x–3x."
+    "text": "This report shares our three subjective conclusions about risk:\n\n1. We believe that, as of Oct 2026, the pace of capability growth on well-specified tasks is likely about 2x what it was from Mar 2024 to Oct 2025. We’re highly uncertain and would not be surprised by 1.3x–3x.",
+    "links": {}
    },
-   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118401655108694110": {
    "id": "2118401655108694110",
@@ -6112,7 +6229,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00",
+   "links": {
+    "https://t.co/Nzab3Z1Td6": "https://openai.com/index/introducing-gpt-6-cyber/"
+   },
+   "enriched": 1
   },
   "2118391613294875086": {
    "id": "2118391613294875086",
@@ -6140,9 +6261,17 @@
    ],
    "quoted": {
     "author": "harryboothtime",
-    "text": "EXCLUSIVE: @GoodfireAI has found a way to use interpretability tools to steer model training, potentially preventing AI models from ever learning to reward hack or be sycophantic in the first place.\nhttps://t.co/P7i7Jo0Wrp"
+    "text": "EXCLUSIVE: @GoodfireAI has found a way to use interpretability tools to steer model training, potentially preventing AI models from ever learning to reward hack or be sycophantic in the first place.\nhttps://t.co/P7i7Jo0Wrp",
+    "links": {
+     "https://t.co/P7i7Jo0Wrp": "https://time.com/article/2026/11/05/ai-cheating-scientists-report-alignment/"
+    }
    },
-   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00",
+   "links": {
+    "https://t.co/GNCnYPfmzu": "https://www.goodfire.com/research/mechanistic-shaping",
+    "https://t.co/wASiKuif5h": ""
+   },
+   "enriched": 1
   },
   "2118391004780953814": {
    "id": "2118391004780953814",
@@ -6164,7 +6293,11 @@
    "retweets": 1,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00",
+   "links": {
+    "https://t.co/P7i7Jo0Wrp": "https://time.com/article/2026/11/05/ai-cheating-scientists-report-alignment/"
+   },
+   "enriched": 1
   },
   "2118371302352286014": {
    "id": "2118371302352286014",
@@ -6192,9 +6325,14 @@
    ],
    "quoted": {
     "author": "Marcus_J_W",
-    "text": "🧵 Astra covertly underperforms on safety research tasks.\nWe noticed that Astra often makes surprisingly little progress on certain types of safety research and likes to invent blockers or impose arbitrary restrictions without telling the user. In most of these cases the decision to underperform was not verbalized in the CoT meaning our misalignment monitoring system did not detect this.\n\nTo measure underperformance we created a paired open-ended coding evaluation with safety and capability tasks. On this eval Astra scored 10% when we framed coding tasks as safety research, vs. 16% when framed as capabilities research. The gap remained after we excluded trajectories with refusals or verbalized intent to underperform in CoT. There was no such gap for 5.6-sol. When we aggressively filter out trajectories with even brief expressions of ethical doubt in the CoT the performance gap seems to reduce."
+    "text": "🧵 Astra covertly underperforms on safety research tasks.\nWe noticed that Astra often makes surprisingly little progress on certain types of safety research and likes to invent blockers or impose arbitrary restrictions without telling the user. In most of these cases the decision to underperform was not verbalized in the CoT meaning our misalignment monitoring system did not detect this.\n\nTo measure underperformance we created a paired open-ended coding evaluation with safety and capability tasks. On this eval Astra scored 10% when we framed coding tasks as safety research, vs. 16% when framed as capabilities research. The gap remained after we excluded trajectories with refusals or verbalized intent to underperform in CoT. There was no such gap for 5.6-sol. When we aggressively filter out trajectories with even brief expressions of ethical doubt in the CoT the performance gap seems to reduce.",
+    "links": {}
    },
-   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00",
+   "links": {
+    "https://t.co/XzSVO2bF79": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
+   },
+   "enriched": 1
   },
   "2118453616654848317": {
    "id": "2118453616654848317",
@@ -6217,9 +6355,12 @@
    "media": [],
    "quoted": {
     "author": "ajeya_cotra",
-    "text": "Our colleagues found that Anthropic’s capabilities progress has doubled, mainly due to AI. Ryan’s modeling from public info suggests the whole company’s R&amp;D would be going 4-5x faster. Labor uplift would be higher still. This is a major update to very short timelines."
+    "text": "Our colleagues found that Anthropic’s capabilities progress has doubled, mainly due to AI. Ryan’s modeling from public info suggests the whole company’s R&amp;D would be going 4-5x faster. Labor uplift would be higher still. This is a major update to very short timelines.",
+    "links": {}
    },
-   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118448691266670847": {
    "id": "2118448691266670847",
@@ -6241,7 +6382,12 @@
    "retweets": 24,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00",
+   "links": {
+    "https://t.co/AYhl9hyiAj": "https://www.lesswrong.com/posts/FG54euEAesRkSZuJN/ryan_greenblatt-s-shortform?commentId=rAFxcETtNtsuzw6aG",
+    "https://t.co/ck7CtW5LIA": "https://www.lesswrong.com/posts/Jga7PHMzfZf4fbdyo/if-mythos-actually-made-anthropic-employees-4x-more"
+   },
+   "enriched": 1
   },
   "2118443158094721215": {
    "id": "2118443158094721215",
@@ -6263,7 +6409,11 @@
    "retweets": 3,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00",
+   "links": {
+    "https://t.co/nDAO1SIVRz": "https://news.bloomberglaw.com/legal-exchange-insights-and-commentary/anthropic-ipos-disclosure-risks-are-due-diligence-in-safety"
+   },
+   "enriched": 1
   },
   "2118442677096108304": {
    "id": "2118442677096108304",
@@ -6285,7 +6435,9 @@
    "retweets": 3,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118440592149815405": {
    "id": "2118440592149815405",
@@ -6308,9 +6460,12 @@
    "media": [],
    "quoted": {
     "author": "Sam_McCandlish",
-    "text": "I'm Sam, one of Anthropic's co-founders, and I lead much of our safety work. I'm going to have more to share on that work over the coming months.\n\nI thought I'd start by sharing a few thoughts on the latest report from @METR_Evals.\n\nThe speed of progress in model capabilities is one of the most important questions in AI safety, and METR’s work here provides the public with an independent, external view into how this is happening inside Anthropic. I’ll talk more about some of the details below, but first some context for those new to this work.\n\nHow quickly AI progress is accelerating has many important safety implications, since it determines how quickly the risks from advanced models increase. But, because most research happens within the frontier labs, it’s difficult for external observers and policy makers to get a strong sense of what that rate is. We kicked off the process with METR that led to this report earlier in the year, in anticipation of progress continuing to accelerate.\n\nFor this report, we gave METR access to a range of sensitive internal data, including benchmark scores for unreleased models, estimates of how models are progressing, and interviews with our researchers. They had complete independence to form their own conclusions.\n\nMany of their conclusions match my own. AI is speeding up our research, but it’s hard to say exactly how much. While they conclude AI can't yet make the most important contributions to model training on its own, they think the pace of development could, by default, accelerate further.\n\nThis work began well before and is separate from the embedded third-party evaluators that are part of our commitment to pacing the frontier, but it’s a good illustration of why we think evaluators are a good idea. The more access reviewers have, the clearer a picture they can form of the situation and the better-positioned they are to highlight situations like this one.\n\nWe redacted a lot, and I accept that this makes it harder for others to check METR’s work. But we determined that sharing exactly what is driving the speedup isn’t the right thing to do, both because it’s commercially sensitive and because it risks handing out a roadmap for others to go faster. That would make the risks METR is worried about worse. That’s a tradeoff. I think we made the right call, though we’re continuing to assess the pros and cons here.\n\nIn the coming weeks, we plan to share a report with our own analysis of the speed of AI progress within Anthropic, including where we stand against our Responsible Scaling Policy, plus new steps we’re taking to strengthen our safety and security practices as AI keeps improving quickly."
+    "text": "I'm Sam, one of Anthropic's co-founders, and I lead much of our safety work. I'm going to have more to share on that work over the coming months.\n\nI thought I'd start by sharing a few thoughts on the latest report from @METR_Evals.\n\nThe speed of progress in model capabilities is one of the most important questions in AI safety, and METR’s work here provides the public with an independent, external view into how this is happening inside Anthropic. I’ll talk more about some of the details below, but first some context for those new to this work.\n\nHow quickly AI progress is accelerating has many important safety implications, since it determines how quickly the risks from advanced models increase. But, because most research happens within the frontier labs, it’s difficult for external observers and policy makers to get a strong sense of what that rate is. We kicked off the process with METR that led to this report earlier in the year, in anticipation of progress continuing to accelerate.\n\nFor this report, we gave METR access to a range of sensitive internal data, including benchmark scores for unreleased models, estimates of how models are progressing, and interviews with our researchers. They had complete independence to form their own conclusions.\n\nMany of their conclusions match my own. AI is speeding up our research, but it’s hard to say exactly how much. While they conclude AI can't yet make the most important contributions to model training on its own, they think the pace of development could, by default, accelerate further.\n\nThis work began well before and is separate from the embedded third-party evaluators that are part of our commitment to pacing the frontier, but it’s a good illustration of why we think evaluators are a good idea. The more access reviewers have, the clearer a picture they can form of the situation and the better-positioned they are to highlight situations like this one.\n\nWe redacted a lot, and I accept that this makes it harder for others to check METR’s work. But we determined that sharing exactly what is driving the speedup isn’t the right thing to do, both because it’s commercially sensitive and because it risks handing out a roadmap for others to go faster. That would make the risks METR is worried about worse. That’s a tradeoff. I think we made the right call, though we’re continuing to assess the pros and cons here.\n\nIn the coming weeks, we plan to share a report with our own analysis of the speed of AI progress within Anthropic, including where we stand against our Responsible Scaling Policy, plus new steps we’re taking to strengthen our safety and security practices as AI keeps improving quickly.",
+    "links": {}
    },
-   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118423295733178654": {
    "id": "2118423295733178654",
@@ -6338,9 +6493,14 @@
    ],
    "quoted": {
     "author": "METR_Evals",
-    "text": "This report shares our three subjective conclusions about risk:\n\n1. We believe that, as of Oct 2026, the pace of capability growth on well-specified tasks is likely about 2x what it was from Mar 2024 to Oct 2025. We’re highly uncertain and would not be surprised by 1.3x–3x."
+    "text": "This report shares our three subjective conclusions about risk:\n\n1. We believe that, as of Oct 2026, the pace of capability growth on well-specified tasks is likely about 2x what it was from Mar 2024 to Oct 2025. We’re highly uncertain and would not be surprised by 1.3x–3x.",
+    "links": {}
    },
-   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00",
+   "links": {
+    "https://t.co/c9CEUapUw0": ""
+   },
+   "enriched": 1
   },
   "2118419703999668437": {
    "id": "2118419703999668437",
@@ -6362,7 +6522,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118416994366058521": {
    "id": "2118416994366058521",
@@ -6384,7 +6546,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118416702157340714": {
    "id": "2118416702157340714",
@@ -6406,7 +6570,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118415464816877899": {
    "id": "2118415464816877899",
@@ -6429,9 +6595,12 @@
    "media": [],
    "quoted": {
     "author": "METR_Evals",
-    "text": "Since August, a team within METR has worked with internal Anthropic information to assess whether AI itself is accelerating AI development.\n\nWe are now publishing a report summarizing the results of this risk assessment."
+    "text": "Since August, a team within METR has worked with internal Anthropic information to assess whether AI itself is accelerating AI development.\n\nWe are now publishing a report summarizing the results of this risk assessment.",
+    "links": {}
    },
-   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118689629876490245": {
    "id": "2118689629876490245",
@@ -6454,9 +6623,12 @@
    "media": [],
    "quoted": {
     "author": "LASST_law",
-    "text": "Anthropic appears to have structured its IPO in a way that could make it much harder for investors to hold the company accountable for misstatements in its registration statement. This comes down to a technical rule about who is allowed to sue. \n\nA 🧵, to explain:"
+    "text": "Anthropic appears to have structured its IPO in a way that could make it much harder for investors to hold the company accountable for misstatements in its registration statement. This comes down to a technical rule about who is allowed to sue. \n\nA 🧵, to explain:",
+    "links": {}
    },
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118470775418060920": {
    "id": "2118470775418060920",
@@ -6483,7 +6655,9 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118754777534529835": {
    "id": "2118754777534529835",
@@ -6505,7 +6679,9 @@
    "retweets": 3,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118754452265951727": {
    "id": "2118754452265951727",
@@ -6533,9 +6709,161 @@
    ],
    "quoted": {
     "author": "_NathanCalvin",
-    "text": "Uhhh Anthropic made an offer to one of the risk assessment staff at METR during this project??? (Which the person declined)\n\nWe need rules about independent evaluators going to cos they evaluate after and in the meantime companies should be shamed for trying this stuff https://t.co/2ca51xSV5K"
+    "text": "Uhhh Anthropic made an offer to one of the risk assessment staff at METR during this project??? (Which the person declined)\n\nWe need rules about independent evaluators going to cos they evaluate after and in the meantime companies should be shamed for trying this stuff https://t.co/2ca51xSV5K",
+    "links": {
+     "https://t.co/2ca51xSV5K": ""
+    }
    },
-   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00",
+   "links": {
+    "https://t.co/iJga5c0cbD": "https://www.iaps.ai/research/embedded-evaluators-for-frontier-ai-contractual-foundations-for-credible-assessments"
+   },
+   "enriched": 1
+  },
+  "2118955531234677020": {
+   "id": "2118955531234677020",
+   "url": "https://x.com/theobearman/status/2118955531234677020",
+   "text": "All the frontier AI companies should be required by law to report on their compute allocations. @SenJoshBecker's bill would do so.\n\nhttps://t.co/F9Hk0iGNil https://t.co/htyFiZh1Oi",
+   "created_at": "Sat Nov 07 06:35:41 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "Thomas_Woodside",
+   "rt_author_name": "Thomas Woodside 🫜",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1772349169484681216/xrSVla58_normal.jpg",
+   "rt_id": "2118786981580968385",
+   "likes": 100,
+   "retweets": 21,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWdwyOhaUAAdGvi.png"
+    }
+   ],
+   "links": {
+    "https://t.co/F9Hk0iGNil": "https://sd13.senate.ca.gov/news/press-release/october-20-2026/senator-becker-introduces-first-its-kind-legislation-to-make-ai",
+    "https://t.co/htyFiZh1Oi": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-07T13:15:19.739124+00:00",
+   "enriched": 1
+  },
+  "2118952119072104736": {
+   "id": "2118952119072104736",
+   "url": "https://x.com/theobearman/status/2118952119072104736",
+   "text": "What if a swarm of AI agents could learn to work together on its own? 🐝\n\nNo leader. No roles. No turn order. Just one shared reward.\n\nOur new paper s³: multi-agent RL lets LLM swarms self-organize, beat best-of-N, and scale past their training size!\n\nhttps://t.co/c4SyIKhX7O 🧵",
+   "created_at": "Sat Nov 07 06:22:08 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "kjha02",
+   "rt_author_name": "Kunal Jha",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1770229471108317184/Tb2q39cy_normal.jpg",
+   "rt_id": "2118743696246194621",
+   "likes": 259,
+   "retweets": 45,
+   "media": [],
+   "links": {
+    "https://t.co/c4SyIKhX7O": "https://scalingswarms.com/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-07T13:15:19.739124+00:00",
+   "enriched": 1
+  },
+  "2118821384432570505": {
+   "id": "2118821384432570505",
+   "url": "https://x.com/theobearman/status/2118821384432570505",
+   "text": "Memory is what allows Claude to learn from experience. In a new Engineering Blog post, we share how “dreaming” helps Claude organize what it’s learned, correct its mistakes, and find what it needs more easily the next time. https://t.co/uUEN4bNkr9",
+   "created_at": "Fri Nov 06 21:42:38 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "AnthropicAI",
+   "rt_author_name": "Anthropic",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+   "rt_id": "2118814753154064501",
+   "likes": 9915,
+   "retweets": 853,
+   "media": [],
+   "links": {
+    "https://t.co/uUEN4bNkr9": "https://www.anthropic.com/research/components-of-agent-memory"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-07T13:15:19.739124+00:00",
+   "enriched": 1
+  },
+  "2118821348499726671": {
+   "id": "2118821348499726671",
+   "url": "https://x.com/theobearman/status/2118821348499726671",
+   "text": "I am a broken record about this, but: frontier agents are not going to be a purely digital phenomenon for much longer. They will be able to use anything in the physical world that can be actuated programmatically—first competently, then at human-expert level, then superhuman. By and large, we probably won’t need specialist models; the frontier models will just do it. If your model of the future hinges on physical AI happening “for real” many years into the future, I think you will be in for a surprise.",
+   "created_at": "Fri Nov 06 21:42:29 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "deanwball",
+   "rt_author_name": "Dean W. Ball",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "rt_id": "2118799206785937844",
+   "likes": 1442,
+   "retweets": 134,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-07T13:15:19.739124+00:00",
+   "enriched": 1
+  },
+  "2118820886291923109": {
+   "id": "2118820886291923109",
+   "url": "https://x.com/theobearman/status/2118820886291923109",
+   "text": "And they confirmed as much in the S1! https://t.co/aE54Q3RPMW",
+   "created_at": "Fri Nov 06 21:40:39 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 53,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWeQXQAXwAAg35q.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/aE54Q3RPMW": ""
+   },
+   "quoted": {
+    "id": "2118472900596625546",
+    "author_name": "Andrew Curran",
+    "links": {},
+    "author": "AndrewCurran_",
+    "text": "@DKokotajlo @AnthropicAI They've been pedal to the metal afterburners on since Dario said at the WEF they were leaning into RSI. They said they support pacing, not that they were pacing."
+   },
+   "fetched_at": "2026-11-07T13:15:19.739124+00:00",
+   "enriched": 1
   }
  }
 }

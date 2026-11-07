@@ -2635,7 +2635,9 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2116985147962904891": {
    "id": "2116985147962904891",
@@ -2658,7 +2660,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {
+    "https://t.co/kVuxNEUlAQ": ""
+   },
+   "enriched": 1
   },
   "2117362196921602275": {
    "id": "2117362196921602275",
@@ -2680,7 +2686,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-02T23:07:13.070865+00:00"
+   "fetched_at": "2026-11-02T23:07:13.070865+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117671098418676179": {
    "id": "2117671098418676179",
@@ -2707,7 +2715,9 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117394374883746179": {
    "id": "2117394374883746179",
@@ -2734,7 +2744,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {
+    "https://t.co/F7BTs5f86q": ""
+   },
+   "enriched": 1
   },
   "2118116214115610997": {
    "id": "2118116214115610997",
@@ -2761,7 +2775,9 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118116186936524934": {
    "id": "2118116186936524934",
@@ -2788,7 +2804,9 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118116177851580839": {
    "id": "2118116177851580839",
@@ -2815,7 +2833,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {
+    "https://t.co/hGGrb46yNC": ""
+   },
+   "enriched": 1
   },
   "2118450950079713336": {
    "id": "2118450950079713336",
@@ -2837,7 +2859,12 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00",
+   "links": {
+    "https://t.co/LH20ZKCYp3": "https://dwarkesh.com/p/clocktower",
+    "https://t.co/3KOIctPkEo": "https://youtu.be/1NQwfImTseU"
+   },
+   "enriched": 1
   },
   "2118449808402681911": {
    "id": "2118449808402681911",
@@ -2864,7 +2891,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00",
+   "links": {
+    "https://t.co/IF4d0EMSD8": "https://clocktowerbench.com/"
+   },
+   "enriched": 1
   },
   "2118422975842283996": {
    "id": "2118422975842283996",
@@ -2891,7 +2922,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00",
+   "links": {
+    "https://t.co/sX2FBYpUfZ": ""
+   },
+   "enriched": 1
   },
   "2118575364792569945": {
    "id": "2118575364792569945",
@@ -2918,7 +2953,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {
+    "https://t.co/cnfu0gcNtu": ""
+   },
+   "enriched": 1
   },
   "2118570995359662181": {
    "id": "2118570995359662181",
@@ -2940,7 +2979,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118506486708294139": {
    "id": "2118506486708294139",
@@ -2962,7 +3003,11 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {
+    "https://t.co/U3M387AbXQ": "https://www.youtube.com/watch?v=1NQwfImTseU"
+   },
+   "enriched": 1
   },
   "2118506296735600824": {
    "id": "2118506296735600824",
@@ -2990,9 +3035,16 @@
    ],
    "quoted": {
     "author": "dwarkesh_sp",
-    "text": "I spent 20,000 dollars in API credits having different AI models play each other at Blood on the Clocktower (a Mafia or Werewolf type social deception game).\n\nThe results were fascinating. Models have gotten much better over the course of this year at creative on-the-spot scheming and bluffing, and also at reasoning as a team to break apart these underground conspiracies.\n\nI go through some of the most standout games these AIs played in this video. The new models are getting pretty good.  If my friends pulled off some of these moves while we were playing, I’d give them a fist bump.\n\nFwiw, OpenAI’s newer models are much better than Anthropic’s at this game.\n\nYou can see the full benchmark at the website, and I’ve also made it so that you and your friends can play again the AIs: https://t.co/IF4d0EMSD8"
+    "text": "I spent 20,000 dollars in API credits having different AI models play each other at Blood on the Clocktower (a Mafia or Werewolf type social deception game).\n\nThe results were fascinating. Models have gotten much better over the course of this year at creative on-the-spot scheming and bluffing, and also at reasoning as a team to break apart these underground conspiracies.\n\nI go through some of the most standout games these AIs played in this video. The new models are getting pretty good.  If my friends pulled off some of these moves while we were playing, I’d give them a fist bump.\n\nFwiw, OpenAI’s newer models are much better than Anthropic’s at this game.\n\nYou can see the full benchmark at the website, and I’ve also made it so that you and your friends can play again the AIs: https://t.co/IF4d0EMSD8",
+    "links": {
+     "https://t.co/IF4d0EMSD8": "https://clocktowerbench.com/"
+    }
    },
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {
+    "https://t.co/y3kJecZQxq": ""
+   },
+   "enriched": 1
   },
   "2118478531969818864": {
    "id": "2118478531969818864",
@@ -3019,7 +3071,12 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {
+    "https://t.co/koKm4KZphH": "https://youtu.be/0GMWxuYuxJI?t=4135",
+    "https://t.co/DaNGmoBxvf": ""
+   },
+   "enriched": 1
   },
   "2118476123176923488": {
    "id": "2118476123176923488",
@@ -3047,9 +3104,16 @@
    ],
    "quoted": {
     "author": "dwarkesh_sp",
-    "text": "I spent 20,000 dollars in API credits having different AI models play each other at Blood on the Clocktower (a Mafia or Werewolf type social deception game).\n\nThe results were fascinating. Models have gotten much better over the course of this year at creative on-the-spot scheming and bluffing, and also at reasoning as a team to break apart these underground conspiracies.\n\nI go through some of the most standout games these AIs played in this video. The new models are getting pretty good.  If my friends pulled off some of these moves while we were playing, I’d give them a fist bump.\n\nFwiw, OpenAI’s newer models are much better than Anthropic’s at this game.\n\nYou can see the full benchmark at the website, and I’ve also made it so that you and your friends can play again the AIs: https://t.co/IF4d0EMSD8"
+    "text": "I spent 20,000 dollars in API credits having different AI models play each other at Blood on the Clocktower (a Mafia or Werewolf type social deception game).\n\nThe results were fascinating. Models have gotten much better over the course of this year at creative on-the-spot scheming and bluffing, and also at reasoning as a team to break apart these underground conspiracies.\n\nI go through some of the most standout games these AIs played in this video. The new models are getting pretty good.  If my friends pulled off some of these moves while we were playing, I’d give them a fist bump.\n\nFwiw, OpenAI’s newer models are much better than Anthropic’s at this game.\n\nYou can see the full benchmark at the website, and I’ve also made it so that you and your friends can play again the AIs: https://t.co/IF4d0EMSD8",
+    "links": {
+     "https://t.co/IF4d0EMSD8": "https://clocktowerbench.com/"
+    }
    },
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {
+    "https://t.co/IuqicNusMO": ""
+   },
+   "enriched": 1
   },
   "2118466121317924959": {
    "id": "2118466121317924959",
@@ -3071,7 +3135,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118713063385989133": {
    "id": "2118713063385989133",
@@ -3093,7 +3159,9 @@
    "retweets": 13,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118796146198061062": {
    "id": "2118796146198061062",
@@ -3120,7 +3188,12 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-06T20:54:35.151346+00:00"
+   "fetched_at": "2026-11-06T20:54:35.151346+00:00",
+   "links": {
+    "https://t.co/XK9TQK8hJT": "https://youtu.be/0GMWxuYuxJI?t=1355",
+    "https://t.co/sniwno7PaR": ""
+   },
+   "enriched": 1
   }
  }
 }

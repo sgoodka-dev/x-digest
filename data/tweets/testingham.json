@@ -2451,7 +2451,9 @@
    "retweets": 20,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118535009921560678": {
    "id": "2118535009921560678",
@@ -2473,7 +2475,12 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {
+    "https://t.co/nGcXTcHDQi": "https://en.wikipedia.org/wiki/Item_response_theory",
+    "https://t.co/eVSX8cZHw2": "https://epoch.ai/publications/a-rosetta-stone-for-ai-benchmarks"
+   },
+   "enriched": 1
   },
   "2118764612527259953": {
    "id": "2118764612527259953",
@@ -2495,7 +2502,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118762651656577395": {
    "id": "2118762651656577395",
@@ -2517,7 +2526,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118762447876304948": {
    "id": "2118762447876304948",
@@ -2539,7 +2550,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118742149730811978": {
    "id": "2118742149730811978",
@@ -2561,7 +2574,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118738750755021041": {
    "id": "2118738750755021041",
@@ -2583,7 +2598,11 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00",
+   "links": {
+    "https://t.co/AMKb9FPmxW": "https://tecunningham.github.io/eci-benchmark-logodds/"
+   },
+   "enriched": 1
   },
   "2118738374173565013": {
    "id": "2118738374173565013",
@@ -2605,7 +2624,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118726168048534007": {
    "id": "2118726168048534007",
@@ -2627,7 +2648,11 @@
    "retweets": 2,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00",
+   "links": {
+    "https://t.co/k6YrYDU3NZ": "https://tecunningham.github.io/eci-benchmark-logodds/"
+   },
+   "enriched": 1
   },
   "2118724951662583926": {
    "id": "2118724951662583926",
@@ -2649,7 +2674,9 @@
    "retweets": 2,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118790787886690529": {
    "id": "2118790787886690529",
@@ -2671,7 +2698,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T20:54:35.151346+00:00"
+   "fetched_at": "2026-11-06T20:54:35.151346+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118788672007143462": {
    "id": "2118788672007143462",
@@ -2693,7 +2722,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T20:54:35.151346+00:00"
+   "fetched_at": "2026-11-06T20:54:35.151346+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118767130594455751": {
    "id": "2118767130594455751",
@@ -2715,7 +2746,11 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T20:54:35.151346+00:00"
+   "fetched_at": "2026-11-06T20:54:35.151346+00:00",
+   "links": {
+    "https://t.co/6r4FgTWqyC": "https://tecunningham.github.io/eci-benchmark-logodds/#tab=resid"
+   },
+   "enriched": 1
   },
   "2118767004190744694": {
    "id": "2118767004190744694",
@@ -2742,7 +2777,35 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-06T20:54:35.151346+00:00"
+   "fetched_at": "2026-11-06T20:54:35.151346+00:00",
+   "links": {
+    "https://t.co/z4NIYxFR9H": ""
+   },
+   "enriched": 1
+  },
+  "2118856668696166898": {
+   "id": "2118856668696166898",
+   "url": "https://x.com/testingham/status/2118856668696166898",
+   "text": "@lugaricano great -- happy to talk more about your remaining doubts -- &amp; maybe you want to post an update to your original post?",
+   "created_at": "Sat Nov 07 00:02:50 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "lugaricano",
+   "reply_to_id": "2118852272109068728",
+   "avatar": "https://pbs.twimg.com/profile_images/2057221538160766976/KAtze74k_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-07T13:15:19.739124+00:00",
+   "enriched": 1
   }
  }
 }

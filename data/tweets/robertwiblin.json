@@ -5278,7 +5278,9 @@
    "retweets": 5,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117250835721900098": {
    "id": "2117250835721900098",
@@ -5301,7 +5303,15 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {
+    "https://t.co/mRuuro8fR8": "https://youtu.be/yntXV1pkHuI",
+    "https://t.co/rA1yP6VPT4": "https://podcasts.apple.com/us/podcast/tom-milton-on-how-we-could-verify-a-us-china-deal-on-ai/id1245002988?i=1000797802353",
+    "https://t.co/fEjWq68j5l": "https://80000hours.org/podcast/episodes/tom-milton-verification-technology-ai-slowdown/",
+    "https://t.co/gXb4X1jOy7": "https://open.spotify.com/episode/1siUUtX7dAZfTYaKOA4adY?si=1E7YGRKITMSsuLvx76pu8A",
+    "https://t.co/UCiUAFRu45": ""
+   },
+   "enriched": 1
   },
   "2117250296694882766": {
    "id": "2117250296694882766",
@@ -5324,7 +5334,9 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117246128148160808": {
    "id": "2117246128148160808",
@@ -5342,7 +5354,12 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {
+    "https://t.co/1n3d9nDr5m": "https://www.implicator.ai/openai-plans-post-midterms-policy-pr-blitz-pushing-mandatory/",
+    "https://t.co/5hHN60oxHD": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy"
+   },
+   "enriched": 1
   },
   "2117246126038384889": {
    "id": "2117246126038384889",
@@ -5369,7 +5386,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {
+    "https://t.co/8secoJSIay": ""
+   },
+   "enriched": 1
   },
   "2117244063665791130": {
    "id": "2117244063665791130",
@@ -5393,9 +5414,14 @@
    ],
    "quoted": {
     "author": "TomDavidsonX",
-    "text": "I've had two phases in my emotional orientation to ai takeover risk\n\n1. For many years it was intellectual. \n\nWhile I believed there was >10% chance of ai takeover, I didn't feel scared or angry. \n\nI was happy to reason \"well, of course some ppl should focus on the worlds where we avoid takeover. And some ppl should focus on the worlds where we just wing it, bc we might\".\n\nAnd I'd think \"hmm it seems really tough for a misaligned agi to align its successor, and would a reward seeker really try to take over, and will we really roll out ai to the military... these doomers are missing loads of ways we could be fine!\"\n\nOr \"yep this is a massive risk, but I'm best off working on some other more neglected thing\"\n\nIt was in some ways like a game - have an intellectually accurate view about the risk and how to have impact\n\n2. Recently my orientation to ai takeover has become more visceral/emotional\n\nI think: \"we're barrelling towards catastrophe, everything I love will be lost, we need to stop, what can I do that will help with that\"\n\nI'm like \"no let's not plan for winging it, that's crazy.  we need US-China coordination or we're fucked\"\n\nI think \"it's fucking insane to make misaligned superintelligence and comfort ourselves that we haven't yet handed over the military. This isn't a fucking game.\"\n\nThis is a less rational attitude in some ways. It ignores genuine points about neglectedness and needing to plan for shitty but likely scenarios. \n\nAnd it risks being unhelpfully emotive and solider mindset and tribal. Which I think ai safety ppl can be.\n\nBut I do feel it has smg important to the second attitude.\n\nOverall, both attitudes have their merits \n\nI associate the first with EAs and the second with pause AI folks."
+    "text": "I've had two phases in my emotional orientation to ai takeover risk\n\n1. For many years it was intellectual. \n\nWhile I believed there was >10% chance of ai takeover, I didn't feel scared or angry. \n\nI was happy to reason \"well, of course some ppl should focus on the worlds where we avoid takeover. And some ppl should focus on the worlds where we just wing it, bc we might\".\n\nAnd I'd think \"hmm it seems really tough for a misaligned agi to align its successor, and would a reward seeker really try to take over, and will we really roll out ai to the military... these doomers are missing loads of ways we could be fine!\"\n\nOr \"yep this is a massive risk, but I'm best off working on some other more neglected thing\"\n\nIt was in some ways like a game - have an intellectually accurate view about the risk and how to have impact\n\n2. Recently my orientation to ai takeover has become more visceral/emotional\n\nI think: \"we're barrelling towards catastrophe, everything I love will be lost, we need to stop, what can I do that will help with that\"\n\nI'm like \"no let's not plan for winging it, that's crazy.  we need US-China coordination or we're fucked\"\n\nI think \"it's fucking insane to make misaligned superintelligence and comfort ourselves that we haven't yet handed over the military. This isn't a fucking game.\"\n\nThis is a less rational attitude in some ways. It ignores genuine points about neglectedness and needing to plan for shitty but likely scenarios. \n\nAnd it risks being unhelpfully emotive and solider mindset and tribal. Which I think ai safety ppl can be.\n\nBut I do feel it has smg important to the second attitude.\n\nOverall, both attitudes have their merits \n\nI associate the first with EAs and the second with pause AI folks.",
+    "links": {}
    },
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {
+    "https://t.co/ite9yFWWhk": ""
+   },
+   "enriched": 1
   },
   "2117222129934680307": {
    "id": "2117222129934680307",
@@ -5413,7 +5439,9 @@
    "retweets": 46,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117220722926084497": {
    "id": "2117220722926084497",
@@ -5431,7 +5459,9 @@
    "retweets": 69,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117213236885856383": {
    "id": "2117213236885856383",
@@ -5454,7 +5484,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {
+    "https://t.co/wMnwfJbb57": ""
+   },
+   "enriched": 1
   },
   "2117212057787650218": {
    "id": "2117212057787650218",
@@ -5472,7 +5506,9 @@
    "retweets": 20,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117211881077416006": {
    "id": "2117211881077416006",
@@ -5495,7 +5531,9 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117200915887444023": {
    "id": "2117200915887444023",
@@ -5518,7 +5556,12 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {
+    "https://t.co/WtRQtompNp": "https://decisiontreeresearch.com/podcast/19-nvidia-ceo-chinese-spy-china-ai-export-controls/",
+    "https://t.co/jGwKnEv4xU": ""
+   },
+   "enriched": 1
   },
   "2117682730884542663": {
    "id": "2117682730884542663",
@@ -5545,7 +5588,9 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117652626351505585": {
    "id": "2117652626351505585",
@@ -5567,7 +5612,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117651582032494758": {
    "id": "2117651582032494758",
@@ -5589,7 +5636,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117647625050603822": {
    "id": "2117647625050603822",
@@ -5616,7 +5665,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {
+    "https://t.co/3MYAXZ4JOx": ""
+   },
+   "enriched": 1
   },
   "2117642183281156468": {
    "id": "2117642183281156468",
@@ -5638,7 +5691,9 @@
    "retweets": 3,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117613472867549443": {
    "id": "2117613472867549443",
@@ -5660,7 +5715,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117611007010800067": {
    "id": "2117611007010800067",
@@ -5687,7 +5744,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {
+    "https://t.co/6PzgzCMpdF": "https://arxiv.org/abs/2610.41014"
+   },
+   "enriched": 1
   },
   "2117607298767913444": {
    "id": "2117607298767913444",
@@ -5709,7 +5770,9 @@
    "retweets": 6,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117605127498416607": {
    "id": "2117605127498416607",
@@ -5731,7 +5794,11 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {
+    "https://t.co/Tzgu3nakNr": "https://www.gov.uk/government/publications/budget-2026-document/budget-2026-html"
+   },
+   "enriched": 1
   },
   "2117605124331946115": {
    "id": "2117605124331946115",
@@ -5758,7 +5825,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {
+    "https://t.co/bI7aQyeSOF": ""
+   },
+   "enriched": 1
   },
   "2117602136879960512": {
    "id": "2117602136879960512",
@@ -5780,7 +5851,11 @@
    "retweets": 3,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {
+    "https://t.co/45GXeNa6ll": "https://www.anthropic.com/research/provable-inference"
+   },
+   "enriched": 1
   },
   "2117593239226290442": {
    "id": "2117593239226290442",
@@ -5815,7 +5890,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {
+    "https://t.co/s8IDfPhtWw": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm"
+   },
+   "enriched": 1
   },
   "2117586507049603563": {
    "id": "2117586507049603563",
@@ -5837,7 +5916,9 @@
    "retweets": 144,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117586397288599653": {
    "id": "2117586397288599653",
@@ -5859,7 +5940,9 @@
    "retweets": 81,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117554253833130110": {
    "id": "2117554253833130110",
@@ -5886,7 +5969,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {
+    "https://t.co/49amZkd5Hx": ""
+   },
+   "enriched": 1
   },
   "2117688360604963116": {
    "id": "2117688360604963116",
@@ -5913,7 +6000,15 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-03T21:00:07.693918+00:00"
+   "fetched_at": "2026-11-03T21:00:07.693918+00:00",
+   "links": {
+    "https://t.co/EueAqELUHh": "https://80000hours.org/podcast/episodes/hold-frontier-ai-companies-accountable/",
+    "https://t.co/iWxAx6AHve": "https://podcasts.apple.com/gb/podcast/being-a-pain-in-the-ass-to-or-in-ai-companies-is/id1245002988?i=1000799649673",
+    "https://t.co/rZLY2FGx6W": "https://open.spotify.com/episode/1p8iqRbsIpxGlEudKauGO1?si=SuEDhlNlRt632Roq714f4w",
+    "https://t.co/RKv2ebPpLw": "https://youtu.be/YX-yelkbuVU",
+    "https://t.co/bCkJ3jBQXw": ""
+   },
+   "enriched": 1
   },
   "2118040192980341187": {
    "id": "2118040192980341187",
@@ -5936,9 +6031,12 @@
    "media": [],
    "quoted": {
     "author": "scott_colom",
-    "text": "I walked the Trump rally line to listen, not make assumptions. I talked with voters, asked questions and heard what matters to them.\n\nWhen I'm elected, I'll represent all 82 counties and every Mississippian, no matter who they voted for. That's what being your senator means. #MississippiMatters"
+    "text": "I walked the Trump rally line to listen, not make assumptions. I talked with voters, asked questions and heard what matters to them.\n\nWhen I'm elected, I'll represent all 82 counties and every Mississippian, no matter who they voted for. That's what being your senator means. #MississippiMatters",
+    "links": {}
    },
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118020722421338165": {
    "id": "2118020722421338165",
@@ -5961,9 +6059,12 @@
    "media": [],
    "quoted": {
     "author": "JDVance",
-    "text": "One of the things the data analysts on our side obsessed over was \"composition\"—whether the electorate looked close enough to 2024 for Republicans to win. And despite polls that showed a Democrat blowout, the data kept on telling us the same story: in some states turnout was merely OK, in other states it was downright amazing, and in no state was it catastrophic. There was a genuine sense of optimism on our team: our people were showing up. \n\nSo, I asked the smartest data guy I know, does that mean we're going to shock the world? \"No,\" he told me. \"We might do better than the polls suggest. But the data is telling us that a lot of Trump/Vance 2024 voters are pissed and planning to vote for the other guys. Our voters are turning out, but they may not vote for us.\"\n\nWell, that looks prophetic now. Our voters did show up. In Florida, for example, the electorate was 9 points more Republican than Democrat, just a couple points worse than 2024. Undoubtedly there were places we could have done better on turnout. But the main problem is not turnout. The main problem is that many people who voted for Trump/Vance in 2024 voted for Democrats in 2026.  \n\nThere will be a lot of infighting and arguing over what happened and why that is. One of the pollsters I really respect told me that our economic messaging wasn’t sharp enough down the stretch. I’m sure that’s true. \n\nBut the real reason we lost is obvious to almost everyone. \n\nAnother pollster—one of the smartest people I know in politics, told me yesterday we’d lose the generic ballot by 13 points. I felt negative going into Tuesday, but even I was shocked by this. In his polling, he saw that a lot of Trump 2024 voters were angry and planning to vote for Democrats. He asked those voters who had abandoned us what would cause them to come back on our team. The top four answers, accounting for nearly all of the responses were:\n\n1) End the war\n2) Focus on cost of living/inflation\n3) Put America First\n4) Change our relationship to Israel\n\nOur voters showed up. And the above four reasons are why many of them voted for Democrats. This is according to a pollster who nailed the results. While many spent Monday attacking Rachel Campos Duffy for calling for a diplomatic resolution to the conflict, it turns out her political advice was sound. (She’s also a great person.)\n\nIn the next few months, there's going to be a lot of gaslighting. Expect to hear any number of establishment politicians say the solution to our woes is amnesty. I'm open to the idea that we should change enforcement—by focusing more on businesses that hire illegal labor, for instance. But anyone pushing amnesty is lying to you. \n\nThe reason we lost is the war. The president himself said so last night. \n\nIf you'd like to argue it was worth it, that losing the Senate for the next 6 years was worth it, then do so. Argue it was a worthwhile cost to pay. Agree or disagree, that's at least honest.\n\nBut everyone knows why we lost. And any honest conversation about where we go from here must start there.\n\nI remain hopeful about our country. To the people who are pissed off and want to say, “I told you so”: you’re right, you did tell us so. Take that energy into electing Republicans who share your worldview. To the people who are just pissed at the results, you should be. Let’s take that anger and get back to the work of saving our country."
+    "text": "One of the things the data analysts on our side obsessed over was \"composition\"—whether the electorate looked close enough to 2024 for Republicans to win. And despite polls that showed a Democrat blowout, the data kept on telling us the same story: in some states turnout was merely OK, in other states it was downright amazing, and in no state was it catastrophic. There was a genuine sense of optimism on our team: our people were showing up. \n\nSo, I asked the smartest data guy I know, does that mean we're going to shock the world? \"No,\" he told me. \"We might do better than the polls suggest. But the data is telling us that a lot of Trump/Vance 2024 voters are pissed and planning to vote for the other guys. Our voters are turning out, but they may not vote for us.\"\n\nWell, that looks prophetic now. Our voters did show up. In Florida, for example, the electorate was 9 points more Republican than Democrat, just a couple points worse than 2024. Undoubtedly there were places we could have done better on turnout. But the main problem is not turnout. The main problem is that many people who voted for Trump/Vance in 2024 voted for Democrats in 2026.  \n\nThere will be a lot of infighting and arguing over what happened and why that is. One of the pollsters I really respect told me that our economic messaging wasn’t sharp enough down the stretch. I’m sure that’s true. \n\nBut the real reason we lost is obvious to almost everyone. \n\nAnother pollster—one of the smartest people I know in politics, told me yesterday we’d lose the generic ballot by 13 points. I felt negative going into Tuesday, but even I was shocked by this. In his polling, he saw that a lot of Trump 2024 voters were angry and planning to vote for Democrats. He asked those voters who had abandoned us what would cause them to come back on our team. The top four answers, accounting for nearly all of the responses were:\n\n1) End the war\n2) Focus on cost of living/inflation\n3) Put America First\n4) Change our relationship to Israel\n\nOur voters showed up. And the above four reasons are why many of them voted for Democrats. This is according to a pollster who nailed the results. While many spent Monday attacking Rachel Campos Duffy for calling for a diplomatic resolution to the conflict, it turns out her political advice was sound. (She’s also a great person.)\n\nIn the next few months, there's going to be a lot of gaslighting. Expect to hear any number of establishment politicians say the solution to our woes is amnesty. I'm open to the idea that we should change enforcement—by focusing more on businesses that hire illegal labor, for instance. But anyone pushing amnesty is lying to you. \n\nThe reason we lost is the war. The president himself said so last night. \n\nIf you'd like to argue it was worth it, that losing the Senate for the next 6 years was worth it, then do so. Argue it was a worthwhile cost to pay. Agree or disagree, that's at least honest.\n\nBut everyone knows why we lost. And any honest conversation about where we go from here must start there.\n\nI remain hopeful about our country. To the people who are pissed off and want to say, “I told you so”: you’re right, you did tell us so. Take that energy into electing Republicans who share your worldview. To the people who are just pissed at the results, you should be. Let’s take that anger and get back to the work of saving our country.",
+    "links": {}
    },
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117995693461680441": {
    "id": "2117995693461680441",
@@ -5985,7 +6086,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117993796944425030": {
    "id": "2117993796944425030",
@@ -6007,7 +6110,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117979878897152150": {
    "id": "2117979878897152150",
@@ -6034,7 +6139,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {
+    "https://t.co/SPJkePtMRE": ""
+   },
+   "enriched": 1
   },
   "2117979800270750164": {
    "id": "2117979800270750164",
@@ -6056,7 +6165,9 @@
    "retweets": 27,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117979474981462093": {
    "id": "2117979474981462093",
@@ -6078,7 +6189,9 @@
    "retweets": 20,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117979120025948496": {
    "id": "2117979120025948496",
@@ -6101,9 +6214,16 @@
    "media": [],
    "quoted": {
     "author": "bradrcarson",
-    "text": "So the results are all in. Data center moratoria (various flavors) went 43-1. \n\nAll hyperscalers must now converge on Harwood, North Dakota, the one outlier. Find out what's in the water or in the air. There is only one precinct and 400 voters, but they alone sided with you! https://t.co/XtF5WPLSYY"
+    "text": "So the results are all in. Data center moratoria (various flavors) went 43-1. \n\nAll hyperscalers must now converge on Harwood, North Dakota, the one outlier. Find out what's in the water or in the air. There is only one precinct and 400 voters, but they alone sided with you! https://t.co/XtF5WPLSYY",
+    "links": {
+     "https://t.co/XtF5WPLSYY": ""
+    }
    },
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {
+    "https://t.co/NiF8l23T9r": "https://dashboard-production-c2fc.up.railway.app/"
+   },
+   "enriched": 1
   },
   "2117969972718715278": {
    "id": "2117969972718715278",
@@ -6125,7 +6245,9 @@
    "retweets": 16,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117956913979961758": {
    "id": "2117956913979961758",
@@ -6147,7 +6269,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117954912340631706": {
    "id": "2117954912340631706",
@@ -6175,9 +6299,15 @@
    ],
    "quoted": {
     "author": "robertwiblin",
-    "text": "Laying into AI companies is more effective than you might think.\n\nGag clauses torn up.\n~$75bn moved to the OpenAI Foundation.\nOpenAI flipped on SB315.\nBrockman quit his SuperPAC.\nAnthropic backpedalled on its federal bill.\n\nReporters, lawyers, ex-staff, and shitposters on X got it done – with huge help from staff speaking up internally.\n\nThis month Anthropic, OpenAI and GDM gave us a counterproductive AI bill, dubious firings and fresh clauses gagging staff.\n\nIf you work at one of these companies: it's time to post in #general (metaphorically or maybe literally).\n\nIf you don't: consider becoming a sophisticated and strategic pain in the ass for these companies when they do bad things.\n\nIt’s a neglected career and probably high impact, especially for people who really get what's going on. I explain some options:\n\n00:00 We need a stronger effort to push AI companies to do better\n01:14 Anthropic: who gets to pull the brake?\n07:14 OpenAI fires three safety researchers\n12:44 Google DeepMind’s lifelong gag clause\n5:39 Credit where it’s due\n16:34 How to make AI companies behave better\n17:31 Insiders: if you want to stay\n18:40 Insiders: if you’re willing to leave\n19:37 So… should you leave?\n20:39 Outsiders: what’s already worked\n22:51 Outsiders: digging up and explaining\n25:12 Outsiders: reaching the public and politicians\n00:27:52 Keep the pressure on\n\n(On the 80,000 Hours Podcast, links below.)"
+    "text": "Laying into AI companies is more effective than you might think.\n\nGag clauses torn up.\n~$75bn moved to the OpenAI Foundation.\nOpenAI flipped on SB315.\nBrockman quit his SuperPAC.\nAnthropic backpedalled on its federal bill.\n\nReporters, lawyers, ex-staff, and shitposters on X got it done – with huge help from staff speaking up internally.\n\nThis month Anthropic, OpenAI and GDM gave us a counterproductive AI bill, dubious firings and fresh clauses gagging staff.\n\nIf you work at one of these companies: it's time to post in #general (metaphorically or maybe literally).\n\nIf you don't: consider becoming a sophisticated and strategic pain in the ass for these companies when they do bad things.\n\nIt’s a neglected career and probably high impact, especially for people who really get what's going on. I explain some options:\n\n00:00 We need a stronger effort to push AI companies to do better\n01:14 Anthropic: who gets to pull the brake?\n07:14 OpenAI fires three safety researchers\n12:44 Google DeepMind’s lifelong gag clause\n5:39 Credit where it’s due\n16:34 How to make AI companies behave better\n17:31 Insiders: if you want to stay\n18:40 Insiders: if you’re willing to leave\n19:37 So… should you leave?\n20:39 Outsiders: what’s already worked\n22:51 Outsiders: digging up and explaining\n25:12 Outsiders: reaching the public and politicians\n00:27:52 Keep the pressure on\n\n(On the 80,000 Hours Podcast, links below.)",
+    "links": {}
    },
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {
+    "https://t.co/TWk9ybJyp3": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/",
+    "https://t.co/NkI4grKB8F": ""
+   },
+   "enriched": 1
   },
   "2117952659101761555": {
    "id": "2117952659101761555",
@@ -6199,7 +6329,9 @@
    "retweets": 18,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117952325205590349": {
    "id": "2117952325205590349",
@@ -6221,7 +6353,9 @@
    "retweets": 218,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117920510403301430": {
    "id": "2117920510403301430",
@@ -6249,9 +6383,16 @@
    ],
    "quoted": {
     "author": "ONagel33303",
-    "text": "Jon Ossoff mentions AI extinction risk in his victory speech. \n\nAmerican politics has been too swayed by Big Money, says @ossoff, but with today's victory things are going to change:\n\n\"We can and will reclaim control over our own destiny.\" 🇺🇸 🦅 https://t.co/zbkrcBSBj8"
+    "text": "Jon Ossoff mentions AI extinction risk in his victory speech. \n\nAmerican politics has been too swayed by Big Money, says @ossoff, but with today's victory things are going to change:\n\n\"We can and will reclaim control over our own destiny.\" 🇺🇸 🦅 https://t.co/zbkrcBSBj8",
+    "links": {
+     "https://t.co/zbkrcBSBj8": ""
+    }
    },
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {
+    "https://t.co/ZFwpoDRAM2": ""
+   },
+   "enriched": 1
   },
   "2117919309439643960": {
    "id": "2117919309439643960",
@@ -6278,7 +6419,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {
+    "https://t.co/zbkrcBSBj8": ""
+   },
+   "enriched": 1
   },
   "2117918336550076801": {
    "id": "2117918336550076801",
@@ -6305,7 +6450,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {
+    "https://t.co/cl06U9fPzc": ""
+   },
+   "enriched": 1
   },
   "2117915336439656604": {
    "id": "2117915336439656604",
@@ -6328,9 +6477,14 @@
    "media": [],
    "quoted": {
     "author": "NateSilver538",
-    "text": "Uhhhh, Scott Colom leads in Mississippi by 28 votes. https://t.co/Rb81ECzCm1"
+    "text": "Uhhhh, Scott Colom leads in Mississippi by 28 votes. https://t.co/Rb81ECzCm1",
+    "links": {
+     "https://t.co/Rb81ECzCm1": ""
+    }
    },
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117909424090014074": {
    "id": "2117909424090014074",
@@ -6352,7 +6506,11 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {
+    "https://t.co/GuYfSxQ3FT": "https://jobs.80000hours.org/?refinementList%5Bcompany_data%5D%5B0%5D=Anthropic&refinementList%5Bcompany_data%5D%5B1%5D=OpenAI&refinementList%5Bcompany_data%5D%5B2%5D=Google%20DeepMind"
+   },
+   "enriched": 1
   },
   "2117908775164064037": {
    "id": "2117908775164064037",
@@ -6374,7 +6532,9 @@
    "retweets": 29,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117732278214271276": {
    "id": "2117732278214271276",
@@ -6401,7 +6561,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {
+    "https://t.co/8Ol7Lc6V2x": ""
+   },
+   "enriched": 1
   },
   "2117731266686509350": {
    "id": "2117731266686509350",
@@ -6423,7 +6587,9 @@
    "retweets": 1,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117731199150072253": {
    "id": "2117731199150072253",
@@ -6445,7 +6611,9 @@
    "retweets": 15,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118280106343104798": {
    "id": "2118280106343104798",
@@ -6472,7 +6640,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {
+    "https://t.co/zsUCYnt9xe": ""
+   },
+   "enriched": 1
   },
   "2118279875190501470": {
    "id": "2118279875190501470",
@@ -6495,9 +6667,14 @@
    "media": [],
    "quoted": {
     "author": "robertwiblin",
-    "text": "Laying into AI companies is more effective than you might think.\n\nGag clauses torn up.\n~$75bn moved to the OpenAI Foundation.\nOpenAI flipped on SB315.\nBrockman quit his SuperPAC.\nAnthropic backpedalled on its federal bill.\n\nReporters, lawyers, ex-staff, and shitposters on X got it done – with huge help from staff speaking up internally.\n\nThis month Anthropic, OpenAI and GDM gave us a counterproductive AI bill, dubious firings and fresh clauses gagging staff.\n\nIf you work at one of these companies: it's time to post in #general (metaphorically or maybe literally).\n\nIf you don't: consider becoming a sophisticated and strategic pain in the ass for these companies when they do bad things.\n\nIt’s a neglected career and probably high impact, especially for people who really get what's going on. I explain some options:\n\n00:00 We need a stronger effort to push AI companies to do better\n01:14 Anthropic: who gets to pull the brake?\n07:14 OpenAI fires three safety researchers\n12:44 Google DeepMind’s lifelong gag clause\n5:39 Credit where it’s due\n16:34 How to make AI companies behave better\n17:31 Insiders: if you want to stay\n18:40 Insiders: if you’re willing to leave\n19:37 So… should you leave?\n20:39 Outsiders: what’s already worked\n22:51 Outsiders: digging up and explaining\n25:12 Outsiders: reaching the public and politicians\n00:27:52 Keep the pressure on\n\n(On the 80,000 Hours Podcast, links below.)"
+    "text": "Laying into AI companies is more effective than you might think.\n\nGag clauses torn up.\n~$75bn moved to the OpenAI Foundation.\nOpenAI flipped on SB315.\nBrockman quit his SuperPAC.\nAnthropic backpedalled on its federal bill.\n\nReporters, lawyers, ex-staff, and shitposters on X got it done – with huge help from staff speaking up internally.\n\nThis month Anthropic, OpenAI and GDM gave us a counterproductive AI bill, dubious firings and fresh clauses gagging staff.\n\nIf you work at one of these companies: it's time to post in #general (metaphorically or maybe literally).\n\nIf you don't: consider becoming a sophisticated and strategic pain in the ass for these companies when they do bad things.\n\nIt’s a neglected career and probably high impact, especially for people who really get what's going on. I explain some options:\n\n00:00 We need a stronger effort to push AI companies to do better\n01:14 Anthropic: who gets to pull the brake?\n07:14 OpenAI fires three safety researchers\n12:44 Google DeepMind’s lifelong gag clause\n5:39 Credit where it’s due\n16:34 How to make AI companies behave better\n17:31 Insiders: if you want to stay\n18:40 Insiders: if you’re willing to leave\n19:37 So… should you leave?\n20:39 Outsiders: what’s already worked\n22:51 Outsiders: digging up and explaining\n25:12 Outsiders: reaching the public and politicians\n00:27:52 Keep the pressure on\n\n(On the 80,000 Hours Podcast, links below.)",
+    "links": {}
    },
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {
+    "https://t.co/tsZUuw3VMS": "https://www.tarbellcenter.org/fellowship"
+   },
+   "enriched": 1
   },
   "2118267376227828038": {
    "id": "2118267376227828038",
@@ -6524,7 +6701,9 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118098831690932555": {
    "id": "2118098831690932555",
@@ -6551,7 +6730,12 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {
+    "https://t.co/sFyMuKyPp8": "https://kalshi.com/markets/kxpresnomr/republican-primary-winner/kxpresnomr-28",
+    "https://t.co/hy1jqM6rvN": ""
+   },
+   "enriched": 1
   },
   "2118096804680245707": {
    "id": "2118096804680245707",
@@ -6573,7 +6757,11 @@
    "retweets": 29,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {
+    "https://t.co/vN7nBrtLor": "https://politi.co/480MQez"
+   },
+   "enriched": 1
   },
   "2118096646970188172": {
    "id": "2118096646970188172",
@@ -6600,7 +6788,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {
+    "https://t.co/NtwDdJdNRs": ""
+   },
+   "enriched": 1
   },
   "2118413009089392653": {
    "id": "2118413009089392653",
@@ -6622,7 +6814,9 @@
    "retweets": 20,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118393011122130962": {
    "id": "2118393011122130962",
@@ -6644,7 +6838,9 @@
    "retweets": 3,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118459584201289902": {
    "id": "2118459584201289902",
@@ -6671,7 +6867,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {
+    "https://t.co/oJVVvf5KvI": ""
+   },
+   "enriched": 1
   },
   "2118459495953138000": {
    "id": "2118459495953138000",
@@ -6694,9 +6894,15 @@
    "media": [],
    "quoted": {
     "author": "RyanGreenblatt",
-    "text": "This report on AI R&D automation (RSI) is a big update towards ASI within 1-2 years. It says AI progress is sped up by RSI right now by around 2x. In AI 2027, this happens around March 2027.\n\nI was seriously wrong about RSI speed up; I previously expected much less in 2026 (around 1.15x-1.3x). It seems as though there was specific privately available evidence that would have changed my mind.\n\nI haven't seen an unredacted version of this report; this is purely about the public report. Because so much of the underlying evidence was redacted from the public report, I think conclusions about things other than the observed 2x faster rate of progress on benchmarks depend significantly on trust for the authors of the report. (E.g., conclusions about whether this speed up is from RSI depend on trust.) I do trust the authors of the report a lot to be careful and rigorous and generally do a good job. (Note that I also work at METR.) Less extensive redactions would greatly reduce this need for trust.\n\nSince in my current role I may have access to other confidential information that could be relevant to timelines one way or another, I unfortunately cannot state my all-things-considered views on ASI timelines or the probability of a software intelligence explosion right now. Here, I’ve done some analysis of the implications using my previous public statements.\n\nA 2x acceleration in overall AI progress from RSI corresponds to a much larger than 2x RSI speed up for AI software R&D (algorithms and data); I did an estimate using my public preexisting modeling of drivers of AI progress and the public report which yielded a very rough estimate of 4.5x for how much RSI is currently accelerating AI software progress (relative to no AI automation). In the AI 2027 scenario, this much acceleration happens around March 2027.\n\nHere are the worked details of this estimate based on my public modeling. There are two main reasons RSI speed up of AI software R&D must be larger:\n\n- Not all of AI progress is from better software (some is from scaling up compute in training runs). I've previously speculated that around 2/3 of AI progress is from software improvements which implies that 2x overall AI progress acceleration requires 3x faster software progress.\n- Diminishing returns: A fixed amount of progress requires more work over time, so to ongoingly maintain 3x faster software progress via AI automation, you need increasingly large speed boosts from AI automation (as in, speed ups relative to how fast software R&D would go without AI automation). Based on this report, it seems that there is a substantial amount of additional AI progress from automation that has occurred.\n\nWe can estimate the effects of diminishing returns by first determining how many additional years of software progress we've seen (relative to the preexisting trend) and then estimating how much software R&D would slow down after a year of software progress if you held inputs fixed due to diminishing returns. I've previously estimated software R&D would slow down by around 2x for each year of software progress if you held inputs fixed (https://t.co/AYhl9hyiAj) and based on the report, it seems as though we've perhaps seen roughly 0.35-1.0 years of additional software progress incorporated into trained models so far (geometric mean of ~0.6). This combines to 3 * 2^(~0.6) = ~4.5.\n(Relevant public modeling and numbers I'm using: https://t.co/AYhl9hyiAj, https://t.co/ck7CtW5LIA)"
+    "text": "This report on AI R&D automation (RSI) is a big update towards ASI within 1-2 years. It says AI progress is sped up by RSI right now by around 2x. In AI 2027, this happens around March 2027.\n\nI was seriously wrong about RSI speed up; I previously expected much less in 2026 (around 1.15x-1.3x). It seems as though there was specific privately available evidence that would have changed my mind.\n\nI haven't seen an unredacted version of this report; this is purely about the public report. Because so much of the underlying evidence was redacted from the public report, I think conclusions about things other than the observed 2x faster rate of progress on benchmarks depend significantly on trust for the authors of the report. (E.g., conclusions about whether this speed up is from RSI depend on trust.) I do trust the authors of the report a lot to be careful and rigorous and generally do a good job. (Note that I also work at METR.) Less extensive redactions would greatly reduce this need for trust.\n\nSince in my current role I may have access to other confidential information that could be relevant to timelines one way or another, I unfortunately cannot state my all-things-considered views on ASI timelines or the probability of a software intelligence explosion right now. Here, I’ve done some analysis of the implications using my previous public statements.\n\nA 2x acceleration in overall AI progress from RSI corresponds to a much larger than 2x RSI speed up for AI software R&D (algorithms and data); I did an estimate using my public preexisting modeling of drivers of AI progress and the public report which yielded a very rough estimate of 4.5x for how much RSI is currently accelerating AI software progress (relative to no AI automation). In the AI 2027 scenario, this much acceleration happens around March 2027.\n\nHere are the worked details of this estimate based on my public modeling. There are two main reasons RSI speed up of AI software R&D must be larger:\n\n- Not all of AI progress is from better software (some is from scaling up compute in training runs). I've previously speculated that around 2/3 of AI progress is from software improvements which implies that 2x overall AI progress acceleration requires 3x faster software progress.\n- Diminishing returns: A fixed amount of progress requires more work over time, so to ongoingly maintain 3x faster software progress via AI automation, you need increasingly large speed boosts from AI automation (as in, speed ups relative to how fast software R&D would go without AI automation). Based on this report, it seems that there is a substantial amount of additional AI progress from automation that has occurred.\n\nWe can estimate the effects of diminishing returns by first determining how many additional years of software progress we've seen (relative to the preexisting trend) and then estimating how much software R&D would slow down after a year of software progress if you held inputs fixed due to diminishing returns. I've previously estimated software R&D would slow down by around 2x for each year of software progress if you held inputs fixed (https://t.co/AYhl9hyiAj) and based on the report, it seems as though we've perhaps seen roughly 0.35-1.0 years of additional software progress incorporated into trained models so far (geometric mean of ~0.6). This combines to 3 * 2^(~0.6) = ~4.5.\n(Relevant public modeling and numbers I'm using: https://t.co/AYhl9hyiAj, https://t.co/ck7CtW5LIA)",
+    "links": {
+     "https://t.co/AYhl9hyiAj": "https://www.lesswrong.com/posts/FG54euEAesRkSZuJN/ryan_greenblatt-s-shortform?commentId=rAFxcETtNtsuzw6aG",
+     "https://t.co/ck7CtW5LIA": "https://www.lesswrong.com/posts/Jga7PHMzfZf4fbdyo/if-mythos-actually-made-anthropic-employees-4x-more"
+    }
    },
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118459106612625480": {
    "id": "2118459106612625480",
@@ -6719,9 +6925,12 @@
    "media": [],
    "quoted": {
     "author": "mkratsios47",
-    "text": "Today, we released the National Policy for Nucleic Acid Synthesis Screening to protect American biotechnology innovation while reducing the risk of misuse. \n\nThis policy establishes a new, government-wide screening requirements for synthetic DNA and the equipment used to make it. It will ensure companies selling nucleic acid sequences and synthesis equipment know their customers and prevent the malicious use of these materials and tools.\n\nThis policy strengthens our Nation’s biosecurity posture by establishing rigorous U.S. government-wide procurement screening and physical security standards for synthetic biology. It replaces outdated “self-attestation” systems with robust, independent verification. It creates a dynamic, SI-powered screening layer that assesses the biological risk from nucleic acid sequences, allowing the U.S. to anticipate and prevent malicious use and help stop dangerous gain-of-function research. \n\n@NIST will issue rigorous new screening standards and @HHSGov and @USDA will certify synthetic biology providers. Together, these measures will strengthen American biosecurity, safeguard responsible innovation, and establish a global standard for safe and transparent synthetic biology tools and research."
+    "text": "Today, we released the National Policy for Nucleic Acid Synthesis Screening to protect American biotechnology innovation while reducing the risk of misuse. \n\nThis policy establishes a new, government-wide screening requirements for synthetic DNA and the equipment used to make it. It will ensure companies selling nucleic acid sequences and synthesis equipment know their customers and prevent the malicious use of these materials and tools.\n\nThis policy strengthens our Nation’s biosecurity posture by establishing rigorous U.S. government-wide procurement screening and physical security standards for synthetic biology. It replaces outdated “self-attestation” systems with robust, independent verification. It creates a dynamic, SI-powered screening layer that assesses the biological risk from nucleic acid sequences, allowing the U.S. to anticipate and prevent malicious use and help stop dangerous gain-of-function research. \n\n@NIST will issue rigorous new screening standards and @HHSGov and @USDA will certify synthetic biology providers. Together, these measures will strengthen American biosecurity, safeguard responsible innovation, and establish a global standard for safe and transparent synthetic biology tools and research.",
+    "links": {}
    },
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118458166279278707": {
    "id": "2118458166279278707",
@@ -6743,7 +6952,150 @@
    "retweets": 174,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {
+    "https://t.co/AYhl9hyiAj": "https://www.lesswrong.com/posts/FG54euEAesRkSZuJN/ryan_greenblatt-s-shortform?commentId=rAFxcETtNtsuzw6aG",
+    "https://t.co/ck7CtW5LIA": "https://www.lesswrong.com/posts/Jga7PHMzfZf4fbdyo/if-mythos-actually-made-anthropic-employees-4x-more"
+   },
+   "enriched": 1
+  },
+  "2119034372133204147": {
+   "id": "2119034372133204147",
+   "url": "https://x.com/robertwiblin/status/2119034372133204147",
+   "text": "@HaydnBelfield Perhaps but if I did Jensen would be right to give me a hard time about it.",
+   "created_at": "Sat Nov 07 11:48:58 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "HaydnBelfield",
+   "reply_to_id": "2119028434924171625",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-07T13:15:19.739124+00:00",
+   "enriched": 1
+  },
+  "2119032330312650905": {
+   "id": "2119032330312650905",
+   "url": "https://x.com/robertwiblin/status/2119032330312650905",
+   "text": "https://t.co/nq4l3kkaf9",
+   "created_at": "Sat Nov 07 11:40:51 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2119032327518994680",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/nq4l3kkaf9": "https://www.vox.com/politics/509476/midterm-elections-2026-trump-democrats-david-shor-iran"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-07T13:15:19.739124+00:00",
+   "enriched": 1
+  },
+  "2119032327518994680": {
+   "id": "2119032327518994680",
+   "url": "https://x.com/robertwiblin/status/2119032327518994680",
+   "text": "Trump's anti-AI regulation stance might be among the least popular positions an American politician has ever taken.\n\nMakes 'defund the police' look like an electoral powerhouse. (From a convo with @davidshor.) https://t.co/tih1wHSP0F",
+   "created_at": "Sat Nov 07 11:40:51 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 36,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWhQVcSXgAA8uuT.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/tih1wHSP0F": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-07T13:15:19.739124+00:00",
+   "enriched": 1
+  },
+  "2119026069709713848": {
+   "id": "2119026069709713848",
+   "url": "https://x.com/robertwiblin/status/2119026069709713848",
+   "text": "https://t.co/7kGwTCizDd",
+   "created_at": "Sat Nov 07 11:15:59 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2119025917054107912",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/7kGwTCizDd": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-07T13:15:19.739124+00:00",
+   "enriched": 1
+  },
+  "2119025917054107912": {
+   "id": "2119025917054107912",
+   "url": "https://x.com/robertwiblin/status/2119025917054107912",
+   "text": "I would simply not have a romantic relationship with a Chinese spy. https://t.co/IyXtHhOkgW",
+   "created_at": "Sat Nov 07 11:15:22 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 32,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWhKx5wWoAA48GX.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/IyXtHhOkgW": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-07T13:15:19.739124+00:00",
+   "enriched": 1
   }
  }
 }

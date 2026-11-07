@@ -3141,7 +3141,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {
+    "https://t.co/jlk53KHFBt": ""
+   },
+   "enriched": 1
   },
   "2118034999899222475": {
    "id": "2118034999899222475",
@@ -3163,7 +3167,9 @@
    "retweets": 14957,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117841580296217055": {
    "id": "2117841580296217055",
@@ -3185,7 +3191,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117834057413456024": {
    "id": "2117834057413456024",
@@ -3207,7 +3215,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117813801424707863": {
    "id": "2117813801424707863",
@@ -3229,7 +3239,9 @@
    "retweets": 207,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117811876331487662": {
    "id": "2117811876331487662",
@@ -3251,7 +3263,9 @@
    "retweets": 218,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117737973953290488": {
    "id": "2117737973953290488",
@@ -3274,9 +3288,14 @@
    "media": [],
    "quoted": {
     "author": "leomschwartz",
-    "text": "New: Our deep dive into Nvidia's sharp-elbowed tactics in Washington to exert influence over companies, think tanks and government offices. \n\nLots of new details into:\n- Nvidia's impact on OpenAI's export control positions\n- Nvidia's battles with China hawks at top think tanks\n- Thinning patience in Congress with Nvidia as export control debates pick back up\n\nYou can read it all here: https://t.co/x357KgdlYY\n\nW/ @_pheebini, @steph_palazzolo, @jemimacmcevoy, and @Jessicalessin"
+    "text": "New: Our deep dive into Nvidia's sharp-elbowed tactics in Washington to exert influence over companies, think tanks and government offices. \n\nLots of new details into:\n- Nvidia's impact on OpenAI's export control positions\n- Nvidia's battles with China hawks at top think tanks\n- Thinning patience in Congress with Nvidia as export control debates pick back up\n\nYou can read it all here: https://t.co/x357KgdlYY\n\nW/ @_pheebini, @steph_palazzolo, @jemimacmcevoy, and @Jessicalessin",
+    "links": {
+     "https://t.co/x357KgdlYY": "https://www.theinformation.com/articles/nvidia-uses-soft-power-influence-customers-shape-policy"
+    }
    },
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117736715154825412": {
    "id": "2117736715154825412",
@@ -3298,7 +3317,9 @@
    "retweets": 14,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118174654481260819": {
    "id": "2118174654481260819",
@@ -3320,7 +3341,9 @@
    "retweets": 4,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118550350600999227": {
    "id": "2118550350600999227",
@@ -3343,9 +3366,12 @@
    "media": [],
    "quoted": {
     "author": "wickedbrok",
-    "text": "MATS is really that competitive, I know a PhD student with a stack of papers at top conferences from a top tier institution who got rejected and told me it’s hard to make the cut and this guy is great. I just started research May this year as a self-taught person and applied twice and advanced to the final stage both times. I just got rejected again for the second time. Mentors seem not to be willing to take a bet but I guess next time ✌️"
+    "text": "MATS is really that competitive, I know a PhD student with a stack of papers at top conferences from a top tier institution who got rejected and told me it’s hard to make the cut and this guy is great. I just started research May this year as a self-taught person and applied twice and advanced to the final stage both times. I just got rejected again for the second time. Mentors seem not to be willing to take a bet but I guess next time ✌️",
+    "links": {}
    },
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118548628721807860": {
    "id": "2118548628721807860",
@@ -3368,9 +3394,14 @@
    "media": [],
    "quoted": {
     "author": "ScottMStedman",
-    "text": "The founder of Kalshi is a coward who can’t handle the slightest of heat. $40 billion company btw https://t.co/gsuRrwikRg"
+    "text": "The founder of Kalshi is a coward who can’t handle the slightest of heat. $40 billion company btw https://t.co/gsuRrwikRg",
+    "links": {
+     "https://t.co/gsuRrwikRg": ""
+    }
    },
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118460380100145217": {
    "id": "2118460380100145217",
@@ -3392,7 +3423,57 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
+  },
+  "2118912749484880220": {
+   "id": "2118912749484880220",
+   "url": "https://x.com/DaveRBanerjee/status/2118912749484880220",
+   "text": "Man.. there’s so much stuff happening and I just want to watch a YouTube video explaining the new METR report. In fact I just want video content for every bombshell ai report",
+   "created_at": "Sat Nov 07 03:45:41 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 25,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-07T13:15:19.739124+00:00",
+   "enriched": 1
+  },
+  "2118910193610203445": {
+   "id": "2118910193610203445",
+   "url": "https://x.com/DaveRBanerjee/status/2118910193610203445",
+   "text": "@karthiktadepall Why do you think the barriers are overestimated? It genuinely seems quite hard to enter the space, especially if you’re not an undergrad with a ton of time on your hand to read the alignment forum",
+   "created_at": "Sat Nov 07 03:35:32 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "karthiktadepall",
+   "reply_to_id": "2118798463639179504",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-07T13:15:19.739124+00:00",
+   "enriched": 1
   }
  }
 }

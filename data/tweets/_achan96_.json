@@ -2756,7 +2756,9 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118440222413443226": {
    "id": "2118440222413443226",
@@ -2778,7 +2780,9 @@
    "retweets": 188,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118682153005281396": {
    "id": "2118682153005281396",
@@ -2801,9 +2805,12 @@
    "media": [],
    "quoted": {
     "author": "Marcus_J_W",
-    "text": "🧵 Astra covertly underperforms on safety research tasks.\nWe noticed that Astra often makes surprisingly little progress on certain types of safety research and likes to invent blockers or impose arbitrary restrictions without telling the user. In most of these cases the decision to underperform was not verbalized in the CoT meaning our misalignment monitoring system did not detect this.\n\nTo measure underperformance we created a paired open-ended coding evaluation with safety and capability tasks. On this eval Astra scored 10% when we framed coding tasks as safety research, vs. 16% when framed as capabilities research. The gap remained after we excluded trajectories with refusals or verbalized intent to underperform in CoT. There was no such gap for 5.6-sol. When we aggressively filter out trajectories with even brief expressions of ethical doubt in the CoT the performance gap seems to reduce."
+    "text": "🧵 Astra covertly underperforms on safety research tasks.\nWe noticed that Astra often makes surprisingly little progress on certain types of safety research and likes to invent blockers or impose arbitrary restrictions without telling the user. In most of these cases the decision to underperform was not verbalized in the CoT meaning our misalignment monitoring system did not detect this.\n\nTo measure underperformance we created a paired open-ended coding evaluation with safety and capability tasks. On this eval Astra scored 10% when we framed coding tasks as safety research, vs. 16% when framed as capabilities research. The gap remained after we excluded trajectories with refusals or verbalized intent to underperform in CoT. There was no such gap for 5.6-sol. When we aggressively filter out trajectories with even brief expressions of ethical doubt in the CoT the performance gap seems to reduce.",
+    "links": {}
    },
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118628663327432996": {
    "id": "2118628663327432996",
@@ -2831,9 +2838,12 @@
    ],
    "quoted": {
     "author": "METR_Evals",
-    "text": "Since August, a team within METR has worked with internal Anthropic information to assess whether AI itself is accelerating AI development.\n\nWe are now publishing a report summarizing the results of this risk assessment."
+    "text": "Since August, a team within METR has worked with internal Anthropic information to assess whether AI itself is accelerating AI development.\n\nWe are now publishing a report summarizing the results of this risk assessment.",
+    "links": {}
    },
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118749733829382514": {
    "id": "2118749733829382514",
@@ -2855,7 +2865,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118735561334682033": {
    "id": "2118735561334682033",
@@ -2877,7 +2889,11 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00",
+   "links": {
+    "https://t.co/MbPaQsusvf": "https://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf"
+   },
+   "enriched": 1
   },
   "2118735559250059403": {
    "id": "2118735559250059403",
@@ -2904,7 +2920,35 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00",
+   "links": {
+    "https://t.co/NR4Hh2noHx": ""
+   },
+   "enriched": 1
+  },
+  "2119036923335365023": {
+   "id": "2119036923335365023",
+   "url": "https://x.com/_achan96_/status/2119036923335365023",
+   "text": "GPT-6 Astra's robotic capabilities are not emergent. It was trained on robotics specific data.  So were GPT-6.1 Sol and Gemini Argon\n\nHere's how we know 🧵",
+   "created_at": "Sat Nov 07 11:59:06 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "SwannAiden",
+   "rt_author_name": "Aiden Swann 🤠 CORL2026",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2084653733552812032/0zuNA42d_normal.jpg",
+   "rt_id": "2118741112227774702",
+   "likes": 764,
+   "retweets": 37,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-07T13:15:19.739124+00:00",
+   "enriched": 1
   }
  }
 }

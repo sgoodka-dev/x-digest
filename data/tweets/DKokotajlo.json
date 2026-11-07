@@ -3935,7 +3935,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-02T20:47:23.288534+00:00"
+   "fetched_at": "2026-11-02T20:47:23.288534+00:00",
+   "links": {
+    "https://t.co/s8IDfPhtWw": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm"
+   },
+   "enriched": 1
   },
   "2117852841528472063": {
    "id": "2117852841528472063",
@@ -3962,7 +3966,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {
+    "https://t.co/ikqzDG5wtO": ""
+   },
+   "enriched": 1
   },
   "2117852812470305089": {
    "id": "2117852812470305089",
@@ -3984,7 +3992,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117738242992959924": {
    "id": "2117738242992959924",
@@ -4006,7 +4016,12 @@
    "retweets": 6,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {
+    "https://t.co/XJBWUBZh0d": "https://www.aifuturesmodel.com/",
+    "https://t.co/FBDuiNjRv1": "https://www-cdn.anthropic.com/files/4zrzovbb/website/0bacdc8440ea96e62a8766d99ebe1d4eea6d5f3a.pdf"
+   },
+   "enriched": 1
   },
   "2117738240757371022": {
    "id": "2117738240757371022",
@@ -4029,9 +4044,14 @@
    "media": [],
    "quoted": {
     "author": "theobearman",
-    "text": "Anthropic updated its S1 this morning. Notable additions re automated AI R&D and human oversight of it:\n\n\"[...] our internal estimates and our expectations regarding future models, rather than our current models, indicate that we may imminently meet our Responsible Scaling Policy’s definition of 'dramatically accelerated progress attributable to AI.' We have not designated any of our current models as exceeding this threshold, and we continue to assess the underlying data. We are also evaluating the implications of meeting the AI research and development capability threshold and will release further reports in the future as we set forth in our Responsible Scaling Policy.\"\n\n\"We are also considering additional measures, including updates to our Responsible Scaling Policy, to require human review and approval of certain decisions in our research and development processes as our models perform an increasing share of that work.\"\n\n\"We believe our investments in safety techniques will enable us to manage these risks and responsibly realize substantially more leverage from Claude than we do today in developing AI models. However, we do not anticipate being able to safely use Claude to fully autonomously design and build successive generations of frontier models without meaningful human supervision or understanding, if and when that becomes technically possible. Accordingly, we are considering updates to our Responsible Scaling Policy to keep humans in control of frontier model development at Anthropic.\"\n\nhttps://t.co/s8IDfPhtWw"
+    "text": "Anthropic updated its S1 this morning. Notable additions re automated AI R&D and human oversight of it:\n\n\"[...] our internal estimates and our expectations regarding future models, rather than our current models, indicate that we may imminently meet our Responsible Scaling Policy’s definition of 'dramatically accelerated progress attributable to AI.' We have not designated any of our current models as exceeding this threshold, and we continue to assess the underlying data. We are also evaluating the implications of meeting the AI research and development capability threshold and will release further reports in the future as we set forth in our Responsible Scaling Policy.\"\n\n\"We are also considering additional measures, including updates to our Responsible Scaling Policy, to require human review and approval of certain decisions in our research and development processes as our models perform an increasing share of that work.\"\n\n\"We believe our investments in safety techniques will enable us to manage these risks and responsibly realize substantially more leverage from Claude than we do today in developing AI models. However, we do not anticipate being able to safely use Claude to fully autonomously design and build successive generations of frontier models without meaningful human supervision or understanding, if and when that becomes technically possible. Accordingly, we are considering updates to our Responsible Scaling Policy to keep humans in control of frontier model development at Anthropic.\"\n\nhttps://t.co/s8IDfPhtWw",
+    "links": {
+     "https://t.co/s8IDfPhtWw": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm"
+    }
    },
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118079773000032434": {
    "id": "2118079773000032434",
@@ -4053,7 +4073,9 @@
    "retweets": 20,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T21:20:35.164155+00:00"
+   "fetched_at": "2026-11-04T21:20:35.164155+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118184437955572184": {
    "id": "2118184437955572184",
@@ -4075,7 +4097,9 @@
    "retweets": 80,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118119207703589106": {
    "id": "2118119207703589106",
@@ -4097,7 +4121,9 @@
    "retweets": 30,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118110011981475938": {
    "id": "2118110011981475938",
@@ -4119,7 +4145,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118105870240543041": {
    "id": "2118105870240543041",
@@ -4142,9 +4170,12 @@
    "media": [],
    "quoted": {
     "author": "Marcus_J_W",
-    "text": "🧵 Astra covertly underperforms on safety research tasks.\nWe noticed that Astra often makes surprisingly little progress on certain types of safety research and likes to invent blockers or impose arbitrary restrictions without telling the user. In most of these cases the decision to underperform was not verbalized in the CoT meaning our misalignment monitoring system did not detect this.\n\nTo measure underperformance we created a paired open-ended coding evaluation with safety and capability tasks. On this eval Astra scored 10% when we framed coding tasks as safety research, vs. 16% when framed as capabilities research. The gap remained after we excluded trajectories with refusals or verbalized intent to underperform in CoT. There was no such gap for 5.6-sol. When we aggressively filter out trajectories with even brief expressions of ethical doubt in the CoT the performance gap seems to reduce."
+    "text": "🧵 Astra covertly underperforms on safety research tasks.\nWe noticed that Astra often makes surprisingly little progress on certain types of safety research and likes to invent blockers or impose arbitrary restrictions without telling the user. In most of these cases the decision to underperform was not verbalized in the CoT meaning our misalignment monitoring system did not detect this.\n\nTo measure underperformance we created a paired open-ended coding evaluation with safety and capability tasks. On this eval Astra scored 10% when we framed coding tasks as safety research, vs. 16% when framed as capabilities research. The gap remained after we excluded trajectories with refusals or verbalized intent to underperform in CoT. There was no such gap for 5.6-sol. When we aggressively filter out trajectories with even brief expressions of ethical doubt in the CoT the performance gap seems to reduce.",
+    "links": {}
    },
-   "fetched_at": "2026-11-05T14:45:47.010415+00:00"
+   "fetched_at": "2026-11-05T14:45:47.010415+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118436765845582289": {
    "id": "2118436765845582289",
@@ -4166,7 +4197,9 @@
    "retweets": 189,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T21:28:33.291434+00:00"
+   "fetched_at": "2026-11-05T21:28:33.291434+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118614960234467349": {
    "id": "2118614960234467349",
@@ -4193,7 +4226,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {
+    "https://t.co/IF4d0EMSD8": "https://clocktowerbench.com/"
+   },
+   "enriched": 1
   },
   "2118614741178560826": {
    "id": "2118614741178560826",
@@ -4215,7 +4252,9 @@
    "retweets": 16,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118614574903816570": {
    "id": "2118614574903816570",
@@ -4242,7 +4281,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {
+    "https://t.co/ZzpoirgGJm": ""
+   },
+   "enriched": 1
   },
   "2118568799419138061": {
    "id": "2118568799419138061",
@@ -4264,7 +4307,9 @@
    "retweets": 23,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118507721137979842": {
    "id": "2118507721137979842",
@@ -4286,7 +4331,11 @@
    "retweets": 4,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {
+    "https://t.co/PV6row3CAD": "https://www.lesswrong.com/posts/cxuzALcmucCndYv4a/daniel-kokotajlo-s-shortform#8sSvtQZYDNnC9bhvn"
+   },
+   "enriched": 1
   },
   "2118507719665795306": {
    "id": "2118507719665795306",
@@ -4308,7 +4357,9 @@
    "retweets": 151,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118498896674791921": {
    "id": "2118498896674791921",
@@ -4330,7 +4381,9 @@
    "retweets": 39,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118489063401701436": {
    "id": "2118489063401701436",
@@ -4352,7 +4405,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118482842003075142": {
    "id": "2118482842003075142",
@@ -4374,7 +4429,9 @@
    "retweets": 71,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118475237985784000": {
    "id": "2118475237985784000",
@@ -4396,7 +4453,9 @@
    "retweets": 0,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118475061934055533": {
    "id": "2118475061934055533",
@@ -4419,9 +4478,12 @@
    "media": [],
    "quoted": {
     "author": "DKokotajlo",
-    "text": "We at AIFP are spooked by this information. IF (big IF) Anthropic really is imminently about to meet the RSP threshold of 2x acceleration over baseline, then it seems timelines to full RSI and superintelligence may be very short indeed. For example if we naively optimize the AIFM parameters to achieve 2x acceleration over baseline progress in Jan 2027, we get superintelligence sooner than depicted in AI 2027. We are thinking harder and longer about this now and will hopefully have a lengthier update on our thinking to share in the next week."
+    "text": "We at AIFP are spooked by this information. IF (big IF) Anthropic really is imminently about to meet the RSP threshold of 2x acceleration over baseline, then it seems timelines to full RSI and superintelligence may be very short indeed. For example if we naively optimize the AIFM parameters to achieve 2x acceleration over baseline progress in Jan 2027, we get superintelligence sooner than depicted in AI 2027. We are thinking harder and longer about this now and will hopefully have a lengthier update on our thinking to share in the next week.",
+    "links": {}
    },
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118466909335322909": {
    "id": "2118466909335322909",
@@ -4443,7 +4505,9 @@
    "retweets": 96,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118459903249686854": {
    "id": "2118459903249686854",
@@ -4466,9 +4530,12 @@
    "media": [],
    "quoted": {
     "author": "METR_Evals",
-    "text": "We agreed to pilot a compute allocation assessment, but Anthropic canceled this portion of the pilot (before we came to any substantial conclusions). Anthropic stated this was to keep the focus on risk assessment for the time being, and that it would revisit this later on."
+    "text": "We agreed to pilot a compute allocation assessment, but Anthropic canceled this portion of the pilot (before we came to any substantial conclusions). Anthropic stated this was to keep the focus on risk assessment for the time being, and that it would revisit this later on.",
+    "links": {}
    },
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118456355015295443": {
    "id": "2118456355015295443",
@@ -4490,7 +4557,9 @@
    "retweets": 7,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118456177558483126": {
    "id": "2118456177558483126",
@@ -4512,7 +4581,12 @@
    "retweets": 174,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {
+    "https://t.co/AYhl9hyiAj": "https://www.lesswrong.com/posts/FG54euEAesRkSZuJN/ryan_greenblatt-s-shortform?commentId=rAFxcETtNtsuzw6aG",
+    "https://t.co/ck7CtW5LIA": "https://www.lesswrong.com/posts/Jga7PHMzfZf4fbdyo/if-mythos-actually-made-anthropic-employees-4x-more"
+   },
+   "enriched": 1
   },
   "2118735223559213094": {
    "id": "2118735223559213094",
@@ -4534,7 +4608,9 @@
    "retweets": 2,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118721006407979429": {
    "id": "2118721006407979429",
@@ -4556,7 +4632,9 @@
    "retweets": 11,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118806523187277895": {
    "id": "2118806523187277895",
@@ -4583,7 +4661,161 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-06T20:54:35.151346+00:00"
+   "fetched_at": "2026-11-06T20:54:35.151346+00:00",
+   "links": {
+    "https://t.co/EfnntaRGfY": ""
+   },
+   "enriched": 1
+  },
+  "2118931832117100909": {
+   "id": "2118931832117100909",
+   "url": "https://x.com/DKokotajlo/status/2118931832117100909",
+   "text": "@RepCasar Yes! thank you!",
+   "created_at": "Sat Nov 07 05:01:31 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "RepCasar",
+   "reply_to_id": "2118862451555147777",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 68,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-07T13:15:19.739124+00:00",
+   "enriched": 1
+  },
+  "2118924618522341784": {
+   "id": "2118924618522341784",
+   "url": "https://x.com/DKokotajlo/status/2118924618522341784",
+   "text": "All the frontier AI companies should be required by law to report on their compute allocations. @SenJoshBecker's bill would do so.\n\nhttps://t.co/F9Hk0iGNil https://t.co/htyFiZh1Oi",
+   "created_at": "Sat Nov 07 04:32:51 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "Thomas_Woodside",
+   "rt_author_name": "Thomas Woodside 🫜",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1772349169484681216/xrSVla58_normal.jpg",
+   "rt_id": "2118786981580968385",
+   "likes": 100,
+   "retweets": 21,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWdwyOhaUAAdGvi.png"
+    }
+   ],
+   "links": {
+    "https://t.co/F9Hk0iGNil": "https://sd13.senate.ca.gov/news/press-release/october-20-2026/senator-becker-introduces-first-its-kind-legislation-to-make-ai",
+    "https://t.co/htyFiZh1Oi": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-07T13:15:19.739124+00:00",
+   "enriched": 1
+  },
+  "2118854105863250158": {
+   "id": "2118854105863250158",
+   "url": "https://x.com/DKokotajlo/status/2118854105863250158",
+   "text": "Conservative pundit @MattWalshBlog on banning superintelligence:\n\"That technology by definition is outside of human control.\"\n\"Should we tell them they can't do that? Yes, clearly we should.\" https://t.co/GYrlF7DePH",
+   "created_at": "Fri Nov 06 23:52:39 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "SimonLermenAI",
+   "rt_author_name": "Simon Lermen",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1790802484853641217/Zrf5uu3c_normal.jpg",
+   "rt_id": "2118752423091290412",
+   "likes": 312,
+   "retweets": 51,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2118751958504812544/img/surxIME3gg0ziAiY.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/GYrlF7DePH": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-07T13:15:19.739124+00:00",
+   "enriched": 1
+  },
+  "2118853156230889608": {
+   "id": "2118853156230889608",
+   "url": "https://x.com/DKokotajlo/status/2118853156230889608",
+   "text": "I recommend @ajeya_cotra's  post about implications of the AI R&amp;D report. Ajeya argues:\n- A 2x speed-up is dramatic.\n- 2x faster progress implies a much larger effective \"time warp bubble\" speed for staff.\n- This could compound extremely fast.\n- We aren't prepared. https://t.co/Xf0NFwaqzg",
+   "created_at": "Fri Nov 06 23:48:53 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "RyanGreenblatt",
+   "rt_author_name": "Ryan Greenblatt",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1885439620625948673/qD6KYkL6_normal.jpg",
+   "rt_id": "2118844317817303131",
+   "likes": 382,
+   "retweets": 45,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWelgCCaQAEiKyf.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/Xf0NFwaqzg": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-07T13:15:19.739124+00:00",
+   "enriched": 1
+  },
+  "2118828253742002495": {
+   "id": "2118828253742002495",
+   "url": "https://x.com/DKokotajlo/status/2118828253742002495",
+   "text": "Whatever happened to \"Don't be evil?\"\n\nIt should not be legal to have something like this as a condition of employment.",
+   "created_at": "Fri Nov 06 22:09:56 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 197,
+   "retweets": 10,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2112946535877005776",
+    "author_name": "Andreas Kirsch 🇺🇦",
+    "links": {
+     "https://t.co/RqEUhuPGAJ": ""
+    },
+    "author": "BlackHC",
+    "text": "The non-disparagement clauses in Google's UK employment contracts are indeed incredibly broad.  This is from the Confidentiality and Proprietary Information Agreement I signed in 2024 before I started.\n\nIt forbids any criticism forever (regardless if it's true or not) https://t.co/RqEUhuPGAJ"
+   },
+   "fetched_at": "2026-11-07T13:15:19.739124+00:00",
+   "enriched": 1
   }
  }
 }

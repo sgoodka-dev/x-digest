@@ -26,7 +26,9 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-02T23:07:13.070865+00:00"
+   "fetched_at": "2026-11-02T23:07:13.070865+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117013111756480635": {
    "id": "2117013111756480635",
@@ -48,7 +50,9 @@
    "retweets": 10,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-02T23:07:13.070865+00:00"
+   "fetched_at": "2026-11-02T23:07:13.070865+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2116955083938435564": {
    "id": "2116955083938435564",
@@ -70,7 +74,9 @@
    "retweets": 57,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-02T23:07:13.070865+00:00"
+   "fetched_at": "2026-11-02T23:07:13.070865+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2116954065833967725": {
    "id": "2116954065833967725",
@@ -97,7 +103,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-02T23:07:13.070865+00:00"
+   "fetched_at": "2026-11-02T23:07:13.070865+00:00",
+   "links": {
+    "https://t.co/2RHfSMR3YP": ""
+   },
+   "enriched": 1
   },
   "2116953853472162038": {
    "id": "2116953853472162038",
@@ -124,7 +134,9 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-02T23:07:13.070865+00:00"
+   "fetched_at": "2026-11-02T23:07:13.070865+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2116636307980259496": {
    "id": "2116636307980259496",
@@ -2499,7 +2511,9 @@
    "retweets": 41,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117419687206092820": {
    "id": "2117419687206092820",
@@ -2521,7 +2535,9 @@
    "retweets": 144,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T18:27:19.395380+00:00"
+   "fetched_at": "2026-11-03T18:27:19.395380+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117713889962213853": {
    "id": "2117713889962213853",
@@ -2543,7 +2559,9 @@
    "retweets": 3,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T21:00:07.693918+00:00"
+   "fetched_at": "2026-11-03T21:00:07.693918+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117713342341259733": {
    "id": "2117713342341259733",
@@ -2578,7 +2596,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-03T21:00:07.693918+00:00"
+   "fetched_at": "2026-11-03T21:00:07.693918+00:00",
+   "links": {
+    "https://t.co/tFB5IEvlfZ": ""
+   },
+   "enriched": 1
   },
   "2117700011320381739": {
    "id": "2117700011320381739",
@@ -2600,7 +2622,9 @@
    "retweets": 7,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T21:00:07.693918+00:00"
+   "fetched_at": "2026-11-03T21:00:07.693918+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117696219820806569": {
    "id": "2117696219820806569",
@@ -2622,7 +2646,9 @@
    "retweets": 12,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-03T21:00:07.693918+00:00"
+   "fetched_at": "2026-11-03T21:00:07.693918+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117822260639883491": {
    "id": "2117822260639883491",
@@ -2649,7 +2675,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {
+    "https://t.co/WuAnsuEEmJ": ""
+   },
+   "enriched": 1
   },
   "2117816126130544722": {
    "id": "2117816126130544722",
@@ -2671,7 +2701,9 @@
    "retweets": 47,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2117804592868335872": {
    "id": "2117804592868335872",
@@ -2693,7 +2725,9 @@
    "retweets": 21,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-04T18:39:15.281815+00:00"
+   "fetched_at": "2026-11-04T18:39:15.281815+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118080104328781956": {
    "id": "2118080104328781956",
@@ -2720,7 +2754,12 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-04T21:20:35.164155+00:00"
+   "fetched_at": "2026-11-04T21:20:35.164155+00:00",
+   "links": {
+    "https://t.co/BSFproPUI4": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+    "https://t.co/RbZYeBiHro": ""
+   },
+   "enriched": 1
   },
   "2118409674051424637": {
    "id": "2118409674051424637",
@@ -2742,7 +2781,9 @@
    "retweets": 117,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118406932780491115": {
    "id": "2118406932780491115",
@@ -2764,7 +2805,9 @@
    "retweets": 113,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118389568030318877": {
    "id": "2118389568030318877",
@@ -2786,7 +2829,9 @@
    "retweets": 23,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118387233006760236": {
    "id": "2118387233006760236",
@@ -2813,7 +2858,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+   "fetched_at": "2026-11-05T18:45:11.192238+00:00",
+   "links": {
+    "https://t.co/0xbJlYUVUc": ""
+   },
+   "enriched": 1
   },
   "2118482026487537980": {
    "id": "2118482026487537980",
@@ -2836,9 +2885,12 @@
    "media": [],
    "quoted": {
     "author": "NateWitkin",
-    "text": "My thinking on the AI bubble question has always been pretty simple:\n\n1. “AI as a normal technology” is, roughly speaking, the correct outlook.\n\n2. Current valuations are not consistent with that outlook. In particular, they reflect excess optimism about the the relationship between contrived benchmarks of AI capability and economic impact, which is also to say the prospective scale of enterprise token demand.\n\n3. A series of large corrections, stratified across time and market sectors, will occur as investors come to terms with this. \n\nEarlier this month, I predicted that there would be a larger market-wide correction by EOY, and I stand by that prediction."
+    "text": "My thinking on the AI bubble question has always been pretty simple:\n\n1. “AI as a normal technology” is, roughly speaking, the correct outlook.\n\n2. Current valuations are not consistent with that outlook. In particular, they reflect excess optimism about the the relationship between contrived benchmarks of AI capability and economic impact, which is also to say the prospective scale of enterprise token demand.\n\n3. A series of large corrections, stratified across time and market sectors, will occur as investors come to terms with this. \n\nEarlier this month, I predicted that there would be a larger market-wide correction by EOY, and I stand by that prediction.",
+    "links": {}
    },
-   "fetched_at": "2026-11-06T14:24:13.594962+00:00"
+   "fetched_at": "2026-11-06T14:24:13.594962+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118753259959578675": {
    "id": "2118753259959578675",
@@ -2860,7 +2912,9 @@
    "retweets": 2,
    "media": [],
    "quoted": null,
-   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00",
+   "links": {},
+   "enriched": 1
   },
   "2118750357161377977": {
    "id": "2118750357161377977",
@@ -2887,7 +2941,11 @@
     }
    ],
    "quoted": null,
-   "fetched_at": "2026-11-06T17:57:47.218782+00:00"
+   "fetched_at": "2026-11-06T17:57:47.218782+00:00",
+   "links": {
+    "https://t.co/DeBxsWJJ9k": ""
+   },
+   "enriched": 1
   }
  }
 }
