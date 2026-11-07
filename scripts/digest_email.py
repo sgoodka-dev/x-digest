@@ -124,8 +124,6 @@ def card(t):
     text = t.get("text") or ""
     if t.get("is_reply") and not rt:          # X hides the leading @handles
         text = re.sub(r"^(@\w{1,15}\s+)+", "", text) or text
-    more_link = (f" <a href='{esc(t.get('url'))}'>Show more</a>"
-                 if len(text) > 400 else "")
     q = ""
     if t.get("quoted") and t["quoted"].get("text"):
         q = (f"<div class=q><b>@{esc(t['quoted'].get('author'))}</b><br>"
@@ -143,7 +141,7 @@ def card(t):
         f"<div class=t>{top}<table cellpadding=0 cellspacing=0 width='100%'><tr>"
         f"<td class=al valign=top>{av}</td><td valign=top>"
         f"<div class=hd><b class=nm>{esc(name)}</b> <span class=g>@{esc(handle)} · {when}</span></div>"
-        f"{reply}<div class=tx>{body_text(clip(text, 400))}{more_link}</div>{media}{q}"
+        f"{reply}<div class=tx>{body_text(text)}</div>{media}{q}"
         f"<div class=ft><span class=lk>&#9829; {num(t.get('likes'))}</span>"
         f"<span class=rt>&#8635; {num(t.get('retweets'))}</span>"
         f"<a href='{esc(t.get('url'))}'>Open on X &#8599;</a></div>"
