@@ -100,7 +100,7 @@ def avatar(url, name):
         return f"<img class=av src='{esc(url)}' width=40 height=40 alt=''>"
     initial = esc((name or "?").strip()[:1].upper() or "?")
     colour = PALETTE[sum(map(ord, name or "?")) % len(PALETTE)]
-    return f"<div class=av style='background:{colour}'>{initial}</div>"
+    return f"<div class=avl style='background:{colour}'>{initial}</div>"
 
 
 def card(t):
@@ -124,10 +124,12 @@ def card(t):
     text = t.get("text") or ""
     if t.get("is_reply") and not rt:          # X hides the leading @handles
         text = re.sub(r"^(@\w{1,15}\s+)+", "", text) or text
+    more_link = (f" <a href='{esc(t.get('url'))}'>Show more</a>"
+                 if len(text) > 400 else "")
     q = ""
     if t.get("quoted") and t["quoted"].get("text"):
         q = (f"<div class=q><b>@{esc(t['quoted'].get('author'))}</b><br>"
-             f"{body_text(clip(t['quoted'].get('text')))}</div>")
+             f"{body_text(clip(t['quoted'].get('text'), 200))}</div>")
     media = ""
     imgs = [m for m in (t.get("media") or []) if m.get("url")]
     if imgs:
@@ -138,47 +140,46 @@ def card(t):
         media = (f"<a href='{esc(t.get('url'))}'><img class=med src='{esc(m['url'])}' alt=''></a>"
                  + (f"<div class=mc>{cap}</div>" if cap else ""))
     return (
-        f"<div class=t>{top}<table role=presentation cellpadding=0 cellspacing=0 width='100%'><tr>"
+        f"<div class=t>{top}<table cellpadding=0 cellspacing=0 width='100%'><tr>"
         f"<td class=al valign=top>{av}</td><td valign=top>"
         f"<div class=hd><b class=nm>{esc(name)}</b> <span class=g>@{esc(handle)} · {when}</span></div>"
-        f"{reply}<div class=tx>{body_text(text)}</div>{media}{q}"
-        f"<table role=presentation cellpadding=0 cellspacing=0 width='100%' class=ft><tr>"
-        f"<td><span class=lk>&#9829; {num(t.get('likes'))}</span>"
-        f"<span class=rt>&#8635; {num(t.get('retweets'))}</span></td>"
-        f"<td align=right><a class=op href='{esc(t.get('url'))}'>Open on X &#8599;</a></td>"
-        f"</tr></table>"
+        f"{reply}<div class=tx>{body_text(clip(text, 400))}{more_link}</div>{media}{q}"
+        f"<div class=ft><span class=lk>&#9829; {num(t.get('likes'))}</span>"
+        f"<span class=rt>&#8635; {num(t.get('retweets'))}</span>"
+        f"<a href='{esc(t.get('url'))}'>Open on X &#8599;</a></div>"
         f"</td></tr></table></div>"
     )
 
 
 FONT = "-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
 LINK = "color:#1d9bf0;text-decoration:none"
+BUDGET = 120_000   # max email size in bytes; lowest-liked items dropped beyond this
 
 # Mail apps (Yahoo, Gmail) strip <style> blocks, so every style is inlined.
 STYLES = {
     "d": f"font-family:{FONT};max-width:600px;margin:0 auto;padding:16px 12px;color:#0f1419",
     "sec": "margin:26px 0 10px;font-size:13px;color:#536471",
     "secb": "font-size:16px;color:#0f1419",
-    "t": "background:#ffffff;border:1px solid #e1e8ed;border-radius:16px;"
-         "padding:12px 16px;margin:0 0 10px",
+    "t": "background:#fff;border:1px solid #e1e8ed;border-radius:16px;"
+         "padding:12px 16px;margin:0 0 10px;font-size:15px;line-height:21px;color:#0f1419",
     "lab": "font-size:13px;color:#536471;font-weight:600;margin:0 0 6px 52px",
     "al": "width:52px",
-    "av": "width:40px;height:40px;border-radius:50%;display:block;color:#ffffff;"
-          "font-weight:700;font-size:18px;line-height:40px;text-align:center",
-    "hd": "font-size:15px;line-height:20px",
-    "nm": "color:#0f1419",
-    "g": "color:#536471;font-weight:400",
+    "av": "width:40px;height:40px;border-radius:50%;display:block",
+    "avl": "width:40px;height:40px;border-radius:50%;color:#fff;"
+           "font-weight:700;font-size:18px;line-height:40px;text-align:center",
+    "hd": "line-height:20px",
+    "nm": "",
+    "g": "color:#536471",
     "rep": "font-size:14px;color:#536471;margin-top:2px",
     "bl": "color:#1d9bf0",
-    "tx": "font-size:15px;line-height:21px;margin-top:4px;word-wrap:break-word;color:#0f1419",
-    "med": "display:block;width:100%;max-width:520px;height:auto;border-radius:14px;"
-           "border:1px solid #e1e8ed;margin-top:10px",
+    "tx": "margin-top:4px;word-wrap:break-word",
+    "med": "display:block;width:100%;max-width:520px;border-radius:14px;margin-top:10px",
     "mc": "font-size:12px;color:#536471;margin-top:4px",
     "q": "border:1px solid #cfd9de;border-radius:14px;padding:10px 12px;margin-top:10px;"
-         "font-size:14px;line-height:19px;color:#0f1419",
+         "font-size:14px;line-height:19px",
     "ft": "margin-top:10px;font-size:13px;color:#536471",
-    "lk": "color:#f91880;margin-right:18px",
-    "rt": "color:#00ba7c;margin-right:18px",
+    "lk": "color:#f91880;margin-right:16px",
+    "rt": "color:#00ba7c;margin-right:16px",
     "op": LINK + ";font-size:13px",
 }
 
@@ -186,6 +187,8 @@ STYLES = {
 def inline(body):
     def sub(m):
         css = STYLES.get(m.group(1), "")
+        if not css and not m.group(2):
+            return ""
         if m.group(2):
             css = css + ";" + m.group(2)
         return f"style=\"{css}\""
@@ -234,8 +237,8 @@ def main():
         by.setdefault(t["author_handle"], []).append(t)
 
     likes = lambda t: int(t.get("likes") or 0)  # noqa: E731
-    sections, shown_total, hidden_total = [], 0, 0
     order = sorted(by, key=lambda a: max(pd(t["created_at"]) for t in by[a]), reverse=True)
+    picks = {}
     for hdl in order:
         ts = by[hdl]
         posts = [t for t in ts if not t.get("is_retweet") and not t.get("is_reply")]
@@ -249,16 +252,38 @@ def main():
         chosen = (sorted(posts, key=likes, reverse=True)[:CAP_POSTS]
                   + sorted(best.values(), key=likes, reverse=True)[:CAP_REPLIES]
                   + sorted(reposts, key=likes, reverse=True)[:CAP_REPOSTS])
-        if not chosen:
+        if chosen:
+            picks[hdl] = chosen
+
+    # Keep the email under BUDGET so it can be sent in one piece: drop the
+    # lowest-liked reposts, then replies, then posts, until it fits.
+    cards = {t["id"]: inline(card(t)) for ts in picks.values() for t in ts}
+    size = sum(len(c.encode()) for c in cards.values()) + 400 * len(picks) + 2000
+    rank = lambda t: (0 if t.get("is_retweet") else 1 if t.get("is_reply") else 2,  # noqa: E731
+                      likes(t))
+    pool = sorted((t for ts in picks.values() for t in ts), key=rank)
+    while size > BUDGET and pool:
+        t = pool.pop(0)
+        picks[t["author_handle"]].remove(t)
+        size -= len(cards[t["id"]].encode())
+        if not picks[t["author_handle"]]:
+            del picks[t["author_handle"]]
+            size -= 400
+
+    sections, shown_total, hidden_total = [], 0, 0
+    for hdl in order:
+        if hdl not in picks:
+            hidden_total += len(by[hdl])
             continue
+        ts, chosen = by[hdl], picks[hdl]
         hidden = len(ts) - len(chosen)
         shown_total += len(chosen)
         hidden_total += hidden
         nm = esc(ts[0].get("author_name") or hdl)
         extra = f" · {len(chosen)} of {len(ts)}" if hidden else ""
         sections.append(
-            f"<div class=sec><b class=secb>{nm}</b> <a href='https://x.com/{esc(hdl)}'>@{esc(hdl)}</a>{extra}</div>"
-            + "".join(card(t) for t in chosen))
+            inline(f"<div class=sec><b class=secb>{nm}</b> <a href='https://x.com/{esc(hdl)}'>@{esc(hdl)}</a>{extra}</div>")
+            + "".join(cards[t["id"]] for t in chosen))
 
     warn = ""
     um = re.search(r"updated (\d\d \w{3} \d{4}, \d\d:\d\d) UTC", h)
