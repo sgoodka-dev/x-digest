@@ -60,6 +60,24 @@ def _media(t):
     return out
 
 
+def _links(t):
+    """t.co link -> real destination. Media links map to "" (image shown)."""
+    out = {}
+    if not isinstance(t, dict):
+        return out
+    for container in (t.get("entities"), t.get("extendedEntities"),
+                      t.get("extended_entities")):
+        if not isinstance(container, dict):
+            continue
+        for u in container.get("urls", []) or []:
+            if u.get("url") and u.get("expanded_url"):
+                out[u["url"]] = u["expanded_url"]
+        for m in container.get("media", []) or []:
+            if m.get("url"):
+                out[m["url"]] = ""
+    return out
+
+
 def _norm_tweet(t, fallback_handle=""):
     """Normalise one tweet defensively. For reposts, store the FULL original
     text and the original author so the digest can show it in full."""
@@ -82,10 +100,12 @@ def _norm_tweet(t, fallback_handle=""):
         rt_id = str(rt.get("id") or rt.get("id_str") or "")
         display_text = _text(rt)
         media = _media(rt) or _media(t)
+        links = _links(rt)
     else:
         rt_author = rt_author_name = rt_avatar = rt_id = ""
         display_text = _text(t)
         media = _media(t)
+        links = _links(t)
 
     return {
         "id": tid,
@@ -109,7 +129,11 @@ def _norm_tweet(t, fallback_handle=""):
         "likes": t.get("likeCount") or t.get("favorite_count") or 0,
         "retweets": t.get("retweetCount") or t.get("retweet_count") or 0,
         "media": media,
+        "links": links,
         "quoted": {
+            "id": str(quoted.get("id") or ""),
+            "author_name": (quoted.get("author") or {}).get("name") or "",
+            "links": _links(quoted),
             "author": ((quoted.get("author") or {}).get("userName")
                        or (quoted.get("author") or {}).get("username") or ""),
             "text": _text(quoted),
@@ -154,6 +178,19 @@ def fetch_user_tweets(handle, max_pages=3, newer_than_id=None,
         if not cursor or not (payload.get("has_next_page")
                               or payload.get("hasNextPage")):
             break
+    return out
+
+
+def fetch_tweets_by_ids(ids):
+    """Fetch tweets by id (max 50 per request). Missing/deleted ones are skipped."""
+    out = {}
+    ids = [i for i in ids if i]
+    for k in range(0, len(ids), 50):
+        payload = _get("/twitter/tweets", {"tweet_ids": ",".join(ids[k:k + 50])})
+        for t in _extract_tweets(payload):
+            n = _norm_tweet(t)
+            if n["id"]:
+                out[n["id"]] = n
     return out
 
 

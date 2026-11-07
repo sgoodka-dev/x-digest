@@ -36,6 +36,12 @@ jobs:
           TWITTERAPI_KEY: ${{ secrets.TWITTERAPI_KEY }}
         run: python scripts/fetch.py
 
+      - name: Resolve links and fetch linked tweets
+        continue-on-error: true
+        env:
+          TWITTERAPI_KEY: ${{ secrets.TWITTERAPI_KEY }}
+        run: python scripts/enrich.py
+
       - name: Rebuild data page
         run: python scripts/build_site.py
 

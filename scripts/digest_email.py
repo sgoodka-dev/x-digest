@@ -59,20 +59,30 @@ def esc(s):
 
 
 URL_RE = re.compile(r"https?://[^\s<]+")
+STATUS_RE = re.compile(r"https?://(?:www\.|mobile\.)?(?:x|twitter)\.com/\w+/status(?:es)?/(\d+)")
 
 
-def body_text(s):
+def body_text(s, links=None, shown_ids=()):
+    """Tweet text -> HTML. t.co links become their real destination; links to
+    the tweet's own media or to tweets already shown inline are dropped."""
+    links = links or {}
     out, last = [], 0
     for m in URL_RE.finditer(s or ""):
         out.append(esc(s[last:m.start()]))
+        last = m.end()
         u = m.group(0)
+        if u in links:
+            dest = links[u]
+            sm = STATUS_RE.match(dest or "")
+            if not dest or (sm and sm.group(1) in shown_ids):
+                continue
+            u = dest
         shown = re.sub(r"^https?://(www\.)?", "", u)
         if len(shown) > 32:
             shown = shown[:30] + "…"
         out.append(f"<a href='{esc(u)}'>{esc(shown)}</a>")
-        last = m.end()
     out.append(esc((s or "")[last:]))
-    txt = "".join(out)
+    txt = "".join(out).strip()
     txt = re.sub(r"(?<![\w/'>])@(\w{1,15})",
                  r"<a href='https://x.com/\1'>@\1</a>", txt)
     return txt.replace("\n", "<br>")
@@ -103,6 +113,20 @@ def avatar(url, name):
     return f"<div class=avl style='background:{colour}'>{initial}</div>"
 
 
+def embed(e):
+    """A quoted or linked tweet, shown in full inside the card."""
+    name = e.get("author_name")
+    head = (f"<b>{esc(name)}</b> <span class=g>@{esc(e.get('author'))}</span>"
+            if name else f"<b>@{esc(e.get('author'))}</b>")
+    img = ""
+    pics = [m for m in (e.get("media") or []) if m.get("url")]
+    if pics:
+        img = (f"<a href='{esc(pics[0]['url'])}'><img class=med "
+               f"src='{esc(pics[0]['url'])}' alt=''></a>")
+    return (f"<div class=q>{head}<br>{body_text(e.get('text'), e.get('links'))}"
+            f"{img}</div>")
+
+
 def card(t):
     rt = t.get("is_retweet")
     top = ""
@@ -124,10 +148,17 @@ def card(t):
     text = t.get("text") or ""
     if t.get("is_reply") and not rt:          # X hides the leading @handles
         text = re.sub(r"^(@\w{1,15}\s+)+", "", text) or text
-    q = ""
+    embeds = []
     if t.get("quoted") and t["quoted"].get("text"):
-        q = (f"<div class=q><b>@{esc(t['quoted'].get('author'))}</b><br>"
-             f"{body_text(clip(t['quoted'].get('text'), 200))}</div>")
+        embeds.append(t["quoted"])
+    for lt in t.get("linked") or []:
+        if lt.get("text") and all(lt.get("id") != e.get("id") for e in embeds):
+            embeds.append({"id": lt.get("id"), "author": lt.get("author_handle"),
+                           "author_name": lt.get("author_name"),
+                           "text": lt.get("text"), "links": lt.get("links"),
+                           "media": lt.get("media")})
+    shown_ids = {e.get("id") for e in embeds if e.get("id")}
+    q = "".join(embed(e) for e in embeds)
     media = ""
     imgs = [m for m in (t.get("media") or []) if m.get("url")]
     if imgs:
@@ -135,13 +166,13 @@ def card(t):
         tag = "&#9654; Video" if m.get("type") in ("video", "animated_gif") else ""
         more = f"+{len(imgs)-1} more" if len(imgs) > 1 else ""
         cap = " · ".join(x for x in (tag, more) if x)
-        media = (f"<a href='{esc(t.get('url'))}'><img class=med src='{esc(m['url'])}' alt=''></a>"
+        media = (f"<a href='{esc(m['url'])}'><img class=med src='{esc(m['url'])}' alt=''></a>"
                  + (f"<div class=mc>{cap}</div>" if cap else ""))
     return (
         f"<div class=t>{top}<table cellpadding=0 cellspacing=0 width='100%'><tr>"
         f"<td class=al valign=top>{av}</td><td valign=top>"
         f"<div class=hd><b class=nm>{esc(name)}</b> <span class=g>@{esc(handle)} · {when}</span></div>"
-        f"{reply}<div class=tx>{body_text(text)}</div>{media}{q}"
+        f"{reply}<div class=tx>{body_text(text, t.get('links'), shown_ids)}</div>{media}{q}"
         f"<div class=ft><span class=lk>&#9829; {num(t.get('likes'))}</span>"
         f"<span class=rt>&#8635; {num(t.get('retweets'))}</span>"
         f"<a href='{esc(t.get('url'))}'>Open on X &#8599;</a></div>"
