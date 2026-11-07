@@ -6915,6 +6915,37 @@
    "quoted": null,
    "fetched_at": "2026-11-07T16:50:32.232257+00:00",
    "enriched": 1
+  },
+  "2119116817356763376": {
+   "id": "2119116817356763376",
+   "url": "https://x.com/sethlazar/status/2119116817356763376",
+   "text": "Religious Jews are already asking AI the questions they once brought to a rabbi: Shabbat, kashrut, mourning, how to treat people.\n\nNobody has measured which way these models lean.\n\nIntroducing HashkafaBench: is your AI stringent or lenient? https://t.co/UGlvPfSafJ",
+   "created_at": "Sat Nov 07 17:16:35 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "HalachaBench",
+   "rt_author_name": "HalachaBench",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2117002746977001472/L5llbbJH_normal.png",
+   "rt_id": "2118698684384981113",
+   "likes": 714,
+   "retweets": 34,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWcf7zEWcAA4cdH.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/UGlvPfSafJ": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-07T19:26:16.707844+00:00",
+   "enriched": 1
   }
  }
 }
