@@ -6946,6 +6946,38 @@
    "quoted": null,
    "fetched_at": "2026-11-07T19:26:16.707844+00:00",
    "enriched": 1
+  },
+  "2119324235390738546": {
+   "id": "2119324235390738546",
+   "url": "https://x.com/sethlazar/status/2119324235390738546",
+   "text": "Absolutely true. No point having reviewers badly and unpredictably use AI. Do the best version of AI review centrally, and have the reviewers add the human complement, which is (for now) generally about deciding what is worth paying attention to (both in the paper itself, and in its flaws)",
+   "created_at": "Sun Nov 08 07:00:47 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2119150169182933498",
+    "author_name": "Jessica Hullman",
+    "links": {
+     "https://t.co/Np9qW1upuz": "https://arxiv.org/pdf/2610.28666"
+    },
+    "author": "JessicaHullman",
+    "text": "It really is pointless and unnecessary to allow external reviewers to use AI as they want. There are obvious better alternatives.\n\nBy now, everyone should already be using AI to check their work before submitting. So what's the point of reviewers meat proxying to send more AI-generated feedback? Seemingly none.\n\nWhat happens if we ban AI use in peer review? The main risk is to the imagined role of peer review as a basic soundness filter. But this is much better addressed by the venue having a centralized approach that uses validated AI tools to check that a paper is what it says it is than by individual reviewers feeding papers to LLMs using basic prompts. Such checks might include things like whether the results can be reproduced from the data/code, whether claims can be traced back to some provided evidence, whether there are TODOs left by an LLM to replace table results with non-fake data, etc. \n\nSome of these can be used to determine if a paper should be desk rejected. Anything that is more controversial can be surfaced for reviewers.\n\nThis will shift what reviewers pay attention to, but this can be addressed by: 1) making clear to reviewers that their role is to identify what these checks miss and to weigh them, 2) being intelligent about how you select the set of LLM checks that are surfaced. See e.g., our work on learning LLM-implemented checklist that avoid adding more bias than they reduce variance. https://t.co/Np9qW1upuz\n\nWhat happened with ICLR being permissive with reviewers using AI freely is seeming pretty inexcusable."
+   },
+   "fetched_at": "2026-11-08T13:36:31.760259+00:00",
+   "enriched": 1
   }
  }
 }

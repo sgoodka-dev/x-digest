@@ -3474,6 +3474,123 @@
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
    "enriched": 1
+  },
+  "2119235367140274507": {
+   "id": "2119235367140274507",
+   "url": "https://x.com/DaveRBanerjee/status/2119235367140274507",
+   "text": "1.1 trillion is laughably low - ant to the moon I guess",
+   "created_at": "Sun Nov 08 01:07:39 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 33,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2119233522603020553",
+    "author_name": "Andrew Curran",
+    "links": {
+     "https://t.co/daCAp37Lgo": ""
+    },
+    "author": "AndrewCurran_",
+    "text": "Anthropic's valuation has now been roughly cut in half from the lofty $2 trillion heights that were being spoken of in financial circles only a month ago. On the plus side, if you are a believer, you can now get in for about half price. The IPO media blitz is starting Monday. https://t.co/daCAp37Lgo"
+   },
+   "fetched_at": "2026-11-08T13:36:31.760259+00:00",
+   "enriched": 1
+  },
+  "2119235165171974459": {
+   "id": "2119235165171974459",
+   "url": "https://x.com/DaveRBanerjee/status/2119235165171974459",
+   "text": "This Jensen spy situation is actually insane\n\nBut the thing I’m still confused about is why China is preventing their own AI companies from buying hoppers",
+   "created_at": "Sun Nov 08 01:06:51 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 10,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2118907457749533098",
+    "author_name": "Chris McGuire",
+    "links": {},
+    "author": "ChrisRMcGuire",
+    "text": "The story keeps getting crazier. To recap everything that has been reported so far: \n\n- The US intelligence community discovered that Jensen Huang, the CEO of the largest company in the world, was sleeping with Alice Huang, a Chinese spy and an executive at Megaspeed. (FT)\n- Multiple independent investigations have concluded that Megaspeed is likely a Chinese cutout, which helps Chinese companies access AI chips or circumvent export controls. (NYT and Bloomberg) \n- The US intelligence community also concluded that Alice Huang’s goal was to convince Jensen to lobby the U.S. government to loosen export controls on advanced AI chips. (NYT)\n- The intelligence community relayed this information to “a small group of top US government officials” earlier this year. (FT)\n- Over the last year, Jensen Huang has repeatedly lobbied the U.S. government to loosen export controls on advanced chips. @BISgov has done so, not only by permitting the export of H200 chips to China, but also not enforcing export controls that would have required a license for exports of the most advanced Blackwell chips to Megaspeed and Southeast Asia.\n- Although @CommerceGov leadership was presumably briefed on this information by the U.S. intelligence community, @BISgov has taken no actions to tighten controls on Megaspeed or Southeast Asia. \n- Megaspeed remains a preferred cloud partner of Nvidia, and continues to receive Nvidia Blackwell chips despite employing a Chinese spy who reportedly is romantically engaged with the CEO of Nvidia. \n- Tens of billions of dollars worth of AI chips have been exported to Southeast Asia this year alone, and Malaysia and Singapore are now two of the four largest importers of AI chips in the world. \n\nWhat is going on here??? We need answers. The question of who gets the most advanced AI chips in the world is literally the defining strategic question of our time. And not only does it seem like the MSS may be directly influencing the debate on export controls in the United States, but also @CommerceGov is refusing to listen to the warnings of the IC on this issue. What is a POSSIBLE good explanation for why Megaspeed is still receiving chips? Why is there not a license requirement for AI chip shipments to all of Southeast Asia? This is beyond strange at this point. \n\nThe fallout from this story will be massive. Obviously, the motivations underpinning Nvidia’s policy views opposing export controls must now all be questioned. But also, how did @BISgov sit on this information and has still taken no actions? We need answers."
+   },
+   "fetched_at": "2026-11-08T13:36:31.760259+00:00",
+   "enriched": 1
+  },
+  "2119233955576602710": {
+   "id": "2119233955576602710",
+   "url": "https://x.com/DaveRBanerjee/status/2119233955576602710",
+   "text": "The story keeps getting crazier. To recap everything that has been reported so far: \n\n- The US intelligence community discovered that Jensen Huang, the CEO of the largest company in the world, was sleeping with Alice Huang, a Chinese spy and an executive at Megaspeed. (FT)\n- Multiple independent investigations have concluded that Megaspeed is likely a Chinese cutout, which helps Chinese companies access AI chips or circumvent export controls. (NYT and Bloomberg) \n- The US intelligence community also concluded that Alice Huang’s goal was to convince Jensen to lobby the U.S. government to loosen export controls on advanced AI chips. (NYT)\n- The intelligence community relayed this information to “a small group of top US government officials” earlier this year. (FT)\n- Over the last year, Jensen Huang has repeatedly lobbied the U.S. government to loosen export controls on advanced chips. @BISgov has done so, not only by permitting the export of H200 chips to China, but also not enforcing export controls that would have required a license for exports of the most advanced Blackwell chips to Megaspeed and Southeast Asia.\n- Although @CommerceGov leadership was presumably briefed on this information by the U.S. intelligence community, @BISgov has taken no actions to tighten controls on Megaspeed or Southeast Asia. \n- Megaspeed remains a preferred cloud partner of Nvidia, and continues to receive Nvidia Blackwell chips despite employing a Chinese spy who reportedly is romantically engaged with the CEO of Nvidia. \n- Tens of billions of dollars worth of AI chips have been exported to Southeast Asia this year alone, and Malaysia and Singapore are now two of the four largest importers of AI chips in the world. \n\nWhat is going on here??? We need answers. The question of who gets the most advanced AI chips in the world is literally the defining strategic question of our time. And not only does it seem like the MSS may be directly influencing the debate on export controls in the United States, but also @CommerceGov is refusing to listen to the warnings of the IC on this issue. What is a POSSIBLE good explanation for why Megaspeed is still receiving chips? Why is there not a license requirement for AI chip shipments to all of Southeast Asia? This is beyond strange at this point. \n\nThe fallout from this story will be massive. Obviously, the motivations underpinning Nvidia’s policy views opposing export controls must now all be questioned. But also, how did @BISgov sit on this information and has still taken no actions? We need answers.",
+   "created_at": "Sun Nov 08 01:02:03 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ChrisRMcGuire",
+   "rt_author_name": "Chris McGuire",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2092284021472403456/pH5TCk8G_normal.jpg",
+   "rt_id": "2118907457749533098",
+   "likes": 25457,
+   "retweets": 5423,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-08T13:36:31.760259+00:00",
+   "enriched": 1
+  },
+  "2119233415438622754": {
+   "id": "2119233415438622754",
+   "url": "https://x.com/DaveRBanerjee/status/2119233415438622754",
+   "text": "AI 2027 has been updated. With Astra we were five weeks behind the curve, with the mysterious model 4 we are now six weeks ahead. https://t.co/HNPZpgBZM1",
+   "created_at": "Sun Nov 08 00:59:54 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "AndrewCurran_",
+   "rt_author_name": "Andrew Curran",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1596945208058744833/_X3LT7fb_normal.jpg",
+   "rt_id": "2119084460344053998",
+   "likes": 1707,
+   "retweets": 123,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWiAFiObQAAfyLF.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/HNPZpgBZM1": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-08T13:36:31.760259+00:00",
+   "enriched": 1
   }
  }
 }
