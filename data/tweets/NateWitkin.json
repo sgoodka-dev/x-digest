@@ -2946,6 +2946,85 @@
     "https://t.co/DeBxsWJJ9k": ""
    },
    "enriched": 1
+  },
+  "2119492615720874151": {
+   "id": "2119492615720874151",
+   "url": "https://x.com/NateWitkin/status/2119492615720874151",
+   "text": "I feel like everyone glorifies AI 2027 and cherry picks vague data interpreted generously and ignores clear statements that were made that are simply false.\n\nFor example, they predicted the stock market goes up 30% in 2026, led by OpenBrain and Nvidia. The stock market is up 7% YTD and NVDA is down 4% ytd.\n\nThe least AI-exposed company in the Mag 7, AAPL, is the best performing of Mag 7.",
+   "created_at": "Sun Nov 08 18:09:52 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "marcusabramovi1",
+   "rt_author_name": "Marcus Abramovitch",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1643333821914394631/gqo9hr_j_normal.jpg",
+   "rt_id": "2118460425453064339",
+   "likes": 474,
+   "retweets": 18,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-08T19:42:45.355278+00:00",
+   "enriched": 1
+  },
+  "2119487631624962525": {
+   "id": "2119487631624962525",
+   "url": "https://x.com/NateWitkin/status/2119487631624962525",
+   "text": "Updated version! https://t.co/st0ZYOiRS9",
+   "created_at": "Sun Nov 08 17:50:04 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "sebkrier",
+   "rt_author_name": "Séb Krier",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1992052427743272961/WJQ8uqql_normal.jpg",
+   "rt_id": "2119213426589278648",
+   "likes": 637,
+   "retweets": 78,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWj0n_fWsAA0gPB.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/st0ZYOiRS9": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-08T19:42:45.355278+00:00",
+   "enriched": 1
+  },
+  "2119487509004734536": {
+   "id": "2119487509004734536",
+   "url": "https://x.com/NateWitkin/status/2119487509004734536",
+   "text": "I love this investment-normalized capabilities growth plot for how it moves to ground AI progress in the capital markets.  The next move to make (this isn't a criticism of Seb/Michael but the discourse as a whole) is to stop taking roll-ups of offline evals as the true objects of progress and risk!  AI has been around long enough that the real world is the object, and the real metrics are AI's causal impacts on labor productivity, GDP growth, self-reported happiness.  For risk, real cyber damages, real bio near-misses due to AI, real misalignment damages, etc, are the object.  Offline evals are good but we need to move to a culture in which -- when they are equated to 'capabilities' -- they are assessed for their predictive power relative to these outcomes",
+   "created_at": "Sun Nov 08 17:49:34 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "joshua_saxe",
+   "rt_author_name": "Joshua Saxe",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1072897105679671296/mlN8zCx-_normal.jpg",
+   "rt_id": "2119446710854316435",
+   "likes": 44,
+   "retweets": 5,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-08T19:42:45.355278+00:00",
+   "enriched": 1
   }
  }
 }

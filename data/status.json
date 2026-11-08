@@ -1,11 +1,11 @@
 {
  "last_run": {
-  "started": "2026-11-08T17:03:56.475616+00:00",
+  "started": "2026-11-08T19:42:45.355278+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
-    "new": 0,
-    "total": 158
+    "new": 1,
+    "total": 159
    },
    "add_hawk": {
     "ok": true,
@@ -34,7 +34,7 @@
    },
    "DKokotajlo": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 249
    },
    "dwarkesh_sp": {
@@ -79,7 +79,7 @@
    },
    "s8mb": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 546
    },
    "random_walker": {
@@ -89,7 +89,7 @@
    },
    "sethlazar": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 352
    },
    "robertwiblin": {
@@ -124,11 +124,11 @@
    },
    "NateWitkin": {
     "ok": true,
-    "new": 0,
-    "total": 117
+    "new": 3,
+    "total": 120
    }
   },
-  "new_tweets": 5,
-  "finished": "2026-11-08T17:04:43.168597+00:00"
+  "new_tweets": 4,
+  "finished": "2026-11-08T19:43:22.939862+00:00"
  }
 }

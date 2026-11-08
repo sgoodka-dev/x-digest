@@ -2949,6 +2949,37 @@
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
    "enriched": 1
+  },
+  "2119512708332573063": {
+   "id": "2119512708332573063",
+   "url": "https://x.com/_achan96_/status/2119512708332573063",
+   "text": "RE METR's measures of task-length and RSI: I'm still waiting to see a serious effort to determine how progress on coding/math/etc. generalizes to other tasks.\n\nI expect we'd see an \"accuracy on the line\" effect, where out-of-distribution (OOD) performance is highly correlated with their metric, but what is the slope?\n\nAlso: I'm not sure if we should expect a similar result when RL comes into the picture.  I think the generalization from RL and SL are probably quite different.\n\nI *do* think that accelerating AI R&D is obviously useful for some sort of \"RSI\", but it *might* end up just yielding some sort of savant, rather than AGI and ASI.\n\nI also have conflicting intuitions about how much one can learn general principles of reasoning that generalize well across domains (vs. performance being driven by domain-specific heuristics).  I tend to think there is a lot of space for improvement there, and that progress on math and coding probably indicates some progress in general reasoning ability, but I feel like there's surprisingly little research that I'm aware of that is actually trying to address this question.\n\nMaybe it's just mostly all happening in academia and so AI Safety and AI companies are ignoring it?  \n\nThe state of AI research is really quite dire: \n- We can't trust anything from the people with access to SOTA AI systems, because there's screwed up incentives and no transparency.\n- We can't trust that independent research results apply to SOTA systems because the field moves so fast.\n\nI guess independent research still seems like a better bet here... there have been some qualitative changes that emerge at scale, but it's more common IME for these sorts of results in deep learning to be generalize pretty well across models/scales, etc.",
+   "created_at": "Sun Nov 08 19:29:42 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "DavidSKrueger",
+   "rt_author_name": "David Krueger 🦥 ⏸️ ⏹️ ⏪",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1968552490233901056/kofpoQOX_normal.jpg",
+   "rt_id": "2119493906136272951",
+   "likes": 34,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWnyJ2JaUAAV3Gc.png"
+    }
+   ],
+   "links": {
+    "https://t.co/c7r7E4cdiO": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-08T19:42:45.355278+00:00",
+   "enriched": 1
   }
  }
 }
