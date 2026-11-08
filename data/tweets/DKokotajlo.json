@@ -4902,6 +4902,30 @@
    "quoted": null,
    "fetched_at": "2026-11-07T16:50:32.232257+00:00",
    "enriched": 1
+  },
+  "2119434351230554158": {
+   "id": "2119434351230554158",
+   "url": "https://x.com/DKokotajlo/status/2119434351230554158",
+   "text": "I know this is a predictable opinion from me but I don't agree with the strong emotional reaction against the anti-data-center movements that I've seen this week.\n\nAs I see it, algorithmic progress means that whatever you would be able to do with more and bigger data centers in 2 years, you will be able to do with the data centers we have today in 4 years - probably sooner. So nothing remotely apocalyptically bad will happen from even extreme levels of success by anti-data-center people.\n\nMeanwhile we need all the time we can get to better harden the world against both already-visible cybersecurity issues and any bio and other risks soon to come. Science applications are bottlenecked by many things other than AI, so slowing AI down by one year will slow those down by much less than one year.\n\nGiven this, a slowdown in compute hyper-scaling seems quite net good? Notice this is without any controversial \"doomer arguments\", RSI etc. Even if net-bad, it's certainly not worse than like 10+ other political things.",
+   "created_at": "Sun Nov 08 14:18:21 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "VitalikButerin",
+   "rt_author_name": "vitalik.eth",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2042521108067352576/3rv2_9m1_normal.jpg",
+   "rt_id": "2119377918875079163",
+   "likes": 2351,
+   "retweets": 190,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-08T17:03:56.475616+00:00",
+   "enriched": 1
   }
  }
 }

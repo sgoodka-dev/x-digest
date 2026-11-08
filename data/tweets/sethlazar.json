@@ -6978,6 +6978,79 @@
    },
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
    "enriched": 1
+  },
+  "2119438928621297735": {
+   "id": "2119438928621297735",
+   "url": "https://x.com/sethlazar/status/2119438928621297735",
+   "text": "Apple didn't store a plaintext list of forbidden words in iOS. Instead, researchers discovered a compiled minimal perfect hash table of 32-bit fingerprints buried inside the keyboard's language-model files.\n\nWhen you swipe-type or use autocomplete on an iPhone, the keyboard converts your input into token IDs and evaluates sequences of two to six words. It hashes those candidate n-grams using Bob Jenkins's public-domain hashword() function. If that 32-bit fingerprint matches an entry in the table, the predictive engine refuses to suggest it, or the swipe model actively diverts the word to an alternate match.      \n\nOn November 6, researcher Derik Kauffman published Swipeblocked after exhaustively enumerating candidate word combinations against the table to reverse-engineer the hidden phrases. His conservative estimate is roughly 100,000 entries across 28 languages. In English, the prediction list holds 4,525 phrases and the swipe-typing list holds 2,794.                                                                \n\nMost entries cover violence, slurs, and sexual content, but the table also silences geopolitical phrases like \"Tibetan independence\", \"United Ireland\", \"dictator Trump\", and Hebrew for \"the occupied territories\". In testing, swiping \"United Ireland\" consistently resolved to \"United Iceland\".\nYou can still type any phrase letter by letter. The suppression only touches autocomplete predictions and gesture paths. Apple told Reuters the system avoids offensive suggestions, but never addressed the political entries or the existence of the table.\nApple never published the list because it was never meant to be read. It took brute-forcing the hash table to show what the keyboard was quietly dropping.",
+   "created_at": "Sun Nov 08 14:36:32 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "zoecyber001",
+   "rt_author_name": "Zoe",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2020272278114590720/SffPadLB_normal.jpg",
+   "rt_id": "2119021745441018123",
+   "likes": 1631,
+   "retweets": 206,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWhG2mvWkAAXSTi.png"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2119021576716693504/img/V8RY_2SqZg3e4JgL.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWhG-5rXYAAkW9F.png"
+    }
+   ],
+   "links": {
+    "https://t.co/LUOi0p99gq": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-08T17:03:56.475616+00:00",
+   "enriched": 1
+  },
+  "2119433926620184727": {
+   "id": "2119433926620184727",
+   "url": "https://x.com/sethlazar/status/2119433926620184727",
+   "text": "This is very wise, from a stellar alignment researcher (and now a colleague of mine!)",
+   "created_at": "Sun Nov 08 14:16:39 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 8,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2119416820134510632",
+    "author_name": "David",
+    "links": {
+     "https://t.co/Wt4AKAy7tD": "https://www.lesswrong.com/posts/7e38jwHhe64zgNTon/near-horizons",
+     "https://t.co/FFJ3imTter": "https://davidafrica.substack.com/p/near-horizons?r=54hrnw&utm_campaign=post-expanded-share&utm_medium=post%20viewer",
+     "https://t.co/stm8680LaH": ""
+    },
+    "author": "DavidDAfrica",
+    "text": "Why are many orgs aggressively hiring/scaling up, yet it's extremely hard to find a full time position?\n\nWhy are there calls to expand the number of people doing research in AI safety, yet our academic institutions are crumbling under the weight of the sheer number of papers and outputs?\n\nWhy are we exhorted to do research slowly and deeply, yet sped along on crunch time, with the hope that scale will clarify our confusions?\n\nIn this new blogpost (done in my personal time), I argue that these are rooted in a tension between a frame of \"war mode\" and \"civilisation mode\". This tension, in my view, creates uneasiness and despair, as well as makes it difficult to see clearly.\n\nCheck it out on LW: https://t.co/Wt4AKAy7tD\n\nor on Substack: https://t.co/FFJ3imTter"
+   },
+   "fetched_at": "2026-11-08T17:03:56.475616+00:00",
+   "enriched": 1
   }
  }
 }

@@ -11298,6 +11298,56 @@
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
    "enriched": 1
+  },
+  "2119472314077343871": {
+   "id": "2119472314077343871",
+   "url": "https://x.com/s8mb/status/2119472314077343871",
+   "text": "@ateAfishstick She says she donates 10% of her earnings to charity (I assume that’s post-tax) which sounds about right?",
+   "created_at": "Sun Nov 08 16:49:12 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "ateAfishstick",
+   "reply_to_id": "2119468794963787972",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-08T17:03:56.475616+00:00",
+   "enriched": 1
+  },
+  "2119452062996213857": {
+   "id": "2119452062996213857",
+   "url": "https://x.com/s8mb/status/2119452062996213857",
+   "text": "@IJW121 According to GiveWell about 0.1-0.5% are. \n\nhttps://t.co/jlYv6ZA0iV",
+   "created_at": "Sun Nov 08 15:28:43 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "IJW121",
+   "reply_to_id": "2119450253212500036",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/jlYv6ZA0iV": "https://www.givewell.org/international/technical/programs/insecticide-treated-nets/fishing-with-insecticide-treated-nets"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-08T17:03:56.475616+00:00",
+   "enriched": 1
   }
  }
 }
