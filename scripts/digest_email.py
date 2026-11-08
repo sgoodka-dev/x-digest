@@ -113,8 +113,8 @@ def avatar(url, name):
     return f"<div class=avl style='background:{colour}'>{initial}</div>"
 
 
-def embed(e):
-    """A quoted or linked tweet, shown in full inside the card."""
+def embed(e, cls="q"):
+    """A quoted, linked or replied-to tweet, shown in full inside the card."""
     name = e.get("author_name")
     head = (f"<b>{esc(name)}</b> <span class=g>@{esc(e.get('author'))}</span>"
             if name else f"<b>@{esc(e.get('author'))}</b>")
@@ -123,8 +123,29 @@ def embed(e):
     if pics:
         img = (f"<a href='{esc(pics[0]['url'])}'><img class=med "
                f"src='{esc(pics[0]['url'])}' alt=''></a>")
-    return (f"<div class=q>{head}<br>{body_text(e.get('text'), e.get('links'))}"
+    return (f"<div class={cls}>{head}<br>{body_text(e.get('text'), e.get('links'))}"
             f"{img}</div>")
+
+
+def as_embed(x):
+    return {"id": x.get("id"), "author": x.get("author_handle"),
+            "author_name": x.get("author_name"), "text": x.get("text"),
+            "links": x.get("links"), "media": x.get("media")}
+
+
+def thread_html(items):
+    """The author's follow-on tweets, each in full, under the first one."""
+    if not items:
+        return ""
+    parts = [f"<div class=thh>&#129525; Thread &#183; {len(items)} more "
+             f"post{'s' if len(items) != 1 else ''}</div>"]
+    for i, x in enumerate(items, 2):
+        pics = [m for m in (x.get("media") or []) if m.get("url")]
+        img = (f"<a href='{esc(pics[0]['url'])}'><img class=med "
+               f"src='{esc(pics[0]['url'])}' alt=''></a>") if pics else ""
+        parts.append(f"<div class=th><span class=g>{i}/</span> "
+                     f"{body_text(x.get('text'), x.get('links'))}{img}</div>")
+    return "".join(parts)
 
 
 def card(t):
@@ -145,6 +166,8 @@ def card(t):
         to = t.get("reply_to")
         reply = (f"<div class=rep>Replying to <span class=bl>@{esc(to)}</span></div>"
                  if to else "<div class=rep>Reply</div>")
+        if t.get("parent") and t["parent"].get("text"):
+            reply += embed(as_embed(t["parent"]), "pa")
     text = t.get("text") or ""
     if t.get("is_reply") and not rt:          # X hides the leading @handles
         text = re.sub(r"^(@\w{1,15}\s+)+", "", text) or text
@@ -153,10 +176,7 @@ def card(t):
         embeds.append(t["quoted"])
     for lt in t.get("linked") or []:
         if lt.get("text") and all(lt.get("id") != e.get("id") for e in embeds):
-            embeds.append({"id": lt.get("id"), "author": lt.get("author_handle"),
-                           "author_name": lt.get("author_name"),
-                           "text": lt.get("text"), "links": lt.get("links"),
-                           "media": lt.get("media")})
+            embeds.append(as_embed(lt))
     shown_ids = {e.get("id") for e in embeds if e.get("id")}
     q = "".join(embed(e) for e in embeds)
     media = ""
@@ -173,6 +193,7 @@ def card(t):
         f"<td class=al valign=top>{av}</td><td valign=top>"
         f"<div class=hd><b class=nm>{esc(name)}</b> <span class=g>@{esc(handle)} · {when}</span></div>"
         f"{reply}<div class=tx>{body_text(text, t.get('links'), shown_ids)}</div>{media}{q}"
+        f"{thread_html(t.get('thread'))}"
         f"<div class=ft><span class=lk>&#9829; {num(t.get('likes'))}</span>"
         f"<span class=rt>&#8635; {num(t.get('retweets'))}</span>"
         f"<a href='{esc(t.get('url'))}'>Open on X &#8599;</a></div>"
@@ -207,6 +228,10 @@ STYLES = {
     "q": "border:1px solid #cfd9de;border-radius:14px;padding:10px 12px;margin-top:10px;"
          "font-size:14px;line-height:19px",
     "ft": "margin-top:10px;font-size:13px;color:#536471",
+    "pa": "background:#f7f9f9;border:1px solid #e1e8ed;border-radius:14px;"
+          "padding:10px 12px;margin:6px 0 8px;font-size:14px;line-height:19px;color:#536471",
+    "thh": "margin-top:12px;font-size:13px;font-weight:600;color:#536471",
+    "th": "border-top:1px solid #eff3f4;padding-top:8px;margin-top:8px;word-wrap:break-word",
     "lk": "color:#f91880;margin-right:16px",
     "rt": "color:#00ba7c;margin-right:16px",
     "op": LINK + ";font-size:13px",
@@ -266,12 +291,14 @@ def main():
         by.setdefault(t["author_handle"], []).append(t)
 
     likes = lambda t: int(t.get("likes") or 0)  # noqa: E731
+    in_threads = {x.get("id") for t in rows for x in (t.get("thread") or [])}
     order = sorted(by, key=lambda a: max(pd(t["created_at"]) for t in by[a]), reverse=True)
     picks = {}
     for hdl in order:
         ts = by[hdl]
         posts = [t for t in ts if not t.get("is_retweet") and not t.get("is_reply")]
-        replies = [t for t in ts if t.get("is_reply") and not t.get("is_retweet")]
+        replies = [t for t in ts if t.get("is_reply") and not t.get("is_retweet")
+                   and t.get("id") not in in_threads]
         reposts = [t for t in ts if t.get("is_retweet")
                    and (t.get("rt_author") or "").lower() not in followed]
         best = {}

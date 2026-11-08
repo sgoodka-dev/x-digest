@@ -5,7 +5,10 @@ For every tweet from the last few days (runs after fetch.py):
     or failing that by asking t.co where it redirects), so the digest can link
     straight to the article instead of through twitter's redirector;
   * any link to another tweet (that isn't already the quoted tweet) is fetched
-    and stored under "linked", so the digest can show it inline.
+    and stored under "linked", so the digest can show it inline;
+  * a reply gets the tweet it answers, stored under "parent";
+  * a post or repost that starts a thread (🧵 / "1/" / the author replied to
+    it themselves) gets the author's follow-on tweets, stored under "thread".
 
 Fail-soft: anything that goes wrong is logged and skipped; the next run retries.
 """
@@ -21,10 +24,14 @@ from common import (load_accounts, load_settings, load_archive, save_archive,
 
 TCO = re.compile(r"https?://t\.co/\w+")
 STATUS = re.compile(r"https?://(?:www\.|mobile\.)?(?:x|twitter)\.com/\w+/status(?:es)?/(\d+)")
+THREAD_HINT = re.compile(r"🧵|👇|\ba thread\b|^thread\b|(?:^|\s)\(?1\s?/\s?\d*\)?(?=\s|$)",
+                         re.I | re.M)
 DAYS = 6
 MAX_RESOLVE = 600      # t.co lookups per run
-MAX_FETCH = 200        # linked tweets fetched per run
-VERSION = 1
+MAX_FETCH = 300        # linked + parent tweets fetched per run
+MAX_THREADS = 40       # thread lookups per run
+MAX_THREAD_LEN = 25
+VERSION = 2
 
 _cache = {}
 
@@ -59,68 +66,130 @@ def fill_links(text, links, budget):
             links[u] = "" if re.search(r"/(photo|video)/\d+$", dest) else dest
 
 
+def slim(t):
+    """The parts of a fetched tweet the digest shows inline."""
+    return {k: t.get(k) for k in ("id", "author_handle", "author_name", "text",
+                                  "links", "media", "url", "created_at")}
+
+
+def author_chain(tweets, root_id, author):
+    """Follow the author's own replies down from root_id: the thread."""
+    author = (author or "").lower()
+    by_parent = {}
+    for t in tweets:
+        if (t.get("author_handle") or "").lower() == author and t.get("reply_to_id"):
+            by_parent.setdefault(t["reply_to_id"], []).append(t)
+    chain, cur, seen = [], root_id, {root_id}
+    while len(chain) < MAX_THREAD_LEN:
+        nxt = sorted(by_parent.get(cur, []),
+                     key=lambda t: parse_created(t.get("created_at")) or now_utc())
+        nxt = [t for t in nxt if t["id"] not in seen]
+        if not nxt:
+            break
+        chain.append(slim(nxt[0]))
+        cur = nxt[0]["id"]
+        seen.add(cur)
+    return chain
+
+
 def main():
     settings = load_settings()
     provider = importlib.import_module(f"providers.{settings['provider']}")
     cutoff = now_utc() - timedelta(days=DAYS)
     budget = [MAX_RESOLVE]
-    todo = []                                   # (archive, tweet) needing work
-    archives = {}
+    archives, todo = {}, []
+    self_replied = set()          # (author, tweet id) the author replied to
 
     for handle in load_accounts():
         arch = load_archive(handle)
         archives[handle] = arch
         for t in arch["tweets"].values():
+            if (t.get("is_reply") and t.get("reply_to_id")
+                    and (t.get("reply_to") or "").lower() == handle.lower()):
+                self_replied.add((handle.lower(), t["reply_to_id"]))
             dt = parse_created(t.get("created_at"))
-            if not dt or dt < cutoff or t.get("enriched") == VERSION:
-                continue
-            todo.append((handle, t))
+            if dt and dt >= cutoff and t.get("enriched") != VERSION:
+                todo.append(t)
 
-    wanted = {}
-    for handle, t in todo:
+    failed = set()                # tweet ids whose work didn't finish
+    wanted = {}                   # tweet id to fetch -> [(tweet, kind)]
+    for t in todo:
         links = t.setdefault("links", {})
         fill_links(t.get("text"), links, budget)
         q = t.get("quoted")
         if q:
             fill_links(q.get("text"), q.setdefault("links", {}), budget)
+        if TCO.search(t.get("text") or "") and any(
+                u not in links for u in TCO.findall(t.get("text") or "")):
+            failed.add(t["id"])
         own = {t.get("id"), t.get("rt_id"), (q or {}).get("id")}
         for dest in links.values():
             m = STATUS.match(dest or "")
             if m and m.group(1) not in own:
-                wanted.setdefault(m.group(1), []).append(t)
+                wanted.setdefault(m.group(1), []).append((t, "linked"))
+        if (t.get("is_reply") and not t.get("is_retweet") and t.get("reply_to_id")
+                and not t.get("parent")):
+            wanted.setdefault(t["reply_to_id"], []).append((t, "parent"))
 
-    fetched, fetch_ok = {}, True
+    # linked tweets and reply parents, fetched in batches
     ids = list(wanted)[:MAX_FETCH]
+    fetched = {}
     if ids:
         try:
             fetched = provider.fetch_tweets_by_ids(ids)
         except Exception as e:  # noqa: BLE001
-            fetch_ok = False
-            print(f"  linked-tweet fetch failed: {e}", file=sys.stderr)
-
-    for tid, tweets in wanted.items():
-        lt = fetched.get(tid)
-        if not lt:
+            print(f"  tweet fetch failed: {e}", file=sys.stderr)
+            for i in ids:
+                failed.update(t["id"] for t, _ in wanted[i])
+    for i, uses in wanted.items():
+        if i not in ids:
+            failed.update(t["id"] for t, _ in uses)
             continue
-        item = {k: lt.get(k) for k in ("id", "author_handle", "author_name",
-                                        "text", "links", "media", "url")}
-        for t in tweets:
-            linked = t.setdefault("linked", [])
-            if not any(x.get("id") == tid for x in linked):
-                linked.append(item)
+        ft = fetched.get(i)
+        if not ft:
+            continue                          # deleted / private: nothing to show
+        item = slim(ft)
+        for t, kind in uses:
+            if kind == "parent":
+                t["parent"] = item
+            elif not any(x.get("id") == i for x in t.setdefault("linked", [])):
+                t["linked"].append(item)
+
+    # threads
+    threads = 0
+    for t in todo:
+        if t.get("is_reply") and not t.get("is_retweet"):
+            continue
+        root = t.get("rt_id") if t.get("is_retweet") else t.get("id")
+        author = t.get("rt_author") if t.get("is_retweet") else t.get("author_handle")
+        if not root or "thread" in t:
+            continue
+        if not (THREAD_HINT.search(t.get("text") or "")
+                or ((author or "").lower(), root) in self_replied):
+            continue
+        if threads >= MAX_THREADS:
+            failed.add(t["id"])
+            continue
+        threads += 1
+        try:
+            convo = provider.fetch_thread(root)
+            chain = author_chain(convo, root, author)
+            for c in chain:
+                fill_links(c.get("text"), c.setdefault("links", {}) or {}, budget)
+            t["thread"] = chain
+        except Exception as e:  # noqa: BLE001
+            print(f"  thread fetch failed for {root}: {e}", file=sys.stderr)
+            failed.add(t["id"])
 
     done = 0
-    for handle, t in todo:
-        unresolved = [u for u in TCO.findall(t.get("text") or "")
-                      if u not in t.get("links", {})]
-        pending = [i for i, ts in wanted.items() if t in ts and i not in ids]
-        if not unresolved and fetch_ok and not pending:
+    for t in todo:
+        if t["id"] not in failed:
             t["enriched"] = VERSION
             done += 1
     for handle, arch in archives.items():
         save_archive(handle, arch)
     print(f"Enriched {done}/{len(todo)} tweets; {MAX_RESOLVE - budget[0]} t.co lookups; "
-          f"{len(fetched)}/{len(ids)} linked tweets fetched.")
+          f"{len(fetched)}/{len(ids)} linked/parent tweets; {threads} threads.")
 
 
 if __name__ == "__main__":

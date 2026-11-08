@@ -194,6 +194,24 @@ def fetch_tweets_by_ids(ids):
     return out
 
 
+def fetch_thread(tweet_id, max_pages=3):
+    """Every tweet in the conversation around tweet_id (parents, the tweet,
+    replies), normalized. The caller picks out the author's own chain."""
+    out, cursor = [], ""
+    for _ in range(max_pages):
+        params = {"tweetId": tweet_id}
+        if cursor:
+            params["cursor"] = cursor
+        payload = _get("/twitter/tweet/thread_context", params)
+        items = (payload.get("replies") or payload.get("tweets") or []
+                 if isinstance(payload, dict) else [])
+        out += [_norm_tweet(t) for t in items if isinstance(t, dict)]
+        if not payload.get("has_next_page") or not payload.get("next_cursor"):
+            break
+        cursor = payload["next_cursor"]
+    return out
+
+
 def fetch_followings(handle, max_pages=10):
     out, cursor = [], None
     for _ in range(max_pages):
