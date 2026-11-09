@@ -7326,6 +7326,358 @@
    "quoted": null,
    "fetched_at": "2026-11-09T16:35:46.204056+00:00",
    "enriched": 3
+  },
+  "2119900081658699829": {
+   "id": "2119900081658699829",
+   "url": "https://x.com/theobearman/status/2119900081658699829",
+   "text": "I went on the information's AI Deep Dive podcast and talked about SL5! Thank you for having me @rocketalignment and @theinformation! It's time for the industry to build SL5! Logical controls by spring 2027, and then physical controls! Lfg! \n\nFirst time doing something like this, apart from 1-2 misspeaks pretty happy with how it turned out! This was recorded 2w ago note for that time I say 'this week'.",
+   "created_at": "Mon Nov 09 21:08:59 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "LisaThiergart",
+   "rt_author_name": "Lisa Thiergart",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2054373295827591168/_2OU9mix_normal.jpg",
+   "rt_id": "2119886164857671788",
+   "likes": 22,
+   "retweets": 3,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-09T21:26:38.996181+00:00",
+   "enriched": 3
+  },
+  "2119899660416332231": {
+   "id": "2119899660416332231",
+   "url": "https://x.com/theobearman/status/2119899660416332231",
+   "text": "@tyler_m_john Not that I have seen in the card. There’s no additional detail about the nerfing process. I think Anthropic needs to be a lot more transparent about what they did, whether the snapshot is being used internally and what they intend to do with the weights.",
+   "created_at": "Mon Nov 09 21:07:19 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "tyler_m_john",
+   "reply_to_id": "2119899310045516105",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-09T21:26:38.996181+00:00",
+   "parent": {
+    "id": "2119899310045516105",
+    "author_handle": "tyler_m_john",
+    "author_name": "Tyler John",
+    "text": "@theobearman Interesting. And we don't know if it's in use or even if the weights still exist?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/tyler_m_john/status/2119899310045516105",
+    "created_at": "Mon Nov 09 21:05:55 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2119898988480479394": {
+   "id": "2119898988480479394",
+   "url": "https://x.com/theobearman/status/2119898988480479394",
+   "text": "@tyler_m_john There is still seemingly an un-nerfed (and I would assume near final) snapshot though. From the card: “We conducted pre-deployment testing of Claude Mythos 5.2’s capabilities with METR, focusing on capabilities relevant to the automation of AI R&D. Their testing was performed and all results obtained on a snapshot of Claude Mythos 5.2 that was stronger on AI R&D capabilities than the released model. This is consistent with our approach in this section of assessing a model’s capability ceiling across snapshots; the results below may overstate capabilities relative to the released model.”",
+   "created_at": "Mon Nov 09 21:04:39 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "tyler_m_john",
+   "reply_to_id": "2119897825609736691",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-09T21:26:38.996181+00:00",
+   "parent": {
+    "id": "2119897825609736691",
+    "author_handle": "tyler_m_john",
+    "author_name": "Tyler John",
+    "text": "This is impressive. Some unilateral AI R&amp;D pacing from Anthropic. Even their internal models are apparently nerfed.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/tyler_m_john/status/2119897825609736691",
+    "created_at": "Mon Nov 09 21:00:02 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2119889452814520321": {
+   "id": "2119889452814520321",
+   "url": "https://x.com/theobearman/status/2119889452814520321",
+   "text": "@GoodFaithOnly @justjoshinyou13 @KelseyTuoc I think that’s right. From the card: “We conducted pre-deployment testing of Claude Mythos 5.2’s capabilities with METR, focusing on capabilities relevant to the automation of AI R&D. Their testing was performed and all results obtained on a snapshot of Claude Mythos 5.2 that was stronger on AI R&D capabilities than the released model. This is consistent with our approach in this section of assessing a model’s capability ceiling across snapshots; the results below may overstate capabilities relative to the released model.”",
+   "created_at": "Mon Nov 09 20:26:45 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "GoodFaithOnly",
+   "reply_to_id": "2119887995755253911",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-09T21:26:38.996181+00:00",
+   "parent": {
+    "id": "2119887995755253911",
+    "author_handle": "GoodFaithOnly",
+    "author_name": "Avi Brach-Neuefeld",
+    "text": "@justjoshinyou13 @KelseyTuoc My best guess is that Mythos 5.2 is Model 3 + AI R&amp;D  nerfing.\nhttps://t.co/cn9TT0ogUa",
+    "links": {
+     "https://t.co/cn9TT0ogUa": "https://x.com/theobearman/status/2119872427291488494?a=PxR9I8Uf-GRezgFjPm4&s=20"
+    },
+    "media": [],
+    "url": "https://x.com/GoodFaithOnly/status/2119887995755253911",
+    "created_at": "Mon Nov 09 20:20:58 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2119886674620788795": {
+   "id": "2119886674620788795",
+   "url": "https://x.com/theobearman/status/2119886674620788795",
+   "text": "Great to be quoted by @ben_guggenheim in today’s WaPo AI &amp; Tech Brief on METR’s report on R&amp;D Acceleration at Anthropic. Such is the pace of change, we now know the identity of one of these models (but not the most capable one Anthropic had as of last month) was Mythos/Fable 5.2! https://t.co/mcchdPxhlo",
+   "created_at": "Mon Nov 09 20:15:43 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWtZsbcWwAATqQx.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/mcchdPxhlo": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-09T21:26:38.996181+00:00",
+   "enriched": 3
+  },
+  "2119882657379279235": {
+   "id": "2119882657379279235",
+   "url": "https://x.com/theobearman/status/2119882657379279235",
+   "text": "The system card goes into no greater detail on this.",
+   "created_at": "Mon Nov 09 19:59:45 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "theobearman",
+   "reply_to_id": "2119872427291488494",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-09T21:26:38.996181+00:00",
+   "parent": {
+    "id": "2119872427291488494",
+    "author_handle": "theobearman",
+    "author_name": "Theo Bearman",
+    "text": "Anthropic took steps to nerf the models’ AI R&amp;D capabilities during training. Very interesting to see. https://t.co/ni7xTZApke",
+    "links": {
+     "https://t.co/ni7xTZApke": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWtMvHNXkAAWHSZ.jpg"
+     }
+    ],
+    "url": "https://x.com/theobearman/status/2119872427291488494",
+    "created_at": "Mon Nov 09 19:19:06 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2119873856978493931": {
+   "id": "2119873856978493931",
+   "url": "https://x.com/theobearman/status/2119873856978493931",
+   "text": "System card states that Anthropic does not believe these models meet the Autonomy-2 capability threshold, including the “dramatic acceleration of overall AI R&amp;D progress” condition.\n\nhttps://t.co/OeMsjR7hfv https://t.co/aX5VSNg1Yb",
+   "created_at": "Mon Nov 09 19:24:47 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWtOCWnXgAAGNqX.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/OeMsjR7hfv": "https://assets.claude.com/27d60918d218125e7504bc7354c4b4626ec56b11.pdf",
+    "https://t.co/aX5VSNg1Yb": ""
+   },
+   "quoted": {
+    "id": "2119867707546071125",
+    "author_name": "Anthropic",
+    "links": {},
+    "author": "AnthropicAI",
+    "text": "Claude Fable 5.2 and Claude Mythos 5.2 are available now:"
+   },
+   "fetched_at": "2026-11-09T21:26:38.996181+00:00",
+   "enriched": 3
+  },
+  "2119872427291488494": {
+   "id": "2119872427291488494",
+   "url": "https://x.com/theobearman/status/2119872427291488494",
+   "text": "Anthropic took steps to nerf the models’ AI R&amp;D capabilities during training. Very interesting to see. https://t.co/ni7xTZApke",
+   "created_at": "Mon Nov 09 19:19:06 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 130,
+   "retweets": 12,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWtMvHNXkAAWHSZ.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/ni7xTZApke": ""
+   },
+   "quoted": {
+    "id": "2119867707546071125",
+    "author_name": "Anthropic",
+    "links": {},
+    "author": "AnthropicAI",
+    "text": "Claude Fable 5.2 and Claude Mythos 5.2 are available now:"
+   },
+   "fetched_at": "2026-11-09T21:26:38.996181+00:00",
+   "thread": [
+    {
+     "id": "2119882657379279235",
+     "author_handle": "theobearman",
+     "author_name": "Theo Bearman",
+     "text": "The system card goes into no greater detail on this.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/theobearman/status/2119882657379279235",
+     "created_at": "Mon Nov 09 19:59:45 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2119871814419804169": {
+   "id": "2119871814419804169",
+   "url": "https://x.com/theobearman/status/2119871814419804169",
+   "text": "Both model variants show greater eval awareness, but Anthropic claim Mythos 5.2 is more aligned than recent models. https://t.co/Y2ptFEdY70",
+   "created_at": "Mon Nov 09 19:16:40 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWtMLcvXoAEkGAK.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWtMLcZWsAAdTdu.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/Y2ptFEdY70": ""
+   },
+   "quoted": {
+    "id": "2119867707546071125",
+    "author_name": "Anthropic",
+    "links": {},
+    "author": "AnthropicAI",
+    "text": "Claude Fable 5.2 and Claude Mythos 5.2 are available now:"
+   },
+   "fetched_at": "2026-11-09T21:26:38.996181+00:00",
+   "enriched": 3
+  },
+  "2119870189189963878": {
+   "id": "2119870189189963878",
+   "url": "https://x.com/theobearman/status/2119870189189963878",
+   "text": "Claude Fable 5.2 and Claude Mythos 5.2 are available now:",
+   "created_at": "Mon Nov 09 19:10:13 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "AnthropicAI",
+   "rt_author_name": "Anthropic",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+   "rt_id": "2119867707546071125",
+   "likes": 9719,
+   "retweets": 614,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-09T21:26:38.996181+00:00",
+   "enriched": 3
   }
  }
 }

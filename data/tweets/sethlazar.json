@@ -7147,6 +7147,105 @@
    },
    "fetched_at": "2026-11-08T17:03:56.475616+00:00",
    "enriched": 3
+  },
+  "2119898501148455092": {
+   "id": "2119898501148455092",
+   "url": "https://x.com/sethlazar/status/2119898501148455092",
+   "text": "\"a thing of beauty is a joy forever\" https://t.co/smWFdjaLW5",
+   "created_at": "Mon Nov 09 21:02:43 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWtkZ0cW8AA8JhV.png"
+    }
+   ],
+   "links": {
+    "https://t.co/smWFdjaLW5": ""
+   },
+   "quoted": {
+    "id": "2119873095129550880",
+    "author_name": "Boris Cherny",
+    "links": {
+     "https://t.co/g2Y5cwS0L2": ""
+    },
+    "author": "bcherny",
+    "text": "We wanted to do more for the people who’ve been with us the longest. So with Fable 5.2, the longer you’ve been subscribed, the more Fable resets you get. https://t.co/g2Y5cwS0L2"
+   },
+   "fetched_at": "2026-11-09T21:26:38.996181+00:00",
+   "enriched": 3
+  },
+  "2119896923679404249": {
+   "id": "2119896923679404249",
+   "url": "https://x.com/sethlazar/status/2119896923679404249",
+   "text": "This is what we're going to do with Oxford Studies in Philosophy of AI and Computing (https://t.co/KVtiRpM0wG).",
+   "created_at": "Mon Nov 09 20:56:27 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/KVtiRpM0wG": "https://ospaic.org"
+   },
+   "quoted": {
+    "id": "2119876853477544017",
+    "author_name": "Jessica Hullman",
+    "links": {
+     "https://t.co/Z3ZejWMzMC": "https://statmodeling.stat.columbia.edu/2026/11/09/can-peer-review-survive-unrestricted-ai-use-by-reviewers/"
+    },
+    "author": "JessicaHullman",
+    "text": "What happened with ICLR reviews last week convinced me all AI use in peer review should be centralized. We can do this w/out losing benefits of AI in review. \n\nBut we need to innovate faster, and worry a lot less about hurting authors' feelings.\nhttps://t.co/Z3ZejWMzMC"
+   },
+   "fetched_at": "2026-11-09T21:26:38.996181+00:00",
+   "enriched": 3
+  },
+  "2119896774148321662": {
+   "id": "2119896774148321662",
+   "url": "https://x.com/sethlazar/status/2119896774148321662",
+   "text": "What happened with ICLR reviews last week convinced me all AI use in peer review should be centralized. We can do this w/out losing benefits of AI in review. \n\nBut we need to innovate faster, and worry a lot less about hurting authors' feelings.\nhttps://t.co/Z3ZejWMzMC",
+   "created_at": "Mon Nov 09 20:55:51 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "JessicaHullman",
+   "rt_author_name": "Jessica Hullman",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1996742504369033216/sxIXeGLv_normal.jpg",
+   "rt_id": "2119876853477544017",
+   "likes": 16,
+   "retweets": 4,
+   "media": [],
+   "links": {
+    "https://t.co/Z3ZejWMzMC": "https://statmodeling.stat.columbia.edu/2026/11/09/can-peer-review-survive-unrestricted-ai-use-by-reviewers/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-09T21:26:38.996181+00:00",
+   "enriched": 3
   }
  }
 }

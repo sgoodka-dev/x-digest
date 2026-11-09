@@ -3170,6 +3170,36 @@
     "url": "https://x.com/tyler_m_john/status/2119296157406863510",
     "created_at": "Sun Nov 08 05:09:13 +0000 2026"
    }
+  },
+  "2119871750322401687": {
+   "id": "2119871750322401687",
+   "url": "https://x.com/mentalgeorge/status/2119871750322401687",
+   "text": "Who are @FrontierDesign2? One of 3 named external evaluators of Fable 5.2. Anyone know anything about them?",
+   "created_at": "Mon Nov 09 19:16:25 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 12,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2119867115968594305",
+    "author_name": "Claude",
+    "links": {},
+    "author": "claudeai",
+    "text": "Fable 5.2 and Mythos 5.2 performed as well as, or better than, our recent models on most alignment measures.\n\nThe model was also tested before release by external evaluators, including the @AISecurityInst, @FrontierDesign2, and @METR_Evals."
+   },
+   "fetched_at": "2026-11-09T21:26:38.996181+00:00",
+   "enriched": 3
   }
  }
 }

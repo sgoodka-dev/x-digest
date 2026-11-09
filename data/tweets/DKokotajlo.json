@@ -5322,6 +5322,63 @@
    "quoted": null,
    "fetched_at": "2026-11-09T16:35:46.204056+00:00",
    "enriched": 3
+  },
+  "2119876007339720817": {
+   "id": "2119876007339720817",
+   "url": "https://x.com/DKokotajlo/status/2119876007339720817",
+   "text": "Jensen himself directly lied to Bloomberg’s @ianmking and @tsgiles, too. https://t.co/l9ZRhYtOpd",
+   "created_at": "Mon Nov 09 19:33:20 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ShakeelHashim",
+   "rt_author_name": "Shakeel",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2040085763069759488/6l87iR68_normal.jpg",
+   "rt_id": "2119531479969513843",
+   "likes": 465,
+   "retweets": 83,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWoWpF3WIAA6KFO.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/l9ZRhYtOpd": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-09T21:26:38.996181+00:00",
+   "enriched": 3
+  },
+  "2119852751844975025": {
+   "id": "2119852751844975025",
+   "url": "https://x.com/DKokotajlo/status/2119852751844975025",
+   "text": "More thoughts from @redwood_ai's Alexa Pan about Astra's tendency to sandbag on safety research tasks:\nhttps://t.co/lzjcbQoigL",
+   "created_at": "Mon Nov 09 18:00:55 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 84,
+   "retweets": 8,
+   "media": [],
+   "links": {
+    "https://t.co/lzjcbQoigL": "https://blog.redwoodresearch.org/p/astra-covertly-underperforming-on"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-09T21:26:38.996181+00:00",
+   "enriched": 3
   }
  }
 }

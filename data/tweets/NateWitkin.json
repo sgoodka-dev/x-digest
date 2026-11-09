@@ -3241,6 +3241,32 @@
    "quoted": null,
    "fetched_at": "2026-11-09T14:07:43.469218+00:00",
    "enriched": 3
+  },
+  "2119843983832625481": {
+   "id": "2119843983832625481",
+   "url": "https://x.com/NateWitkin/status/2119843983832625481",
+   "text": "I've gone back and forth on how transformative AI will be.\n\nBut the more I look at the underlying economic data, the more I'm convinced we're not getting either utopia or doom any time soon.\nConsider:\n\n-GDP growth is normal, and projected to remain normal.\n-The stock market looks pretty normal. It's done well in recent years, but there's no indication that we're getting massive increases in societal wealth due to rapid productivity gains.\n-Economic theory says transformative AI should massively increase interest rates. If massive growth is coming soon, people will want to borrow against future wealth. If we're all going to die, no one will lend. In both cases, interest rates go up. Yet interest rates look... completely historically normal.\n-There is nothing in the jobs data to indicate widespread displacement of workers, not even a major shift in the workforce, much less \"the end of work.\"\n\nPractically all data is pointing in the same direction. AI looks like a normal technology.\n\nI think that those who said that the bottleneck to changing the world wasn't book-type intelligence are looking like they were correct. We keep hearing that AI bulls have gotten so much right, but although they've been correct on the pace of technological development, we're yet to see the real-world impacts they promised.\n\nIt's time to start thinking carefully about why that is. https://t.co/Qu0RtmOLkU",
+   "created_at": "Mon Nov 09 17:26:05 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "RichardHanania",
+   "rt_author_name": "Richard Hanania",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2089498736586350592/98WkSoyP_normal.jpg",
+   "rt_id": "2119765173947052328",
+   "likes": 222,
+   "retweets": 30,
+   "media": [],
+   "links": {
+    "https://t.co/Qu0RtmOLkU": "https://www.richardhanania.com/p/ai-is-looking-more-and-more-like"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-09T21:26:38.996181+00:00",
+   "enriched": 3
   }
  }
 }

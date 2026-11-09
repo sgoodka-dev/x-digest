@@ -10430,6 +10430,47 @@
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
    "enriched": 3
+  },
+  "2119833795386032624": {
+   "id": "2119833795386032624",
+   "url": "https://x.com/deanwball/status/2119833795386032624",
+   "text": "@RyanFedasiuk @BBCWorld @JoinFAI great hire by fai. congratulations!",
+   "created_at": "Mon Nov 09 16:45:36 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "RyanFedasiuk",
+   "reply_to_id": "2119662868387987642",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 13,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-09T21:26:38.996181+00:00",
+   "parent": {
+    "id": "2119662868387987642",
+    "author_handle": "RyanFedasiuk",
+    "author_name": "Ryan Fedasiuk",
+    "text": "I took a break from leveling in World of Warcraft: Forever to discuss the latest $NVDA news on @BBCWorld.\n\nAlso as of 20 minutes ago I work for @JoinFAI. https://t.co/tOcEygP5vo",
+    "links": {
+     "https://t.co/tOcEygP5vo": ""
+    },
+    "media": [
+     {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2119662758362755072/img/Oecul8o9c3t6Wbzr.jpg"
+     }
+    ],
+    "url": "https://x.com/RyanFedasiuk/status/2119662868387987642",
+    "created_at": "Mon Nov 09 05:26:23 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }
