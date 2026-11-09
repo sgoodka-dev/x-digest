@@ -6758,7 +6758,7 @@
    "links": {
     "https://t.co/MZJh8AKsye": ""
    },
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "1798741919738310829",
@@ -6769,6 +6769,78 @@
      "media": [],
      "url": "https://x.com/peterbhase/status/1798741919738310829",
      "created_at": "Thu Jun 06 15:41:07 +0000 2024"
+    },
+    {
+     "id": "1798741924020719681",
+     "author_handle": "peterbhase",
+     "author_name": "Peter Hase",
+     "text": "This paper addresses three questions in turn:\n\n1. Do LLMs have internal states like beliefs that are aimed at truth?\n\n2. Do norms of rationality, like coherence, apply to these internal states?\n\n3. Do LLMs live up to these norms (and how would we know)?",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/peterbhase/status/1798741924020719681",
+     "created_at": "Thu Jun 06 15:41:08 +0000 2024"
+    },
+    {
+     "id": "1798741928240103711",
+     "author_handle": "peterbhase",
+     "author_name": "Peter Hase",
+     "text": "On (1), our main argument is that finetuning or perception can equip LLMs with a purpose to be truthful. So the function of their internal states is to be truthful. Merely Pretrained LLMs do NOT have this purpose, *even if they have a world model*.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/peterbhase/status/1798741928240103711",
+     "created_at": "Thu Jun 06 15:41:09 +0000 2024"
+    },
+    {
+     "id": "1798741932103057824",
+     "author_handle": "peterbhase",
+     "author_name": "Peter Hase",
+     "text": "On (2), we argue that being truthful demands LLMs be logically consistent. But what about their probabilities?\n\nWe propose the Minimal Assent Criterion (MAC) for computing LLM *credences* in propositions (from their probabilities) – truthfulness also demands coherent credences.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/peterbhase/status/1798741932103057824",
+     "created_at": "Thu Jun 06 15:41:10 +0000 2024"
+    },
+    {
+     "id": "1798741936305840217",
+     "author_handle": "peterbhase",
+     "author_name": "Peter Hase",
+     "text": "A further point (2b) about belief revision: if coherence norms apply to an LLM at one time (before belief updates), they should apply to an LLM across time (after belief updates). This lets us say that LLMs should also be rational across time, i.e. when revising their beliefs.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/peterbhase/status/1798741936305840217",
+     "created_at": "Thu Jun 06 15:41:11 +0000 2024"
+    },
+    {
+     "id": "1798741940336578768",
+     "author_handle": "peterbhase",
+     "author_name": "Peter Hase",
+     "text": "On (3), we point out that it’s hard to interpret current failures in LLMs. When an LLM is incoherent, is it because it does a good job adhering to its inconsistent training data or because it does a bad job respecting human preferences like truthfulness?",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/peterbhase/status/1798741940336578768",
+     "created_at": "Thu Jun 06 15:41:12 +0000 2024"
+    },
+    {
+     "id": "1798741944304312720",
+     "author_handle": "peterbhase",
+     "author_name": "Peter Hase",
+     "text": "Wrapping up: some LLMs are subject to norms of rationality, but interpreting an LLM’s irrationality is difficult because they are pretrained on inconsistent data.\n\nThe more that LLMs are optimized to be truthful, the easier it will be to explain them in terms of coherent beliefs.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/peterbhase/status/1798741944304312720",
+     "created_at": "Thu Jun 06 15:41:13 +0000 2024"
+    },
+    {
+     "id": "1798742081604886554",
+     "author_handle": "peterbhase",
+     "author_name": "Peter Hase",
+     "text": "Paper link: https://t.co/TE0KLOiDQh\n\nWork led by @hofweber and done w/ myself, @EliasEskin, @mohitban47\n@PhilosophyUnc @unccs @uncnlp",
+     "links": {
+      "https://t.co/TE0KLOiDQh": "https://arxiv.org/abs/2406.03442"
+     },
+     "media": [],
+     "url": "https://x.com/peterbhase/status/1798742081604886554",
+     "created_at": "Thu Jun 06 15:41:45 +0000 2024"
     }
    ]
   },

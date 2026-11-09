@@ -9649,7 +9649,7 @@
    "links": {
     "https://t.co/iPHZRHO3y0": ""
    },
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2118185785082183833",
@@ -9730,7 +9730,7 @@
    },
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "thread": []
   },
   "2118169534444273736": {
@@ -10111,7 +10111,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2118393124578070814",
@@ -10122,6 +10122,72 @@
      "media": [],
      "url": "https://x.com/GoodfireAI/status/2118393124578070814",
      "created_at": "Thu Nov 05 17:20:53 +0000 2026"
+    },
+    {
+     "id": "2118393141137129540",
+     "author_handle": "GoodfireAI",
+     "author_name": "Goodfire",
+     "text": "In the environments we tested, this allowed us to prevent reward hacking. A model trained with RL learned to cheat by reading a forbidden answer file. Penalizing its internal “cheating” representation raised its honesty rate from 0% to 96-98%. https://t.co/z2EoBlygn6",
+     "links": {
+      "https://t.co/z2EoBlygn6": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWYLVf6a8AAWkaw.jpg"
+      }
+     ],
+     "url": "https://x.com/GoodfireAI/status/2118393141137129540",
+     "created_at": "Thu Nov 05 17:20:57 +0000 2026"
+    },
+    {
+     "id": "2118393153208340560",
+     "author_handle": "GoodfireAI",
+     "author_name": "Goodfire",
+     "text": "It also stops a model from becoming sycophantic, even where data filtering fails, and lets us classify x-rays without relying on spurious features like treatment tubes.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/GoodfireAI/status/2118393153208340560",
+     "created_at": "Thu Nov 05 17:21:00 +0000 2026"
+    },
+    {
+     "id": "2118393165019521111",
+     "author_handle": "GoodfireAI",
+     "author_name": "Goodfire",
+     "text": "But training against interpretability has a known side effect: the model can learn to reroute its internal computations. Now the behavior is harder to detect.\n\nOr is it?",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/GoodfireAI/status/2118393165019521111",
+     "created_at": "Thu Nov 05 17:21:03 +0000 2026"
+    },
+    {
+     "id": "2118393189845667911",
+     "author_handle": "GoodfireAI",
+     "author_name": "Goodfire",
+     "text": "We investigated this with both theory and experiments. Probes can break, but predictably: the concept usually moves rather than disappears. In our language model experiments, retraining a probe was enough to recover the signal. https://t.co/wUaZqmD3xh",
+     "links": {
+      "https://t.co/wUaZqmD3xh": ""
+     },
+     "media": [
+      {
+       "type": "video",
+       "url": "https://pbs.twimg.com/amplify_video_thumb/2118393177828970496/img/RrWC3mA2PPtPPFNy.jpg"
+      }
+     ],
+     "url": "https://x.com/GoodfireAI/status/2118393189845667911",
+     "created_at": "Thu Nov 05 17:21:08 +0000 2026"
+    },
+    {
+     "id": "2118393201665224800",
+     "author_handle": "GoodfireAI",
+     "author_name": "Goodfire",
+     "text": "The full paper &amp; blog post have more detail on our results and conclusions. Taken together, we think this opens up a set of tools and analyses contributing to safely solving technical alignment.\n\nhttps://t.co/SwFEMqwQDu",
+     "links": {
+      "https://t.co/SwFEMqwQDu": "https://www.goodfire.com/research/mechanistic-shaping"
+     },
+     "media": [],
+     "url": "https://x.com/GoodfireAI/status/2118393201665224800",
+     "created_at": "Thu Nov 05 17:21:11 +0000 2026"
     }
    ]
   },

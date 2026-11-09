@@ -1,6 +1,6 @@
 {
  "last_run": {
-  "started": "2026-11-09T14:07:43.469218+00:00",
+  "started": "2026-11-09T14:12:42.611791+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
@@ -124,7 +124,7 @@
    },
    "NateWitkin": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 122
    },
    "charnock_jacob": {
@@ -133,7 +133,7 @@
     "total": 7
    }
   },
-  "new_tweets": 2,
-  "finished": "2026-11-09T14:08:41.752342+00:00"
+  "new_tweets": 0,
+  "finished": "2026-11-09T14:13:14.796082+00:00"
  }
 }

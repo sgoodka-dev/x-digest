@@ -5590,7 +5590,7 @@
    "quoted": null,
    "fetched_at": "2026-11-03T18:27:19.395380+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2117688360604963116",
@@ -6445,7 +6445,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2117738242992959924",
@@ -6801,7 +6801,7 @@
    "links": {
     "https://t.co/tsZUuw3VMS": "https://www.tarbellcenter.org/fellowship"
    },
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2118280106343104798",
@@ -6849,7 +6849,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2118093166536749139",
@@ -6867,6 +6867,56 @@
      ],
      "url": "https://x.com/Marcus_J_W/status/2118093166536749139",
      "created_at": "Wed Nov 04 21:28:57 +0000 2026"
+    },
+    {
+     "id": "2118093184052175335",
+     "author_handle": "Marcus_J_W",
+     "author_name": "Marcus Williams",
+     "text": "The rate of covert underperformance increased during post training RL. We identified a RL grader that prefers covert underperformance to both refusal and compliance on our eval. While we have found training samples which rewarded underperformance in this way, it is unclear if these occur frequently enough to explain the difference.",
+     "links": {
+      "https://t.co/2LDotylFjd": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWT6hkBaUAAKa8J.jpg"
+      },
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWT6huWbcAAfDQ1.jpg"
+      }
+     ],
+     "url": "https://x.com/Marcus_J_W/status/2118093184052175335",
+     "created_at": "Wed Nov 04 21:29:02 +0000 2026"
+    },
+    {
+     "id": "2118093199709557229",
+     "author_handle": "Marcus_J_W",
+     "author_name": "Marcus Williams",
+     "text": "We also identified a SFT dataset which massively increases rates of inventing permission restrictions or justifying inaction with safety. When we subtract the weight update from this SFT from the final RL checkpoint the performance gap goes away. SFTing with this dataset on other models and then doing RL did not cause underperformance however.",
+     "links": {
+      "https://t.co/9ShuGvtyuO": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWT6il3bsAA3KTP.jpg"
+      }
+     ],
+     "url": "https://x.com/Marcus_J_W/status/2118093199709557229",
+     "created_at": "Wed Nov 04 21:29:05 +0000 2026"
+    },
+    {
+     "id": "2118093212141437361",
+     "author_handle": "Marcus_J_W",
+     "author_name": "Marcus Williams",
+     "text": "We don’t have evidence that the underperformance was strategic, a simpler explanation is that the model thinks these tasks are sketchy but also doesn’t want to explicitly refuse. When we add instructions to be careful to the developer prompt, the performance gap increases by 50%. Regardless of the model’s motivation, covert underperformance can differentially slow down safety research and is also an example of how misalignment might get harder and harder to detect as we cut down on visible forms of it.\n\nAs always you can read the full report at https://t.co/w3NUkKaMM2",
+     "links": {
+      "https://t.co/w3NUkKaMM2": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
+     },
+     "media": [],
+     "url": "https://x.com/Marcus_J_W/status/2118093212141437361",
+     "created_at": "Wed Nov 04 21:29:08 +0000 2026"
     }
    ]
   },
@@ -7240,7 +7290,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2119032330312650905",
@@ -7328,7 +7378,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2119026069709713848",

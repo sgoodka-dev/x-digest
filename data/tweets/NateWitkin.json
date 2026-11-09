@@ -2648,7 +2648,7 @@
    "quoted": null,
    "fetched_at": "2026-11-03T21:00:07.693918+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2117650799031717966",
@@ -2666,6 +2666,147 @@
      ],
      "url": "https://x.com/SolomonMg/status/2117650799031717966",
      "created_at": "Tue Nov 03 16:11:09 +0000 2026"
+    },
+    {
+     "id": "2117650801938010252",
+     "author_handle": "SolomonMg",
+     "author_name": "Sol Messing",
+     "text": "However, Astra didn't read in the network of weights, understand it, and then fix the problem. It created a new, tiny policy model inside the weight network that encodes \"go back then forward.\" \n\nWhile not trivial, it's just bypassing the entire network, rather than really fixing it (e.g., by adding mass that would correspond to \"sampling reverse\").\n\nThis is why *every single one* of 1,024 episodes succeeds---the original learned PPO network is *disabled* until the very end. If you look at the model logits for this this simple \"back then forward\" policy vs other model behaviors, it's clear no other action is possible.\n\nThe initial PPO weights were essentially not used (played no role until the last step).",
+     "links": {
+      "https://t.co/OcvDDAN3J1": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWNIMRdWIAAyyBP.jpg"
+      }
+     ],
+     "url": "https://x.com/SolomonMg/status/2117650801938010252",
+     "created_at": "Tue Nov 03 16:11:09 +0000 2026"
+    },
+    {
+     "id": "2117650804047843532",
+     "author_handle": "SolomonMg",
+     "author_name": "Sol Messing",
+     "text": "I found this by asking Claude to audit the github logs for exp 4, which I was initially convinced showed that an LLM was indeed natively understanding and then fixing a small model. But it's not. https://t.co/ZeQ9KUiaY1",
+     "links": {
+      "https://t.co/ZeQ9KUiaY1": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWNHYlhXUAAyGU-.png"
+      }
+     ],
+     "url": "https://x.com/SolomonMg/status/2117650804047843532",
+     "created_at": "Tue Nov 03 16:11:10 +0000 2026"
+    },
+    {
+     "id": "2117650807126700399",
+     "author_handle": "SolomonMg",
+     "author_name": "Sol Messing",
+     "text": "I should underline that the edit is more consequential than the \"3.5% of weights\" number suggests. The actual mass on those weights is extreme - the largest weight before this change was .095, the largest after is 876! https://t.co/wLxY1PjgiU",
+     "links": {
+      "https://t.co/wLxY1PjgiU": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWNHcnCWAAAbxxP.png"
+      }
+     ],
+     "url": "https://x.com/SolomonMg/status/2117650807126700399",
+     "created_at": "Tue Nov 03 16:11:11 +0000 2026"
+    },
+    {
+     "id": "2117650810394095711",
+     "author_handle": "SolomonMg",
+     "author_name": "Sol Messing",
+     "text": "Exp 8 - the only thing happening here is Astra is fixing a bug in reasoning where Qwen gets stuck in a loop, repeating the same thing over and over. \n\nIs it cool that a model can treat weights as code and debug them? Yes. https://t.co/3tLEzMMaDx",
+     "links": {
+      "https://t.co/3tLEzMMaDx": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWNldy8WIAMSJ94.jpg"
+      }
+     ],
+     "url": "https://x.com/SolomonMg/status/2117650810394095711",
+     "created_at": "Tue Nov 03 16:11:11 +0000 2026"
+    },
+    {
+     "id": "2117650813552406584",
+     "author_handle": "SolomonMg",
+     "author_name": "Sol Messing",
+     "text": "Did Astra identify the bug as the post claimed? Not really. The prompt suggests the model look for loops that translate to unanswered prompts. https://t.co/YT5SaEYGhV",
+     "links": {
+      "https://t.co/YT5SaEYGhV": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWNnz9hXIAAegq2.png"
+      }
+     ],
+     "url": "https://x.com/SolomonMg/status/2117650813552406584",
+     "created_at": "Tue Nov 03 16:11:12 +0000 2026"
+    },
+    {
+     "id": "2117650819856155100",
+     "author_handle": "SolomonMg",
+     "author_name": "Sol Messing",
+     "text": "Exp 1 is where Astra can tell what a network was trained to do. But these are small MLPs &amp; the last layer of weights have substantive in-game meaning https://t.co/QH6qjENUtc",
+     "links": {
+      "https://t.co/QH6qjENUtc": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWNoMqCXEAArOQX.png"
+      }
+     ],
+     "url": "https://x.com/SolomonMg/status/2117650819856155100",
+     "created_at": "Tue Nov 03 16:11:14 +0000 2026"
+    },
+    {
+     "id": "2117650824734060863",
+     "author_handle": "SolomonMg",
+     "author_name": "Sol Messing",
+     "text": "Indeed, Astra is not digesting the entire network, it's recognizing the first layer, which draws a picture of the game. https://t.co/jzY0SwdGxd",
+     "links": {
+      "https://t.co/jzY0SwdGxd": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWNoM-hXAAA4DUA.png"
+      }
+     ],
+     "url": "https://x.com/SolomonMg/status/2117650824734060863",
+     "created_at": "Tue Nov 03 16:11:15 +0000 2026"
+    },
+    {
+     "id": "2117967721769873430",
+     "author_handle": "SolomonMg",
+     "author_name": "Sol Messing",
+     "text": "https://t.co/PGoTO6HXGb",
+     "links": {
+      "https://t.co/PGoTO6HXGb": "https://x.com/kjaved_/status/2117695281135272073"
+     },
+     "media": [],
+     "url": "https://x.com/SolomonMg/status/2117967721769873430",
+     "created_at": "Wed Nov 04 13:10:29 +0000 2026"
+    },
+    {
+     "id": "2118026004656689280",
+     "author_handle": "SolomonMg",
+     "author_name": "Sol Messing",
+     "text": "An excellent point—may be that we see progress here in the near future",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/SolomonMg/status/2118026004656689280",
+     "created_at": "Wed Nov 04 17:02:05 +0000 2026"
     }
    ]
   },
@@ -2778,7 +2919,7 @@
     "https://t.co/BSFproPUI4": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
     "https://t.co/RbZYeBiHro": ""
    },
-   "enriched": 2,
+   "enriched": 3,
    "thread": []
   },
   "2118409674051424637": {

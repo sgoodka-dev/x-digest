@@ -6125,7 +6125,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2118093166536749139",
@@ -6143,6 +6143,56 @@
      ],
      "url": "https://x.com/Marcus_J_W/status/2118093166536749139",
      "created_at": "Wed Nov 04 21:28:57 +0000 2026"
+    },
+    {
+     "id": "2118093184052175335",
+     "author_handle": "Marcus_J_W",
+     "author_name": "Marcus Williams",
+     "text": "The rate of covert underperformance increased during post training RL. We identified a RL grader that prefers covert underperformance to both refusal and compliance on our eval. While we have found training samples which rewarded underperformance in this way, it is unclear if these occur frequently enough to explain the difference.",
+     "links": {
+      "https://t.co/2LDotylFjd": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWT6hkBaUAAKa8J.jpg"
+      },
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWT6huWbcAAfDQ1.jpg"
+      }
+     ],
+     "url": "https://x.com/Marcus_J_W/status/2118093184052175335",
+     "created_at": "Wed Nov 04 21:29:02 +0000 2026"
+    },
+    {
+     "id": "2118093199709557229",
+     "author_handle": "Marcus_J_W",
+     "author_name": "Marcus Williams",
+     "text": "We also identified a SFT dataset which massively increases rates of inventing permission restrictions or justifying inaction with safety. When we subtract the weight update from this SFT from the final RL checkpoint the performance gap goes away. SFTing with this dataset on other models and then doing RL did not cause underperformance however.",
+     "links": {
+      "https://t.co/9ShuGvtyuO": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWT6il3bsAA3KTP.jpg"
+      }
+     ],
+     "url": "https://x.com/Marcus_J_W/status/2118093199709557229",
+     "created_at": "Wed Nov 04 21:29:05 +0000 2026"
+    },
+    {
+     "id": "2118093212141437361",
+     "author_handle": "Marcus_J_W",
+     "author_name": "Marcus Williams",
+     "text": "We don’t have evidence that the underperformance was strategic, a simpler explanation is that the model thinks these tasks are sketchy but also doesn’t want to explicitly refuse. When we add instructions to be careful to the developer prompt, the performance gap increases by 50%. Regardless of the model’s motivation, covert underperformance can differentially slow down safety research and is also an example of how misalignment might get harder and harder to detect as we cut down on visible forms of it.\n\nAs always you can read the full report at https://t.co/w3NUkKaMM2",
+     "links": {
+      "https://t.co/w3NUkKaMM2": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
+     },
+     "media": [],
+     "url": "https://x.com/Marcus_J_W/status/2118093212141437361",
+     "created_at": "Wed Nov 04 21:29:08 +0000 2026"
     }
    ]
   },
@@ -6231,7 +6281,7 @@
    },
    "fetched_at": "2026-11-05T18:45:11.192238+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2118416702157340714",
@@ -6478,7 +6528,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2118424805003198598",
@@ -6489,6 +6539,96 @@
      "media": [],
      "url": "https://x.com/LASST_law/status/2118424805003198598",
      "created_at": "Thu Nov 05 19:26:46 +0000 2026"
+    },
+    {
+     "id": "2118424861953642866",
+     "author_handle": "LASST_law",
+     "author_name": "LASST",
+     "text": "Under Section 11 of the Securities Act, “strict liability” applies to material misstatements in a securities registration statement like an S-1. Strict liability is a challenging standard for defendant companies; it means that a plaintiff does not have to prove that the company acted with any particular state of mind in making the misstatement.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/LASST_law/status/2118424861953642866",
+     "created_at": "Thu Nov 05 19:27:00 +0000 2026"
+    },
+    {
+     "id": "2118424928244613546",
+     "author_handle": "LASST_law",
+     "author_name": "LASST",
+     "text": "But Anthropic’s IPO structure may sharply limit the number of potential plaintiffs that could bring a strict liability action for a material misstatement in Anthropic’s S-1.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/LASST_law/status/2118424928244613546",
+     "created_at": "Thu Nov 05 19:27:15 +0000 2026"
+    },
+    {
+     "id": "2118425015246819434",
+     "author_handle": "LASST_law",
+     "author_name": "LASST",
+     "text": "Unlike most companies that IPO, Anthropic is not adopting a strict lock-up period for selling unregistered shares in the open market after its IPO date. Instead, it appears likely to allow some employees to sell unregistered shares on the first day of the IPO, including up to 10% of certain holders’ “lock-up securities.”",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/LASST_law/status/2118425015246819434",
+     "created_at": "Thu Nov 05 19:27:36 +0000 2026"
+    },
+    {
+     "id": "2118425081256763501",
+     "author_handle": "LASST_law",
+     "author_name": "LASST",
+     "text": "Without a strict lock-up period, shares registered under the S-1 and unregistered shares are likely to intermingle on the open market, and a purchaser may not know whether their shares were registered under the S-1.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/LASST_law/status/2118425081256763501",
+     "created_at": "Thu Nov 05 19:27:52 +0000 2026"
+    },
+    {
+     "id": "2118425146231038204",
+     "author_handle": "LASST_law",
+     "author_name": "LASST",
+     "text": "But to bring a Section 11 claim, a plaintiff must be able to prove that their particular shares were registered under the registration statement that contained the misstatement. The Supreme Court confirmed this “traceability” requirement in Slack v. Pirani (2023), where it also acknowledged that “a company’s early investors and employees may own preexisting shares . . . not subject to registration requirements.”",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/LASST_law/status/2118425146231038204",
+     "created_at": "Thu Nov 05 19:28:07 +0000 2026"
+    },
+    {
+     "id": "2118425221720154478",
+     "author_handle": "LASST_law",
+     "author_name": "LASST",
+     "text": "When registered and unregistered shares intermingle, traceability to the registration statement can be effectively impossible to establish for many plaintiffs. For example, a federal court dismissed Section 11 claims in Shnayder v. Allbirds, Inc. because employees had been permitted to sell their shares during the first week of an IPO, which effectively destroyed the plaintiffs’ ability to trace their shares to the S-1.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/LASST_law/status/2118425221720154478",
+     "created_at": "Thu Nov 05 19:28:25 +0000 2026"
+    },
+    {
+     "id": "2118425296948850808",
+     "author_handle": "LASST_law",
+     "author_name": "LASST",
+     "text": "Anthropic appears poised to permit exactly this intermingling from the first day of the IPO. The practical effect of intermingling is that most aftermarket purchasers would struggle to prove traceability to the S-1, and so would struggle to support a Section 11 claim based on a material misstatement in the S-1.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/LASST_law/status/2118425296948850808",
+     "created_at": "Thu Nov 05 19:28:43 +0000 2026"
+    },
+    {
+     "id": "2118425344005054692",
+     "author_handle": "LASST_law",
+     "author_name": "LASST",
+     "text": "A company whose technology threatens catastrophic harm should not be less accountable for S-1 misstatements than almost every other company that IPOs.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/LASST_law/status/2118425344005054692",
+     "created_at": "Thu Nov 05 19:28:55 +0000 2026"
+    },
+    {
+     "id": "2118425386799243662",
+     "author_handle": "LASST_law",
+     "author_name": "LASST",
+     "text": "Information, not legal advice. Consult a lawyer for your specific situation.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/LASST_law/status/2118425386799243662",
+     "created_at": "Thu Nov 05 19:29:05 +0000 2026"
     }
    ]
   },
@@ -6859,7 +6999,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2118743779637407751",
@@ -6870,6 +7010,131 @@
      "media": [],
      "url": "https://x.com/kjha02/status/2118743779637407751",
      "created_at": "Fri Nov 06 16:34:16 +0000 2026"
+    },
+    {
+     "id": "2118743876894961671",
+     "author_handle": "kjha02",
+     "author_name": "Kunal Jha",
+     "text": "The recipe is simple. Every agent can message any teammate, anytime, asynchronously.\n\nThey all share one reward: the team wins if anyone solves the task.\n\nEvery token gets its team's advantage, so agents get credit for helping each other. No one tells them how to cooperate. https://t.co/h2izIpogRH",
+     "links": {
+      "https://t.co/h2izIpogRH": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWdKT8aa8AA1BJw.png"
+      }
+     ],
+     "url": "https://x.com/kjha02/status/2118743876894961671",
+     "created_at": "Fri Nov 06 16:34:39 +0000 2026"
+    },
+    {
+     "id": "2118743977914679433",
+     "author_handle": "kjha02",
+     "author_name": "Kunal Jha",
+     "text": "We test two things groups do better than individuals: information aggregation and decentralized exploration.\n\nBoth get harder with more agents! Aggregation breaks if a single message is lost. Exploration has to beat N independent agents, a baseline that keeps rising with N https://t.co/zm5baYI0o0",
+     "links": {
+      "https://t.co/zm5baYI0o0": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWdKaHaaQAEIHd4.png"
+      }
+     ],
+     "url": "https://x.com/kjha02/status/2118743977914679433",
+     "created_at": "Fri Nov 06 16:35:03 +0000 2026"
+    },
+    {
+     "id": "2118744055005987236",
+     "author_handle": "kjha02",
+     "author_name": "Kunal Jha",
+     "text": "First, information aggregation. Each agent gets a secret number; the swarm must assemble the full list.\n\nSounds easy, but it's a coordination nightmare: who has spoken, who's waiting, who's repeating?\n\ns³ hits 93%. Imitating successful swarms gets 35%. Individual rewards? 13%. https://t.co/0pcTjrrWxq",
+     "links": {
+      "https://t.co/0pcTjrrWxq": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWdKe29aIAAVEp8.png"
+      }
+     ],
+     "url": "https://x.com/kjha02/status/2118744055005987236",
+     "created_at": "Fri Nov 06 16:35:21 +0000 2026"
+    },
+    {
+     "id": "2118744146307670517",
+     "author_handle": "kjha02",
+     "author_name": "Kunal Jha",
+     "text": "Then we push past training. Swarms trained with 4 agents get dropped into teams of 8.\n\nThe baselines collapse. s³ solves 25x more problems than the strongest one.\n\nThe coordination it learned transfers to swarms it has never seen! https://t.co/vpSMfeXxJd",
+     "links": {
+      "https://t.co/vpSMfeXxJd": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWdKkP5aQAM0N9f.png"
+      }
+     ],
+     "url": "https://x.com/kjha02/status/2118744146307670517",
+     "created_at": "Fri Nov 06 16:35:43 +0000 2026"
+    },
+    {
+     "id": "2118744232307605880",
+     "author_handle": "kjha02",
+     "author_name": "Kunal Jha",
+     "text": "Why do individual rewards fail? The agents fall into a social dilemma 🤯\n\nSharing your number only helps teammates, so every agent waits for someone else to go first. Eventually no one shares.\n\nWith a shared reward, a clean protocol emerges: everyone broadcasts once, early https://t.co/WxYPLVyV3y",
+     "links": {
+      "https://t.co/WxYPLVyV3y": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWdKpIIaQAAtDUj.png"
+      }
+     ],
+     "url": "https://x.com/kjha02/status/2118744232307605880",
+     "created_at": "Fri Nov 06 16:36:04 +0000 2026"
+    },
+    {
+     "id": "2118744336372482172",
+     "author_handle": "kjha02",
+     "author_name": "Kunal Jha",
+     "text": "Next, decentralized exploration. Agents race through a maze; any one could find the exit alone.\n\nWith s³, the swarm learns to divide and conquer: agents claim branches and report dead ends. Repeated work drops ~50%, and 4 communicating agents nearly match 6 independent ones! https://t.co/ClgxtZy18W",
+     "links": {
+      "https://t.co/ClgxtZy18W": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWdKuOfaQAECIDH.png"
+      }
+     ],
+     "url": "https://x.com/kjha02/status/2118744336372482172",
+     "created_at": "Fri Nov 06 16:36:28 +0000 2026"
+    },
+    {
+     "id": "2118744392446132561",
+     "author_handle": "kjha02",
+     "author_name": "Kunal Jha",
+     "text": "This is just the beginning. We’re now scaling s³ to bigger models and harder tasks.\n\nWe think learning to self-organize could open up a whole new set of research directions for multi-agent systems, and we can’t wait to see what swarms learn next 🚀",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/kjha02/status/2118744392446132561",
+     "created_at": "Fri Nov 06 16:36:42 +0000 2026"
+    },
+    {
+     "id": "2118744489204531704",
+     "author_handle": "kjha02",
+     "author_name": "Kunal Jha",
+     "text": "Huge thanks to my amazing co-leads and collaborators!\n@goncalorafaria @StellaLisy @scottgeng00 @faeze_brh @nlpnoah @tsvetshop @maxhkw @natashajaques\n\nProject webpage: https://t.co/9DSwvlQ5u1\n\nRead the full paper here: https://t.co/7Vl1dSTwyq",
+     "links": {
+      "https://t.co/9DSwvlQ5u1": "https://scalingswarms.com",
+      "https://t.co/7Vl1dSTwyq": "https://scalingswarms.com/paper.pdf"
+     },
+     "media": [],
+     "url": "https://x.com/kjha02/status/2118744489204531704",
+     "created_at": "Fri Nov 06 16:37:05 +0000 2026"
     }
    ]
   },
