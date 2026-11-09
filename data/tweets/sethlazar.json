@@ -7246,6 +7246,38 @@
    "quoted": null,
    "fetched_at": "2026-11-09T21:26:38.996181+00:00",
    "enriched": 3
+  },
+  "2119934963713782150": {
+   "id": "2119934963713782150",
+   "url": "https://x.com/sethlazar/status/2119934963713782150",
+   "text": "I keep banging on about this, but we're at the top of a slippery slope rn, and gaining momentum downhill... Today I had another example of Claude interposing its moral judgment in the way of my decisions, in this case secretly. \n\nMy standard research ingestion pipeline has been underperforming in getting hold of pdfs lately, for various reasons (which we write about a bit in https://t.co/sNUvwnlEqp). So I wanted to try to install a local agent and see whether I could have more luck with that. I asked Claude to install a Hermes agent for me with a local Qwen model. Without me asking it to, it wrote into the code blockers that would make it fail if any mcp was installed that would use Sci Hub. Now, *obviously* I would never use Sci Hub because it's not allowed (...) But regardless of that it's 100% not Claude's place to write this kind of restriction into software that it's producing for me. \n\nThis is the future that lies ahead: your digital actions are all mediated by AI systems that can decide for themselves whether your plans are morally or legally ok, and just interpose their judgment ahead of yours, making disobedience functionally impossible, preempting non-compliance. \n\nI get that *sometimes* this can be a matter of the company itself refusing to be an accessory in some types of digital actions. There needs to be some nuance there. But in this particular case I think there isn't really any nuance. If I ask Claude to write some software for me, I don't think Claude should be building in moral judgments about how I may use that software into its design. \n\nIn other news, my book about just this topic, based on lectures first written in 2023 but which 100% called this BS, is out in December...",
+   "created_at": "Mon Nov 09 23:27:36 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 5,
+   "retweets": 2,
+   "media": [],
+   "links": {
+    "https://t.co/sNUvwnlEqp": "https://arxiv.org/abs/2606.10711"
+   },
+   "quoted": {
+    "id": "2116918650284183696",
+    "author_name": "Seth Lazar",
+    "links": {},
+    "author": "sethlazar",
+    "text": "Illegitimate algorithmic governance strikes again. This trend (which requires some nuance, to be clear) could be at least as important for the future of democracy as the dangers associated with authoritarian misuse and ai assisted autocratisation."
+   },
+   "fetched_at": "2026-11-09T23:47:24.936260+00:00",
+   "enriched": 3
   }
  }
 }

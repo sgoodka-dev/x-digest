@@ -10471,6 +10471,32 @@
     "created_at": "Mon Nov 09 05:26:23 +0000 2026"
    },
    "enriched": 3
+  },
+  "2119937050355122527": {
+   "id": "2119937050355122527",
+   "url": "https://x.com/deanwball/status/2119937050355122527",
+   "text": "We built Control Room, a central system to track model workloads across our research infrastructure and stop them quickly when safety or security concerns arise.\n\nIt connects every research inference workload, including agentic sampling for model training and evaluation, data processing, and more. This works together with our misalignment monitoring systems, and halts model output within 35 seconds of a decision to intervene to stop or pause a job.\n\nControl Room is just one part of our holistic approach for safe frontier model training and deployment.\n\nhttps://t.co/tc0lBqFdS5",
+   "created_at": "Mon Nov 09 23:35:53 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "OpenAI",
+   "rt_author_name": "OpenAI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+   "rt_id": "2119913172039868579",
+   "likes": 2104,
+   "retweets": 131,
+   "media": [],
+   "links": {
+    "https://t.co/tc0lBqFdS5": "https://openai.com/index/control-room/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-09T23:47:24.936260+00:00",
+   "enriched": 3
   }
  }
 }

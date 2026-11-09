@@ -7678,6 +7678,433 @@
    "quoted": null,
    "fetched_at": "2026-11-09T21:26:38.996181+00:00",
    "enriched": 3
+  },
+  "2119927794067194310": {
+   "id": "2119927794067194310",
+   "url": "https://x.com/theobearman/status/2119927794067194310",
+   "text": "Where I could be wrong (and would be happy to be!): https://t.co/MqGPKbMJMf",
+   "created_at": "Mon Nov 09 22:59:07 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "theobearman",
+   "reply_to_id": "2119919566356726205",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/MqGPKbMJMf": "https://x.com/goodfaithonly/status/2119926150659203084?a=CEG01DWGXU8XqDQCHxU&s=46"
+   },
+   "quoted": {
+    "id": "2119926150659203084",
+    "author_name": "Avi Brach-Neuefeld",
+    "links": {
+     "https://t.co/H5MNApH2ap": ""
+    },
+    "author": "GoodFaithOnly",
+    "text": "@theobearman Maybe, although this line from the same section seems to say that they are evaluating ceiling across snapshots. I would love if @MaskedTorah or someone else from Anthropic would clarify. https://t.co/H5MNApH2ap"
+   },
+   "fetched_at": "2026-11-09T23:47:24.936260+00:00",
+   "parent": {
+    "id": "2119919566356726205",
+    "author_handle": "theobearman",
+    "author_name": "Theo Bearman",
+    "text": "Update: Anthropic is “nerfing for thee but not for me.”\n\nIt seems pretty clear when you read pages 39-43 of the system card together with the recent METR report, if Model 3 Early (which looks like the non-AI R&D nerfed checkpoint of Mythos 5.2 METR assessed as part of its investigation) had been the production/final checkpoint of Mythos 5.2, then Mythos 5.2 would have breached the Autonomy 2 threshold based on the “dramatic acceleration of overall AI R&D progress” condition.\n\nTherefore, the only reason why Anthropic are not (yet) confirming they have a customer-accessible model that has breached this capability threshold is because it intentionally nerfed said model to keep it under said threshold.\n\nI anticipate this is what we will hear from @Sam_McCandlish when we hear from him in the coming weeks. Transparency really matters right now.\n\nhttps://t.co/cdUd1Gdk2v",
+    "links": {
+     "https://t.co/cdUd1Gdk2v": "https://x.com/theobearman/status/2118440592149815405"
+    },
+    "media": [],
+    "url": "https://x.com/theobearman/status/2119919566356726205",
+    "created_at": "Mon Nov 09 22:26:25 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2119926923849601111": {
+   "id": "2119926923849601111",
+   "url": "https://x.com/theobearman/status/2119926923849601111",
+   "text": "@GoodFaithOnly @MaskedTorah Yeah that would be good. If Anthropic unambiguously said in that section of the card that its overall judgement of the relevant threshold not being crossed was made with reference to all relevant snapshots, I would feel less confident in my claims about this specific model family.",
+   "created_at": "Mon Nov 09 22:55:39 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "GoodFaithOnly",
+   "reply_to_id": "2119926150659203084",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-09T23:47:24.936260+00:00",
+   "parent": {
+    "id": "2119926150659203084",
+    "author_handle": "GoodFaithOnly",
+    "author_name": "Avi Brach-Neuefeld",
+    "text": "@theobearman Maybe, although this line from the same section seems to say that they are evaluating ceiling across snapshots. I would love if @MaskedTorah or someone else from Anthropic would clarify. https://t.co/H5MNApH2ap",
+    "links": {
+     "https://t.co/H5MNApH2ap": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWt9J2aXYAAgwDl.jpg"
+     }
+    ],
+    "url": "https://x.com/GoodFaithOnly/status/2119926150659203084",
+    "created_at": "Mon Nov 09 22:52:35 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2119925960845783432": {
+   "id": "2119925960845783432",
+   "url": "https://x.com/theobearman/status/2119925960845783432",
+   "text": "Pretty cool setup. Still relies on the monitoring systems working well and inference workloads outside the Control Room’s coverage not being spun up/overlooked, but this system will hopefully limit the blast radius when things go wrong (conditional on the above).",
+   "created_at": "Mon Nov 09 22:51:50 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2119913172039868579",
+    "author_name": "OpenAI",
+    "links": {
+     "https://t.co/tc0lBqFdS5": "https://openai.com/index/control-room/"
+    },
+    "author": "OpenAI",
+    "text": "We built Control Room, a central system to track model workloads across our research infrastructure and stop them quickly when safety or security concerns arise.\n\nIt connects every research inference workload, including agentic sampling for model training and evaluation, data processing, and more. This works together with our misalignment monitoring systems, and halts model output within 35 seconds of a decision to intervene to stop or pause a job.\n\nControl Room is just one part of our holistic approach for safe frontier model training and deployment.\n\nhttps://t.co/tc0lBqFdS5"
+   },
+   "fetched_at": "2026-11-09T23:47:24.936260+00:00",
+   "enriched": 3
+  },
+  "2119923195406954940": {
+   "id": "2119923195406954940",
+   "url": "https://x.com/theobearman/status/2119923195406954940",
+   "text": "We built Control Room, a central system to track model workloads across our research infrastructure and stop them quickly when safety or security concerns arise.\n\nIt connects every research inference workload, including agentic sampling for model training and evaluation, data processing, and more. This works together with our misalignment monitoring systems, and halts model output within 35 seconds of a decision to intervene to stop or pause a job.\n\nControl Room is just one part of our holistic approach for safe frontier model training and deployment.\n\nhttps://t.co/tc0lBqFdS5",
+   "created_at": "Mon Nov 09 22:40:50 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "OpenAI",
+   "rt_author_name": "OpenAI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+   "rt_id": "2119913172039868579",
+   "likes": 2105,
+   "retweets": 131,
+   "media": [],
+   "links": {
+    "https://t.co/tc0lBqFdS5": "https://openai.com/index/control-room/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-09T23:47:24.936260+00:00",
+   "enriched": 3
+  },
+  "2119923178860622252": {
+   "id": "2119923178860622252",
+   "url": "https://x.com/theobearman/status/2119923178860622252",
+   "text": "President Trump reveals he spoke to Nvidia's Jensen Huang today to see if he was feeling all right: “He said, I had no idea that she was a spy. And I really believe him”\n\nQ: “In sticking with Jensen Huang, when you went to China earlier this year in May, did you know about these alleged ties to the Chinese by then?”\n\nTRUMP: “No. I didn’t hear about it then. But a lot of people have heard about it, and Jensen totally denies that. I asked him today because I did speak to him today just to see if he’s feeling all right, how you doing? And I asked him about that. And he had, He said he had absolutely no idea that the person in question was a spy.”\n\nQ: “Are you concerned about that?”\n\nTRUMP: “I asked him that question. Did you have any idea that she was a spy? He said, I had no idea that she was a spy. And I really believe him.”",
+   "created_at": "Mon Nov 09 22:40:46 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "firesidealpha",
+   "rt_author_name": "Fireside Alpha",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2066254089756061697/MGnZGljz_normal.jpg",
+   "rt_id": "2119916350974091410",
+   "likes": 113,
+   "retweets": 21,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2119915886471708672/img/oDrjFaT18X9N9s8K.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/dQyfmqAPSh": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-09T23:47:24.936260+00:00",
+   "enriched": 3
+  },
+  "2119922992247722375": {
+   "id": "2119922992247722375",
+   "url": "https://x.com/theobearman/status/2119922992247722375",
+   "text": "Claude Fable 5.2 sets a new record on the Epoch Capabilities Index (ECI) at 174. The previous high was GPT-6 Astra’s 169. Fable 5.2’s score is above what the pre-Astra trend for reasoning models would have predicted.\n\nThis is notable given recent discussion of AI contributions to AI R&D, and we hope to release more work in this area soon.\n\nThis is based on testing we did prior to launch using only our own benchmarks. The ECI is continually updated as more benchmark results become available, and may change in the future.",
+   "created_at": "Mon Nov 09 22:40:02 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "EpochAIResearch",
+   "rt_author_name": "Epoch AI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1866142753127616512/DYcE9bN1_normal.jpg",
+   "rt_id": "2119903415363113088",
+   "likes": 780,
+   "retweets": 85,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWto7BnaEAAcolF.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/0OVlxw5W1j": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-09T23:47:24.936260+00:00",
+   "enriched": 3
+  },
+  "2119922772432310392": {
+   "id": "2119922772432310392",
+   "url": "https://x.com/theobearman/status/2119922772432310392",
+   "text": "@GoodFaithOnly I think if Anthropic’s holistic assessment of Mythos 5.2 also applied to Model 3 Early then they would have said so. Why would they not when they stated in the card that Model 3 Early was more capable on AI R&D and head off the concern. I also think we have to keep what METR said in their investigation front of mind too, as well as what they said in the S1.",
+   "created_at": "Mon Nov 09 22:39:09 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "GoodFaithOnly",
+   "reply_to_id": "2119918148417699918",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-09T23:47:24.936260+00:00",
+   "parent": {
+    "id": "2119918148417699918",
+    "author_handle": "GoodFaithOnly",
+    "author_name": "Avi Brach-Neuefeld",
+    "text": "@theobearman It's not super clear to me. Anthropic ultimately relies on a holistic judgement that might apply to Model 3 early as well as Mythos 5.2. I'm also a little hesitant here because I think if Anthropic really would count Model 3 early as breaching the threshold and didn't disclose that fact, I would find that unacceptably deceptive given that the risk is primarily internally facing!",
+    "links": {
+     "https://t.co/qwJhGRyznt": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWt1coSWkAAM1WM.jpg"
+     }
+    ],
+    "url": "https://x.com/GoodFaithOnly/status/2119918148417699918",
+    "created_at": "Mon Nov 09 22:20:47 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2119919566356726205": {
+   "id": "2119919566356726205",
+   "url": "https://x.com/theobearman/status/2119919566356726205",
+   "text": "Update: Anthropic is “nerfing for thee but not for me.”\n\nIt seems pretty clear when you read pages 39-43 of the system card together with the recent METR report, if Model 3 Early (which looks like the non-AI R&D nerfed checkpoint of Mythos 5.2 METR assessed as part of its investigation) had been the production/final checkpoint of Mythos 5.2, then Mythos 5.2 would have breached the Autonomy 2 threshold based on the “dramatic acceleration of overall AI R&D progress” condition.\n\nTherefore, the only reason why Anthropic are not (yet) confirming they have a customer-accessible model that has breached this capability threshold is because it intentionally nerfed said model to keep it under said threshold.\n\nI anticipate this is what we will hear from @Sam_McCandlish when we hear from him in the coming weeks. Transparency really matters right now.\n\nhttps://t.co/cdUd1Gdk2v",
+   "created_at": "Mon Nov 09 22:26:25 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 19,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/cdUd1Gdk2v": "https://x.com/theobearman/status/2118440592149815405"
+   },
+   "quoted": {
+    "id": "2119872427291488494",
+    "author_name": "Theo Bearman",
+    "links": {
+     "https://t.co/ni7xTZApke": ""
+    },
+    "author": "theobearman",
+    "text": "Anthropic took steps to nerf the models’ AI R&amp;D capabilities during training. Very interesting to see. https://t.co/ni7xTZApke"
+   },
+   "fetched_at": "2026-11-09T23:47:24.936260+00:00",
+   "linked": [
+    {
+     "id": "2118440592149815405",
+     "author_handle": "theobearman",
+     "author_name": "Theo Bearman",
+     "text": "ANTHROPIC’S RESPONSIBLE SCALING OFFICER: “In the coming weeks, we plan to share a report with our own analysis of the speed of AI progress within Anthropic, including where we stand against our Responsible Scaling Policy, plus new steps we’re taking to strengthen our safety and security practices as AI keeps improving quickly.”",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/theobearman/status/2118440592149815405",
+     "created_at": "Thu Nov 05 20:29:30 +0000 2026"
+    }
+   ],
+   "thread": [
+    {
+     "id": "2119927794067194310",
+     "author_handle": "theobearman",
+     "author_name": "Theo Bearman",
+     "text": "Where I could be wrong (and would be happy to be!): https://t.co/MqGPKbMJMf",
+     "links": {
+      "https://t.co/MqGPKbMJMf": "https://x.com/goodfaithonly/status/2119926150659203084?a=CEG01DWGXU8XqDQCHxU&s=46"
+     },
+     "media": [],
+     "url": "https://x.com/theobearman/status/2119927794067194310",
+     "created_at": "Mon Nov 09 22:59:07 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2119916423136874636": {
+   "id": "2119916423136874636",
+   "url": "https://x.com/theobearman/status/2119916423136874636",
+   "text": "@GoodFaithOnly It seems pretty clear to me that when you read pages 39-43 of the system card together with the METR investigation, if Model 3 early was the production checkpoint of Mythos 5.2, it would have breached the Autonomy 2 threshold based on the dramatic acceleration of overall AI R&D progress condition.",
+   "created_at": "Mon Nov 09 22:13:56 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "GoodFaithOnly",
+   "reply_to_id": "2119883474161258732",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-09T23:47:24.936260+00:00",
+   "parent": {
+    "id": "2119883474161258732",
+    "author_handle": "GoodFaithOnly",
+    "author_name": "Avi Brach-Neuefeld",
+    "text": "@theobearman Anthropic should clarify whether the reason Mythos 5.2 doesn’t cross the RSP AI R&amp;D dramatic acceleration threshold is because of this nerfing (which I'd guess their internal snapshots would not have).",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/GoodFaithOnly/status/2119883474161258732",
+    "created_at": "Mon Nov 09 20:03:00 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2119914304761696307": {
+   "id": "2119914304761696307",
+   "url": "https://x.com/theobearman/status/2119914304761696307",
+   "text": "Also interesting to note that METR was brought in nearly 7 weeks ago to carry out “pre-deployment evaluations” of the AI R&D relevant capabilities in a Mythos 5.2 snapshot. I’m going to assume this was at the pre-internal deployment stage, given the snapshot was not AI R&D nerfed.",
+   "created_at": "Mon Nov 09 22:05:31 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWtyvNdXcAA84Ou.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/dQsCL0fd38": ""
+   },
+   "quoted": {
+    "id": "2119911952575283371",
+    "author_name": "Tyler John",
+    "links": {},
+    "author": "tyler_m_john",
+    "text": "Retracted: based on scattered bits of information I now think that Anthropic employees have access to a more AI-R&D-capable model than Mythos 5.2 as described in the system card. Page 39 of the system card describes a snapshot of 5.2 with higher R&D capabilities. Page 40 of the system card names it \"Model 3 Early.\" METR plots \"Model 3 Early\" in September 2026 on an axis labeled “Date snapshot available to most Anthropic employees.\" So this suggests that the snapshot was available to most employees.\n\n[previous]\nThis is impressive. Some unilateral AI R&D pacing from Anthropic. Even their internal models are apparently nerfed."
+   },
+   "fetched_at": "2026-11-09T23:47:24.936260+00:00",
+   "enriched": 3
+  },
+  "2119912362283290663": {
+   "id": "2119912362283290663",
+   "url": "https://x.com/theobearman/status/2119912362283290663",
+   "text": "Retracted: based on scattered bits of information I now think that Anthropic employees have access to a more AI-R&D-capable model than Mythos 5.2 as described in the system card. Page 39 of the system card describes a snapshot of 5.2 with higher R&D capabilities. Page 40 of the system card names it \"Model 3 Early.\" METR plots \"Model 3 Early\" in September 2026 on an axis labeled “Date snapshot available to most Anthropic employees.\" So this suggests that the snapshot was available to most employees.\n\n[previous]\nThis is impressive. Some unilateral AI R&D pacing from Anthropic. Even their internal models are apparently nerfed.",
+   "created_at": "Mon Nov 09 21:57:47 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "tyler_m_john",
+   "rt_author_name": "Tyler John",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2031125245084712960/OORFbzMI_normal.jpg",
+   "rt_id": "2119911952575283371",
+   "likes": 23,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-09T23:47:24.936260+00:00",
+   "enriched": 3
+  },
+  "2119908872173527537": {
+   "id": "2119908872173527537",
+   "url": "https://x.com/theobearman/status/2119908872173527537",
+   "text": "1/The UK’s @AISecurityInst conducted pre-deployment testing of Anthropic’s Mythos 5.2, and you can see their results summarised in Mythos 5.2’s system card. \n\nA reminder that, in AISI, the UK has built something genuinely world-class.",
+   "created_at": "Mon Nov 09 21:43:55 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "KanishkaNarayan",
+   "rt_author_name": "Kanishka Narayan MP",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1995387963962806272/oi2v0V2L_normal.jpg",
+   "rt_id": "2119904433920528447",
+   "likes": 313,
+   "retweets": 35,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-09T23:47:24.936260+00:00",
+   "enriched": 3
   }
  }
 }

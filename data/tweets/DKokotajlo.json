@@ -5379,6 +5379,51 @@
    "quoted": null,
    "fetched_at": "2026-11-09T21:26:38.996181+00:00",
    "enriched": 3
+  },
+  "2119909308003754247": {
+   "id": "2119909308003754247",
+   "url": "https://x.com/DKokotajlo/status/2119909308003754247",
+   "text": "Toby’s analysis totally misses the point here IMO. He’s right that the graph of capabilities over time could be explained as a one-off jump in capabilities from the Mythos pretrain. But that graph is not the main reason why METR thinks AI R&D is now sped up 1.7x by AI. The graph is just the only part of their analysis that wasn’t redacted.\n\nThey say that “a majority (perhaps ≈80%) of the current (October 2026) acceleration is due to AI”, based on “a variety of lines of evidence on contributions from AI and other causes”, after saying that “[t]he acceleration in late 2025 was likely influenced by non-AI factors.”\n\nMETR’s report makes it clear that they considered Toby’s hypothesis and rejected it for redacted reasons, rather than failing to consider it, in the appendix \"New internal models make a permanent slope change look more plausible than a one-time jump at Mythos Preview.\"\n\nIt totally makes sense to worry that METR’s analysis is wrong. It’s definitely unfortunate that the main evidence they were allowed to share does not suffice to demonstrate their point, for this reason among others. But I don’t think it makes sense to consider Toby’s argument a knockdown argument against the report’s conclusion, because the conclusion wasn’t mostly derived from the observations whose interpretation Toby disputes.\n\nSee https://t.co/WNBLBd8bs6",
+   "created_at": "Mon Nov 09 21:45:39 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "bshlgrs",
+   "rt_author_name": "Buck Shlegeris",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2089060675234791424/EqZuDatG_normal.jpg",
+   "rt_id": "2119255143439048733",
+   "likes": 264,
+   "retweets": 25,
+   "media": [],
+   "links": {
+    "https://t.co/WNBLBd8bs6": "https://x.com/METR_Evals/status/2118412189833085248"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-09T23:47:24.936260+00:00",
+   "linked": [
+    {
+     "id": "2118412189833085248",
+     "author_handle": "METR_Evals",
+     "author_name": "METR",
+     "text": "Anthropic shared extensive evidence across its AI R&amp;D pipeline, from pretraining to RL, including key details like estimates of algorithmic progress over time. We found this nonpublic evidence highly informative about AI R&amp;D acceleration. https://t.co/V0KTYjjGaq",
+     "links": {
+      "https://t.co/V0KTYjjGaq": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWYa5p6aAAASBIq.jpg"
+      }
+     ],
+     "url": "https://x.com/METR_Evals/status/2118412189833085248",
+     "created_at": "Thu Nov 05 18:36:38 +0000 2026"
+    }
+   ],
+   "enriched": 3
   }
  }
 }
