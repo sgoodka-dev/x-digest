@@ -29,9 +29,10 @@ THREAD_HINT = re.compile(r"🧵|👇|\ba thread\b|^thread\b|(?:^|\s)\(?1\s?/\s?\
 DAYS = 6
 MAX_RESOLVE = 600      # t.co lookups per run
 MAX_FETCH = 300        # linked + parent tweets fetched per run
-MAX_THREADS = 40       # thread lookups per run
+MAX_THREADS = 20       # threads walked per run
+MAX_THREAD_CALLS = 12  # API calls per thread (one per post, roughly)
 MAX_THREAD_LEN = 25
-VERSION = 2
+VERSION = 3
 
 _cache = {}
 
@@ -72,23 +73,37 @@ def slim(t):
                                   "links", "media", "url", "created_at")}
 
 
-def author_chain(tweets, root_id, author):
-    """Follow the author's own replies down from root_id: the thread."""
+def _next_post(pool, cur, author, seen):
+    """The author's own reply to tweet `cur`, if we've seen one."""
+    cands = [t for t in pool.values()
+             if (t.get("author_handle") or "").lower() == author
+             and t.get("reply_to_id") == cur and t["id"] not in seen]
+    cands.sort(key=lambda t: parse_created(t.get("created_at")) or now_utc())
+    return cands[0] if cands else None
+
+
+def author_chain(provider, root_id, author):
+    """Walk down the author's own replies from root_id: the thread.
+    The API returns a tweet's direct replies, so we step one post at a time."""
     author = (author or "").lower()
-    by_parent = {}
-    for t in tweets:
-        if (t.get("author_handle") or "").lower() == author and t.get("reply_to_id"):
-            by_parent.setdefault(t["reply_to_id"], []).append(t)
-    chain, cur, seen = [], root_id, {root_id}
+    pool, chain, cur, seen, calls = {}, [], root_id, {root_id}, 0
     while len(chain) < MAX_THREAD_LEN:
-        nxt = sorted(by_parent.get(cur, []),
-                     key=lambda t: parse_created(t.get("created_at")) or now_utc())
-        nxt = [t for t in nxt if t["id"] not in seen]
+        nxt = _next_post(pool, cur, author, seen)
         if not nxt:
-            break
-        chain.append(slim(nxt[0]))
-        cur = nxt[0]["id"]
+            if calls >= MAX_THREAD_CALLS:
+                break
+            calls += 1
+            for t in provider.fetch_thread(cur, max_pages=2):
+                if t.get("id"):
+                    pool.setdefault(t["id"], t)
+            nxt = _next_post(pool, cur, author, seen)
+            if not nxt:
+                break
+        chain.append(slim(nxt))
+        cur = nxt["id"]
         seen.add(cur)
+    print(f"  thread {root_id} @{author}: {len(chain)} more posts "
+          f"({calls} calls, {len(pool)} tweets seen)")
     return chain
 
 
@@ -162,7 +177,7 @@ def main():
             continue
         root = t.get("rt_id") if t.get("is_retweet") else t.get("id")
         author = t.get("rt_author") if t.get("is_retweet") else t.get("author_handle")
-        if not root or "thread" in t:
+        if not root:
             continue
         if not (THREAD_HINT.search(t.get("text") or "")
                 or ((author or "").lower(), root) in self_replied):
@@ -172,8 +187,7 @@ def main():
             continue
         threads += 1
         try:
-            convo = provider.fetch_thread(root)
-            chain = author_chain(convo, root, author)
+            chain = author_chain(provider, root, author)
             for c in chain:
                 fill_links(c.get("text"), c.setdefault("links", {}) or {}, budget)
             t["thread"] = chain
