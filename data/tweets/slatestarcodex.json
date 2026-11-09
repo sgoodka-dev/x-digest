@@ -2798,6 +2798,113 @@
     "url": "https://x.com/ruben_bloom/status/2118597440882585927",
     "created_at": "Fri Nov 06 06:52:46 +0000 2026"
    }
+  },
+  "2119810989646647612": {
+   "id": "2119810989646647612",
+   "url": "https://x.com/slatestarcodex/status/2119810989646647612",
+   "text": "@SashaGusevPosts @quetzal_rainbow @RYChappell See  https://t.co/TgJYxoxYvY",
+   "created_at": "Mon Nov 09 15:14:58 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "SashaGusevPosts",
+   "reply_to_id": "2119463606932918559",
+   "avatar": "https://pbs.twimg.com/profile_images/378800000009065862/83d72de47e2a2470c482bc75406b42a7_normal.png",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/TgJYxoxYvY": "https://slatestarcodex.com/2013/05/02/if-its-worth-doing-its-worth-doing-with-made-up-statistics/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-09T16:35:46.204056+00:00",
+   "parent": {
+    "id": "2119463606932918559",
+    "author_handle": "SashaGusevPosts",
+    "author_name": "Sasha Gusev",
+    "text": "@quetzal_rainbow @RYChappell I don't think so. Dario just pulled out a 2-3x multiplier for adult experience from thin air and EAs have spent the past week defending his rigor and transparency.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/SashaGusevPosts/status/2119463606932918559",
+    "created_at": "Sun Nov 08 16:14:36 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2119810663182930414": {
+   "id": "2119810663182930414",
+   "url": "https://x.com/slatestarcodex/status/2119810663182930414",
+   "text": "@PlatosTrojanH @itaisher Your claim suggests that saving an egg cell is just as important as saving an adult, since the egg cell is capable of \"becoming\" an adult.",
+   "created_at": "Mon Nov 09 15:13:40 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "PlatosTrojanH",
+   "reply_to_id": "2119491057528557754",
+   "avatar": "https://pbs.twimg.com/profile_images/378800000009065862/83d72de47e2a2470c482bc75406b42a7_normal.png",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-09T16:35:46.204056+00:00",
+   "parent": {
+    "id": "2119491057528557754",
+    "author_handle": "PlatosTrojanH",
+    "author_name": "Plato's Trojan Horse",
+    "text": "@itaisher Unless the bullshit number makes you arrive at the wrong conclusions. If your intuition is more correct than the bullshit number, then the bullshit number is worse.\n\nIt looks like he said saving adults is better because an adult is more capable of a rich experience. But the children become adults, so the children are also capable of a rich experience. Additionally the adults may very likely be people who do not have rich experience. The people with TB may be people who are disproportionately likely not to have rich experience. \n\nIf the natural intuition is to save the children and that is correct based on more accurate \"numbers\" (much of this analysis is qualitative and not quantitative), then the intuition was a better guide.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/PlatosTrojanH/status/2119491057528557754",
+    "created_at": "Sun Nov 08 18:03:41 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2119810306050535756": {
+   "id": "2119810306050535756",
+   "url": "https://x.com/slatestarcodex/status/2119810306050535756",
+   "text": "@Dr_Atoosa @itaisher I'll defend this - see https://t.co/f5DUSP8YYl\n\nIt's usually better to try quantifying things and then do sensitivity analyses with your estimates than to refuse to try to think clearly at all, which will usually result in laundering your biases, stereotypes, and fears that other people will judge you if you get \"the wrong\" answer.\n\nA good example of this is scope insensitivity (see https://t.co/D2HuL7bdvQ)  where people who avoid using numbers will place values on things which fail common-sense rules (for example, they'll say that helping 1,000 birds has exactly the same value as saving 10,000 birds). Any attempt to quantify anything at any point in the estimation process could prevent that failure mode. There are dozens of other things like this, and you can check for all of them by the basic mental hygiene of quantifying your intuitions and then running them through some sanity checks.",
+   "created_at": "Mon Nov 09 15:12:15 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "Dr_Atoosa",
+   "reply_to_id": "2119739718531166462",
+   "avatar": "https://pbs.twimg.com/profile_images/378800000009065862/83d72de47e2a2470c482bc75406b42a7_normal.png",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 102,
+   "retweets": 2,
+   "media": [],
+   "links": {
+    "https://t.co/f5DUSP8YYl": "https://slatestarcodex.com/2013/05/02/if-its-worth-doing-its-worth-doing-with-made-up-statistics/",
+    "https://t.co/D2HuL7bdvQ": "https://en.wikipedia.org/wiki/Scope_neglect"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-09T16:35:46.204056+00:00",
+   "parent": {
+    "id": "2119739718531166462",
+    "author_handle": "Dr_Atoosa",
+    "author_name": "Atoosa Kasirzadeh",
+    "text": "Thanks for saying this out loud, @itaisher ! In many circles (including, though certainly not limited to, EAs), people are conditioned to treat \"empirical numbers\" as an inherent, objective good. This come from an obsession with metrics (showing numbers is better than no numbers when making a point), independent of whether they are well or poorly generated. What follows from these shaky numerical assertions is a massive waste of time and energy spent justifying or debunking them, pulling many down an unproductive rabbit hole. I'm still not sure how best to counter this often dangerous bias.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/Dr_Atoosa/status/2119739718531166462",
+    "created_at": "Mon Nov 09 10:31:46 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

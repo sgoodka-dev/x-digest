@@ -12018,6 +12018,36 @@
    "quoted": null,
    "fetched_at": "2026-11-09T14:02:18.898653+00:00",
    "enriched": 3
+  },
+  "2119806063155261477": {
+   "id": "2119806063155261477",
+   "url": "https://x.com/s8mb/status/2119806063155261477",
+   "text": "Write for us – we are looking for deep, interesting longreads in business and finance. Details below.",
+   "created_at": "Mon Nov 09 14:55:24 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 33,
+   "retweets": 3,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2119803792413581552",
+    "author_name": "Mike Bird",
+    "links": {},
+    "author": "Birdyword",
+    "text": "We're looking for business writers!\n\nWorks in Progress is expanding into coverage of business and finance, and we're looking for freelance authors for extended feature-length pieces of 2,000-6,000 words. We will eventually be hiring full-time employees on this beat.\n\nFind the most interesting company in the world, a brilliant financial model, or a telling and relevant piece of business history. Tell us why we should be fascinated by it too.\n\nIt could be the geography of an industry, like how Morocco grew to become an massive exporter of cars, or why Bangladesh can do in electronics what it has done with its massive textiles industry. It might be a piece on a new kind of business, like the firms trying to perfect proof of personhood in a world of super-powerful AI. You could write about unsung but vital pieces of hardware, like compressed air and industrial gas, which keep the most advanced manufacturing sites in the world going.\n\nThe subject can be lighthearted or momentous, but the piece should cover something you haven't seen everywhere else, which advances an argument and marshals strong evidence. It should be relevant to a broad group of intelligent readers, and enduring rather than short-lived. And we're absolutely definitely not looking for traditional PR pitches. A sense that you've read and understand something about WIP's output goes a long way.\n\nIf this sounds like your kind of thing, please send us 1-3 short paragraphs summing up your idea. If we're intrigued by your idea we may ask you for an outline over a page or two. We pay competitive rates to authors.\n\nEmail us at wip-pitches@stripe.com and mike@worksinprogress.co."
+   },
+   "fetched_at": "2026-11-09T16:35:46.204056+00:00",
+   "enriched": 3
   }
  }
 }

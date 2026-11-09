@@ -7302,6 +7302,30 @@
    "quoted": null,
    "fetched_at": "2026-11-09T14:02:18.898653+00:00",
    "enriched": 3
+  },
+  "2119825771321491813": {
+   "id": "2119825771321491813",
+   "url": "https://x.com/theobearman/status/2119825771321491813",
+   "text": "NVIDIA’s CEO just confirmed a relationship with a suspected Chinese spy. \n\nCongress is back today. We have legislation ready to go to stop advanced AI chips from fueling China’s military. \n\nLet’s get this done.",
+   "created_at": "Mon Nov 09 16:13:42 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "SenWarren",
+   "rt_author_name": "Elizabeth Warren",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2099945341537718272/Ss8Yj842_normal.jpg",
+   "rt_id": "2119812871714734470",
+   "likes": 573,
+   "retweets": 158,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-09T16:35:46.204056+00:00",
+   "enriched": 3
   }
  }
 }
