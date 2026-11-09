@@ -1803,7 +1803,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118017391846433197",
+    "author_handle": "AtletiRoma",
+    "author_name": "Sa",
+    "text": "@Lewis_Bollard Marshall dropped his sponsorship to be fair",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/AtletiRoma/status/2118017391846433197",
+    "created_at": "Wed Nov 04 16:27:51 +0000 2026"
+   }
   },
   "2118018958465105974": {
    "id": "2118018958465105974",
@@ -1832,7 +1842,24 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118016977432461455",
+    "author_handle": "Lewis_Bollard",
+    "author_name": "Lewis Bollard",
+    "text": "Some great news for factory-farmed pigs last night.\n\nIn Iowa and Kansas, voters rejected the lead sponsors of the Save Our Bacon Act in both the House and Senate: Rep. Ashley Hinson and Sen. Roger Marshall.\n\nThese were the politicians who did the pork lobby’s bidding and tried to wipe out every state ban on selling pork from crated pigs.\n\nYet even in two of the most pro-agriculture states in the country, it cost them more votes than it won them.\n\nThe politicians who follow the factory farming lobby aren’t as safe as they thought.",
+    "links": {
+     "https://t.co/DeueEz2NEw": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWS07nqaoAArnvz.jpg"
+     }
+    ],
+    "url": "https://x.com/Lewis_Bollard/status/2118016977432461455",
+    "created_at": "Wed Nov 04 16:26:12 +0000 2026"
+   }
   },
   "2118016977432461455": {
    "id": "2118016977432461455",
@@ -1861,7 +1888,26 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118018958465105974",
+     "author_handle": "Lewis_Bollard",
+     "author_name": "Lewis Bollard",
+     "text": "Factory-farmed ducks and geese won last night too.\n\nDenver and Washington DC both voted to ban the sale of foie gras — by wide margins.\n\nFoie gras is produced by force-feeding birds through metal tubes until their livers expand to ten times their natural size.\n\nIn DC, the political elite — from Jose Andres to Mayor Muriel Bowser — opposed the measure as a distraction from the Big Serious issues they care about.\n\nDC voters disagreed.",
+     "links": {
+      "https://t.co/XwlqNQUNdc": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWS29XIaMAIPy1r.jpg"
+      }
+     ],
+     "url": "https://x.com/Lewis_Bollard/status/2118018958465105974",
+     "created_at": "Wed Nov 04 16:34:05 +0000 2026"
+    }
+   ]
   }
  }
 }

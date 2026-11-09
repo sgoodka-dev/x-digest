@@ -2717,7 +2717,7 @@
    "quoted": null,
    "fetched_at": "2026-11-03T18:27:19.395380+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117394374883746179": {
    "id": "2117394374883746179",
@@ -2777,7 +2777,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118116186936524934": {
    "id": "2118116186936524934",
@@ -2806,7 +2806,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118116177851580839": {
    "id": "2118116177851580839",
@@ -2837,7 +2837,7 @@
    "links": {
     "https://t.co/hGGrb46yNC": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118450950079713336": {
    "id": "2118450950079713336",
@@ -2864,7 +2864,25 @@
     "https://t.co/LH20ZKCYp3": "https://dwarkesh.com/p/clocktower",
     "https://t.co/3KOIctPkEo": "https://youtu.be/1NQwfImTseU"
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118449808402681911",
+    "author_handle": "dwarkesh_sp",
+    "author_name": "Dwarkesh Patel",
+    "text": "I spent 20,000 dollars in API credits having different AI models play each other at Blood on the Clocktower (a Mafia or Werewolf type social deception game).\n\nThe results were fascinating. Models have gotten much better over the course of this year at creative on-the-spot scheming and bluffing, and also at reasoning as a team to break apart these underground conspiracies.\n\nI go through some of the most standout games these AIs played in this video. The new models are getting pretty good.  If my friends pulled off some of these moves while we were playing, I’d give them a fist bump.\n\nFwiw, OpenAI’s newer models are much better than Anthropic’s at this game.\n\nYou can see the full benchmark at the website, and I’ve also made it so that you and your friends can play again the AIs: https://t.co/IF4d0EMSD8",
+    "links": {
+     "https://t.co/IF4d0EMSD8": "http://clocktowerbench.com",
+     "https://t.co/35ym1NcVDL": ""
+    },
+    "media": [
+     {
+      "type": "video",
+      "url": "https://pbs.twimg.com/media/HWZY5oDWIAAiAi4.jpg"
+     }
+    ],
+    "url": "https://x.com/dwarkesh_sp/status/2118449808402681911",
+    "created_at": "Thu Nov 05 21:06:07 +0000 2026"
+   }
   },
   "2118449808402681911": {
    "id": "2118449808402681911",
@@ -2895,7 +2913,22 @@
    "links": {
     "https://t.co/IF4d0EMSD8": "https://clocktowerbench.com/"
    },
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118450950079713336",
+     "author_handle": "dwarkesh_sp",
+     "author_name": "Dwarkesh Patel",
+     "text": "Substack: https://t.co/LH20ZKCYp3\n\nYoutube: https://t.co/3KOIctPkEo",
+     "links": {
+      "https://t.co/LH20ZKCYp3": "https://dwarkesh.com/p/clocktower",
+      "https://t.co/3KOIctPkEo": "https://youtu.be/1NQwfImTseU"
+     },
+     "media": [],
+     "url": "https://x.com/dwarkesh_sp/status/2118450950079713336",
+     "created_at": "Thu Nov 05 21:10:40 +0000 2026"
+    }
+   ]
   },
   "2118422975842283996": {
    "id": "2118422975842283996",
@@ -2926,7 +2959,7 @@
    "links": {
     "https://t.co/sX2FBYpUfZ": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118575364792569945": {
    "id": "2118575364792569945",
@@ -2957,7 +2990,7 @@
    "links": {
     "https://t.co/cnfu0gcNtu": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118570995359662181": {
    "id": "2118570995359662181",
@@ -2981,7 +3014,24 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118514804189233568",
+    "author_handle": "polynoamial",
+    "author_name": "Noam Brown",
+    "text": "Honestly quite impressed with the methodology on this benchmark. @dwarkesh_sp want a job designing evals at @OpenAI? https://t.co/cnfu0gcNtu",
+    "links": {
+     "https://t.co/cnfu0gcNtu": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWZ5_MjbsAAi6FN.jpg"
+     }
+    ],
+    "url": "https://x.com/polynoamial/status/2118514804189233568",
+    "created_at": "Fri Nov 06 01:24:24 +0000 2026"
+   }
   },
   "2118506486708294139": {
    "id": "2118506486708294139",
@@ -3007,7 +3057,24 @@
    "links": {
     "https://t.co/U3M387AbXQ": "https://www.youtube.com/watch?v=1NQwfImTseU"
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118506296735600824",
+    "author_handle": "dwarkesh_sp",
+    "author_name": "Dwarkesh Patel",
+    "text": "The best game I watched the AIs play: https://t.co/y3kJecZQxq",
+    "links": {
+     "https://t.co/y3kJecZQxq": ""
+    },
+    "media": [
+     {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2118505115099500544/img/hMQvMn8vs7_aY7t6.jpg"
+     }
+    ],
+    "url": "https://x.com/dwarkesh_sp/status/2118506296735600824",
+    "created_at": "Fri Nov 06 00:50:35 +0000 2026"
+   }
   },
   "2118506296735600824": {
    "id": "2118506296735600824",
@@ -3044,7 +3111,21 @@
    "links": {
     "https://t.co/y3kJecZQxq": ""
    },
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118506486708294139",
+     "author_handle": "dwarkesh_sp",
+     "author_name": "Dwarkesh Patel",
+     "text": "Full video: https://t.co/U3M387AbXQ",
+     "links": {
+      "https://t.co/U3M387AbXQ": "https://www.youtube.com/watch?v=1NQwfImTseU"
+     },
+     "media": [],
+     "url": "https://x.com/dwarkesh_sp/status/2118506486708294139",
+     "created_at": "Fri Nov 06 00:51:21 +0000 2026"
+    }
+   ]
   },
   "2118478531969818864": {
    "id": "2118478531969818864",
@@ -3076,7 +3157,7 @@
     "https://t.co/koKm4KZphH": "https://youtu.be/0GMWxuYuxJI?t=4135",
     "https://t.co/DaNGmoBxvf": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118476123176923488": {
    "id": "2118476123176923488",
@@ -3113,7 +3194,7 @@
    "links": {
     "https://t.co/IuqicNusMO": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118466121317924959": {
    "id": "2118466121317924959",
@@ -3137,7 +3218,17 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118461465472782520",
+    "author_handle": "Madisonkanna",
+    "author_name": "Madison Kanna",
+    "text": "@dwarkesh_sp age of empires next",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/Madisonkanna/status/2118461465472782520",
+    "created_at": "Thu Nov 05 21:52:27 +0000 2026"
+   }
   },
   "2118713063385989133": {
    "id": "2118713063385989133",
@@ -3161,7 +3252,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118796146198061062": {
    "id": "2118796146198061062",
@@ -3193,7 +3284,7 @@
     "https://t.co/XK9TQK8hJT": "https://youtu.be/0GMWxuYuxJI?t=1355",
     "https://t.co/sniwno7PaR": ""
    },
-   "enriched": 1
+   "enriched": 2
   }
  }
 }

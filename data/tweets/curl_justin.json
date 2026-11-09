@@ -2027,7 +2027,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117869654148612179": {
    "id": "2117869654148612179",
@@ -2058,7 +2058,7 @@
    "links": {
     "https://t.co/EpPqOE215Q": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2117828416015851542": {
    "id": "2117828416015851542",
@@ -2082,7 +2082,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117776374463377611": {
    "id": "2117776374463377611",
@@ -2106,7 +2106,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118058071721427034": {
    "id": "2118058071721427034",
@@ -2136,7 +2136,7 @@
    },
    "fetched_at": "2026-11-04T21:20:35.164155+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118567566004380118": {
    "id": "2118567566004380118",
@@ -2163,7 +2163,17 @@
     "https://t.co/INCzixvpAn": "https://arxiv.org/abs/2603.10028",
     "https://t.co/7CZwut4b9J": "https://theacorp.org/faq/"
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118558746163003749",
+    "author_handle": "rubinovitz",
+    "author_name": "JB Rubinovitz",
+    "text": "@curl_justin SSRN link isn’t working for me, but excited to learn more!",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/rubinovitz/status/2118558746163003749",
+    "created_at": "Fri Nov 06 04:19:00 +0000 2026"
+   }
   },
   "2118567071630209306": {
    "id": "2118567071630209306",
@@ -2187,7 +2197,17 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118554612080730142",
+    "author_handle": "_NathanCalvin",
+    "author_name": "Nathan Calvin",
+    "text": "@curl_justin @ProfArbel @petersalib @simondgoldstein why does it make AI more governable? (not a rhetorical question - this proposal confuses me)",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/_NathanCalvin/status/2118554612080730142",
+    "created_at": "Fri Nov 06 04:02:35 +0000 2026"
+   }
   },
   "2118548270989643807": {
    "id": "2118548270989643807",
@@ -2218,7 +2238,7 @@
     "https://t.co/oGUtqVZNCp": "https://download.ssrn.com/2026/2/20/6273198.pdf",
     "https://t.co/jAE0nTZjbp": "https://soniafpearson.substack.com/p/capitalizing-untethered-ai-agents"
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118893141965353314": {
    "id": "2118893141965353314",
@@ -2249,7 +2269,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2
   }
  }
 }

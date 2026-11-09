@@ -2453,7 +2453,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T18:45:11.192238+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118535009921560678": {
    "id": "2118535009921560678",
@@ -2480,7 +2480,17 @@
     "https://t.co/nGcXTcHDQi": "https://en.wikipedia.org/wiki/Item_response_theory",
     "https://t.co/eVSX8cZHw2": "https://epoch.ai/publications/a-rosetta-stone-for-ai-benchmarks"
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118497857074581732",
+    "author_handle": "lugaricano",
+    "author_name": "Luis Garicano 🇪🇺🇺🇦",
+    "text": "This index is only a modelling convention. I cannot see how this scale means anything beyond the ordering: any monotone transformation will result in another valid scale in which the acceleration may increase, reverse or disappear. What am I missing?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/lugaricano/status/2118497857074581732",
+    "created_at": "Fri Nov 06 00:17:03 +0000 2026"
+   }
   },
   "2118764612527259953": {
    "id": "2118764612527259953",
@@ -2504,7 +2514,17 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118764267721625915",
+    "author_handle": "TheDavidSJ",
+    "author_name": "David Schneider-Joseph 🔍",
+    "text": "@testingham @davidroodman @YafahEdelman @peterwildeford @james_s48 @EpochAIResearch @AlexBarry4 Yes, it's synthetic to illustrate the dependence of the shape of the curve on the specific choice of benchmarks. I didn't do any calibration checks, it was vibecoded quickly to illustrate the question.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/TheDavidSJ/status/2118764267721625915",
+    "created_at": "Fri Nov 06 17:55:40 +0000 2026"
+   }
   },
   "2118762651656577395": {
    "id": "2118762651656577395",
@@ -2528,7 +2548,17 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118748568152400188",
+    "author_handle": "TheDavidSJ",
+    "author_name": "David Schneider-Joseph 🔍",
+    "text": "@testingham @davidroodman @YafahEdelman @peterwildeford @james_s48 @EpochAIResearch @AlexBarry4 Both families are linear in log-odds, they’re just two suites of tasks whose log-odds respond differently to the same underlying latent intelligence variable.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/TheDavidSJ/status/2118748568152400188",
+    "created_at": "Fri Nov 06 16:53:17 +0000 2026"
+   }
   },
   "2118762447876304948": {
    "id": "2118762447876304948",
@@ -2552,7 +2582,17 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118735953153990716",
+    "author_handle": "lugaricano",
+    "author_name": "Luis Garicano 🇪🇺🇺🇦",
+    "text": "Good post on acceleration and the METR metric that is causing so much concern.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/lugaricano/status/2118735953153990716",
+    "created_at": "Fri Nov 06 16:03:10 +0000 2026"
+   }
   },
   "2118742149730811978": {
    "id": "2118742149730811978",
@@ -2576,7 +2616,28 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118740832790716451",
+    "author_handle": "datagenproc",
+    "author_name": "jsd",
+    "text": "@testingham Some have not yet given up, and are still fighting the good fight (jk) https://t.co/J1sl2dcHII",
+    "links": {
+     "https://t.co/J1sl2dcHII": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWdHjxWaQAE8Qds.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWdHjxdaQAQ8qsk.jpg"
+     }
+    ],
+    "url": "https://x.com/datagenproc/status/2118740832790716451",
+    "created_at": "Fri Nov 06 16:22:33 +0000 2026"
+   }
   },
   "2118738750755021041": {
    "id": "2118738750755021041",
@@ -2602,7 +2663,17 @@
    "links": {
     "https://t.co/AMKb9FPmxW": "https://tecunningham.github.io/eci-benchmark-logodds/"
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118738374173565013",
+    "author_handle": "testingham",
+    "author_name": "tom cunningham",
+    "text": "@TheDavidSJ @davidroodman @YafahEdelman @peterwildeford @james_s48 @EpochAIResearch @AlexBarry4 what exactly are family A &amp; B here?\n\nIt sounds like family B, they're not linear in log-odds, &amp; the linearity-in-log-odds assumptions are jointly testable (&amp; we discuss this in the report).",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/testingham/status/2118738374173565013",
+    "created_at": "Fri Nov 06 16:12:47 +0000 2026"
+   }
   },
   "2118738374173565013": {
    "id": "2118738374173565013",
@@ -2626,7 +2697,17 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118588413158768922",
+    "author_handle": "TheDavidSJ",
+    "author_name": "David Schneider-Joseph 🔍",
+    "text": "@davidroodman @YafahEdelman @peterwildeford @james_s48 @EpochAIResearch @AlexBarry4 You can do that but then the measured speedup goes away. The question isn't whether the model is \"correct\" in some sense, but whether it's meaningful to talk about speedups as if they are independent of an arbitrary choice of monotonic transformation (in this case f).",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/TheDavidSJ/status/2118588413158768922",
+    "created_at": "Fri Nov 06 06:16:53 +0000 2026"
+   }
   },
   "2118726168048534007": {
    "id": "2118726168048534007",
@@ -2652,7 +2733,17 @@
    "links": {
     "https://t.co/k6YrYDU3NZ": "https://tecunningham.github.io/eci-benchmark-logodds/"
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118647879984091534",
+    "author_handle": "lugaricano",
+    "author_name": "Luis Garicano 🇪🇺🇺🇦",
+    "text": "@testingham If you allow me to push a bit on the utility analogy, since all economists have these intuitions since grad school: von Neumann-Morgenstern made utility cardinal, but we can not say that it measures how much more a consumer wants something. You can still not add or compare across people.  IRT seems to do the same for benchmarks. Yes, you can fix the odds of passing a test, but you cannot compare across domains. \n\nI think saying that progress is accelerating by 1.9 confuses reliably passing test with progress at the frontier. I still don't think the number and statement means what people take it to mean.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/lugaricano/status/2118647879984091534",
+    "created_at": "Fri Nov 06 10:13:11 +0000 2026"
+   }
   },
   "2118724951662583926": {
    "id": "2118724951662583926",
@@ -2676,7 +2767,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118790787886690529": {
    "id": "2118790787886690529",
@@ -2700,7 +2791,17 @@
    "quoted": null,
    "fetched_at": "2026-11-06T20:54:35.151346+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118789210073092314",
+    "author_handle": "peterwildeford",
+    "author_name": "Peter Wildeford🇺🇸🚀",
+    "text": "@testingham @TheDavidSJ @davidroodman @YafahEdelman @james_s48 @EpochAIResearch @AlexBarry4 Can I email you something? Or should I twitter DM? Curious for you to look at something",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/peterwildeford/status/2118789210073092314",
+    "created_at": "Fri Nov 06 19:34:47 +0000 2026"
+   }
   },
   "2118788672007143462": {
    "id": "2118788672007143462",
@@ -2724,7 +2825,17 @@
    "quoted": null,
    "fetched_at": "2026-11-06T20:54:35.151346+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118785121801146778",
+    "author_handle": "peterwildeford",
+    "author_name": "Peter Wildeford🇺🇸🚀",
+    "text": "@testingham @TheDavidSJ @davidroodman @YafahEdelman @james_s48 @EpochAIResearch @AlexBarry4 so seems like things look logistic? to make sure I'm reading the lines right",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/peterwildeford/status/2118785121801146778",
+    "created_at": "Fri Nov 06 19:18:32 +0000 2026"
+   }
   },
   "2118767130594455751": {
    "id": "2118767130594455751",
@@ -2750,7 +2861,24 @@
    "links": {
     "https://t.co/6r4FgTWqyC": "https://tecunningham.github.io/eci-benchmark-logodds/#tab=resid"
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118767004190744694",
+    "author_handle": "testingham",
+    "author_name": "tom cunningham",
+    "text": "@TheDavidSJ @davidroodman @YafahEdelman @peterwildeford @james_s48 @EpochAIResearch @AlexBarry4 can see residuals for ECI here: https://t.co/z4NIYxFR9H",
+    "links": {
+     "https://t.co/z4NIYxFR9H": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWdfW7faQAAve9n.jpg"
+     }
+    ],
+    "url": "https://x.com/testingham/status/2118767004190744694",
+    "created_at": "Fri Nov 06 18:06:33 +0000 2026"
+   }
   },
   "2118767004190744694": {
    "id": "2118767004190744694",
@@ -2781,7 +2909,17 @@
    "links": {
     "https://t.co/z4NIYxFR9H": ""
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118764612527259953",
+    "author_handle": "testingham",
+    "author_name": "tom cunningham",
+    "text": "@TheDavidSJ @davidroodman @YafahEdelman @peterwildeford @james_s48 @EpochAIResearch @AlexBarry4 cool -- i think it's clear that IRT requires logistic, &amp; it sounds like you've simulated non-logistic distribution, but fortunately that assumption is at least partly testable (&amp; we test it)",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/testingham/status/2118764612527259953",
+    "created_at": "Fri Nov 06 17:57:03 +0000 2026"
+   }
   },
   "2118856668696166898": {
    "id": "2118856668696166898",
@@ -2805,7 +2943,17 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118852272109068728",
+    "author_handle": "lugaricano",
+    "author_name": "Luis Garicano 🇪🇺🇺🇦",
+    "text": "@testingham Very useful. The doubt remains, but your explanation was clear and unambiguous, thanks!",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/lugaricano/status/2118852272109068728",
+    "created_at": "Fri Nov 06 23:45:22 +0000 2026"
+   }
   },
   "2119079836639715516": {
    "id": "2119079836639715516",
@@ -2829,7 +2977,19 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T16:50:32.232257+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118726168048534007",
+    "author_handle": "testingham",
+    "author_name": "tom cunningham",
+    "text": "@lugaricano Hi Luis:\n\n- concretely, the IRT is unique up to an affine transform, which allows us to make judgments of acceleration, though we cannot meaningfully talk about a level or proportional changes.\n- the assumptions that get us this is that there exists a latent capability, & each of these benchmarks is a logistic function of that latent capability. Although we cannot individually test the assumptions they're over-identified, & in the report you can see we do tests for robustness (many other people have gone deeper on this, can share links).\n- I think the best intuition is that we're doing a principal components analysis.\n- there are of course many ways this could go wrong, we try to cover some of them in the report, & there's a mini litereature that's sprung up around interpreting ECI. It's a deeply unsatisfying metric but it's also the best we have.\n- here's a visualization which I think is useful for building intuition: https://t.co/k6YrYDU3NZ\n- the *quantity* that we're recovering is something that's slightly difficult to describe: it's latent ability to do benchmark tasks. As we discuss in the report, we are unsure how smoothly this is related to real-world impact (which itself is very hard to operationalize).",
+    "links": {
+     "https://t.co/k6YrYDU3NZ": "https://tecunningham.github.io/eci-benchmark-logodds/"
+    },
+    "media": [],
+    "url": "https://x.com/testingham/status/2118726168048534007",
+    "created_at": "Fri Nov 06 15:24:17 +0000 2026"
+   }
   }
  }
 }

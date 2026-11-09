@@ -5590,7 +5590,30 @@
    "quoted": null,
    "fetched_at": "2026-11-03T18:27:19.395380+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2117688360604963116",
+     "author_handle": "robertwiblin",
+     "author_name": "Rob Wiblin",
+     "text": "Transcript: https://t.co/EueAqELUHh\n\nApple: https://t.co/iWxAx6AHve\n\nSpotify: https://t.co/rZLY2FGx6W\n\nYouTube: https://t.co/RKv2ebPpLw https://t.co/bCkJ3jBQXw",
+     "links": {
+      "https://t.co/EueAqELUHh": "https://80000hours.org/podcast/episodes/hold-frontier-ai-companies-accountable/",
+      "https://t.co/iWxAx6AHve": "https://podcasts.apple.com/gb/podcast/being-a-pain-in-the-ass-to-or-in-ai-companies-is/id1245002988?i=1000799649673",
+      "https://t.co/rZLY2FGx6W": "https://open.spotify.com/episode/1p8iqRbsIpxGlEudKauGO1?si=SuEDhlNlRt632Roq714f4w",
+      "https://t.co/RKv2ebPpLw": "https://youtu.be/YX-yelkbuVU",
+      "https://t.co/bCkJ3jBQXw": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWOKA89XYAEbPn4.jpg"
+      }
+     ],
+     "url": "https://x.com/robertwiblin/status/2117688360604963116",
+     "created_at": "Tue Nov 03 18:40:24 +0000 2026"
+    }
+   ]
   },
   "2117652626351505585": {
    "id": "2117652626351505585",
@@ -5614,7 +5637,17 @@
    "quoted": null,
    "fetched_at": "2026-11-03T18:27:19.395380+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2117651871640822079",
+    "author_handle": "TomDavidsonX",
+    "author_name": "Tom Davidson",
+    "text": "@robertwiblin We are so fucked economically!!",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/TomDavidsonX/status/2117651871640822079",
+    "created_at": "Tue Nov 03 16:15:24 +0000 2026"
+   }
   },
   "2117651582032494758": {
    "id": "2117651582032494758",
@@ -5638,7 +5671,17 @@
    "quoted": null,
    "fetched_at": "2026-11-03T18:27:19.395380+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2117634084214026387",
+    "author_handle": "TomDavidsonX",
+    "author_name": "Tom Davidson",
+    "text": "@robertwiblin But we have no data centers",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/TomDavidsonX/status/2117634084214026387",
+    "created_at": "Tue Nov 03 15:04:44 +0000 2026"
+   }
   },
   "2117647625050603822": {
    "id": "2117647625050603822",
@@ -5669,7 +5712,7 @@
    "links": {
     "https://t.co/3MYAXZ4JOx": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2117642183281156468": {
    "id": "2117642183281156468",
@@ -5693,7 +5736,7 @@
    "quoted": null,
    "fetched_at": "2026-11-03T18:27:19.395380+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117613472867549443": {
    "id": "2117613472867549443",
@@ -6008,7 +6051,24 @@
     "https://t.co/RKv2ebPpLw": "https://youtu.be/YX-yelkbuVU",
     "https://t.co/bCkJ3jBQXw": ""
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2117682730884542663",
+    "author_handle": "robertwiblin",
+    "author_name": "Rob Wiblin",
+    "text": "Laying into AI companies is more effective than you might think.\n\nGag clauses torn up.\n~$75bn moved to the OpenAI Foundation.\nOpenAI flipped on SB315.\nBrockman quit his SuperPAC.\nAnthropic backpedalled on its federal bill.\n\nReporters, lawyers, ex-staff, and shitposters on X got it done – with huge help from staff speaking up internally.\n\nThis month Anthropic, OpenAI and GDM gave us a counterproductive AI bill, dubious firings and fresh clauses gagging staff.\n\nIf you work at one of these companies: it's time to post in #general (metaphorically or maybe literally).\n\nIf you don't: consider becoming a sophisticated and strategic pain in the ass for these companies when they do bad things.\n\nIt’s a neglected career and probably high impact, especially for people who really get what's going on. I explain some options:\n\n00:00 We need a stronger effort to push AI companies to do better\n01:14 Anthropic: who gets to pull the brake?\n07:14 OpenAI fires three safety researchers\n12:44 Google DeepMind’s lifelong gag clause\n5:39 Credit where it’s due\n16:34 How to make AI companies behave better\n17:31 Insiders: if you want to stay\n18:40 Insiders: if you’re willing to leave\n19:37 So… should you leave?\n20:39 Outsiders: what’s already worked\n22:51 Outsiders: digging up and explaining\n25:12 Outsiders: reaching the public and politicians\n00:27:52 Keep the pressure on\n\n(On the 80,000 Hours Podcast, links below.)",
+    "links": {
+     "https://t.co/ROfUE1N48w": ""
+    },
+    "media": [
+     {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2117682159028748288/img/VIfPqHy-JfIlb7JB.jpg"
+     }
+    ],
+    "url": "https://x.com/robertwiblin/status/2117682730884542663",
+    "created_at": "Tue Nov 03 18:18:02 +0000 2026"
+   }
   },
   "2118040192980341187": {
    "id": "2118040192980341187",
@@ -6036,7 +6096,7 @@
    },
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118020722421338165": {
    "id": "2118020722421338165",
@@ -6064,7 +6124,7 @@
    },
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117995693461680441": {
    "id": "2117995693461680441",
@@ -6088,7 +6148,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2117993796944425030",
+    "author_handle": "robertwiblin",
+    "author_name": "Rob Wiblin",
+    "text": "@tobyordoxford 67 is required to overcome a presidential veto, which will be required for a lot of stuff, for the time being at least. Though Trump could flip on some AI issues very easily.\n\nIf a Dem wins in 2028 then from 29 Jan 2029 it'll be 60 votes.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/robertwiblin/status/2117993796944425030",
+    "created_at": "Wed Nov 04 14:54:06 +0000 2026"
+   }
   },
   "2117993796944425030": {
    "id": "2117993796944425030",
@@ -6112,7 +6182,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2117990933606388125",
+    "author_handle": "tobyordoxford",
+    "author_name": "Toby Ord",
+    "text": "@robertwiblin Good points.\nNote that overcoming the filibuster only requires 60 votes and that  Democrats now have between 54 and 56 senators (depending on Mississippi and Alaska). So only a few R votes would be needed. Also, Trump will hold less sway over R senators now.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/tobyordoxford/status/2117990933606388125",
+    "created_at": "Wed Nov 04 14:42:43 +0000 2026"
+   }
   },
   "2117979878897152150": {
    "id": "2117979878897152150",
@@ -6143,7 +6223,7 @@
    "links": {
     "https://t.co/SPJkePtMRE": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2117979800270750164": {
    "id": "2117979800270750164",
@@ -6167,7 +6247,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117979474981462093": {
    "id": "2117979474981462093",
@@ -6191,7 +6271,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117979120025948496": {
    "id": "2117979120025948496",
@@ -6223,7 +6303,7 @@
    "links": {
     "https://t.co/NiF8l23T9r": "https://dashboard-production-c2fc.up.railway.app/"
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2117969972718715278": {
    "id": "2117969972718715278",
@@ -6247,7 +6327,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117956913979961758": {
    "id": "2117956913979961758",
@@ -6271,7 +6351,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2117955872882372914",
+    "author_handle": "SimonLermenAI",
+    "author_name": "Simon Lermen",
+    "text": "@robertwiblin Though promising to not enforce doesn't seem ideal",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/SimonLermenAI/status/2117955872882372914",
+    "created_at": "Wed Nov 04 12:23:24 +0000 2026"
+   }
   },
   "2117954912340631706": {
    "id": "2117954912340631706",
@@ -6307,7 +6397,7 @@
     "https://t.co/TWk9ybJyp3": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/",
     "https://t.co/NkI4grKB8F": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2117952659101761555": {
    "id": "2117952659101761555",
@@ -6331,7 +6421,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117952325205590349": {
    "id": "2117952325205590349",
@@ -6355,7 +6445,22 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2117738242992959924",
+     "author_handle": "DKokotajlo",
+     "author_name": "Daniel Kokotajlo",
+     "text": "The definition:\n\"We will consider this threshold to be met if we determine that either (1) our models would be able to fully substitute for our entire set of Research Scientists and Research Engineers, at competitive costs (i.e., within a factor of 5); or (2) there is “dramatic acceleration” of the pace of AI progress for reasons that likely relate to the automation of AI R&D. We would consider scenario (2) to have occurred where (a) we observe or expect double the rate of progress in AI aggregate capabilities compared to both the rate we’d expect and the fastest rate of extended progress we’ve observed in the absence of significant AI contributions to AI R&D and (b ) it is plausible that this doubling is substantially attributable to the automation of research and/or engineering (as opposed to other factors, such as increased headcount, compute, or general productivity), such that continuation of the trend in AI progress seems likely to lead to even greater acceleration.\"\n\n(1) seems to a bit weaker than our SAR milestone in the AIFM, but it doesn't seem like this is the threshold they are invoking, it seems like they are talking about (2). (And if they were invoking (1) I think that would be even worse?)\n\nAIFM: https://t.co/XJBWUBZh0d\nAnthropic RSP threshold definition: https://t.co/FBDuiNjRv1",
+     "links": {
+      "https://t.co/XJBWUBZh0d": "https://www.aifuturesmodel.com",
+      "https://t.co/FBDuiNjRv1": "https://www-cdn.anthropic.com/files/4zrzovbb/website/0bacdc8440ea96e62a8766d99ebe1d4eea6d5f3a.pdf"
+     },
+     "media": [],
+     "url": "https://x.com/DKokotajlo/status/2117738242992959924",
+     "created_at": "Tue Nov 03 21:58:37 +0000 2026"
+    }
+   ]
   },
   "2117920510403301430": {
    "id": "2117920510403301430",
@@ -6392,7 +6497,7 @@
    "links": {
     "https://t.co/ZFwpoDRAM2": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2117919309439643960": {
    "id": "2117919309439643960",
@@ -6423,7 +6528,7 @@
    "links": {
     "https://t.co/zbkrcBSBj8": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2117918336550076801": {
    "id": "2117918336550076801",
@@ -6454,7 +6559,7 @@
    "links": {
     "https://t.co/cl06U9fPzc": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2117915336439656604": {
    "id": "2117915336439656604",
@@ -6484,7 +6589,7 @@
    },
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117909424090014074": {
    "id": "2117909424090014074",
@@ -6510,7 +6615,17 @@
    "links": {
     "https://t.co/GuYfSxQ3FT": "https://jobs.80000hours.org/?refinementList%5Bcompany_data%5D%5B0%5D=Anthropic&refinementList%5Bcompany_data%5D%5B1%5D=OpenAI&refinementList%5Bcompany_data%5D%5B2%5D=Google%20DeepMind"
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2117891542065283410",
+    "author_handle": "ONagel33303",
+    "author_name": "Ori Nagel",
+    "text": "@GWHayduke97 @robertwiblin Rob tell 80k to stop promoting frontier lab jobs",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/ONagel33303/status/2117891542065283410",
+    "created_at": "Wed Nov 04 08:07:46 +0000 2026"
+   }
   },
   "2117908775164064037": {
    "id": "2117908775164064037",
@@ -6534,7 +6649,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117732278214271276": {
    "id": "2117732278214271276",
@@ -6565,7 +6680,7 @@
    "links": {
     "https://t.co/8Ol7Lc6V2x": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2117731266686509350": {
    "id": "2117731266686509350",
@@ -6589,7 +6704,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117731199150072253": {
    "id": "2117731199150072253",
@@ -6613,7 +6728,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118280106343104798": {
    "id": "2118280106343104798",
@@ -6644,7 +6759,19 @@
    "links": {
     "https://t.co/zsUCYnt9xe": ""
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118279875190501470",
+    "author_handle": "robertwiblin",
+    "author_name": "Rob Wiblin",
+    "text": "The Tarbell Fellowship has produced a series of excellent AI journalists. Seems like a great program.\n\nThey're currently choosing their next cohort - apps close 22 Nov.\n\nIf you want to help with AI, seriously consider it (and tell suitable friends).\n\nhttps://t.co/tsZUuw3VMS",
+    "links": {
+     "https://t.co/tsZUuw3VMS": "https://www.tarbellcenter.org/fellowship"
+    },
+    "media": [],
+    "url": "https://x.com/robertwiblin/status/2118279875190501470",
+    "created_at": "Thu Nov 05 09:50:52 +0000 2026"
+   }
   },
   "2118279875190501470": {
    "id": "2118279875190501470",
@@ -6674,7 +6801,26 @@
    "links": {
     "https://t.co/tsZUuw3VMS": "https://www.tarbellcenter.org/fellowship"
    },
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118280106343104798",
+     "author_handle": "robertwiblin",
+     "author_name": "Rob Wiblin",
+     "text": "More information about what they offer: https://t.co/zsUCYnt9xe",
+     "links": {
+      "https://t.co/zsUCYnt9xe": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWWkfibW0AAp5Wt.png"
+      }
+     ],
+     "url": "https://x.com/robertwiblin/status/2118280106343104798",
+     "created_at": "Thu Nov 05 09:51:47 +0000 2026"
+    }
+   ]
   },
   "2118267376227828038": {
    "id": "2118267376227828038",
@@ -6703,7 +6849,26 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118093166536749139",
+     "author_handle": "Marcus_J_W",
+     "author_name": "Marcus Williams",
+     "text": "It's unclear how often this happens on internal safety research traffic, a lower bound would be 0.25% which is the verbalized rate of covert underperformance and an upper bound would be 7.9% which is the rate of “ethical reasoning”. Generally all underperformance metrics are higher for safety than for capabilities.",
+     "links": {
+      "https://t.co/eUIxvla3Bp": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWT6gpyaQAA8ALR.jpg"
+      }
+     ],
+     "url": "https://x.com/Marcus_J_W/status/2118093166536749139",
+     "created_at": "Wed Nov 04 21:28:57 +0000 2026"
+    }
+   ]
   },
   "2118098831690932555": {
    "id": "2118098831690932555",
@@ -6735,7 +6900,17 @@
     "https://t.co/sFyMuKyPp8": "https://kalshi.com/markets/kxpresnomr/republican-primary-winner/kxpresnomr-28",
     "https://t.co/hy1jqM6rvN": ""
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118098006184522170",
+    "author_handle": "mattcschwartz",
+    "author_name": "Matt Schwartz",
+    "text": "@robertwiblin Don't understand where that number is coming from. His chance on Polymarket and Kalshi is 30%",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/mattcschwartz/status/2118098006184522170",
+    "created_at": "Wed Nov 04 21:48:11 +0000 2026"
+   }
   },
   "2118096804680245707": {
    "id": "2118096804680245707",
@@ -6761,7 +6936,7 @@
    "links": {
     "https://t.co/vN7nBrtLor": "https://politi.co/480MQez"
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118096646970188172": {
    "id": "2118096646970188172",
@@ -6792,7 +6967,7 @@
    "links": {
     "https://t.co/NtwDdJdNRs": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118413009089392653": {
    "id": "2118413009089392653",
@@ -6816,7 +6991,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T18:45:11.192238+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118393011122130962": {
    "id": "2118393011122130962",
@@ -6840,7 +7015,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T18:45:11.192238+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118459584201289902": {
    "id": "2118459584201289902",
@@ -6871,7 +7046,7 @@
    "links": {
     "https://t.co/oJVVvf5KvI": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118459495953138000": {
    "id": "2118459495953138000",
@@ -6902,7 +7077,7 @@
    },
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118459106612625480": {
    "id": "2118459106612625480",
@@ -6930,7 +7105,7 @@
    },
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118458166279278707": {
    "id": "2118458166279278707",
@@ -6957,7 +7132,7 @@
     "https://t.co/AYhl9hyiAj": "https://www.lesswrong.com/posts/FG54euEAesRkSZuJN/ryan_greenblatt-s-shortform?commentId=rAFxcETtNtsuzw6aG",
     "https://t.co/ck7CtW5LIA": "https://www.lesswrong.com/posts/Jga7PHMzfZf4fbdyo/if-mythos-actually-made-anthropic-employees-4x-more"
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2119034372133204147": {
    "id": "2119034372133204147",
@@ -6981,7 +7156,17 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2119028434924171625",
+    "author_handle": "HaydnBelfield",
+    "author_name": "Haydn Belfield",
+    "text": "@robertwiblin Mate yes you would",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/HaydnBelfield/status/2119028434924171625",
+    "created_at": "Sat Nov 07 11:25:23 +0000 2026"
+   }
   },
   "2119032330312650905": {
    "id": "2119032330312650905",
@@ -7007,7 +7192,24 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2119032327518994680",
+    "author_handle": "robertwiblin",
+    "author_name": "Rob Wiblin",
+    "text": "Trump's anti-AI regulation stance might be among the least popular positions an American politician has ever taken.\n\nMakes 'defund the police' look like an electoral powerhouse. (From a convo with @davidshor.) https://t.co/tih1wHSP0F",
+    "links": {
+     "https://t.co/tih1wHSP0F": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWhQVcSXgAA8uuT.jpg"
+     }
+    ],
+    "url": "https://x.com/robertwiblin/status/2119032327518994680",
+    "created_at": "Sat Nov 07 11:40:51 +0000 2026"
+   }
   },
   "2119032327518994680": {
    "id": "2119032327518994680",
@@ -7038,7 +7240,21 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2119032330312650905",
+     "author_handle": "robertwiblin",
+     "author_name": "Rob Wiblin",
+     "text": "https://t.co/nq4l3kkaf9",
+     "links": {
+      "https://t.co/nq4l3kkaf9": "https://www.vox.com/politics/509476/midterm-elections-2026-trump-democrats-david-shor-iran"
+     },
+     "media": [],
+     "url": "https://x.com/robertwiblin/status/2119032330312650905",
+     "created_at": "Sat Nov 07 11:40:51 +0000 2026"
+    }
+   ]
   },
   "2119026069709713848": {
    "id": "2119026069709713848",
@@ -7064,7 +7280,24 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2119025917054107912",
+    "author_handle": "robertwiblin",
+    "author_name": "Rob Wiblin",
+    "text": "I would simply not have a romantic relationship with a Chinese spy. https://t.co/IyXtHhOkgW",
+    "links": {
+     "https://t.co/IyXtHhOkgW": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWhKx5wWoAA48GX.jpg"
+     }
+    ],
+    "url": "https://x.com/robertwiblin/status/2119025917054107912",
+    "created_at": "Sat Nov 07 11:15:22 +0000 2026"
+   }
   },
   "2119025917054107912": {
    "id": "2119025917054107912",
@@ -7095,7 +7328,80 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2119026069709713848",
+     "author_handle": "robertwiblin",
+     "author_name": "Rob Wiblin",
+     "text": "https://t.co/7kGwTCizDd",
+     "links": {
+      "https://t.co/7kGwTCizDd": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1"
+     },
+     "media": [],
+     "url": "https://x.com/robertwiblin/status/2119026069709713848",
+     "created_at": "Sat Nov 07 11:15:59 +0000 2026"
+    }
+   ]
+  },
+  "2119737889558872213": {
+   "id": "2119737889558872213",
+   "url": "https://x.com/robertwiblin/status/2119737889558872213",
+   "text": "Now is a good time to revisit some old clips of Jensen trying to mislead people on why it's okay for NVIDIA sell AI chips to China.\n\nThis was the key moment from his interview on @dwarkesh_sp's podcast (time stamp 57:36): \n\n1. Dwarkesh asks why it’s okay to sell NVIDIA chips to China given the national security implications of AI models like Mythos.\n\n2. Jensen gives a misleading answer, arguing that it’s okay to sell American chips to China because China already produces 60% of the world’s chips.\n\n3. But as Jensen definitely knows, compute is measured in flops, not number of chips.\n\n4. Dwarkesh then pushes back, pointing out that on a flops basis, China has 10% of the compute the US has, and giving them more compute would change their cyber capabilities.\n\nThis is a common pattern with Jensen. He's developed talking points that sound plausible to a non-technical audience about why there is no conflict between NVIDIA's financial interests and US national security.\n\nBut on the rare occasion when he's interviewed by someone like Dwarkesh who knows what he's talking about, it immediately becomes obvious that he's spouting nonsense.",
+   "created_at": "Mon Nov 09 10:24:30 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "AlecStapp",
+   "rt_author_name": "Alec Stapp",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1498170157176393731/tyrdhQ1M_normal.jpg",
+   "rt_id": "2119576839450705969",
+   "likes": 982,
+   "retweets": 202,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWo9TFwWcAAoOm4.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWo9TGbXAAAD7c0.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/aRtYzxXGzG": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-09T14:02:18.898653+00:00",
+   "enriched": 2
+  },
+  "2119543114222522593": {
+   "id": "2119543114222522593",
+   "url": "https://x.com/robertwiblin/status/2119543114222522593",
+   "text": "So Jensen was having an affair with a customer, who also happened to be a Chinese spy, for months.\n\nLied to the board. Lied to journalists.\n\nMeanwhile pushing to sell maximum of cutting edge AI chips to China against advice of ~entire natsec community.\n\nCan't make this shit up.",
+   "created_at": "Sun Nov 08 21:30:32 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2192,
+   "retweets": 317,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-09T14:02:18.898653+00:00",
+   "enriched": 2
   }
  }
 }

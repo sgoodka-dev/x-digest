@@ -2758,7 +2758,26 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118093166536749139",
+     "author_handle": "Marcus_J_W",
+     "author_name": "Marcus Williams",
+     "text": "It's unclear how often this happens on internal safety research traffic, a lower bound would be 0.25% which is the verbalized rate of covert underperformance and an upper bound would be 7.9% which is the rate of “ethical reasoning”. Generally all underperformance metrics are higher for safety than for capabilities.",
+     "links": {
+      "https://t.co/eUIxvla3Bp": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWT6gpyaQAA8ALR.jpg"
+      }
+     ],
+     "url": "https://x.com/Marcus_J_W/status/2118093166536749139",
+     "created_at": "Wed Nov 04 21:28:57 +0000 2026"
+    }
+   ]
   },
   "2118440222413443226": {
    "id": "2118440222413443226",
@@ -2782,7 +2801,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118682153005281396": {
    "id": "2118682153005281396",
@@ -2810,7 +2829,7 @@
    },
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118628663327432996": {
    "id": "2118628663327432996",
@@ -2843,7 +2862,7 @@
    },
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118749733829382514": {
    "id": "2118749733829382514",
@@ -2867,7 +2886,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118735561334682033": {
    "id": "2118735561334682033",
@@ -2893,7 +2912,24 @@
    "links": {
     "https://t.co/MbPaQsusvf": "https://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf"
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118735559250059403",
+    "author_handle": "_achan96_",
+    "author_name": "Alan Chan",
+    "text": "Is anybody trying to create more realistic CoT controllability evals? \n\nPerformance varies a lot across different controllability tasks, and some of them just are super unrealistic for bad stuff like scheming (e.g. all uppercase)\n\nInformation suppression seems really key! https://t.co/NR4Hh2noHx",
+    "links": {
+     "https://t.co/NR4Hh2noHx": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWdCi_4XIAAgf6H.jpg"
+     }
+    ],
+    "url": "https://x.com/_achan96_/status/2118735559250059403",
+    "created_at": "Fri Nov 06 16:01:36 +0000 2026"
+   }
   },
   "2118735559250059403": {
    "id": "2118735559250059403",
@@ -2924,7 +2960,21 @@
    "links": {
     "https://t.co/NR4Hh2noHx": ""
    },
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118735561334682033",
+     "author_handle": "_achan96_",
+     "author_name": "Alan Chan",
+     "text": "p. 145 of https://t.co/MbPaQsusvf",
+     "links": {
+      "https://t.co/MbPaQsusvf": "https://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf"
+     },
+     "media": [],
+     "url": "https://x.com/_achan96_/status/2118735561334682033",
+     "created_at": "Fri Nov 06 16:01:36 +0000 2026"
+    }
+   ]
   },
   "2119036923335365023": {
    "id": "2119036923335365023",
@@ -2948,7 +2998,19 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118741124122886419",
+     "author_handle": "SwannAiden",
+     "author_name": "Aiden Swann 🤠 CORL2026",
+     "text": "We ask these models to do FK and IK without thinking.\n\nq = [0.180, 0.029, 0.137, -2.128, -0.156, 1.973, 0.453]  →  hand at [x, y, z] ?\n\nOf the 50 models we tested 3 stand out as clear outliers.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/SwannAiden/status/2118741124122886419",
+     "created_at": "Fri Nov 06 16:23:42 +0000 2026"
+    }
+   ]
   },
   "2119512708332573063": {
    "id": "2119512708332573063",
@@ -2979,7 +3041,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-08T19:42:45.355278+00:00",
-   "enriched": 1
+   "enriched": 2
   }
  }
 }

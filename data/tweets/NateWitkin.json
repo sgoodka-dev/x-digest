@@ -2513,7 +2513,7 @@
    "quoted": null,
    "fetched_at": "2026-11-03T18:27:19.395380+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117419687206092820": {
    "id": "2117419687206092820",
@@ -2561,7 +2561,7 @@
    "quoted": null,
    "fetched_at": "2026-11-03T21:00:07.693918+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117713342341259733": {
    "id": "2117713342341259733",
@@ -2600,7 +2600,7 @@
    "links": {
     "https://t.co/tFB5IEvlfZ": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2117700011320381739": {
    "id": "2117700011320381739",
@@ -2624,7 +2624,7 @@
    "quoted": null,
    "fetched_at": "2026-11-03T21:00:07.693918+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117696219820806569": {
    "id": "2117696219820806569",
@@ -2648,7 +2648,26 @@
    "quoted": null,
    "fetched_at": "2026-11-03T21:00:07.693918+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2117650799031717966",
+     "author_handle": "SolomonMg",
+     "author_name": "Sol Messing",
+     "text": "I was initially really taken w/ Exp 4, where Astra \"fixes\" a small policy model designed to get a car over a barrier. https://t.co/48N4kPjehL",
+     "links": {
+      "https://t.co/48N4kPjehL": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWNBScEXUAI_kaR.png"
+      }
+     ],
+     "url": "https://x.com/SolomonMg/status/2117650799031717966",
+     "created_at": "Tue Nov 03 16:11:09 +0000 2026"
+    }
+   ]
   },
   "2117822260639883491": {
    "id": "2117822260639883491",
@@ -2679,7 +2698,7 @@
    "links": {
     "https://t.co/WuAnsuEEmJ": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2117816126130544722": {
    "id": "2117816126130544722",
@@ -2703,7 +2722,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117804592868335872": {
    "id": "2117804592868335872",
@@ -2727,7 +2746,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118080104328781956": {
    "id": "2118080104328781956",
@@ -2759,7 +2778,8 @@
     "https://t.co/BSFproPUI4": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
     "https://t.co/RbZYeBiHro": ""
    },
-   "enriched": 1
+   "enriched": 2,
+   "thread": []
   },
   "2118409674051424637": {
    "id": "2118409674051424637",
@@ -2783,7 +2803,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T18:45:11.192238+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118406932780491115": {
    "id": "2118406932780491115",
@@ -2807,7 +2827,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T18:45:11.192238+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118389568030318877": {
    "id": "2118389568030318877",
@@ -2831,7 +2851,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T18:45:11.192238+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118387233006760236": {
    "id": "2118387233006760236",
@@ -2862,7 +2882,7 @@
    "links": {
     "https://t.co/0xbJlYUVUc": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118482026487537980": {
    "id": "2118482026487537980",
@@ -2890,7 +2910,7 @@
    },
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118753259959578675": {
    "id": "2118753259959578675",
@@ -2914,7 +2934,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118750357161377977": {
    "id": "2118750357161377977",
@@ -2945,7 +2965,7 @@
    "links": {
     "https://t.co/DeBxsWJJ9k": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2119492615720874151": {
    "id": "2119492615720874151",
@@ -2969,7 +2989,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T19:42:45.355278+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2119487631624962525": {
    "id": "2119487631624962525",
@@ -3000,7 +3020,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-08T19:42:45.355278+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2119487509004734536": {
    "id": "2119487509004734536",
@@ -3024,7 +3044,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T19:42:45.355278+00:00",
-   "enriched": 1
+   "enriched": 2
   }
  }
 }

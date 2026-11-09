@@ -2668,7 +2668,7 @@
    },
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118419207394329056": {
    "id": "2118419207394329056",
@@ -2694,7 +2694,25 @@
    "links": {
     "https://t.co/EAC39nnMuA": "https://cruxevals.com/research-notes/how-to-run-your-own-crux-style-experiments"
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118418574456852720",
+    "author_handle": "sayashk",
+    "author_name": "Sayash Kapoor",
+    "text": "Announcing CRUX-in-a-box: open-source infrastructure for running and monitoring weeks-long agent evaluations.\n\nWe built it over six months of long-horizon evaluations in CRUX, to keep runs repeatable, secure, and monitored. AI evaluators can now use it to:\n\n- Run agents on VMs for weeks\n- Use LLMs to flag risky actions for human review\n- Inspect tool calls, tokens, and spend\n- Set time and cost budgets\n- Chat with agents mid-run to give feedback or answer their questions\n\nIf you run long-horizon agent experiments, we might have solved some of the problems you will come across.  \n\nGitHub: https://t.co/V6y5YzamXa",
+    "links": {
+     "https://t.co/V6y5YzamXa": "https://github.com/sage-princeton/crux-in-a-box",
+     "https://t.co/4A4LDAsD5x": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWYhIxEXwAA3_wQ.jpg"
+     }
+    ],
+    "url": "https://x.com/sayashk/status/2118418574456852720",
+    "created_at": "Thu Nov 05 19:02:01 +0000 2026"
+   }
   },
   "2118418574456852720": {
    "id": "2118418574456852720",
@@ -2725,7 +2743,21 @@
    "links": {
     "https://t.co/V6y5YzamXa": "https://github.com/sage-princeton/crux-in-a-box"
    },
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118419207394329056",
+     "author_handle": "sayashk",
+     "author_name": "Sayash Kapoor",
+     "text": "More details: https://t.co/EAC39nnMuA",
+     "links": {
+      "https://t.co/EAC39nnMuA": "https://cruxevals.com/research-notes/how-to-run-your-own-crux-style-experiments"
+     },
+     "media": [],
+     "url": "https://x.com/sayashk/status/2118419207394329056",
+     "created_at": "Thu Nov 05 19:04:32 +0000 2026"
+    }
+   ]
   },
   "2118700394385666352": {
    "id": "2118700394385666352",
@@ -2756,7 +2788,7 @@
    "links": {
     "https://t.co/jKN6z7ROqz": ""
    },
-   "enriched": 1
+   "enriched": 2
   }
  }
 }

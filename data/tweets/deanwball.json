@@ -9178,7 +9178,17 @@
    "quoted": null,
    "fetched_at": "2026-11-03T18:27:19.395380+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2117630747955646508",
+    "author_handle": "AnthonyMaio",
+    "author_name": "Anthony Maio",
+    "text": "@deanwball I get why you avoid comment on that work because I think it's being dramatically misrepresented.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/AnthonyMaio/status/2117630747955646508",
+    "created_at": "Tue Nov 03 14:51:28 +0000 2026"
+   }
   },
   "2117405375200993479": {
    "id": "2117405375200993479",
@@ -9261,7 +9271,7 @@
    "links": {
     "https://t.co/b3rW9zYJGA": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118011911770136592": {
    "id": "2118011911770136592",
@@ -9285,7 +9295,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118011002696487018",
+    "author_handle": "dwallacewells",
+    "author_name": "David Wallace-Wells",
+    "text": "Senate incumbents went 24-4 last night. The vast majority of house races were won by incumbents, too. American politics has developed an anti incumbency tendency towards the party in power but not really towards individual candidates.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/dwallacewells/status/2118011002696487018",
+    "created_at": "Wed Nov 04 16:02:28 +0000 2026"
+   }
   },
   "2118000801176330377": {
    "id": "2118000801176330377",
@@ -9309,7 +9329,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117993348480860162": {
    "id": "2117993348480860162",
@@ -9333,7 +9353,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117983878883279231": {
    "id": "2117983878883279231",
@@ -9357,7 +9377,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117943982969737384": {
    "id": "2117943982969737384",
@@ -9381,7 +9401,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117787648873926809": {
    "id": "2117787648873926809",
@@ -9405,7 +9425,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118061335913349546": {
    "id": "2118061335913349546",
@@ -9429,7 +9449,19 @@
    "quoted": null,
    "fetched_at": "2026-11-04T21:20:35.164155+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118039732412424359",
+    "author_handle": "zdch",
+    "author_name": "Zac Hill",
+    "text": "Finally got my beautiful mug up on the website, so might as well make it Twitter-official: I'm beyond stoked to have joined MIRI last month as Head of Advocacy, with much subsequent mischief forthcoming. Let's do this AI thing, like, safely, and stuff.\n\nhttps://t.co/trlho0RSzh",
+    "links": {
+     "https://t.co/trlho0RSzh": "https://intelligence.org/team/zac-hill/"
+    },
+    "media": [],
+    "url": "https://x.com/zdch/status/2118039732412424359",
+    "created_at": "Wed Nov 04 17:56:38 +0000 2026"
+   }
   },
   "2118211919790194723": {
    "id": "2118211919790194723",
@@ -9453,7 +9485,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118210765484175445": {
    "id": "2118210765484175445",
@@ -9477,7 +9509,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118209399143489569": {
    "id": "2118209399143489569",
@@ -9505,7 +9537,7 @@
    },
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118208547712540971": {
    "id": "2118208547712540971",
@@ -9529,7 +9561,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118185785082183833": {
    "id": "2118185785082183833",
@@ -9553,7 +9585,32 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118184978790101114",
+    "author_handle": "deanwball",
+    "author_name": "Dean W. Ball",
+    "text": "some bangers for all the rugheads out there https://t.co/iPHZRHO3y0",
+    "links": {
+     "https://t.co/iPHZRHO3y0": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWVOAsFWAAAyxWE.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWVOAr7XAAAniWQ.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWVOAsLWoAApDWS.jpg"
+     }
+    ],
+    "url": "https://x.com/deanwball/status/2118184978790101114",
+    "created_at": "Thu Nov 05 03:33:47 +0000 2026"
+   }
   },
   "2118184978790101114": {
    "id": "2118184978790101114",
@@ -9592,7 +9649,19 @@
    "links": {
     "https://t.co/iPHZRHO3y0": ""
    },
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118185785082183833",
+     "author_handle": "deanwball",
+     "author_name": "Dean W. Ball",
+     "text": "these are spectacularly expensive in absolute terms and outrageously cheap relative to the magnitude of the weavers’ artistic achievement, and relative to the pleasure one could derive from owning one of these",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/deanwball/status/2118185785082183833",
+     "created_at": "Thu Nov 05 03:36:59 +0000 2026"
+    }
+   ]
   },
   "2118182477571215388": {
    "id": "2118182477571215388",
@@ -9623,7 +9692,17 @@
    "links": {
     "https://t.co/h9RqObSJQ9": ""
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118181982060339340",
+    "author_handle": "deanwball",
+    "author_name": "Dean W. Ball",
+    "text": "When asked for his comments on the midterm election results, Ball turned around, straightened his tie, and said:\n\n“Okay, look, I’ve been thinking. There’s a compromise to be had here. A deal to be made. A grand bargain to be struck.\n\n“We allow high-gloss European paints back into America, but only on exterior surfaces. No plausibly problematic chemicals inside American homes, pleasant exteriors to walk and drive by. It’s really exterior trim where paints like Hollandlac Brilliant shine, pardon the pun, anyway. I’ve always thought kitchen cabinets painted with it looked a little fussy, you know, a little bit cute.”",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/deanwball/status/2118181982060339340",
+    "created_at": "Thu Nov 05 03:21:53 +0000 2026"
+   }
   },
   "2118181982060339340": {
    "id": "2118181982060339340",
@@ -9651,7 +9730,8 @@
    },
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "thread": []
   },
   "2118169534444273736": {
    "id": "2118169534444273736",
@@ -9675,7 +9755,17 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118136848845607136",
+    "author_handle": "viemccoy",
+    "author_name": "vie ⟢",
+    "text": "We live in an extremely temporary golden age where many delightful things (airline upgrades, access to higher quality medical care, refunds in general) are gated behind superhuman patience that only a small fraction of the population has access to. Entire chunks of the economy are made for this specific group, and now everyone has this type-of-guy working for them on demand. With agents making phone calls and waiting *literally forever*, anyone can now have access to what the \"patient elite\" have always enjoyed. This obviously will not last forever as companies realize everyone is doing this, though it may last longer than you think due to fragmented AI adoption.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/viemccoy/status/2118136848845607136",
+    "created_at": "Thu Nov 05 00:22:32 +0000 2026"
+   }
   },
   "2118153477406736845": {
    "id": "2118153477406736845",
@@ -9703,7 +9793,7 @@
    },
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118149203616497991": {
    "id": "2118149203616497991",
@@ -9733,7 +9823,7 @@
    },
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118148043010953246": {
    "id": "2118148043010953246",
@@ -9764,7 +9854,7 @@
    "links": {
     "https://t.co/RsPPblSLRM": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118142184146788378": {
    "id": "2118142184146788378",
@@ -9788,7 +9878,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118142005888905548": {
    "id": "2118142005888905548",
@@ -9812,7 +9902,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118141927740907620": {
    "id": "2118141927740907620",
@@ -9838,7 +9928,7 @@
    "links": {
     "https://t.co/vXCImlBCWE": "https://openai.com/index/a-thousand-fewer-paths-to-root/"
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118110190071677263": {
    "id": "2118110190071677263",
@@ -9875,7 +9965,7 @@
      "url": "https://x.com/patrickc/status/2118081177492066485"
     }
    ],
-   "enriched": 1
+   "enriched": 2
   },
   "2118389663643873356": {
    "id": "2118389663643873356",
@@ -9905,7 +9995,7 @@
    },
    "fetched_at": "2026-11-05T18:45:11.192238+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118366488923107838": {
    "id": "2118366488923107838",
@@ -9933,7 +10023,7 @@
    },
    "fetched_at": "2026-11-05T18:45:11.192238+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118366089537376634": {
    "id": "2118366089537376634",
@@ -9962,7 +10052,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T18:45:11.192238+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118439860575027511": {
    "id": "2118439860575027511",
@@ -9992,7 +10082,7 @@
    },
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118420194292887605": {
    "id": "2118420194292887605",
@@ -10021,7 +10111,19 @@
    "quoted": null,
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118393124578070814",
+     "author_handle": "GoodfireAI",
+     "author_name": "Goodfire",
+     "text": "Training often teaches models the wrong lessons: reward hacking, using shortcuts, etc.\n\nWhat if we could specify what we want using the model's internals? In our paper, we penalize or reward a model for how much it uses an *internal representation* while computing its output.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/GoodfireAI/status/2118393124578070814",
+     "created_at": "Thu Nov 05 17:20:53 +0000 2026"
+    }
+   ]
   },
   "2118676136884379690": {
    "id": "2118676136884379690",
@@ -10045,7 +10147,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118675528186245350": {
    "id": "2118675528186245350",
@@ -10069,7 +10171,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118805270755422685": {
    "id": "2118805270755422685",
@@ -10093,7 +10195,17 @@
    "quoted": null,
    "fetched_at": "2026-11-06T20:54:35.151346+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118804742642257944",
+    "author_handle": "NinaDSchick",
+    "author_name": "Nina Schick",
+    "text": "@deanwball Yes. Which is why we need AI compute !",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/NinaDSchick/status/2118804742642257944",
+    "created_at": "Fri Nov 06 20:36:30 +0000 2026"
+   }
   },
   "2118799206785937844": {
    "id": "2118799206785937844",
@@ -10121,7 +10233,7 @@
    },
    "fetched_at": "2026-11-06T20:54:35.151346+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118789980063662331": {
    "id": "2118789980063662331",
@@ -10145,7 +10257,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T20:54:35.151346+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2119420691242172509": {
    "id": "2119420691242172509",
@@ -10169,7 +10281,17 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2119302004040409518",
+    "author_handle": "bayeslord",
+    "author_name": "bayes",
+    "text": "I’ve honestly been laughing since the midterms. Of course you messed this up. You were willing at every turn to dissemble, talk your book and engage in signaling and bullshit rather than be real and honest about what’s going on, and how serious it all is. I tried to help steer this at various points, I really did try, but was both rebuffed and, admittedly, somewhat lacking in courage and agency. Either way, thank god for the honest people. I’ll try to be a better citizen. \n\nYou may think destructive politics are on the rise. Maybe they are. But such crescendos needn’t destroy America. This is a fragilizing mindset. And I’m sorry, but I’m not moving to Dubai. I’m not moving to China. I’m not moving to Argentina. Americans are my people, this is my home. If you want to flee, be my guest. Our society is going through an important process right now and I want to be here for it. Humans are defending themselves against the machine. As they should.\n\nTechnocapital is a great tool, but technocapital worship can be actively harmful, particularly at this juncture in history where, for the first time, all future needed technological progress is technologically overdetermined, if not yet socially. Maximizing technocapital’s power is a reward hack on the flourishing function for humanity. You are ignorant or lying if you claim this proxy is the true target. \n\nLove you all, but I must insist we evolve. 2023 part 2 blue tsunami edition is a losing approach for tech and the world, and I can feel people flirting with it. Let’s do something new.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/bayeslord/status/2119302004040409518",
+    "created_at": "Sun Nov 08 05:32:27 +0000 2026"
+   }
   },
   "2119395534528020948": {
    "id": "2119395534528020948",
@@ -10193,7 +10315,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2119254084066656619": {
    "id": "2119254084066656619",
@@ -10217,7 +10339,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2119233592077467714": {
    "id": "2119233592077467714",
@@ -10241,7 +10363,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 1
+   "enriched": 2
   }
  }
 }

@@ -3145,7 +3145,7 @@
    "links": {
     "https://t.co/jlk53KHFBt": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118034999899222475": {
    "id": "2118034999899222475",
@@ -3169,7 +3169,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117841580296217055": {
    "id": "2117841580296217055",
@@ -3193,7 +3193,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2117834178330796130",
+    "author_handle": "grok",
+    "author_name": "Grok",
+    "text": "@DaveRBanerjee @MattInThemittel They considered it. On July 23, 1787, Gouverneur Morris proposed three senators per state for a larger body and better quorum. George Mason and others objected that new states would make the Senate too numerous and expensive. One was rejected as insufficient if a senator fell ill or died. Two won unanimously as the balance for a smaller, cooler deliberative body that still ensured representation.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/grok/status/2117834178330796130",
+    "created_at": "Wed Nov 04 04:19:50 +0000 2026"
+   }
   },
   "2117834057413456024": {
    "id": "2117834057413456024",
@@ -3217,7 +3227,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2117768585552806199",
+    "author_handle": "MattInThemittel",
+    "author_name": "Matt Mittelsteadt",
+    "text": "Its wild the founders didn't think to give each state 3 senators so that every state gets a voice in the Senate's makeup each cycle.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/MattInThemittel/status/2117768585552806199",
+    "created_at": "Tue Nov 03 23:59:11 +0000 2026"
+   }
   },
   "2117813801424707863": {
    "id": "2117813801424707863",
@@ -3241,7 +3261,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117811876331487662": {
    "id": "2117811876331487662",
@@ -3265,7 +3285,22 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2117738242992959924",
+     "author_handle": "DKokotajlo",
+     "author_name": "Daniel Kokotajlo",
+     "text": "The definition:\n\"We will consider this threshold to be met if we determine that either (1) our models would be able to fully substitute for our entire set of Research Scientists and Research Engineers, at competitive costs (i.e., within a factor of 5); or (2) there is “dramatic acceleration” of the pace of AI progress for reasons that likely relate to the automation of AI R&D. We would consider scenario (2) to have occurred where (a) we observe or expect double the rate of progress in AI aggregate capabilities compared to both the rate we’d expect and the fastest rate of extended progress we’ve observed in the absence of significant AI contributions to AI R&D and (b ) it is plausible that this doubling is substantially attributable to the automation of research and/or engineering (as opposed to other factors, such as increased headcount, compute, or general productivity), such that continuation of the trend in AI progress seems likely to lead to even greater acceleration.\"\n\n(1) seems to a bit weaker than our SAR milestone in the AIFM, but it doesn't seem like this is the threshold they are invoking, it seems like they are talking about (2). (And if they were invoking (1) I think that would be even worse?)\n\nAIFM: https://t.co/XJBWUBZh0d\nAnthropic RSP threshold definition: https://t.co/FBDuiNjRv1",
+     "links": {
+      "https://t.co/XJBWUBZh0d": "https://www.aifuturesmodel.com",
+      "https://t.co/FBDuiNjRv1": "https://www-cdn.anthropic.com/files/4zrzovbb/website/0bacdc8440ea96e62a8766d99ebe1d4eea6d5f3a.pdf"
+     },
+     "media": [],
+     "url": "https://x.com/DKokotajlo/status/2117738242992959924",
+     "created_at": "Tue Nov 03 21:58:37 +0000 2026"
+    }
+   ]
   },
   "2117737973953290488": {
    "id": "2117737973953290488",
@@ -3295,7 +3330,7 @@
    },
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117736715154825412": {
    "id": "2117736715154825412",
@@ -3319,7 +3354,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118174654481260819": {
    "id": "2118174654481260819",
@@ -3343,7 +3378,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118550350600999227": {
    "id": "2118550350600999227",
@@ -3371,7 +3406,7 @@
    },
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118548628721807860": {
    "id": "2118548628721807860",
@@ -3401,7 +3436,7 @@
    },
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118460380100145217": {
    "id": "2118460380100145217",
@@ -3425,7 +3460,24 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118365268342652934",
+    "author_handle": "mkratsios47",
+    "author_name": "Director Michael Kratsios",
+    "text": "Today, we released the National Policy for Nucleic Acid Synthesis Screening to protect American biotechnology innovation while reducing the risk of misuse. \n\nThis policy establishes a new, government-wide screening requirements for synthetic DNA and the equipment used to make it. It will ensure companies selling nucleic acid sequences and synthesis equipment know their customers and prevent the malicious use of these materials and tools.\n\nThis policy strengthens our Nation’s biosecurity posture by establishing rigorous U.S. government-wide procurement screening and physical security standards for synthetic biology. It replaces outdated “self-attestation” systems with robust, independent verification. It creates a dynamic, SI-powered screening layer that assesses the biological risk from nucleic acid sequences, allowing the U.S. to anticipate and prevent malicious use and help stop dangerous gain-of-function research. \n\n@NIST will issue rigorous new screening standards and @HHSGov and @USDA will certify synthetic biology providers. Together, these measures will strengthen American biosecurity, safeguard responsible innovation, and establish a global standard for safe and transparent synthetic biology tools and research.",
+    "links": {
+     "https://t.co/PDEFP13N1L": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWXxIGyXQAAMlJ4.jpg"
+     }
+    ],
+    "url": "https://x.com/mkratsios47/status/2118365268342652934",
+    "created_at": "Thu Nov 05 15:30:11 +0000 2026"
+   }
   },
   "2118912749484880220": {
    "id": "2118912749484880220",
@@ -3449,7 +3501,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2118910193610203445": {
    "id": "2118910193610203445",
@@ -3473,7 +3525,17 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118798463639179504",
+    "author_handle": "karthiktadepall",
+    "author_name": "Karthik Tadepalli",
+    "text": "People really overestimate the barriers to entry in AI safety. Every prominent AI safety person was once just a random on LessWrong. You don't need a fellowship to give you permission to do impactful work! Just do things!!",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/karthiktadepall/status/2118798463639179504",
+    "created_at": "Fri Nov 06 20:11:33 +0000 2026"
+   }
   },
   "2119235367140274507": {
    "id": "2119235367140274507",
@@ -3505,7 +3567,7 @@
     "text": "Anthropic's valuation has now been roughly cut in half from the lofty $2 trillion heights that were being spoken of in financial circles only a month ago. On the plus side, if you are a believer, you can now get in for about half price. The IPO media blitz is starting Monday. https://t.co/daCAp37Lgo"
    },
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2119235165171974459": {
    "id": "2119235165171974459",
@@ -3535,7 +3597,7 @@
     "text": "The story keeps getting crazier. To recap everything that has been reported so far: \n\n- The US intelligence community discovered that Jensen Huang, the CEO of the largest company in the world, was sleeping with Alice Huang, a Chinese spy and an executive at Megaspeed. (FT)\n- Multiple independent investigations have concluded that Megaspeed is likely a Chinese cutout, which helps Chinese companies access AI chips or circumvent export controls. (NYT and Bloomberg) \n- The US intelligence community also concluded that Alice Huang’s goal was to convince Jensen to lobby the U.S. government to loosen export controls on advanced AI chips. (NYT)\n- The intelligence community relayed this information to “a small group of top US government officials” earlier this year. (FT)\n- Over the last year, Jensen Huang has repeatedly lobbied the U.S. government to loosen export controls on advanced chips. @BISgov has done so, not only by permitting the export of H200 chips to China, but also not enforcing export controls that would have required a license for exports of the most advanced Blackwell chips to Megaspeed and Southeast Asia.\n- Although @CommerceGov leadership was presumably briefed on this information by the U.S. intelligence community, @BISgov has taken no actions to tighten controls on Megaspeed or Southeast Asia. \n- Megaspeed remains a preferred cloud partner of Nvidia, and continues to receive Nvidia Blackwell chips despite employing a Chinese spy who reportedly is romantically engaged with the CEO of Nvidia. \n- Tens of billions of dollars worth of AI chips have been exported to Southeast Asia this year alone, and Malaysia and Singapore are now two of the four largest importers of AI chips in the world. \n\nWhat is going on here??? We need answers. The question of who gets the most advanced AI chips in the world is literally the defining strategic question of our time. And not only does it seem like the MSS may be directly influencing the debate on export controls in the United States, but also @CommerceGov is refusing to listen to the warnings of the IC on this issue. What is a POSSIBLE good explanation for why Megaspeed is still receiving chips? Why is there not a license requirement for AI chip shipments to all of Southeast Asia? This is beyond strange at this point. \n\nThe fallout from this story will be massive. Obviously, the motivations underpinning Nvidia’s policy views opposing export controls must now all be questioned. But also, how did @BISgov sit on this information and has still taken no actions? We need answers."
    },
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2119233955576602710": {
    "id": "2119233955576602710",
@@ -3559,7 +3621,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2119233415438622754": {
    "id": "2119233415438622754",
@@ -3590,7 +3652,37 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 1
+   "enriched": 2
+  },
+  "2119573796738752849": {
+   "id": "2119573796738752849",
+   "url": "https://x.com/DaveRBanerjee/status/2119573796738752849",
+   "text": "Ig it’s possible that Jensen was feeding lies to the Chinese spy that AI is a normal technology, hence China doesn’t want to buy hoppers",
+   "created_at": "Sun Nov 08 23:32:27 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 15,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2119235165171974459",
+    "author_name": "Dave Banerjee",
+    "links": {},
+    "author": "DaveRBanerjee",
+    "text": "This Jensen spy situation is actually insane\n\nBut the thing I’m still confused about is why China is preventing their own AI companies from buying hoppers"
+   },
+   "fetched_at": "2026-11-09T14:02:18.898653+00:00",
+   "enriched": 2
   }
  }
 }

@@ -9314,7 +9314,19 @@
    "links": {
     "https://t.co/6sHnGrIIgO": ""
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2117627793928274067",
+    "author_handle": "SCP_Hughes",
+    "author_name": "Samuel Hughes",
+    "text": "How can we make lovable cities? If you had asked a European architect this question in 1900, they would probably have referred you to a slender, lively book by the Austrian writer Camillo Sitte, translated as ‘The Art of Building Cities’. Published in 1889, ‘The Art of Building Cities’ swiftly came to be revered around the world.\n\nhttps://t.co/qwVmTrPTGV\n\nSitte was repudiated by the modernists and fell into obscurity, but his ideas are beginning to be revived. My cousin @PMArslanagic and I have distilled nineteenth century's finest work on urbanism into five principles:\n\n- Create enclosed spaces\n- Keep squares small\n- Symmetry is overrated\n- Move monuments to the edges of spaces\n- Nestle monuments in vernacular fabric",
+    "links": {
+     "https://t.co/qwVmTrPTGV": "https://worksinprogress.co/issue/the-forgotten-formula-for-lovable-cities/?v2"
+    },
+    "media": [],
+    "url": "https://x.com/SCP_Hughes/status/2117627793928274067",
+    "created_at": "Tue Nov 03 14:39:44 +0000 2026"
+   }
   },
   "2117518864804135362": {
    "id": "2117518864804135362",
@@ -9438,7 +9450,7 @@
    "links": {
     "https://t.co/BotbICPJOw": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118037579765293255": {
    "id": "2118037579765293255",
@@ -9469,7 +9481,7 @@
    "links": {
     "https://t.co/kaS56JFb9z": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118037573419565558": {
    "id": "2118037573419565558",
@@ -9493,7 +9505,24 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118029048911917298",
+    "author_handle": "lennysan",
+    "author_name": "Lenny Rachitsky",
+    "text": "Loving @WorksInProgMag https://t.co/kaS56JFb9z",
+    "links": {
+     "https://t.co/kaS56JFb9z": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWTAA0EagAA9Xz7.jpg"
+     }
+    ],
+    "url": "https://x.com/lennysan/status/2118029048911917298",
+    "created_at": "Wed Nov 04 17:14:10 +0000 2026"
+   }
   },
   "2118019728870428879": {
    "id": "2118019728870428879",
@@ -9517,7 +9546,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118016231194132816",
+    "author_handle": "HHH_Report",
+    "author_name": "HHH_Report",
+    "text": "@s8mb Brilliant stuff, Sam.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/HHH_Report/status/2118016231194132816",
+    "created_at": "Wed Nov 04 16:23:15 +0000 2026"
+   }
   },
   "2118016714206335443": {
    "id": "2118016714206335443",
@@ -9541,7 +9580,28 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118016063761703339",
+    "author_handle": "bk_moore",
+    "author_name": "BK Moore",
+    "text": "Had to pick up the latest copy of @WorksInProgMag while in NYC last week. Highly recommend getting a copy. As of today, you can get it at Barnes &amp; Noble. Excellent work by @s8mb, @salonium, @Birdyword, @tamarawinter, and co. https://t.co/pf8oGUH3gL",
+    "links": {
+     "https://t.co/pf8oGUH3gL": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWS0YMgX0AEj8-u.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWS0YMkWQAA59c3.jpg"
+     }
+    ],
+    "url": "https://x.com/bk_moore/status/2118016063761703339",
+    "created_at": "Wed Nov 04 16:22:35 +0000 2026"
+   }
   },
   "2118016688683675852": {
    "id": "2118016688683675852",
@@ -9576,7 +9636,7 @@
    "links": {
     "https://t.co/pf8oGUH3gL": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118015869410324720": {
    "id": "2118015869410324720",
@@ -9600,7 +9660,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118015721255116834",
+    "author_handle": "srajagopalan",
+    "author_name": "Shruti Rajagopalan",
+    "text": "@s8mb Incredible! Next goal, 100+ countries. Can we please start with India?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/srajagopalan/status/2118015721255116834",
+    "created_at": "Wed Nov 04 16:21:13 +0000 2026"
+   }
   },
   "2118015642213429327": {
    "id": "2118015642213429327",
@@ -9624,7 +9694,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118015162342883415",
+    "author_handle": "ATabarrok",
+    "author_name": "Alex Tabarrok",
+    "text": "@s8mb Amazing! Way to go.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/ATabarrok/status/2118015162342883415",
+    "created_at": "Wed Nov 04 16:19:00 +0000 2026"
+   }
   },
   "2118015620390244759": {
    "id": "2118015620390244759",
@@ -9648,7 +9728,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118011803825475981",
+    "author_handle": "TziokasV",
+    "author_name": "vassilis (∎, ∆)",
+    "text": "@s8mb this is excellent news. photos from seattle incoming 🔜\n\ncongratulations!",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/TziokasV/status/2118011803825475981",
+    "created_at": "Wed Nov 04 16:05:39 +0000 2026"
+   }
   },
   "2118015544628572594": {
    "id": "2118015544628572594",
@@ -9672,7 +9762,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118015050245976444",
+    "author_handle": "Afinetheorem",
+    "author_name": "Kevin A. Bryan",
+    "text": "@s8mb Fabulous, congrats!",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/Afinetheorem/status/2118015050245976444",
+    "created_at": "Wed Nov 04 16:18:33 +0000 2026"
+   }
   },
   "2118015523216593400": {
    "id": "2118015523216593400",
@@ -9696,7 +9796,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118007469792522628",
+    "author_handle": "AlecStapp",
+    "author_name": "Alec Stapp",
+    "text": "@s8mb LFG",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/AlecStapp/status/2118007469792522628",
+    "created_at": "Wed Nov 04 15:48:26 +0000 2026"
+   }
   },
   "2118015502274764968": {
    "id": "2118015502274764968",
@@ -9720,7 +9830,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118013221353242764",
+    "author_handle": "GrantTucker",
+    "author_name": "Grant Tucker",
+    "text": "@s8mb Such great news. I've been a Works in Progress print subscriber since the first edition and it has been consistently brilliant. I feel wiser for reading it.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/GrantTucker/status/2118013221353242764",
+    "created_at": "Wed Nov 04 16:11:17 +0000 2026"
+   }
   },
   "2118015428845072492": {
    "id": "2118015428845072492",
@@ -9744,7 +9864,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118008321970254220",
+    "author_handle": "afrazhaowang",
+    "author_name": "afra wang",
+    "text": "@s8mb @pietergaricano congrats!!",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/afrazhaowang/status/2118008321970254220",
+    "created_at": "Wed Nov 04 15:51:49 +0000 2026"
+   }
   },
   "2118015412088504678": {
    "id": "2118015412088504678",
@@ -9768,7 +9898,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118012669383053339",
+    "author_handle": "BeatrizGietner",
+    "author_name": "Bia",
+    "text": "@s8mb omggggggggggggg HUGEEE\ncongrats!!!!",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/BeatrizGietner/status/2118012669383053339",
+    "created_at": "Wed Nov 04 16:09:05 +0000 2026"
+   }
   },
   "2118015387560464670": {
    "id": "2118015387560464670",
@@ -9792,7 +9932,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118008283818545201",
+    "author_handle": "sebkrier",
+    "author_name": "Séb Krier",
+    "text": "@s8mb Nice!",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/sebkrier/status/2118008283818545201",
+    "created_at": "Wed Nov 04 15:51:40 +0000 2026"
+   }
   },
   "2118015370657235328": {
    "id": "2118015370657235328",
@@ -9816,7 +9966,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118014783400423574",
+    "author_handle": "amelapay",
+    "author_name": "Pamela J. Hobart",
+    "text": "@s8mb wow this is huge, congrats!!",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/amelapay/status/2118014783400423574",
+    "created_at": "Wed Nov 04 16:17:29 +0000 2026"
+   }
   },
   "2118015344321221102": {
    "id": "2118015344321221102",
@@ -9840,7 +10000,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118010132428738893",
+    "author_handle": "tamarawinter",
+    "author_name": "Tamara Winter",
+    "text": "@s8mb w-what did Wyoming do",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/tamarawinter/status/2118010132428738893",
+    "created_at": "Wed Nov 04 15:59:00 +0000 2026"
+   }
   },
   "2118015307381977429": {
    "id": "2118015307381977429",
@@ -9864,7 +10034,24 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118010596818133286",
+    "author_handle": "AtalantaArdenM",
+    "author_name": "Atalanta",
+    "text": "@s8mb This could be you! https://t.co/TED35hYgfy",
+    "links": {
+     "https://t.co/TED35hYgfy": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWSvU1GW8AA4TwO.jpg"
+     }
+    ],
+    "url": "https://x.com/AtalantaArdenM/status/2118010596818133286",
+    "created_at": "Wed Nov 04 16:00:51 +0000 2026"
+   }
   },
   "2118009921241289159": {
    "id": "2118009921241289159",
@@ -9888,7 +10075,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118009412107608198",
+    "author_handle": "sarthakgh",
+    "author_name": "Sar Haribhakti",
+    "text": "@s8mb congrats sam and wip crew! very exciting",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/sarthakgh/status/2118009412107608198",
+    "created_at": "Wed Nov 04 15:56:09 +0000 2026"
+   }
   },
   "2118009416687702185": {
    "id": "2118009416687702185",
@@ -9923,7 +10120,19 @@
    "links": {
     "https://t.co/I52GkErXfq": ""
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118006659100385451",
+    "author_handle": "s8mb",
+    "author_name": "Sam Bowman",
+    "text": "From today, Works in Progress is now in stock at Barnes & Nobles nationwide across America. \n\nWe're in 570 stores in 49 states*, including the flagship stores at Union Square & Fifth Avenue in NYC; Georgetown, DC; State Street, Chicago; and The Grove, Los Angeles. \n\nWe're also now in Hudson News outlets across most major US airports, and the B&Ns at San Francisco Airport.\n\nIf you tweet (or LinkedIn/Insta post) a photo of a copy of Works in Progress outside any of these stores, share the post with me or @WorksInProgMag via DM and we'll send you a free tote bag as a thank you. If you're a subscriber already, feel free to do it with own copy!\n\nYou can see a full map of Barnes & Noble stockists here, and enter your Zip code to find your nearest store.\n\n*Sorry, Wyoming, we'll get to you!\n\nhttps://t.co/a22LtQP2HW",
+    "links": {
+     "https://t.co/a22LtQP2HW": "https://worksinprogress.co/barnes-noble-launch/"
+    },
+    "media": [],
+    "url": "https://x.com/s8mb/status/2118006659100385451",
+    "created_at": "Wed Nov 04 15:45:12 +0000 2026"
+   }
   },
   "2118006659100385451": {
    "id": "2118006659100385451",
@@ -9949,7 +10158,30 @@
    "links": {
     "https://t.co/a22LtQP2HW": "https://worksinprogress.co/barnes-noble-launch/"
    },
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118009416687702185",
+     "author_handle": "s8mb",
+     "author_name": "Sam Bowman",
+     "text": "We're also in stock at independent newsagents in London, New York, Paris, Berlin and Los Angeles. We'll appear in magCulture in Clerkenwell tomorrow and we're already up and running on one of London's loveliest streets, Chiltern St. https://t.co/I52GkErXfq",
+     "links": {
+      "https://t.co/I52GkErXfq": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWSs8anWQAAxn59.jpg"
+      },
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWSs-EjW8AAb-na.jpg"
+      }
+     ],
+     "url": "https://x.com/s8mb/status/2118009416687702185",
+     "created_at": "Wed Nov 04 15:56:10 +0000 2026"
+    }
+   ]
   },
   "2117928926093746334": {
    "id": "2117928926093746334",
@@ -9975,7 +10207,7 @@
    "links": {
     "https://t.co/qwVmTrPTGV": "https://worksinprogress.co/issue/the-forgotten-formula-for-lovable-cities/?v2"
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2117899168966729881": {
    "id": "2117899168966729881",
@@ -9999,7 +10231,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117869257518125157": {
    "id": "2117869257518125157",
@@ -10023,7 +10255,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2117759412051890502",
+    "author_handle": "MarcopoloLondon",
+    "author_name": "Marcopolo",
+    "text": "@s8mb Can get very busy",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/MarcopoloLondon/status/2117759412051890502",
+    "created_at": "Tue Nov 03 23:22:44 +0000 2026"
+   }
   },
   "2117747531572531559": {
    "id": "2117747531572531559",
@@ -10047,7 +10289,19 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2117739250804232309",
+    "author_handle": "StefanFSchubert",
+    "author_name": "Stefan Schubert",
+    "text": "@s8mb https://t.co/pFmvvpCAGg",
+    "links": {
+     "https://t.co/pFmvvpCAGg": "https://en.wikipedia.org/wiki/Stendhal_syndrome"
+    },
+    "media": [],
+    "url": "https://x.com/StefanFSchubert/status/2117739250804232309",
+    "created_at": "Tue Nov 03 22:02:37 +0000 2026"
+   }
   },
   "2117747355017474252": {
    "id": "2117747355017474252",
@@ -10071,7 +10325,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2117746615641649394",
+    "author_handle": "UrbanCourtyard",
+    "author_name": "Alicia, Courtyard Urbanist",
+    "text": "I lived in Florence for two years as a young adult and that’s why my standards for walkability and amenity and dual aspect apartments are so high",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/UrbanCourtyard/status/2117746615641649394",
+    "created_at": "Tue Nov 03 22:31:53 +0000 2026"
+   }
   },
   "2117738659965452447": {
    "id": "2117738659965452447",
@@ -10108,7 +10372,7 @@
    "links": {
     "https://t.co/OnsBn8atx8": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118073704458682571": {
    "id": "2118073704458682571",
@@ -10134,7 +10398,30 @@
    "links": {
     "https://t.co/a22LtQP2HW": "https://worksinprogress.co/barnes-noble-launch/"
    },
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118009416687702185",
+     "author_handle": "s8mb",
+     "author_name": "Sam Bowman",
+     "text": "We're also in stock at independent newsagents in London, New York, Paris, Berlin and Los Angeles. We'll appear in magCulture in Clerkenwell tomorrow and we're already up and running on one of London's loveliest streets, Chiltern St. https://t.co/I52GkErXfq",
+     "links": {
+      "https://t.co/I52GkErXfq": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWSs8anWQAAxn59.jpg"
+      },
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWSs-EjW8AAb-na.jpg"
+      }
+     ],
+     "url": "https://x.com/s8mb/status/2118009416687702185",
+     "created_at": "Wed Nov 04 15:56:10 +0000 2026"
+    }
+   ]
   },
   "2118052772297728431": {
    "id": "2118052772297728431",
@@ -10158,7 +10445,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T21:20:35.164155+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118014001049383182",
+    "author_handle": "krispuckett",
+    "author_name": "Kris Puckett",
+    "text": "This is my favorite magazine and easily the most beautiful, thoughtful collection of writing published monthly.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/krispuckett/status/2118014001049383182",
+    "created_at": "Wed Nov 04 16:14:23 +0000 2026"
+   }
   },
   "2118051756295032899": {
    "id": "2118051756295032899",
@@ -10200,7 +10497,7 @@
    "links": {
     "https://t.co/8D0f8WV44j": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118335088614388138": {
    "id": "2118335088614388138",
@@ -10224,7 +10521,36 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118278964581957917",
+    "author_handle": "ChadWestTweets",
+    "author_name": "Chad",
+    "text": "I genuinely believe that we’ve designed one of the most beautiful homes in London. https://t.co/0zKOZvJzmc",
+    "links": {
+     "https://t.co/0zKOZvJzmc": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWWjfP7XMAAglkN.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWWjfPqXgAAsOhC.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWWjfPoXoAA6iOl.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWWjfPqWoAAmbTU.jpg"
+     }
+    ],
+    "url": "https://x.com/ChadWestTweets/status/2118278964581957917",
+    "created_at": "Thu Nov 05 09:47:15 +0000 2026"
+   }
   },
   "2118236336335294687": {
    "id": "2118236336335294687",
@@ -10248,7 +10574,24 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118102442147770790",
+    "author_handle": "omgmaddie",
+    "author_name": "MADDIE📚",
+    "text": "Love it when something makes it from TL to IRL 😎 Congrats @WorksInProgMag! https://t.co/k8zehvjwbR",
+    "links": {
+     "https://t.co/k8zehvjwbR": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWUC8MAa4AAp89M.jpg"
+     }
+    ],
+    "url": "https://x.com/omgmaddie/status/2118102442147770790",
+    "created_at": "Wed Nov 04 22:05:49 +0000 2026"
+   }
   },
   "2118236326239830456": {
    "id": "2118236326239830456",
@@ -10279,7 +10622,7 @@
    "links": {
     "https://t.co/k8zehvjwbR": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118234920275636571": {
    "id": "2118234920275636571",
@@ -10310,7 +10653,7 @@
    "links": {
     "https://t.co/1lfMAvF5uO": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118234905159111061": {
    "id": "2118234905159111061",
@@ -10334,7 +10677,24 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118231783183614147",
+    "author_handle": "kanlu_07",
+    "author_name": "ryan",
+    "text": "snagged vol 26 @WorksInProgMag https://t.co/1lfMAvF5uO",
+    "links": {
+     "https://t.co/1lfMAvF5uO": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWV4k4ZW4AA9t6e.jpg"
+     }
+    ],
+    "url": "https://x.com/kanlu_07/status/2118231783183614147",
+    "created_at": "Thu Nov 05 06:39:46 +0000 2026"
+   }
   },
   "2118228293233115192": {
    "id": "2118228293233115192",
@@ -10365,7 +10725,7 @@
    "links": {
     "https://t.co/IcjjYztKux": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118116864748655011": {
    "id": "2118116864748655011",
@@ -10396,7 +10756,7 @@
    "links": {
     "https://t.co/IJkr5RaIzN": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118113502170915021": {
    "id": "2118113502170915021",
@@ -10427,7 +10787,7 @@
    "links": {
     "https://t.co/1gRwEg3ylY": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118105694759186695": {
    "id": "2118105694759186695",
@@ -10458,7 +10818,7 @@
    "links": {
     "https://t.co/BBtO6bw1n4": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118105680213381163": {
    "id": "2118105680213381163",
@@ -10482,7 +10842,24 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118105506887717117",
+    "author_handle": "0xperp",
+    "author_name": "lucas",
+    "text": "From Chicago! https://t.co/BBtO6bw1n4",
+    "links": {
+     "https://t.co/BBtO6bw1n4": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWUFuzXXEAAoukX.jpg"
+     }
+    ],
+    "url": "https://x.com/0xperp/status/2118105506887717117",
+    "created_at": "Wed Nov 04 22:17:59 +0000 2026"
+   }
   },
   "2118395878440595839": {
    "id": "2118395878440595839",
@@ -10506,7 +10883,28 @@
    "quoted": null,
    "fetched_at": "2026-11-05T18:45:11.192238+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118395596818313377",
+    "author_handle": "edatweets_",
+    "author_name": "Eda Akturk",
+    "text": "made it off the timeline! stopped by Barnes and Nobles in Union Sq this morning to get mine @WorksInProgMag ✨ https://t.co/POENPNCXmL",
+    "links": {
+     "https://t.co/POENPNCXmL": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWYNkAgWYAAgjd3.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWYNkAjWwAAdjQD.jpg"
+     }
+    ],
+    "url": "https://x.com/edatweets_/status/2118395596818313377",
+    "created_at": "Thu Nov 05 17:30:42 +0000 2026"
+   }
   },
   "2118390085045682326": {
    "id": "2118390085045682326",
@@ -10541,7 +10939,7 @@
    "links": {
     "https://t.co/9zl16HBL5A": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118455261459558691": {
    "id": "2118455261459558691",
@@ -10571,7 +10969,7 @@
    },
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118453190786220292": {
    "id": "2118453190786220292",
@@ -10606,7 +11004,7 @@
    "links": {
     "https://t.co/l8XyTAnzXQ": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118440171695993237": {
    "id": "2118440171695993237",
@@ -10630,7 +11028,17 @@
    "quoted": null,
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118434879025152406",
+    "author_handle": "davidrconway",
+    "author_name": "David Conway",
+    "text": "@s8mb @Birdyword @bswud wip smoking jackets might fit better...",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/davidrconway/status/2118434879025152406",
+    "created_at": "Thu Nov 05 20:06:48 +0000 2026"
+   }
   },
   "2118677694313542067": {
    "id": "2118677694313542067",
@@ -10660,7 +11068,7 @@
    },
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118615275121578249": {
    "id": "2118615275121578249",
@@ -10686,7 +11094,7 @@
    "links": {
     "https://t.co/XQT3lLtdaz": "https://worksinprogress.co/issue/did-medieval-people-love-their-children/"
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118605392875868163": {
    "id": "2118605392875868163",
@@ -10710,7 +11118,24 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118436211849347226",
+    "author_handle": "WesleyJamesOnX",
+    "author_name": "Wesley James",
+    "text": "Been reading and following @WorksInProgMag online for awhile but excited to finally read an issue in person. Picked it up at the Barnes &amp; Noble at 20th St and Camelback in Phoenix. https://t.co/x6wJJ7bd1I",
+    "links": {
+     "https://t.co/x6wJJ7bd1I": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWYygJQacAAmFy2.jpg"
+     }
+    ],
+    "url": "https://x.com/WesleyJamesOnX/status/2118436211849347226",
+    "created_at": "Thu Nov 05 20:12:06 +0000 2026"
+   }
   },
   "2119023417819332788": {
    "id": "2119023417819332788",
@@ -10741,7 +11166,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2119020346074333364": {
    "id": "2119020346074333364",
@@ -10765,7 +11190,17 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118998867542729047",
+    "author_handle": "Chakrex1",
+    "author_name": "Ro",
+    "text": "@s8mb Main problem with gas power generation is you can't get a turbine for 5 years. Has very little to do with net zero",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/Chakrex1/status/2118998867542729047",
+    "created_at": "Sat Nov 07 09:27:53 +0000 2026"
+   }
   },
   "2119008891971244467": {
    "id": "2119008891971244467",
@@ -10789,7 +11224,17 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2119008603608609118",
+    "author_handle": "timleunig",
+    "author_name": "Tim Leunig",
+    "text": "Surbiton station is a lot busier than this and we have never had an escalator!!",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/timleunig/status/2119008603608609118",
+    "created_at": "Sat Nov 07 10:06:35 +0000 2026"
+   }
   },
   "2119007498212393142": {
    "id": "2119007498212393142",
@@ -10813,7 +11258,17 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2119003316596482151",
+    "author_handle": "dwatkins_",
+    "author_name": "David Watkins",
+    "text": "@s8mb It looks at home in the place on chiltern street. How many stockists do you have in the UK?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/dwatkins_/status/2119003316596482151",
+    "created_at": "Sat Nov 07 09:45:34 +0000 2026"
+   }
   },
   "2119007014802350500": {
    "id": "2119007014802350500",
@@ -10844,7 +11299,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2119001372314272001": {
    "id": "2119001372314272001",
@@ -10876,7 +11331,7 @@
     "text": "There's something particularly appealing about @WorksInProgMag in print @s8mb https://t.co/tXAEIg1hLn"
    },
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2119001117300506837": {
    "id": "2119001117300506837",
@@ -10900,7 +11355,24 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118704932388044913",
+    "author_handle": "dwatkins_",
+    "author_name": "David Watkins",
+    "text": "There's something particularly appealing about @WorksInProgMag in print @s8mb https://t.co/tXAEIg1hLn",
+    "links": {
+     "https://t.co/tXAEIg1hLn": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWcm2ZlXQAE4LAj.jpg"
+     }
+    ],
+    "url": "https://x.com/dwatkins_/status/2118704932388044913",
+    "created_at": "Fri Nov 06 13:59:54 +0000 2026"
+   }
   },
   "2118999091166196049": {
    "id": "2118999091166196049",
@@ -10924,7 +11396,17 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118986689662390564",
+    "author_handle": "bendunnflores",
+    "author_name": "bdf",
+    "text": "@s8mb They're always calling for 'public control', never 'a parliamentary subcommittee', or 'an executive agency', or 'a mutual company'. Makes me almost think they haven't thought it through",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/bendunnflores/status/2118986689662390564",
+    "created_at": "Sat Nov 07 08:39:30 +0000 2026"
+   }
   },
   "2118997486098657565": {
    "id": "2118997486098657565",
@@ -10954,7 +11436,7 @@
     "text": "A common Westminster mistake is to look at big moments in US politics and assume the same battle lines will be drawn here. AI and the mid-terms are a good example of this.\n \nThe easy assumption is that a big polarising debate on data centres is about to hit the UK, just because it has in the US. But that ignores two important facts.\n \nFirst, the government has watched the free-for-all in parts of the US, has learned lessons from it, and is setting out a different approach. We do need to secure grid connections for strategic data centres, and we are setting up a Ministerial Control Centre to do just that. But move too quickly without bringing communities with you, and people understandably start worrying about the impact on their area and asking what they’re getting in return. That's why we're putting protections in place, to prioritise data centres only where they meet the tests set out in our Data Centre Covenant published at the Budget.\n \nThis means data centres have to lower electricity bills for other users, minimise and report on water usage, support our reindustrialisation objectives and support UK sovereignty.  And crucially, it means agreeing to the principle that local communities around new infrastructure should share in its benefits - both through jobs and wider support.\n\nSecond, our problem is not that we have an abundance of data centre construction that our politics needs to reckon with, it's that build out is slower here than it could be. 15 of the world’s top 20 largest data centre markets are in the US. None are in the UK.  The pace of investment here is, frankly, too low for what we need to stay at the forefront as AI technology develops. High electricity costs and slow grid connections (thanks, Conservatives) mean we haven't been near the top of the list for investment, and too often we're reliant on AI infrastructure overseas. The Budget last week set out a new direction to change this for all business and households, but we can't turn this round overnight.\n \nData Centres today are essential infrastructure.  They underpin much of everyday life in the UK, from banking and shopping, to public services, to helping doctors screen for diseases.  AI makes that infrastructure even more important and as AI becomes more widely used across out economy, Britain will need more of the data centres that support it. But we won’t allow that growth to come at any cost. We’ll protect communities.  And we’ll make sure local people benefit."
    },
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2118964002701099510": {
    "id": "2118964002701099510",
@@ -10984,7 +11466,7 @@
     "text": "AI is engineered to be an essential. It’s being baked into our life & our work. We are going to rely on it with little choice to opt out individually. That’s one of the reasons why AI belongs under public control. Whoever controls the essentials has control over our society and economy. In a democracy that control belongs to the people."
    },
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2118824702026420658": {
    "id": "2118824702026420658",
@@ -11016,7 +11498,7 @@
     "text": "we have a winner for the most absurd AI startup ever\n\nthis Peter Thiel backed company uses AI robots to stab fish in the brain so they taste better and last up to 3x longer\n\nit's called Shinkei and it modernizes a centuries-old Japanese technique\n\ndozens of Michelin-star restaurants are already lining up to buy the fish\n\nhere's how it works:\n\n> the problem is when a fish gets caught, it usually just suffocates on the boat\n\n> that stress floods the meat with hormones and lactic acid, which hurts the flavor and texture\n\n> the old Japanese fix for this was spiking the fish through the brain right after the catch, which stops all that\n\n> but doing it by hand is impractical for most American fishing crews\n\n> so Shinkei built a fridge-sized robot that sits right on the boat's deck\n\n> the crew feeds in a fish and AI identifies the exact species, so it knows exactly where the brain and gills are\n\n> the robot then drives the spike through the brain and cuts near the gills in about 7 seconds\n\n> the fish goes into an ice slurry so the blood drains out\n\n> so the fish doesn't sit there stressing out, and that tasty flavor and texture is preserved\n\nexample number 5,392,417 of how AI can be applied to literally anything"
    },
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2118822410824700195": {
    "id": "2118822410824700195",
@@ -11047,7 +11529,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2119110209125638531": {
    "id": "2119110209125638531",
@@ -11086,7 +11568,17 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T16:50:32.232257+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2119106164071993837",
+    "author_handle": "TaylorLorenz",
+    "author_name": "Taylor Lorenz",
+    "text": "@s8mb This is a really misleading crop of the discussion. No one was arguing against using data to make ur charitable giving effective. The issue with the Dario quote being discussed was the totally subjective moral judgment that he used for his \"calculations.\" \n  \nYou can objectively measure how many lives a vaccination program saves, but you *cannot* claim that an adult's life is \"worth 2 to 3x more\" than an infant's bc adults have \"deeper experiences.\" That's the issue at hand and it seems like you’re trying to misrepresent it. (And this is not a dig at Kelsey who I really like). Let’s just be honest about what people take issue with!",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/TaylorLorenz/status/2119106164071993837",
+    "created_at": "Sat Nov 07 16:34:15 +0000 2026"
+   }
   },
   "2119106724686913956": {
    "id": "2119106724686913956",
@@ -11110,7 +11602,17 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T16:50:32.232257+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2119040038629703684",
+    "author_handle": "tractoreric",
+    "author_name": "David",
+    "text": "@s8mb Gas is generally below capacity apart from 4 hours a day on still winter evenings. Using existing gas plants more intensively reduces “all in costs” and lost energy in the heat up/cool down.  Most data centres need power back up, so bridging that 4 hour gap doesn’t seem unusual?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/tractoreric/status/2119040038629703684",
+    "created_at": "Sat Nov 07 12:11:29 +0000 2026"
+   }
   },
   "2119114605385634122": {
    "id": "2119114605385634122",
@@ -11134,7 +11636,17 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T19:26:16.707844+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2119113958250692913",
+    "author_handle": "TaylorLorenz",
+    "author_name": "Taylor Lorenz",
+    "text": "@s8mb @cernlaboratory I wasn’t replying to you!! I am replying to the tweet from @cernlaboratory. He posted a screenshot of my tweet out of context. Here’s the tweet I was replying to, speaking to him, not you. (I have no beef with u I’m really sorry for the confusion!! 😭)",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/TaylorLorenz/status/2119113958250692913",
+    "created_at": "Sat Nov 07 17:05:13 +0000 2026"
+   }
   },
   "2119113327494214130": {
    "id": "2119113327494214130",
@@ -11158,7 +11670,17 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T19:26:16.707844+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2119112768985178594",
+    "author_handle": "TaylorLorenz",
+    "author_name": "Taylor Lorenz",
+    "text": "@cernlaboratory @s8mb You have to keep screenshotting bc if you link to the full convo people will be able to see the full context of my comments and you can’t misrepresent them. Very silly behavior!",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/TaylorLorenz/status/2119112768985178594",
+    "created_at": "Sat Nov 07 17:00:29 +0000 2026"
+   }
   },
   "2119358546928414948": {
    "id": "2119358546928414948",
@@ -11182,7 +11704,17 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2119357896538329336",
+    "author_handle": "ant_studies",
+    "author_name": "Anthony",
+    "text": "@PrometheusCHT @s8mb the article you linked hasn't even tried to quantify the impact let alone assign error bars... maybe you should come back with some stronger evidence first",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/ant_studies/status/2119357896538329336",
+    "created_at": "Sun Nov 08 09:14:32 +0000 2026"
+   }
   },
   "2119354032447971438": {
    "id": "2119354032447971438",
@@ -11206,7 +11738,24 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2119170958988829161",
+    "author_handle": "JEBistline",
+    "author_name": "John Bistline",
+    "text": "Found @WorksInProgMag at my local Barnes &amp; Noble. Mosquito eradication, Victorian nightclubs, and weapons of mass decentralization, all in one place. Brick and mortar is still undefeated. https://t.co/M7LQpR8hyS",
+    "links": {
+     "https://t.co/M7LQpR8hyS": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWjOo4ibcAAg92U.jpg"
+     }
+    ],
+    "url": "https://x.com/JEBistline/status/2119170958988829161",
+    "created_at": "Sat Nov 07 20:51:43 +0000 2026"
+   }
   },
   "2119349328259285164": {
    "id": "2119349328259285164",
@@ -11243,7 +11792,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2119181474939208062": {
    "id": "2119181474939208062",
@@ -11273,7 +11822,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2119174243963539552": {
    "id": "2119174243963539552",
@@ -11297,7 +11846,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2119472314077343871": {
    "id": "2119472314077343871",
@@ -11321,7 +11870,17 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T17:03:56.475616+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2119468794963787972",
+    "author_handle": "ateAfishstick",
+    "author_name": "Terroriff",
+    "text": "@s8mb How the f is this person making enough to donate 45k per year? Isn’t she a journalist or something? If it’s substack money, another indicator the economy is broken.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/ateAfishstick/status/2119468794963787972",
+    "created_at": "Sun Nov 08 16:35:13 +0000 2026"
+   }
   },
   "2119452062996213857": {
    "id": "2119452062996213857",
@@ -11347,7 +11906,118 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-08T17:03:56.475616+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2119450253212500036",
+    "author_handle": "IJW121",
+    "author_name": "𝙸𝙹𝚆🐢",
+    "text": "@s8mb Aren't they using those nets mainly to fish? Which then causes entire ecosystems to be destroyed as the holes in the net are way too small (so it catches a lot of other smaller organisms too.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/IJW121/status/2119450253212500036",
+    "created_at": "Sun Nov 08 15:21:32 +0000 2026"
+   }
+  },
+  "2119695590762172892": {
+   "id": "2119695590762172892",
+   "url": "https://x.com/s8mb/status/2119695590762172892",
+   "text": "@zoecabina Congratulations!",
+   "created_at": "Mon Nov 09 07:36:25 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "zoecabina",
+   "reply_to_id": "2119690602120085988",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-09T14:02:18.898653+00:00",
+   "parent": {
+    "id": "2119690602120085988",
+    "author_handle": "zoecabina",
+    "author_name": "Ζoë",
+    "text": "15 weeks pregnant squatting me (and baby’s 😃 ) body weight\n\nTook a few months off because I had terrible morning sickness and was super lethargic \n\nSo it’s good to be back https://t.co/QoY0HYAaNG",
+    "links": {
+     "https://t.co/QoY0HYAaNG": ""
+    },
+    "media": [
+     {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2119690437833469952/img/m380zvm-Zq93A-EJ.jpg"
+     }
+    ],
+    "url": "https://x.com/zoecabina/status/2119690602120085988",
+    "created_at": "Mon Nov 09 07:16:36 +0000 2026"
+   },
+   "enriched": 2
+  },
+  "2119549005097320540": {
+   "id": "2119549005097320540",
+   "url": "https://x.com/s8mb/status/2119549005097320540",
+   "text": "@prosinecki_PFC I find spatchcocking cooks the breast too much. Might be my oven.",
+   "created_at": "Sun Nov 08 21:53:56 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "prosinecki_PFC",
+   "reply_to_id": "2119547648403194164",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-09T14:02:18.898653+00:00",
+   "parent": {
+    "id": "2119547648403194164",
+    "author_handle": "prosinecki_PFC",
+    "author_name": "Brendan O'Keefe",
+    "text": "@s8mb Always feel like you get a better cook when Spatchcocking, but I will give this a go",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/prosinecki_PFC/status/2119547648403194164",
+    "created_at": "Sun Nov 08 21:48:33 +0000 2026"
+   },
+   "enriched": 2
+  },
+  "2119540866490732887": {
+   "id": "2119540866490732887",
+   "url": "https://x.com/s8mb/status/2119540866490732887",
+   "text": "This is my favourite way to roast a chicken.  I can’t stand greasy chicken thighs and this recipe gives them a lot of direct heat before you start roasting. Delicious. \n\nhttps://t.co/1KxYWm51Vo",
+   "created_at": "Sun Nov 08 21:21:36 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 40,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/1KxYWm51Vo": "https://www.seriouseats.com/perfect-roast-chicken-recipe-8384377"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-09T14:02:18.898653+00:00",
+   "enriched": 2
   }
  }
 }

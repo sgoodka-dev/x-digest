@@ -5505,7 +5505,7 @@
    },
    "fetched_at": "2026-11-03T18:27:19.395380+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117685001504669869": {
    "id": "2117685001504669869",
@@ -5538,7 +5538,7 @@
    },
    "fetched_at": "2026-11-03T18:27:19.395380+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117596591645168078": {
    "id": "2117596591645168078",
@@ -5760,7 +5760,7 @@
    },
    "fetched_at": "2026-11-03T21:00:07.693918+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117700874353156245": {
    "id": "2117700874353156245",
@@ -5791,7 +5791,7 @@
    },
    "fetched_at": "2026-11-03T21:00:07.693918+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118016838030234037": {
    "id": "2118016838030234037",
@@ -5815,7 +5815,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117980704244117947": {
    "id": "2117980704244117947",
@@ -5839,7 +5839,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117873191247032458": {
    "id": "2117873191247032458",
@@ -5863,7 +5863,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2117751042675036297",
+    "author_handle": "fleetingbits",
+    "author_name": "FleetingBits",
+    "text": "@DKokotajlo when you write the risk disclosures in an s-1, you throw everything but the kitchen sink in, because there is no penalty to putting things in, but a penalty to leaving things out",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/fleetingbits/status/2117751042675036297",
+    "created_at": "Tue Nov 03 22:49:29 +0000 2026"
+   }
   },
   "2117745747043270938": {
    "id": "2117745747043270938",
@@ -5893,7 +5903,7 @@
    "links": {
     "https://t.co/Y1Olrm2jr2": "https://www-cdn.anthropic.com/files/4zrzovbb/website/0bacdc8440ea96e62a8766d99ebe1d4eea6d5f3a.pdf"
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118088981942329757": {
    "id": "2118088981942329757",
@@ -5928,7 +5938,7 @@
    "links": {
     "https://t.co/VZxaUQHtWa": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118344113246584968": {
    "id": "2118344113246584968",
@@ -5952,7 +5962,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118328463387984345": {
    "id": "2118328463387984345",
@@ -5983,7 +5993,7 @@
    "links": {
     "https://t.co/8fn07nDbM2": "https://cdn.openai.com/pdf/compute-campus-policy-blueprint.pdf"
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118293859591393639": {
    "id": "2118293859591393639",
@@ -6007,7 +6017,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118210973731590334": {
    "id": "2118210973731590334",
@@ -6033,7 +6043,7 @@
    "links": {
     "https://t.co/SGZXwSRwxU": "https://openai.com/index/a-thousand-fewer-paths-to-root/"
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118116396768821419": {
    "id": "2118116396768821419",
@@ -6057,7 +6067,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118116303823327316": {
    "id": "2118116303823327316",
@@ -6086,7 +6096,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118097054383710679": {
    "id": "2118097054383710679",
@@ -6115,7 +6125,26 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118093166536749139",
+     "author_handle": "Marcus_J_W",
+     "author_name": "Marcus Williams",
+     "text": "It's unclear how often this happens on internal safety research traffic, a lower bound would be 0.25% which is the verbalized rate of covert underperformance and an upper bound would be 7.9% which is the rate of “ethical reasoning”. Generally all underperformance metrics are higher for safety than for capabilities.",
+     "links": {
+      "https://t.co/eUIxvla3Bp": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWT6gpyaQAA8ALR.jpg"
+      }
+     ],
+     "url": "https://x.com/Marcus_J_W/status/2118093166536749139",
+     "created_at": "Wed Nov 04 21:28:57 +0000 2026"
+    }
+   ]
   },
   "2117349332676677850": {
    "id": "2117349332676677850",
@@ -6174,7 +6203,7 @@
    },
    "fetched_at": "2026-11-05T18:45:11.192238+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118413382281752994": {
    "id": "2118413382281752994",
@@ -6202,7 +6231,19 @@
    },
    "fetched_at": "2026-11-05T18:45:11.192238+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118416702157340714",
+     "author_handle": "theobearman",
+     "author_name": "Theo Bearman",
+     "text": "“Beyond the AECI evidence, we also saw redacted evidence that significantly informed our view on this question, and made us take this apparent ≈2x acceleration more seriously. It also gave us some indication that acceleration could be above 2x and increasing over time, though we would be surprised if it was significantly higher.”",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/theobearman/status/2118416702157340714",
+     "created_at": "Thu Nov 05 18:54:34 +0000 2026"
+    }
+   ]
   },
   "2118401655108694110": {
    "id": "2118401655108694110",
@@ -6233,7 +6274,7 @@
    "links": {
     "https://t.co/Nzab3Z1Td6": "https://openai.com/index/introducing-gpt-6-cyber/"
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118391613294875086": {
    "id": "2118391613294875086",
@@ -6271,7 +6312,7 @@
     "https://t.co/GNCnYPfmzu": "https://www.goodfire.com/research/mechanistic-shaping",
     "https://t.co/wASiKuif5h": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118391004780953814": {
    "id": "2118391004780953814",
@@ -6297,7 +6338,7 @@
    "links": {
     "https://t.co/P7i7Jo0Wrp": "https://time.com/article/2026/11/05/ai-cheating-scientists-report-alignment/"
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118371302352286014": {
    "id": "2118371302352286014",
@@ -6332,7 +6373,7 @@
    "links": {
     "https://t.co/XzSVO2bF79": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118453616654848317": {
    "id": "2118453616654848317",
@@ -6360,7 +6401,7 @@
    },
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118448691266670847": {
    "id": "2118448691266670847",
@@ -6387,7 +6428,7 @@
     "https://t.co/AYhl9hyiAj": "https://www.lesswrong.com/posts/FG54euEAesRkSZuJN/ryan_greenblatt-s-shortform?commentId=rAFxcETtNtsuzw6aG",
     "https://t.co/ck7CtW5LIA": "https://www.lesswrong.com/posts/Jga7PHMzfZf4fbdyo/if-mythos-actually-made-anthropic-employees-4x-more"
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118443158094721215": {
    "id": "2118443158094721215",
@@ -6413,7 +6454,7 @@
    "links": {
     "https://t.co/nDAO1SIVRz": "https://news.bloomberglaw.com/legal-exchange-insights-and-commentary/anthropic-ipos-disclosure-risks-are-due-diligence-in-safety"
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118442677096108304": {
    "id": "2118442677096108304",
@@ -6437,7 +6478,19 @@
    "quoted": null,
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118424805003198598",
+     "author_handle": "LASST_law",
+     "author_name": "LASST",
+     "text": "The structure of the IPO could arguably significantly limit Anthropic’s exposure to the liability rules that ordinarily apply to material misstatements in an IPO registration statement.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/LASST_law/status/2118424805003198598",
+     "created_at": "Thu Nov 05 19:26:46 +0000 2026"
+    }
+   ]
   },
   "2118440592149815405": {
    "id": "2118440592149815405",
@@ -6465,7 +6518,7 @@
    },
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118423295733178654": {
    "id": "2118423295733178654",
@@ -6500,7 +6553,7 @@
    "links": {
     "https://t.co/c9CEUapUw0": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118419703999668437": {
    "id": "2118419703999668437",
@@ -6524,7 +6577,17 @@
    "quoted": null,
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118413382281752994",
+    "author_handle": "theobearman",
+    "author_name": "Theo Bearman",
+    "text": "Explains the S1 update now.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/theobearman/status/2118413382281752994",
+    "created_at": "Thu Nov 05 18:41:23 +0000 2026"
+   }
   },
   "2118416994366058521": {
    "id": "2118416994366058521",
@@ -6548,7 +6611,17 @@
    "quoted": null,
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118413382281752994",
+    "author_handle": "theobearman",
+    "author_name": "Theo Bearman",
+    "text": "Explains the S1 update now.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/theobearman/status/2118413382281752994",
+    "created_at": "Thu Nov 05 18:41:23 +0000 2026"
+   }
   },
   "2118416702157340714": {
    "id": "2118416702157340714",
@@ -6572,7 +6645,17 @@
    "quoted": null,
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118413382281752994",
+    "author_handle": "theobearman",
+    "author_name": "Theo Bearman",
+    "text": "Explains the S1 update now.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/theobearman/status/2118413382281752994",
+    "created_at": "Thu Nov 05 18:41:23 +0000 2026"
+   }
   },
   "2118415464816877899": {
    "id": "2118415464816877899",
@@ -6600,7 +6683,7 @@
    },
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118689629876490245": {
    "id": "2118689629876490245",
@@ -6628,7 +6711,7 @@
    },
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118470775418060920": {
    "id": "2118470775418060920",
@@ -6657,7 +6740,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118754777534529835": {
    "id": "2118754777534529835",
@@ -6681,7 +6764,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118754452265951727": {
    "id": "2118754452265951727",
@@ -6718,7 +6801,7 @@
    "links": {
     "https://t.co/iJga5c0cbD": "https://www.iaps.ai/research/embedded-evaluators-for-frontier-ai-contractual-foundations-for-credible-assessments"
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118955531234677020": {
    "id": "2118955531234677020",
@@ -6750,7 +6833,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2118952119072104736": {
    "id": "2118952119072104736",
@@ -6776,7 +6859,19 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118743779637407751",
+     "author_handle": "kjha02",
+     "author_name": "Kunal Jha",
+     "text": "Almost every multi-agent system today is hand-built. Someone decides who leads, who does what, and when agents talk.\n\nBut the bitter lesson keeps telling us that learned behavior beats designed behavior.\n\nSo we asked: what if the organization itself is learned?",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/kjha02/status/2118743779637407751",
+     "created_at": "Fri Nov 06 16:34:16 +0000 2026"
+    }
+   ]
   },
   "2118821384432570505": {
    "id": "2118821384432570505",
@@ -6802,7 +6897,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2118821348499726671": {
    "id": "2118821348499726671",
@@ -6826,7 +6921,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2118820886291923109": {
    "id": "2118820886291923109",
@@ -6863,7 +6958,85 @@
     "text": "@DKokotajlo @AnthropicAI They've been pedal to the metal afterburners on since Dario said at the WEF they were leaning into RSI. They said they support pacing, not that they were pacing."
    },
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2
+  },
+  "2119754129639670200": {
+   "id": "2119754129639670200",
+   "url": "https://x.com/theobearman/status/2119754129639670200",
+   "text": "I hope the 1.54 million have read the privacy policy.\n\nhttps://t.co/nZmooyZSit https://t.co/eNjP6CQ92V",
+   "created_at": "Mon Nov 09 11:29:02 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWrhGAXXgAA09qY.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWrhHRTXcAAshlO.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWrhINdXoAAnv7i.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWrhJKLXQAEmw5c.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/nZmooyZSit": "https://www.deepseek.com/en/harness/privacy/",
+    "https://t.co/eNjP6CQ92V": ""
+   },
+   "quoted": {
+    "id": "2119501868565139840",
+    "author_name": "Andrew Curran",
+    "links": {
+     "https://t.co/A5lHupSfRS": ""
+    },
+    "author": "AndrewCurran_",
+    "text": "DeepSeek Harness has reached 1.54 million DAU in less than three months. https://t.co/A5lHupSfRS"
+   },
+   "fetched_at": "2026-11-09T14:02:18.898653+00:00",
+   "enriched": 2
+  },
+  "2119531839723278678": {
+   "id": "2119531839723278678",
+   "url": "https://x.com/theobearman/status/2119531839723278678",
+   "text": "We just issued a press release from our board of directors. Read the release: https://t.co/W9yXWJzbkk",
+   "created_at": "Sun Nov 08 20:45:44 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "nvidianewsroom",
+   "rt_author_name": "NVIDIA Newsroom",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2081770046141919232/XxJ5pb1I_normal.jpg",
+   "rt_id": "2119520873577398695",
+   "likes": 12158,
+   "retweets": 2038,
+   "media": [],
+   "links": {
+    "https://t.co/W9yXWJzbkk": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-09T14:02:18.898653+00:00",
+   "enriched": 2
   }
  }
 }

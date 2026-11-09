@@ -2045,7 +2045,7 @@
    "links": {
     "https://t.co/g3mj4saNLk": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2117655397561778234": {
    "id": "2117655397561778234",
@@ -2071,7 +2071,24 @@
    "links": {
     "https://t.co/gBPmFTHxVr": "https://www.anthropic.com/research/provable-inference"
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2117655352795906389",
+    "author_handle": "ohlennart",
+    "author_name": "Lennart Heim",
+    "text": "delightful https://t.co/IxKwgIYGSP",
+    "links": {
+     "https://t.co/IxKwgIYGSP": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWNsQwOawAEGxkH.jpg"
+     }
+    ],
+    "url": "https://x.com/ohlennart/status/2117655352795906389",
+    "created_at": "Tue Nov 03 16:29:14 +0000 2026"
+   }
   },
   "2117655352795906389": {
    "id": "2117655352795906389",
@@ -2106,7 +2123,21 @@
    "links": {
     "https://t.co/IxKwgIYGSP": ""
    },
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2117655397561778234",
+     "author_handle": "ohlennart",
+     "author_name": "Lennart Heim",
+     "text": "https://t.co/gBPmFTHxVr",
+     "links": {
+      "https://t.co/gBPmFTHxVr": "https://www.anthropic.com/research/provable-inference"
+     },
+     "media": [],
+     "url": "https://x.com/ohlennart/status/2117655397561778234",
+     "created_at": "Tue Nov 03 16:29:25 +0000 2026"
+    }
+   ]
   },
   "2117686020082897404": {
    "id": "2117686020082897404",
@@ -2132,7 +2163,24 @@
    "links": {
     "https://t.co/vtdckMzcBP": "https://openai.com/index/ai-and-compute/"
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2117686018019295435",
+    "author_handle": "ohlennart",
+    "author_name": "Lennart Heim",
+    "text": "OpenAI’s based it's AI training compute trend on ~15 data points and found a 3.4-month doubling time.\n\nA group of nerds later corrected it to ~6 months with around 100 data points. That group became Epoch AI. https://t.co/oltWQ1cHEa",
+    "links": {
+     "https://t.co/oltWQ1cHEa": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWOIAgPbUAEhErA.jpg"
+     }
+    ],
+    "url": "https://x.com/ohlennart/status/2117686018019295435",
+    "created_at": "Tue Nov 03 18:31:06 +0000 2026"
+   }
   },
   "2117686018019295435": {
    "id": "2117686018019295435",
@@ -2169,7 +2217,21 @@
    "links": {
     "https://t.co/oltWQ1cHEa": ""
    },
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2117686020082897404",
+     "author_handle": "ohlennart",
+     "author_name": "Lennart Heim",
+     "text": "https://t.co/vtdckMzcBP",
+     "links": {
+      "https://t.co/vtdckMzcBP": "https://openai.com/index/ai-and-compute/"
+     },
+     "media": [],
+     "url": "https://x.com/ohlennart/status/2117686020082897404",
+     "created_at": "Tue Nov 03 18:31:06 +0000 2026"
+    }
+   ]
   },
   "2117767075959845120": {
    "id": "2117767075959845120",
@@ -2195,7 +2257,7 @@
    "links": {
     "https://t.co/0pn81QXTKK": "https://www.anthropic.com/research/provable-inference"
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118747991234302001": {
    "id": "2118747991234302001",
@@ -2219,7 +2281,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118797132597764145": {
    "id": "2118797132597764145",
@@ -2247,7 +2309,7 @@
    },
    "fetched_at": "2026-11-06T20:54:35.151346+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118788936621588708": {
    "id": "2118788936621588708",
@@ -2278,7 +2340,37 @@
    },
    "fetched_at": "2026-11-06T20:54:35.151346+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
+  },
+  "2119647241061429668": {
+   "id": "2119647241061429668",
+   "url": "https://x.com/ohlennart/status/2119647241061429668",
+   "text": "we spent years asking for USG visibility into AI chip shipments. turns out the MSS got there first.",
+   "created_at": "Mon Nov 09 04:24:18 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1421449447482044420/_HX1YpJC_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 35,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2119567347589541956",
+    "author_name": "Bill Bishop",
+    "links": {},
+    "author": "niubi",
+    "text": "On the Jensen Huang-Alice Huang affair, you have to give the MSS credit for running another successful op. They are good and getting better.\n\nI have seen some takes that it is no big deal he had an affair with an alleged PRC spy because he needed no pillow talk convincing to push for looser export controls, but that misses a few things:\n\nHe is (was?) text and phone buddies with President Trump, so if he divulged anything about his conversations with Trump to her, or his thoughts about Trump or chatter about China policy or frankly anything from Trump, that would be valuable to any foreign intelligence service, and especially to the MSS;\n\nWas she ever alone with his phone or computer, say when he got up to use the bathroom? Are Nvidia IT/device policies for travel to Taiwan and Singapore looser than those for travel to the mainland? What value would there be to the MSS to have physical access to the devices of the Nvidia CEO?;\n\nHe is the chip allocator in chief, so a good relationship with him likely meant more chips for the MegaSpeed front and the entities back in the PRC to which those chips flowed.\n\nWith the new Congress, expect subpoenas and public hearings in which he is trashed and he and Nvidia are further damaged. What a win for the MSS, to have such access to the head of the most important company in the world, and to now get to watch as politicians and shorts attack him and Nvidia.\n\nThere is rarely just one lie, so don’t be surprised if the blast radius from this mess expands. And there is already the SuperMicro case…"
+   },
+   "fetched_at": "2026-11-09T14:02:18.898653+00:00",
+   "enriched": 2
   }
  }
 }

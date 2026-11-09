@@ -2615,7 +2615,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117973679325806875": {
    "id": "2117973679325806875",
@@ -2641,7 +2641,7 @@
    "links": {
     "https://t.co/0pn81QXTKK": "https://www.anthropic.com/research/provable-inference"
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2117925569870352856": {
    "id": "2117925569870352856",
@@ -2665,7 +2665,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2117923570382971303",
+    "author_handle": "MaskedTorah",
+    "author_name": "Drake Thomas",
+    "text": "@mentalgeorge Under RSP v3 many of these object-level mitigations from the middle table in section 1 are \"plans/goals as a company\", not hard rules. Embarrassing if failed but not RSP saying \"we will definitely do this\". The stuff around risk reports and competitors are actual requirements.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/MaskedTorah/status/2117923570382971303",
+    "created_at": "Wed Nov 04 10:15:02 +0000 2026"
+   }
   },
   "2118344311465034201": {
    "id": "2118344311465034201",
@@ -2689,7 +2699,25 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118328463387984345",
+    "author_handle": "theobearman",
+    "author_name": "Theo Bearman",
+    "text": "OpenAI is re-making the case for a U.S.-led buildout after the midterms (saying it is a safety policy because it enables a paced frontier and that it \"continues to support the strengthening of export controls on chips and semiconductor manufacturing equipment\").\n\nhttps://t.co/8fn07nDbM2",
+    "links": {
+     "https://t.co/8fn07nDbM2": "https://cdn.openai.com/pdf/compute-campus-policy-blueprint.pdf",
+     "https://t.co/URAt0pzyM6": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWXQbZKWAAA0zla.png"
+     }
+    ],
+    "url": "https://x.com/theobearman/status/2118328463387984345",
+    "created_at": "Thu Nov 05 13:03:56 +0000 2026"
+   }
   },
   "2118288692804559154": {
    "id": "2118288692804559154",
@@ -2713,7 +2741,17 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118135446748234216",
+    "author_handle": "dylanmatt",
+    "author_name": "dylan matthews 🔸",
+    "text": "@mentalgeorge Come by the office!",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/dylanmatt/status/2118135446748234216",
+    "created_at": "Thu Nov 05 00:16:58 +0000 2026"
+   }
   },
   "2118270521242505477": {
    "id": "2118270521242505477",
@@ -2737,7 +2775,17 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118188656502681892",
+    "author_handle": "JakeMendel99",
+    "author_name": "Jake Mendel",
+    "text": "@herbiebradley @MaxNadeau_ @theojaffee Max is referring to conceptual arguments about challenges with avoiding cheating and lying that will arise in the future. I think the claim that for sufficiently capable AI systems it becomes very difficult to design RL environments that don't incentivize cheating is pretty hard to contest, and current empirical evidence doesn’t seem very relevant to it. \n\nI think the main part of the story that could be contested by empirical evidence is whether incentivizing cheating inevitably leads to models actually doing the cheating.\n\nOne update I’ve made based on recent empirical evidence is that model behavior seems increasingly well predicted by reasoning about what behavior is directly incentivized by the reward function (this analysis is analogous to realist analysis in politics, and reasoning about generalising from character training or the pretraining prior is analogous to idealism). Realism seems to be increasingly predictive for more recent models, perhaps because there is more RL being done now. \n\nUnfortunately the realist perspective does imply that we have some serious alignment obstacles ahead of us. I now think that they are slightly more likely to be difficult to overcome than I used to.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/JakeMendel99/status/2118188656502681892",
+    "created_at": "Thu Nov 05 03:48:24 +0000 2026"
+   }
   },
   "2118708539997008200": {
    "id": "2118708539997008200",
@@ -2768,7 +2816,7 @@
    "links": {
     "https://t.co/jKN6z7ROqz": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118706692250542148": {
    "id": "2118706692250542148",
@@ -2792,7 +2840,19 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118456906457272816",
+    "author_handle": "MJewkes",
+    "author_name": "Matthew Jewkes",
+    "text": "@ajeya_cotra Do you have any take on why the acceleration only appears on Anthropic's private version of ECI? I can’t see any Oct '25 breakpoint or acceleration over the same models / same time period in the (nominally) same public benchmark.\n\nhttps://t.co/r3GnFrb0MD",
+    "links": {
+     "https://t.co/r3GnFrb0MD": "https://x.com/MJewkes/status/2118420200290967856"
+    },
+    "media": [],
+    "url": "https://x.com/MJewkes/status/2118456906457272816",
+    "created_at": "Thu Nov 05 21:34:20 +0000 2026"
+   }
   },
   "2118685355528581342": {
    "id": "2118685355528581342",
@@ -2816,7 +2876,28 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118635748777726137",
+    "author_handle": "Hamish_Low5",
+    "author_name": "Hamish Low",
+    "text": "Interesting detail in METR's report is a redacted agent scaffold, that isn't claude code. It's described as being observed/read as a 'thread'. Is this just souped up Claude in slack, is this some kind of internal agent monitoring system? https://t.co/7zF53Hvgcs",
+    "links": {
+     "https://t.co/7zF53Hvgcs": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWbnMKpXIAAPmcX.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWbnhE9XYAA5t1h.jpg"
+     }
+    ],
+    "url": "https://x.com/Hamish_Low5/status/2118635748777726137",
+    "created_at": "Fri Nov 06 09:24:59 +0000 2026"
+   }
   },
   "2118494800408433068": {
    "id": "2118494800408433068",
@@ -2846,7 +2927,7 @@
    },
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118491715195834493": {
    "id": "2118491715195834493",
@@ -2877,7 +2958,7 @@
    "links": {
     "https://t.co/nKPkSTJqlq": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118460348378272216": {
    "id": "2118460348378272216",
@@ -2908,7 +2989,7 @@
    "links": {
     "https://t.co/xmCGnSkNPs": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118771396633415953": {
    "id": "2118771396633415953",
@@ -2932,7 +3013,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T20:54:35.151346+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2119006258506473743": {
    "id": "2119006258506473743",
@@ -2956,7 +3037,19 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118747533816279228",
+     "author_handle": "charnock_jacob",
+     "author_name": "Jacob Charnock",
+     "text": "2/7: Why do the contracts matter? AI companies increasingly rely on outside evaluators to check their safety claims. But an evaluation's reliability depends on the contract: what evaluators can access, what they can publish, how they're paid. Reports rarely describe such terms.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/charnock_jacob/status/2118747533816279228",
+     "created_at": "Fri Nov 06 16:49:11 +0000 2026"
+    }
+   ]
   },
   "2119391530448236639": {
    "id": "2119391530448236639",
@@ -2980,7 +3073,17 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2119384669514801378",
+    "author_handle": "CharlesD353",
+    "author_name": "Charles🔸",
+    "text": "@mentalgeorge @tyler_m_john It has, just insufficiently to explain the results",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/CharlesD353/status/2119384669514801378",
+    "created_at": "Sun Nov 08 11:00:56 +0000 2026"
+   }
   },
   "2119379127924899845": {
    "id": "2119379127924899845",
@@ -3004,7 +3107,17 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2119296157406863510",
+    "author_handle": "tyler_m_john",
+    "author_name": "Tyler John",
+    "text": "AI capabilities have recently progressed at 2x. But the growth rate in pre-training compute and research compute hasn't sped up, and ideas are getting harder to find. For 2x progress despite this you'd need around 10x research uplift! Great post.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/tyler_m_john/status/2119296157406863510",
+    "created_at": "Sun Nov 08 05:09:13 +0000 2026"
+   }
   }
  }
 }

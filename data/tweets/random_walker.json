@@ -3055,7 +3055,7 @@
    },
    "fetched_at": "2026-11-03T18:27:19.395380+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117963022434001035": {
    "id": "2117963022434001035",
@@ -3079,7 +3079,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117770254348664933": {
    "id": "2117770254348664933",
@@ -3108,7 +3108,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2117735390828458295": {
    "id": "2117735390828458295",
@@ -3132,7 +3132,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118328569369694471": {
    "id": "2118328569369694471",
@@ -3160,7 +3160,7 @@
    },
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118532313319723303": {
    "id": "2118532313319723303",
@@ -3191,7 +3191,21 @@
    "links": {
     "https://t.co/V6y5YzamXa": "https://github.com/sage-princeton/crux-in-a-box"
    },
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118419207394329056",
+     "author_handle": "sayashk",
+     "author_name": "Sayash Kapoor",
+     "text": "More details: https://t.co/EAC39nnMuA",
+     "links": {
+      "https://t.co/EAC39nnMuA": "https://cruxevals.com/research-notes/how-to-run-your-own-crux-style-experiments"
+     },
+     "media": [],
+     "url": "https://x.com/sayashk/status/2118419207394329056",
+     "created_at": "Thu Nov 05 19:04:32 +0000 2026"
+    }
+   ]
   }
  }
 }

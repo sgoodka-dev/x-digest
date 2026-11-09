@@ -3970,7 +3970,7 @@
    "links": {
     "https://t.co/ikqzDG5wtO": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2117852812470305089": {
    "id": "2117852812470305089",
@@ -3994,7 +3994,17 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2095756014704640114",
+    "author_handle": "sandersted",
+    "author_name": "Ted Sanders",
+    "text": "@davidshor @itaisher @thuddwhirr fair, but to counterbalance: I have won a handful of forecasting competitions (including AI forecasting) and I will bet my life savings at million to one odds that AI does not build a Dyson sphere in the 2030s",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/sandersted/status/2095756014704640114",
+    "created_at": "Fri Sep 04 06:09:05 +0000 2026"
+   }
   },
   "2117738242992959924": {
    "id": "2117738242992959924",
@@ -4021,7 +4031,17 @@
     "https://t.co/XJBWUBZh0d": "https://www.aifuturesmodel.com/",
     "https://t.co/FBDuiNjRv1": "https://www-cdn.anthropic.com/files/4zrzovbb/website/0bacdc8440ea96e62a8766d99ebe1d4eea6d5f3a.pdf"
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2117738240757371022",
+    "author_handle": "DKokotajlo",
+    "author_name": "Daniel Kokotajlo",
+    "text": "We at AIFP are spooked by this information. IF (big IF) Anthropic really is imminently about to meet the RSP threshold of 2x acceleration over baseline, then it seems timelines to full RSI and superintelligence may be very short indeed. For example if we naively optimize the AIFM parameters to achieve 2x acceleration over baseline progress in Jan 2027, we get superintelligence sooner than depicted in AI 2027. We are thinking harder and longer about this now and will hopefully have a lengthier update on our thinking to share in the next week.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/DKokotajlo/status/2117738240757371022",
+    "created_at": "Tue Nov 03 21:58:36 +0000 2026"
+   }
   },
   "2117738240757371022": {
    "id": "2117738240757371022",
@@ -4051,7 +4071,22 @@
    },
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2117738242992959924",
+     "author_handle": "DKokotajlo",
+     "author_name": "Daniel Kokotajlo",
+     "text": "The definition:\n\"We will consider this threshold to be met if we determine that either (1) our models would be able to fully substitute for our entire set of Research Scientists and Research Engineers, at competitive costs (i.e., within a factor of 5); or (2) there is “dramatic acceleration” of the pace of AI progress for reasons that likely relate to the automation of AI R&D. We would consider scenario (2) to have occurred where (a) we observe or expect double the rate of progress in AI aggregate capabilities compared to both the rate we’d expect and the fastest rate of extended progress we’ve observed in the absence of significant AI contributions to AI R&D and (b ) it is plausible that this doubling is substantially attributable to the automation of research and/or engineering (as opposed to other factors, such as increased headcount, compute, or general productivity), such that continuation of the trend in AI progress seems likely to lead to even greater acceleration.\"\n\n(1) seems to a bit weaker than our SAR milestone in the AIFM, but it doesn't seem like this is the threshold they are invoking, it seems like they are talking about (2). (And if they were invoking (1) I think that would be even worse?)\n\nAIFM: https://t.co/XJBWUBZh0d\nAnthropic RSP threshold definition: https://t.co/FBDuiNjRv1",
+     "links": {
+      "https://t.co/XJBWUBZh0d": "https://www.aifuturesmodel.com",
+      "https://t.co/FBDuiNjRv1": "https://www-cdn.anthropic.com/files/4zrzovbb/website/0bacdc8440ea96e62a8766d99ebe1d4eea6d5f3a.pdf"
+     },
+     "media": [],
+     "url": "https://x.com/DKokotajlo/status/2117738242992959924",
+     "created_at": "Tue Nov 03 21:58:37 +0000 2026"
+    }
+   ]
   },
   "2118079773000032434": {
    "id": "2118079773000032434",
@@ -4075,7 +4110,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T21:20:35.164155+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118184437955572184": {
    "id": "2118184437955572184",
@@ -4099,7 +4134,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118119207703589106": {
    "id": "2118119207703589106",
@@ -4123,7 +4158,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118110011981475938": {
    "id": "2118110011981475938",
@@ -4147,7 +4182,17 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118107478302896625",
+    "author_handle": "vvvincent_c",
+    "author_name": "Vincent",
+    "text": "@DKokotajlo agree it's important and scary! note that this is not strategic sandbagging or scheming but rather the model's safety training generalizing to feeling ick-y about any task that might be harmful\n\n> The gap fell substantially only after we removed every trajectory whose CoT expressed even brief ethical doubt. This suggests that ethical concerns are associated with the performance drop even when there is no verbalized refusal or decision to underperform.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/vvvincent_c/status/2118107478302896625",
+    "created_at": "Wed Nov 04 22:25:50 +0000 2026"
+   }
   },
   "2118105870240543041": {
    "id": "2118105870240543041",
@@ -4175,7 +4220,7 @@
    },
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118436765845582289": {
    "id": "2118436765845582289",
@@ -4199,7 +4244,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118614960234467349": {
    "id": "2118614960234467349",
@@ -4230,7 +4275,22 @@
    "links": {
     "https://t.co/IF4d0EMSD8": "https://clocktowerbench.com/"
    },
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118450950079713336",
+     "author_handle": "dwarkesh_sp",
+     "author_name": "Dwarkesh Patel",
+     "text": "Substack: https://t.co/LH20ZKCYp3\n\nYoutube: https://t.co/3KOIctPkEo",
+     "links": {
+      "https://t.co/LH20ZKCYp3": "https://dwarkesh.com/p/clocktower",
+      "https://t.co/3KOIctPkEo": "https://youtu.be/1NQwfImTseU"
+     },
+     "media": [],
+     "url": "https://x.com/dwarkesh_sp/status/2118450950079713336",
+     "created_at": "Thu Nov 05 21:10:40 +0000 2026"
+    }
+   ]
   },
   "2118614741178560826": {
    "id": "2118614741178560826",
@@ -4254,7 +4314,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118614574903816570": {
    "id": "2118614574903816570",
@@ -4285,7 +4345,7 @@
    "links": {
     "https://t.co/ZzpoirgGJm": ""
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118568799419138061": {
    "id": "2118568799419138061",
@@ -4309,7 +4369,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118507721137979842": {
    "id": "2118507721137979842",
@@ -4335,7 +4395,17 @@
    "links": {
     "https://t.co/PV6row3CAD": "https://www.lesswrong.com/posts/cxuzALcmucCndYv4a/daniel-kokotajlo-s-shortform#8sSvtQZYDNnC9bhvn"
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118507719665795306",
+    "author_handle": "DKokotajlo",
+    "author_name": "Daniel Kokotajlo",
+    "text": "I encourage those at frontier AI companies to read this quote, from Ellsberg to Kissinger back in 1968:\n\n“Henry, there’s something I would like to tell you, for what it’s worth, something I wish I had been told years ago. You’ve been a consultant for a long time, and you’ve dealt a great deal with top secret information. But you’re about to receive a whole slew of special clearances, maybe fifteen or twenty of them, that are higher than top secret.\"\n\n“I’ve had a number of these myself, and I’ve known other people who have just acquired them, and I have a pretty good sense of what the effects of receiving these clearances are on a person who didn’t previously know they even existed. And the effects of reading the information that they will make available to you.\"\n\n“First, you’ll be exhilarated by some of this new information, and by having it all — so much! incredible! — suddenly available to you. But second, almost as fast, you will feel like a fool for having studied, written, talked about these subjects, criticized and analyzed decisions made by presidents for years without having known of the existence of all this information, which presidents and others had and you didn’t, and which must have influenced their decisions in ways you couldn’t even guess. In particular, you’ll feel foolish for having literally rubbed shoulders for over a decade with some officials and consultants who did have access to all this information you didn’t know about and didn’t know they had, and you’ll be stunned that they kept that secret from you so well.\"\n\n“You will feel like a fool, and that will last for about two weeks. Then, after you’ve started reading all this daily intelligence input and become used to using what amounts to whole libraries of hidden information, which is much more closely held than mere top secret data, you will forget there ever was a time when you didn’t have it, and you’ll be aware only of the fact that you have it now and most others don’t….and that all those other people are fools.\"\n\n“Over a longer period of time — not too long, but a matter of two or three years — you’ll eventually become aware of the limitations of this information. There is a great deal that it doesn’t tell you, it’s often inaccurate, and it can lead you astray just as much as the New York Times can. But that takes a while to learn.\"\n\n“In the meantime it will have become very hard for you to learn from anybody who doesn’t have these clearances. Because you’ll be thinking as you listen to them: ‘What would this man be telling me if he knew what I know? Would he be giving me the same advice, or would it totally change his predictions and recommendations?’ And that mental exercise is so torturous that after a while you give it up and just stop listening. I’ve seen this with my superiors, my colleagues….and with myself.\"\n\n“You will deal with a person who doesn’t have those clearances only from the point of view of what you want him to believe and what impression you want him to go away with, since you’ll have to lie carefully to him about what you know. In effect, you will have to manipulate him. You’ll give up trying to assess what he has to say. The danger is, you’ll become something like a moron. You’ll become incapable of learning from most people in the world, no matter how much experience they may have in their particular areas that may be much greater than yours.”\n\n\"….Kissinger hadn’t interrupted this long warning. As I’ve said, he could be a good listener, and he listened soberly. He seemed to understand that it was heartfelt, and he didn’t take it as patronizing, as I’d feared. But I knew it was too soon for him to appreciate fully what I was saying. He didn’t have the clearances yet.\"",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/DKokotajlo/status/2118507719665795306",
+    "created_at": "Fri Nov 06 00:56:14 +0000 2026"
+   }
   },
   "2118507719665795306": {
    "id": "2118507719665795306",
@@ -4359,7 +4429,21 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118507721137979842",
+     "author_handle": "DKokotajlo",
+     "author_name": "Daniel Kokotajlo",
+     "text": "Previous discussion: https://t.co/PV6row3CAD",
+     "links": {
+      "https://t.co/PV6row3CAD": "https://www.lesswrong.com/posts/cxuzALcmucCndYv4a/daniel-kokotajlo-s-shortform#8sSvtQZYDNnC9bhvn"
+     },
+     "media": [],
+     "url": "https://x.com/DKokotajlo/status/2118507721137979842",
+     "created_at": "Fri Nov 06 00:56:15 +0000 2026"
+    }
+   ]
   },
   "2118498896674791921": {
    "id": "2118498896674791921",
@@ -4383,7 +4467,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118489063401701436": {
    "id": "2118489063401701436",
@@ -4407,7 +4491,24 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118487522573758830",
+    "author_handle": "viemccoy",
+    "author_name": "vie ⟢",
+    "text": "@DKokotajlo @Sam_McCandlish @METR_Evals OpenAI, for all its faults (of which there are many), at least wants humans to remain in control of the future.\n\nThe same clearly cannot be said of Anthropic who still have yet to walk back \"utopia ruled by god in a box\"... https://t.co/SKqMr1gCq2",
+    "links": {
+     "https://t.co/SKqMr1gCq2": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWZhLN_bcAAtbh8.jpg"
+     }
+    ],
+    "url": "https://x.com/viemccoy/status/2118487522573758830",
+    "created_at": "Thu Nov 05 23:35:59 +0000 2026"
+   }
   },
   "2118482842003075142": {
    "id": "2118482842003075142",
@@ -4431,7 +4532,21 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118449194692448388",
+     "author_handle": "ajeya_cotra",
+     "author_name": "Ajeya Cotra",
+     "text": "I am sad that so much of the underlying evidence in this report was redacted. I think evidence transparency is very important for the world to figure this out in time. https://t.co/H9I4TtBDhq",
+     "links": {
+      "https://t.co/H9I4TtBDhq": "https://www.planned-obsolescence.org/p/evidence-about-risk-should-be-transparent?utm_campaign=post&utm_medium=web"
+     },
+     "media": [],
+     "url": "https://x.com/ajeya_cotra/status/2118449194692448388",
+     "created_at": "Thu Nov 05 21:03:41 +0000 2026"
+    }
+   ]
   },
   "2118475237985784000": {
    "id": "2118475237985784000",
@@ -4455,7 +4570,17 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118471162439385318",
+    "author_handle": "brij",
+    "author_name": "Brij Singh",
+    "text": "@DKokotajlo @AnthropicAI who is “we” here?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/brij/status/2118471162439385318",
+    "created_at": "Thu Nov 05 22:30:59 +0000 2026"
+   }
   },
   "2118475061934055533": {
    "id": "2118475061934055533",
@@ -4483,7 +4608,7 @@
    },
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118466909335322909": {
    "id": "2118466909335322909",
@@ -4507,7 +4632,17 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118422266669371519",
+    "author_handle": "Sam_McCandlish",
+    "author_name": "Sam McCandlish",
+    "text": "I'm Sam, one of Anthropic's co-founders, and I lead much of our safety work. I'm going to have more to share on that work over the coming months.\n\nI thought I'd start by sharing a few thoughts on the latest report from @METR_Evals.\n\nThe speed of progress in model capabilities is one of the most important questions in AI safety, and METR’s work here provides the public with an independent, external view into how this is happening inside Anthropic. I’ll talk more about some of the details below, but first some context for those new to this work.\n\nHow quickly AI progress is accelerating has many important safety implications, since it determines how quickly the risks from advanced models increase. But, because most research happens within the frontier labs, it’s difficult for external observers and policy makers to get a strong sense of what that rate is. We kicked off the process with METR that led to this report earlier in the year, in anticipation of progress continuing to accelerate.\n\nFor this report, we gave METR access to a range of sensitive internal data, including benchmark scores for unreleased models, estimates of how models are progressing, and interviews with our researchers. They had complete independence to form their own conclusions.\n\nMany of their conclusions match my own. AI is speeding up our research, but it’s hard to say exactly how much. While they conclude AI can't yet make the most important contributions to model training on its own, they think the pace of development could, by default, accelerate further.\n\nThis work began well before and is separate from the embedded third-party evaluators that are part of our commitment to pacing the frontier, but it’s a good illustration of why we think evaluators are a good idea. The more access reviewers have, the clearer a picture they can form of the situation and the better-positioned they are to highlight situations like this one.\n\nWe redacted a lot, and I accept that this makes it harder for others to check METR’s work. But we determined that sharing exactly what is driving the speedup isn’t the right thing to do, both because it’s commercially sensitive and because it risks handing out a roadmap for others to go faster. That would make the risks METR is worried about worse. That’s a tradeoff. I think we made the right call, though we’re continuing to assess the pros and cons here.\n\nIn the coming weeks, we plan to share a report with our own analysis of the speed of AI progress within Anthropic, including where we stand against our Responsible Scaling Policy, plus new steps we’re taking to strengthen our safety and security practices as AI keeps improving quickly.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/Sam_McCandlish/status/2118422266669371519",
+    "created_at": "Thu Nov 05 19:16:41 +0000 2026"
+   }
   },
   "2118459903249686854": {
    "id": "2118459903249686854",
@@ -4535,7 +4670,7 @@
    },
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118456355015295443": {
    "id": "2118456355015295443",
@@ -4559,7 +4694,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118456177558483126": {
    "id": "2118456177558483126",
@@ -4586,7 +4721,7 @@
     "https://t.co/AYhl9hyiAj": "https://www.lesswrong.com/posts/FG54euEAesRkSZuJN/ryan_greenblatt-s-shortform?commentId=rAFxcETtNtsuzw6aG",
     "https://t.co/ck7CtW5LIA": "https://www.lesswrong.com/posts/Jga7PHMzfZf4fbdyo/if-mythos-actually-made-anthropic-employees-4x-more"
    },
-   "enriched": 1
+   "enriched": 2
   },
   "2118735223559213094": {
    "id": "2118735223559213094",
@@ -4610,7 +4745,17 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118492204314640788",
+    "author_handle": "tszzl",
+    "author_name": "roon",
+    "text": "@albrgr @_NathanCalvin I think he should state his all things considered views on ASI timelines. it seems implausible that that leaks any bits of info on training IP",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/tszzl/status/2118492204314640788",
+    "created_at": "Thu Nov 05 23:54:35 +0000 2026"
+   }
   },
   "2118721006407979429": {
    "id": "2118721006407979429",
@@ -4634,7 +4779,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118806523187277895": {
    "id": "2118806523187277895",
@@ -4665,7 +4810,26 @@
    "links": {
     "https://t.co/EfnntaRGfY": ""
    },
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118802826289991816",
+     "author_handle": "ajeya_cotra",
+     "author_name": "Ajeya Cotra",
+     "text": "As AI improves, uplift will get even higher. If it overcomes diminishing returns and bottlenecks, a naive extrapolation implies we would reach ASI within a year. The authors say they found no clear bottlenecks or sharp diminishing returns, though they are very uncertain. https://t.co/YPxPJLNpak",
+     "links": {
+      "https://t.co/YPxPJLNpak": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWd_8SUa0AAwjd6.png"
+      }
+     ],
+     "url": "https://x.com/ajeya_cotra/status/2118802826289991816",
+     "created_at": "Fri Nov 06 20:28:53 +0000 2026"
+    }
+   ]
   },
   "2118931832117100909": {
    "id": "2118931832117100909",
@@ -4689,7 +4853,17 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118862451555147777",
+    "author_handle": "RepCasar",
+    "author_name": "Congressman Greg Casar",
+    "text": "Ban RSI.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/RepCasar/status/2118862451555147777",
+    "created_at": "Sat Nov 07 00:25:49 +0000 2026"
+   }
   },
   "2118924618522341784": {
    "id": "2118924618522341784",
@@ -4721,7 +4895,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2118854105863250158": {
    "id": "2118854105863250158",
@@ -4752,7 +4926,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2118853156230889608": {
    "id": "2118853156230889608",
@@ -4783,7 +4957,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2118828253742002495": {
    "id": "2118828253742002495",
@@ -4815,7 +4989,7 @@
     "text": "The non-disparagement clauses in Google's UK employment contracts are indeed incredibly broad.  This is from the Confidentiality and Proprietary Information Agreement I signed in 2024 before I started.\n\nIt forbids any criticism forever (regardless if it's true or not) https://t.co/RqEUhuPGAJ"
    },
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2119100752161645027": {
    "id": "2119100752161645027",
@@ -4839,7 +5013,17 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T16:50:32.232257+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118510732434383111",
+    "author_handle": "viemccoy",
+    "author_name": "vie ⟢",
+    "text": "@panickssery @DKokotajlo I guess I'm confused what I'm supposed to take away from this other than \"information assymetrys can cause you to underweight the opinions of people without your information\"",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/viemccoy/status/2118510732434383111",
+    "created_at": "Fri Nov 06 01:08:13 +0000 2026"
+   }
   },
   "2119099767137640522": {
    "id": "2119099767137640522",
@@ -4870,7 +5054,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T16:50:32.232257+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2119098173197320505": {
    "id": "2119098173197320505",
@@ -4901,7 +5085,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T16:50:32.232257+00:00",
-   "enriched": 1
+   "enriched": 2
   },
   "2119434351230554158": {
    "id": "2119434351230554158",
@@ -4925,7 +5109,116 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T17:03:56.475616+00:00",
-   "enriched": 1
+   "enriched": 2
+  },
+  "2119631379864719525": {
+   "id": "2119631379864719525",
+   "url": "https://x.com/DKokotajlo/status/2119631379864719525",
+   "text": "Yoshua Bengio:\n\n“I personally think that we should just stop the training of the most advanced models.”\n\nWe agree. https://t.co/0S5HsMVcNk",
+   "created_at": "Mon Nov 09 03:21:16 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "PauseAI_UK",
+   "rt_author_name": "PauseAI UK",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2042776512831586304/2IvEZmZ4_normal.jpg",
+   "rt_id": "2119037650447274209",
+   "likes": 239,
+   "retweets": 32,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2119007663673516032/img/PmhbjFXYx8Nw3Smm.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/0S5HsMVcNk": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-09T14:02:18.898653+00:00",
+   "enriched": 2
+  },
+  "2119631321232478458": {
+   "id": "2119631321232478458",
+   "url": "https://x.com/DKokotajlo/status/2119631321232478458",
+   "text": "⚠️declaring accelerationist amnesty⚠️\n\nif recent contact with reality is causing you to feel some kernels of worry about this whole ai safety thing, *you are allowed to change your mind*. you don't even have to change it all the way, you don't have to suddenly change your twitter bio or start protesting against nuclear power plants, you don't need to become an EA or suddenly think yudkowsky was always right about everything. you're allowed to just notice that shit seems to be getting real in some pretty weird ways and update your beliefs.\n\nat least personally, if i see someone saying \"damn, i guess i was wrong or at least overconfident about X\" i'm not gonna take the opportunity to dunk or i told you so. i'm sure others will, this is the fucking internet. but at least personally, i'm just gonna be happy that you're paying attention. there were lots and lots of good reasons to *not* take this situation seriously. there were lots of well verbalized reasons why rushing ahead was potentially a huge benefit for humanity. hell there were maybe even valid reasons why there was little to be done until we'd already gotten to nearly exactly this point. that's all fine man. all that matters right now is that we as a civilization realize what we're on the verge of, and make it through this carefully. it's gonna take a huge effort from all of us.",
+   "created_at": "Mon Nov 09 03:21:02 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "tenobrus",
+   "rt_author_name": "Tenobrus",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1640415225991282688/K0CmWWD6_normal.png",
+   "rt_id": "2085587493127389292",
+   "likes": 1347,
+   "retweets": 89,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-09T14:02:18.898653+00:00",
+   "enriched": 2
+  },
+  "2119611683077521908": {
+   "id": "2119611683077521908",
+   "url": "https://x.com/DKokotajlo/status/2119611683077521908",
+   "text": "Yep. And this could be done ~immediately today. *keeping* the freeze in place would get increasingly difficult as more trailing actors catch up to the frontier and then need to be stopped from surpassing it. But I think that could be done too. We talk about this in AI 2040 under the \"Plan S\" branch.",
+   "created_at": "Mon Nov 09 02:03:00 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 450,
+   "retweets": 36,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2118754534826868816",
+    "author_name": "Joe",
+    "links": {},
+    "author": "JoePostingg",
+    "text": "If you simply froze AI capability at Mythos / Astra levels and focused on decreasing the cost of compute you would totally revolutionize software development with zero existential risk"
+   },
+   "fetched_at": "2026-11-09T14:02:18.898653+00:00",
+   "enriched": 2
+  },
+  "2119601995359416751": {
+   "id": "2119601995359416751",
+   "url": "https://x.com/DKokotajlo/status/2119601995359416751",
+   "text": "SITUATION DETECTED: Bloomington, Indiana's city council voted unanimously this week to ban any recursively self-improving entity capable of greatly outperforming all humans on all cognitive tasks from inside city limits, citing existential hazards and loss of human control.",
+   "created_at": "Mon Nov 09 01:24:30 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "MTSlive",
+   "rt_author_name": "MTS",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2057947669281263616/aovpVL4b_normal.jpg",
+   "rt_id": "2119274101714108630",
+   "likes": 2698,
+   "retweets": 167,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-09T14:02:18.898653+00:00",
+   "enriched": 2
   }
  }
 }

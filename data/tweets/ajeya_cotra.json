@@ -2152,7 +2152,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T18:45:11.192238+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118449194692448388": {
    "id": "2118449194692448388",
@@ -2178,7 +2178,17 @@
    "links": {
     "https://t.co/H9I4TtBDhq": "https://www.planned-obsolescence.org/p/evidence-about-risk-should-be-transparent?utm_campaign=post&utm_medium=web"
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118448038356390177",
+    "author_handle": "ajeya_cotra",
+    "author_name": "Ajeya Cotra",
+    "text": "Our colleagues found that Anthropic’s capabilities progress has doubled, mainly due to AI. Ryan’s modeling from public info suggests the whole company’s R&amp;D would be going 4-5x faster. Labor uplift would be higher still. This is a major update to very short timelines.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/ajeya_cotra/status/2118448038356390177",
+    "created_at": "Thu Nov 05 20:59:05 +0000 2026"
+   }
   },
   "2118448038356390177": {
    "id": "2118448038356390177",
@@ -2209,7 +2219,21 @@
    },
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118449194692448388",
+     "author_handle": "ajeya_cotra",
+     "author_name": "Ajeya Cotra",
+     "text": "I am sad that so much of the underlying evidence in this report was redacted. I think evidence transparency is very important for the world to figure this out in time. https://t.co/H9I4TtBDhq",
+     "links": {
+      "https://t.co/H9I4TtBDhq": "https://www.planned-obsolescence.org/p/evidence-about-risk-should-be-transparent?utm_campaign=post&utm_medium=web"
+     },
+     "media": [],
+     "url": "https://x.com/ajeya_cotra/status/2118449194692448388",
+     "created_at": "Thu Nov 05 21:03:41 +0000 2026"
+    }
+   ]
   },
   "2118808842960338969": {
    "id": "2118808842960338969",
@@ -2233,7 +2257,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T20:54:35.151346+00:00",
    "links": {},
-   "enriched": 1
+   "enriched": 2
   },
   "2118802839120318869": {
    "id": "2118802839120318869",
@@ -2259,7 +2283,24 @@
    "links": {
     "https://t.co/LSChnUqGYi": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118802826289991816",
+    "author_handle": "ajeya_cotra",
+    "author_name": "Ajeya Cotra",
+    "text": "As AI improves, uplift will get even higher. If it overcomes diminishing returns and bottlenecks, a naive extrapolation implies we would reach ASI within a year. The authors say they found no clear bottlenecks or sharp diminishing returns, though they are very uncertain. https://t.co/YPxPJLNpak",
+    "links": {
+     "https://t.co/YPxPJLNpak": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWd_8SUa0AAwjd6.png"
+     }
+    ],
+    "url": "https://x.com/ajeya_cotra/status/2118802826289991816",
+    "created_at": "Fri Nov 06 20:28:53 +0000 2026"
+   }
   },
   "2118802826289991816": {
    "id": "2118802826289991816",
@@ -2290,7 +2331,24 @@
    "links": {
     "https://t.co/YPxPJLNpak": ""
    },
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2118802809814708533",
+    "author_handle": "ajeya_cotra",
+    "author_name": "Ajeya Cotra",
+    "text": "The authors of the METR AI R&amp;D report estimate that AI is nearly doubling the rate of capabilities progress. This implies dramatic *uplift*: as if researchers experienced time ~10x faster. You probably couldn’t achieve this even if you hired every qualified human in the world. https://t.co/EfnntaRGfY",
+    "links": {
+     "https://t.co/EfnntaRGfY": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWd_7R4aIAA_SMu.png"
+     }
+    ],
+    "url": "https://x.com/ajeya_cotra/status/2118802809814708533",
+    "created_at": "Fri Nov 06 20:28:49 +0000 2026"
+   }
   },
   "2118802809814708533": {
    "id": "2118802809814708533",
@@ -2321,7 +2379,26 @@
    "links": {
     "https://t.co/EfnntaRGfY": ""
    },
-   "enriched": 1
+   "enriched": 2,
+   "thread": [
+    {
+     "id": "2118802826289991816",
+     "author_handle": "ajeya_cotra",
+     "author_name": "Ajeya Cotra",
+     "text": "As AI improves, uplift will get even higher. If it overcomes diminishing returns and bottlenecks, a naive extrapolation implies we would reach ASI within a year. The authors say they found no clear bottlenecks or sharp diminishing returns, though they are very uncertain. https://t.co/YPxPJLNpak",
+     "links": {
+      "https://t.co/YPxPJLNpak": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWd_8SUa0AAwjd6.png"
+      }
+     ],
+     "url": "https://x.com/ajeya_cotra/status/2118802826289991816",
+     "created_at": "Fri Nov 06 20:28:53 +0000 2026"
+    }
+   ]
   },
   "2119279181595021692": {
    "id": "2119279181595021692",
@@ -2345,7 +2422,28 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 1
+   "enriched": 2,
+   "parent": {
+    "id": "2119251573893464113",
+    "author_handle": "datagenproc",
+    "author_name": "jsd",
+    "text": "How it started / How it’s going https://t.co/V5lW4FqDJO",
+    "links": {
+     "https://t.co/V5lW4FqDJO": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWkYEwpbAAAuAii.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWkYEwjaYAATj8x.jpg"
+     }
+    ],
+    "url": "https://x.com/datagenproc/status/2119251573893464113",
+    "created_at": "Sun Nov 08 02:12:03 +0000 2026"
+   }
   },
   "2119277998386077885": {
    "id": "2119277998386077885",
@@ -2369,7 +2467,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 1
+   "enriched": 2
   }
  }
 }
