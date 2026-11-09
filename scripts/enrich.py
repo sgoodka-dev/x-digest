@@ -171,7 +171,7 @@ def main():
                 t["linked"].append(item)
 
     # threads
-    threads = 0
+    threads, chains = 0, {}
     for t in todo:
         if t.get("is_reply") and not t.get("is_retweet"):
             continue
@@ -182,12 +182,15 @@ def main():
         if not (THREAD_HINT.search(t.get("text") or "")
                 or ((author or "").lower(), root) in self_replied):
             continue
+        if root in chains:                 # same thread reposted by someone else
+            t["thread"] = chains[root]
+            continue
         if threads >= MAX_THREADS:
             failed.add(t["id"])
             continue
         threads += 1
         try:
-            chain = author_chain(provider, root, author)
+            chain = chains[root] = author_chain(provider, root, author)
             for c in chain:
                 fill_links(c.get("text"), c.setdefault("links", {}) or {}, budget)
             t["thread"] = chain
