@@ -2615,7 +2615,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117973679325806875": {
    "id": "2117973679325806875",
@@ -2641,7 +2641,7 @@
    "links": {
     "https://t.co/0pn81QXTKK": "https://www.anthropic.com/research/provable-inference"
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2117925569870352856": {
    "id": "2117925569870352856",
@@ -2665,7 +2665,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2117923570382971303",
     "author_handle": "MaskedTorah",
@@ -2699,7 +2699,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118328463387984345",
     "author_handle": "theobearman",
@@ -2741,7 +2741,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118135446748234216",
     "author_handle": "dylanmatt",
@@ -2775,7 +2775,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118188656502681892",
     "author_handle": "JakeMendel99",
@@ -2816,7 +2816,7 @@
    "links": {
     "https://t.co/jKN6z7ROqz": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118706692250542148": {
    "id": "2118706692250542148",
@@ -2840,7 +2840,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118456906457272816",
     "author_handle": "MJewkes",
@@ -2876,7 +2876,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118635748777726137",
     "author_handle": "Hamish_Low5",
@@ -2927,7 +2927,7 @@
    },
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118491715195834493": {
    "id": "2118491715195834493",
@@ -2958,7 +2958,7 @@
    "links": {
     "https://t.co/nKPkSTJqlq": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118460348378272216": {
    "id": "2118460348378272216",
@@ -2989,7 +2989,7 @@
    "links": {
     "https://t.co/xmCGnSkNPs": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118771396633415953": {
    "id": "2118771396633415953",
@@ -3013,7 +3013,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T20:54:35.151346+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2119006258506473743": {
    "id": "2119006258506473743",
@@ -3037,7 +3037,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2118747533816279228",
@@ -3048,6 +3048,58 @@
      "media": [],
      "url": "https://x.com/charnock_jacob/status/2118747533816279228",
      "created_at": "Fri Nov 06 16:49:11 +0000 2026"
+    },
+    {
+     "id": "2118747535716007951",
+     "author_handle": "charnock_jacob",
+     "author_name": "Jacob Charnock",
+     "text": "3/7: What should be done? Companies and evaluators should publish full contracts, redacting only proprietary technical, security-sensitive and personal information.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/charnock_jacob/status/2118747535716007951",
+     "created_at": "Fri Nov 06 16:49:11 +0000 2026"
+    },
+    {
+     "id": "2118747538157433062",
+     "author_handle": "charnock_jacob",
+     "author_name": "Jacob Charnock",
+     "text": "4/7: Failing full contract disclosure, both parties should disclose the terms most important for interpreting an evaluation -- such as, evaluation scope, access rights, publication, redaction, and escalation rights, compensation, independence requirements, and contract duration.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/charnock_jacob/status/2118747538157433062",
+     "created_at": "Fri Nov 06 16:49:12 +0000 2026"
+    },
+    {
+     "id": "2118747540749500595",
+     "author_handle": "charnock_jacob",
+     "author_name": "Jacob Charnock",
+     "text": "5/7: What would this achieve? Readers could see the conditions evaluators worked under, making findings easier to interpret and compare. Where terms are poor, readers can weigh this when judging results, and push companies to improve them.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/charnock_jacob/status/2118747540749500595",
+     "created_at": "Fri Nov 06 16:49:12 +0000 2026"
+    },
+    {
+     "id": "2118747542548562423",
+     "author_handle": "charnock_jacob",
+     "author_name": "Jacob Charnock",
+     "text": "6/7: What are the downsides? Strong terms could create false assurance if evaluators don't use their rights, and companies might grant less access if terms become public. The post argues both risks can be reduced and don't outweigh the benefits.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/charnock_jacob/status/2118747542548562423",
+     "created_at": "Fri Nov 06 16:49:13 +0000 2026"
+    },
+    {
+     "id": "2118747544238817354",
+     "author_handle": "charnock_jacob",
+     "author_name": "Jacob Charnock",
+     "text": "Read the full post here: https://t.co/iJ3ulGDj2e",
+     "links": {
+      "https://t.co/iJ3ulGDj2e": "https://www.governance.ai/analysis/third-party-ai-evaluation-contracts-should-be-published"
+     },
+     "media": [],
+     "url": "https://x.com/charnock_jacob/status/2118747544238817354",
+     "created_at": "Fri Nov 06 16:49:13 +0000 2026"
     }
    ]
   },
@@ -3073,7 +3125,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2119384669514801378",
     "author_handle": "CharlesD353",
@@ -3107,7 +3159,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2119296157406863510",
     "author_handle": "tyler_m_john",

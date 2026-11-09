@@ -2513,7 +2513,7 @@
    "quoted": null,
    "fetched_at": "2026-11-03T18:27:19.395380+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117419687206092820": {
    "id": "2117419687206092820",
@@ -2561,7 +2561,7 @@
    "quoted": null,
    "fetched_at": "2026-11-03T21:00:07.693918+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117713342341259733": {
    "id": "2117713342341259733",
@@ -2600,7 +2600,7 @@
    "links": {
     "https://t.co/tFB5IEvlfZ": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2117700011320381739": {
    "id": "2117700011320381739",
@@ -2624,7 +2624,7 @@
    "quoted": null,
    "fetched_at": "2026-11-03T21:00:07.693918+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117696219820806569": {
    "id": "2117696219820806569",
@@ -2698,7 +2698,7 @@
    "links": {
     "https://t.co/WuAnsuEEmJ": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2117816126130544722": {
    "id": "2117816126130544722",
@@ -2722,7 +2722,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117804592868335872": {
    "id": "2117804592868335872",
@@ -2746,7 +2746,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118080104328781956": {
    "id": "2118080104328781956",
@@ -2803,7 +2803,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T18:45:11.192238+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118406932780491115": {
    "id": "2118406932780491115",
@@ -2827,7 +2827,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T18:45:11.192238+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118389568030318877": {
    "id": "2118389568030318877",
@@ -2851,7 +2851,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T18:45:11.192238+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118387233006760236": {
    "id": "2118387233006760236",
@@ -2882,7 +2882,7 @@
    "links": {
     "https://t.co/0xbJlYUVUc": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118482026487537980": {
    "id": "2118482026487537980",
@@ -2910,7 +2910,7 @@
    },
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118753259959578675": {
    "id": "2118753259959578675",
@@ -2934,7 +2934,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118750357161377977": {
    "id": "2118750357161377977",
@@ -2965,7 +2965,7 @@
    "links": {
     "https://t.co/DeBxsWJJ9k": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2119492615720874151": {
    "id": "2119492615720874151",
@@ -2989,7 +2989,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T19:42:45.355278+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2119487631624962525": {
    "id": "2119487631624962525",
@@ -3020,7 +3020,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-08T19:42:45.355278+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2119487509004734536": {
    "id": "2119487509004734536",
@@ -3044,7 +3044,62 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T19:42:45.355278+00:00",
-   "enriched": 2
+   "enriched": 3
+  },
+  "2119604366013264015": {
+   "id": "2119604366013264015",
+   "url": "https://x.com/NateWitkin/status/2119604366013264015",
+   "text": "Anthropic is gaining exponentially less capability per billion dollars spent over time. It's now 8x as expensive to boost AI capabilities as it was 2 years ago, getting worse on a log scale. This includes METR report & internal models. \n\nCredit to @alexolegimas, @sebkrier, and @michael_wiebe for inspiration.",
+   "created_at": "Mon Nov 09 01:33:55 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ramez",
+   "rt_author_name": "Ramez Naam",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1897785621802061824/N9bBY8w6_normal.jpg",
+   "rt_id": "2119568698524529098",
+   "likes": 860,
+   "retweets": 108,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWo4TwMWQAAnfL8.png"
+    }
+   ],
+   "links": {
+    "https://t.co/DAr8zkYh9j": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-09T14:07:43.469218+00:00",
+   "enriched": 3
+  },
+  "2119531244249915706": {
+   "id": "2119531244249915706",
+   "url": "https://x.com/NateWitkin/status/2119531244249915706",
+   "text": "Beyond capabilities, AI2027 has gotten politics and economics badly wrong so far:\n- Stock market gains\n- Chinese centralization\n- US government ignoring AI risk",
+   "created_at": "Sun Nov 08 20:43:22 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "SashaGusevPosts",
+   "rt_author_name": "Sasha Gusev",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1996974911244410880/faBrhLPl_normal.jpg",
+   "rt_id": "2119517723613098478",
+   "likes": 157,
+   "retweets": 13,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-09T14:07:43.469218+00:00",
+   "enriched": 3
   }
  }
 }

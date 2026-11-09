@@ -2045,7 +2045,7 @@
    "links": {
     "https://t.co/g3mj4saNLk": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2117655397561778234": {
    "id": "2117655397561778234",
@@ -2071,7 +2071,7 @@
    "links": {
     "https://t.co/gBPmFTHxVr": "https://www.anthropic.com/research/provable-inference"
    },
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2117655352795906389",
     "author_handle": "ohlennart",
@@ -2163,7 +2163,7 @@
    "links": {
     "https://t.co/vtdckMzcBP": "https://openai.com/index/ai-and-compute/"
    },
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2117686018019295435",
     "author_handle": "ohlennart",
@@ -2257,7 +2257,7 @@
    "links": {
     "https://t.co/0pn81QXTKK": "https://www.anthropic.com/research/provable-inference"
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118747991234302001": {
    "id": "2118747991234302001",
@@ -2281,7 +2281,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118797132597764145": {
    "id": "2118797132597764145",
@@ -2309,7 +2309,7 @@
    },
    "fetched_at": "2026-11-06T20:54:35.151346+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118788936621588708": {
    "id": "2118788936621588708",
@@ -2340,7 +2340,7 @@
    },
    "fetched_at": "2026-11-06T20:54:35.151346+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2119647241061429668": {
    "id": "2119647241061429668",
@@ -2370,7 +2370,7 @@
     "text": "On the Jensen Huang-Alice Huang affair, you have to give the MSS credit for running another successful op. They are good and getting better.\n\nI have seen some takes that it is no big deal he had an affair with an alleged PRC spy because he needed no pillow talk convincing to push for looser export controls, but that misses a few things:\n\nHe is (was?) text and phone buddies with President Trump, so if he divulged anything about his conversations with Trump to her, or his thoughts about Trump or chatter about China policy or frankly anything from Trump, that would be valuable to any foreign intelligence service, and especially to the MSS;\n\nWas she ever alone with his phone or computer, say when he got up to use the bathroom? Are Nvidia IT/device policies for travel to Taiwan and Singapore looser than those for travel to the mainland? What value would there be to the MSS to have physical access to the devices of the Nvidia CEO?;\n\nHe is the chip allocator in chief, so a good relationship with him likely meant more chips for the MegaSpeed front and the entities back in the PRC to which those chips flowed.\n\nWith the new Congress, expect subpoenas and public hearings in which he is trashed and he and Nvidia are further damaged. What a win for the MSS, to have such access to the head of the most important company in the world, and to now get to watch as politicians and shorts attack him and Nvidia.\n\nThere is rarely just one lie, so don’t be surprised if the blast radius from this mess expands. And there is already the SuperMicro case…"
    },
    "fetched_at": "2026-11-09T14:02:18.898653+00:00",
-   "enriched": 2
+   "enriched": 3
   }
  }
 }

@@ -3970,7 +3970,7 @@
    "links": {
     "https://t.co/ikqzDG5wtO": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2117852812470305089": {
    "id": "2117852812470305089",
@@ -3994,7 +3994,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2095756014704640114",
     "author_handle": "sandersted",
@@ -4031,7 +4031,7 @@
     "https://t.co/XJBWUBZh0d": "https://www.aifuturesmodel.com/",
     "https://t.co/FBDuiNjRv1": "https://www-cdn.anthropic.com/files/4zrzovbb/website/0bacdc8440ea96e62a8766d99ebe1d4eea6d5f3a.pdf"
    },
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2117738240757371022",
     "author_handle": "DKokotajlo",
@@ -4071,7 +4071,7 @@
    },
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2117738242992959924",
@@ -4110,7 +4110,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T21:20:35.164155+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118184437955572184": {
    "id": "2118184437955572184",
@@ -4134,7 +4134,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118119207703589106": {
    "id": "2118119207703589106",
@@ -4158,7 +4158,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118110011981475938": {
    "id": "2118110011981475938",
@@ -4182,7 +4182,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118107478302896625",
     "author_handle": "vvvincent_c",
@@ -4220,7 +4220,7 @@
    },
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118436765845582289": {
    "id": "2118436765845582289",
@@ -4244,7 +4244,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118614960234467349": {
    "id": "2118614960234467349",
@@ -4275,7 +4275,7 @@
    "links": {
     "https://t.co/IF4d0EMSD8": "https://clocktowerbench.com/"
    },
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2118450950079713336",
@@ -4314,7 +4314,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118614574903816570": {
    "id": "2118614574903816570",
@@ -4345,7 +4345,7 @@
    "links": {
     "https://t.co/ZzpoirgGJm": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118568799419138061": {
    "id": "2118568799419138061",
@@ -4369,7 +4369,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118507721137979842": {
    "id": "2118507721137979842",
@@ -4395,7 +4395,7 @@
    "links": {
     "https://t.co/PV6row3CAD": "https://www.lesswrong.com/posts/cxuzALcmucCndYv4a/daniel-kokotajlo-s-shortform#8sSvtQZYDNnC9bhvn"
    },
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118507719665795306",
     "author_handle": "DKokotajlo",
@@ -4429,7 +4429,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2118507721137979842",
@@ -4467,7 +4467,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118489063401701436": {
    "id": "2118489063401701436",
@@ -4491,7 +4491,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118487522573758830",
     "author_handle": "viemccoy",
@@ -4532,7 +4532,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2118449194692448388",
@@ -4570,7 +4570,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118471162439385318",
     "author_handle": "brij",
@@ -4608,7 +4608,7 @@
    },
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118466909335322909": {
    "id": "2118466909335322909",
@@ -4632,7 +4632,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118422266669371519",
     "author_handle": "Sam_McCandlish",
@@ -4670,7 +4670,7 @@
    },
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118456355015295443": {
    "id": "2118456355015295443",
@@ -4694,7 +4694,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118456177558483126": {
    "id": "2118456177558483126",
@@ -4721,7 +4721,7 @@
     "https://t.co/AYhl9hyiAj": "https://www.lesswrong.com/posts/FG54euEAesRkSZuJN/ryan_greenblatt-s-shortform?commentId=rAFxcETtNtsuzw6aG",
     "https://t.co/ck7CtW5LIA": "https://www.lesswrong.com/posts/Jga7PHMzfZf4fbdyo/if-mythos-actually-made-anthropic-employees-4x-more"
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118735223559213094": {
    "id": "2118735223559213094",
@@ -4745,7 +4745,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118492204314640788",
     "author_handle": "tszzl",
@@ -4779,7 +4779,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118806523187277895": {
    "id": "2118806523187277895",
@@ -4810,7 +4810,7 @@
    "links": {
     "https://t.co/EfnntaRGfY": ""
    },
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2118802826289991816",
@@ -4828,6 +4828,18 @@
      ],
      "url": "https://x.com/ajeya_cotra/status/2118802826289991816",
      "created_at": "Fri Nov 06 20:28:53 +0000 2026"
+    },
+    {
+     "id": "2118802839120318869",
+     "author_handle": "ajeya_cotra",
+     "author_name": "Ajeya Cotra",
+     "text": "In a new post, I walk through some very rough modeling (thanks to @RyanGreenblatt for lots of help and feedback!): https://t.co/LSChnUqGYi\n\nI did not work on this project or see the unredacted report. All opinions are my own and do not represent METR or the report authors.",
+     "links": {
+      "https://t.co/LSChnUqGYi": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
+     },
+     "media": [],
+     "url": "https://x.com/ajeya_cotra/status/2118802839120318869",
+     "created_at": "Fri Nov 06 20:28:56 +0000 2026"
     }
    ]
   },
@@ -4853,7 +4865,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118862451555147777",
     "author_handle": "RepCasar",
@@ -4895,7 +4907,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2118854105863250158": {
    "id": "2118854105863250158",
@@ -4926,7 +4938,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2118853156230889608": {
    "id": "2118853156230889608",
@@ -4957,7 +4969,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2118828253742002495": {
    "id": "2118828253742002495",
@@ -4989,7 +5001,7 @@
     "text": "The non-disparagement clauses in Google's UK employment contracts are indeed incredibly broad.  This is from the Confidentiality and Proprietary Information Agreement I signed in 2024 before I started.\n\nIt forbids any criticism forever (regardless if it's true or not) https://t.co/RqEUhuPGAJ"
    },
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2119100752161645027": {
    "id": "2119100752161645027",
@@ -5013,7 +5025,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T16:50:32.232257+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118510732434383111",
     "author_handle": "viemccoy",
@@ -5054,7 +5066,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T16:50:32.232257+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2119098173197320505": {
    "id": "2119098173197320505",
@@ -5085,7 +5097,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T16:50:32.232257+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2119434351230554158": {
    "id": "2119434351230554158",
@@ -5109,7 +5121,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T17:03:56.475616+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2119631379864719525": {
    "id": "2119631379864719525",
@@ -5140,7 +5152,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-09T14:02:18.898653+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2119631321232478458": {
    "id": "2119631321232478458",
@@ -5164,7 +5176,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-09T14:02:18.898653+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2119611683077521908": {
    "id": "2119611683077521908",
@@ -5194,7 +5206,7 @@
     "text": "If you simply froze AI capability at Mythos / Astra levels and focused on decreasing the cost of compute you would totally revolutionize software development with zero existential risk"
    },
    "fetched_at": "2026-11-09T14:02:18.898653+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2119601995359416751": {
    "id": "2119601995359416751",
@@ -5218,7 +5230,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-09T14:02:18.898653+00:00",
-   "enriched": 2
+   "enriched": 3
   }
  }
 }

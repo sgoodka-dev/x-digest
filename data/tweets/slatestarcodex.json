@@ -2346,7 +2346,7 @@
    "quoted": null,
    "fetched_at": "2026-11-03T18:27:19.395380+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2117645085814792486",
     "author_handle": "bryanrwalsh",
@@ -2584,7 +2584,7 @@
    "quoted": null,
    "fetched_at": "2026-11-03T21:00:07.693918+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2117479578788872243",
     "author_handle": "_left_tail_chud",
@@ -2618,7 +2618,7 @@
    "quoted": null,
    "fetched_at": "2026-11-03T21:00:07.693918+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2117708973193482401",
     "author_handle": "GroundhogStrat",
@@ -2652,7 +2652,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2117721976500560287",
     "author_handle": "_left_tail_chud",
@@ -2686,7 +2686,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118567478246990113": {
    "id": "2118567478246990113",
@@ -2712,7 +2712,7 @@
    "links": {
     "https://t.co/9EkjM9urZ6": "https://epoch.ai/eci?view=graph&tab=release-date"
    },
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118457872736452809",
     "author_handle": "StefanFSchubert",
@@ -2746,7 +2746,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T20:54:35.151346+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118577409037672729",
     "author_handle": "Bayesian0_0",
@@ -2787,7 +2787,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T20:54:35.151346+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118597440882585927",
     "author_handle": "ruben_bloom",

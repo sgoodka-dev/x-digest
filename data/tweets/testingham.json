@@ -2453,7 +2453,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T18:45:11.192238+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118535009921560678": {
    "id": "2118535009921560678",
@@ -2480,7 +2480,7 @@
     "https://t.co/nGcXTcHDQi": "https://en.wikipedia.org/wiki/Item_response_theory",
     "https://t.co/eVSX8cZHw2": "https://epoch.ai/publications/a-rosetta-stone-for-ai-benchmarks"
    },
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118497857074581732",
     "author_handle": "lugaricano",
@@ -2514,7 +2514,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118764267721625915",
     "author_handle": "TheDavidSJ",
@@ -2548,7 +2548,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118748568152400188",
     "author_handle": "TheDavidSJ",
@@ -2582,7 +2582,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118735953153990716",
     "author_handle": "lugaricano",
@@ -2616,7 +2616,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118740832790716451",
     "author_handle": "datagenproc",
@@ -2663,7 +2663,7 @@
    "links": {
     "https://t.co/AMKb9FPmxW": "https://tecunningham.github.io/eci-benchmark-logodds/"
    },
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118738374173565013",
     "author_handle": "testingham",
@@ -2697,7 +2697,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118588413158768922",
     "author_handle": "TheDavidSJ",
@@ -2733,7 +2733,7 @@
    "links": {
     "https://t.co/k6YrYDU3NZ": "https://tecunningham.github.io/eci-benchmark-logodds/"
    },
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118647879984091534",
     "author_handle": "lugaricano",
@@ -2767,7 +2767,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118790787886690529": {
    "id": "2118790787886690529",
@@ -2791,7 +2791,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T20:54:35.151346+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118789210073092314",
     "author_handle": "peterwildeford",
@@ -2825,7 +2825,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T20:54:35.151346+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118785121801146778",
     "author_handle": "peterwildeford",
@@ -2861,7 +2861,7 @@
    "links": {
     "https://t.co/6r4FgTWqyC": "https://tecunningham.github.io/eci-benchmark-logodds/#tab=resid"
    },
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118767004190744694",
     "author_handle": "testingham",
@@ -2909,7 +2909,7 @@
    "links": {
     "https://t.co/z4NIYxFR9H": ""
    },
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118764612527259953",
     "author_handle": "testingham",
@@ -2943,7 +2943,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118852272109068728",
     "author_handle": "lugaricano",
@@ -2977,7 +2977,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T16:50:32.232257+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118726168048534007",
     "author_handle": "testingham",

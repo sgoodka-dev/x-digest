@@ -2668,7 +2668,7 @@
    },
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118419207394329056": {
    "id": "2118419207394329056",
@@ -2694,7 +2694,7 @@
    "links": {
     "https://t.co/EAC39nnMuA": "https://cruxevals.com/research-notes/how-to-run-your-own-crux-style-experiments"
    },
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118418574456852720",
     "author_handle": "sayashk",
@@ -2743,7 +2743,7 @@
    "links": {
     "https://t.co/V6y5YzamXa": "https://github.com/sage-princeton/crux-in-a-box"
    },
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2118419207394329056",
@@ -2788,7 +2788,7 @@
    "links": {
     "https://t.co/jKN6z7ROqz": ""
    },
-   "enriched": 2
+   "enriched": 3
   }
  }
 }

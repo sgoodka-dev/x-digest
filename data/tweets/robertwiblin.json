@@ -5637,7 +5637,7 @@
    "quoted": null,
    "fetched_at": "2026-11-03T18:27:19.395380+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2117651871640822079",
     "author_handle": "TomDavidsonX",
@@ -5671,7 +5671,7 @@
    "quoted": null,
    "fetched_at": "2026-11-03T18:27:19.395380+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2117634084214026387",
     "author_handle": "TomDavidsonX",
@@ -5712,7 +5712,7 @@
    "links": {
     "https://t.co/3MYAXZ4JOx": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2117642183281156468": {
    "id": "2117642183281156468",
@@ -5736,7 +5736,7 @@
    "quoted": null,
    "fetched_at": "2026-11-03T18:27:19.395380+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117613472867549443": {
    "id": "2117613472867549443",
@@ -6051,7 +6051,7 @@
     "https://t.co/RKv2ebPpLw": "https://youtu.be/YX-yelkbuVU",
     "https://t.co/bCkJ3jBQXw": ""
    },
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2117682730884542663",
     "author_handle": "robertwiblin",
@@ -6096,7 +6096,7 @@
    },
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118020722421338165": {
    "id": "2118020722421338165",
@@ -6124,7 +6124,7 @@
    },
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117995693461680441": {
    "id": "2117995693461680441",
@@ -6148,7 +6148,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2117993796944425030",
     "author_handle": "robertwiblin",
@@ -6182,7 +6182,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2117990933606388125",
     "author_handle": "tobyordoxford",
@@ -6223,7 +6223,7 @@
    "links": {
     "https://t.co/SPJkePtMRE": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2117979800270750164": {
    "id": "2117979800270750164",
@@ -6247,7 +6247,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117979474981462093": {
    "id": "2117979474981462093",
@@ -6271,7 +6271,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117979120025948496": {
    "id": "2117979120025948496",
@@ -6303,7 +6303,7 @@
    "links": {
     "https://t.co/NiF8l23T9r": "https://dashboard-production-c2fc.up.railway.app/"
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2117969972718715278": {
    "id": "2117969972718715278",
@@ -6327,7 +6327,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117956913979961758": {
    "id": "2117956913979961758",
@@ -6351,7 +6351,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2117955872882372914",
     "author_handle": "SimonLermenAI",
@@ -6397,7 +6397,7 @@
     "https://t.co/TWk9ybJyp3": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/",
     "https://t.co/NkI4grKB8F": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2117952659101761555": {
    "id": "2117952659101761555",
@@ -6421,7 +6421,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117952325205590349": {
    "id": "2117952325205590349",
@@ -6497,7 +6497,7 @@
    "links": {
     "https://t.co/ZFwpoDRAM2": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2117919309439643960": {
    "id": "2117919309439643960",
@@ -6528,7 +6528,7 @@
    "links": {
     "https://t.co/zbkrcBSBj8": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2117918336550076801": {
    "id": "2117918336550076801",
@@ -6559,7 +6559,7 @@
    "links": {
     "https://t.co/cl06U9fPzc": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2117915336439656604": {
    "id": "2117915336439656604",
@@ -6589,7 +6589,7 @@
    },
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117909424090014074": {
    "id": "2117909424090014074",
@@ -6615,7 +6615,7 @@
    "links": {
     "https://t.co/GuYfSxQ3FT": "https://jobs.80000hours.org/?refinementList%5Bcompany_data%5D%5B0%5D=Anthropic&refinementList%5Bcompany_data%5D%5B1%5D=OpenAI&refinementList%5Bcompany_data%5D%5B2%5D=Google%20DeepMind"
    },
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2117891542065283410",
     "author_handle": "ONagel33303",
@@ -6649,7 +6649,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117732278214271276": {
    "id": "2117732278214271276",
@@ -6680,7 +6680,7 @@
    "links": {
     "https://t.co/8Ol7Lc6V2x": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2117731266686509350": {
    "id": "2117731266686509350",
@@ -6704,7 +6704,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117731199150072253": {
    "id": "2117731199150072253",
@@ -6728,7 +6728,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118280106343104798": {
    "id": "2118280106343104798",
@@ -6759,7 +6759,7 @@
    "links": {
     "https://t.co/zsUCYnt9xe": ""
    },
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118279875190501470",
     "author_handle": "robertwiblin",
@@ -6900,7 +6900,7 @@
     "https://t.co/sFyMuKyPp8": "https://kalshi.com/markets/kxpresnomr/republican-primary-winner/kxpresnomr-28",
     "https://t.co/hy1jqM6rvN": ""
    },
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118098006184522170",
     "author_handle": "mattcschwartz",
@@ -6936,7 +6936,7 @@
    "links": {
     "https://t.co/vN7nBrtLor": "https://politi.co/480MQez"
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118096646970188172": {
    "id": "2118096646970188172",
@@ -6967,7 +6967,7 @@
    "links": {
     "https://t.co/NtwDdJdNRs": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118413009089392653": {
    "id": "2118413009089392653",
@@ -6991,7 +6991,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T18:45:11.192238+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118393011122130962": {
    "id": "2118393011122130962",
@@ -7015,7 +7015,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T18:45:11.192238+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118459584201289902": {
    "id": "2118459584201289902",
@@ -7046,7 +7046,7 @@
    "links": {
     "https://t.co/oJVVvf5KvI": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118459495953138000": {
    "id": "2118459495953138000",
@@ -7077,7 +7077,7 @@
    },
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118459106612625480": {
    "id": "2118459106612625480",
@@ -7105,7 +7105,7 @@
    },
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118458166279278707": {
    "id": "2118458166279278707",
@@ -7132,7 +7132,7 @@
     "https://t.co/AYhl9hyiAj": "https://www.lesswrong.com/posts/FG54euEAesRkSZuJN/ryan_greenblatt-s-shortform?commentId=rAFxcETtNtsuzw6aG",
     "https://t.co/ck7CtW5LIA": "https://www.lesswrong.com/posts/Jga7PHMzfZf4fbdyo/if-mythos-actually-made-anthropic-employees-4x-more"
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2119034372133204147": {
    "id": "2119034372133204147",
@@ -7156,7 +7156,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2119028434924171625",
     "author_handle": "HaydnBelfield",
@@ -7192,7 +7192,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2119032327518994680",
     "author_handle": "robertwiblin",
@@ -7280,7 +7280,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2119025917054107912",
     "author_handle": "robertwiblin",
@@ -7377,7 +7377,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-09T14:02:18.898653+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2119543114222522593": {
    "id": "2119543114222522593",
@@ -7401,7 +7401,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-09T14:02:18.898653+00:00",
-   "enriched": 2
+   "enriched": 3
   }
  }
 }

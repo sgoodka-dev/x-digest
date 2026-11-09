@@ -9314,7 +9314,7 @@
    "links": {
     "https://t.co/6sHnGrIIgO": ""
    },
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2117627793928274067",
     "author_handle": "SCP_Hughes",
@@ -9450,7 +9450,7 @@
    "links": {
     "https://t.co/BotbICPJOw": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118037579765293255": {
    "id": "2118037579765293255",
@@ -9481,7 +9481,7 @@
    "links": {
     "https://t.co/kaS56JFb9z": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118037573419565558": {
    "id": "2118037573419565558",
@@ -9505,7 +9505,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118029048911917298",
     "author_handle": "lennysan",
@@ -9546,7 +9546,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118016231194132816",
     "author_handle": "HHH_Report",
@@ -9580,7 +9580,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118016063761703339",
     "author_handle": "bk_moore",
@@ -9636,7 +9636,7 @@
    "links": {
     "https://t.co/pf8oGUH3gL": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118015869410324720": {
    "id": "2118015869410324720",
@@ -9660,7 +9660,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118015721255116834",
     "author_handle": "srajagopalan",
@@ -9694,7 +9694,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118015162342883415",
     "author_handle": "ATabarrok",
@@ -9728,7 +9728,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118011803825475981",
     "author_handle": "TziokasV",
@@ -9762,7 +9762,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118015050245976444",
     "author_handle": "Afinetheorem",
@@ -9796,7 +9796,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118007469792522628",
     "author_handle": "AlecStapp",
@@ -9830,7 +9830,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118013221353242764",
     "author_handle": "GrantTucker",
@@ -9864,7 +9864,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118008321970254220",
     "author_handle": "afrazhaowang",
@@ -9898,7 +9898,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118012669383053339",
     "author_handle": "BeatrizGietner",
@@ -9932,7 +9932,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118008283818545201",
     "author_handle": "sebkrier",
@@ -9966,7 +9966,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118014783400423574",
     "author_handle": "amelapay",
@@ -10000,7 +10000,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118010132428738893",
     "author_handle": "tamarawinter",
@@ -10034,7 +10034,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118010596818133286",
     "author_handle": "AtalantaArdenM",
@@ -10075,7 +10075,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118009412107608198",
     "author_handle": "sarthakgh",
@@ -10120,7 +10120,7 @@
    "links": {
     "https://t.co/I52GkErXfq": ""
    },
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118006659100385451",
     "author_handle": "s8mb",
@@ -10158,7 +10158,7 @@
    "links": {
     "https://t.co/a22LtQP2HW": "https://worksinprogress.co/barnes-noble-launch/"
    },
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2118009416687702185",
@@ -10207,7 +10207,7 @@
    "links": {
     "https://t.co/qwVmTrPTGV": "https://worksinprogress.co/issue/the-forgotten-formula-for-lovable-cities/?v2"
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2117899168966729881": {
    "id": "2117899168966729881",
@@ -10231,7 +10231,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117869257518125157": {
    "id": "2117869257518125157",
@@ -10255,7 +10255,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2117759412051890502",
     "author_handle": "MarcopoloLondon",
@@ -10289,7 +10289,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2117739250804232309",
     "author_handle": "StefanFSchubert",
@@ -10325,7 +10325,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2117746615641649394",
     "author_handle": "UrbanCourtyard",
@@ -10372,7 +10372,7 @@
    "links": {
     "https://t.co/OnsBn8atx8": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118073704458682571": {
    "id": "2118073704458682571",
@@ -10398,7 +10398,7 @@
    "links": {
     "https://t.co/a22LtQP2HW": "https://worksinprogress.co/barnes-noble-launch/"
    },
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2118009416687702185",
@@ -10445,7 +10445,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T21:20:35.164155+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118014001049383182",
     "author_handle": "krispuckett",
@@ -10497,7 +10497,7 @@
    "links": {
     "https://t.co/8D0f8WV44j": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118335088614388138": {
    "id": "2118335088614388138",
@@ -10521,7 +10521,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118278964581957917",
     "author_handle": "ChadWestTweets",
@@ -10574,7 +10574,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118102442147770790",
     "author_handle": "omgmaddie",
@@ -10622,7 +10622,7 @@
    "links": {
     "https://t.co/k8zehvjwbR": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118234920275636571": {
    "id": "2118234920275636571",
@@ -10653,7 +10653,7 @@
    "links": {
     "https://t.co/1lfMAvF5uO": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118234905159111061": {
    "id": "2118234905159111061",
@@ -10677,7 +10677,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118231783183614147",
     "author_handle": "kanlu_07",
@@ -10725,7 +10725,7 @@
    "links": {
     "https://t.co/IcjjYztKux": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118116864748655011": {
    "id": "2118116864748655011",
@@ -10756,7 +10756,7 @@
    "links": {
     "https://t.co/IJkr5RaIzN": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118113502170915021": {
    "id": "2118113502170915021",
@@ -10787,7 +10787,7 @@
    "links": {
     "https://t.co/1gRwEg3ylY": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118105694759186695": {
    "id": "2118105694759186695",
@@ -10818,7 +10818,7 @@
    "links": {
     "https://t.co/BBtO6bw1n4": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118105680213381163": {
    "id": "2118105680213381163",
@@ -10842,7 +10842,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118105506887717117",
     "author_handle": "0xperp",
@@ -10883,7 +10883,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T18:45:11.192238+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118395596818313377",
     "author_handle": "edatweets_",
@@ -10939,7 +10939,7 @@
    "links": {
     "https://t.co/9zl16HBL5A": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118455261459558691": {
    "id": "2118455261459558691",
@@ -10969,7 +10969,7 @@
    },
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118453190786220292": {
    "id": "2118453190786220292",
@@ -11004,7 +11004,7 @@
    "links": {
     "https://t.co/l8XyTAnzXQ": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118440171695993237": {
    "id": "2118440171695993237",
@@ -11028,7 +11028,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118434879025152406",
     "author_handle": "davidrconway",
@@ -11068,7 +11068,7 @@
    },
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118615275121578249": {
    "id": "2118615275121578249",
@@ -11094,7 +11094,7 @@
    "links": {
     "https://t.co/XQT3lLtdaz": "https://worksinprogress.co/issue/did-medieval-people-love-their-children/"
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118605392875868163": {
    "id": "2118605392875868163",
@@ -11118,7 +11118,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118436211849347226",
     "author_handle": "WesleyJamesOnX",
@@ -11166,7 +11166,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2119020346074333364": {
    "id": "2119020346074333364",
@@ -11190,7 +11190,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118998867542729047",
     "author_handle": "Chakrex1",
@@ -11224,7 +11224,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2119008603608609118",
     "author_handle": "timleunig",
@@ -11258,7 +11258,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2119003316596482151",
     "author_handle": "dwatkins_",
@@ -11299,7 +11299,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2119001372314272001": {
    "id": "2119001372314272001",
@@ -11331,7 +11331,7 @@
     "text": "There's something particularly appealing about @WorksInProgMag in print @s8mb https://t.co/tXAEIg1hLn"
    },
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2119001117300506837": {
    "id": "2119001117300506837",
@@ -11355,7 +11355,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118704932388044913",
     "author_handle": "dwatkins_",
@@ -11396,7 +11396,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118986689662390564",
     "author_handle": "bendunnflores",
@@ -11436,7 +11436,7 @@
     "text": "A common Westminster mistake is to look at big moments in US politics and assume the same battle lines will be drawn here. AI and the mid-terms are a good example of this.\n \nThe easy assumption is that a big polarising debate on data centres is about to hit the UK, just because it has in the US. But that ignores two important facts.\n \nFirst, the government has watched the free-for-all in parts of the US, has learned lessons from it, and is setting out a different approach. We do need to secure grid connections for strategic data centres, and we are setting up a Ministerial Control Centre to do just that. But move too quickly without bringing communities with you, and people understandably start worrying about the impact on their area and asking what they’re getting in return. That's why we're putting protections in place, to prioritise data centres only where they meet the tests set out in our Data Centre Covenant published at the Budget.\n \nThis means data centres have to lower electricity bills for other users, minimise and report on water usage, support our reindustrialisation objectives and support UK sovereignty.  And crucially, it means agreeing to the principle that local communities around new infrastructure should share in its benefits - both through jobs and wider support.\n\nSecond, our problem is not that we have an abundance of data centre construction that our politics needs to reckon with, it's that build out is slower here than it could be. 15 of the world’s top 20 largest data centre markets are in the US. None are in the UK.  The pace of investment here is, frankly, too low for what we need to stay at the forefront as AI technology develops. High electricity costs and slow grid connections (thanks, Conservatives) mean we haven't been near the top of the list for investment, and too often we're reliant on AI infrastructure overseas. The Budget last week set out a new direction to change this for all business and households, but we can't turn this round overnight.\n \nData Centres today are essential infrastructure.  They underpin much of everyday life in the UK, from banking and shopping, to public services, to helping doctors screen for diseases.  AI makes that infrastructure even more important and as AI becomes more widely used across out economy, Britain will need more of the data centres that support it. But we won’t allow that growth to come at any cost. We’ll protect communities.  And we’ll make sure local people benefit."
    },
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2118964002701099510": {
    "id": "2118964002701099510",
@@ -11466,7 +11466,7 @@
     "text": "AI is engineered to be an essential. It’s being baked into our life & our work. We are going to rely on it with little choice to opt out individually. That’s one of the reasons why AI belongs under public control. Whoever controls the essentials has control over our society and economy. In a democracy that control belongs to the people."
    },
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2118824702026420658": {
    "id": "2118824702026420658",
@@ -11498,7 +11498,7 @@
     "text": "we have a winner for the most absurd AI startup ever\n\nthis Peter Thiel backed company uses AI robots to stab fish in the brain so they taste better and last up to 3x longer\n\nit's called Shinkei and it modernizes a centuries-old Japanese technique\n\ndozens of Michelin-star restaurants are already lining up to buy the fish\n\nhere's how it works:\n\n> the problem is when a fish gets caught, it usually just suffocates on the boat\n\n> that stress floods the meat with hormones and lactic acid, which hurts the flavor and texture\n\n> the old Japanese fix for this was spiking the fish through the brain right after the catch, which stops all that\n\n> but doing it by hand is impractical for most American fishing crews\n\n> so Shinkei built a fridge-sized robot that sits right on the boat's deck\n\n> the crew feeds in a fish and AI identifies the exact species, so it knows exactly where the brain and gills are\n\n> the robot then drives the spike through the brain and cuts near the gills in about 7 seconds\n\n> the fish goes into an ice slurry so the blood drains out\n\n> so the fish doesn't sit there stressing out, and that tasty flavor and texture is preserved\n\nexample number 5,392,417 of how AI can be applied to literally anything"
    },
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2118822410824700195": {
    "id": "2118822410824700195",
@@ -11529,7 +11529,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2119110209125638531": {
    "id": "2119110209125638531",
@@ -11568,7 +11568,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T16:50:32.232257+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2119106164071993837",
     "author_handle": "TaylorLorenz",
@@ -11602,7 +11602,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T16:50:32.232257+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2119040038629703684",
     "author_handle": "tractoreric",
@@ -11636,7 +11636,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T19:26:16.707844+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2119113958250692913",
     "author_handle": "TaylorLorenz",
@@ -11670,7 +11670,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T19:26:16.707844+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2119112768985178594",
     "author_handle": "TaylorLorenz",
@@ -11704,7 +11704,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2119357896538329336",
     "author_handle": "ant_studies",
@@ -11738,7 +11738,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2119170958988829161",
     "author_handle": "JEBistline",
@@ -11792,7 +11792,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2119181474939208062": {
    "id": "2119181474939208062",
@@ -11822,7 +11822,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2119174243963539552": {
    "id": "2119174243963539552",
@@ -11846,7 +11846,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2119472314077343871": {
    "id": "2119472314077343871",
@@ -11870,7 +11870,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-08T17:03:56.475616+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2119468794963787972",
     "author_handle": "ateAfishstick",
@@ -11906,7 +11906,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-08T17:03:56.475616+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2119450253212500036",
     "author_handle": "IJW121",
@@ -11957,7 +11957,7 @@
     "url": "https://x.com/zoecabina/status/2119690602120085988",
     "created_at": "Mon Nov 09 07:16:36 +0000 2026"
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2119549005097320540": {
    "id": "2119549005097320540",
@@ -11991,7 +11991,7 @@
     "url": "https://x.com/prosinecki_PFC/status/2119547648403194164",
     "created_at": "Sun Nov 08 21:48:33 +0000 2026"
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2119540866490732887": {
    "id": "2119540866490732887",
@@ -12017,7 +12017,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-09T14:02:18.898653+00:00",
-   "enriched": 2
+   "enriched": 3
   }
  }
 }

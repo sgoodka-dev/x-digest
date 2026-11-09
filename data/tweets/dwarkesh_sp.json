@@ -2717,7 +2717,7 @@
    "quoted": null,
    "fetched_at": "2026-11-03T18:27:19.395380+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117394374883746179": {
    "id": "2117394374883746179",
@@ -2777,7 +2777,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118116186936524934": {
    "id": "2118116186936524934",
@@ -2806,7 +2806,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118116177851580839": {
    "id": "2118116177851580839",
@@ -2837,7 +2837,7 @@
    "links": {
     "https://t.co/hGGrb46yNC": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118450950079713336": {
    "id": "2118450950079713336",
@@ -2864,7 +2864,7 @@
     "https://t.co/LH20ZKCYp3": "https://dwarkesh.com/p/clocktower",
     "https://t.co/3KOIctPkEo": "https://youtu.be/1NQwfImTseU"
    },
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118449808402681911",
     "author_handle": "dwarkesh_sp",
@@ -2913,7 +2913,7 @@
    "links": {
     "https://t.co/IF4d0EMSD8": "https://clocktowerbench.com/"
    },
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2118450950079713336",
@@ -2959,7 +2959,7 @@
    "links": {
     "https://t.co/sX2FBYpUfZ": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118575364792569945": {
    "id": "2118575364792569945",
@@ -2990,7 +2990,7 @@
    "links": {
     "https://t.co/cnfu0gcNtu": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118570995359662181": {
    "id": "2118570995359662181",
@@ -3014,7 +3014,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118514804189233568",
     "author_handle": "polynoamial",
@@ -3057,7 +3057,7 @@
    "links": {
     "https://t.co/U3M387AbXQ": "https://www.youtube.com/watch?v=1NQwfImTseU"
    },
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118506296735600824",
     "author_handle": "dwarkesh_sp",
@@ -3111,7 +3111,7 @@
    "links": {
     "https://t.co/y3kJecZQxq": ""
    },
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2118506486708294139",
@@ -3157,7 +3157,7 @@
     "https://t.co/koKm4KZphH": "https://youtu.be/0GMWxuYuxJI?t=4135",
     "https://t.co/DaNGmoBxvf": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118476123176923488": {
    "id": "2118476123176923488",
@@ -3194,7 +3194,7 @@
    "links": {
     "https://t.co/IuqicNusMO": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118466121317924959": {
    "id": "2118466121317924959",
@@ -3218,7 +3218,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118461465472782520",
     "author_handle": "Madisonkanna",
@@ -3252,7 +3252,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118796146198061062": {
    "id": "2118796146198061062",
@@ -3284,7 +3284,7 @@
     "https://t.co/XK9TQK8hJT": "https://youtu.be/0GMWxuYuxJI?t=1355",
     "https://t.co/sniwno7PaR": ""
    },
-   "enriched": 2
+   "enriched": 3
   }
  }
 }

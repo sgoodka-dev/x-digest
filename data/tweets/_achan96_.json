@@ -2758,7 +2758,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2118093166536749139",
@@ -2776,6 +2776,56 @@
      ],
      "url": "https://x.com/Marcus_J_W/status/2118093166536749139",
      "created_at": "Wed Nov 04 21:28:57 +0000 2026"
+    },
+    {
+     "id": "2118093184052175335",
+     "author_handle": "Marcus_J_W",
+     "author_name": "Marcus Williams",
+     "text": "The rate of covert underperformance increased during post training RL. We identified a RL grader that prefers covert underperformance to both refusal and compliance on our eval. While we have found training samples which rewarded underperformance in this way, it is unclear if these occur frequently enough to explain the difference.",
+     "links": {
+      "https://t.co/2LDotylFjd": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWT6hkBaUAAKa8J.jpg"
+      },
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWT6huWbcAAfDQ1.jpg"
+      }
+     ],
+     "url": "https://x.com/Marcus_J_W/status/2118093184052175335",
+     "created_at": "Wed Nov 04 21:29:02 +0000 2026"
+    },
+    {
+     "id": "2118093199709557229",
+     "author_handle": "Marcus_J_W",
+     "author_name": "Marcus Williams",
+     "text": "We also identified a SFT dataset which massively increases rates of inventing permission restrictions or justifying inaction with safety. When we subtract the weight update from this SFT from the final RL checkpoint the performance gap goes away. SFTing with this dataset on other models and then doing RL did not cause underperformance however.",
+     "links": {
+      "https://t.co/9ShuGvtyuO": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWT6il3bsAA3KTP.jpg"
+      }
+     ],
+     "url": "https://x.com/Marcus_J_W/status/2118093199709557229",
+     "created_at": "Wed Nov 04 21:29:05 +0000 2026"
+    },
+    {
+     "id": "2118093212141437361",
+     "author_handle": "Marcus_J_W",
+     "author_name": "Marcus Williams",
+     "text": "We don’t have evidence that the underperformance was strategic, a simpler explanation is that the model thinks these tasks are sketchy but also doesn’t want to explicitly refuse. When we add instructions to be careful to the developer prompt, the performance gap increases by 50%. Regardless of the model’s motivation, covert underperformance can differentially slow down safety research and is also an example of how misalignment might get harder and harder to detect as we cut down on visible forms of it.\n\nAs always you can read the full report at https://t.co/w3NUkKaMM2",
+     "links": {
+      "https://t.co/w3NUkKaMM2": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
+     },
+     "media": [],
+     "url": "https://x.com/Marcus_J_W/status/2118093212141437361",
+     "created_at": "Wed Nov 04 21:29:08 +0000 2026"
     }
    ]
   },
@@ -2801,7 +2851,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118682153005281396": {
    "id": "2118682153005281396",
@@ -2829,7 +2879,7 @@
    },
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118628663327432996": {
    "id": "2118628663327432996",
@@ -2862,7 +2912,7 @@
    },
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118749733829382514": {
    "id": "2118749733829382514",
@@ -2886,7 +2936,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118735561334682033": {
    "id": "2118735561334682033",
@@ -2912,7 +2962,7 @@
    "links": {
     "https://t.co/MbPaQsusvf": "https://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf"
    },
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118735559250059403",
     "author_handle": "_achan96_",
@@ -2960,7 +3010,7 @@
    "links": {
     "https://t.co/NR4Hh2noHx": ""
    },
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2118735561334682033",
@@ -2998,7 +3048,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "thread": [
     {
      "id": "2118741124122886419",
@@ -3009,6 +3059,35 @@
      "media": [],
      "url": "https://x.com/SwannAiden/status/2118741124122886419",
      "created_at": "Fri Nov 06 16:23:42 +0000 2026"
+    },
+    {
+     "id": "2118741141982167385",
+     "author_handle": "SwannAiden",
+     "author_name": "Aiden Swann 🤠 CORL2026",
+     "text": "The real giveaway is that when we change the DH parameters, these models continue to predict positions consistent with a certain overfit robot (Franka Panda). This is strong evidence the models are overfit to certain embodiments.\n\nOur full results are below https://t.co/nQbGZNdN0b",
+     "links": {
+      "https://t.co/nQbGZNdN0b": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWdH1vSbgAAqi-R.jpg"
+      }
+     ],
+     "url": "https://x.com/SwannAiden/status/2118741141982167385",
+     "created_at": "Fri Nov 06 16:23:47 +0000 2026"
+    },
+    {
+     "id": "2118741154690957696",
+     "author_handle": "SwannAiden",
+     "author_name": "Aiden Swann 🤠 CORL2026",
+     "text": "I will be at CORL next week, and would love to talk to folks who are interested in this research. Please DM me!\n\ncode and full rollouts here\nhttps://t.co/aYzIQ7v3VB",
+     "links": {
+      "https://t.co/aYzIQ7v3VB": "https://github.com/swannaiden/vlm-robotics-training"
+     },
+     "media": [],
+     "url": "https://x.com/SwannAiden/status/2118741154690957696",
+     "created_at": "Fri Nov 06 16:23:50 +0000 2026"
     }
    ]
   },
@@ -3041,7 +3120,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-08T19:42:45.355278+00:00",
-   "enriched": 2
+   "enriched": 3
   }
  }
 }

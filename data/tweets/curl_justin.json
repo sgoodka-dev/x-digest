@@ -2027,7 +2027,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117869654148612179": {
    "id": "2117869654148612179",
@@ -2058,7 +2058,7 @@
    "links": {
     "https://t.co/EpPqOE215Q": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2117828416015851542": {
    "id": "2117828416015851542",
@@ -2082,7 +2082,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117776374463377611": {
    "id": "2117776374463377611",
@@ -2106,7 +2106,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118058071721427034": {
    "id": "2118058071721427034",
@@ -2136,7 +2136,7 @@
    },
    "fetched_at": "2026-11-04T21:20:35.164155+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118567566004380118": {
    "id": "2118567566004380118",
@@ -2163,7 +2163,7 @@
     "https://t.co/INCzixvpAn": "https://arxiv.org/abs/2603.10028",
     "https://t.co/7CZwut4b9J": "https://theacorp.org/faq/"
    },
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118558746163003749",
     "author_handle": "rubinovitz",
@@ -2197,7 +2197,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118554612080730142",
     "author_handle": "_NathanCalvin",
@@ -2238,7 +2238,7 @@
     "https://t.co/oGUtqVZNCp": "https://download.ssrn.com/2026/2/20/6273198.pdf",
     "https://t.co/jAE0nTZjbp": "https://soniafpearson.substack.com/p/capitalizing-untethered-ai-agents"
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118893141965353314": {
    "id": "2118893141965353314",
@@ -2269,7 +2269,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2
+   "enriched": 3
   }
  }
 }

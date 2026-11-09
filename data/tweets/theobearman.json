@@ -5505,7 +5505,7 @@
    },
    "fetched_at": "2026-11-03T18:27:19.395380+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117685001504669869": {
    "id": "2117685001504669869",
@@ -5538,7 +5538,7 @@
    },
    "fetched_at": "2026-11-03T18:27:19.395380+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117596591645168078": {
    "id": "2117596591645168078",
@@ -5760,7 +5760,7 @@
    },
    "fetched_at": "2026-11-03T21:00:07.693918+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117700874353156245": {
    "id": "2117700874353156245",
@@ -5791,7 +5791,7 @@
    },
    "fetched_at": "2026-11-03T21:00:07.693918+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118016838030234037": {
    "id": "2118016838030234037",
@@ -5815,7 +5815,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117980704244117947": {
    "id": "2117980704244117947",
@@ -5839,7 +5839,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117873191247032458": {
    "id": "2117873191247032458",
@@ -5863,7 +5863,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2117751042675036297",
     "author_handle": "fleetingbits",
@@ -5903,7 +5903,7 @@
    "links": {
     "https://t.co/Y1Olrm2jr2": "https://www-cdn.anthropic.com/files/4zrzovbb/website/0bacdc8440ea96e62a8766d99ebe1d4eea6d5f3a.pdf"
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118088981942329757": {
    "id": "2118088981942329757",
@@ -5938,7 +5938,7 @@
    "links": {
     "https://t.co/VZxaUQHtWa": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118344113246584968": {
    "id": "2118344113246584968",
@@ -5962,7 +5962,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118328463387984345": {
    "id": "2118328463387984345",
@@ -5993,7 +5993,7 @@
    "links": {
     "https://t.co/8fn07nDbM2": "https://cdn.openai.com/pdf/compute-campus-policy-blueprint.pdf"
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118293859591393639": {
    "id": "2118293859591393639",
@@ -6017,7 +6017,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118210973731590334": {
    "id": "2118210973731590334",
@@ -6043,7 +6043,7 @@
    "links": {
     "https://t.co/SGZXwSRwxU": "https://openai.com/index/a-thousand-fewer-paths-to-root/"
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118116396768821419": {
    "id": "2118116396768821419",
@@ -6067,7 +6067,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118116303823327316": {
    "id": "2118116303823327316",
@@ -6096,7 +6096,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118097054383710679": {
    "id": "2118097054383710679",
@@ -6203,7 +6203,7 @@
    },
    "fetched_at": "2026-11-05T18:45:11.192238+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118413382281752994": {
    "id": "2118413382281752994",
@@ -6274,7 +6274,7 @@
    "links": {
     "https://t.co/Nzab3Z1Td6": "https://openai.com/index/introducing-gpt-6-cyber/"
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118391613294875086": {
    "id": "2118391613294875086",
@@ -6312,7 +6312,7 @@
     "https://t.co/GNCnYPfmzu": "https://www.goodfire.com/research/mechanistic-shaping",
     "https://t.co/wASiKuif5h": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118391004780953814": {
    "id": "2118391004780953814",
@@ -6338,7 +6338,7 @@
    "links": {
     "https://t.co/P7i7Jo0Wrp": "https://time.com/article/2026/11/05/ai-cheating-scientists-report-alignment/"
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118371302352286014": {
    "id": "2118371302352286014",
@@ -6373,7 +6373,7 @@
    "links": {
     "https://t.co/XzSVO2bF79": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118453616654848317": {
    "id": "2118453616654848317",
@@ -6401,7 +6401,7 @@
    },
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118448691266670847": {
    "id": "2118448691266670847",
@@ -6428,7 +6428,7 @@
     "https://t.co/AYhl9hyiAj": "https://www.lesswrong.com/posts/FG54euEAesRkSZuJN/ryan_greenblatt-s-shortform?commentId=rAFxcETtNtsuzw6aG",
     "https://t.co/ck7CtW5LIA": "https://www.lesswrong.com/posts/Jga7PHMzfZf4fbdyo/if-mythos-actually-made-anthropic-employees-4x-more"
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118443158094721215": {
    "id": "2118443158094721215",
@@ -6454,7 +6454,7 @@
    "links": {
     "https://t.co/nDAO1SIVRz": "https://news.bloomberglaw.com/legal-exchange-insights-and-commentary/anthropic-ipos-disclosure-risks-are-due-diligence-in-safety"
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118442677096108304": {
    "id": "2118442677096108304",
@@ -6518,7 +6518,7 @@
    },
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118423295733178654": {
    "id": "2118423295733178654",
@@ -6553,7 +6553,7 @@
    "links": {
     "https://t.co/c9CEUapUw0": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118419703999668437": {
    "id": "2118419703999668437",
@@ -6577,7 +6577,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118413382281752994",
     "author_handle": "theobearman",
@@ -6611,7 +6611,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118413382281752994",
     "author_handle": "theobearman",
@@ -6645,7 +6645,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2118413382281752994",
     "author_handle": "theobearman",
@@ -6683,7 +6683,7 @@
    },
    "fetched_at": "2026-11-05T21:28:33.291434+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118689629876490245": {
    "id": "2118689629876490245",
@@ -6711,7 +6711,7 @@
    },
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118470775418060920": {
    "id": "2118470775418060920",
@@ -6740,7 +6740,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T14:24:13.594962+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118754777534529835": {
    "id": "2118754777534529835",
@@ -6764,7 +6764,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118754452265951727": {
    "id": "2118754452265951727",
@@ -6801,7 +6801,7 @@
    "links": {
     "https://t.co/iJga5c0cbD": "https://www.iaps.ai/research/embedded-evaluators-for-frontier-ai-contractual-foundations-for-credible-assessments"
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118955531234677020": {
    "id": "2118955531234677020",
@@ -6833,7 +6833,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2118952119072104736": {
    "id": "2118952119072104736",
@@ -6897,7 +6897,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2118821348499726671": {
    "id": "2118821348499726671",
@@ -6921,7 +6921,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2118820886291923109": {
    "id": "2118820886291923109",
@@ -6958,7 +6958,7 @@
     "text": "@DKokotajlo @AnthropicAI They've been pedal to the metal afterburners on since Dario said at the WEF they were leaning into RSI. They said they support pacing, not that they were pacing."
    },
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2119754129639670200": {
    "id": "2119754129639670200",
@@ -7010,7 +7010,7 @@
     "text": "DeepSeek Harness has reached 1.54 million DAU in less than three months. https://t.co/A5lHupSfRS"
    },
    "fetched_at": "2026-11-09T14:02:18.898653+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2119531839723278678": {
    "id": "2119531839723278678",
@@ -7036,7 +7036,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-09T14:02:18.898653+00:00",
-   "enriched": 2
+   "enriched": 3
   }
  }
 }

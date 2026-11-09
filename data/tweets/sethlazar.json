@@ -6433,7 +6433,7 @@
     "https://t.co/AcfIsj9PcI": "https://blog.cosmos-institute.org/p/cosmos-is-hiring-a-chief-of-staff",
     "https://t.co/ylNXAd6ssB": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2117478810551542006": {
    "id": "2117478810551542006",
@@ -6620,7 +6620,7 @@
    "links": {
     "https://t.co/zrDsMApW72": "https://clic-lab.org/join/phd"
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2117995872961081469": {
    "id": "2117995872961081469",
@@ -6644,7 +6644,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117835235140247686": {
    "id": "2117835235140247686",
@@ -6675,7 +6675,7 @@
    "links": {
     "https://t.co/GZsm8knmEe": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2117784171405820157": {
    "id": "2117784171405820157",
@@ -6699,7 +6699,7 @@
    "quoted": null,
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2117749585627996180": {
    "id": "2117749585627996180",
@@ -6727,7 +6727,7 @@
    },
    "fetched_at": "2026-11-04T18:39:15.281815+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118070941263819148": {
    "id": "2118070941263819148",
@@ -6794,7 +6794,7 @@
    "quoted": null,
    "fetched_at": "2026-11-05T14:45:47.010415+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118754260124848396": {
    "id": "2118754260124848396",
@@ -6826,7 +6826,7 @@
     "https://t.co/2SPaf53JpH": "https://blog.cosmos-institute.org/p/what-will-you-build-for-matthew-botvinick",
     "https://t.co/bPFhg4WM3z": ""
    },
-   "enriched": 2
+   "enriched": 3
   },
   "2118754183818137768": {
    "id": "2118754183818137768",
@@ -6854,7 +6854,7 @@
    },
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118730792696172778": {
    "id": "2118730792696172778",
@@ -6878,7 +6878,7 @@
    "quoted": null,
    "fetched_at": "2026-11-06T17:57:47.218782+00:00",
    "links": {},
-   "enriched": 2
+   "enriched": 3
   },
   "2118861877551792436": {
    "id": "2118861877551792436",
@@ -6902,7 +6902,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2119083870981107954": {
    "id": "2119083870981107954",
@@ -6926,7 +6926,7 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-07T16:50:32.232257+00:00",
-   "enriched": 2,
+   "enriched": 3,
    "parent": {
     "id": "2119072600018108839",
     "author_handle": "jonathanstray",
@@ -6969,7 +6969,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-07T19:26:16.707844+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2119324235390738546": {
    "id": "2119324235390738546",
@@ -7001,7 +7001,7 @@
     "text": "It really is pointless and unnecessary to allow external reviewers to use AI as they want. There are obvious better alternatives.\n\nBy now, everyone should already be using AI to check their work before submitting. So what's the point of reviewers meat proxying to send more AI-generated feedback? Seemingly none.\n\nWhat happens if we ban AI use in peer review? The main risk is to the imagined role of peer review as a basic soundness filter. But this is much better addressed by the venue having a centralized approach that uses validated AI tools to check that a paper is what it says it is than by individual reviewers feeding papers to LLMs using basic prompts. Such checks might include things like whether the results can be reproduced from the data/code, whether claims can be traced back to some provided evidence, whether there are TODOs left by an LLM to replace table results with non-fake data, etc. \n\nSome of these can be used to determine if a paper should be desk rejected. Anything that is more controversial can be surfaced for reviewers.\n\nThis will shift what reviewers pay attention to, but this can be addressed by: 1) making clear to reviewers that their role is to identify what these checks miss and to weigh them, 2) being intelligent about how you select the set of LLM checks that are surfaced. See e.g., our work on learning LLM-implemented checklist that avoid adding more bias than they reduce variance. https://t.co/Np9qW1upuz\n\nWhat happened with ICLR being permissive with reviewers using AI freely is seeming pretty inexcusable."
    },
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2119438928621297735": {
    "id": "2119438928621297735",
@@ -7040,7 +7040,7 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-08T17:03:56.475616+00:00",
-   "enriched": 2
+   "enriched": 3
   },
   "2119433926620184727": {
    "id": "2119433926620184727",
@@ -7074,7 +7074,7 @@
     "text": "Why are many orgs aggressively hiring/scaling up, yet it's extremely hard to find a full time position?\n\nWhy are there calls to expand the number of people doing research in AI safety, yet our academic institutions are crumbling under the weight of the sheer number of papers and outputs?\n\nWhy are we exhorted to do research slowly and deeply, yet sped along on crunch time, with the hope that scale will clarify our confusions?\n\nIn this new blogpost (done in my personal time), I argue that these are rooted in a tension between a frame of \"war mode\" and \"civilisation mode\". This tension, in my view, creates uneasiness and despair, as well as makes it difficult to see clearly.\n\nCheck it out on LW: https://t.co/Wt4AKAy7tD\n\nor on Substack: https://t.co/FFJ3imTter"
    },
    "fetched_at": "2026-11-08T17:03:56.475616+00:00",
-   "enriched": 2
+   "enriched": 3
   }
  }
 }
