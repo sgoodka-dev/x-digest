@@ -5424,6 +5424,60 @@
     }
    ],
    "enriched": 3
+  },
+  "2119965850832916880": {
+   "id": "2119965850832916880",
+   "url": "https://x.com/DKokotajlo/status/2119965850832916880",
+   "text": "Well said.",
+   "created_at": "Tue Nov 10 01:30:20 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 194,
+   "retweets": 3,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2119925086597873696",
+    "author_name": "Trevor Levin",
+    "links": {},
+    "author": "trevposts",
+    "text": "Having just spent the week in San Francisco, I feel like I've truly internalized the insanity of this situation for the first time. I think anyone who has seen me in the last few days can attest that I look like I've seen a ghost.\n\nThe leading AI companies are planning to massively accelerate AI research in 2027, which would knowingly endanger everyone on earth. This plan is unacceptable, and we must reject it.\n\nBorrowing from one advocate I spoke to, even granting that it's a competitive, crazy situation, I do not believe any company has even truly tried to do what I think are the morally required duties of people taking such risks in extreme situations. These include:\n(1) Trying hard to get out of the competitive situation;\n(2) Seeking the informed consent of the public;\n(3) Honest deliberation about the risks.\n\nThey have obviously not truly tried to solve the coordination problems that push towards this acceleration, either via finding legal ways to coordinate or advocating for effective policy. \n\nI would be shocked to learn that getting off this insane runaway train is a top-few Q4 priority for Dario or Sam (let alone the other CEOs), which seems like the bare minimum. There are indeed some hard technical and policy problems in coordinating without policy intervention, but I simply do not believe that the companies are prioritizing this nearly as much as massively less important matters.\n\nMeanwhile, the companies' track records on policy advocacy range from mediocre to disgraceful, and it is pretty clearly not the top priority of the policy team at any company to advocate for regulation that would enable the government or the companies to avert racing off the cliff.\n\nThey have obviously not truly tried to seek informed consent from the public. Whatever your KPIs might be for \"informed consent from the public,\" these KPIs are abysmal. The public clearly does not expect 100 years of AI progress in 2027, and they would not accept it if they did. What they do know about AI development, they dislike and distrust.\n\nI've heard arguments like \"informing the public would mean informing China, and maybe they'd steal the weights.\" I'm sorry, but if you think you have model weights such that China stealing them would constitute a catastrophe on par with human extinction, and your plan is security by obscurity, that is a bad plan.\n\nI also think the companies and their employees suffer from a significant failure of imagination of what kinds of coordination could be possible if the public were aware.\n\nFinally, I don't think they're deliberating honestly, either. For one, I think it is insane to think that any company can truly evaluate its own ability to keep the process of recursive self-improvement under control. The biases towards \"yes\" are overwhelming.\n\nIt's a step forward that the companies have expressed or demonstrated openness to external auditors, but based on METR's reports so far, it seems likely that auditor reports will be heavily redacted (and that the auditors will not have sufficient time by default). The public and broader scientific community are not able to scrutinize their arguments for safety.\n\nGiven the strong default (in my view) that bringing a massive number of minds massively faster and smarter than humans would result in our disempowerment, and the serious danger that this would result in mass death, it is unacceptable to subject arguments for safety only to the scrutiny of biased, busy, and scarce company insiders and a handful of external evaluators.\n\nMy pleas for the companies follow from the above:\n1) Actually fucking try to get the world out of this race;\n2) Actually fucking try to alert and inform the public;\n3) Actually fucking try to scrutinize your own arguments for the justifiability of this plan, which includes subjecting them to way more external scrutiny than anyone has currently done.\n\nMy pleas for policymakers: use your legal levers to get much more information about these plans into the public view. Make it the top priority -- not only of the next Congress, but of this Congress and the White House -- to understand the situation in its full strategic complexity, and work with technical and policy experts to advance regulation that gets us out of this bind. Domestic coordination must be the first priority, but we need to then quickly develop an international framework with our adversaries.\n\nMy pleas for the public: do not accept the current plan. Learn about this issue. Call or email your political leaders. Get involved with organizations like @DONOTACCEPTai, @HumansInControl, and @WhoDecidesAI. \n\nAnd finally: believe in ourselves that we can stop this. It is never time to \"panic\" -- to make rash, unproductive decisions or to feel paralyzed by fear. It is time for us to feel the urgency and the stakes, to demand better, and to meet the moment. Let's do this. 🫡 ✊"
+   },
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2119957783571493058": {
+   "id": "2119957783571493058",
+   "url": "https://x.com/DKokotajlo/status/2119957783571493058",
+   "text": "In light of recent work by METR on AI acceleration, it's fascinating that...\n\n- Anthropic's AI R&D evals are saturated, so they jsut stopped running them\n- CoBench has been was pulled for fixes\n- Internal acceleration metrics are \"only partially published.\"\n\nSo Anthropic deciding they have not hit their AI R&D threshold is now a \"holistic judgment.\"\n\nThis threshold is 2x. Anthropic currently estimates 1.88x. 32 of their 100 refits hit 2x or more. \n\nWhen Opus 5.5 was launched, the 'one-time jump' hypothesis explanation won 99/100 refits. This time it now wins in 0/100 refits. So looks like it's not a one-time jump.\n\nAnthropic has much better internal evidence they are not sharing. And they have an internal model that is stronger than Fable 5.2 that they are not sharing.",
+   "created_at": "Tue Nov 10 00:58:17 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "peterwildeford",
+   "rt_author_name": "Peter Wildeford🇺🇸🚀",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2016338985811927041/Vve57ZtV_normal.png",
+   "rt_id": "2119881084817080618",
+   "likes": 370,
+   "retweets": 20,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
   }
  }
 }

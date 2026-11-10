@@ -12048,6 +12048,133 @@
    },
    "fetched_at": "2026-11-09T16:35:46.204056+00:00",
    "enriched": 3
+  },
+  "2120153314876641395": {
+   "id": "2120153314876641395",
+   "url": "https://x.com/s8mb/status/2120153314876641395",
+   "text": "After reading @WorksInProgMag on my v original euro summer, I’m afraid I’ve become quite interested in the municipalities of Greek islands https://t.co/mdLghjupD6",
+   "created_at": "Tue Nov 10 13:55:15 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "annalisac21",
+   "rt_author_name": "Annalisa Cochrane",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2051756817990955011/RypIhSZs_normal.jpg",
+   "rt_id": "2119836776965795877",
+   "likes": 91,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWssG8yaQAIK9Jo.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWssG8yaQAIK9Jo.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/mdLghjupD6": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120103494346846663": {
+   "id": "2120103494346846663",
+   "url": "https://x.com/s8mb/status/2120103494346846663",
+   "text": "The affordable housing tax on new builds in London is larger than the cost of actually building the house.",
+   "created_at": "Tue Nov 10 10:37:17 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 306,
+   "retweets": 38,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2120101939836797033",
+    "author_name": "Ben Hopkinson",
+    "links": {
+     "https://t.co/NWS58oqbTx": "https://cps.org.uk/wp-content/uploads/2026/11/CPS_EASING_THE_BURDENS.pdf",
+     "https://t.co/IVrLBax2pz": "https://easing-the-burdens.cps.org.uk/",
+     "https://t.co/l0FrUnqc4T": ""
+    },
+    "author": "Ben_A_Hopkinson",
+    "text": "Government imposed policy costs make up 57% of the clearing price of a new flat in London and 42% of a new home in the Home Counties.\n\nDespite a big housing shortage and positive planning reforms, new home starts in England are declining from 182,000 in 2022 to under 125,000 last year.\n\nWhile the macroeconomic context has worsened with build cost inflation and high interest rates, the Government is imposing more burdens on new homes, not fewer.\n\nTaxes, levies, planning, and mandates add over £440,000 to the cost of delivering a home in London and nearly £225,000 nearby, with several of these imposed recently like the Second Staircase, Future Homes Standard, Building Safety Levy, Biodiversity Net Gain and Residential Property Developer Tax.\n\nIndividually these may be justified, but together they are making new homes unviable. \n\nAs a result, large developers are buying less land and small builders are going out of business; nearly 4,000 construction firms went bust just last year.\n\nIf we want to build more homes, we should be easing the burdens on them, not adding more. \n\nMaking housebuilding viable again is the most important issue in housing policy and my co-author, Edward Donovan, has completed excellent modelling showing how big the challenge is.\n\nRead the full report: https://t.co/NWS58oqbTx\n\nAnd simulate what changing the policies does with Edward's modelling here: https://t.co/IVrLBax2pz"
+   },
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120062190288048586": {
+   "id": "2120062190288048586",
+   "url": "https://x.com/s8mb/status/2120062190288048586",
+   "text": "Insightful analysis by Kotkin on why Russia collapsed (hint: not \"pope, nationalism, dissidents, economic collapse, Afghanistan, the military-industrial complex, or Reagan) and what China's CCP has done to avoid the fate of the Soviet Union.\n\nWhat a pleasure it is going to be to read him every month at @wip_mag . https://t.co/CI1XMCuwe1",
+   "created_at": "Tue Nov 10 07:53:09 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "lugaricano",
+   "rt_author_name": "Luis Garicano 🇪🇺🇺🇦",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1088718721785434112/TCQN0rTD_normal.jpg",
+   "rt_id": "2119933987363713069",
+   "likes": 249,
+   "retweets": 31,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWuD8RQWIAABkIT.png"
+    }
+   ],
+   "links": {
+    "https://t.co/CI1XMCuwe1": "https://worksinprogress.co/issue/soviet-disunion/",
+    "https://t.co/RpVdX7QFuy": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120056809855566235": {
+   "id": "2120056809855566235",
+   "url": "https://x.com/s8mb/status/2120056809855566235",
+   "text": "Stephen Kotkin is one of the great historians of Eurasia. In a new series for Works in Progress, he tackles the biggest question of them all: what went wrong between America and China? In the first part, he explains why we shouldn’t expect China to go the way of the Soviet Union. Beijing’s leaders have internalized the obvious lesson from Moscow: No Gorbachev. But they have also done something subtler: fix the incentives that made Soviet elites think that they had something to gain from ending communism.\nhttps://t.co/dYAySlxKVy",
+   "created_at": "Tue Nov 10 07:31:46 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "WorksInProgMag",
+   "rt_author_name": "Works in Progress",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1620480120778547200/MkLNSMmo_normal.jpg",
+   "rt_id": "2119760552746508437",
+   "likes": 250,
+   "retweets": 34,
+   "media": [],
+   "links": {
+    "https://t.co/dYAySlxKVy": "https://worksinprogress.co/issue/soviet-disunion/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
   }
  }
 }

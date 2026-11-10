@@ -3683,6 +3683,135 @@
    },
    "fetched_at": "2026-11-09T14:02:18.898653+00:00",
    "enriched": 3
+  },
+  "2119954660627005652": {
+   "id": "2119954660627005652",
+   "url": "https://x.com/DaveRBanerjee/status/2119954660627005652",
+   "text": "@austinc3301 thx this is v helpful 🙏",
+   "created_at": "Tue Nov 10 00:45:52 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "austinc3301",
+   "reply_to_id": "2119914259232776458",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "parent": {
+    "id": "2119914259232776458",
+    "author_handle": "austinc3301",
+    "author_name": "Agus 🔸",
+    "text": "METR’s recent report found that AI progress at Anthropic has sped up ~2x, mostly because AI is now speeding up AI research. Ajeya Cotra and Ryan Greenblatt read this as a major update toward short AI timelines, so I spent the weekend trying to build my own view on this. 🧵",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/austinc3301/status/2119914259232776458",
+    "created_at": "Mon Nov 09 22:05:20 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2119953924962566451": {
+   "id": "2119953924962566451",
+   "url": "https://x.com/DaveRBanerjee/status/2119953924962566451",
+   "text": "Seems plausible that Nvidia would be making more money in the short term selling blackwells to western customers instead of hoppers to chinas\n\nEvery hopper you fab is high opportunity cost since it takes up fab capacity and prevents counterfactual blackwells from being sold\n\nAnd given how much more expensive blackwells are, it seems plausible that jensen would've been making more short-term profits if he focused exclusively on selling blackwells to legal customers\n\nThat said, it's still plausible that selling hoppers to china does actually entrench nvidia's market share in china, so maybe in the long-term, it is best for nvidia to sell to china\n\nthough it's rly not clear to me. I could see it going either way",
+   "created_at": "Tue Nov 10 00:42:57 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2119849693526344115",
+    "author_name": "Joe Weisenthal",
+    "links": {},
+    "author": "TheStalwart",
+    "text": "One question is. Whether in business or politics, has Jensen done anything different than just a pure revenue-maxing CEO would?"
+   },
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2119949987102724323": {
+   "id": "2119949987102724323",
+   "url": "https://x.com/DaveRBanerjee/status/2119949987102724323",
+   "text": "The internet is undefeated  https://t.co/5mdtfQL2M5",
+   "created_at": "Tue Nov 10 00:27:18 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "msipes",
+   "rt_author_name": "Matt",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1394737720795279363/jrHq5seP_normal.jpg",
+   "rt_id": "2119811192164122922",
+   "likes": 13405,
+   "retweets": 1295,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2119710756069392384/img/ClOQII5Hpho6IxpH.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2119710756069392384/img/ClOQII5Hpho6IxpH.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/5mdtfQL2M5": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2119949389372272767": {
+   "id": "2119949389372272767",
+   "url": "https://x.com/DaveRBanerjee/status/2119949389372272767",
+   "text": "The jaggedness of models is still pretty crazy. It’s hard to imagine spending as much compute on wages at an org like IAPS (i.e. think tank not focused on data analysis). \n\nBut it seems plausible that within 1 year, IAPS may be in a similar situation",
+   "created_at": "Tue Nov 10 00:24:55 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 8,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2119880698878411048",
+    "author_name": "Jaime Sevilla",
+    "links": {},
+    "author": "Jsevillamol",
+    "text": "We are expected to spend more on compute than wages this year at Epoch. \n\nI am speechless. This is happening far faster than I thought it would."
+   },
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
   }
  }
 }

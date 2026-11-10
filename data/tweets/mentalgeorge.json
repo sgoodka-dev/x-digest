@@ -3200,6 +3200,76 @@
    },
    "fetched_at": "2026-11-09T21:26:38.996181+00:00",
    "enriched": 3
+  },
+  "2120166257593131224": {
+   "id": "2120166257593131224",
+   "url": "https://x.com/mentalgeorge/status/2120166257593131224",
+   "text": "@theobearman @GoodFaithOnly But: it's unclear whether they're limiting the AI research capabilities *only* of deployed models, or whether this is also happening to models they're using internally. \n\nI don't think i understand this yet",
+   "created_at": "Tue Nov 10 14:46:41 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "mentalgeorge",
+   "reply_to_id": "2120165935021457480",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "parent": {
+    "id": "2120165935021457480",
+    "author_handle": "mentalgeorge",
+    "author_name": "Tom Reed",
+    "text": "@theobearman @GoodFaithOnly wait so what's the final take-away here? \n\n- Anthropic is considering Autonomy 2 threshold crossed\n- they can do this based on what they expect from near-term models\n- In this case, they have done it because of expectations, not because of current models\n- Separately, Anthropic have also taken steps to limit the AI research capabilities of their models",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/mentalgeorge/status/2120165935021457480",
+    "created_at": "Tue Nov 10 14:45:24 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120165935021457480": {
+   "id": "2120165935021457480",
+   "url": "https://x.com/mentalgeorge/status/2120165935021457480",
+   "text": "@theobearman @GoodFaithOnly wait so what's the final take-away here? \n\n- Anthropic is considering Autonomy 2 threshold crossed\n- they can do this based on what they expect from near-term models\n- In this case, they have done it because of expectations, not because of current models\n- Separately, Anthropic have also taken steps to limit the AI research capabilities of their models",
+   "created_at": "Tue Nov 10 14:45:24 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "theobearman",
+   "reply_to_id": "2120133945144815960",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "parent": {
+    "id": "2120133945144815960",
+    "author_handle": "theobearman",
+    "author_name": "Theo Bearman",
+    "text": "Looks like I was wrong. Anthropic is reiterating today that the Autonomy 2 threshold (though now met) was not met based on current models. Keeping this tweet live in the spirit of truth-seeking/transparency. @GoodFaithOnly \n\nhttps://t.co/06bivzH3oA",
+    "links": {
+     "https://t.co/06bivzH3oA": "https://x.com/theobearman/status/2120124069806756238?a=ElCvZOYuRkAQxQ_yAhs&s=20"
+    },
+    "media": [],
+    "url": "https://x.com/theobearman/status/2120133945144815960",
+    "created_at": "Tue Nov 10 12:38:17 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

@@ -3285,6 +3285,154 @@
     "https://t.co/sniwno7PaR": ""
    },
    "enriched": 3
+  },
+  "2120082148661326077": {
+   "id": "2120082148661326077",
+   "url": "https://x.com/dwarkesh_sp/status/2120082148661326077",
+   "text": "In 2014, @svlevine worked with a $400,000 research robot. Later, his lab used $30,000 robot arms. Today, it uses arms that cost just $3,000.\n\nSurprisingly, it’s mostly not hardware driving down the costs, but AI. \n\nhttps://t.co/hrdhUV27y8 https://t.co/41zNO4mXkW",
+   "created_at": "Tue Nov 10 09:12:28 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1915048486505971712/H2jFRoW6_normal.jpg",
+   "rt_id": "2118840861513728105",
+   "likes": 54,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HWeJJJRWAAArRaL.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HWeJJJRWAAArRaL.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/hrdhUV27y8": "https://youtu.be/48pxVdmkMIE?t=4357",
+    "https://t.co/41zNO4mXkW": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120082134052585957": {
+   "id": "2120082134052585957",
+   "url": "https://x.com/dwarkesh_sp/status/2120082134052585957",
+   "text": ".@svlevine says that we’ll have household robots very soon. But we’ve been hearing that about self-driving cars for 15 years, and we’ve only just started using Waymos.\n\nSergey explains much of the tech progression difference comes down to the costs of errors. It’s not too costly if my robotic dishwasher breaks a few plates, but it is costly if my self-driving Tesla smashes into a wall.\n\nhttps://t.co/boThTFWTHG",
+   "created_at": "Tue Nov 10 09:12:24 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1915048486505971712/H2jFRoW6_normal.jpg",
+   "rt_id": "2119837427628204410",
+   "likes": 90,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2119802498152112128/img/xcw1UXyuTejeHHD4.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/boThTFWTHG": "https://youtu.be/48pxVdmkMIE?t=1046",
+    "https://t.co/xrAIAyM6Ir": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120082119020138970": {
+   "id": "2120082119020138970",
+   "url": "https://x.com/dwarkesh_sp/status/2120082119020138970",
+   "text": "Stephen Kotkin models the fall of the tsarist regime as a “political bank run” on legitimacy.\n\nhttps://t.co/FIPaDaPBco https://t.co/YGV5vcfeh0",
+   "created_at": "Tue Nov 10 09:12:21 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1915048486505971712/H2jFRoW6_normal.jpg",
+   "rt_id": "2119928020119220248",
+   "likes": 13,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2119885562790154240/img/tJF3f7-LazUpAmh3.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2119885562790154240/img/tJF3f7-LazUpAmh3.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/FIPaDaPBco": "https://youtu.be/YMfd3EoHfPI",
+    "https://t.co/YGV5vcfeh0": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2119942657812451482": {
+   "id": "2119942657812451482",
+   "url": "https://x.com/dwarkesh_sp/status/2119942657812451482",
+   "text": "At Blood on the Clocktower, Fable 5.2 is still worse than GPT-6 Astra.\n\nThough much better than Opus 5.5 or Fable 5.1 https://t.co/6zkA5ZeC0O",
+   "created_at": "Mon Nov 09 23:58:10 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 812,
+   "retweets": 19,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWuL_NjbAAAt9Hg.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWuL_NjbAAAt9Hg.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/6zkA5ZeC0O": ""
+   },
+   "quoted": {
+    "id": "2118449808402681911",
+    "author_name": "Dwarkesh Patel",
+    "links": {
+     "https://t.co/IF4d0EMSD8": "http://clocktowerbench.com",
+     "https://t.co/35ym1NcVDL": ""
+    },
+    "author": "dwarkesh_sp",
+    "text": "I spent 20,000 dollars in API credits having different AI models play each other at Blood on the Clocktower (a Mafia or Werewolf type social deception game).\n\nThe results were fascinating. Models have gotten much better over the course of this year at creative on-the-spot scheming and bluffing, and also at reasoning as a team to break apart these underground conspiracies.\n\nI go through some of the most standout games these AIs played in this video. The new models are getting pretty good.  If my friends pulled off some of these moves while we were playing, I’d give them a fist bump.\n\nFwiw, OpenAI’s newer models are much better than Anthropic’s at this game.\n\nYou can see the full benchmark at the website, and I’ve also made it so that you and your friends can play again the AIs: https://t.co/IF4d0EMSD8"
+   },
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
   }
  }
 }

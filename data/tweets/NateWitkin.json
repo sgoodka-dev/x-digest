@@ -3267,6 +3267,42 @@
    "quoted": null,
    "fetched_at": "2026-11-09T21:26:38.996181+00:00",
    "enriched": 3
+  },
+  "2119946187029557354": {
+   "id": "2119946187029557354",
+   "url": "https://x.com/NateWitkin/status/2119946187029557354",
+   "text": "To determine AI trajectories, we need a good y-axis where +1 unit always represents the same degree of improvement; we don't have this, as all our measures are imperfect proxies. Researchers know this but the implications are often lost in the discourse. https://t.co/fcZL3lD2eu https://t.co/HWQrIeEDem",
+   "created_at": "Tue Nov 10 00:12:12 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "sebkrier",
+   "rt_author_name": "Séb Krier",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1992052427743272961/WJQ8uqql_normal.jpg",
+   "rt_id": "2119939517121548289",
+   "likes": 78,
+   "retweets": 9,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWuHglOW4AAXuEv.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWuHglOW4AAXuEv.png"
+    }
+   ],
+   "links": {
+    "https://t.co/fcZL3lD2eu": "https://forum.effectivealtruism.org/posts/CQvdadxjCpd7i7kjA/general-capability-and-capabilities-generally-have-no-good-y",
+    "https://t.co/HWQrIeEDem": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
   }
  }
 }

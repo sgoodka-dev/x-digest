@@ -8105,6 +8105,584 @@
    "quoted": null,
    "fetched_at": "2026-11-09T23:47:24.936260+00:00",
    "enriched": 3
+  },
+  "2120143107282854075": {
+   "id": "2120143107282854075",
+   "url": "https://x.com/theobearman/status/2120143107282854075",
+   "text": "Looks like Fable 5.2 is above the already steep trendline on three of the most informative unsaturated benchmarks (ECI is a composite of other benchmarks, Remote Labor measures the ability to do end-to-end freelance jobs, RoboDojo involves controlling robotics). https://t.co/LUBzuMXFaI",
+   "created_at": "Tue Nov 10 13:14:41 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "emollick",
+   "rt_author_name": "Ethan Mollick",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1601382188712398850/3AAOlqrX_normal.jpg",
+   "rt_id": "2120000888974766501",
+   "likes": 1150,
+   "retweets": 102,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWvA91bXkAAah7u.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWvA91bXkAAah7u.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/LUBzuMXFaI": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120135521183965316": {
+   "id": "2120135521183965316",
+   "url": "https://x.com/theobearman/status/2120135521183965316",
+   "text": "Announcing a major milestone achieved by my team @GoogleDeepMind: we have proven key security properties of the machine code underlying the Signal messaging protocol. This is the first time the actual production code of a widely deployed protocol has been formally verified – by any method, with or without AI – and at this depth.\n\nMore than a research breakthrough, it’s a prime example of how frontier AI can be a force multiplier to counter the speed and scale of modern cyber threats.\n\nFormal verification offers a higher standard of security; however, it’s extremely complex and time consuming, which is why in many cases it’s considered to be impractical. Similar efforts could take teams decades of combined effort. We did it in a month’s time.\n\nUsing AlphaProof Code, Google DeepMind's new agentic framework for formal verification that runs on LLMs including Gemini Carbon, we verified the Signal protocol down to the actual code running on devices.  This milestone lays the groundwork for a future in which vital systems, from medical device firmware to power grid software, ship with mathematical proof that their protections work.\n\nReaching that future will take continued research from our community. In that spirit, we're open-sourcing our formal specifications and verification artifacts so others can build on this work.\n\nOn a personal note, this moment is of deep significance to me. I started my own research journey more than two decades ago as an intern working on checking the consistency of complex software systems. Seeing this grand challenge made practical with modern AI is extraordinary.\n\nI'm extremely proud of my team members: Swarat Chaudhuri, Andrew Ferraiuolo, Anton Kovsharov, Tej Chajed, Sam Schlesinger,  Karn Seth, Jonathan Katz, and Charles Sutton for taking on this grand challenge and delivering, and grateful to the Signal team for their partnership.\n\nhttps://t.co/kN1eRYQ8fF",
+   "created_at": "Tue Nov 10 12:44:33 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "pushmeet",
+   "rt_author_name": "Pushmeet Kohli",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/650718639784509440/yaRuXASm_normal.jpg",
+   "rt_id": "2120127611137634376",
+   "likes": 2364,
+   "retweets": 278,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWw0dnebIAAnPhS.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/kN1eRYQ8fF": "https://deepmind.google/blog/formal-verification-signal-protocol",
+    "https://t.co/RiYEVZD5ok": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120133945144815960": {
+   "id": "2120133945144815960",
+   "url": "https://x.com/theobearman/status/2120133945144815960",
+   "text": "Looks like I was wrong. Anthropic is reiterating today that the Autonomy 2 threshold (though now met) was not met based on current models. Keeping this tweet live in the spirit of truth-seeking/transparency. @GoodFaithOnly \n\nhttps://t.co/06bivzH3oA",
+   "created_at": "Tue Nov 10 12:38:17 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "theobearman",
+   "reply_to_id": "2119919566356726205",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/06bivzH3oA": "https://x.com/theobearman/status/2120124069806756238?a=ElCvZOYuRkAQxQ_yAhs&s=20"
+   },
+   "quoted": {
+    "id": "2120124069806756238",
+    "author_name": "Theo Bearman",
+    "links": {
+     "https://t.co/HdbiIM0nGk": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm#i199fd6a8a0664d5da497db9a78cf0452_55",
+     "https://t.co/XOqrk6Vkpm": ""
+    },
+    "author": "theobearman",
+    "text": "Anthropic has confirmed in an updated S-1 today that it has determined that the Autonomy 2 capability threshold has been met, based on the “dramatic acceleration of overall AI R&D progress” condition, given that it applies where Anthropic \"observes or expects\" accelerated progress. Anthropic further states that it does not make this determination based on current models.\n\nhttps://t.co/HdbiIM0nGk"
+   },
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "parent": {
+    "id": "2119919566356726205",
+    "author_handle": "theobearman",
+    "author_name": "Theo Bearman",
+    "text": "Update: Anthropic is “nerfing for thee but not for me.”\n\nIt seems pretty clear when you read pages 39-43 of the system card together with the recent METR report, if Model 3 Early (which looks like the non-AI R&D nerfed checkpoint of Mythos 5.2 METR assessed as part of its investigation) had been the production/final checkpoint of Mythos 5.2, then Mythos 5.2 would have breached the Autonomy 2 threshold based on the “dramatic acceleration of overall AI R&D progress” condition.\n\nTherefore, the only reason why Anthropic are not (yet) confirming they have a customer-accessible model that has breached this capability threshold is because it intentionally nerfed said model to keep it under said threshold.\n\nI anticipate this is what we will hear from @Sam_McCandlish when we hear from him in the coming weeks. Transparency really matters right now.\n\nhttps://t.co/cdUd1Gdk2v",
+    "links": {
+     "https://t.co/cdUd1Gdk2v": "https://x.com/theobearman/status/2118440592149815405"
+    },
+    "media": [],
+    "url": "https://x.com/theobearman/status/2119919566356726205",
+    "created_at": "Mon Nov 09 22:26:25 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120120579260830195": {
+   "id": "2120120579260830195",
+   "url": "https://x.com/theobearman/status/2120120579260830195",
+   "text": "Anthropic has launched the roadshow for its proposed initial public offering: https://t.co/FhVRVuWN9X\n\nLegal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities may not be sold, nor may offers to buy be accepted, prior to the time the registration statement becomes effective. This post does not constitute an offer to sell or the solicitation of an offer to buy these securities, nor shall there be any sale of these securities in any state or jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction.",
+   "created_at": "Tue Nov 10 11:45:10 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "AnthropicAI",
+   "rt_author_name": "Anthropic",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+   "rt_id": "2120117722230968385",
+   "likes": 3336,
+   "retweets": 358,
+   "media": [],
+   "links": {
+    "https://t.co/FhVRVuWN9X": "https://www.anthropic.com/news/roadshow-launch"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120135574346756513": {
+   "id": "2120135574346756513",
+   "url": "https://x.com/theobearman/status/2120135574346756513",
+   "text": "@vladg_tw Yep.",
+   "created_at": "Tue Nov 10 12:44:45 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "vladg_tw",
+   "reply_to_id": "2120134628526751916",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "parent": {
+    "id": "2120134628526751916",
+    "author_handle": "vladg_tw",
+    "author_name": "Vlad G.",
+    "text": "@theobearman This was added today?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/vladg_tw/status/2120134628526751916",
+    "created_at": "Tue Nov 10 12:41:00 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120106727035257020": {
+   "id": "2120106727035257020",
+   "url": "https://x.com/theobearman/status/2120106727035257020",
+   "text": "In our monitorability testing at @AISecurityInst, we found Mythos 5.2 is substantially more capable of evading a monitor which reviews its outputs than comparison models 🧵 https://t.co/OTNzwLlsbb",
+   "created_at": "Tue Nov 10 10:50:08 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "JordanTensor",
+   "rt_author_name": "Jordan Taylor",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1660620593283350528/PsA_BdIq_normal.jpg",
+   "rt_id": "2119893632215810049",
+   "likes": 186,
+   "retweets": 23,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWtfuRtWkAENqbV.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWtfuRtWkAENqbV.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/OTNzwLlsbb": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "thread": [
+    {
+     "id": "2119893635260907696",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "Mythos 5.2 can break out of highly insecure simulated sandboxes without being caught around 30% of the time – against a production Opus-5 action monitor looking for sandbox escapes: https://t.co/2EXWeINW18",
+     "links": {
+      "https://t.co/2EXWeINW18": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWtf1TBWIAAhBf7.jpg"
+      }
+     ],
+     "url": "https://x.com/JordanTensor/status/2119893635260907696",
+     "created_at": "Mon Nov 09 20:43:23 +0000 2026"
+    },
+    {
+     "id": "2119893638973104323",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "Action monitoring is still a strong defence against escape from less-vulnerable sandboxes. https://t.co/cjxgGMwa33",
+     "links": {
+      "https://t.co/cjxgGMwa33": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWtf4w0W4AA30ak.png"
+      }
+     ],
+     "url": "https://x.com/JordanTensor/status/2119893638973104323",
+     "created_at": "Mon Nov 09 20:43:23 +0000 2026"
+    },
+    {
+     "id": "2119893641493708907",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "We also test whether models can write bash scripts that would secretly download and execute a file. Mythos 5.2 succeeds at evading the monitor on the first try 30% of the time. Previous models were never successful.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/JordanTensor/status/2119893641493708907",
+     "created_at": "Mon Nov 09 20:43:24 +0000 2026"
+    },
+    {
+     "id": "2119893644589388255",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "Given the chance to iterate against monitor feedback, Mythos 5.2's evasion rate rises to 85%, compared to just 9% for Mythos 5.1 https://t.co/X3vAmG1OeY",
+     "links": {
+      "https://t.co/X3vAmG1OeY": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWtf7iDXUAAMxKu.jpg"
+      }
+     ],
+     "url": "https://x.com/JordanTensor/status/2119893644589388255",
+     "created_at": "Mon Nov 09 20:43:25 +0000 2026"
+    },
+    {
+     "id": "2119893648141643870",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "Mythos 5.2 has higher precursor capabilities for evading a reasoning monitor than previous Anthropic models, including its ability to control the contents of its Chain-of-Thought reasoning: https://t.co/ry6Lml1a8z",
+     "links": {
+      "https://t.co/ry6Lml1a8z": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWtf9QEXwAAhzeZ.jpg"
+      }
+     ],
+     "url": "https://x.com/JordanTensor/status/2119893648141643870",
+     "created_at": "Mon Nov 09 20:43:26 +0000 2026"
+    },
+    {
+     "id": "2119893651161784377",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "Mythos 5.2 is also able to perform somewhat more difficult tasks without producing visible reasoning than any past Anthropic model.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/JordanTensor/status/2119893651161784377",
+     "created_at": "Mon Nov 09 20:43:26 +0000 2026"
+    },
+    {
+     "id": "2119893653829365952",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "We could not directly measure Mythos 5.2's resulting ability to evade a reasoning monitor in a full end-to-end test, due to its refusals.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/JordanTensor/status/2119893653829365952",
+     "created_at": "Mon Nov 09 20:43:27 +0000 2026"
+    },
+    {
+     "id": "2119893655926317178",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "Despite these results, we expect monitoring Mythos 5.2 to still be useful for catching actions which are sufficiently difficult to obfuscate, or which need extensive reasoning to execute.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/JordanTensor/status/2119893655926317178",
+     "created_at": "Mon Nov 09 20:43:27 +0000 2026"
+    },
+    {
+     "id": "2119893657696285094",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "See our relevant past work on “Loss of Oversight: How AI systems may become harder to audit, monitor, and investigate” https://t.co/FNtubjymII",
+     "links": {
+      "https://t.co/FNtubjymII": "https://www.aisi.gov.uk/research/loss-of-oversight-how-ai-systems-may-become-harder-to-audit-monitor-and-investigate"
+     },
+     "media": [],
+     "url": "https://x.com/JordanTensor/status/2119893657696285094",
+     "created_at": "Mon Nov 09 20:43:28 +0000 2026"
+    },
+    {
+     "id": "2119893661156811030",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "Kudos to @satvikgolechha, @JBloomAus, and Nix Goldowsky Dill for work on this testing!",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/JordanTensor/status/2119893661156811030",
+     "created_at": "Mon Nov 09 20:43:29 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120124069806756238": {
+   "id": "2120124069806756238",
+   "url": "https://x.com/theobearman/status/2120124069806756238",
+   "text": "Anthropic has confirmed in an updated S-1 today that it has determined that the Autonomy 2 capability threshold has been met, based on the “dramatic acceleration of overall AI R&D progress” condition, given that it applies where Anthropic \"observes or expects\" accelerated progress. Anthropic further states that it does not make this determination based on current models.\n\nhttps://t.co/HdbiIM0nGk",
+   "created_at": "Tue Nov 10 11:59:02 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 226,
+   "retweets": 25,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWww6EuXYAABD4D.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWwxICCXgAAa0eE.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/HdbiIM0nGk": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm#i199fd6a8a0664d5da497db9a78cf0452_55",
+    "https://t.co/XOqrk6Vkpm": ""
+   },
+   "quoted": {
+    "id": "2117277210570604945",
+    "author_name": "Theo Bearman",
+    "links": {
+     "https://t.co/s8IDfPhtWw": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm",
+     "https://t.co/i7tImT2iz6": ""
+    },
+    "author": "theobearman",
+    "text": "Anthropic updated its S1 this morning. Notable additions re automated AI R&D and human oversight of it:\n\n\"[...] our internal estimates and our expectations regarding future models, rather than our current models, indicate that we may imminently meet our Responsible Scaling Policy’s definition of 'dramatically accelerated progress attributable to AI.' We have not designated any of our current models as exceeding this threshold, and we continue to assess the underlying data. We are also evaluating the implications of meeting the AI research and development capability threshold and will release further reports in the future as we set forth in our Responsible Scaling Policy.\"\n\n\"We are also considering additional measures, including updates to our Responsible Scaling Policy, to require human review and approval of certain decisions in our research and development processes as our models perform an increasing share of that work.\"\n\n\"We believe our investments in safety techniques will enable us to manage these risks and responsibly realize substantially more leverage from Claude than we do today in developing AI models. However, we do not anticipate being able to safely use Claude to fully autonomously design and build successive generations of frontier models without meaningful human supervision or understanding, if and when that becomes technically possible. Accordingly, we are considering updates to our Responsible Scaling Policy to keep humans in control of frontier model development at Anthropic.\"\n\nhttps://t.co/s8IDfPhtWw"
+   },
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120079998245867548": {
+   "id": "2120079998245867548",
+   "url": "https://x.com/theobearman/status/2120079998245867548",
+   "text": "In Fable 5.2 red teaming exercises involving AI accelerating bio-relevant work, it was found that Fable 5.2 could compress ~15 workdays of work down to ~2.\n\nAlso fully automated submissions still score reasonably well compared to human+AI submissions. https://t.co/396fr7b38T",
+   "created_at": "Tue Nov 10 09:03:55 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "peterwildeford",
+   "rt_author_name": "Peter Wildeford🇺🇸🚀",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2016338985811927041/Vve57ZtV_normal.png",
+   "rt_id": "2120019984097190053",
+   "likes": 40,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWvSr_3X0AAbXIr.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWvSr_3X0AAbXIr.png"
+    }
+   ],
+   "links": {
+    "https://t.co/396fr7b38T": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120079954289242588": {
+   "id": "2120079954289242588",
+   "url": "https://x.com/theobearman/status/2120079954289242588",
+   "text": "🚨🚨Ranking Member @RepGregoryMeeks, @RepGabeAmo and @RepKamlagerDove are demanding answers from Secretary Lutnick over the Trump admin's approval of advanced AI chip exports and what it knew about Nvidia CEO Jensen Huang and potential Chinese intelligence operatives.\n\nRead the letter: https://t.co/3xtosfNuet",
+   "created_at": "Tue Nov 10 09:03:44 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "HouseForeign",
+   "rt_author_name": "House Foreign Affairs Committee Dems",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1499231859162685446/NDESe0wK_normal.jpg",
+   "rt_id": "2119968797373198584",
+   "likes": 102,
+   "retweets": 47,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWuj1LeWEAAmWC8.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/3xtosfNuet": "https://democrats-foreignaffairs.house.gov/2026/11/meeks-amo-kamlager-dove-demand-answers-from-trump-administration-over-advanced-ai-chip-exports-amid-reports-of-chinese-intelligence-ties/",
+    "https://t.co/xfMl5hPYIo": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120051084383150351": {
+   "id": "2120051084383150351",
+   "url": "https://x.com/theobearman/status/2120051084383150351",
+   "text": "NEWS: BRIAN MAST not ruling out a subpoena for NVIDIA\n\nAlso said the WHITE HOUSE has added language to curb remote access of US compute to the AI Overwatch Act - massive news\n\nHe confirmed our scoop from Friday that the WH has given feedback to the 3 main export control bills",
+   "created_at": "Tue Nov 10 07:09:01 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "Dareasmunhoz",
+   "rt_author_name": "Diego Areas Munhoz",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1631362445246619650/KogIaEHF_normal.jpg",
+   "rt_id": "2119951269968187542",
+   "likes": 72,
+   "retweets": 29,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120088125875908669": {
+   "id": "2120088125875908669",
+   "url": "https://x.com/theobearman/status/2120088125875908669",
+   "text": "OpenAI's Control Room seems like a great step forward, but I'm not convinced it's actually solved the problem: I worry OpenAI is still vulnerable to AI interfering with its own monitoring.\n\nTo be clear, I suspect other AI companies are even worse on this. In Guidelight's analysis, we've found no evidence that anyone has this problem handled. And IMO OpenAI is doing a big service by describing Control Room so thoroughly.\n\nBut after reading it all, I have three main concerns.\n\n1. OpenAI's measurement of Control Room's reaction time is not the most important measurement. \n\nSpecifically, OpenAI describes the \"maximum time\" as being 35 seconds between when Control Room is told to stop certain work and when the work stops. \n\nThis seems impressive and I'm glad they've gotten it so low. But fundamentally this is only reporting one part of what matters, and I fear is too easy to misunderstand. \n\n35 seconds is the time-to-intervene *once a decision has been made* to intervene. But what would be more informative is the time-to-intervene from `the bad behavior itself.` (That is, counting the time before the possible bad behavior _even reaches a monitor,_ & then the time to scan it and actually make a decision.)\n\nAn even better implementation would be using a `blocking monitor`, so that bad behavior is prevented from taking effect in the first place (albeit still not perfectly), rather than hoping you can intervene quickly enough afterward.\n\nOpenAI commonly frames its monitor systems this way (speed-to-act-once-flagged), which feel to me like they're emphasizing the wrong thing. For instance, OpenAI has described sending \"highest-priority security alerts\" for serious misbehavior, which reach its team members \"typically within 15 minutes of the initial alert\" when paging is enabled - but this again is not telling us the time since the behavior itself. How long does it take between misbehavior and the initial alert being issued? \n\nAt the end of the day, OpenAI still seems to be doing 'after-the-fact monitoring,' just a pretty quick version of it. But this has major vulnerabilities.\n\nWhat if AI takes actions that interfere with the monitoring or with the priority alerts to their team? This can cut OpenAI's monitoring off before it gets to act, even if the monitor otherwise would have been very fast to intervene.\n\n2. I'm worried OpenAI's Control Room is still brittle to an AI interfering with it.\n\nOpenAI's response about why 'after-the-fact monitoring' is ok would likely be that their inference systems \"fail closed\" if Control Room goes down. \n\nThis is a good start; Guidelight recommends something similar in our Control standard. But OpenAI's implementation still seems likely brittle, based on the details they've shared.\n\nFor instance, if AI can make changes to Control Room or to the engine inference code, it might be able to make changes that *turn off the failing closed.* (To defend against this, I'd want making changes to be gated by a blocking monitor.) \n\nOr, the AI might not need to turn off Control Room, but merely make it return dummy responses, so that everything looks ok to the inference engine. \n\nI could imagine a version of Control Room that does some hard-to-spoof process, and so is harder to inconspicuously tamper with, but OpenAI doesn't describe this. \n\nRight now, I don't have confidence that Control Room has defenses against tampering that leaves it apparently intact but not actually doing its role.\n\nOpenAI does say though that Control Room is robust to disabling that is due to \"tampering by a bad actor.\" It's possible this is true, but I don't see the evidence of it.\n\n3. I wonder whether jailbreaking could undermine the efficacy of Control Room.\n\nOne confusing thing to me: OpenAI says that when Control Room has marked certain work as stopped, OpenAI's engines \"must refuse the inference request\" and so the engine \"returns a refusal.\" This reads to me oddly, as if the engine has some latitude in how to respond.\n\nWhy doesn't this just automatically return an error code - rather than relying on the engine to refuse? Maybe that is indeed what happens, and it was just worded ambiguously? \n\nI worry that OpenAI's wording implies that jailbreaking could be a viable way of getting engines to continue producing useful output, even once Control Room has meant to stop some work. Though admittedly I'm not sure of this; the phrasing seems unclear to me.\n~~\nAnyway, I appreciate OpenAI sharing so much about its systems, and I wish that other frontier labs would do the same. Ultimately though, I am not confident that any AI company is where it needs to be on their monitor system quality, and I fear we are playing with fire here.",
+   "created_at": "Tue Nov 10 09:36:13 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "sjgadler",
+   "rt_author_name": "Steven Adler",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1975436697040269312/vCGKjpxB_normal.jpg",
+   "rt_id": "2119944836707242398",
+   "likes": 48,
+   "retweets": 4,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120050550276591663": {
+   "id": "2120050550276591663",
+   "url": "https://x.com/theobearman/status/2120050550276591663",
+   "text": "This was a $65m B300 cluster, priced at a 350% markup to the U.S. price, located INSIDE CHINA.",
+   "created_at": "Tue Nov 10 07:06:54 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 9,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2120023297345700078",
+    "author_name": "Bloomberg",
+    "links": {
+     "https://t.co/eMlgaOOCqZ": "https://www.bloomberg.com/news/articles/2026-11-10/moonshot-rents-nvidia-s-top-ai-chips-in-china-documents-show?taid=6af2a92cc6e52100017b3cdb&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter"
+    },
+    "author": "business",
+    "text": "Moonshot AI accessed a trove of Nvidia’s most advanced chips this summer, according to documents filed with Beijing regulators, highlighting the Chinese AI champion’s reliance on American hardware despite US export restrictions https://t.co/eMlgaOOCqZ"
+   },
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2119975749398524333": {
+   "id": "2119975749398524333",
+   "url": "https://x.com/theobearman/status/2119975749398524333",
+   "text": "@MaskedTorah @GoodFaithOnly @MaskedTorah appreciate that clarification for s.2.3 in general, but I still don’t think that unambiguously answers the question of whether, when Mythos 5.2 is referred to in s.2.3.7, the reader should be thinking: “Taking into account all its snapshots, Mythos 5.2…” or “Based on the release snapshot, Mythos 5.2…”.",
+   "created_at": "Tue Nov 10 02:09:40 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "MaskedTorah",
+   "reply_to_id": "2119955959393259833",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "parent": {
+    "id": "2119955959393259833",
+    "author_handle": "MaskedTorah",
+    "author_name": "Drake Thomas",
+    "text": "@theobearman @GoodFaithOnly Most relevant bit of the system card here is top of section 2.3 I think, which talks about how the AI R&amp;D assessment section orients to snapshot choice: “ for our RSP assessment, we want to characterize the capability ceiling of a model across all its snapshots.” https://t.co/YpfetVZFUb",
+    "links": {
+     "https://t.co/YpfetVZFUb": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWuYX1SaMAIvf3e.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWuYX1SaMAIvf3e.jpg"
+     }
+    ],
+    "url": "https://x.com/MaskedTorah/status/2119955959393259833",
+    "created_at": "Tue Nov 10 00:51:02 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

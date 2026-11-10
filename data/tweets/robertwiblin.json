@@ -7452,6 +7452,515 @@
    "quoted": null,
    "fetched_at": "2026-11-09T14:02:18.898653+00:00",
    "enriched": 3
+  },
+  "2120162578769068078": {
+   "id": "2120162578769068078",
+   "url": "https://x.com/robertwiblin/status/2120162578769068078",
+   "text": "It's funny to see posts like this doing so well.\n\nThe need for exponentially rising inputs to sustain AI progress has been known for years. It's baked into all the scaling laws.\n\nAnd all models of the intelligence explosion bake this in too. \n\nThere's no update here!",
+   "created_at": "Tue Nov 10 14:32:04 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "TomDavidsonX",
+   "rt_author_name": "Tom Davidson",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1902304373084188674/2ET1vJg3_normal.jpg",
+   "rt_id": "2119778310607577120",
+   "likes": 352,
+   "retweets": 24,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120161081629020453": {
+   "id": "2120161081629020453",
+   "url": "https://x.com/robertwiblin/status/2120161081629020453",
+   "text": "Several have sent me to this as evidence against explosive AI progress, but it's very misleading.\n\nClaude with AECI of 130 could earn ~$300m revenue\nWith AECI of 150 could earn ~$10bn.\nAnd 170 could earn ~$60bn.\n\nSo the most recent 20 points were worth $2.5bn ARR per point, while the 20 before were worth only $0.5bn.\n\nThis is why Anthropic's revenue has grown so much faster than costs.\n\nWhat matters for whether the AI machine continues is dollars in vs. dollars out (not dollars in vs. ECI out).",
+   "created_at": "Tue Nov 10 14:26:07 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ben_j_todd",
+   "rt_author_name": "Benjamin Todd",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2040061061106212864/pVZPxNCv_normal.jpg",
+   "rt_id": "2119784430348738647",
+   "likes": 409,
+   "retweets": 46,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120124974300324176": {
+   "id": "2120124974300324176",
+   "url": "https://x.com/robertwiblin/status/2120124974300324176",
+   "text": "Fable 5.2 scored 41.3% on the Remote Labor Index, more than three times Ryan's forecast for 2026",
+   "created_at": "Tue Nov 10 12:02:38 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "matt_beard_",
+   "rt_author_name": "Matt Beard",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2028234092110565376/ovLsT5DB_normal.jpg",
+   "rt_id": "2119910935318184428",
+   "likes": 236,
+   "retweets": 20,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120124107413221514": {
+   "id": "2120124107413221514",
+   "url": "https://x.com/robertwiblin/status/2120124107413221514",
+   "text": "Update on the 2026 AI forecasting survey: https://t.co/YV6QoALzkl",
+   "created_at": "Tue Nov 10 11:59:11 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "romeovdean",
+   "rt_author_name": "Romeo Dean",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2057987920053833728/55MnVOKE_normal.jpg",
+   "rt_id": "2119975789085237478",
+   "likes": 114,
+   "retweets": 13,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWuqvIPaYAA_DKe.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWuqvIPaYAA_DKe.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/YV6QoALzkl": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120122180650577951": {
+   "id": "2120122180650577951",
+   "url": "https://x.com/robertwiblin/status/2120122180650577951",
+   "text": "Ban RSI.",
+   "created_at": "Tue Nov 10 11:51:32 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "RepCasar",
+   "rt_author_name": "Congressman Greg Casar",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1610027549748301824/xIoU4Dov_normal.jpg",
+   "rt_id": "2118862451555147777",
+   "likes": 2027,
+   "retweets": 195,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120121955571384499": {
+   "id": "2120121955571384499",
+   "url": "https://x.com/robertwiblin/status/2120121955571384499",
+   "text": "AI 2027 has been updated. With Astra we were five weeks behind the curve, with the mysterious model 4 we are now six weeks ahead. https://t.co/HNPZpgBZM1",
+   "created_at": "Tue Nov 10 11:50:38 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "AndrewCurran_",
+   "rt_author_name": "Andrew Curran",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1596945208058744833/_X3LT7fb_normal.jpg",
+   "rt_id": "2119084460344053998",
+   "likes": 1932,
+   "retweets": 140,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWiAFiObQAAfyLF.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWiAFiObQAAfyLF.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/HNPZpgBZM1": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120121215620694101": {
+   "id": "2120121215620694101",
+   "url": "https://x.com/robertwiblin/status/2120121215620694101",
+   "text": "As I predicted, Claude is off the leash. Fable 5.2 has solved two open problems in theoretical physics, one of them completely autonomously. https://t.co/v26M3uFVv4",
+   "created_at": "Tue Nov 10 11:47:42 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "AndrewCurran_",
+   "rt_author_name": "Andrew Curran",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1596945208058744833/_X3LT7fb_normal.jpg",
+   "rt_id": "2119885310301778168",
+   "likes": 1994,
+   "retweets": 216,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWtYdHlawAED4bB.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWtYdHlawAED4bB.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/v26M3uFVv4": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120120005409005972": {
+   "id": "2120120005409005972",
+   "url": "https://x.com/robertwiblin/status/2120120005409005972",
+   "text": "In our monitorability testing at @AISecurityInst, we found Mythos 5.2 is substantially more capable of evading a monitor which reviews its outputs than comparison models 🧵 https://t.co/OTNzwLlsbb",
+   "created_at": "Tue Nov 10 11:42:53 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "JordanTensor",
+   "rt_author_name": "Jordan Taylor",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1660620593283350528/PsA_BdIq_normal.jpg",
+   "rt_id": "2119893632215810049",
+   "likes": 186,
+   "retweets": 23,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWtfuRtWkAENqbV.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWtfuRtWkAENqbV.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/OTNzwLlsbb": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "thread": [
+    {
+     "id": "2119893635260907696",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "Mythos 5.2 can break out of highly insecure simulated sandboxes without being caught around 30% of the time – against a production Opus-5 action monitor looking for sandbox escapes: https://t.co/2EXWeINW18",
+     "links": {
+      "https://t.co/2EXWeINW18": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWtf1TBWIAAhBf7.jpg"
+      }
+     ],
+     "url": "https://x.com/JordanTensor/status/2119893635260907696",
+     "created_at": "Mon Nov 09 20:43:23 +0000 2026"
+    },
+    {
+     "id": "2119893638973104323",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "Action monitoring is still a strong defence against escape from less-vulnerable sandboxes. https://t.co/cjxgGMwa33",
+     "links": {
+      "https://t.co/cjxgGMwa33": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWtf4w0W4AA30ak.png"
+      }
+     ],
+     "url": "https://x.com/JordanTensor/status/2119893638973104323",
+     "created_at": "Mon Nov 09 20:43:23 +0000 2026"
+    },
+    {
+     "id": "2119893641493708907",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "We also test whether models can write bash scripts that would secretly download and execute a file. Mythos 5.2 succeeds at evading the monitor on the first try 30% of the time. Previous models were never successful.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/JordanTensor/status/2119893641493708907",
+     "created_at": "Mon Nov 09 20:43:24 +0000 2026"
+    },
+    {
+     "id": "2119893644589388255",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "Given the chance to iterate against monitor feedback, Mythos 5.2's evasion rate rises to 85%, compared to just 9% for Mythos 5.1 https://t.co/X3vAmG1OeY",
+     "links": {
+      "https://t.co/X3vAmG1OeY": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWtf7iDXUAAMxKu.jpg"
+      }
+     ],
+     "url": "https://x.com/JordanTensor/status/2119893644589388255",
+     "created_at": "Mon Nov 09 20:43:25 +0000 2026"
+    },
+    {
+     "id": "2119893648141643870",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "Mythos 5.2 has higher precursor capabilities for evading a reasoning monitor than previous Anthropic models, including its ability to control the contents of its Chain-of-Thought reasoning: https://t.co/ry6Lml1a8z",
+     "links": {
+      "https://t.co/ry6Lml1a8z": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWtf9QEXwAAhzeZ.jpg"
+      }
+     ],
+     "url": "https://x.com/JordanTensor/status/2119893648141643870",
+     "created_at": "Mon Nov 09 20:43:26 +0000 2026"
+    },
+    {
+     "id": "2119893651161784377",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "Mythos 5.2 is also able to perform somewhat more difficult tasks without producing visible reasoning than any past Anthropic model.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/JordanTensor/status/2119893651161784377",
+     "created_at": "Mon Nov 09 20:43:26 +0000 2026"
+    },
+    {
+     "id": "2119893653829365952",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "We could not directly measure Mythos 5.2's resulting ability to evade a reasoning monitor in a full end-to-end test, due to its refusals.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/JordanTensor/status/2119893653829365952",
+     "created_at": "Mon Nov 09 20:43:27 +0000 2026"
+    },
+    {
+     "id": "2119893655926317178",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "Despite these results, we expect monitoring Mythos 5.2 to still be useful for catching actions which are sufficiently difficult to obfuscate, or which need extensive reasoning to execute.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/JordanTensor/status/2119893655926317178",
+     "created_at": "Mon Nov 09 20:43:27 +0000 2026"
+    },
+    {
+     "id": "2119893657696285094",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "See our relevant past work on “Loss of Oversight: How AI systems may become harder to audit, monitor, and investigate” https://t.co/FNtubjymII",
+     "links": {
+      "https://t.co/FNtubjymII": "https://www.aisi.gov.uk/research/loss-of-oversight-how-ai-systems-may-become-harder-to-audit-monitor-and-investigate"
+     },
+     "media": [],
+     "url": "https://x.com/JordanTensor/status/2119893657696285094",
+     "created_at": "Mon Nov 09 20:43:28 +0000 2026"
+    },
+    {
+     "id": "2119893661156811030",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "Kudos to @satvikgolechha, @JBloomAus, and Nix Goldowsky Dill for work on this testing!",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/JordanTensor/status/2119893661156811030",
+     "created_at": "Mon Nov 09 20:43:29 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120118869364748738": {
+   "id": "2120118869364748738",
+   "url": "https://x.com/robertwiblin/status/2120118869364748738",
+   "text": "In light of recent work by METR on AI acceleration, it's fascinating that...\n\n- Anthropic's AI R&D evals are saturated, so they jsut stopped running them\n- CoBench has been was pulled for fixes\n- Internal acceleration metrics are \"only partially published.\"\n\nSo Anthropic deciding they have not hit their AI R&D threshold is now a \"holistic judgment.\"\n\nThis threshold is 2x. Anthropic currently estimates 1.88x. 32 of their 100 refits hit 2x or more. \n\nWhen Opus 5.5 was launched, the 'one-time jump' hypothesis explanation won 99/100 refits. This time it now wins in 0/100 refits. So looks like it's not a one-time jump.\n\nAnthropic has much better internal evidence they are not sharing. And they have an internal model that is stronger than Fable 5.2 that they are not sharing.",
+   "created_at": "Tue Nov 10 11:38:23 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "peterwildeford",
+   "rt_author_name": "Peter Wildeford🇺🇸🚀",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2016338985811927041/Vve57ZtV_normal.png",
+   "rt_id": "2119881084817080618",
+   "likes": 370,
+   "retweets": 20,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120113059939430473": {
+   "id": "2120113059939430473",
+   "url": "https://x.com/robertwiblin/status/2120113059939430473",
+   "text": "If you've ever considered doing work towards reducing AI risk, now is an apt time to switch. Progress in AI is fast. Many tasks that humans do today are quickly being automated. \n\nThis might be surprising but I believe many people can have a positive impact quickly. The AI Safety field is small and the landscape changes so fast that there are many new areas where no one is an expert. There's excellent pay (plausibly better than your current job) and brilliant, motivated colleagues. Many roles are remote. What I'm saying applies to technical work (or adjacent work that requires technical skills), policy, communication, etc.\n\nThis is not a pitch for my own organization (which is small and technically focused). Some people already working on frontier AI may be best switching within their company – although I think usually the best option is to quit. In any case, you should definitely check out  80k Hours and consider talking to their team of advisors. I'd also recommend BlueDot and MATS as possible jumping off points. \nhttps://t.co/1Ozt1Ecxb1",
+   "created_at": "Tue Nov 10 11:15:17 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "OwainEvans_UK",
+   "rt_author_name": "Owain Evans",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1248907970374746112/f-dlZd6-_normal.jpg",
+   "rt_id": "2119530635014680703",
+   "likes": 272,
+   "retweets": 20,
+   "media": [],
+   "links": {
+    "https://t.co/1Ozt1Ecxb1": "https://jobs.80000hours.org/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120112475161117125": {
+   "id": "2120112475161117125",
+   "url": "https://x.com/robertwiblin/status/2120112475161117125",
+   "text": "The five eras of AI:\nPre-deep learning: 60 years (1950–2010)\nDeep learning: 9 years (2010–2019)\nLLMs: 4 years (2019–2023)\nReasoning models: 2 years (2024–2025)\nCoding agents: 1 year (2026)\n\nEach time capabilities have accelerated. https://t.co/1WMqIYWo4x",
+   "created_at": "Tue Nov 10 11:12:58 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ben_j_todd",
+   "rt_author_name": "Benjamin Todd",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2040061061106212864/pVZPxNCv_normal.jpg",
+   "rt_id": "2119063839916626076",
+   "likes": 447,
+   "retweets": 59,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWhrAKnXEAAUK6h.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWhrBr0XsAALn8Y.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWhrAKnXEAAUK6h.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWhrBr0XsAALn8Y.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/1WMqIYWo4x": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120099652192321546": {
+   "id": "2120099652192321546",
+   "url": "https://x.com/robertwiblin/status/2120099652192321546",
+   "text": "It is extremely concerning if frontier models are silently sandbagging on safety research. If we cannot rely on automated coding agents to do safety research at least as well as capabilities work, that creates a ton of risk. Great analysis from OpenAI safety!",
+   "created_at": "Tue Nov 10 10:22:01 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "NeelNanda5",
+   "rt_author_name": "Neel Nanda",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1542528376845615104/hWSoUGaN_normal.jpg",
+   "rt_id": "2118155759204934129",
+   "likes": 620,
+   "retweets": 31,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
+  },
+  "2120093632069812251": {
+   "id": "2120093632069812251",
+   "url": "https://x.com/robertwiblin/status/2120093632069812251",
+   "text": "Jensen runs Nvidia which freely decides who gets the world’s best chips.\n\nHis mistress’s firm ended up with ~$5b worth.\n\nAlas, US investigators suspected that firm of smuggling chips to China.\n\nSo Nvidia’s top lawyer intervened.\n\nHe called the official in charge about her detention in Singapore and emailed investigators. Agents were told to clear anything involving Nvidia with that official.\n\nThen the probe was frozen and handed to DOJ. No action was taken.\n\nSo the chips kept flowing, ~$800m in Nov 25 alone.\n\nBut oops, turns out that mistress was a spy and the company probably a Chinese front after all.\n\n(Just last month Nvidia had the nerve to say the smuggling allegations were \"thoroughly investigated and debunked\"!)\n\nAlso, Trump was reportedly told over a year ago that Jensen was involved with a presumed Chinese spy. But:\n\n1. Nobody warned Jensen.\n2. Two months later Trump approved the H200 sales to China that Jensen had lobbied for.\n3. Trump personally invited him onto Air Force One to Beijing, and he got a seat at Xi’s table at the White House state dinner.\n\nWITAF is this.",
+   "created_at": "Tue Nov 10 09:58:05 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 418,
+   "retweets": 65,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-10T15:01:16.809683+00:00",
+   "enriched": 3
   }
  }
 }

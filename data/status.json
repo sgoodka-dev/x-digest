@@ -1,11 +1,11 @@
 {
  "last_run": {
-  "started": "2026-11-09T23:47:24.936260+00:00",
+  "started": "2026-11-10T15:01:16.809683+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
-    "new": 0,
-    "total": 159
+    "new": 2,
+    "total": 161
    },
    "add_hawk": {
     "ok": true,
@@ -29,18 +29,18 @@
    },
    "DaveRBanerjee": {
     "ok": true,
-    "new": 0,
-    "total": 184
+    "new": 4,
+    "total": 188
    },
    "DKokotajlo": {
     "ok": true,
-    "new": 1,
-    "total": 258
+    "new": 2,
+    "total": 260
    },
    "dwarkesh_sp": {
     "ok": true,
-    "new": 0,
-    "total": 154
+    "new": 4,
+    "total": 158
    },
    "jkcarlsmith": {
     "ok": true,
@@ -54,13 +54,13 @@
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 0,
-    "total": 158
+    "new": 2,
+    "total": 160
    },
    "ohlennart": {
     "ok": true,
     "new": 0,
-    "total": 120
+    "total": 122
    },
    "sayashk": {
     "ok": true,
@@ -79,8 +79,8 @@
    },
    "s8mb": {
     "ok": true,
-    "new": 0,
-    "total": 550
+    "new": 4,
+    "total": 554
    },
    "random_walker": {
     "ok": true,
@@ -89,18 +89,18 @@
    },
    "sethlazar": {
     "ok": true,
-    "new": 1,
-    "total": 356
+    "new": 3,
+    "total": 359
    },
    "robertwiblin": {
     "ok": true,
-    "new": 0,
-    "total": 322
+    "new": 13,
+    "total": 335
    },
    "deanwball": {
     "ok": true,
-    "new": 1,
-    "total": 521
+    "new": 2,
+    "total": 523
    },
    "nabeelqu": {
     "ok": true,
@@ -109,8 +109,8 @@
    },
    "theobearman": {
     "ok": true,
-    "new": 12,
-    "total": 329
+    "new": 13,
+    "total": 342
    },
    "peterwilderford": {
     "ok": true,
@@ -124,8 +124,8 @@
    },
    "NateWitkin": {
     "ok": true,
-    "new": 0,
-    "total": 123
+    "new": 1,
+    "total": 124
    },
    "charnock_jacob": {
     "ok": true,
@@ -133,7 +133,7 @@
     "total": 7
    }
   },
-  "new_tweets": 16,
-  "finished": "2026-11-09T23:48:19.965782+00:00"
+  "new_tweets": 52,
+  "finished": "2026-11-10T15:03:11.635669+00:00"
  }
 }
