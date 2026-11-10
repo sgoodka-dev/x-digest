@@ -10545,6 +10545,297 @@
    "quoted": null,
    "fetched_at": "2026-11-10T15:01:16.809683+00:00",
    "enriched": 3
+  },
+  "2120209716412375150": {
+   "id": "2120209716412375150",
+   "url": "https://x.com/deanwball/status/2120209716412375150",
+   "text": "@tstock915 @WhiteHouse They are lucky to have you! Congratulations.",
+   "created_at": "Tue Nov 10 17:39:22 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "tstock915",
+   "reply_to_id": "2120196322640736768",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "parent": {
+    "id": "2120196322640736768",
+    "author_handle": "tstock915",
+    "author_name": "Taylor Stockton",
+    "text": "Excited to share that last month I started a new role at the @WhiteHouse as Senior Policy Advisor on the Super Intelligence Force.\n\nThe SI Force will ensure America remains the global leader in SI and that our leadership improves the lives of all Americans. \n\nðŸ‡ºðŸ‡¸ ðŸš€ https://t.co/25uDhvofPN",
+    "links": {
+     "https://t.co/25uDhvofPN": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWxzUR2WMAA8eKP.jpg"
+     }
+    ],
+    "url": "https://x.com/tstock915/status/2120196322640736768",
+    "created_at": "Tue Nov 10 16:46:09 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120208230571733494": {
+   "id": "2120208230571733494",
+   "url": "https://x.com/deanwball/status/2120208230571733494",
+   "text": "@lukemil95449583 lol",
+   "created_at": "Tue Nov 10 17:33:28 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "lukemil95449583",
+   "reply_to_id": "2120207262153162913",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "parent": {
+    "id": "2120207262153162913",
+    "author_handle": "lukemil95449583",
+    "author_name": "Luke Miller",
+    "text": "@deanwball this piece is quite bad and you do not understand Beethoven at all. The reason AI is bad at this is because composing is not about smashing notes together but having an intuitive understanding of a certain part of reality extremely well (genius) and the talent to be able to turn that idea into music with the right notes through musical notation. AI models do not have an intuitive understanding of the true nature of reality, if they do then by that point they are better than humans at everything because having that understanding is a function of sample efficient learning, which humans are OOMs better at than AI. This is the same reason why if you ask an AI to write you a play like Shakespeare it is garbage but Shakespeareâ€™s plays are cultural treasures.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/lukemil95449583/status/2120207262153162913",
+    "created_at": "Tue Nov 10 17:29:37 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120208006164185437": {
+   "id": "2120208006164185437",
+   "url": "https://x.com/deanwball/status/2120208006164185437",
+   "text": "https://t.co/vwB2kEKv83",
+   "created_at": "Tue Nov 10 17:32:34 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "deanwball",
+   "reply_to_id": "2120208001667621313",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 8,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/vwB2kEKv83": "https://www.hyperdimensional.co/p/iron-makes-iron"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "parent": {
+    "id": "2120208001667621313",
+    "author_handle": "deanwball",
+    "author_name": "Dean W. Ball",
+    "text": "Recursive self-improvement is a critical issue, but the rhetoric on the subject is becoming more poorly calibrated over time. As we approach new stages of AI developmentâ€”and RSI is one of themâ€”we need more precise frameworks and terminology. I fear the opposite is happening. https://t.co/ug34aLhdkO",
+    "links": {
+     "https://t.co/ug34aLhdkO": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWx98ERXUAA1j3B.jpg"
+     }
+    ],
+    "url": "https://x.com/deanwball/status/2120208001667621313",
+    "created_at": "Tue Nov 10 17:32:33 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120208001667621313": {
+   "id": "2120208001667621313",
+   "url": "https://x.com/deanwball/status/2120208001667621313",
+   "text": "Recursive self-improvement is a critical issue, but the rhetoric on the subject is becoming more poorly calibrated over time. As we approach new stages of AI development—and RSI is one of them—we need more precise frameworks and terminology. I fear the opposite is happening. https://t.co/ug34aLhdkO",
+   "created_at": "Tue Nov 10 17:32:33 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 42,
+   "retweets": 7,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWx98ERXUAA1j3B.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWx98ERXUAA1j3B.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/ug34aLhdkO": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "thread": [
+    {
+     "id": "2120208006164185437",
+     "author_handle": "deanwball",
+     "author_name": "Dean W. Ball",
+     "text": "https://t.co/vwB2kEKv83",
+     "links": {
+      "https://t.co/vwB2kEKv83": "https://www.hyperdimensional.co/p/iron-makes-iron"
+     },
+     "media": [],
+     "url": "https://x.com/deanwball/status/2120208006164185437",
+     "created_at": "Tue Nov 10 17:32:34 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120205699938685403": {
+   "id": "2120205699938685403",
+   "url": "https://x.com/deanwball/status/2120205699938685403",
+   "text": "@woodilicious yeah I agree there are earlier pieces that are more interesting than this one, but I’m just saying if it turned out a young Beethoven wrote the quoted piece, discarded it, and someone somehow found it, I wouldn’t be shocked.",
+   "created_at": "Tue Nov 10 17:23:25 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "woodilicious",
+   "reply_to_id": "2120198518056874298",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "parent": {
+    "id": "2120198518056874298",
+    "author_handle": "woodilicious",
+    "author_name": "woody lee",
+    "text": "@deanwball We donâ€™t have to pre-declare machine supremacy. Yes yes directionally correct, I know. And I donâ€™t deny it is coming, but his works at 11-13 WoO 47 are OOMs more interesting than this and show sparks of his later stylistic preferences\n\nhttps://t.co/wienzxPuKW",
+    "links": {
+     "https://t.co/wienzxPuKW": "https://en.wikipedia.org/wiki/Three_Piano_Sonatas,_WoO_47_(Beethoven)"
+    },
+    "media": [],
+    "url": "https://x.com/woodilicious/status/2120198518056874298",
+    "created_at": "Tue Nov 10 16:54:52 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120186220437479824": {
+   "id": "2120186220437479824",
+   "url": "https://x.com/deanwball/status/2120186220437479824",
+   "text": "It will be truly wild if models get good at Beethoven-esque composition in a way that mirrors Beethoven’s own artistic progression. If you told me this was a lost piece beethoven wrote when he was ~18, I’d believe you.",
+   "created_at": "Tue Nov 10 16:06:00 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 50,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2119919644836347926",
+    "author_name": "imjustnewatai",
+    "links": {
+     "https://t.co/qvLXwVwsHB": ""
+    },
+    "author": "imjustnewatai",
+    "text": "I asked Claude Fable 5.2 to write a Beethoven-style piano sonata movement in LilyPond. It wrote the score, recorded it, and made this video. Every note you see is from its source file. https://t.co/qvLXwVwsHB"
+   },
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "enriched": 3
+  },
+  "2120185223124025833": {
+   "id": "2120185223124025833",
+   "url": "https://x.com/deanwball/status/2120185223124025833",
+   "text": "Still sounds more like high-budget film/video game soundtrack than a symphony, which has been true anytime I’ve tried to do AI-generated orchestral music, whether an agent or a music model.\n\nThe generalist agents are getting good at solo and chamber music, however.",
+   "created_at": "Tue Nov 10 16:02:02 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 25,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2119902327423258787",
+    "author_name": "imjustnewatai",
+    "links": {
+     "https://t.co/e2THsSiny2": ""
+    },
+    "author": "imjustnewatai",
+    "text": "I asked fable 5.2 to make the best symphony it could make.\n\nHere’s the result: https://t.co/e2THsSiny2"
+   },
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "enriched": 3
+  },
+  "2120183354628932096": {
+   "id": "2120183354628932096",
+   "url": "https://x.com/deanwball/status/2120183354628932096",
+   "text": "my dot disappeared from my phone the moment I crossed into the European Union, and my inbox has suddenly become daunting again. it is amazing how quickly you can come to rely on a still-brand-new technology.",
+   "created_at": "Tue Nov 10 15:54:37 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 79,
+   "retweets": 3,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "enriched": 3
   }
  }
 }

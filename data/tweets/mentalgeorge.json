@@ -3270,6 +3270,80 @@
     "created_at": "Tue Nov 10 12:38:17 +0000 2026"
    },
    "enriched": 3
+  },
+  "2120189672777552217": {
+   "id": "2120189672777552217",
+   "url": "https://x.com/mentalgeorge/status/2120189672777552217",
+   "text": "We need some conceptual engineering to come up with better terms than \"well-specified\" or \"fuzzy\".\n\nEg I like Dwarkesh's emphasis that \"grindability\" matters as much as \"verifiability\"\n\n\"How cheap is it to generate strong signal for reward\" is probably a better predictor of LLM capabilities than \"is this domain verifiable\" \n\nI envision a mythical epoch post that figures out a way to report $ per \"unit of reward signal\" by domain",
+   "created_at": "Tue Nov 10 16:19:43 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 18,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWxsnczW4AAghzp.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/Hhr6iKdwjU": ""
+   },
+   "quoted": {
+    "id": "2120181503699099763",
+    "author_name": "Tom Reed",
+    "links": {
+     "https://t.co/b5X3uum0Lu": ""
+    },
+    "author": "mentalgeorge",
+    "text": "Everyone wants to know - are Anthropic's models also improving faster on fuzzy tasks?\n\nWe don't know, but tentative analysis from METR in the Mythos 5.2 system card suggests the new model is not obviously an improvement over 5.1 on open-ended tasks https://t.co/b5X3uum0Lu"
+   },
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "enriched": 3
+  },
+  "2120181503699099763": {
+   "id": "2120181503699099763",
+   "url": "https://x.com/mentalgeorge/status/2120181503699099763",
+   "text": "Everyone wants to know - are Anthropic's models also improving faster on fuzzy tasks?\n\nWe don't know, but tentative analysis from METR in the Mythos 5.2 system card suggests the new model is not obviously an improvement over 5.1 on open-ended tasks https://t.co/b5X3uum0Lu",
+   "created_at": "Tue Nov 10 15:47:16 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 39,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWxkqvTWAAEf37o.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWxkqvTWAAEf37o.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/b5X3uum0Lu": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "enriched": 3
   }
  }
 }

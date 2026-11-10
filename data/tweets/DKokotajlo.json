@@ -5478,6 +5478,125 @@
    "quoted": null,
    "fetched_at": "2026-11-10T15:01:16.809683+00:00",
    "enriched": 3
+  },
+  "2120206559729131808": {
+   "id": "2120206559729131808",
+   "url": "https://x.com/DKokotajlo/status/2120206559729131808",
+   "text": "Bernie Sanders urges Congress not to waste cycles on investigating Trump: \n\n\"When people are scared to death that Elon Musk and the other billionaires are pushing AI down our throats with cataclysmic impacts ... and posing an existential threat to humanity, we cannot spend all of our time investigating Trump.\"",
+   "created_at": "Tue Nov 10 17:26:50 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ONagel33303",
+   "rt_author_name": "Ori Nagel",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1942934295363903488/fpfcb6Ug_normal.jpg",
+   "rt_id": "2120102530822951318",
+   "likes": 85,
+   "retweets": 17,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120102211305013248/img/sgLIh4mSmpqbAwoB.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/sGvG78mH78": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "enriched": 3
+  },
+  "2120206261186953474": {
+   "id": "2120206261186953474",
+   "url": "https://x.com/DKokotajlo/status/2120206261186953474",
+   "text": "https://t.co/TlsKymAB43 I found this to be a nice, simple, clear 101 of the alignment problem &amp; am curious how it lands.",
+   "created_at": "Tue Nov 10 17:25:38 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 51,
+   "retweets": 8,
+   "media": [],
+   "links": {
+    "https://t.co/TlsKymAB43": "https://aisfoundation.ai/watch/monday"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "enriched": 3
+  },
+  "2120204910449099138": {
+   "id": "2120204910449099138",
+   "url": "https://x.com/DKokotajlo/status/2120204910449099138",
+   "text": "Anthropic has confirmed in an updated S-1 today that it has determined that the Autonomy 2 capability threshold has been met, based on the “dramatic acceleration of overall AI R&D progress” condition, given that it applies where Anthropic \"observes or expects\" accelerated progress. Anthropic further states that it does not make this determination based on current models.\n\nhttps://t.co/HdbiIM0nGk",
+   "created_at": "Tue Nov 10 17:20:16 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "theobearman",
+   "rt_author_name": "Theo Bearman",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "rt_id": "2120124069806756238",
+   "likes": 396,
+   "retweets": 41,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWww6EuXYAABD4D.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWwxICCXgAAa0eE.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/HdbiIM0nGk": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm#i199fd6a8a0664d5da497db9a78cf0452_55",
+    "https://t.co/XOqrk6Vkpm": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "enriched": 3
+  },
+  "2120204075803500595": {
+   "id": "2120204075803500595",
+   "url": "https://x.com/DKokotajlo/status/2120204075803500595",
+   "text": "Unfortunately, it seems like the intelligence explosion will be happening in 2027 after all. Most of this post analyzes the new METR report (though other sources of evidence are also important). If they’re right, that implies an AI-driven acceleration that is 5 months ahead of the AI 2027 scenario.  I am scared, sad, and angry. https://t.co/7KWmdc6AZk",
+   "created_at": "Tue Nov 10 17:16:57 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 964,
+   "retweets": 143,
+   "media": [],
+   "links": {
+    "https://t.co/7KWmdc6AZk": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "enriched": 3
   }
  }
 }

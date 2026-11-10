@@ -2606,6 +2606,37 @@
    "fetched_at": "2026-11-06T20:54:35.151346+00:00",
    "links": {},
    "enriched": 3
+  },
+  "2120185558303477804": {
+   "id": "2120185558303477804",
+   "url": "https://x.com/anton_d_leicht/status/2120185558303477804",
+   "text": "Today, I'm delighted to share our report: Trust but Verify: Implementing Frontier AI Policy in California and Beyond.\n\nGoverning advanced AI is hard. Policymakers face an evidence dilemma: AI evolves so quickly that responding prematurely risks entrenching ineffective policies, while delaying action could leave society vulnerable to serious risks.\n\nWith no federal legislation focused on frontier AI safety, California is shaping frontier AI governance nationally. But passing legislation is only the first step. Whether California's approach succeeds depends on how it is implemented.\n\nThat's why, shortly after SB 53 passed, Carnegie assembled 13 world-leading experts to examine the most consequential implementation choices, identify issues for future legislation, and provide a blueprint for other jurisdictions.\n\n\"Trust but verify\" AI governance approaches are dynamic by design: they allow governments to generate more evidence on AI capabilities and risks to inform what comes next. SB 53 was always supposed to be the first, not final, step in frontier AI policy. Assessing its strengths and weaknesses can clarify where frontier AI policy should come after—in California and elsewhere.",
+   "created_at": "Tue Nov 10 16:03:22 +0000 2026",
+   "author_handle": "anton_d_leicht",
+   "author_name": "Anton Leicht",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2099528473869971457/0uLWqvOn_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "Scott_R_Singer",
+   "rt_author_name": "Scott Singer",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1782319825634668544/0LE7q393_normal.jpg",
+   "rt_id": "2120177252419694796",
+   "likes": 67,
+   "retweets": 13,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWxhvjAXoAE0N7V.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/DZmfNXsRpY": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "enriched": 3
   }
  }
 }

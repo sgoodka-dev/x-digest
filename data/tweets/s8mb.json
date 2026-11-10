@@ -12175,6 +12175,40 @@
    "quoted": null,
    "fetched_at": "2026-11-10T15:01:16.809683+00:00",
    "enriched": 3
+  },
+  "2120184081531171183": {
+   "id": "2120184081531171183",
+   "url": "https://x.com/s8mb/status/2120184081531171183",
+   "text": "@willsolfiac I agree with “Sam” but when it’s an uncommon name like Dario or Demis it’s fine imo (like with Boris or Sadiq).",
+   "created_at": "Tue Nov 10 15:57:30 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "willsolfiac",
+   "reply_to_id": "2120176593997844589",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "parent": {
+    "id": "2120176593997844589",
+    "author_handle": "willsolfiac",
+    "author_name": "Will Solfiac",
+    "text": "\"So uhhh ... who is the most ASI-pilled, Sam or Dario?\"\n\nPlease stop, you're a mid-level engineer at Google. These are not your mates.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/willsolfiac/status/2120176593997844589",
+    "created_at": "Tue Nov 10 15:27:45 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

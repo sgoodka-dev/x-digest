@@ -7370,6 +7370,38 @@
     "created_at": "Mon Nov 09 23:53:12 +0000 2026"
    },
    "enriched": 3
+  },
+  "2120221748503224361": {
+   "id": "2120221748503224361",
+   "url": "https://x.com/sethlazar/status/2120221748503224361",
+   "text": "I remember the first time I walked into the Oval Office to brief President Biden. I'd just been appointed as the White House Special Advisor for AI. The President sat behind the Resolute desk and began with a single question: \"What is the worst harm that AI could enable?\"\n\nI had no shortage of worries. We talked about the pace of technological progress — how, thanks to better chips and algorithms, what was cutting-edge that day would be commonplace within a couple of years. We talked about how high the ceiling on intelligence was, and about the dangers that AI would likely bring in areas like cybersecurity and bioweapons. We talked about how technology was fast and government was slow. \n\nThen he asked about the benefits. He cared about ending cancer as much as anything in the world, and AI — managed well — offers more hope for that than anything else. \n\nMost of all, we talked about what became the argument of the book my White House colleague @TantumSCollins and I have written: that democracies must lead in inventing this technology, turn that lead into a lasting advantage, and do it all without betraying their own values. Achieving all three at once will be a bitter struggle. Every choice pits security against liberty, speed against caution, power against principle.\n\nToday THE BITTER STRUGGLE is out from Crown, in hardcover, ebook, and audio. It’s our account of what happened, what’s coming, and what’s at stake. We don’t pretend the answers are easy — in some ways we’re more worried than when we started. But these questions are too important to be debated only behind closed doors, including the door to the Oval Office. We hope you will join the debate. \n\nhttps://t.co/shdmbLbAdh",
+   "created_at": "Tue Nov 10 18:27:11 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "BuchananBen",
+   "rt_author_name": "Ben Buchanan",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/527292987005366272/5_Tk5ilp_normal.jpeg",
+   "rt_id": "2120148931875066122",
+   "likes": 125,
+   "retweets": 21,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWxIN6HXoAERxiF.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/shdmbLbAdh": "https://www.penguinrandomhouse.com/books/821154/the-bitter-struggle-by-ben-buchanan-and-tantum-collins/",
+    "https://t.co/6U7RW7ZGLf": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "enriched": 3
   }
  }
 }

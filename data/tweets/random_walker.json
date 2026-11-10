@@ -3206,6 +3206,324 @@
      "created_at": "Thu Nov 05 19:04:32 +0000 2026"
     }
    ]
+  },
+  "2120215579873440112": {
+   "id": "2120215579873440112",
+   "url": "https://x.com/random_walker/status/2120215579873440112",
+   "text": "AI companies increasingly say they may soon reach recursive self-improvement (RSI).\n\nWith RSI, AI capability progress could accelerate dramatically. This acceleration could happen inside AI companies before outsiders can notice.\n\nHow close is RSI? Our new report reviews the evidence, turns key disagreements into forecasting questions, and gives initial LLM forecasts. 🧵",
+   "created_at": "Tue Nov 10 18:02:40 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1650881612756942850/bZYjMyFU_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "Research_FRI",
+   "rt_author_name": "Forecasting Research Institute",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2051957833382461443/KVlVgRYp_normal.jpg",
+   "rt_id": "2120199698988642390",
+   "likes": 30,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWx2Y6JbMAAxLgU.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/PfSDNN7l4Y": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "thread": [
+    {
+     "id": "2120199711399502285",
+     "author_handle": "Research_FRI",
+     "author_name": "Forecasting Research Institute",
+     "text": "With RSI, current AI systems help develop future AI systems.\n\nAI companies now say this loop has begun. In an update to its IPO filing, Anthropic claimed that, based on expected future models, it now meets its definition of â€œdramatically accelerated progress attributable to AI.â€�\n\nOpenAI said it already achieved the goal of an â€œautomated AI research internâ€� in Sep 2026 and targets an automated AI researcher by Mar 2028.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/Research_FRI/status/2120199711399502285",
+     "created_at": "Tue Nov 10 16:59:37 +0000 2026"
+    },
+    {
+     "id": "2120199723558883819",
+     "author_handle": "Research_FRI",
+     "author_name": "Forecasting Research Institute",
+     "text": "Of course, AI companies are not necessarily neutral observers. So how close is RSI really?\n\nIn the report, we provide a comprehensive overview of AI companiesâ€™ reported data, public benchmarks, and existing forecasts. (We reviewed data up to Nov 3, 2026.)\n\nAI acts as a highly capable research assistant, but humans still supply most of the research judgment, such as choosing which research areas to focus on.\n\nFor example, no measured part of Anthropicâ€™s AI R&D is fully autonomous. At OpenAI, AI completed 57% of 2â€“4-hour tasks with no human intervention in Jul 2026 (up from 28% in Jan) and 35% of 8â€“16-hour tasks (up from 10%).",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/Research_FRI/status/2120199723558883819",
+     "created_at": "Tue Nov 10 16:59:40 +0000 2026"
+    },
+    {
+     "id": "2120199740231242119",
+     "author_handle": "Research_FRI",
+     "author_name": "Forecasting Research Institute",
+     "text": "Public evidence points the same way. AI agents do well on well-defined ML benchmarks such as PostTrainBench or WeirdML.\n\nHowever, they struggle with open-ended research. In the CRUX 2 open-world evaluation, AI agents got the research question of an unpublished AI paper and had to write their own paper on it. The original paperâ€™s authors rejected all four AI-written papers. On InnovationEval, where agents try to reinvent a published ML innovation, the best agent recovered 15% of its gain.",
+     "links": {
+      "https://t.co/IpSA9uUazb": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWx2bZ5boAAcA7h.jpg"
+      }
+     ],
+     "url": "https://x.com/Research_FRI/status/2120199740231242119",
+     "created_at": "Tue Nov 10 16:59:44 +0000 2026"
+    },
+    {
+     "id": "2120199752872804545",
+     "author_handle": "Research_FRI",
+     "author_name": "Forecasting Research Institute",
+     "text": "AI capability progress has not clearly accelerated on public measures. That said, there is some internal evidence from frontier AI companies of a potential acceleration.\n\nIn the Claude Opus 5.5 system card, a preliminary @METR_Evals assessment estimated â€œ~1.5X overall acceleration in capabilities due to AIâ€� inside Anthropic, with â€œperhaps 30% chance of 2X.â€�\n\nAt OpenAI, experiments per active experimenter hit an all-time high in Aug 2026, about 1.6Ã— the 2025 level.\n\nIn a report published after our Nov 3 data cutoff, @METR_Evals now estimates that capability progress at Anthropic is about 2Ã— its earlier rate, and that around 80% of this acceleration is due to AI.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/Research_FRI/status/2120199752872804545",
+     "created_at": "Tue Nov 10 16:59:47 +0000 2026"
+    },
+    {
+     "id": "2120199770753175935",
+     "author_handle": "Research_FRI",
+     "author_name": "Forecasting Research Institute",
+     "text": "In our report, we cover the key points of debate, including the views of researchers who expect RSI very soon and those who are more skeptical.\n\nFor example, a scenario from the AI Futures Project depicts a superhuman AI researcher in 2027. In contrast, @random_walker and @sayashk expect gradual automation of AI development instead of â€œa singular, discontinuous moment when recursive self-improvement is achieved.â€�\n\nWhy do people disagree? Broad acceleration through automated AI R&D needs three steps to happen in turn:\n\n1. Automation: Is AI R&D automated?\n2. Acceleration: Does AI capability progress accelerate sharply?\n3. Breadth: Are capability gains broad?",
+     "links": {
+      "https://t.co/khcEOZJwaW": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWx2dKXbQAAo27W.jpg"
+      }
+     ],
+     "url": "https://x.com/Research_FRI/status/2120199770753175935",
+     "created_at": "Tue Nov 10 16:59:51 +0000 2026"
+    },
+    {
+     "id": "2120199786582462548",
+     "author_handle": "Research_FRI",
+     "author_name": "Forecasting Research Institute",
+     "text": "We turned these cruxes into 18 forecasting questions.\n\nTo measure acceleration, we propose a forecasting question on the likelihood of a â€œfast yearâ€�: any 12 months in which the frontier of the Epoch Capabilities Index (@EpochAIResearch) rises by 30+ points, about 2Ã— its pace since September 2024.\n\nAn ensemble of four frontier LLMs forecasts about a 40% chance of a fast year by 2030. If a fast year happens, the ensemble gives about a 70% chance that it was caused by AI automation of AI R&D.\n\nThe four LLMs disagree substantially on the probability of a fast year. For a fast year by the end of 2030, their forecasts range from 35% (Claude Sonnet 5.5) to almost 56% (GPT-6 Astra).\n\nThe LLMs made these forecasts on Oct 29, before the new METR report was released. If Anthropicâ€™s internal 2Ã— pace holds and reaches public models, that would roughly match the pace of a fast year. However, the METR estimate comes with caveats. For example, part of the acceleration may reflect Anthropic catching up to the frontier, and Anthropic redacted much of the evidence that METR found most informative. See our report for more discussion.",
+     "links": {
+      "https://t.co/B76izkjRpb": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWx2eGKbsAApnE1.jpg"
+      }
+     ],
+     "url": "https://x.com/Research_FRI/status/2120199786582462548",
+     "created_at": "Tue Nov 10 16:59:55 +0000 2026"
+    },
+    {
+     "id": "2120199802332049800",
+     "author_handle": "Research_FRI",
+     "author_name": "Forecasting Research Institute",
+     "text": "Conditional on a fast year by 2030, the LLM ensemble forecasts:\n\n â€¢ 8.4% chance of an AI catastrophe by 2050 (vs. 2.9% without a fast year)\n â€¢ 84.3% chance that an expert panel agrees AGI exists by 2050 (vs. 55.7% without a fast year)\n\nIf a fast year happens by 2030, the ensembleâ€™s forecast of an AI catastrophe by 2050 is almost 3Ã— higher.",
+     "links": {
+      "https://t.co/YF9Snqkjb6": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWx2fAUakAAjSqf.jpg"
+      }
+     ],
+     "url": "https://x.com/Research_FRI/status/2120199802332049800",
+     "created_at": "Tue Nov 10 16:59:58 +0000 2026"
+    },
+    {
+     "id": "2120199815028252829",
+     "author_handle": "Research_FRI",
+     "author_name": "Forecasting Research Institute",
+     "text": "We note a few key limitations of our report:\n\n â€¢ LLM forecasts: Several LLMs are now roughly as accurate as superforecasters on ForecastBench, our forecasting benchmark. However, we know less about their accuracy on complex questions with little base-rate information (such as questions about acceleration of AI progress). Also, we elicited the LLM forecasts before the new METR report was published.\n â€¢ Data cutoff: Our data cutoff is Nov 3. The evidence in the field is moving rapidly, and so the report doesnâ€™t fully cover, for example, the new METR report, Epochâ€™s Bayesian update to the ECI, or Claude Mythos/Fable 5.2.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/Research_FRI/status/2120199815028252829",
+     "created_at": "Tue Nov 10 17:00:01 +0000 2026"
+    },
+    {
+     "id": "2120199827900539154",
+     "author_handle": "Research_FRI",
+     "author_name": "Forecasting Research Institute",
+     "text": "We are currently collecting forecasts from top human forecasters and AI experts. We plan to add them, along with evidence released after our data cutoff, to an updated version of the report.\n\nRead the full report here: https://t.co/dorMslaMFQ",
+     "links": {
+      "https://t.co/dorMslaMFQ": "https://forecastingresearch.org/research/recursive-self-improvement-v1"
+     },
+     "media": [],
+     "url": "https://x.com/Research_FRI/status/2120199827900539154",
+     "created_at": "Tue Nov 10 17:00:05 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120215510990082274": {
+   "id": "2120215510990082274",
+   "url": "https://x.com/random_walker/status/2120215510990082274",
+   "text": "New blog post: I used Claude to audit the reproducibility of every journal paper I've been an author on in the last five years. Our commitment to openness meant that the code and data were available, but there were some significant issues. 🧵https://t.co/O5pkxUM4Jx",
+   "created_at": "Tue Nov 10 18:02:24 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1650881612756942850/bZYjMyFU_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "mcxfrank",
+   "rt_author_name": "Michael C. Frank",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1827458138573860864/czEqfUWH_normal.jpg",
+   "rt_id": "2120188287990255902",
+   "likes": 111,
+   "retweets": 14,
+   "media": [],
+   "links": {
+    "https://t.co/O5pkxUM4Jx": "https://babieslearninglanguage.blogspot.com/2026/11/an-ai-audit-of-my-works-computational.html"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "thread": [
+    {
+     "id": "2120188300057288976",
+     "author_handle": "mcxfrank",
+     "author_name": "Michael C. Frank",
+     "text": "Why do this? Errors are common in the published literature (around half of psych papers have at least one impossible statistical test), and AI agents now make checking cheap. So I turned the lens on my own work: 79 papers, 59 of them empirical, many with outside collaborators or consortia.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/mcxfrank/status/2120188300057288976",
+     "created_at": "Tue Nov 10 16:14:16 +0000 2026"
+    },
+    {
+     "id": "2120188311801418154",
+     "author_handle": "mcxfrank",
+     "author_name": "Michael C. Frank",
+     "text": "58 of 59 papers had most of the code and data posted. But 40 had at least one number we couldn't reproduce (only ~2% of 10k+ results numbers, but still a lot of numbers). Some of these were typos, some were randomness, some were due to incomplete code sharing.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/mcxfrank/status/2120188311801418154",
+     "created_at": "Tue Nov 10 16:14:19 +0000 2026"
+    },
+    {
+     "id": "2120188323503489359",
+     "author_handle": "mcxfrank",
+     "author_name": "Michael C. Frank",
+     "text": "More upsettingly, more than half had at least one flagged error. These are AI-spotted and not yet human-checked. Most look minor, but one is serious enough that we're assessing whether a correction or even retraction is needed.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/mcxfrank/status/2120188323503489359",
+     "created_at": "Tue Nov 10 16:14:22 +0000 2026"
+    },
+    {
+     "id": "2120188335306281319",
+     "author_handle": "mcxfrank",
+     "author_name": "Michael C. Frank",
+     "text": "Some examples: a coefficient reported backwards in a secondary analysis, missing SES coded as high SES, and a stimulus coding issue that turned one null effect positive. The serious one is a single upstream bug in a model training pipeline that produced a spurious result.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/mcxfrank/status/2120188335306281319",
+     "created_at": "Tue Nov 10 16:14:24 +0000 2026"
+    },
+    {
+     "id": "2120188346957996085",
+     "author_handle": "mcxfrank",
+     "author_name": "Michael C. Frank",
+     "text": "The audit also turned up privacy lapses (identifiers and Prolific IDs in repositories), now remediated. Maybe we need something like dependabot to scan our repositories for potential privacy issues so these things don't go undetected.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/mcxfrank/status/2120188346957996085",
+     "created_at": "Tue Nov 10 16:14:27 +0000 2026"
+    },
+    {
+     "id": "2120188358781747692",
+     "author_handle": "mcxfrank",
+     "author_name": "Michael C. Frank",
+     "text": "Software systems always have bugs but we have learned how to make them reliable. Seems to me that science also needs reliability engineering, with automated tests and quality assurance.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/mcxfrank/status/2120188358781747692",
+     "created_at": "Tue Nov 10 16:14:30 +0000 2026"
+    },
+    {
+     "id": "2120188370626531373",
+     "author_handle": "mcxfrank",
+     "author_name": "Michael C. Frank",
+     "text": "I'm very sad about the overall results of this audit, and am still figuring out the best ways to correct the errors that it identified (with my coauthors). The one hopeful note is that I think AI has a role to play in providing pre-submission checks that decrease these issues in future.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/mcxfrank/status/2120188370626531373",
+     "created_at": "Tue Nov 10 16:14:33 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120191752200200437": {
+   "id": "2120191752200200437",
+   "url": "https://x.com/random_walker/status/2120191752200200437",
+   "text": "Anthropic is gaining exponentially less capability per billion dollars spent over time. It's now 8x as expensive to boost AI capabilities as it was 2 years ago, getting worse on a log scale. This includes METR report & internal models. \n\nCredit to @alexolegimas, @sebkrier, and @michael_wiebe for inspiration.",
+   "created_at": "Tue Nov 10 16:27:59 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1650881612756942850/bZYjMyFU_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ramez",
+   "rt_author_name": "Ramez Naam",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1897785621802061824/N9bBY8w6_normal.jpg",
+   "rt_id": "2119568698524529098",
+   "likes": 1386,
+   "retweets": 177,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWo4TwMWQAAnfL8.png"
+    }
+   ],
+   "links": {
+    "https://t.co/DAr8zkYh9j": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "enriched": 3
+  },
+  "2120175129841795119": {
+   "id": "2120175129841795119",
+   "url": "https://x.com/random_walker/status/2120175129841795119",
+   "text": "What does ChatGPT tell folks about the midterm elections? It depends on who's asking!\n\nWe audited ChatGPT inside 160 real users' own accounts in the days before the midterms. With memory on, we find that answers shifted toward each user's own party!\n\nhttps://t.co/upD2j70NZ5 https://t.co/IGctpWTav3",
+   "created_at": "Tue Nov 10 15:21:56 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1650881612756942850/bZYjMyFU_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "manoelribeiro",
+   "rt_author_name": "Manoel",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1899994984671006720/qvYLE2Ec_normal.jpg",
+   "rt_id": "2120171682887512090",
+   "likes": 55,
+   "retweets": 17,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWxb0B-XUAMpcbq.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWxb0B-XUAMpcbq.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/upD2j70NZ5": "https://elections.citp.princeton.edu/2026/11/09/what-does-chatgpt-say-about-the-election-it-depends-on-whos-asking/",
+    "https://t.co/IGctpWTav3": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "enriched": 3
   }
  }
 }

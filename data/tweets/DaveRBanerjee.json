@@ -3812,6 +3812,32 @@
    },
    "fetched_at": "2026-11-10T15:01:16.809683+00:00",
    "enriched": 3
+  },
+  "2120207152770056680": {
+   "id": "2120207152770056680",
+   "url": "https://x.com/DaveRBanerjee/status/2120207152770056680",
+   "text": "Unfortunately, it seems like the intelligence explosion will be happening in 2027 after all. Most of this post analyzes the new METR report (though other sources of evidence are also important). If they’re right, that implies an AI-driven acceleration that is 5 months ahead of the AI 2027 scenario.  I am scared, sad, and angry. https://t.co/7KWmdc6AZk",
+   "created_at": "Tue Nov 10 17:29:11 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "DKokotajlo",
+   "rt_author_name": "Daniel Kokotajlo",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "rt_id": "2120204075803500595",
+   "likes": 962,
+   "retweets": 143,
+   "media": [],
+   "links": {
+    "https://t.co/7KWmdc6AZk": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "enriched": 3
   }
  }
 }

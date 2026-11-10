@@ -7961,6 +7961,385 @@
    "quoted": null,
    "fetched_at": "2026-11-10T15:01:16.809683+00:00",
    "enriched": 3
+  },
+  "2120220293046186166": {
+   "id": "2120220293046186166",
+   "url": "https://x.com/robertwiblin/status/2120220293046186166",
+   "text": "So, Nvidia has (likely) been funding an influence campaign that uses hundreds of fake X accounts.\n\nHilarious that all these accounts would be simultaneously posting in defence of:\n\n1. Nvidia\n2. The RSF (a Sudanese paramilitary accused of genocide)\n\nNaturally they've been active the last few days running interference on the spy stuff.\n\nYou can tell this just by scanning replies on this site, but good to see it confirmed.",
+   "created_at": "Tue Nov 10 18:21:24 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 7,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWyJHFBXIAAczep.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/T340isufzD": ""
+   },
+   "quoted": {
+    "id": "2120212896223486299",
+    "author_name": "The Midas Project",
+    "links": {
+     "https://t.co/MZ1FdDEOz8": ""
+    },
+    "author": "TheMidasProj",
+    "text": "🚨NEW: Dozens of accounts defending Jensen Huang after his affair with an alleged Chinese spy appear to be fake.\n\nThey are part of a much wider pro-Nvidia campaign, linked to an Israeli influence firm that says it shut down last year…\n\nBut the accounts never stopped posting. 🧵 https://t.co/MZ1FdDEOz8"
+   },
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "enriched": 3
+  },
+  "2120216171064520998": {
+   "id": "2120216171064520998",
+   "url": "https://x.com/robertwiblin/status/2120216171064520998",
+   "text": "Unfortunately the original is paywalled but there should be follow-up reporting by the NYT before long I'd think: https://t.co/7SpmgIlxTt https://t.co/dqzurGJSMq",
+   "created_at": "Tue Nov 10 18:05:01 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2120215813655314721",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 6,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWyFNN5WwAAa0LH.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWyFNN5WwAAa0LH.png"
+    }
+   ],
+   "links": {
+    "https://t.co/7SpmgIlxTt": "https://www.theinformation.com/articles/jensen-huangs-yearslong-ties-alice-huang-enabled-nvidia-chip-sales-china?rc=wlb48d",
+    "https://t.co/dqzurGJSMq": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "parent": {
+    "id": "2120215813655314721",
+    "author_handle": "robertwiblin",
+    "author_name": "Rob Wiblin",
+    "text": "New article from The Information is mad.\n\nTurns out Jensen's mistress leveraged her access to him to help move ~240k export-controlled chips to China (!).\n\nJust to back up: Century Litong was founded by the sister of Alice (the mistress and alleged spy) in 2023.\n\nAlice had zero AI background but got credibility by telling everyone she could always get chip supply through her contacts in and around Nvidia.\n\nShe bragged that Jensen celebrated her birthday every year with dinner / gifts, and posted photos of them together on WeChat.\n\nWithin 4 months Litong was a Nvidia 'preferred cloud partner' giving it priority access to chips (which it still has today!).\n\nAnd 2 people who know Alice say while involved with Litong she helped move about 240,000 export-restricted chips into China, mostly H100s and H200s.\n\nFor scale that's more than double the number of H100s in xAI's Colossus.\n\nApparently a business contact described Litong as the place to get any chip the US gov had banned and some of the chips ended up with Alibaba and Tencent.\n\nAsked detailed questions, Nvidia didn't deny anything specific, it just gave a generic statement that it sells through partners and its due diligence has led to prosecutions.\n\n(If there's more stuff like this the pressure on Jensen to resign might get really serious. How can he possibly work with the incoming Congress?)",
+    "links": {
+     "https://t.co/FeCpcGpvMc": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWx3NLEWIAAclqB.png"
+     }
+    ],
+    "url": "https://x.com/robertwiblin/status/2120215813655314721",
+    "created_at": "Tue Nov 10 18:03:36 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120215813655314721": {
+   "id": "2120215813655314721",
+   "url": "https://x.com/robertwiblin/status/2120215813655314721",
+   "text": "New article from The Information is mad.\n\nTurns out Jensen's mistress leveraged her access to him to help move ~240k export-controlled chips to China (!).\n\nJust to back up: Century Litong was founded by the sister of Alice (the mistress and alleged spy) in 2023.\n\nAlice had zero AI background but got credibility by telling everyone she could always get chip supply through her contacts in and around Nvidia.\n\nShe bragged that Jensen celebrated her birthday every year with dinner / gifts, and posted photos of them together on WeChat.\n\nWithin 4 months Litong was a Nvidia 'preferred cloud partner' giving it priority access to chips (which it still has today!).\n\nAnd 2 people who know Alice say while involved with Litong she helped move about 240,000 export-restricted chips into China, mostly H100s and H200s.\n\nFor scale that's more than double the number of H100s in xAI's Colossus.\n\nApparently a business contact described Litong as the place to get any chip the US gov had banned and some of the chips ended up with Alibaba and Tencent.\n\nAsked detailed questions, Nvidia didn't deny anything specific, it just gave a generic statement that it sells through partners and its due diligence has led to prosecutions.\n\n(If there's more stuff like this the pressure on Jensen to resign might get really serious. How can he possibly work with the incoming Congress?)",
+   "created_at": "Tue Nov 10 18:03:36 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 38,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWx3NLEWIAAclqB.png"
+    }
+   ],
+   "links": {
+    "https://t.co/FeCpcGpvMc": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "thread": [
+    {
+     "id": "2120216171064520998",
+     "author_handle": "robertwiblin",
+     "author_name": "Rob Wiblin",
+     "text": "Unfortunately the original is paywalled but there should be follow-up reporting by the NYT before long I'd think: https://t.co/7SpmgIlxTt https://t.co/dqzurGJSMq",
+     "links": {
+      "https://t.co/7SpmgIlxTt": "https://www.theinformation.com/articles/jensen-huangs-yearslong-ties-alice-huang-enabled-nvidia-chip-sales-china?rc=wlb48d",
+      "https://t.co/dqzurGJSMq": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWyFNN5WwAAa0LH.png"
+      }
+     ],
+     "url": "https://x.com/robertwiblin/status/2120216171064520998",
+     "created_at": "Tue Nov 10 18:05:01 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120202259426410824": {
+   "id": "2120202259426410824",
+   "url": "https://x.com/robertwiblin/status/2120202259426410824",
+   "text": "@Henry_George63 @robbensinger My guess would be that he is.",
+   "created_at": "Tue Nov 10 17:09:44 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "Henry_George63",
+   "reply_to_id": "2120195714542436391",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 15,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "parent": {
+    "id": "2120195714542436391",
+    "author_handle": "Henry_George63",
+    "author_name": "PauseAI Henry George",
+    "text": "@robertwiblin @robbensinger Okay why isnâ€™t he telling OAI to stop then",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/Henry_George63/status/2120195714542436391",
+    "created_at": "Tue Nov 10 16:43:44 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120195198152319052": {
+   "id": "2120195198152319052",
+   "url": "https://x.com/robertwiblin/status/2120195198152319052",
+   "text": "NEW:\n\nForget Alice Huang's role at Megaspeed, that's almost a distraction. \n\nThe real story is her role at China-based Shanghai Century Litong, which became a \"preferred\" Nvidia cloud partner in mid-2023 and facilitated &gt;$7.5b in Nvidia chip shipments, incl securing BANNED chips. https://t.co/dVForHtUVq",
+   "created_at": "Tue Nov 10 16:41:41 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "amir",
+   "rt_author_name": "Amir Efrati",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1294851984269352964/oyjUk9zh_normal.jpg",
+   "rt_id": "2120176897003057192",
+   "likes": 420,
+   "retweets": 92,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWxhBNLasAA8qq9.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWxhYKibQAEDNhq.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWxhBNLasAA8qq9.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWxhYKibQAEDNhq.png"
+    }
+   ],
+   "links": {
+    "https://t.co/dVForHtUVq": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "enriched": 3
+  },
+  "2120194222758437028": {
+   "id": "2120194222758437028",
+   "url": "https://x.com/robertwiblin/status/2120194222758437028",
+   "text": "Clip is from around minute 14 here: https://t.co/omi02NRVUD",
+   "created_at": "Tue Nov 10 16:37:48 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2120192315247722700",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 12,
+   "retweets": 1,
+   "media": [],
+   "links": {
+    "https://t.co/omi02NRVUD": "https://www.youtube.com/live/-Ef0ocEoBCs"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "parent": {
+    "id": "2120192315247722700",
+    "author_handle": "robertwiblin",
+    "author_name": "Rob Wiblin",
+    "text": "Paul Christiano (OpenAI board member) yesterday:\n\n\"There's material risk of AI takeover in the next 6-12 months.\n\nWe have seen roughly the things we might expect to see shortly before something really bad were to happen.\n\nEven with [any] realistic policy responses, the risk remains exceptionally high.\n\nIf we build this as quickly as we can in the easiest way we can the chance is [more like] a coin flip [within the next 3 years].\n\nFor most people in this room, the most likely reason they will die is because of an AI accident.\"\n\nChristiano:\n\nâ€¢ Is on OpenAI's safety and security committee (which exists to block risky practices)\nâ€¢ Co-invented RLHF at OpenAI back in 2017-2021\nâ€¢ From 2024-2026 was head of safety at the US gov's AI agency (now called CAISSI)\n\n(Video is from 'The Hinton Lectures' there's another on tonight and tomorrow.)",
+    "links": {
+     "https://t.co/woQkjL6IHA": ""
+    },
+    "media": [
+     {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2120189111625515008/img/XLjwviwZ7fTu0NSR.jpg"
+     }
+    ],
+    "url": "https://x.com/robertwiblin/status/2120192315247722700",
+    "created_at": "Tue Nov 10 16:30:13 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120192315247722700": {
+   "id": "2120192315247722700",
+   "url": "https://x.com/robertwiblin/status/2120192315247722700",
+   "text": "Paul Christiano (OpenAI board member) yesterday:\n\n\"There's material risk of AI takeover in the next 6-12 months.\n\nWe have seen roughly the things we might expect to see shortly before something really bad were to happen.\n\nEven with [any] realistic policy responses, the risk remains exceptionally high.\n\nIf we build this as quickly as we can in the easiest way we can the chance is [more like] a coin flip [within the next 3 years].\n\nFor most people in this room, the most likely reason they will die is because of an AI accident.\"\n\nChristiano:\n\n• Is on OpenAI's safety and security committee (which exists to block risky practices)\n• Co-invented RLHF at OpenAI back in 2017-2021\n• From 2024-2026 was head of safety at the US gov's AI agency (now called CAISSI)\n\n(Video is from 'The Hinton Lectures' there's another on tonight and tomorrow.)",
+   "created_at": "Tue Nov 10 16:30:13 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 292,
+   "retweets": 64,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120189111625515008/img/XLjwviwZ7fTu0NSR.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/woQkjL6IHA": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "thread": [
+    {
+     "id": "2120194222758437028",
+     "author_handle": "robertwiblin",
+     "author_name": "Rob Wiblin",
+     "text": "Clip is from around minute 14 here: https://t.co/omi02NRVUD",
+     "links": {
+      "https://t.co/omi02NRVUD": "https://www.youtube.com/live/-Ef0ocEoBCs"
+     },
+     "media": [],
+     "url": "https://x.com/robertwiblin/status/2120194222758437028",
+     "created_at": "Tue Nov 10 16:37:48 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120178494457950285": {
+   "id": "2120178494457950285",
+   "url": "https://x.com/robertwiblin/status/2120178494457950285",
+   "text": "On track for saturation of the remote labour index by April 2027. (Real ~30h tasks from Upwork, human-graded.) https://t.co/1ndFqZtX0k",
+   "created_at": "Tue Nov 10 15:35:18 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ben_j_todd",
+   "rt_author_name": "Benjamin Todd",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2040061061106212864/pVZPxNCv_normal.jpg",
+   "rt_id": "2120142883101503796",
+   "likes": 230,
+   "retweets": 15,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWxCLPlWoAAcbio.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWxCLPlWoAAcbio.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/1ndFqZtX0k": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "enriched": 3
+  },
+  "2120178333791220070": {
+   "id": "2120178333791220070",
+   "url": "https://x.com/robertwiblin/status/2120178333791220070",
+   "text": "Anthropic has confirmed in an updated S-1 today that it has determined that the Autonomy 2 capability threshold has been met, based on the “dramatic acceleration of overall AI R&D progress” condition, given that it applies where Anthropic \"observes or expects\" accelerated progress. Anthropic further states that it does not make this determination based on current models.\n\nhttps://t.co/HdbiIM0nGk",
+   "created_at": "Tue Nov 10 15:34:40 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "theobearman",
+   "rt_author_name": "Theo Bearman",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "rt_id": "2120124069806756238",
+   "likes": 398,
+   "retweets": 41,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWww6EuXYAABD4D.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWwxICCXgAAa0eE.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/HdbiIM0nGk": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm#i199fd6a8a0664d5da497db9a78cf0452_55",
+    "https://t.co/XOqrk6Vkpm": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T18:40:37.280208+00:00",
+   "enriched": 3
   }
  }
 }
