@@ -8891,6 +8891,51 @@
     "created_at": "Tue Nov 10 14:45:28 +0000 2026"
    },
    "enriched": 3
+  },
+  "2120231260845129734": {
+   "id": "2120231260845129734",
+   "url": "https://x.com/theobearman/status/2120231260845129734",
+   "text": "Paul Christiano (OpenAI board member) yesterday:\n\n\"There's material risk of AI takeover in the next 6-12 months.\n\nWe have seen roughly the things we might expect to see shortly before something really bad were to happen.\n\nEven with [any] realistic policy responses, the risk remains exceptionally high.\n\nIf we build this as quickly as we can in the easiest way we can the chance is [more like] a coin flip [within the next 3 years].\n\nFor most people in this room, the most likely reason they will die is because of an AI accident.\"\n\nChristiano:\n\n• Is on OpenAI's safety and security committee (which exists to block risky practices)\n• Co-invented RLHF at OpenAI back in 2017-2021\n• From 2024-2026 was head of safety at the US gov's AI agency (now called CAISSI)\n\n(Video is from 'The Hinton Lectures' there's another on tonight and tomorrow.)",
+   "created_at": "Tue Nov 10 19:04:59 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "robertwiblin",
+   "rt_author_name": "Rob Wiblin",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "rt_id": "2120192315247722700",
+   "likes": 585,
+   "retweets": 120,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120189111625515008/img/XLjwviwZ7fTu0NSR.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/woQkjL6IHA": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T21:18:32.077695+00:00",
+   "thread": [
+    {
+     "id": "2120194222758437028",
+     "author_handle": "robertwiblin",
+     "author_name": "Rob Wiblin",
+     "text": "Clip is from around minute 14 here: https://t.co/omi02NRVUD",
+     "links": {
+      "https://t.co/omi02NRVUD": "https://www.youtube.com/live/-Ef0ocEoBCs"
+     },
+     "media": [],
+     "url": "https://x.com/robertwiblin/status/2120194222758437028",
+     "created_at": "Tue Nov 10 16:37:48 +0000 2026"
+    }
+   ],
+   "enriched": 3
   }
  }
 }

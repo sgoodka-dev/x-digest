@@ -1908,6 +1908,73 @@
      "created_at": "Wed Nov 04 16:34:05 +0000 2026"
     }
    ]
+  },
+  "2120236102028255566": {
+   "id": "2120236102028255566",
+   "url": "https://x.com/Lewis_Bollard/status/2120236102028255566",
+   "text": "Years ago I worked on campaigns against cockfighting. The cockfighters always said their birds were the lucky ones: well fed, safe from predators, and free to exercise.\n\nThe irony is that this is far truer of fighting birds than of the chickens we eat.\n\nFighting birds are conditioned like athletes. The chickens we eat are packed too tightly to move, and bred to grow so fast that many can barely walk.\n\nFighting birds are fed well. The parents of the chickens we eat are kept hungry their whole lives — or they’d grow too big to survive.\n\nFighting birds live a year or two, mostly outdoors. The chickens we eat live six weeks in a warehouse, many with blistered skin, lame legs, and failing hearts.\n\nFighting birds do die gruesome deaths. The chickens we eat often do too.\n\nCockfighting is now illegal in all 50 states. Treating the chickens we eat this way is not yet illegal anywhere.",
+   "created_at": "Tue Nov 10 19:24:13 +0000 2026",
+   "author_handle": "Lewis_Bollard",
+   "author_name": "Lewis Bollard",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1945502946910699520/AxOdmQGI_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 81,
+   "retweets": 10,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2120222755341943090",
+    "author_name": "Spacefarer",
+    "links": {},
+    "author": "KTlge2",
+    "text": "@dwarkeshpodcast @Lewis_Bollard A pig or chicken probably has the best life of any of its kind since its ancestors. \n\nFed everyday like clockwork. Never want for protection from natural predators. Parasites - no worse than what it will get from a natural life. \n\nExercise and general quality of life - excellent. We are what we eat. Why buy from farms that fail on this? \n\nSo - why make weird brainless meat? Stop being a fucking midwit."
+   },
+   "fetched_at": "2026-11-10T21:18:32.077695+00:00",
+   "enriched": 3
+  },
+  "2120231088438288479": {
+   "id": "2120231088438288479",
+   "url": "https://x.com/Lewis_Bollard/status/2120231088438288479",
+   "text": "@albrgr @tylercowen Does sacrificing utilitarianism really solve the trilemma? The trilemma seems to be driven by moral status and aggregation, neither of which is unique to utilitarianism.\n\nIn fact, Kantianism and contractualism might both give more weight to smart AIs, as they reward rational agency and the ability to contract / have bargaining power.\n\nI think you need to either just reject moral status for AIs, which feels arbitrary, or reject aggregation, which has its own problems.",
+   "created_at": "Tue Nov 10 19:04:18 +0000 2026",
+   "author_handle": "Lewis_Bollard",
+   "author_name": "Lewis Bollard",
+   "is_reply": true,
+   "reply_to": "albrgr",
+   "reply_to_id": "2119952235308466514",
+   "avatar": "https://pbs.twimg.com/profile_images/1945502946910699520/AxOdmQGI_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-10T21:18:32.077695+00:00",
+   "parent": {
+    "id": "2119952235308466514",
+    "author_handle": "albrgr",
+    "author_name": "Alexander Berger",
+    "text": "Of Patrick's trilemma I think the obv one to sacrifice is utilitarianism - IMO it's been clear for a long time that it is going to have really perverse conclusions when taken too far, and the interesting/hard question is what is \"too far.\" E.g. @tylercowen raised this critique here https://t.co/0jbyUB5HeA ; I also see this as a big part of the implicit argument here: https://t.co/Po5pWxN5o4",
+    "links": {
+     "https://t.co/0jbyUB5HeA": "https://conversationswithtyler.com/episodes/william-macaskill/#:~:text=just%20say%2C%20well%2C-,the%20utilitarian%20part%20of%20our%20calculations,-%E2%80%94%E2%80%8Ait%E2%80%99s%20embedded%20within",
+     "https://t.co/Po5pWxN5o4": "https://forum.effectivealtruism.org/posts/T975ydo3mx8onH3iS/ea-is-about-maximization-and-maximization-is-perilous"
+    },
+    "media": [],
+    "url": "https://x.com/albrgr/status/2119952235308466514",
+    "created_at": "Tue Nov 10 00:36:14 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

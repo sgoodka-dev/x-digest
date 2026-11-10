@@ -5597,6 +5597,107 @@
    "quoted": null,
    "fetched_at": "2026-11-10T18:40:37.280208+00:00",
    "enriched": 3
+  },
+  "2120257559924015333": {
+   "id": "2120257559924015333",
+   "url": "https://x.com/DKokotajlo/status/2120257559924015333",
+   "text": "I expect ~5 years of AI progress to happen in 2027 (50% CI: 3-15). That's a GPT-3 to Fable 5.2 / Model 4 equivalent jump, happening in a single year. Concretely this amount of progress seems likely to cause: \n> Full AI R&D automation (AI companies could fire all their employees without causing a slowdown)\n> A significant chance (~40%) of AIs that are better than humans at every cognitive tasks (e.g., via algorithms that learn extremely efficiently compared to today's)\n> An AI incident much worse than Hugging Face (>$1B in damages, >50 deaths)\n> An unacceptable risk of irreversible AI takeover being incurred by actions taken in 2027, i.e., a ~20% chance we cross a 'point of no return' during 2027, that locks in a ~10% chance of human extinction over the next 10 years.",
+   "created_at": "Tue Nov 10 20:49:29 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "romeovdean",
+   "rt_author_name": "Romeo Dean",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2057987920053833728/55MnVOKE_normal.jpg",
+   "rt_id": "2120254031960723690",
+   "likes": 50,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWygjrxbIAE2BJI.png"
+    }
+   ],
+   "links": {
+    "https://t.co/fOK4y8bX4P": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T21:18:32.077695+00:00",
+   "enriched": 3
+  },
+  "2120243764233224515": {
+   "id": "2120243764233224515",
+   "url": "https://x.com/DKokotajlo/status/2120243764233224515",
+   "text": "I just unraveled the biggest AI astroturfing campaign I’ve found yet.\n\nI found hundreds of fake accounts posing as Americans. The operation traces back to a supposedly defunct Israeli influence company.\n\nThey posted thousands of times in the last year to support Nvidia, back chip exports and data centers, attack U.S. lawmakers, and dismiss concerns about AI.\n\nWhen it broke that Jensen Huang, Nvidia's CEO, was romantically involved with an alleged spy (who runs a company accused of chip diversion and whom US officials believe was passing information to Beijing), dozens of these accounts rushed to Jensen’s defense.\n\nThese accounts have targeted people pushing for export controls that ensure advanced chips aren’t going to China. Chris McGuire, a former White House national security official, got more than 100 replies from the astroturf network attacking him and his position on chips. Lawmakers who criticized the chip sales were called “peabrains” and “pure evil,” and accused of spreading “anti-Trump propaganda.”\n\nThroughout this yearlong pro-Nvidia campaign, the operators have been hiding their tracks. They quietly deleted nearly two-thirds of the pro-Nvidia posts that we found, something they seem to do for many of their campaigns.\n\nThese accounts have spent years running campaigns that appear to serve the interests of corporate and political clients — most recently supporting the Rapid Support Forces in Sudan’s civil war, a group the U.S. government has accused of genocide.\n\nMany of them trace back to a supposedly defunct Israeli influence company, Koios. In 2025, Haaretz reported that Koios helped run a covert pro-Qatar campaign devised by aides to Benjamin Netanyahu. While Koios claims to have ceased operations in 2025, it looks to me that many of its associated people and accounts moved their work to a new company, IntellACT, that spun up just as the old one shuttered.\n\nNvidia told me it has no relationship with the Israeli team linked to these accounts, and that while it has recently become aware of the operation, it is also trying to find out who is behind it. So, who is funding a yearlong campaign to shape one of the most important policy fights in history? I’m not sure, but I think it deserves a formal investigation. And Congress has that power.\n\nRead my full article:\n\nhttps://t.co/ATwWhw5BVD",
+   "created_at": "Tue Nov 10 19:54:40 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "tyler_johnston",
+   "rt_author_name": "Tyler Johnston",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1891936449336881152/p4mtE7-8_normal.jpg",
+   "rt_id": "2120213276567154924",
+   "likes": 168,
+   "retweets": 31,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWyCsOlbsAAyowZ.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/ATwWhw5BVD": "https://x.com/TheMidasProj/status/2120212290385707321",
+    "https://t.co/XWNQDVeVfZ": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-10T21:18:32.077695+00:00",
+   "linked": [
+    {
+     "id": "2120212290385707321",
+     "author_handle": "TheMidasProj",
+     "author_name": "The Midas Project",
+     "text": "https://t.co/2r0O8eX7s8",
+     "links": {
+      "https://t.co/2r0O8eX7s8": "https://x.com/i/article/2120205498826002432"
+     },
+     "media": [],
+     "url": "https://x.com/TheMidasProj/status/2120212290385707321",
+     "created_at": "Tue Nov 10 17:49:36 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120243399169388937": {
+   "id": "2120243399169388937",
+   "url": "https://x.com/DKokotajlo/status/2120243399169388937",
+   "text": "We at AIFP have made a big update towards shorter timelines: all of our medians for superhuman AI researcher (SAR) are now between May and Nov 2027.\n\nThat being said: the state of public evidence on AI timelines is inadequate. Most of the evidence from the recent METR report was redacted. So we're reading the tea leaves. \n\nAI companies should (1) release way more evidence about timelines and (2) actually start pacing the frontier, especially if the timelines are as short as we think.",
+   "created_at": "Tue Nov 10 19:53:13 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "thlarsen",
+   "rt_author_name": "Thomas Larsen",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2075083315468734464/Y0RF7vaZ_normal.jpg",
+   "rt_id": "2120207830787719410",
+   "likes": 223,
+   "retweets": 22,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-10T21:18:32.077695+00:00",
+   "enriched": 3
   }
  }
 }
