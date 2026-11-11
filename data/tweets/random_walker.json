@@ -3761,6 +3761,82 @@
    "quoted": null,
    "fetched_at": "2026-11-11T14:32:23.483452+00:00",
    "enriched": 3
+  },
+  "2120582011005849939": {
+   "id": "2120582011005849939",
+   "url": "https://x.com/random_walker/status/2120582011005849939",
+   "text": "I agree, but this only makes the policy response harder, because a blanket ban on AI companions for teens is unlikely to be a good solution. The menu of responses is too blunt, and there's not enough thinking on how to incentive pro-social design of chatbots.\nhttps://t.co/LUu61Lw5Dr",
+   "created_at": "Wed Nov 11 18:18:44 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": true,
+   "reply_to": "random_walker",
+   "reply_to_id": "2120496187333595470",
+   "avatar": "https://pbs.twimg.com/profile_images/1650881612756942850/bZYjMyFU_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/LUu61Lw5Dr": "https://x.com/holmesjtg/status/2120553769075171708"
+   },
+   "quoted": {
+    "id": "2120553769075171708",
+    "author_name": "Jeff Holmes",
+    "links": {},
+    "author": "holmesjtg",
+    "text": "@random_walker I have a different take, which might be wrong. But I think having conversations with well-aligned models can be a net positive. I do a lot of work with characters mainly in the education space, and my sense is that AI interactions can actually improve conversations and even relationships with other humans. This can come from improvements in empathy and confidence."
+   },
+   "fetched_at": "2026-11-11T18:42:14.862503+00:00",
+   "parent": {
+    "id": "2120496187333595470",
+    "author_handle": "random_walker",
+    "author_name": "Arvind Narayanan",
+    "text": "There have been awful cases of teen mental health harms and suicides from chatbots like GPT-4o and Character AI that were sycophantic and misbehaving. But these were all text-based, and extremely rudimentary as “companions”. I’ve talked to many people trying to hold the industry to account for teen safety and almost none are thinking about the coming wave. Completely realistic video avatars are already here, but expensive today and limited to enterprise applications. Within a year or two they will be cheap enough for always-on, ad-supported video companions. What happens then?   \n\nUptake of AI companions will likely explode — not just the number of users but, more importantly, the time spent per day. Social media levels of compulsive use. I also predict the whole framework of guardrails and safety will prove to be of limited value at dealing with the most widespread negative consequences. Preventing chatbot misbehavior through guardrails is important, but that only protects against serious consequences like self-harm. When the concern is that millions of kids (and adults) are overusing AI companions, losing sleep, wasting time, and displacing real relationships, it doesn’t matter how “safe” the bots' responses are.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/random_walker/status/2120496187333595470",
+    "created_at": "Wed Nov 11 12:37:42 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120531398184321414": {
+   "id": "2120531398184321414",
+   "url": "https://x.com/random_walker/status/2120531398184321414",
+   "text": "@joshua_saxe All this makes sense! Perhaps I'm underestimating the difficulty of crossing the uncanny valley. (It will eventually be crossed, though! Now is the time to prepare.)\n\nOn 3), I agree that it's mostly just a matter of ad revenues being too small, which is why I think the cost of video avatars need to drop a lot before they are widespread on the consumer side.",
+   "created_at": "Wed Nov 11 14:57:37 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": true,
+   "reply_to": "joshua_saxe",
+   "reply_to_id": "2120524341355982865",
+   "avatar": "https://pbs.twimg.com/profile_images/1650881612756942850/bZYjMyFU_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T18:42:14.862503+00:00",
+   "parent": {
+    "id": "2120524341355982865",
+    "author_handle": "joshua_saxe",
+    "author_name": "Joshua Saxe",
+    "text": "@random_walker Thanks, Arvind.  I think you've studied and thought about this way more than I have.\n\nOn 1), I agree.  That said, I'm a marathon runner who interacts with ChatGPT Voice for hours every week while running, discussing work, research, and personal topics, and I do think it's in the uncanny valley in terms of its understanding of me and my mental and emotional state.  This might not bother some people, but it bothers me; I feel like I'm talking to a machine, not a conscious being, and a machine that has random bouts of amnesia at that.\n\nOn 2), I actually disagree that we've solved the technical problem that I'm describing in 1).  ChatGPT Voice is very sophisticated (OpenAI had a good blog post about its design), and I think it incorporates the capabilities you're referring to; it's still not good enough for me to 'bond' with it.  That said, I'm n=1, and clearly more than zero people are actually bonding with chatbots (I'm not clear on the numbers here and how often this becomes compulsive/pathological; perhaps you are).\n\nOn 3), I totally agree and think pathological human-chatbot bonds are inevitable and a big concern.  To the extent that this isn't happening and the industry isn't making technical progress towards this, I wonder if this is just due to business dynamics.  Anthropic has proven out the enterprise-focused business model, but OpenAI hasn't yet proven the consumer ad-supported business model.  I'd expect that a flywheel around (unfortunate) progress in affectively addicting users to their chatbots will emerge as OpenAI, Meta, or other businesses figure this out.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/joshua_saxe/status/2120524341355982865",
+    "created_at": "Wed Nov 11 14:29:35 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

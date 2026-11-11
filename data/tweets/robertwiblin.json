@@ -8700,6 +8700,391 @@
    "quoted": null,
    "fetched_at": "2026-11-11T14:32:23.483452+00:00",
    "enriched": 3
+  },
+  "2120587933577359796": {
+   "id": "2120587933577359796",
+   "url": "https://x.com/robertwiblin/status/2120587933577359796",
+   "text": "Here's the Gallup polling showing an 8:1 ratio: \n\nhttps://t.co/t5bKMhbxgU https://t.co/gBtbG0vZoG",
+   "created_at": "Wed Nov 11 18:42:16 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2120584564414525726",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW3XYKZWwAAoHqJ.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW3XYKZWwAAoHqJ.png"
+    }
+   ],
+   "links": {
+    "https://t.co/t5bKMhbxgU": "https://news.gallup.com/poll/694685/americans-prioritize-safety-data-security.aspx",
+    "https://t.co/gBtbG0vZoG": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T18:42:14.862503+00:00",
+   "parent": {
+    "id": "2120584564414525726",
+    "author_handle": "robertwiblin",
+    "author_name": "Rob Wiblin",
+    "text": "Jensen and Sacks argue we have to frantically race to beat China in AI.\n\nBut they've also done more than anyone to help China take computer chips away from US companies.\n\nAnd having caused the problem they sell us the solution: we also have to buy more of Jensen's Nvidia chips.\n\nPlus, having actively weakened our lead in AI, they argue we have no choice but to train superhuman AI models at the first opportunity.\n\nEven though we barely understand them, and the US public believes they should be prohibited or slowed down by a ratio of 8:1 - even after it's pointed out that could mean China catching up.\n\nMy colleague Luisa breaks down how China gets its chips and how much distillation of US models matters in her latest video - links below.\n\nHere's a few highlights:",
+    "links": {
+     "https://t.co/Z68HCcpo7g": ""
+    },
+    "media": [
+     {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2120582484781879296/img/yWlqJ0txx3RG9Iq_.jpg"
+     }
+    ],
+    "url": "https://x.com/robertwiblin/status/2120584564414525726",
+    "created_at": "Wed Nov 11 18:28:53 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120587413378715846": {
+   "id": "2120587413378715846",
+   "url": "https://x.com/robertwiblin/status/2120587413378715846",
+   "text": "YouTube: https://t.co/zVjjT9ukGR \n\nSubstack: https://t.co/6vHtI9H2bf https://t.co/QVoaq88QFK",
+   "created_at": "Wed Nov 11 18:40:12 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2120584564414525726",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW3W9fSWYAAmzPE.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW3W9fSWYAAmzPE.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/zVjjT9ukGR": "https://youtube.com/watch?v=s5WNy6X_2FI",
+    "https://t.co/6vHtI9H2bf": "https://80000hours.substack.com/p/chinas-ai-runs-on-american-chips",
+    "https://t.co/QVoaq88QFK": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T18:42:14.862503+00:00",
+   "parent": {
+    "id": "2120584564414525726",
+    "author_handle": "robertwiblin",
+    "author_name": "Rob Wiblin",
+    "text": "Jensen and Sacks argue we have to frantically race to beat China in AI.\n\nBut they've also done more than anyone to help China take computer chips away from US companies.\n\nAnd having caused the problem they sell us the solution: we also have to buy more of Jensen's Nvidia chips.\n\nPlus, having actively weakened our lead in AI, they argue we have no choice but to train superhuman AI models at the first opportunity.\n\nEven though we barely understand them, and the US public believes they should be prohibited or slowed down by a ratio of 8:1 - even after it's pointed out that could mean China catching up.\n\nMy colleague Luisa breaks down how China gets its chips and how much distillation of US models matters in her latest video - links below.\n\nHere's a few highlights:",
+    "links": {
+     "https://t.co/Z68HCcpo7g": ""
+    },
+    "media": [
+     {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2120582484781879296/img/yWlqJ0txx3RG9Iq_.jpg"
+     }
+    ],
+    "url": "https://x.com/robertwiblin/status/2120584564414525726",
+    "created_at": "Wed Nov 11 18:28:53 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120584564414525726": {
+   "id": "2120584564414525726",
+   "url": "https://x.com/robertwiblin/status/2120584564414525726",
+   "text": "Jensen and Sacks argue we have to frantically race to beat China in AI.\n\nBut they've also done more than anyone to help China take computer chips away from US companies.\n\nAnd having caused the problem they sell us the solution: we also have to buy more of Jensen's Nvidia chips.\n\nPlus, having actively weakened our lead in AI, they argue we have no choice but to train superhuman AI models at the first opportunity.\n\nEven though we barely understand them, and the US public believes they should be prohibited or slowed down by a ratio of 8:1 - even after it's pointed out that could mean China catching up.\n\nMy colleague Luisa breaks down how China gets its chips and how much distillation of US models matters in her latest video - links below.\n\nHere's a few highlights:",
+   "created_at": "Wed Nov 11 18:28:53 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 17,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120582484781879296/img/yWlqJ0txx3RG9Iq_.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/Z68HCcpo7g": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T18:42:14.862503+00:00",
+   "thread": [
+    {
+     "id": "2120587413378715846",
+     "author_handle": "robertwiblin",
+     "author_name": "Rob Wiblin",
+     "text": "YouTube: https://t.co/zVjjT9ukGR \n\nSubstack: https://t.co/6vHtI9H2bf https://t.co/QVoaq88QFK",
+     "links": {
+      "https://t.co/zVjjT9ukGR": "https://youtube.com/watch?v=s5WNy6X_2FI",
+      "https://t.co/6vHtI9H2bf": "https://80000hours.substack.com/p/chinas-ai-runs-on-american-chips",
+      "https://t.co/QVoaq88QFK": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW3W9fSWYAAmzPE.jpg"
+      }
+     ],
+     "url": "https://x.com/robertwiblin/status/2120587413378715846",
+     "created_at": "Wed Nov 11 18:40:12 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120564540685295796": {
+   "id": "2120564540685295796",
+   "url": "https://x.com/robertwiblin/status/2120564540685295796",
+   "text": "Fable 5.2 Max is lukewarm on this approach: https://t.co/WctGdbVDK9",
+   "created_at": "Wed Nov 11 17:09:19 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2120543157016510495",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW3CMwZWQAArl3i.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW3CMwZWQAArl3i.png"
+    }
+   ],
+   "links": {
+    "https://t.co/WctGdbVDK9": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T18:42:14.862503+00:00",
+   "parent": {
+    "id": "2120543157016510495",
+    "author_handle": "robertwiblin",
+    "author_name": "Rob Wiblin",
+    "text": "Holy moly:\n\nCalifornia (or another state) could overrule Sherman Act Anti-trust rules and permit the AI companies to coordinate to set industry wide safety standards and hold back releases until they're met!\n\nhttps://t.co/FPwY5wycfh https://t.co/khxIBK6PmT",
+    "links": {
+     "https://t.co/FPwY5wycfh": "https://www.justsecurity.org/158956/any-state-ai-safety-cooperation-legal/",
+     "https://t.co/khxIBK6PmT": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HW2ui6SXsAIhHbR.png"
+     }
+    ],
+    "url": "https://x.com/robertwiblin/status/2120543157016510495",
+    "created_at": "Wed Nov 11 15:44:21 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120543157016510495": {
+   "id": "2120543157016510495",
+   "url": "https://x.com/robertwiblin/status/2120543157016510495",
+   "text": "Holy moly:\n\nCalifornia (or another state) could overrule Sherman Act Anti-trust rules and permit the AI companies to coordinate to set industry wide safety standards and hold back releases until they're met!\n\nhttps://t.co/FPwY5wycfh https://t.co/khxIBK6PmT",
+   "created_at": "Wed Nov 11 15:44:21 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 144,
+   "retweets": 16,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW2ui6SXsAIhHbR.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW2ui6SXsAIhHbR.png"
+    }
+   ],
+   "links": {
+    "https://t.co/FPwY5wycfh": "https://www.justsecurity.org/158956/any-state-ai-safety-cooperation-legal/",
+    "https://t.co/khxIBK6PmT": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T18:42:14.862503+00:00",
+   "thread": [
+    {
+     "id": "2120564540685295796",
+     "author_handle": "robertwiblin",
+     "author_name": "Rob Wiblin",
+     "text": "Fable 5.2 Max is lukewarm on this approach: https://t.co/WctGdbVDK9",
+     "links": {
+      "https://t.co/WctGdbVDK9": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW3CMwZWQAArl3i.png"
+      }
+     ],
+     "url": "https://x.com/robertwiblin/status/2120564540685295796",
+     "created_at": "Wed Nov 11 17:09:19 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120540984773648885": {
+   "id": "2120540984773648885",
+   "url": "https://x.com/robertwiblin/status/2120540984773648885",
+   "text": "There are a lot of excellent insights from Paul Christiano on night 2 of the Hinton Lectures, but I want to drive home that “Very smart AI could be hard to shut down”:\n\nAs Paul notes we’re in a dangerous situation with respect to how the USG could plan (much less execute!) a coordinated shut down of an attack from a very smart AI, particularly without being able to attribute “who” or “what” may have initiated it. \n\nhttps://t.co/Rbe80oS7TG",
+   "created_at": "Wed Nov 11 15:35:43 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "JustinBullock14",
+   "rt_author_name": "Justin Bullock",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2038097312111845376/myApcw5R_normal.jpg",
+   "rt_id": "2120358634655781145",
+   "likes": 15,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW0G8OxXQAAVRNY.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/Rbe80oS7TG": "https://www.youtube.com/live/QQUfMHx5Aug?is=tTFhBR6PhRA097pF",
+    "https://t.co/oS7rBuQer3": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T18:42:14.862503+00:00",
+   "enriched": 3
+  },
+  "2120540585480331282": {
+   "id": "2120540585480331282",
+   "url": "https://x.com/robertwiblin/status/2120540585480331282",
+   "text": "AI companies can’t be left to police themselves.\n\nThat’s why New York is launching the nation’s first state-led effort to independently test AI systems, identify risks and hold Big Tech accountable.\n\nJoin us live: https://t.co/19mbSBm6Vx",
+   "created_at": "Wed Nov 11 15:34:07 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "GovKathyHochul",
+   "rt_author_name": "Governor Kathy Hochul",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2118781695394508800/jFYYFyL4_normal.jpg",
+   "rt_id": "2120188528311288233",
+   "likes": 268,
+   "retweets": 51,
+   "media": [],
+   "links": {
+    "https://t.co/19mbSBm6Vx": "https://www.youtube.com/watch?v=Q0xjRecdwRI"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T18:42:14.862503+00:00",
+   "enriched": 3
+  },
+  "2120534362106277951": {
+   "id": "2120534362106277951",
+   "url": "https://x.com/robertwiblin/status/2120534362106277951",
+   "text": "AI companies admit what they’re building might kill everyone. We don't have to agree to this.\n\nAdd your name at https://t.co/Pcg0clMbfV to say: we do not accept your terms. https://t.co/M1w9qelvhn",
+   "created_at": "Wed Nov 11 15:09:24 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "DONOTACCEPTai",
+   "rt_author_name": "Do Not Accept",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2119834812202577920/0rI1GOd1_normal.jpg",
+   "rt_id": "2119875570305479056",
+   "likes": 2109,
+   "retweets": 1041,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2119870778178936832/img/Mi4FtxP_-uJOw2LN.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2119870778178936832/img/Mi4FtxP_-uJOw2LN.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/Pcg0clMbfV": "https://donotaccept.ai",
+    "https://t.co/M1w9qelvhn": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T18:42:14.862503+00:00",
+   "enriched": 3
+  },
+  "2120532434508722343": {
+   "id": "2120532434508722343",
+   "url": "https://x.com/robertwiblin/status/2120532434508722343",
+   "text": "Many capabilities people I've talked to in the past said \"eventually I'll transition to safety\". I think \"eventually\" is now at the latest (probably more like 2024).\n\nI think every lab should have an internal program that enables capability folks to do useful work on safety.",
+   "created_at": "Wed Nov 11 15:01:44 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "MariusHobbhahn",
+   "rt_author_name": "Marius Hobbhahn",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1869511726552494080/F0D8HNja_normal.jpg",
+   "rt_id": "2120082201882632226",
+   "likes": 144,
+   "retweets": 7,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T18:42:14.862503+00:00",
+   "enriched": 3
   }
  }
 }

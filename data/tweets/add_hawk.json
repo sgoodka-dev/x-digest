@@ -1703,6 +1703,40 @@
    "media": [],
    "quoted": null,
    "fetched_at": "2026-11-05T18:45:11.192238+00:00"
+  },
+  "1804236362960507159": {
+   "id": "1804236362960507159",
+   "url": "https://x.com/add_hawk/status/1804236362960507159",
+   "text": "If you’ve ever wondered why we can’t build places that look like Italian hilltop towns, one of the reasons is Edwardian prudes. https://t.co/EtE3GzJkmG",
+   "created_at": "Fri Jun 21 19:34:04 +0000 2024",
+   "author_handle": "add_hawk",
+   "author_name": "C Thi Nguyen",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1105226423097188352/DLjYczrw_normal.png",
+   "is_retweet": true,
+   "rt_author": "jordanbhx",
+   "rt_author_name": "Jordan",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1980344504876986368/Ftn_RJX8_normal.jpg",
+   "rt_id": "1803754882928677136",
+   "likes": 2236,
+   "retweets": 367,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GQg5f-oX0AAnB4k.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GQg5f-oX0AAnB4k.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/EtE3GzJkmG": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T18:42:14.862503+00:00"
   }
  }
 }

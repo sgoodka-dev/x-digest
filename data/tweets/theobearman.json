@@ -9225,6 +9225,168 @@
    "quoted": null,
    "fetched_at": "2026-11-11T14:32:23.483452+00:00",
    "enriched": 3
+  },
+  "2120551814290452544": {
+   "id": "2120551814290452544",
+   "url": "https://x.com/theobearman/status/2120551814290452544",
+   "text": "1/ 🧵 New @CSETGeorgetown report! I analyzed 2,000+ open-source PLA requests for proposal (Oct 2022–Dec 2025) to see what kinds of 🤖 robots 🤖 the Chinese military is buying.\n\nShort version: there’s way more than humanoids. https://t.co/bYT9Qxy2aN",
+   "created_at": "Wed Nov 11 16:18:45 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "SamBresnick",
+   "rt_author_name": "Sam Bresnick",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1960438625482477568/koI8s55I_normal.jpg",
+   "rt_id": "2120549346957574597",
+   "likes": 35,
+   "retweets": 14,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW20ZKRWMAEDGdr.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW20ZKRWMAEDGdr.png"
+    }
+   ],
+   "links": {
+    "https://t.co/bYT9Qxy2aN": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T18:42:14.862503+00:00",
+   "thread": [
+    {
+     "id": "2120549349088178542",
+     "author_handle": "SamBresnick",
+     "author_name": "Sam Bresnick",
+     "text": "2/ The breadth of experimentation is striking. Ground robots for recon, comms relay, minesweeping, ordnance disposal, and even “personnel capture.” Maritime robots for search and rescue, seabed surveys, and targeting. Space robots, including some with clear orbital warfare uses.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/SamBresnick/status/2120549349088178542",
+     "created_at": "Wed Nov 11 16:08:57 +0000 2026"
+    },
+    {
+     "id": "2120549353857183863",
+     "author_handle": "SamBresnick",
+     "author_name": "Sam Bresnick",
+     "text": "3/ Despite the humanoid hype, quadrupeds dominate the dataset, including products from Unitree and DEEP Robotics. Robot dog RFPs rose steadily, with 2025 seeing by far the most. Humanoid and exoskeleton requests ticked up in 2025 but remain only a handful. https://t.co/yTogXqvNv7",
+     "links": {
+      "https://t.co/yTogXqvNv7": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW20ZjEW4AA17Li.jpg"
+      }
+     ],
+     "url": "https://x.com/SamBresnick/status/2120549353857183863",
+     "created_at": "Wed Nov 11 16:08:58 +0000 2026"
+    },
+    {
+     "id": "2120549356764008838",
+     "author_handle": "SamBresnick",
+     "author_name": "Sam Bresnick",
+     "text": "4/ The specs are more modest than propaganda videos suggest. Most robot dogs: 12–15 kg, 2–5 m/s (max  around 11 mph), 2–4 hours endurance. Most RFPs call for human-controlled systems. Where autonomy appears, it’s mostly for navigation: SLAM, path planning, and obstacle avoidance.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/SamBresnick/status/2120549356764008838",
+     "created_at": "Wed Nov 11 16:08:59 +0000 2026"
+    },
+    {
+     "id": "2120549359397798189",
+     "author_handle": "SamBresnick",
+     "author_name": "Sam Bresnick",
+     "text": "5/ Some of the more eye-catching requests:\n-Robots with lasers for ordnance destruction\n-Undersea systems that use robotic arms to place  “destruction devices” on targets\n-Devices to “capture” small satellites\n-Robot dogs that sample the air for bioaerosols",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/SamBresnick/status/2120549359397798189",
+     "created_at": "Wed Nov 11 16:08:59 +0000 2026"
+    },
+    {
+     "id": "2120549360861610137",
+     "author_handle": "SamBresnick",
+     "author_name": "Sam Bresnick",
+     "text": "6/ On software: requests for swarm simulators, manned-unmanned teaming tech, LLM-equipped robots, a “robotic cloud brain” command center, and brain-computer interfaces, including one to use EEG signals to control robots.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/SamBresnick/status/2120549360861610137",
+     "created_at": "Wed Nov 11 16:09:00 +0000 2026"
+    },
+    {
+     "id": "2120549362245771280",
+     "author_handle": "SamBresnick",
+     "author_name": "Sam Bresnick",
+     "text": "7/ Caveat: We don't know whether the tech actually works as specified, and it's unclear from our dataset whether the PLA successfully acquires and adopts the systems it wants to purchase. That said, these documents reveal PLA interest areas and potential priorities.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/SamBresnick/status/2120549362245771280",
+     "created_at": "Wed Nov 11 16:09:00 +0000 2026"
+    },
+    {
+     "id": "2120549363592085862",
+     "author_handle": "SamBresnick",
+     "author_name": "Sam Bresnick",
+     "text": "8/ Takeaways: sensors, navigation, and software may matter as much as hardware for the PLA’s robotics push. And because the PLA sources systems from firms like Unitree, China’s commercial robotics sector is a leading indicator of future PLA capability.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/SamBresnick/status/2120549363592085862",
+     "created_at": "Wed Nov 11 16:09:00 +0000 2026"
+    },
+    {
+     "id": "2120549365840588836",
+     "author_handle": "SamBresnick",
+     "author_name": "Sam Bresnick",
+     "text": "9/ There’s also evidence some requested platforms include tech from U.S. and allied firms. The U.S. should explore whether Entity List additions for certain Chinese robotics companies would keep U.S. sensors and chips out of their supply chains.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/SamBresnick/status/2120549365840588836",
+     "created_at": "Wed Nov 11 16:09:01 +0000 2026"
+    },
+    {
+     "id": "2120549368097095784",
+     "author_handle": "SamBresnick",
+     "author_name": "Sam Bresnick",
+     "text": "10/ Full report: \n\nhttps://t.co/F1k1tr9Mzl",
+     "links": {
+      "https://t.co/F1k1tr9Mzl": "https://cset.georgetown.edu/publication/the-plas-push-for-military-robotics/"
+     },
+     "media": [],
+     "url": "https://x.com/SamBresnick/status/2120549368097095784",
+     "created_at": "Wed Nov 11 16:09:01 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120548459380142351": {
+   "id": "2120548459380142351",
+   "url": "https://x.com/theobearman/status/2120548459380142351",
+   "text": "I’m very pleased to introduce AlphaGenome 2, @GoogleDeepMind’s next-generation genomics model that deciphers how DNA changes affect cells.\n\nCells are the basic units of life and key to our understanding of biology. It is an ongoing challenge to predict how DNA changes affect the functioning of different cells, such as for a heart muscle cell or an immune cell fighting an infection, and to uncover cellular drivers of disease.\n\nTo make progress on this challenge, we needed to design the architecture of AlphaGenome 2 so its predictions were conditional on cell types and states. This new design enables AlphaGenome 2 to predict variant effects across hundreds of human cell types and adapt to unseen cell and disease states without retraining.\n\nWhen evaluated on the TenK10K immune cell dataset, AlphaGenome 2 demonstrated a major leap in accuracy over its predecessor. It reliably identified nearly twice as many causal variants (30% vs. 16%) and directional gene effects (43% vs. 23%) compared to the original AlphaGenome. This step-change improvement in precision helps researchers pinpoint previously overlooked disease-relevant variants with high confidence.\n\nUsing analysis on retrospective case studies, we were able to show AG2’s real world utility in disease understanding. A landmark study had previously shown that a variant in a distant regulatory switch drives irritable bowel disease by overactivating the ETS2 gene in gut macrophages. When used to make predictions across various immune cell types in the gut, AlphaGenome 2 singled out the exact causal variant and showed that it selectively boosts the ETS2 gene in gut macrophages, leaving other cell types and genes largely unaffected.\n\nI would like to thank my colleagues Adam Gayoso @adamgayoso, Žiga Avsec @Avsecz, and our entire genomics team for their incredible contributions and dedication to bringing this model to life.\n\nWe are making AlphaGenome 2 available for non-commercial academic research via the AlphaGenome API, and soon we will release AlphaGenome 2 Skills in Google Antigravity. I’m incredibly excited to see how scientists around the world use this model to make progress on biological understanding and treating disease.\n\nRead more on our blog here:\nhttps://t.co/87sB9oKRaK",
+   "created_at": "Wed Nov 11 16:05:25 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "pushmeet",
+   "rt_author_name": "Pushmeet Kohli",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/650718639784509440/yaRuXASm_normal.jpg",
+   "rt_id": "2120538525938418125",
+   "likes": 904,
+   "retweets": 105,
+   "media": [],
+   "links": {
+    "https://t.co/87sB9oKRaK": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T18:42:14.862503+00:00",
+   "enriched": 3
   }
  }
 }

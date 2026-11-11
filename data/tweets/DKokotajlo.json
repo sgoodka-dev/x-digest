@@ -6037,6 +6037,40 @@
     }
    ],
    "enriched": 3
+  },
+  "2120568169819688998": {
+   "id": "2120568169819688998",
+   "url": "https://x.com/DKokotajlo/status/2120568169819688998",
+   "text": "@davidchalmers42 @bshlgrs @ajeya_cotra @RyanGreenblatt I agree that there could be some such factor F, but at this point there's a long history of people positing various candidate F's and then being proven wrong pretty quickly. Back in the day for example people used to say that LLMs didn't have common sense world-understanding; more recently they said they lacked the ability to make genuinely novel contributions; now they say they lack research taste (but there's already evidence that research taste is increasing rapidly...) It would be helpful if you could name at least one specific candidate F and argue that it, specifically, is necessary for full AI R&D automation and won't be achieved for years. You mention creativity, research vision, and planning ability -- do you actually think any of those are serious candidates?",
+   "created_at": "Wed Nov 11 17:23:44 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "davidchalmers42",
+   "reply_to_id": "2120551211195642338",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 82,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T18:42:14.862503+00:00",
+   "parent": {
+    "id": "2120551211195642338",
+    "author_handle": "davidchalmers42",
+    "author_name": "David Chalmers",
+    "text": "a number of respected researchers (e.g. @DKokotajlo @bshlgrs @ajeya_cotra @RyanGreenblatt)  have suggested that the METR-documented ~2x speedup in AI progress at anthropic over the last year supports the hypothesis that there will be a near-term (e.g. 2027) intelligence explosion (IE). how exactly does this reasoning work?\n\none way to think about this: perhaps the leading alternative to the near-term IE hypothesis is what we might call the factor F hypothesis, which says that there's at least one key factor F [e.g. creativity, research vision, planning ability, ...] such that (i) high F is required for an AI system to reach the superhuman levels required for full-scale IE [e.g. ASI, artificial superhuman general intelligence or at least SAR, superhuman AI researcher], and (ii) F is so difficult to build into AI systems that leading AI systems won't have high F in the near term. i don't know whether the factor F hypothesis is true, but it's not obvious to me why the 2x speedup makes it much less likely. \n\nit's widely agreed that the 2x speedup reflects an even larger (perhaps 10x) speedup in other capacities G such as coding and experimentation.  under the F hypothesis, G could explode locally, leading to major progress in sub-AGI capacities without much progress in F (think of G as the easy part of AGI and F as the hard part). that tends to lead just to a weak form of recursive self-improvement (call it an intelligence subexplosion) below AGI levels.\n\nthe AI futures document responding to the METR report is usefully explicit about nearby issues. the authors report believing in a high-ish growth rate for \"research taste\" (AI research factors beyond coding and experimentation) relative to increases in general capacity. presumably they take potential Fs to be aspects of research taste that will grow fast too. but i don't really see where the evidence counts again a relatively-low-growth F hypothesis where F stays below threshold for years.  maybe one could argue that the explosion in G provides bayesian evidence against this F hypothesis (G's exploding is antecedently less likely under the F hypothesis than under its negation), but that's far from clear, and even if true there will remain a solid mass of credence under the F hypothesis.\n\nmaybe there are other reasons to reject the factor F hypothesis: e.g. because AI research is relevantly like math research, and AI math research is becoming superhuman already. but if we have reasons like that, the 2x speedup isn't really needed to make the case for near-term SAR and IE. maybe the 2x speedup could speed up an expected IE slightly from 2028 (two years away) to 2027 (one year away), and/or maybe it could be extrapolated into ever-faster speedups (another 2x in 6 months, 3 months, and so on) converging in 2027. but those are very different arguments that require huge premises to work. \n\nam i missing something here?  i'm curious to hear which evidential routes from 2x speedup to near-term IE people have in mind. \n\nN.B. i'm not saying you shouldn't worry about near-term ASI. i'm worried!",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/davidchalmers42/status/2120551211195642338",
+    "created_at": "Wed Nov 11 16:16:21 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

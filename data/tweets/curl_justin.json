@@ -2400,6 +2400,30 @@
    "quoted": null,
    "fetched_at": "2026-11-11T14:32:23.483452+00:00",
    "enriched": 3
+  },
+  "2120553133365776444": {
+   "id": "2120553133365776444",
+   "url": "https://x.com/curl_justin/status/2120553133365776444",
+   "text": "We need to rethink how courts work with powerful AI, but where do we start?\n\n@curl_justin outlines a plan that a state supreme court could launch this year without new legislation;\n\nArizona already sends small civil claims to arbitrators appointed by the court.\n\nA trial could be done where an AI drafts each decision, the arbitrator then confirms or edits it, and an outside evaluator tracks whether people choose the AI and how often they appeal.\n\nSomething like this has been done before: in 2017 Arizona used a court order to let people in one county choose arbitration over a trial, which is now permanent.",
+   "created_at": "Wed Nov 11 16:23:59 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2072421779977699328/n3YQnb67_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "PaxMachinaMag",
+   "rt_author_name": "Pax Machina",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2083136709290598400/GSJNfS6z_normal.jpg",
+   "rt_id": "2120540050450751860",
+   "likes": 12,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T18:42:14.862503+00:00",
+   "enriched": 3
   }
  }
 }

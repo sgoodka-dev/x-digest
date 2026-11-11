@@ -3606,6 +3606,72 @@
    "quoted": null,
    "fetched_at": "2026-11-11T14:32:23.483452+00:00",
    "enriched": 3
+  },
+  "2120585271834263642": {
+   "id": "2120585271834263642",
+   "url": "https://x.com/dwarkesh_sp/status/2120585271834263642",
+   "text": "Continual learning sometimes gets discussed as if the goal is to dissolve the context/weights distinction. Let the model just keep accumulating, fine-tuning itself on the fly.\n\n@karpathy points out, though, that this isn't how humans do it.\n\nOur working memory gets wiped regularly. What we actually have is a consolidation process (sleep) that distills stuff into the brain, in a weird and lossy way.\n\nThis is very different from how people sometimes talk about continual learning. It's not obvious it's something you can get for free from doing long enough RL loops.",
+   "created_at": "Wed Nov 11 18:31:42 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkesh_sp",
+   "rt_author_name": "Dwarkesh Patel",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "rt_id": "2055771242620469586",
+   "likes": 1003,
+   "retweets": 55,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2055771030371852289/img/0QYe-qBgYpH2ahQ7.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/q4js4ZVtSf": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T18:42:14.862503+00:00",
+   "enriched": 3
+  },
+  "2120557781816349153": {
+   "id": "2120557781816349153",
+   "url": "https://x.com/dwarkesh_sp/status/2120557781816349153",
+   "text": "Physicists are still working on how to make general relativity and quantum mechanics consistent.\n\nBut there's one problem where they are confident they've made the two theories work together: how many bits of information can you store in a black hole? https://t.co/Q3bKjpfN45",
+   "created_at": "Wed Nov 11 16:42:27 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkesh_sp",
+   "rt_author_name": "Dwarkesh Patel",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "rt_id": "2062292582059913381",
+   "likes": 417,
+   "retweets": 21,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2062292243860615168/img/eetQfusRNf7BaXFi.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2062292243860615168/img/eetQfusRNf7BaXFi.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/Q3bKjpfN45": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T18:42:14.862503+00:00",
+   "enriched": 3
   }
  }
 }
