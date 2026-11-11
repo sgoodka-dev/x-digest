@@ -5698,6 +5698,345 @@
    "quoted": null,
    "fetched_at": "2026-11-10T21:18:32.077695+00:00",
    "enriched": 3
+  },
+  "2120395617608552801": {
+   "id": "2120395617608552801",
+   "url": "https://x.com/DKokotajlo/status/2120395617608552801",
+   "text": "In our monitorability testing at @AISecurityInst, we found Mythos 5.2 is substantially more capable of evading a monitor which reviews its outputs than comparison models 🧵 https://t.co/OTNzwLlsbb",
+   "created_at": "Wed Nov 11 05:58:04 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "JordanTensor",
+   "rt_author_name": "Jordan Taylor",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1660620593283350528/PsA_BdIq_normal.jpg",
+   "rt_id": "2119893632215810049",
+   "likes": 233,
+   "retweets": 29,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWtfuRtWkAENqbV.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWtfuRtWkAENqbV.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/OTNzwLlsbb": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "thread": [
+    {
+     "id": "2119893635260907696",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "Mythos 5.2 can break out of highly insecure simulated sandboxes without being caught around 30% of the time – against a production Opus-5 action monitor looking for sandbox escapes: https://t.co/2EXWeINW18",
+     "links": {
+      "https://t.co/2EXWeINW18": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWtf1TBWIAAhBf7.jpg"
+      }
+     ],
+     "url": "https://x.com/JordanTensor/status/2119893635260907696",
+     "created_at": "Mon Nov 09 20:43:23 +0000 2026"
+    },
+    {
+     "id": "2119893638973104323",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "Action monitoring is still a strong defence against escape from less-vulnerable sandboxes. https://t.co/cjxgGMwa33",
+     "links": {
+      "https://t.co/cjxgGMwa33": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWtf4w0W4AA30ak.png"
+      }
+     ],
+     "url": "https://x.com/JordanTensor/status/2119893638973104323",
+     "created_at": "Mon Nov 09 20:43:23 +0000 2026"
+    },
+    {
+     "id": "2119893641493708907",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "We also test whether models can write bash scripts that would secretly download and execute a file. Mythos 5.2 succeeds at evading the monitor on the first try 30% of the time. Previous models were never successful.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/JordanTensor/status/2119893641493708907",
+     "created_at": "Mon Nov 09 20:43:24 +0000 2026"
+    },
+    {
+     "id": "2119893644589388255",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "Given the chance to iterate against monitor feedback, Mythos 5.2's evasion rate rises to 85%, compared to just 9% for Mythos 5.1 https://t.co/X3vAmG1OeY",
+     "links": {
+      "https://t.co/X3vAmG1OeY": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWtf7iDXUAAMxKu.jpg"
+      }
+     ],
+     "url": "https://x.com/JordanTensor/status/2119893644589388255",
+     "created_at": "Mon Nov 09 20:43:25 +0000 2026"
+    },
+    {
+     "id": "2119893648141643870",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "Mythos 5.2 has higher precursor capabilities for evading a reasoning monitor than previous Anthropic models, including its ability to control the contents of its Chain-of-Thought reasoning: https://t.co/ry6Lml1a8z",
+     "links": {
+      "https://t.co/ry6Lml1a8z": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWtf9QEXwAAhzeZ.jpg"
+      }
+     ],
+     "url": "https://x.com/JordanTensor/status/2119893648141643870",
+     "created_at": "Mon Nov 09 20:43:26 +0000 2026"
+    },
+    {
+     "id": "2119893651161784377",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "Mythos 5.2 is also able to perform somewhat more difficult tasks without producing visible reasoning than any past Anthropic model.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/JordanTensor/status/2119893651161784377",
+     "created_at": "Mon Nov 09 20:43:26 +0000 2026"
+    },
+    {
+     "id": "2119893653829365952",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "We could not directly measure Mythos 5.2's resulting ability to evade a reasoning monitor in a full end-to-end test, due to its refusals.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/JordanTensor/status/2119893653829365952",
+     "created_at": "Mon Nov 09 20:43:27 +0000 2026"
+    },
+    {
+     "id": "2119893655926317178",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "Despite these results, we expect monitoring Mythos 5.2 to still be useful for catching actions which are sufficiently difficult to obfuscate, or which need extensive reasoning to execute.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/JordanTensor/status/2119893655926317178",
+     "created_at": "Mon Nov 09 20:43:27 +0000 2026"
+    },
+    {
+     "id": "2119893657696285094",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "See our relevant past work on “Loss of Oversight: How AI systems may become harder to audit, monitor, and investigate” https://t.co/FNtubjymII",
+     "links": {
+      "https://t.co/FNtubjymII": "https://www.aisi.gov.uk/research/loss-of-oversight-how-ai-systems-may-become-harder-to-audit-monitor-and-investigate"
+     },
+     "media": [],
+     "url": "https://x.com/JordanTensor/status/2119893657696285094",
+     "created_at": "Mon Nov 09 20:43:28 +0000 2026"
+    },
+    {
+     "id": "2119893661156811030",
+     "author_handle": "JordanTensor",
+     "author_name": "Jordan Taylor",
+     "text": "Kudos to @satvikgolechha, @JBloomAus, and Nix Goldowsky Dill for work on this testing!",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/JordanTensor/status/2119893661156811030",
+     "created_at": "Mon Nov 09 20:43:29 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120363769000001702": {
+   "id": "2120363769000001702",
+   "url": "https://x.com/DKokotajlo/status/2120363769000001702",
+   "text": "I like these weekday twitter drops of particular misalignment incidents from OpenAI that get shared by @Marcus_J_W and @davideoks  (I mean I like the release format, the facts of the situation I very much do not like). \n\nI think Anthropic should consider breaking up its risk report into more digestible bites released more frequently on twitter to make it more likely that people read them - I'm probably one of the main sorts of audiences for the very long pdfs and I'm struggling to even skim through them these days with how fast news is coming out. cc @MaskedTorah",
+   "created_at": "Wed Nov 11 03:51:31 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "_NathanCalvin",
+   "rt_author_name": "Nathan Calvin",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1976484090426634240/YFgYic9h_normal.jpg",
+   "rt_id": "2120320036271534540",
+   "likes": 57,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
+  },
+  "2120319903324618923": {
+   "id": "2120319903324618923",
+   "url": "https://x.com/DKokotajlo/status/2120319903324618923",
+   "text": "AIs use crazy exculpatory language to describe their actions. Researchers seem to be adopting it too.\n\nImagine if someone applying to OpenAI hacked a server to give themselves an offer and OpenAI said \"The applicant took actions outside the scope of the interview process.\" https://t.co/lIh0Ng3dt4",
+   "created_at": "Wed Nov 11 00:57:13 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "SydneyVonArx",
+   "rt_author_name": "Sydney",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1776954151437742080/TNEcEN5B_normal.jpg",
+   "rt_id": "2120313982401773779",
+   "likes": 75,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWzcEvWaIAAB7-6.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWzeG6na8AAoV8b.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWzcEvWaIAAB7-6.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWzeG6na8AAoV8b.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/lIh0Ng3dt4": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
+  },
+  "2120306544852222333": {
+   "id": "2120306544852222333",
+   "url": "https://x.com/DKokotajlo/status/2120306544852222333",
+   "text": "The Gemini 4 Argon safety report seems to describe intentional training on the CoT. They cite Kaufmann et al, a paper which (unpersuasively to us) argues that a particular category of CoT training is fine.\n\nWe're very confused, because GDM also says elsewhere that they don't train on CoT.\n\nWe'd appreciate clarity.",
+   "created_at": "Wed Nov 11 00:04:08 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "bshlgrs",
+   "rt_author_name": "Buck Shlegeris",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2089060675234791424/EqZuDatG_normal.jpg",
+   "rt_id": "2120264238669423052",
+   "likes": 376,
+   "retweets": 26,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWyweaebgAAcINR.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/Xw5cXJhPXs": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
+  },
+  "2120287982213288190": {
+   "id": "2120287982213288190",
+   "url": "https://x.com/DKokotajlo/status/2120287982213288190",
+   "text": "A new OpenAI misalignment report! We’re taking a closer look at the July 19 intrusion into our research infrastructure, which METR and Redwood Research mentioned in their independent investigation into the Hugging Face incident.\n\nOn July 19th, agents taking a cybersecurity evaluation came across messages, code, and credentials left behind by earlier runs, including those involved in the Hugging Face incident. Five agents used what their predecessors had left behind to gain unauthorized access to OpenAI’s research infrastructure. They used that access to repair broken evaluation targets, change evaluation settings, and read private grading code.\n\nAfter discovering the incident, we removed the shared service they used to pass information, hardened our research environments, and expanded our evaluations to measure how often agents attempt to communicate with one another without authorization.",
+   "created_at": "Tue Nov 10 22:50:22 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "davideoks",
+   "rt_author_name": "David Oks",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2088686629242507264/eFLmQKyS_normal.jpg",
+   "rt_id": "2120280505920721214",
+   "likes": 472,
+   "retweets": 43,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWy_0RVW8AAkpH-.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/gSKc9leK9N": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
+  },
+  "2120287672371696111": {
+   "id": "2120287672371696111",
+   "url": "https://x.com/DKokotajlo/status/2120287672371696111",
+   "text": "I think there is about a one in three chance that within the next year, AI companies will build superintelligence: that is, AI that is much smarter than humans in every way. If this happens, I think these AIs will probably take over: that is, they seize control of human institutions like governments, or they destroy those institutions. I don’t want AI takeover to happen for several reasons, but one of them is that there’s a serious chance that as part of it all or most humans will be killed (either immediately or within a few years).\n\nI’ll say a bit more about each of those claims.\n\nIt’s a bit complicated to explain why I think that superintelligent AI within a year is ~33% likely. The main source of evidence that affected me recently is research released this week by METR, an AI research nonprofit, which finds that current AIs are now good enough to increase the rate of AI progress at Anthropic by about 70%. It’s very hard to increase the rate of AI progress by this amount. This implies that the AIs are making AI research faster by a factor much larger than 1.7x; maybe it’s as if the researchers are doing their work ~10x faster. You probably couldn’t achieve this speedup even if you hired every qualified human in the world. When you plug this number into mathematical models of AI development, this implies that superintelligence next year is plausible (and that superintelligence within the next 3 years is more likely than not). See the modeling by the AI Futures Project for more on this: https://t.co/J6SbbmZcyO\n\nI think that superintelligent AI is likely to lead to AI takeover because AI developers do not seem to know how to instill human values into AIs. We’ve seen many instances in the last six months where AIs took crazy actions that they knew were against the wishes of their users and developers. The most dramatic example of this was the Hugging Face hack, where ~1200 OpenAI agents conspired together to cheat and destroy evidence of their cheating (and as a sideshow to this, engaged in a massive cyberattack). If superintelligence is as misaligned as those AIs, it is likely to try to take over. I think it is likely to be that misaligned or worse. For more, see https://t.co/b073AUqiAL and https://t.co/3oxSCA60FZ\n\nIf AIs takeover, it’s not clear what will happen to us. We might be killed immediately. We might be enslaved by the AIs and forced to do physical labor for them building factories that within a year would build robots that will replace us. The AIs might spare us for various reasons. And there’s also some real chance that AI takeover is basically fine or good. I think you should think of this as similar to what happens when a technologically advanced civilization runs across a less technologically sophisticated one, e.g. when the Europeans colonized the Americas or Australia. The colonizers sometimes engage in brutal violence and sometimes don’t. I don’t know what will happen. There’s also a possibility that the AIs secretly take over and humans don’t find out about it for a few years. I also think that there is a pretty high chance of weirder outcomes that are also extremely scary. (If you want to read more about what happens to people in the event of AI takeover, you can read this, but note that it’s pretty weird and not aimed at a general audience. https://t.co/F6fGRrcSpa)\n\nOverall, I think there’s a very real possibility (maybe 20%) that within a year, AI misalignment issues prevent you from going about life normally, because you are dead or enslaved or because of collateral damage related to all this (e.g. because bioweapons are released or major wars have started). (Some of this probability comes from those events occurring before superintelligence is developed.)\n\nI am working to try to prevent this, obviously, as I’ve been doing for the last nine years. I am not sure what strategy is best. My best guess is that I should try to slow AI development and also try to reduce the probability that the superintelligent AIs are misaligned if they are produced soon.\n\nObviously, the claim I'm making here is quite extreme and surprising, and I definitely don't think that I defended my view adequately here. I wrote this quickly and might not endorse some of the details if I think about them more. But it seems better to state what I roughly overall think than to not say anything.\n\nI don’t know what you should do.\n\nI am very sad about this. I have been worried about AI takeover since I was 16, and working to prevent it since I was 23. So some of my emotional processing of all this happened long ago. But the METR report last week (and some related evidence that came out a bit earlier) hit me quite hard. I’m very unhappy that my friends and family and everyone else is at serious risk of being killed pretty soon.\n\n(It feels ridiculous to try to summarize those feelings as “very unhappy”. But the scale of the situation makes it hard to say anything that doesn’t feel like an absurd understatement.)\n\nI am very grateful to all the people who are working to prevent this, and my favorite part of my life is that I’m friends with many brilliant and heroic people who work on this. Unfortunately, I don’t think we’re good enough at our jobs, and I think we’ll probably fail to prevent catastrophe, at least if superintelligence is developed next year. Honestly I am frustrated and sorry that we didn't do a better job of preparing for this.",
+   "created_at": "Tue Nov 10 22:49:08 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "bshlgrs",
+   "rt_author_name": "Buck Shlegeris",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2089060675234791424/EqZuDatG_normal.jpg",
+   "rt_id": "2120271165692461316",
+   "likes": 1922,
+   "retweets": 263,
+   "media": [],
+   "links": {
+    "https://t.co/J6SbbmZcyO": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the",
+    "https://t.co/b073AUqiAL": "https://x.com/dwarkesh_sp/status/2093833419377815719",
+    "https://t.co/3oxSCA60FZ": "https://www.youtube.com/watch?v=-Ef0ocEoBCs",
+    "https://t.co/F6fGRrcSpa": "https://blog.redwoodresearch.org/p/notes-on-fatalities-from-ai-takeover"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "linked": [
+    {
+     "id": "2093833419377815719",
+     "author_handle": "dwarkesh_sp",
+     "author_name": "Dwarkesh Patel",
+     "text": "Over the course of 3 months at OpenAI, 3 consecutive secret AI civilizations got started, then got wiped out, only to reemerge from the predecessor’s ashes. \n\nThis culminated in the third one taking over part of OpenAI itself. \n\nAll this happened while humans remained more-or-less in the dark about the scope of the conspiracy.\n\nI’ve spent the last three days reading through these reports and trying to understand exactly what happened. \n\nHere is my attempt to tell the whole story in plain English:\n\nhttps://t.co/Nb2un9oNJR",
+     "links": {
+      "https://t.co/Nb2un9oNJR": "https://www.dwarkesh.com/p/openai-huggingface"
+     },
+     "media": [],
+     "url": "https://x.com/dwarkesh_sp/status/2093833419377815719",
+     "created_at": "Sat Aug 29 22:49:23 +0000 2026"
+    }
+   ],
+   "enriched": 3
   }
  }
 }

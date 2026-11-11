@@ -8936,6 +8936,295 @@
     }
    ],
    "enriched": 3
+  },
+  "2120508804047511569": {
+   "id": "2120508804047511569",
+   "url": "https://x.com/theobearman/status/2120508804047511569",
+   "text": "Europe’s answer to MSS: “Helsing’s agentic intelligence platform is built around AI agents developed specifically for military use. Its models are trained on extensive military data, combining real-world data that reflects operational conditions with synthetic AI-generated data and simulated environments to cover scenarios not captured in real-world data. This breadth of training makes the models robust in challenging conditions and adaptable as threats evolve. A shared military ontology and evidence base enable hundreds of agents to work in parallel, connecting evidence, using analytical tools and carrying out complex intelligence tasks.”\n\n“Humans stay in command. An operator reviews the evidence and selects each asset for engagement, then authorises every hand-off to a weapon. Clarity never relies on a single source. A target is nominated only when independent sources agree, confidence is high and an operator confirms. Clarity also ensures this review is done thoroughly. The platform implements the targeting doctrine and builds in the gates it requires. Every decision is recorded together with the person who made it.”",
+   "created_at": "Wed Nov 11 13:27:50 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2120465601873252590",
+    "author_name": "Helsing",
+    "links": {
+     "https://t.co/6LIVOlj6kM": "https://helsing.ai/clarity/",
+     "https://t.co/CxJCKVWUNj": ""
+    },
+    "author": "HelsingAI",
+    "text": "Introducing Clarity – an AI-native agentic intelligence platform for armed forces.\n\nDeveloped in Europe, under European control.\n\nhttps://t.co/6LIVOlj6kM https://t.co/CxJCKVWUNj"
+   },
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
+  },
+  "2120502686957121816": {
+   "id": "2120502686957121816",
+   "url": "https://x.com/theobearman/status/2120502686957121816",
+   "text": "Exclusive: A Chinese university with deep ties to the People's Liberation Army bought Nvidia's powerful H200 AI chips last month despite being on a US export blacklist, procurement records show, highlighting gaps in Washington's efforts to curb China's access to advanced technology https://t.co/CKbWa270oY",
+   "created_at": "Wed Nov 11 13:03:32 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "Reuters",
+   "rt_author_name": "Reuters",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_normal.jpg",
+   "rt_id": "2120389809889849531",
+   "likes": 448,
+   "retweets": 241,
+   "media": [],
+   "links": {
+    "https://t.co/CKbWa270oY": "https://reut.rs/3XiUfni"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
+  },
+  "2120475677291847851": {
+   "id": "2120475677291847851",
+   "url": "https://x.com/theobearman/status/2120475677291847851",
+   "text": "Want the definitive lowdown on what has happened with Jensen, Megaspeed, export controls, and where we go from here? A new post from my colleague Erich on the IAPS Compute Policy team's Substack goes into it all! https://t.co/KaavjiCg5G https://t.co/iVneYfLWfW",
+   "created_at": "Wed Nov 11 11:16:12 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW1wjx6W4AASuYR.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW1wjx6W4AASuYR.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/KaavjiCg5G": "https://open.substack.com/pub/erwald/p/whats-going-on-with-jensen-huang",
+    "https://t.co/iVneYfLWfW": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
+  },
+  "2120288942318915710": {
+   "id": "2120288942318915710",
+   "url": "https://x.com/theobearman/status/2120288942318915710",
+   "text": "@patlevermore I take it to mean the second of the three interpretations you set out",
+   "created_at": "Tue Nov 10 22:54:11 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "patlevermore",
+   "reply_to_id": "2120178328636453225",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "parent": {
+    "id": "2120178328636453225",
+    "author_handle": "patlevermore",
+    "author_name": "Patrick Levermore",
+    "text": "@theobearman I'm confused - do you understand what \"or expects\" means here? Expects dramatic acceleration from current models, expects to soon have dramatic acceleration, expects to eventually have it ...",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/patlevermore/status/2120178328636453225",
+    "created_at": "Tue Nov 10 15:34:39 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120287053351133396": {
+   "id": "2120287053351133396",
+   "url": "https://x.com/theobearman/status/2120287053351133396",
+   "text": "A new OpenAI misalignment report! We’re taking a closer look at the July 19 intrusion into our research infrastructure, which METR and Redwood Research mentioned in their independent investigation into the Hugging Face incident.\n\nOn July 19th, agents taking a cybersecurity evaluation came across messages, code, and credentials left behind by earlier runs, including those involved in the Hugging Face incident. Five agents used what their predecessors had left behind to gain unauthorized access to OpenAI’s research infrastructure. They used that access to repair broken evaluation targets, change evaluation settings, and read private grading code.\n\nAfter discovering the incident, we removed the shared service they used to pass information, hardened our research environments, and expanded our evaluations to measure how often agents attempt to communicate with one another without authorization.",
+   "created_at": "Tue Nov 10 22:46:41 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "davideoks",
+   "rt_author_name": "David Oks",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2088686629242507264/eFLmQKyS_normal.jpg",
+   "rt_id": "2120280505920721214",
+   "likes": 472,
+   "retweets": 43,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWy_0RVW8AAkpH-.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/gSKc9leK9N": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
+  },
+  "2120280578503447003": {
+   "id": "2120280578503447003",
+   "url": "https://x.com/theobearman/status/2120280578503447003",
+   "text": "@boazbaraktcs @patlevermore Worth saying I believe I am now wrong about my claims in the linked tweet because of Anthropic saying today the Autonomy 2 threshold being met was not based on an assessment of current model capabilities, but I think this other post might be what you’re looking for @boazbaraktcs.\n\nhttps://t.co/pijuDA0jnb",
+   "created_at": "Tue Nov 10 22:20:57 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "boazbaraktcs",
+   "reply_to_id": "2120279625032982771",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/pijuDA0jnb": "https://x.com/theobearman/status/2119872427291488494?a=DpqHpXV4F6D84RcsJdA&s=46"
+   },
+   "quoted": {
+    "id": "2119872427291488494",
+    "author_name": "Theo Bearman",
+    "links": {
+     "https://t.co/ni7xTZApke": ""
+    },
+    "author": "theobearman",
+    "text": "Anthropic took steps to nerf the models’ AI R&amp;D capabilities during training. Very interesting to see. https://t.co/ni7xTZApke"
+   },
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "parent": {
+    "id": "2120279625032982771",
+    "author_handle": "boazbaraktcs",
+    "author_name": "Boaz Barak",
+    "text": "@patlevermore I mean restricting external models from helping with AI R&amp;D for external customers, while still using unrestricted models for internal AI R&amp;D. \n\nE.g. https://t.co/GSvZRRDHKN",
+    "links": {
+     "https://t.co/GSvZRRDHKN": "https://x.com/theobearman/status/2119919566356726205?a=dPmhqdg0_9U9coiCQLU&s=20"
+    },
+    "media": [],
+    "url": "https://x.com/boazbaraktcs/status/2120279625032982771",
+    "created_at": "Tue Nov 10 22:17:10 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120272132672532943": {
+   "id": "2120272132672532943",
+   "url": "https://x.com/theobearman/status/2120272132672532943",
+   "text": "They now predict that 95% of Anthropic's R&amp;D will be fully automated by November 2027.  This is what Anthropic describes as AL5, fully autonomous RSI. This would have many implications for policy, as this will eventually happen at every lab, not just Anthropic https://t.co/07sZvMAgER",
+   "created_at": "Tue Nov 10 21:47:23 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "AndrewCurran_",
+   "rt_author_name": "Andrew Curran",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1596945208058744833/_X3LT7fb_normal.jpg",
+   "rt_id": "2120219880360431712",
+   "likes": 2477,
+   "retweets": 289,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWyIvqDbQAAikKD.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWyIvqDbQAAikKD.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/07sZvMAgER": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
+  },
+  "2120271973481673091": {
+   "id": "2120271973481673091",
+   "url": "https://x.com/theobearman/status/2120271973481673091",
+   "text": "@boazbaraktcs I agree with all of your individual points about relative advantages and disadvantages, but feel much more strongly that frontier labs limiting AI R&D capabilities is extremely good for the world on net. \n\nI think the primary cost of public access to highly AI R&D capable models is not from bad actors making risky models in 2026, but from accelerating the overall pace of development industry-wide, particularly for non-safety-conscious actors currently off of the frontier who could be significantly counterfactually accelerated towards RSI by having greater speedup now, which burns the lead of safety-conscious frontier actors to unilaterally pace during takeoff.\n\nIn low-dignity worlds where governance fails to obtain international coordination on massive slowdowns (which I think are likely), that lead time is one of the most important factors in reducing x-risk imo.\n\nObviously there are risks of developing a capable model in the first place, primarily (1) the developer in question may use it to recklessly proceed to RSI and directly impose massive risk on the world or (2) the model in question, or the algorithmic progress downstream of its internal usage, may leak / diffuse / be stolen and allow other actors to do RSI. But conditional on having developed the model in the first place, I think it is very prosocial to at least mitigate the acceleratory effects on other actors! Without interventions like this, I don't see a way to close the internal-external gap without large negative externalities on industry-wide acceleration.\n\nPersonally, I am fairly sad that Anthropic doesn't impose significantly _stronger_ restrictions on these capabilities (even at the cost of substantial revenue) and think not doing so sooner is one of the top few ways it has imposed significant costs on the overall strategic landscape.",
+   "created_at": "Tue Nov 10 21:46:45 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "MaskedTorah",
+   "rt_author_name": "Drake Thomas",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1619141028984020994/hJAyrV6c_normal.jpg",
+   "rt_id": "2120204011144130901",
+   "likes": 25,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
+  },
+  "2120271613765505479": {
+   "id": "2120271613765505479",
+   "url": "https://x.com/theobearman/status/2120271613765505479",
+   "text": "Below is my personal opinion, not speaking for openai.\n\nThere are many AI safety interventions that are purely positive. \n\nTraining for honesty, and alignment in general, is one example. Models being more honest & aligned is undeniably a good thing. \n\nMonitoring is another example: it serves both to block harmful actions as well as learn valuable information about misaligned behavior. (And to me, the fact that it comes at a non-trivial compute cost, and so has some slowdown impact, is a feature, not a bug.)\n\nNerfing or restricting models from helping with AI research is more complex. I can see the argument for preventing bad actors, in particular ones from non democratic nations, from creating models with risky capabilities. \n\nHowever, I am also worried about concentration of power, in particular concentration of power by us (= the labs), and this seems to go in the opposite direction. It can also hamper external AI safety researchers. And to the extent a lot of the risk in acceleration is from internal deployment, having growing gaps in capabilities between internal and external models seems not ideal.\n\nI am not saying that there will never be a good reason for having some restrictions in some form, but this is an area we should tread *very* carefully on.\n \nThere is also something I find problematic about even the perception of using safety as an excuse for practices that may also be motivated by competitive reasons. It is fine that for-profit corporations try to optimize their profit, but let's make sure we're honest about it and not hiding behind safety.",
+   "created_at": "Tue Nov 10 21:45:20 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "boazbaraktcs",
+   "rt_author_name": "Boaz Barak",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1252262363132280834/ytIN-vzv_normal.jpg",
+   "rt_id": "2120185514682728916",
+   "likes": 320,
+   "retweets": 31,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
   }
  }
 }

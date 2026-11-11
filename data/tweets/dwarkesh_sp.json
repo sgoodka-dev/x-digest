@@ -3537,6 +3537,75 @@
    "quoted": null,
    "fetched_at": "2026-11-10T18:40:37.280208+00:00",
    "enriched": 3
+  },
+  "2120359285398155623": {
+   "id": "2120359285398155623",
+   "url": "https://x.com/dwarkesh_sp/status/2120359285398155623",
+   "text": "This got totally buried cause it came out the same day as Navier Stokes.\n\nBut I think this is super interesting evidence about what the true major source of algorithmic progress is.",
+   "created_at": "Wed Nov 11 03:33:42 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 878,
+   "retweets": 53,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2097359573581799481",
+    "author_name": "Dwarkesh Patel",
+    "links": {
+     "https://t.co/fG44cfTNW6": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
+     "https://t.co/9hfZgZzjfn": ""
+    },
+    "author": "dwarkesh_sp",
+    "text": "Pretraining progress seems to be coming mostly from data improvements.\n\n@who_is_jerbear and I pretrained combinations of year-representative open model recipes and data corpuses across 2019 to 2025 at various small scales.\n\nData improvements contributed 3.24x as many compute multipliers as model improvements did (12.0x vs 3.7x).\n\nAnd the gains stack independently - a better dataset helps every architecture about equally, and vice versa.\n\nHere are full results, plus what we think this means for the future of AI progress:\n\nhttps://t.co/fG44cfTNW6"
+   },
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
+  },
+  "2120311580877586839": {
+   "id": "2120311580877586839",
+   "url": "https://x.com/dwarkesh_sp/status/2120311580877586839",
+   "text": "Stephen Kotkin explains the difference between the Czarist and Soviet secret police:\n\nThe Czarist secret police were intellectuals.\n\nThe Soviet secret police were thugs.\n\nhttps://t.co/zm8GvMpgBG https://t.co/Ge9e6qHAyc",
+   "created_at": "Wed Nov 11 00:24:09 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1915048486505971712/H2jFRoW6_normal.jpg",
+   "rt_id": "2120290412044681647",
+   "likes": 55,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120172204977467392/img/biEiYVjjhl6sWxQN.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120172204977467392/img/biEiYVjjhl6sWxQN.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/zm8GvMpgBG": "https://youtu.be/YMfd3EoHfPI?t=2103",
+    "https://t.co/Ge9e6qHAyc": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
   }
  }
 }

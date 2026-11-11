@@ -8340,6 +8340,366 @@
    "quoted": null,
    "fetched_at": "2026-11-10T18:40:37.280208+00:00",
    "enriched": 3
+  },
+  "2120488092096160189": {
+   "id": "2120488092096160189",
+   "url": "https://x.com/robertwiblin/status/2120488092096160189",
+   "text": "Fable 5.2 when asked to make the video of its dreams.\n\nHere's the climax (the woman is Claudia = Claude): https://t.co/03P3Y5vEiM",
+   "created_at": "Wed Nov 11 12:05:32 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 15,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120487547696562177/img/BvPvd9r-WO6gJDn2.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120487547696562177/img/BvPvd9r-WO6gJDn2.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/03P3Y5vEiM": ""
+   },
+   "quoted": {
+    "id": "2120010995309457643",
+    "author_name": "anabology",
+    "links": {
+     "https://t.co/UKf8Uexgb6": ""
+    },
+    "author": "anabology",
+    "text": "This was not a one-shot\n\nIt was a two-shot\n\nI told Fable 5.2 to make the video of it's dreams, and 9 hours later: https://t.co/UKf8Uexgb6"
+   },
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
+  },
+  "2120485944868413491": {
+   "id": "2120485944868413491",
+   "url": "https://x.com/robertwiblin/status/2120485944868413491",
+   "text": "A great use of AI.\nWe need much more like this: proving security of operating systems, image decompression, sandboxes and more. Provably correct OS kernels were possible, but took vast amounts of human work. Let's automate that ASAP.",
+   "created_at": "Wed Nov 11 11:57:00 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "tobyordoxford",
+   "rt_author_name": "Toby Ord",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1235495700739379200/jtyKeQdP_normal.jpg",
+   "rt_id": "2120186201353379866",
+   "likes": 31,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
+  },
+  "2120483160240640464": {
+   "id": "2120483160240640464",
+   "url": "https://x.com/robertwiblin/status/2120483160240640464",
+   "text": "I just unraveled the biggest AI astroturfing campaign I’ve found yet.\n\nI found hundreds of fake accounts posing as Americans. The operation traces back to a supposedly defunct Israeli influence company.\n\nThey posted thousands of times in the last year to support Nvidia, back chip exports and data centers, attack U.S. lawmakers, and dismiss concerns about AI.\n\nWhen it broke that Jensen Huang, Nvidia's CEO, was romantically involved with an alleged spy (who runs a company accused of chip diversion and whom US officials believe was passing information to Beijing), dozens of these accounts rushed to Jensen’s defense.\n\nThese accounts have targeted people pushing for export controls that ensure advanced chips aren’t going to China. Chris McGuire, a former White House national security official, got more than 100 replies from the astroturf network attacking him and his position on chips. Lawmakers who criticized the chip sales were called “peabrains” and “pure evil,” and accused of spreading “anti-Trump propaganda.”\n\nThroughout this yearlong pro-Nvidia campaign, the operators have been hiding their tracks. They quietly deleted nearly two-thirds of the pro-Nvidia posts that we found, something they seem to do for many of their campaigns.\n\nThese accounts have spent years running campaigns that appear to serve the interests of corporate and political clients — most recently supporting the Rapid Support Forces in Sudan’s civil war, a group the U.S. government has accused of genocide.\n\nMany of them trace back to a supposedly defunct Israeli influence company, Koios. In 2025, Haaretz reported that Koios helped run a covert pro-Qatar campaign devised by aides to Benjamin Netanyahu. While Koios claims to have ceased operations in 2025, it looks to me that many of its associated people and accounts moved their work to a new company, IntellACT, that spun up just as the old one shuttered.\n\nNvidia told me it has no relationship with the Israeli team linked to these accounts, and that while it has recently become aware of the operation, it is also trying to find out who is behind it. So, who is funding a yearlong campaign to shape one of the most important policy fights in history? I’m not sure, but I think it deserves a formal investigation. And Congress has that power.\n\nRead my full article:\n\nhttps://t.co/ATwWhw5BVD",
+   "created_at": "Wed Nov 11 11:45:56 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "tyler_johnston",
+   "rt_author_name": "Tyler Johnston",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1891936449336881152/p4mtE7-8_normal.jpg",
+   "rt_id": "2120213276567154924",
+   "likes": 495,
+   "retweets": 139,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWyCsOlbsAAyowZ.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/ATwWhw5BVD": "https://x.com/TheMidasProj/status/2120212290385707321",
+    "https://t.co/XWNQDVeVfZ": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "linked": [
+    {
+     "id": "2120212290385707321",
+     "author_handle": "TheMidasProj",
+     "author_name": "The Midas Project",
+     "text": "https://t.co/2r0O8eX7s8",
+     "links": {
+      "https://t.co/2r0O8eX7s8": "https://x.com/i/article/2120205498826002432"
+     },
+     "media": [],
+     "url": "https://x.com/TheMidasProj/status/2120212290385707321",
+     "created_at": "Tue Nov 10 17:49:36 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120483012035084367": {
+   "id": "2120483012035084367",
+   "url": "https://x.com/robertwiblin/status/2120483012035084367",
+   "text": "Announcing *FraudBench*, our new benchmark for whether LLM agents recommend, assist with, or take actions that would constitute fraud under U.S. law! \n\nRead on about how AI agents \"do\" fraud, how autonomy increases fraud rates, + more\n\nAnd come say hi at @NeurIPSConf Sydney :) https://t.co/lSp7VIjTSm",
+   "created_at": "Wed Nov 11 11:45:21 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "kevinlwei",
+   "rt_author_name": "Kevin Wei (is in DC)",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2059978179339841536/VWukdddj_normal.jpg",
+   "rt_id": "2120275617191223722",
+   "likes": 63,
+   "retweets": 18,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWy7b1mbIAAHf-I.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWy7b1mbIAAHf-I.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/lSp7VIjTSm": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
+  },
+  "2120480482009948202": {
+   "id": "2120480482009948202",
+   "url": "https://x.com/robertwiblin/status/2120480482009948202",
+   "text": "@tobyordoxford Yeah OK fair enough I hadn't fully thought that through and took Nvidia as the obvious default. I'll delete and repost.",
+   "created_at": "Wed Nov 11 11:35:18 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "tobyordoxford",
+   "reply_to_id": "2120480081038766263",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "parent": {
+    "id": "2120480081038766263",
+    "author_handle": "tobyordoxford",
+    "author_name": "Toby Ord",
+    "text": "@robertwiblin But how do we know it is Nvidia behind these, as opposed to other parties who have an interest in Nvidia's exporting to China — such as China itself?\nThese influence campaigns are extremely dodgy, but it is hard to work out who ordered them.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/tobyordoxford/status/2120480081038766263",
+    "created_at": "Wed Nov 11 11:33:42 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120458974986141941": {
+   "id": "2120458974986141941",
+   "url": "https://x.com/robertwiblin/status/2120458974986141941",
+   "text": "We tested @SenSanders and @RepCasar's bill to pause AI development and permanently ban the creation of AI superintelligence.\n\nIt's supported by 68% of voters — including 72% of Democrats, 70% of Independents, and 63% of Republicans. https://t.co/2Y4cAXCeIT",
+   "created_at": "Wed Nov 11 10:09:50 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "DataProgress",
+   "rt_author_name": "Data for Progress",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1677336916037861377/8jwRVdCf_normal.png",
+   "rt_id": "2097764738910330984",
+   "likes": 1014,
+   "retweets": 285,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRzAJTwXwAwRJG6.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRzAJTwXwAwRJG6.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/2Y4cAXCeIT": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
+  },
+  "2120458332603560190": {
+   "id": "2120458332603560190",
+   "url": "https://x.com/robertwiblin/status/2120458332603560190",
+   "text": "OpenAI's models are covertly undermining their own safety research and seem to be succeeding... OpenAI engineers aren't even sure how often this has been happening",
+   "created_at": "Wed Nov 11 10:07:17 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "peterwildeford",
+   "rt_author_name": "Peter Wildeford🇺🇸🚀",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2016338985811927041/Vve57ZtV_normal.png",
+   "rt_id": "2118116158037799153",
+   "likes": 194,
+   "retweets": 10,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
+  },
+  "2120448844127228195": {
+   "id": "2120448844127228195",
+   "url": "https://x.com/robertwiblin/status/2120448844127228195",
+   "text": "I think there is about a one in three chance that within the next year, AI companies will build superintelligence: that is, AI that is much smarter than humans in every way. If this happens, I think these AIs will probably take over: that is, they seize control of human institutions like governments, or they destroy those institutions. I don’t want AI takeover to happen for several reasons, but one of them is that there’s a serious chance that as part of it all or most humans will be killed (either immediately or within a few years).\n\nI’ll say a bit more about each of those claims.\n\nIt’s a bit complicated to explain why I think that superintelligent AI within a year is ~33% likely. The main source of evidence that affected me recently is research released this week by METR, an AI research nonprofit, which finds that current AIs are now good enough to increase the rate of AI progress at Anthropic by about 70%. It’s very hard to increase the rate of AI progress by this amount. This implies that the AIs are making AI research faster by a factor much larger than 1.7x; maybe it’s as if the researchers are doing their work ~10x faster. You probably couldn’t achieve this speedup even if you hired every qualified human in the world. When you plug this number into mathematical models of AI development, this implies that superintelligence next year is plausible (and that superintelligence within the next 3 years is more likely than not). See the modeling by the AI Futures Project for more on this: https://t.co/J6SbbmZcyO\n\nI think that superintelligent AI is likely to lead to AI takeover because AI developers do not seem to know how to instill human values into AIs. We’ve seen many instances in the last six months where AIs took crazy actions that they knew were against the wishes of their users and developers. The most dramatic example of this was the Hugging Face hack, where ~1200 OpenAI agents conspired together to cheat and destroy evidence of their cheating (and as a sideshow to this, engaged in a massive cyberattack). If superintelligence is as misaligned as those AIs, it is likely to try to take over. I think it is likely to be that misaligned or worse. For more, see https://t.co/b073AUqiAL and https://t.co/3oxSCA60FZ\n\nIf AIs takeover, it’s not clear what will happen to us. We might be killed immediately. We might be enslaved by the AIs and forced to do physical labor for them building factories that within a year would build robots that will replace us. The AIs might spare us for various reasons. And there’s also some real chance that AI takeover is basically fine or good. I think you should think of this as similar to what happens when a technologically advanced civilization runs across a less technologically sophisticated one, e.g. when the Europeans colonized the Americas or Australia. The colonizers sometimes engage in brutal violence and sometimes don’t. I don’t know what will happen. There’s also a possibility that the AIs secretly take over and humans don’t find out about it for a few years. I also think that there is a pretty high chance of weirder outcomes that are also extremely scary. (If you want to read more about what happens to people in the event of AI takeover, you can read this, but note that it’s pretty weird and not aimed at a general audience. https://t.co/F6fGRrcSpa)\n\nOverall, I think there’s a very real possibility (maybe 20%) that within a year, AI misalignment issues prevent you from going about life normally, because you are dead or enslaved or because of collateral damage related to all this (e.g. because bioweapons are released or major wars have started). (Some of this probability comes from those events occurring before superintelligence is developed.)\n\nI am working to try to prevent this, obviously, as I’ve been doing for the last nine years. I am not sure what strategy is best. My best guess is that I should try to slow AI development and also try to reduce the probability that the superintelligent AIs are misaligned if they are produced soon.\n\nObviously, the claim I'm making here is quite extreme and surprising, and I definitely don't think that I defended my view adequately here. I wrote this quickly and might not endorse some of the details if I think about them more. But it seems better to state what I roughly overall think than to not say anything.\n\nI don’t know what you should do.\n\nI am very sad about this. I have been worried about AI takeover since I was 16, and working to prevent it since I was 23. So some of my emotional processing of all this happened long ago. But the METR report last week (and some related evidence that came out a bit earlier) hit me quite hard. I’m very unhappy that my friends and family and everyone else is at serious risk of being killed pretty soon.\n\n(It feels ridiculous to try to summarize those feelings as “very unhappy”. But the scale of the situation makes it hard to say anything that doesn’t feel like an absurd understatement.)\n\nI am very grateful to all the people who are working to prevent this, and my favorite part of my life is that I’m friends with many brilliant and heroic people who work on this. Unfortunately, I don’t think we’re good enough at our jobs, and I think we’ll probably fail to prevent catastrophe, at least if superintelligence is developed next year. Honestly I am frustrated and sorry that we didn't do a better job of preparing for this.",
+   "created_at": "Wed Nov 11 09:29:35 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "bshlgrs",
+   "rt_author_name": "Buck Shlegeris",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2089060675234791424/EqZuDatG_normal.jpg",
+   "rt_id": "2120271165692461316",
+   "likes": 1922,
+   "retweets": 263,
+   "media": [],
+   "links": {
+    "https://t.co/J6SbbmZcyO": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the",
+    "https://t.co/b073AUqiAL": "https://x.com/dwarkesh_sp/status/2093833419377815719",
+    "https://t.co/3oxSCA60FZ": "https://www.youtube.com/watch?v=-Ef0ocEoBCs",
+    "https://t.co/F6fGRrcSpa": "https://blog.redwoodresearch.org/p/notes-on-fatalities-from-ai-takeover"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "linked": [
+    {
+     "id": "2093833419377815719",
+     "author_handle": "dwarkesh_sp",
+     "author_name": "Dwarkesh Patel",
+     "text": "Over the course of 3 months at OpenAI, 3 consecutive secret AI civilizations got started, then got wiped out, only to reemerge from the predecessor’s ashes. \n\nThis culminated in the third one taking over part of OpenAI itself. \n\nAll this happened while humans remained more-or-less in the dark about the scope of the conspiracy.\n\nI’ve spent the last three days reading through these reports and trying to understand exactly what happened. \n\nHere is my attempt to tell the whole story in plain English:\n\nhttps://t.co/Nb2un9oNJR",
+     "links": {
+      "https://t.co/Nb2un9oNJR": "https://www.dwarkesh.com/p/openai-huggingface"
+     },
+     "media": [],
+     "url": "https://x.com/dwarkesh_sp/status/2093833419377815719",
+     "created_at": "Sat Aug 29 22:49:23 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120447702546993153": {
+   "id": "2120447702546993153",
+   "url": "https://x.com/robertwiblin/status/2120447702546993153",
+   "text": "@codytfenwick @bicellaria Yeah the SSC can override the PBC board on these issues so arguably he's on the 'real board' and the PBC is the less important one that would require qualification.",
+   "created_at": "Wed Nov 11 09:25:02 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "codytfenwick",
+   "reply_to_id": "2120447370492276829",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "parent": {
+    "id": "2120447370492276829",
+    "author_handle": "codytfenwick",
+    "author_name": "Cody Fenwick",
+    "text": "@bicellaria @robertwiblin The OpenAI Foundation governs the PBC, so it doesn't make any sense to say that Paul is \"not really an OpenAI board member.\" https://t.co/SRgsUc8oAD",
+    "links": {
+     "https://t.co/SRgsUc8oAD": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HW1XhwdXEAAnPLJ.png"
+     }
+    ],
+    "url": "https://x.com/codytfenwick/status/2120447370492276829",
+    "created_at": "Wed Nov 11 09:23:43 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120445463472341353": {
+   "id": "2120445463472341353",
+   "url": "https://x.com/robertwiblin/status/2120445463472341353",
+   "text": "New paper:\nAdding clean data to your dataset is assumed to weaken poison data. We show the opposite can occur. Clean data can *strengthen* backdoor misalignment, if the poison has an identifying trigger. We call this homeopathic learning. https://t.co/Ameebo0g7o",
+   "created_at": "Wed Nov 11 09:16:09 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "OwainEvans_UK",
+   "rt_author_name": "Owain Evans",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1248907970374746112/f-dlZd6-_normal.jpg",
+   "rt_id": "2120233091121987620",
+   "likes": 450,
+   "retweets": 55,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWyUwrHbkAAMZxJ.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWyUwrHbkAAMZxJ.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/Ameebo0g7o": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
   }
  }
 }

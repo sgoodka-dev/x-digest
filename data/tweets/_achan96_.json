@@ -3173,6 +3173,65 @@
    "quoted": null,
    "fetched_at": "2026-11-10T15:01:16.809683+00:00",
    "enriched": 3
+  },
+  "2120438372137124205": {
+   "id": "2120438372137124205",
+   "url": "https://x.com/_achan96_/status/2120438372137124205",
+   "text": "Excited that this report on implementing California's AI safety regulations (plus recs fur future policy) is finally out! \n\nI wrote the assessments and evals section, highly suggest having a read if you're interested in how to improve third-party assessments :)",
+   "created_at": "Wed Nov 11 08:47:58 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "kevinlwei",
+   "rt_author_name": "Kevin Wei (is in DC)",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2059978179339841536/VWukdddj_normal.jpg",
+   "rt_id": "2120183698763203021",
+   "likes": 34,
+   "retweets": 5,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
+  },
+  "2120411483666300999": {
+   "id": "2120411483666300999",
+   "url": "https://x.com/_achan96_/status/2120411483666300999",
+   "text": "Announcing *FraudBench*, our new benchmark for whether LLM agents recommend, assist with, or take actions that would constitute fraud under U.S. law! \n\nRead on about how AI agents \"do\" fraud, how autonomy increases fraud rates, + more\n\nAnd come say hi at @NeurIPSConf Sydney :) https://t.co/lSp7VIjTSm",
+   "created_at": "Wed Nov 11 07:01:07 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "kevinlwei",
+   "rt_author_name": "Kevin Wei (is in DC)",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2059978179339841536/VWukdddj_normal.jpg",
+   "rt_id": "2120275617191223722",
+   "likes": 63,
+   "retweets": 18,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWy7b1mbIAAHf-I.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWy7b1mbIAAHf-I.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/lSp7VIjTSm": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
   }
  }
 }

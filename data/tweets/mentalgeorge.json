@@ -3344,6 +3344,79 @@
    "quoted": null,
    "fetched_at": "2026-11-10T18:40:37.280208+00:00",
    "enriched": 3
+  },
+  "2120515719515484359": {
+   "id": "2120515719515484359",
+   "url": "https://x.com/mentalgeorge/status/2120515719515484359",
+   "text": "@GoodFaithOnly @dwarkesh_sp good point - many such cases!",
+   "created_at": "Wed Nov 11 13:55:19 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "GoodFaithOnly",
+   "reply_to_id": "2120514449450623387",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "parent": {
+    "id": "2120514449450623387",
+    "author_handle": "GoodFaithOnly",
+    "author_name": "Avi Brach-Neuefeld",
+    "text": "@mentalgeorge @dwarkesh_sp I agree with the overall trend, but I think Astra may be an outlier largely drive by training environments. On all sorts of video game benchmarks (runebench, slay the spire, minecraft) Astra is a trend break which makes me think OAI added a bunch of video game RL enivornmnets.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/GoodFaithOnly/status/2120514449450623387",
+    "created_at": "Wed Nov 11 13:50:16 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120512376311062721": {
+   "id": "2120512376311062721",
+   "url": "https://x.com/mentalgeorge/status/2120512376311062721",
+   "text": "More commentary on \"fuzzy\" tasks:\n\nI think @dwarkesh_sp's Blood on the Clocktower eval is a particularly evocative piece of evidence that models are in fact getting good at fuzzy tasks (like complex social inference or coordinated deceit) over time. \n\nMore recent models literally stomp earlier ones: Astra wins about 92% of the games against opus 4.6!\n\nI suspect a lot of these early gains are artifacts of particular weaknesses of older models (like credulousness). It will be really interesting to see the rate at which improvements continue, and what the ceiling effects on a game like BOTC are. \n\nIn this context it is also super interesting that opus 4.7 and 4.8 regressed on 4.6 (and this corresponds with folk with wisdom about the merits of these lesser models); clearly it is possible to (even if accidentally) fuck with models' ability to do this kind of social reasoning",
+   "created_at": "Wed Nov 11 13:42:02 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 18,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW2RBYgWIAANSyj.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/T2wgqIp6fb": ""
+   },
+   "quoted": {
+    "id": "2120181503699099763",
+    "author_name": "Tom Reed",
+    "links": {
+     "https://t.co/b5X3uum0Lu": ""
+    },
+    "author": "mentalgeorge",
+    "text": "Everyone wants to know - are Anthropic's models also improving faster on fuzzy tasks?\n\nWe don't know, but tentative analysis from METR in the Mythos 5.2 system card suggests the new model is not obviously an improvement over 5.1 on open-ended tasks https://t.co/b5X3uum0Lu"
+   },
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
   }
  }
 }

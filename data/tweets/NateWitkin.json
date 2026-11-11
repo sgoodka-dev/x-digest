@@ -3303,6 +3303,87 @@
    "quoted": null,
    "fetched_at": "2026-11-10T15:01:16.809683+00:00",
    "enriched": 3
+  },
+  "2120426894172582399": {
+   "id": "2120426894172582399",
+   "url": "https://x.com/NateWitkin/status/2120426894172582399",
+   "text": "📢 We need more orgs that take AI’s transformative potential seriously *and* take downstream bottlenecks seriously. We have just launched STABL, and hope to lead by example. Read our launch essay below and check us out at https://t.co/P55nL7Mk6d.\n\nThe three of us have long felt that society’s responses to advanced AI are unproductively polarized. So we’ve decided to do something about it. Our work will have four pillars: Recursive Self Improvement, risks and resilience, steering AI’s economic impacts, and sectoral and professional adaptation.\n\nWe will bring our distinctive methods and approach to each of these workstreams. Our underlying worldview avoids the extremes that dominate the discourse, so building a movement and ecosystem around this work won’t be easy. But that is the task we have set ourselves and we are excited to try. The good news is that there are many others who share our views. The next step is to come together, better articulate our vision and agenda for research and action, and amplify each others’ efforts.",
+   "created_at": "Wed Nov 11 08:02:21 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "random_walker",
+   "rt_author_name": "Arvind Narayanan",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1650881612756942850/bZYjMyFU_normal.jpg",
+   "rt_id": "2120253269058498999",
+   "likes": 119,
+   "retweets": 28,
+   "media": [],
+   "links": {
+    "https://t.co/P55nL7Mk6d": "http://stabl.ai"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
+  },
+  "2120426841731219465": {
+   "id": "2120426841731219465",
+   "url": "https://x.com/NateWitkin/status/2120426841731219465",
+   "text": ".@ramez challenges the assumption that superintelligence will be general:\n\nAI can surpass humans in chess and math, but that doesn't mean it can master messy real-world problems.\n\n\"I'm not saying RSI is impossible. I'm just saying the feedback loop is much weaker than you think.\"\n\n\"There is this assumption that ASI is by definition general. I don't see any reason for that. We have superintelligence in domains like Go, like chess, like parts of formal math. These are all domains that are highly verifiable.\"\n\n\"AlphaGo Zero played itself 29 million times. Waymo had to drive billions of miles in simulation to get to what a human teenager can do in a thousand miles.\"\n\n\"Once you start to get to anything that is messy, anything where you have to go touch the real world or wait for experimental results, then I think it's not clear that we will have superintelligence.\"\n\n\"Everything that is highly verifiable, I fully believe superintelligence is inevitable.\"\n\n\"The things where you can't make unlimited amounts of totally perfect training data at compute-bounded speeds, I'm not convinced.\"",
+   "created_at": "Wed Nov 11 08:02:09 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "MTSlive",
+   "rt_author_name": "MTS",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2057947669281263616/aovpVL4b_normal.jpg",
+   "rt_id": "2120357222639378604",
+   "likes": 28,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120357095895953408/img/3pMY04LBIq2cbuIP.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/O7n36O3r1e": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
+  },
+  "2120421101524435331": {
+   "id": "2120421101524435331",
+   "url": "https://x.com/NateWitkin/status/2120421101524435331",
+   "text": "It’s a positive development that there’s now some convergence in the AI risk community that there’s likely an intelligence explosion next year. I think it’ll be clear in a few years that this didn’t happen, these people will be largely discredited, and discussions will become more sane.",
+   "created_at": "Wed Nov 11 07:39:20 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "tamaybes",
+   "rt_author_name": "Tamay Besiroglu",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1919244153449553920/ABOfcb-s_normal.jpg",
+   "rt_id": "2120349683193352491",
+   "likes": 399,
+   "retweets": 17,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
   }
  }
 }

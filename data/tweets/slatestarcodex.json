@@ -2973,6 +2973,40 @@
     "created_at": "Mon Nov 09 20:47:21 +0000 2026"
    },
    "enriched": 3
+  },
+  "2120365892475506999": {
+   "id": "2120365892475506999",
+   "url": "https://x.com/slatestarcodex/status/2120365892475506999",
+   "text": "@NeelNanda5 Happy birthday. I've found your commentary on alignment issues very helpful in understanding them and knowing what to celebrate or worry about.",
+   "created_at": "Wed Nov 11 03:59:57 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "NeelNanda5",
+   "reply_to_id": "2120124599484678361",
+   "avatar": "https://pbs.twimg.com/profile_images/378800000009065862/83d72de47e2a2470c482bc75406b42a7_normal.png",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 21,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "parent": {
+    "id": "2120124599484678361",
+    "author_handle": "NeelNanda5",
+    "author_name": "Neel Nanda",
+    "text": "It's my 28th birthday today, and I'd like to ask for a favour: I do a lot of public facing work, and it's often hard to tell how much it does. If anything I've written or done has made a difference to your life, it'd really make my day to hear about it!",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/NeelNanda5/status/2120124599484678361",
+    "created_at": "Tue Nov 10 12:01:09 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

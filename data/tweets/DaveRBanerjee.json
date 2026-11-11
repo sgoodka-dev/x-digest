@@ -3838,6 +3838,111 @@
    "quoted": null,
    "fetched_at": "2026-11-10T18:40:37.280208+00:00",
    "enriched": 3
+  },
+  "2120368114449752091": {
+   "id": "2120368114449752091",
+   "url": "https://x.com/DaveRBanerjee/status/2120368114449752091",
+   "text": "low credence - just thinking out loud. please yell at me if this is a bad take",
+   "created_at": "Wed Nov 11 04:08:47 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "DaveRBanerjee",
+   "reply_to_id": "2120368113023656039",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "parent": {
+    "id": "2120368113023656039",
+    "author_handle": "DaveRBanerjee",
+    "author_name": "Dave Banerjee",
+    "text": "One thing about sample-efficient learning algorithms is that, by definition, they require little data, which means that you, as the experimenter, will figure out very quickly whether your learning algorithm is actually working\n\nSo maybe you actually get very tight feedback loops in this domain, which would push compute budgets towards this kind of research (as opposed to massive automated RL environment construction, which might not scale as well)",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/DaveRBanerjee/status/2120368113023656039",
+    "created_at": "Wed Nov 11 04:08:47 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120368113023656039": {
+   "id": "2120368113023656039",
+   "url": "https://x.com/DaveRBanerjee/status/2120368113023656039",
+   "text": "One thing about sample-efficient learning algorithms is that, by definition, they require little data, which means that you, as the experimenter, will figure out very quickly whether your learning algorithm is actually working\n\nSo maybe you actually get very tight feedback loops in this domain, which would push compute budgets towards this kind of research (as opposed to massive automated RL environment construction, which might not scale as well)",
+   "created_at": "Wed Nov 11 04:08:47 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 5,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "thread": [
+    {
+     "id": "2120368114449752091",
+     "author_handle": "DaveRBanerjee",
+     "author_name": "Dave Banerjee",
+     "text": "low credence - just thinking out loud. please yell at me if this is a bad take",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/DaveRBanerjee/status/2120368114449752091",
+     "created_at": "Wed Nov 11 04:08:47 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120266105235345659": {
+   "id": "2120266105235345659",
+   "url": "https://x.com/DaveRBanerjee/status/2120266105235345659",
+   "text": "New paper:\nAdding clean data to your dataset is assumed to weaken poison data. We show the opposite can occur. Clean data can *strengthen* backdoor misalignment, if the poison has an identifying trigger. We call this homeopathic learning. https://t.co/Ameebo0g7o",
+   "created_at": "Tue Nov 10 21:23:26 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "OwainEvans_UK",
+   "rt_author_name": "Owain Evans",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1248907970374746112/f-dlZd6-_normal.jpg",
+   "rt_id": "2120233091121987620",
+   "likes": 450,
+   "retweets": 55,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWyUwrHbkAAMZxJ.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWyUwrHbkAAMZxJ.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/Ameebo0g7o": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
   }
  }
 }

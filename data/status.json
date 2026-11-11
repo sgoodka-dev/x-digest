@@ -1,11 +1,11 @@
 {
  "last_run": {
-  "started": "2026-11-10T21:18:32.077695+00:00",
+  "started": "2026-11-11T14:32:23.483452+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
-    "new": 0,
-    "total": 161
+    "new": 2,
+    "total": 163
    },
    "add_hawk": {
     "ok": true,
@@ -24,23 +24,23 @@
    },
    "curl_justin": {
     "ok": true,
-    "new": 0,
-    "total": 120
+    "new": 3,
+    "total": 123
    },
    "DaveRBanerjee": {
     "ok": true,
-    "new": 0,
-    "total": 189
+    "new": 3,
+    "total": 192
    },
    "DKokotajlo": {
     "ok": true,
-    "new": 3,
-    "total": 267
+    "new": 6,
+    "total": 273
    },
    "dwarkesh_sp": {
     "ok": true,
-    "new": 0,
-    "total": 161
+    "new": 2,
+    "total": 163
    },
    "jkcarlsmith": {
     "ok": true,
@@ -49,13 +49,13 @@
    },
    "Lewis_Bollard": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 98
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 0,
-    "total": 162
+    "new": 2,
+    "total": 164
    },
    "ohlennart": {
     "ok": true,
@@ -64,8 +64,8 @@
    },
    "sayashk": {
     "ok": true,
-    "new": 4,
-    "total": 144
+    "new": 2,
+    "total": 146
    },
    "testingham": {
     "ok": true,
@@ -74,8 +74,8 @@
    },
    "slatestarcodex": {
     "ok": true,
-    "new": 2,
-    "total": 157
+    "new": 1,
+    "total": 158
    },
    "s8mb": {
     "ok": true,
@@ -84,23 +84,23 @@
    },
    "random_walker": {
     "ok": true,
-    "new": 3,
-    "total": 168
+    "new": 5,
+    "total": 173
    },
    "sethlazar": {
     "ok": true,
-    "new": 0,
-    "total": 360
+    "new": 9,
+    "total": 369
    },
    "robertwiblin": {
     "ok": true,
-    "new": 0,
-    "total": 344
+    "new": 10,
+    "total": 354
    },
    "deanwball": {
     "ok": true,
-    "new": 3,
-    "total": 534
+    "new": 23,
+    "total": 557
    },
    "nabeelqu": {
     "ok": true,
@@ -109,8 +109,8 @@
    },
    "theobearman": {
     "ok": true,
-    "new": 1,
-    "total": 349
+    "new": 9,
+    "total": 358
    },
    "peterwilderford": {
     "ok": true,
@@ -124,8 +124,8 @@
    },
    "NateWitkin": {
     "ok": true,
-    "new": 0,
-    "total": 124
+    "new": 3,
+    "total": 127
    },
    "charnock_jacob": {
     "ok": true,
@@ -133,7 +133,7 @@
     "total": 7
    }
   },
-  "new_tweets": 18,
-  "finished": "2026-11-10T21:19:45.315064+00:00"
+  "new_tweets": 80,
+  "finished": "2026-11-11T14:33:49.652506+00:00"
  }
 }

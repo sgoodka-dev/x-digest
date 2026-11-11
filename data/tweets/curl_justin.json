@@ -2270,6 +2270,136 @@
    "quoted": null,
    "fetched_at": "2026-11-07T13:15:19.739124+00:00",
    "enriched": 3
+  },
+  "2120286947671519618": {
+   "id": "2120286947671519618",
+   "url": "https://x.com/curl_justin/status/2120286947671519618",
+   "text": "We're hiring policy researchers at Thinking Machines.\n\nQuick 🧵 on why I think this role is something folks in AI policy should consider applying to:",
+   "created_at": "Tue Nov 10 22:46:16 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2072421779977699328/n3YQnb67_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "luke_drago_",
+   "rt_author_name": "Luke Drago",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1986773666378465280/yZOQfEDv_normal.jpg",
+   "rt_id": "2120266764907114756",
+   "likes": 555,
+   "retweets": 57,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "thread": [
+    {
+     "id": "2120266766266016237",
+     "author_handle": "luke_drago_",
+     "author_name": "Luke Drago",
+     "text": "We believe the future worth building is human, so we focus on AI that extends human will and judgment.\n\nWe’ve released open models that let you own your intelligence, created new ways to collaborate with AI so you stay in the loop, and provide tools like Tinker for you to tailor AI to your needs.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/luke_drago_/status/2120266766266016237",
+     "created_at": "Tue Nov 10 21:26:04 +0000 2026"
+    },
+    {
+     "id": "2120266767574642950",
+     "author_handle": "luke_drago_",
+     "author_name": "Luke Drago",
+     "text": "We want a future where many people are in control of AI. How do we get there, and what role will policy play?\n\nIn the short term, we want to know how policy can support safe open weights. In the long term, we want to know how policy could support a decentralized AI ecosystem.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/luke_drago_/status/2120266767574642950",
+     "created_at": "Tue Nov 10 21:26:04 +0000 2026"
+    },
+    {
+     "id": "2120266769063670070",
+     "author_handle": "luke_drago_",
+     "author_name": "Luke Drago",
+     "text": "These are fundamentally research questions; there are no off-the-shelf plans or answers. We need to design policy responses that are technically feasible today and can scale with the rate of AI’s improvement.\n\nWe want to help chart this path with the policy research community.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/luke_drago_/status/2120266769063670070",
+     "created_at": "Tue Nov 10 21:26:05 +0000 2026"
+    },
+    {
+     "id": "2120266770301042862",
+     "author_handle": "luke_drago_",
+     "author_name": "Luke Drago",
+     "text": "So what will you do? A few things:\n- Help develop our nascent policy research agenda.\n- Find the questions we are best suited to help answer.\n- Conduct research that informs our view.\n- Work with the research community and cultivate an ecosystem around these questions.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/luke_drago_/status/2120266770301042862",
+     "created_at": "Tue Nov 10 21:26:05 +0000 2026"
+    },
+    {
+     "id": "2120266771601232132",
+     "author_handle": "luke_drago_",
+     "author_name": "Luke Drago",
+     "text": "We're looking for folks who can think across domains, come up with new answers, and turn them into actionable, technically feasible policy proposals. If that's you, learn more and apply here: \n\nhttps://t.co/kK1uc5Aqhw",
+     "links": {
+      "https://t.co/kK1uc5Aqhw": "https://jobs.ashbyhq.com/ThinkingMachines/2628909c-b655-4475-b0f5-fbadf7e9992f"
+     },
+     "media": [],
+     "url": "https://x.com/luke_drago_/status/2120266771601232132",
+     "created_at": "Tue Nov 10 21:26:05 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120282629765484773": {
+   "id": "2120282629765484773",
+   "url": "https://x.com/curl_justin/status/2120282629765484773",
+   "text": "📢 We need more orgs that take AI’s transformative potential seriously *and* take downstream bottlenecks seriously. We have just launched STABL, and hope to lead by example. Read our launch essay below and check us out at https://t.co/P55nL7Mk6d.\n\nThe three of us have long felt that society’s responses to advanced AI are unproductively polarized. So we’ve decided to do something about it. Our work will have four pillars: Recursive Self Improvement, risks and resilience, steering AI’s economic impacts, and sectoral and professional adaptation.\n\nWe will bring our distinctive methods and approach to each of these workstreams. Our underlying worldview avoids the extremes that dominate the discourse, so building a movement and ecosystem around this work won’t be easy. But that is the task we have set ourselves and we are excited to try. The good news is that there are many others who share our views. The next step is to come together, better articulate our vision and agenda for research and action, and amplify each others’ efforts.",
+   "created_at": "Tue Nov 10 22:29:06 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2072421779977699328/n3YQnb67_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "random_walker",
+   "rt_author_name": "Arvind Narayanan",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1650881612756942850/bZYjMyFU_normal.jpg",
+   "rt_id": "2120253269058498999",
+   "likes": 118,
+   "retweets": 28,
+   "media": [],
+   "links": {
+    "https://t.co/P55nL7Mk6d": "http://stabl.ai"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
+  },
+  "2120279027542057114": {
+   "id": "2120279027542057114",
+   "url": "https://x.com/curl_justin/status/2120279027542057114",
+   "text": "Steering AI's societal impact requires taking both AI development and downstream bottlenecks seriously. \n\nToday @RishiBommasani @random_walker and I are starting a new non-profit: STABL @stabl_ai to guide societal adaptation and resilience to advanced AI. https://t.co/6V1h4gYhYp",
+   "created_at": "Tue Nov 10 22:14:47 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2072421779977699328/n3YQnb67_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "sayashk",
+   "rt_author_name": "Sayash Kapoor",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1521238232867946496/U_GCI43e_normal.jpg",
+   "rt_id": "2120229899319521696",
+   "likes": 149,
+   "retweets": 26,
+   "media": [],
+   "links": {
+    "https://t.co/6V1h4gYhYp": "https://x.com/i/article/2120226519179997184"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T14:32:23.483452+00:00",
+   "enriched": 3
   }
  }
 }
