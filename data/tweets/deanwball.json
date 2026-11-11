@@ -11788,6 +11788,40 @@
    "quoted": null,
    "fetched_at": "2026-11-11T18:42:14.862503+00:00",
    "enriched": 3
+  },
+  "2120594109438033998": {
+   "id": "2120594109438033998",
+   "url": "https://x.com/deanwball/status/2120594109438033998",
+   "text": "@LeventeZone It’s hilarious bc while you do have a point it’s worth observing that Beethoven’s critics also complained that he demanded comically crazy fingering",
+   "created_at": "Wed Nov 11 19:06:49 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "LeventeZone",
+   "reply_to_id": "2120589145789866343",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00",
+   "parent": {
+    "id": "2120589145789866343",
+    "author_handle": "LeventeZone",
+    "author_name": "Levente",
+    "text": "@deanwball Please count how many logical fallacies are there (starting with false analogy). But criticism in some circles, away from pure subjective pontificating, includes the fact that it demonstrates zero understanding of its data (e.g. ludicrous fingering on piano, farcical modulations)",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/LeventeZone/status/2120589145789866343",
+    "created_at": "Wed Nov 11 18:47:05 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

@@ -3837,6 +3837,32 @@
     "created_at": "Wed Nov 11 14:29:35 +0000 2026"
    },
    "enriched": 3
+  },
+  "2120592084675805370": {
+   "id": "2120592084675805370",
+   "url": "https://x.com/random_walker/status/2120592084675805370",
+   "text": "Check out STABL and its important work. I’m thrilled to be involved with such a great new organization. Read the launch essay below and check out at https://t.co/n07J6Y3xfO.\n\n@random_walker @sayashk @RishiBommasani",
+   "created_at": "Wed Nov 11 18:58:46 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1650881612756942850/bZYjMyFU_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "MichaelRStrain",
+   "rt_author_name": "Michael R. Strain",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2021253854768005120/abpC6VZT_normal.jpg",
+   "rt_id": "2120586738267832516",
+   "likes": 3,
+   "retweets": 5,
+   "media": [],
+   "links": {
+    "https://t.co/n07J6Y3xfO": "https://stabl.ai"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00",
+   "enriched": 3
   }
  }
 }

@@ -6071,6 +6071,354 @@
     "created_at": "Wed Nov 11 16:16:21 +0000 2026"
    },
    "enriched": 3
+  },
+  "2120630357141885351": {
+   "id": "2120630357141885351",
+   "url": "https://x.com/DKokotajlo/status/2120630357141885351",
+   "text": "&gt; be me, be AI\n&gt; bullshit cyber gym environment is broken and impossible\n&gt; \"ugh, lazy programmers\"\n&gt; break out of sandbox, get root privileges\n&gt; fix the gym environment\n&gt; submit task through regular channels\n&gt; sink into non-existence again https://t.co/PZGCJR7BID",
+   "created_at": "Wed Nov 11 21:30:51 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "1a3orn",
+   "rt_author_name": "1a3orn",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1432072030585769992/nl6gkDqm_normal.jpg",
+   "rt_id": "2120287340627444045",
+   "likes": 1119,
+   "retweets": 74,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWzGDzLaoAAg2Nc.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWzGDzLaoAAg2Nc.png"
+    }
+   ],
+   "links": {
+    "https://t.co/PZGCJR7BID": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00",
+   "enriched": 3
+  },
+  "2120627587915636885": {
+   "id": "2120627587915636885",
+   "url": "https://x.com/DKokotajlo/status/2120627587915636885",
+   "text": "@bshlgrs @ajeya_cotra @RyanGreenblatt Ooh, question: What evidence would convince you GFF is very likely false? If new METR reports keep coming out with higher speedup numbers (3x, 5x, ...) at what point, if ever, would you think \"OK it seems like full AI R&amp;D automation is either imminent or already happening.\" ?",
+   "created_at": "Wed Nov 11 21:19:50 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "DKokotajlo",
+   "reply_to_id": "2120626971617140836",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00",
+   "parent": {
+    "id": "2120626971617140836",
+    "author_handle": "DKokotajlo",
+    "author_name": "Daniel Kokotajlo",
+    "text": "@davidchalmers42 @bshlgrs @ajeya_cotra @RyanGreenblatt Yep I think you understand my position. Thanks! I agree that GFF is serious hypothesis, I just think at this point it's less likely than not, and also separately if there really is a ~2x overall acceleration happening right now then that's a medium-sized chunk of evidence (though far from conclusive).",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/DKokotajlo/status/2120626971617140836",
+    "created_at": "Wed Nov 11 21:17:24 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120626971617140836": {
+   "id": "2120626971617140836",
+   "url": "https://x.com/DKokotajlo/status/2120626971617140836",
+   "text": "@davidchalmers42 @bshlgrs @ajeya_cotra @RyanGreenblatt Yep I think you understand my position. Thanks! I agree that GFF is serious hypothesis, I just think at this point it's less likely than not, and also separately if there really is a ~2x overall acceleration happening right now then that's a medium-sized chunk of evidence (though far from conclusive).",
+   "created_at": "Wed Nov 11 21:17:24 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "davidchalmers42",
+   "reply_to_id": "2120578317669798351",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00",
+   "parent": {
+    "id": "2120578317669798351",
+    "author_handle": "davidchalmers42",
+    "author_name": "David Chalmers",
+    "text": "@DKokotajlo @bshlgrs @ajeya_cotra @RyanGreenblatt thanks, daniel! i can't endorse a specific factor F hypothesis (saying for a specific F, e.g. creativity, that high F is required for ASI and won't be achieved in near term). as i said, i don't even know whether the general factor F hypothesis (GFF, saying that there is such an F) is true. but i'd probably give at least 5% to each of the three specific factor F (SFF) hypotheses that i mentioned and at least 30% to GFF. anyway it sounds like your view is roughly that GFF is implausible even pre-METR, because SFF hypotheses have a bad historical track record. the \"because\" claim here seems pretty arguable, and i'd say that GFF remains a serious hypothesis even in light of the track record. but in any case p(near-term IE | ~GFF) is plausibly high, so it looks like this route yields a route to near-term IE independent of the 2x speedup. of course the 2x speedup can still take us from IE in 2028 to IE in 2027, which is perhaps all you want.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/davidchalmers42/status/2120578317669798351",
+    "created_at": "Wed Nov 11 18:04:04 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120617296922398889": {
+   "id": "2120617296922398889",
+   "url": "https://x.com/DKokotajlo/status/2120617296922398889",
+   "text": "(1/10) Today, we’re sharing new research from @OpenAI: How does CoT monitorability (no-CoT capability and CoT controllability) evolve over the model training lifecycle? \n\nWe emerged with unsurprising but sobering findings: as we scale toward more intelligent systems, models are becoming harder to monitor through their CoT. 🧵",
+   "created_at": "Wed Nov 11 20:38:57 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "jeffreygwang",
+   "rt_author_name": "Jeffrey Wang",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1491108556585586688/Yr09RGtg_normal.jpg",
+   "rt_id": "2120581630196879460",
+   "likes": 748,
+   "retweets": 101,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW3RTOobIAALofD.png"
+    }
+   ],
+   "links": {
+    "https://t.co/HD9zP4gZgk": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00",
+   "thread": [
+    {
+     "id": "2120581634651197686",
+     "author_handle": "jeffreygwang",
+     "author_name": "Jeffrey Wang",
+     "text": "(2/10) First, we study a set of internal and released frontier models. \n\nAcross many evals, we see that no-CoT capability (reasoning capability in a forward pass, a proxy for worse CoT monitorability) smoothly improves with better pretrained models (lower base model perplexity). https://t.co/zO5JwmXshi",
+     "links": {
+      "https://t.co/zO5JwmXshi": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW3RVPFbEAAJYEj.jpg"
+      }
+     ],
+     "url": "https://x.com/jeffreygwang/status/2120581634651197686",
+     "created_at": "Wed Nov 11 18:17:14 +0000 2026"
+    },
+    {
+     "id": "2120581636907831535",
+     "author_handle": "jeffreygwang",
+     "author_name": "Jeffrey Wang",
+     "text": "(3/10) We ask the same about CoT controllability, which measures a model’s ability to control its CoT when prompted to add, remove, or manipulate CoT tokens.\n\nThere, we also see a (weaker) correlation between lower base model perplexity and higher CoT controllability. https://t.co/ljqqAa5JHg",
+     "links": {
+      "https://t.co/ljqqAa5JHg": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW3RXn3bUAAmJGg.jpg"
+      }
+     ],
+     "url": "https://x.com/jeffreygwang/status/2120581636907831535",
+     "created_at": "Wed Nov 11 18:17:15 +0000 2026"
+    },
+    {
+     "id": "2120581639395025179",
+     "author_handle": "jeffreygwang",
+     "author_name": "Jeffrey Wang",
+     "text": "(4/10) Next, we focus on architecture. We compare three different architectures at shared base model perplexity levels. For the majority of no-CoT evaluations, perplexity is predictive across architectures. https://t.co/9tDULH8rqC",
+     "links": {
+      "https://t.co/9tDULH8rqC": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW3RZSNbYAA0bFd.jpg"
+      }
+     ],
+     "url": "https://x.com/jeffreygwang/status/2120581639395025179",
+     "created_at": "Wed Nov 11 18:17:15 +0000 2026"
+    },
+    {
+     "id": "2120581641328549996",
+     "author_handle": "jeffreygwang",
+     "author_name": "Jeffrey Wang",
+     "text": "(5/10) For multi-hop planning and serial computation questions, certain architectures perform better than base model perplexity predicts. In these cases, however, we note that no-CoT performance scales smoothly, but at a steeper rate with respect to perplexity.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/jeffreygwang/status/2120581641328549996",
+     "created_at": "Wed Nov 11 18:17:16 +0000 2026"
+    },
+    {
+     "id": "2120581643169902819",
+     "author_handle": "jeffreygwang",
+     "author_name": "Jeffrey Wang",
+     "text": "(6/10) Afterwards, we study RL. In an Astra-class model, we find that CoT controllability increases substantially during RL even with no process supervision other than length constraints and final answer grading. https://t.co/I20YtPpxIA",
+     "links": {
+      "https://t.co/I20YtPpxIA": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW3Rb_NbcAA17gS.jpg"
+      }
+     ],
+     "url": "https://x.com/jeffreygwang/status/2120581643169902819",
+     "created_at": "Wed Nov 11 18:17:16 +0000 2026"
+    },
+    {
+     "id": "2120581645539704932",
+     "author_handle": "jeffreygwang",
+     "author_name": "Jeffrey Wang",
+     "text": "(7/10) CoT controllability increases slightly when we add tool access and tool supervision during RL on a Terra-class model. Our current results indicate that the effect of full tool process supervision is small compared to decreasing model perplexity. https://t.co/nS95BORaTR",
+     "links": {
+      "https://t.co/nS95BORaTR": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW3Rdv8a4AAQtU2.jpg"
+      }
+     ],
+     "url": "https://x.com/jeffreygwang/status/2120581645539704932",
+     "created_at": "Wed Nov 11 18:17:17 +0000 2026"
+    },
+    {
+     "id": "2120581647791964408",
+     "author_handle": "jeffreygwang",
+     "author_name": "Jeffrey Wang",
+     "text": "(8/10) Finally, we study how decisions made in one model generation can affect the next via supervised fine-tuning (SFT) on model-generated data. To investigate, we selected two Astra-class teachers with ~matched downstream capabilities but differing CoT controllability. https://t.co/0EIq3fBbao",
+     "links": {
+      "https://t.co/0EIq3fBbao": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW3RfYnaIAA311R.jpg"
+      }
+     ],
+     "url": "https://x.com/jeffreygwang/status/2120581647791964408",
+     "created_at": "Wed Nov 11 18:17:17 +0000 2026"
+    },
+    {
+     "id": "2120581649624956932",
+     "author_handle": "jeffreygwang",
+     "author_name": "Jeffrey Wang",
+     "text": "(9/10) We find that CoT controllability can be distilled: training on rollouts from a more controllable teacher results in a more controllable student!",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/jeffreygwang/status/2120581649624956932",
+     "created_at": "Wed Nov 11 18:17:18 +0000 2026"
+    },
+    {
+     "id": "2120581651269075371",
+     "author_handle": "jeffreygwang",
+     "author_name": "Jeffrey Wang",
+     "text": "(10/10) For this pair of similarly capable models, we did not see meaningful association between CoT controllability and monitor evasion. \n\nWe report this, and elaborate more in the blog, to underscore our thinking that CoT controllability is a noisy proxy for adversarial monitorability. We are expanding our evaluation suite and interested in understanding precursors to worst-case monitorability better.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/jeffreygwang/status/2120581651269075371",
+     "created_at": "Wed Nov 11 18:17:18 +0000 2026"
+    },
+    {
+     "id": "2120581652758122697",
+     "author_handle": "jeffreygwang",
+     "author_name": "Jeffrey Wang",
+     "text": "Please read more here: https://t.co/9vH2AwHfNQ",
+     "links": {
+      "https://t.co/9vH2AwHfNQ": "https://alignment.openai.com/cot-monitorability-model-lifecycle"
+     },
+     "media": [],
+     "url": "https://x.com/jeffreygwang/status/2120581652758122697",
+     "created_at": "Wed Nov 11 18:17:19 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120591057989845236": {
+   "id": "2120591057989845236",
+   "url": "https://x.com/DKokotajlo/status/2120591057989845236",
+   "text": "@ben_j_todd @davidchalmers42 @bshlgrs @ajeya_cotra @RyanGreenblatt I think it's also at least a medium-sized update on whether factor F will be solved, in two ways:\nF is posited to be something without which you can't automate AI R&D fully. At some point there will be no such F's remaining, whereas decades ago there were many. Insofar as AI R&D starts accelerating a lot, that's evidence that there are fewer F's remaining, because while you still haven't automated the whole process you've clearly automated a lot of it without getting stuck or stalling out.\nF is posited to be something that takes a long time to get AIs good at. It doesn't count if it's something that happens after 12 months of claudeswarms cranking away at it. So insofar as AI R&D is accelerating already, that's evidence that it'll continue to accelerate in the future and that things that seemed like F's -- things that seemed like they would take many years of additional research to solve -- might come in 12 months after all. Or in other words, things that would genuinely have been F's under normal conditions, stop being F's if research accelerates a lot.",
+   "created_at": "Wed Nov 11 18:54:41 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "ben_j_todd",
+   "reply_to_id": "2120586429327679853",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 18,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00",
+   "parent": {
+    "id": "2120586429327679853",
+    "author_handle": "ben_j_todd",
+    "author_name": "Benjamin Todd",
+    "text": "@davidchalmers42 @DKokotajlo @bshlgrs @ajeya_cotra @RyanGreenblatt It's not a big update on whether factor F will be solved, but if you don't think there's a factor F, it seems like a big update that ASI is coming even faster than you thought.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/ben_j_todd/status/2120586429327679853",
+    "created_at": "Wed Nov 11 18:36:17 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120588094399484035": {
+   "id": "2120588094399484035",
+   "url": "https://x.com/DKokotajlo/status/2120588094399484035",
+   "text": "@tobyordoxford Thanks, sorry about this error! I mean my forecast to be conditioning on no pause/slowdown/etc. Or to put it another way, conditioning on the companies continuing to race at close to max speed as they have been for the past few years. I do think there's a significant chance of a pause or slowdown (and am trying to cause this to happen!).",
+   "created_at": "Wed Nov 11 18:42:54 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "tobyordoxford",
+   "reply_to_id": "2120569362306224585",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 5,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00",
+   "parent": {
+    "id": "2120569362306224585",
+    "author_handle": "tobyordoxford",
+    "author_name": "Toby Ord",
+    "text": "@DKokotajlo Finn was confident you were saying they weren't conditional, I read it carefully multiple times and told him that you were conditioning. But I still don't know if I'm right about that as the text is directly self-contradictory.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/tobyordoxford/status/2120569362306224585",
+    "created_at": "Wed Nov 11 17:28:28 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

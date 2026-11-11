@@ -9085,6 +9085,180 @@
    "quoted": null,
    "fetched_at": "2026-11-11T18:42:14.862503+00:00",
    "enriched": 3
+  },
+  "2120635703264707016": {
+   "id": "2120635703264707016",
+   "url": "https://x.com/robertwiblin/status/2120635703264707016",
+   "text": "Who is funding this pollution? And if Grok can trivially identify bots why can't Twitter crack down on it?",
+   "created_at": "Wed Nov 11 21:52:05 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2120635325349605424",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00",
+   "parent": {
+    "id": "2120635325349605424",
+    "author_handle": "robertwiblin",
+    "author_name": "Rob Wiblin",
+    "text": "Because I've been posting about Nvidia lately that has dominated bot replies: https://t.co/WCfz1dmoEG",
+    "links": {
+     "https://t.co/WCfz1dmoEG": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HW4Cfa8XEAAkk80.png"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HW4CgXXWsAAjWCs.png"
+     }
+    ],
+    "url": "https://x.com/robertwiblin/status/2120635325349605424",
+    "created_at": "Wed Nov 11 21:50:35 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120635325349605424": {
+   "id": "2120635325349605424",
+   "url": "https://x.com/robertwiblin/status/2120635325349605424",
+   "text": "Because I've been posting about Nvidia lately that has dominated bot replies: https://t.co/WCfz1dmoEG",
+   "created_at": "Wed Nov 11 21:50:35 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2120635321339568259",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW4Cfa8XEAAkk80.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW4CgXXWsAAjWCs.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW4Cfa8XEAAkk80.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW4CgXXWsAAjWCs.png"
+    }
+   ],
+   "links": {
+    "https://t.co/WCfz1dmoEG": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00",
+   "parent": {
+    "id": "2120635321339568259",
+    "author_handle": "robertwiblin",
+    "author_name": "Rob Wiblin",
+    "text": "When you post on AI issues you just get bombarded by bot farms.\n\nLooking at my recent posts Grok thinks 35-70% of replies are bots.\n\nTop bot farm arguments:\n\n1. \"but China\"\n2. Nvidia is great\n3. any delay at all to AGI is evil because it would delay a medical breakthrough https://t.co/DvDPm0FaSE",
+    "links": {
+     "https://t.co/DvDPm0FaSE": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HW4BeNnWIAA9h4Y.png"
+     }
+    ],
+    "url": "https://x.com/robertwiblin/status/2120635321339568259",
+    "created_at": "Wed Nov 11 21:50:34 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120635321339568259": {
+   "id": "2120635321339568259",
+   "url": "https://x.com/robertwiblin/status/2120635321339568259",
+   "text": "When you post on AI issues you just get bombarded by bot farms.\n\nLooking at my recent posts Grok thinks 35-70% of replies are bots.\n\nTop bot farm arguments:\n\n1. \"but China\"\n2. Nvidia is great\n3. any delay at all to AGI is evil because it would delay a medical breakthrough https://t.co/DvDPm0FaSE",
+   "created_at": "Wed Nov 11 21:50:34 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW4BeNnWIAA9h4Y.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW4BeNnWIAA9h4Y.png"
+    }
+   ],
+   "links": {
+    "https://t.co/DvDPm0FaSE": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00"
+  },
+  "2120620539819790451": {
+   "id": "2120620539819790451",
+   "url": "https://x.com/robertwiblin/status/2120620539819790451",
+   "text": "reading the METR report on RSI and then going to the ribbon cutting ceremony for the new on site recycling bins for my apartment block https://t.co/RZAE9Yr2SN",
+   "created_at": "Wed Nov 11 20:51:50 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "billyhumblebrag",
+   "rt_author_name": "billy",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2052263383773089801/BnJWvrJ7_normal.jpg",
+   "rt_id": "2120415397828513956",
+   "likes": 1441,
+   "retweets": 61,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW06hTZWEAAqi6U.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW06hTZWEAAqi6U.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/RZAE9Yr2SN": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00",
+   "enriched": 3
   }
  }
 }

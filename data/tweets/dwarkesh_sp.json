@@ -3672,6 +3672,39 @@
    "quoted": null,
    "fetched_at": "2026-11-11T18:42:14.862503+00:00",
    "enriched": 3
+  },
+  "2120600195402768409": {
+   "id": "2120600195402768409",
+   "url": "https://x.com/dwarkesh_sp/status/2120600195402768409",
+   "text": "Interesting!",
+   "created_at": "Wed Nov 11 19:31:00 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 64,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2120598848036892723",
+    "author_name": "elie",
+    "links": {
+     "https://t.co/eSSafbeBjz": "http://eliebak.com/open-clocktower-experiments",
+     "https://t.co/IjmWnKs1aT": ""
+    },
+    "author": "eliebakouch",
+    "text": "i added 5 open models to @dwarkesh_sp's blood on the clocktower benchmark to see how they perform, and look at their chains of thought while they lie, bluff and try to catch each other 👁️\n\nkimi k3.1 pro is the best open model and lands in the middle of the closed ones, just bellow gpt 5.5. also a pretty good sign to see a coherent ranking for open models as well, with like the newer deepseek v4.1 flash beating the older one and glm 5.3 beating glm 5.3 flash\n\none thing i wanted to test and seems to be true is that models that are good at the game are also good at spotting the evil players when they only read the public transcript of a game. would be actually very nice for evaluation since a new model could just be ranked by reading existing games?\n\nmain reasons i wanted to do this experiment is that it's always fun to read the chains of thought of open models, and these ones don't disappoint 😭. some models like glm 5 where super happy to be evil (this model is really crazy in its chain of thought), a bit more concerning but coherent with what you can observe on other environments, there is A TON of eval awareness. i'm also wondering if this is correlated to the model detecting it's reading llm generated text\n\nthis experiment was done by gemini carbon in near autonomy (brainstorm a bit with it first and then just asked to exectue), and the article and the visuals are by fable 5.2. here is the blog, with all traces (probably a lot more gold there) and a viewer for every game!\n\nhttps://t.co/eSSafbeBjz"
+   },
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00",
+   "enriched": 3
   }
  }
 }

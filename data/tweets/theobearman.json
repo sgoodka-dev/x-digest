@@ -9387,6 +9387,110 @@
    "quoted": null,
    "fetched_at": "2026-11-11T18:42:14.862503+00:00",
    "enriched": 3
+  },
+  "2120630576814162425": {
+   "id": "2120630576814162425",
+   "url": "https://x.com/theobearman/status/2120630576814162425",
+   "text": "SCOOP: President Trump authorized a crackdown on companies suspected of diverting Nvidia's advanced AI chips to China on Thursday, but one administration official repeatedly stood in the way: Commerce Secretary Howard Lutnick. https://t.co/5Duzi14eEp",
+   "created_at": "Wed Nov 11 21:31:43 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "axios",
+   "rt_author_name": "Axios",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1641458976049995776/GtO-0zYe_normal.jpg",
+   "rt_id": "2120623772612911161",
+   "likes": 162,
+   "retweets": 67,
+   "media": [],
+   "links": {
+    "https://t.co/5Duzi14eEp": "https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00",
+   "enriched": 3
+  },
+  "2120612251463750015": {
+   "id": "2120612251463750015",
+   "url": "https://x.com/theobearman/status/2120612251463750015",
+   "text": "I published a related report on this just yesterday, co-authored with @JacobDavieyr1m.\n\nhttps://t.co/tTHDG1vdFc",
+   "created_at": "Wed Nov 11 20:18:54 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "theobearman",
+   "reply_to_id": "2120612019879424019",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/tTHDG1vdFc": "https://x.com/theobearman/status/2120179260451139718?a=viCE1oW9lvEYdwbp534&s=46"
+   },
+   "quoted": {
+    "id": "2120179260451139718",
+    "author_name": "Theo Bearman",
+    "links": {
+     "https://t.co/igkwoH9Vzn": "https://www.iaps.ai/research/transparency-disclosures-for-chain-of-thought-monitorability",
+     "https://t.co/NpqakBIb4a": ""
+    },
+    "author": "theobearman",
+    "text": "Chain-of-thought (CoT) provides an essential window into how AI models reason and act. It is one of the few oversight tools we have that could scale to vastly more intelligent AI systems than we have today. With new indications that capabilities underpinning RSI could be achieved imminently, effective model monitorability is only increasing in importance.\n\nHowever, there are threats to the insights CoT monitoring can provide. CoT could become obscured or lost if frontier models start relying on less transparent reasoning mechanisms or stop using CoT altogether. The release of GPT-6 Astra added to concerns that CoT monitorability is weakening, and commercial incentives may make this worse. This could mean similar or more grave incidents than OpenAI/Hugging Face could go undetected.\n\nIn “Transparency Disclosures for Chain-of-Thought Monitorability”, published today by IAPS, my co-author @JacobDavieyr1m and I argue that frontier AI developers should report CoT monitorability indicators to (1) allow the efficacy of this tool to be tracked by policymakers and researchers, (2) inform a response if it weakens, and (3) strengthen incentives to preserve it.\n\nWe recommend that the following five indicators be disclosed:\n\n- Third-Party CoT Access and (Relevant) Base Architecture Specifications\n- Naturalness\n- Faithfulness\n- Detection\n- Uplift\n\nWe also include an audit of current disclosure practices among Anthropic, Google DeepMind, and OpenAI. No company reports the full set of indicators. We recommend repeating the audit with deeper access by embedded evaluators or an Independent Verification Organization.\n\nYou can read the full report here: https://t.co/igkwoH9Vzn"
+   },
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00",
+   "parent": {
+    "id": "2120612019879424019",
+    "author_handle": "theobearman",
+    "author_name": "Theo Bearman",
+    "text": "I welcome this new research from OAI on CoT monitorability because it underscores the challenge of maintaining this going forward, and we should be clear eyed about that.\n\nHowever, I fear OpenAI’s MTS are starting to move away from the company’s prior statements on this tool (made less than a year ago), namely that: “we want chain-of-thought monitorability to hold up as models scale and are deployed in higher-stakes settings” because “if the alignment problem cannot be fully solved, then scalable control methods will be incredibly important in our ability to safely deploy highly capable models. Chain-of-thought monitoring and related methods may be one of the few control mechanisms at our disposal.”\n\nThe response to CoT monitorability becoming increasingly challenging must be to prioritise the science to make it more robust and (maybe?) don’t train more capable models until this is done/a better (but still comprehensive) monitoring technique has been developed and independently validated. OAI has also described CoT monitoring as part of a DiD strategy, alongside other interp and control methods, because each of them have “limitations and blind spots.”\n\nTo its credit, today’s blog post does say: “we are committed to furthering monitorability science—from understanding precursors to monitor evasion and assessing downstream risks to improving CoT monitorability[…]” but staff who worked on this research not reinforcing that point in their social media posts about it makes me feel like it could just be a throwaway comment. I’m happy to be corrected!\n\nhttps://t.co/GiYKngi9Uv",
+    "links": {
+     "https://t.co/GiYKngi9Uv": "https://openai.com/index/evaluating-chain-of-thought-monitorability/"
+    },
+    "media": [],
+    "url": "https://x.com/theobearman/status/2120612019879424019",
+    "created_at": "Wed Nov 11 20:17:59 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120612019879424019": {
+   "id": "2120612019879424019",
+   "url": "https://x.com/theobearman/status/2120612019879424019",
+   "text": "I welcome this new research from OAI on CoT monitorability because it underscores the challenge of maintaining this going forward, and we should be clear eyed about that.\n\nHowever, I fear OpenAI’s MTS are starting to move away from the company’s prior statements on this tool (made less than a year ago), namely that: “we want chain-of-thought monitorability to hold up as models scale and are deployed in higher-stakes settings” because “if the alignment problem cannot be fully solved, then scalable control methods will be incredibly important in our ability to safely deploy highly capable models. Chain-of-thought monitoring and related methods may be one of the few control mechanisms at our disposal.”\n\nThe response to CoT monitorability becoming increasingly challenging must be to prioritise the science to make it more robust and (maybe?) don’t train more capable models until this is done/a better (but still comprehensive) monitoring technique has been developed and independently validated. OAI has also described CoT monitoring as part of a DiD strategy, alongside other interp and control methods, because each of them have “limitations and blind spots.”\n\nTo its credit, today’s blog post does say: “we are committed to furthering monitorability science—from understanding precursors to monitor evasion and assessing downstream risks to improving CoT monitorability[…]” but staff who worked on this research not reinforcing that point in their social media posts about it makes me feel like it could just be a throwaway comment. I’m happy to be corrected!\n\nhttps://t.co/GiYKngi9Uv",
+   "created_at": "Wed Nov 11 20:17:59 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/GiYKngi9Uv": "https://openai.com/index/evaluating-chain-of-thought-monitorability/"
+   },
+   "quoted": {
+    "id": "2120593213191057410",
+    "author_name": "Kai",
+    "links": {},
+    "author": "kaicathyc",
+    "text": "&gt; as we scale toward more intelligent systems, models are becoming harder to monitor through their CoT\n\nneed to push much harder on alternatives to CoT monitoring and making monitorability a training objective"
+   },
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00"
   }
  }
 }

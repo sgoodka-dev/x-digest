@@ -3232,6 +3232,241 @@
    "quoted": null,
    "fetched_at": "2026-11-11T14:32:23.483452+00:00",
    "enriched": 3
+  },
+  "2120616679327612948": {
+   "id": "2120616679327612948",
+   "url": "https://x.com/_achan96_/status/2120616679327612948",
+   "text": "(1/10) Today, we’re sharing new research from @OpenAI: How does CoT monitorability (no-CoT capability and CoT controllability) evolve over the model training lifecycle? \n\nWe emerged with unsurprising but sobering findings: as we scale toward more intelligent systems, models are becoming harder to monitor through their CoT. 🧵",
+   "created_at": "Wed Nov 11 20:36:30 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "jeffreygwang",
+   "rt_author_name": "Jeffrey Wang",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1491108556585586688/Yr09RGtg_normal.jpg",
+   "rt_id": "2120581630196879460",
+   "likes": 747,
+   "retweets": 101,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW3RTOobIAALofD.png"
+    }
+   ],
+   "links": {
+    "https://t.co/HD9zP4gZgk": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00",
+   "thread": [
+    {
+     "id": "2120581634651197686",
+     "author_handle": "jeffreygwang",
+     "author_name": "Jeffrey Wang",
+     "text": "(2/10) First, we study a set of internal and released frontier models. \n\nAcross many evals, we see that no-CoT capability (reasoning capability in a forward pass, a proxy for worse CoT monitorability) smoothly improves with better pretrained models (lower base model perplexity). https://t.co/zO5JwmXshi",
+     "links": {
+      "https://t.co/zO5JwmXshi": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW3RVPFbEAAJYEj.jpg"
+      }
+     ],
+     "url": "https://x.com/jeffreygwang/status/2120581634651197686",
+     "created_at": "Wed Nov 11 18:17:14 +0000 2026"
+    },
+    {
+     "id": "2120581636907831535",
+     "author_handle": "jeffreygwang",
+     "author_name": "Jeffrey Wang",
+     "text": "(3/10) We ask the same about CoT controllability, which measures a model’s ability to control its CoT when prompted to add, remove, or manipulate CoT tokens.\n\nThere, we also see a (weaker) correlation between lower base model perplexity and higher CoT controllability. https://t.co/ljqqAa5JHg",
+     "links": {
+      "https://t.co/ljqqAa5JHg": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW3RXn3bUAAmJGg.jpg"
+      }
+     ],
+     "url": "https://x.com/jeffreygwang/status/2120581636907831535",
+     "created_at": "Wed Nov 11 18:17:15 +0000 2026"
+    },
+    {
+     "id": "2120581639395025179",
+     "author_handle": "jeffreygwang",
+     "author_name": "Jeffrey Wang",
+     "text": "(4/10) Next, we focus on architecture. We compare three different architectures at shared base model perplexity levels. For the majority of no-CoT evaluations, perplexity is predictive across architectures. https://t.co/9tDULH8rqC",
+     "links": {
+      "https://t.co/9tDULH8rqC": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW3RZSNbYAA0bFd.jpg"
+      }
+     ],
+     "url": "https://x.com/jeffreygwang/status/2120581639395025179",
+     "created_at": "Wed Nov 11 18:17:15 +0000 2026"
+    },
+    {
+     "id": "2120581641328549996",
+     "author_handle": "jeffreygwang",
+     "author_name": "Jeffrey Wang",
+     "text": "(5/10) For multi-hop planning and serial computation questions, certain architectures perform better than base model perplexity predicts. In these cases, however, we note that no-CoT performance scales smoothly, but at a steeper rate with respect to perplexity.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/jeffreygwang/status/2120581641328549996",
+     "created_at": "Wed Nov 11 18:17:16 +0000 2026"
+    },
+    {
+     "id": "2120581643169902819",
+     "author_handle": "jeffreygwang",
+     "author_name": "Jeffrey Wang",
+     "text": "(6/10) Afterwards, we study RL. In an Astra-class model, we find that CoT controllability increases substantially during RL even with no process supervision other than length constraints and final answer grading. https://t.co/I20YtPpxIA",
+     "links": {
+      "https://t.co/I20YtPpxIA": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW3Rb_NbcAA17gS.jpg"
+      }
+     ],
+     "url": "https://x.com/jeffreygwang/status/2120581643169902819",
+     "created_at": "Wed Nov 11 18:17:16 +0000 2026"
+    },
+    {
+     "id": "2120581645539704932",
+     "author_handle": "jeffreygwang",
+     "author_name": "Jeffrey Wang",
+     "text": "(7/10) CoT controllability increases slightly when we add tool access and tool supervision during RL on a Terra-class model. Our current results indicate that the effect of full tool process supervision is small compared to decreasing model perplexity. https://t.co/nS95BORaTR",
+     "links": {
+      "https://t.co/nS95BORaTR": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW3Rdv8a4AAQtU2.jpg"
+      }
+     ],
+     "url": "https://x.com/jeffreygwang/status/2120581645539704932",
+     "created_at": "Wed Nov 11 18:17:17 +0000 2026"
+    },
+    {
+     "id": "2120581647791964408",
+     "author_handle": "jeffreygwang",
+     "author_name": "Jeffrey Wang",
+     "text": "(8/10) Finally, we study how decisions made in one model generation can affect the next via supervised fine-tuning (SFT) on model-generated data. To investigate, we selected two Astra-class teachers with ~matched downstream capabilities but differing CoT controllability. https://t.co/0EIq3fBbao",
+     "links": {
+      "https://t.co/0EIq3fBbao": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW3RfYnaIAA311R.jpg"
+      }
+     ],
+     "url": "https://x.com/jeffreygwang/status/2120581647791964408",
+     "created_at": "Wed Nov 11 18:17:17 +0000 2026"
+    },
+    {
+     "id": "2120581649624956932",
+     "author_handle": "jeffreygwang",
+     "author_name": "Jeffrey Wang",
+     "text": "(9/10) We find that CoT controllability can be distilled: training on rollouts from a more controllable teacher results in a more controllable student!",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/jeffreygwang/status/2120581649624956932",
+     "created_at": "Wed Nov 11 18:17:18 +0000 2026"
+    },
+    {
+     "id": "2120581651269075371",
+     "author_handle": "jeffreygwang",
+     "author_name": "Jeffrey Wang",
+     "text": "(10/10) For this pair of similarly capable models, we did not see meaningful association between CoT controllability and monitor evasion. \n\nWe report this, and elaborate more in the blog, to underscore our thinking that CoT controllability is a noisy proxy for adversarial monitorability. We are expanding our evaluation suite and interested in understanding precursors to worst-case monitorability better.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/jeffreygwang/status/2120581651269075371",
+     "created_at": "Wed Nov 11 18:17:18 +0000 2026"
+    },
+    {
+     "id": "2120581652758122697",
+     "author_handle": "jeffreygwang",
+     "author_name": "Jeffrey Wang",
+     "text": "Please read more here: https://t.co/9vH2AwHfNQ",
+     "links": {
+      "https://t.co/9vH2AwHfNQ": "https://alignment.openai.com/cot-monitorability-model-lifecycle"
+     },
+     "media": [],
+     "url": "https://x.com/jeffreygwang/status/2120581652758122697",
+     "created_at": "Wed Nov 11 18:17:19 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120616655264809468": {
+   "id": "2120616655264809468",
+   "url": "https://x.com/_achan96_/status/2120616655264809468",
+   "text": "(9/10) We find that CoT controllability can be distilled: training on rollouts from a more controllable teacher results in a more controllable student!",
+   "created_at": "Wed Nov 11 20:36:24 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "jeffreygwang",
+   "rt_author_name": "Jeffrey Wang",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1491108556585586688/Yr09RGtg_normal.jpg",
+   "rt_id": "2120581649624956932",
+   "likes": 37,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00",
+   "enriched": 3
+  },
+  "2120616552722583895": {
+   "id": "2120616552722583895",
+   "url": "https://x.com/_achan96_/status/2120616552722583895",
+   "text": "@jeffreygwang whoa that's pretty unexpected to me\n\nAny thoughts about the mechanism? I guess your fig 6 suggests it's not mediated by capabilities",
+   "created_at": "Wed Nov 11 20:35:59 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": true,
+   "reply_to": "jeffreygwang",
+   "reply_to_id": "2120581649624956932",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00",
+   "parent": {
+    "id": "2120581649624956932",
+    "author_handle": "jeffreygwang",
+    "author_name": "Jeffrey Wang",
+    "text": "(9/10) We find that CoT controllability can be distilled: training on rollouts from a more controllable teacher results in a more controllable student!",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/jeffreygwang/status/2120581649624956932",
+    "created_at": "Wed Nov 11 18:17:18 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

@@ -3417,6 +3417,40 @@
    },
    "fetched_at": "2026-11-11T14:32:23.483452+00:00",
    "enriched": 3
+  },
+  "2120633487049072821": {
+   "id": "2120633487049072821",
+   "url": "https://x.com/mentalgeorge/status/2120633487049072821",
+   "text": "@pawtrammell @ramez @michael_wiebe @karthiktadepall @cherylwoooo main things to add to your list @ramez:\n- Inference compute for internal use of coding agents (surely has gone up enormously) \n- Experimental compute (they might just be running much more, much bigger experiments; also seems likely now that they effectively have more researchers)",
+   "created_at": "Wed Nov 11 21:43:17 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "pawtrammell",
+   "reply_to_id": "2120633079123325251",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00",
+   "parent": {
+    "id": "2120633079123325251",
+    "author_handle": "pawtrammell",
+    "author_name": "Philip Trammell",
+    "text": "@ramez @michael_wiebe @karthiktadepall @cherylwoooo I can't believe training compute wouldn't include RL compute within Anthropic, but buying RL data from third parties might be kind of the same thing but off the books",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/pawtrammell/status/2120633079123325251",
+    "created_at": "Wed Nov 11 21:41:40 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }
