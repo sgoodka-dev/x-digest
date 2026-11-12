@@ -3451,6 +3451,37 @@
     "created_at": "Wed Nov 11 21:41:40 +0000 2026"
    },
    "enriched": 3
+  },
+  "2120918034181501365": {
+   "id": "2120918034181501365",
+   "url": "https://x.com/mentalgeorge/status/2120918034181501365",
+   "text": "Takeaway 4: If trends in model efficiency hold, we could fit models as capable as today’s frontier LLMs onboard large and small drones in as little as 1 to 3 years.\n\nThe model size needed to reach a given level of capability has generally halved every 3.5 months. If this trend in “model efficiency” continues, models with roughly equivalent capabilities as GPT-6 Astra and Kimi K3.1 Pro could fit on chips that can be powered onboard small and large drones between late 2027 and mid 2029.\n\nHowever, this only tells us when these models would fit. Whether or not these systems are usable on the battlefield still depends on capabilities progress and vast improvements in model latency.\n\nBecause we haven’t yet seen reliable and robust drone autonomy exhibited in any form, I’m simply using today’s frontier models as a proxy for the most capable models.\n\nIf it turns out that the first models to be capable enough are far larger than today’s frontier, then the time it takes for them to become available onboard drones would be further extended.\n\n5/",
+   "created_at": "Thu Nov 12 16:33:58 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "JakeASteckler",
+   "rt_author_name": "Jake Steckler",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2081975769694089216/8FRftf82_normal.jpg",
+   "rt_id": "2120902226939875614",
+   "likes": 6,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW7tJ_PXYAANerq.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/eWxzITCv2l": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
   }
  }
 }

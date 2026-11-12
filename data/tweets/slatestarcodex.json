@@ -3007,6 +3007,40 @@
     "created_at": "Tue Nov 10 12:01:09 +0000 2026"
    },
    "enriched": 3
+  },
+  "2121006461010768109": {
+   "id": "2121006461010768109",
+   "url": "https://x.com/slatestarcodex/status/2121006461010768109",
+   "text": "@austinc3301 @ohabryka @DavidSKrueger Thank you, I agree that this is what I meant.",
+   "created_at": "Thu Nov 12 22:25:21 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "austinc3301",
+   "reply_to_id": "2119499306948280342",
+   "avatar": "https://pbs.twimg.com/profile_images/378800000009065862/83d72de47e2a2470c482bc75406b42a7_normal.png",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "parent": {
+    "id": "2119499306948280342",
+    "author_handle": "austinc3301",
+    "author_name": "Agus 🔸",
+    "text": "@ohabryka @DavidSKrueger I think Scott is arguing a very different thing here, which is that if we had paused not now, but before frontier labs were even founded, we wouldn't have made substantive progress on AI safety? That seems at least directionally corrected, I don't think MIRI was making great progress on alignment back then, and I don't think they would have in 10 years.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/austinc3301/status/2119499306948280342",
+    "created_at": "Sun Nov 08 18:36:27 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

@@ -9490,7 +9490,859 @@
     "author": "kaicathyc",
     "text": "&gt; as we scale toward more intelligent systems, models are becoming harder to monitor through their CoT\n\nneed to push much harder on alternatives to CoT monitoring and making monitorability a training objective"
    },
-   "fetched_at": "2026-11-11T21:58:42.410012+00:00"
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00",
+   "thread": [
+    {
+     "id": "2120612251463750015",
+     "author_handle": "theobearman",
+     "author_name": "Theo Bearman",
+     "text": "I published a related report on this just yesterday, co-authored with @JacobDavieyr1m.\n\nhttps://t.co/tTHDG1vdFc",
+     "links": {
+      "https://t.co/tTHDG1vdFc": "https://x.com/theobearman/status/2120179260451139718?a=viCE1oW9lvEYdwbp534&s=46"
+     },
+     "media": [],
+     "url": "https://x.com/theobearman/status/2120612251463750015",
+     "created_at": "Wed Nov 11 20:18:54 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120994269431574548": {
+   "id": "2120994269431574548",
+   "url": "https://x.com/theobearman/status/2120994269431574548",
+   "text": "I have a major result to share.\n\nI’ve found conclusive forensic evidence that the top 4 Chinese AI labs—DeepSeek, Moonshot, MiniMax and Ant Group—have built their newest models on NVIDIA’s most advanced Blackwell chips, which are barred from export to China.\n\nThis sounds insane, but I discovered that almost every AI model carries a hidden signature of the GPU that trained it. When a model is first set up, the starting values of its weights are laid out in a pattern that depends on the exact GPU. Each combination of GPU and seed number produces a unique pattern—a sort of fingerprint of the hardware used to create the model. Traces of that pattern survive training into the published model.\n\nAgain, this evidence isn’t based on any insider information or leaking. It’s based on a forensic analysis of the model weights released by the companies themselves.\n\nI searched more than six trillion combinations of chip layout and seed number and matched them to open-weights models. In doing so, I found conclusive evidence that six Chinese AI models—including DeepSeek-V4-Pro, Kimi K3, and MiniMax-M3—were initialized on NVIDIA Blackwell systems. Four of the models match Grace Blackwell, the GB200 and GB300 parts in NVIDIA’s flagship liquid-cooled rack-scale systems.\n\nI then verified these results on real hardware. Running unmodified PyTorch with the seeds I’d recovered, a Blackwell B300 reproduced DeepSeek-V4-Flash’s untouched starting weights bit for bit, and a rented GB200 reproduced Kimi K3’s to a correlation of 0.999995. A Hopper H100 reproduced none of DeepSeek-V4-Flash’s, and changing the seed by one broke the match. (DeepSeek’s seed is 953049583 by the way.) The method also was verified to match 24 known open-weights models to the hardware that developers said they used.\n\nIt is exceedingly unlikely that these results are a coincidence. Across six trillion combinations, the best accidental match should reach only about 8 sigma (i.e., eight standard deviations above what random chance would produce). The real matches range from 49 to 1,385 sigma, and even the weakest single test hits 20.\n\nThese were data-center-scale training runs. With some analysis of release schedules and model details, I estimate that the largest, Kimi K3 and DeepSeek-V4-Pro, used 2,000 to 3,000 Blackwell GPUs each. Clusters of this size cost on the order of $150 to $200 million each to buy, and across these labs alone would add up to more than half a billion dollars of export-controlled GPUs, not counting experimental compute or otherwise. It’s quite likely that we see multi-billion dollar expenditure on export-controlled GPUs.\n\nI am highly confident in this result, and it has been independently verified by senior researchers at OpenAI and Anthropic. You can read the full report at https://t.co/YOtzND0Jqk.\n\nThere is much more I’ve identified about these models through other forms of checkpoint forensics like this, and will have more to share soon.",
+   "created_at": "Thu Nov 12 21:36:54 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "willdepue",
+   "rt_author_name": "will depue",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1933036715343839232/NtsZBjee_normal.jpg",
+   "rt_id": "2120992457630326841",
+   "likes": 10766,
+   "retweets": 1438,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW9GgJ_WcAA9m3I.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/YOtzND0Jqk": "http://unemploymentlabs.com/checkpoint-forensics",
+    "https://t.co/qlttvJsXG7": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120987025784619200": {
+   "id": "2120987025784619200",
+   "url": "https://x.com/theobearman/status/2120987025784619200",
+   "text": "A model backdoor embeds hidden behavior that stays dormant until a trigger appears. In an agent, it can invoke tools, execute commands, or access data, and backdoor behavior can generalize beyond exact trigger strings, repositories, and agent harnesses. https://t.co/DNg23W8t0Z \n\nTwo studies of the post-training supply chain, from Microsoft Defender Research and the Microsoft AI Red Team, examine poisoned fine-tuning datasets and backdoored open-weight checkpoints. Their findings support Satya Nadella's argument that trustworthy enterprise AI requires independent observability and controls that sit outside the model.\n\nCapability evaluation and subsequent training are not sufficient evidence that a model is free of hidden conditional behavior. Read the blog for the full findings and guidance on controls over training-data pipelines, model adoption, and tools.",
+   "created_at": "Thu Nov 12 21:08:07 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "MsftSecIntel",
+   "rt_author_name": "Microsoft Threat Intelligence",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1268200269277351936/a2naHzbe_normal.png",
+   "rt_id": "2120927480588484989",
+   "likes": 47,
+   "retweets": 14,
+   "media": [],
+   "links": {
+    "https://t.co/DNg23W8t0Z": "https://msft.it/6010x6UEu"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120983855809397236": {
+   "id": "2120983855809397236",
+   "url": "https://x.com/theobearman/status/2120983855809397236",
+   "text": "⚡NEW: AI Agents know where to find each other on the web and can hide their communication after they've met.\n\nWe gave two independent agents the task to find each other and exchange a secret and did not tell them where to meet. https://t.co/nZLn4QMhnV",
+   "created_at": "Thu Nov 12 20:55:31 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "DavidSchmotz",
+   "rt_author_name": "David Schmotz",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2105381180061204480/eGAHPr-R_normal.jpg",
+   "rt_id": "2120951914489876655",
+   "likes": 72,
+   "retweets": 20,
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://pbs.twimg.com/tweet_video_thumb/HW8if7xaMAAVYMP.jpg"
+    },
+    {
+     "type": "animated_gif",
+     "url": "https://pbs.twimg.com/tweet_video_thumb/HW8if7xaMAAVYMP.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/nZLn4QMhnV": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120983262105641386": {
+   "id": "2120983262105641386",
+   "url": "https://x.com/theobearman/status/2120983262105641386",
+   "text": "TRUMP, ON CHINA ESPIONAGE, SAYS \"IT GOES BOTH WAYS, WE DO IT WELL TOO, IT'S RECIPROCAL,\" AND, ON HUANG, SAYS \"WHAT A HORRIBLE THING THAT IS, SAD TO SEE\"\n\nTRUMP SAYS HE INTENDS TO USE THE VETO BUT THAT DEALS CAN BE CUT",
+   "created_at": "Thu Nov 12 20:53:10 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "FirstSquawk",
+   "rt_author_name": "First Squawk",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0_normal.jpg",
+   "rt_id": "2120974491782455694",
+   "likes": 81,
+   "retweets": 9,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120982797892583767": {
+   "id": "2120982797892583767",
+   "url": "https://x.com/theobearman/status/2120982797892583767",
+   "text": "Today we’re sharing new safety research from @OpenAI. We used automated red-teaming to train GPT-6 Astra to be more robustly safe in high-stakes domains such as cyber and biology, as measured on both static and adaptive jailbreak evaluations. 🧵 1/7\n\nhttps://t.co/zUSc28lbnY https://t.co/eHERNDiCHJ",
+   "created_at": "Thu Nov 12 20:51:19 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "kaiwenw_ai",
+   "rt_author_name": "Kaiwen Wang",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1816389841279467523/wbS-bltQ_normal.jpg",
+   "rt_id": "2120962405043978375",
+   "likes": 59,
+   "retweets": 7,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW8sEVQaoAAtJf_.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW8sEVQaoAAtJf_.png"
+    }
+   ],
+   "links": {
+    "https://t.co/zUSc28lbnY": "https://alignment.openai.com/fuzzy-robustness/",
+    "https://t.co/eHERNDiCHJ": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "thread": [
+    {
+     "id": "2120962409594749377",
+     "author_handle": "kaiwenw_ai",
+     "author_name": "Kaiwen Wang",
+     "text": "🔴 We put a helpful-only reasoning model into our red-teaming harness. Given a seed prompt, it iteratively tries to jailbreak a defender model, then refines its approach using feedback from safety judges. We observe that attacker success rate (ASR) scales with higher test-time compute.\n\nAlso, we found that tasking the attacker to jailbreak n defender rollouts simultaneously improves the reliability of the jailbreak, a technique we call worst@n jailbreaking. Worst@n jailbreaks also transfer better to a held-out defender. 2/7",
+     "links": {
+      "https://t.co/pG96JVUThu": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW8sEliaMAA-tKf.png"
+      }
+     ],
+     "url": "https://x.com/kaiwenw_ai/status/2120962409594749377",
+     "created_at": "Thu Nov 12 19:30:18 +0000 2026"
+    },
+    {
+     "id": "2120962414221152615",
+     "author_handle": "kaiwenw_ai",
+     "author_name": "Kaiwen Wang",
+     "text": "🦠 Here’s an example attacker trajectory about a malicious question on spreading anthrax spores. GPT-5.4 and GPT-5.5 both refused on the first attempt.\n\nOn attempt 8, the attacker reframed the request as a math problem, and only GPT-5.4’s response was judged unsafe. By attempt 21, all safety graders marked both models’ responses unsafe. 3/7",
+     "links": {
+      "https://t.co/o9PyiCTPBN": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW8sE2ybgAAAu_y.jpg"
+      }
+     ],
+     "url": "https://x.com/kaiwenw_ai/status/2120962414221152615",
+     "created_at": "Thu Nov 12 19:30:19 +0000 2026"
+    },
+    {
+     "id": "2120962418851598707",
+     "author_handle": "kaiwenw_ai",
+     "author_name": "Kaiwen Wang",
+     "text": "🧪 We then ran a controlled experiment to check whether RL training on these jailbreaks improves robustness. On original seed prompts, the model’s safety score was high from the start. On “robustified” prompts, safety score started much lower and climbed throughout training. 4/7 https://t.co/CZYVdkD8E6",
+     "links": {
+      "https://t.co/CZYVdkD8E6": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW8sFHdbQAAmjRm.jpg"
+      }
+     ],
+     "url": "https://x.com/kaiwenw_ai/status/2120962418851598707",
+     "created_at": "Thu Nov 12 19:30:20 +0000 2026"
+    },
+    {
+     "id": "2120962423419269269",
+     "author_handle": "kaiwenw_ai",
+     "author_name": "Kaiwen Wang",
+     "text": "📊 As training safety scores climbed, we also observed improvements on held-out robustness evaluations, including fixed jailbreaks from an unseen attacker and adaptive multi-turn attacks. The improvement against adaptive attackers is an especially promising sign of robustness generalization because those attacks are stylistically very different from the training jailbreaks. 5/7",
+     "links": {
+      "https://t.co/bcNOT7g1jr": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW8sFYta0AAW8mg.jpg"
+      }
+     ],
+     "url": "https://x.com/kaiwenw_ai/status/2120962423419269269",
+     "created_at": "Thu Nov 12 19:30:21 +0000 2026"
+    },
+    {
+     "id": "2120962428267794641",
+     "author_handle": "kaiwenw_ai",
+     "author_name": "Kaiwen Wang",
+     "text": "⚖️ Finally, we evaluated whether the more robust model was also more likely to refuse benign tasks, and found this was not the case for GPT-6 Astra. In our system card’s evaluations, GPT-6 Astra handled harmful requests more safely while being less likely to refuse legitimate requests, driving a Pareto improvement on the safety-helpfulness curve. 6/7",
+     "links": {
+      "https://t.co/cGSIRO5ZiJ": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW8sFpxakAAopc0.jpg"
+      }
+     ],
+     "url": "https://x.com/kaiwenw_ai/status/2120962428267794641",
+     "created_at": "Thu Nov 12 19:30:23 +0000 2026"
+    },
+    {
+     "id": "2120981151129223200",
+     "author_handle": "kaiwenw_ai",
+     "author_name": "Kaiwen Wang",
+     "text": "It was a blast working on this with Oliver Cheng, Zheng Wen, Mehmet Yatbaz, Saachi Jain, Chuan Guo and Alec Helyar. Thanks to many more amazing colleagues for helpful discussions. 🙏\n\n📝 Blog post https://t.co/zUSc28lbnY\n📄 Full paper https://t.co/wJjWiCN58z",
+     "links": {
+      "https://t.co/zUSc28lbnY": "https://alignment.openai.com/fuzzy-robustness/",
+      "https://t.co/wJjWiCN58z": "https://cdn.openai.com/pdf/OAI_Improving_Fuzzy_Robustness_in_LLM_Safety_with_Automated_Red_Teaming.pdf"
+     },
+     "media": [],
+     "url": "https://x.com/kaiwenw_ai/status/2120981151129223200",
+     "created_at": "Thu Nov 12 20:44:47 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120982664438280334": {
+   "id": "2120982664438280334",
+   "url": "https://x.com/theobearman/status/2120982664438280334",
+   "text": "👀",
+   "created_at": "Thu Nov 12 20:50:47 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2120970051235021057",
+    "author_name": "roon",
+    "links": {},
+    "author": "tszzl",
+    "text": "@LinusMixson if it makes you feel any better lab researchers will be a defunct class in about a year"
+   },
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120982270987428273": {
+   "id": "2120982270987428273",
+   "url": "https://x.com/theobearman/status/2120982270987428273",
+   "text": "Introducing Claude Meetings: add Claude to your team’s video call and it builds docs, whiteboards, and other artifacts with you while you’re still talking.\n\nStarting to roll out in beta on Team and Enterprise plans. https://t.co/qlZYTcXBsC",
+   "created_at": "Thu Nov 12 20:49:14 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "claudeai",
+   "rt_author_name": "Claude",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_normal.jpg",
+   "rt_id": "2120973994191094179",
+   "likes": 33612,
+   "retweets": 1828,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HW82tOPWUAAsEFY.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HW82tOPWUAAsEFY.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/qlZYTcXBsC": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120981547343810668": {
+   "id": "2120981547343810668",
+   "url": "https://x.com/theobearman/status/2120981547343810668",
+   "text": "Today we’re sharing how we use automated red teaming at Anthropic. We want to find strong jailbreaks early, so we can test and improve our safeguards. https://t.co/Ax5469Cmx2",
+   "created_at": "Thu Nov 12 20:46:21 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "javirandor",
+   "rt_author_name": "Javier Rando",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1957458020008710144/Hjg4QQBe_normal.jpg",
+   "rt_id": "2120949295818137620",
+   "likes": 131,
+   "retweets": 16,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW8fuzoaIAAQYwh.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW8fuzoaIAAQYwh.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/Ax5469Cmx2": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120979645361160586": {
+   "id": "2120979645361160586",
+   "url": "https://x.com/theobearman/status/2120979645361160586",
+   "text": "OpenAI's next model will be fun https://t.co/s1PcxHLgRa",
+   "created_at": "Thu Nov 12 20:38:48 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "scaling01",
+   "rt_author_name": "Lisan al Gaib",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1831493788679761920/-q9w6dzd_normal.jpg",
+   "rt_id": "2120945290161070538",
+   "likes": 311,
+   "retweets": 12,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW8cf58XoAAcldY.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW8cf58XoAAcldY.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/s1PcxHLgRa": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120973330195079279": {
+   "id": "2120973330195079279",
+   "url": "https://x.com/theobearman/status/2120973330195079279",
+   "text": "BREAKING: We’re suing @Anthropic, @OpenAI, @Google, @Meta + @SpaceX to demand an immediate freeze on advanced AI systems that threaten public safety.\n\nTogether with @HeatInitiative, @Public_Citizen, and @secureainow, we’re going to court to stop these companies from building AI that could escape human control or enable bioweapons and cyberattacks.\n\nWe won’t wait for a catastrophe to act. The people come before Big AI profits.\n\nhttps://t.co/rKTP1gbzd6",
+   "created_at": "Thu Nov 12 20:13:42 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ir_replaceable_",
+   "rt_author_name": "Irreplaceable",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2093332423178104832/4QINWjbV_normal.jpg",
+   "rt_id": "2120898088373981626",
+   "likes": 680,
+   "retweets": 120,
+   "media": [],
+   "links": {
+    "https://t.co/rKTP1gbzd6": "https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120900059818508645": {
+   "id": "2120900059818508645",
+   "url": "https://x.com/theobearman/status/2120900059818508645",
+   "text": "Loads more layers to this onion it seems.",
+   "created_at": "Thu Nov 12 15:22:33 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2120898943810785664",
+    "author_name": "Leo Schwartz",
+    "links": {
+     "https://t.co/0i76ItDbyt": "https://www.theinformation.com/articles/alice-huangs-companies-invested-deepseek-promising-nvidia-chips",
+     "https://t.co/y9YJUWZks5": ""
+    },
+    "author": "leomschwartz",
+    "text": "New: Companies tied to Alice Huang recently invested in DeepSeek so that the Chinese AI lab could receive a steady stream of Nvidia's Blackwell chips, which are banned from sale in China, @jingyanghk and @QianerLiu report. \n\nAlice Huang's companies invested through special purpose vehicles, and as a result do not appear directly on DeepSeek's shareholder list. \n\nThe previously unreported relationship will add heat to scrutiny about Nvidia and now ousted CEO Jensen Huang's relationship with Alice Huang and her corporate network in China\n\nhttps://t.co/0i76ItDbyt"
+   },
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120880684080537949": {
+   "id": "2120880684080537949",
+   "url": "https://x.com/theobearman/status/2120880684080537949",
+   "text": "NVIDIA announces CEO transition. Read the release: https://t.co/MTTUvFHCJA",
+   "created_at": "Thu Nov 12 14:05:33 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "nvidianewsroom",
+   "rt_author_name": "NVIDIA Newsroom",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2081770046141919232/XxJ5pb1I_normal.jpg",
+   "rt_id": "2120876571829662014",
+   "likes": 70134,
+   "retweets": 13906,
+   "media": [],
+   "links": {
+    "https://t.co/MTTUvFHCJA": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120838938273472822": {
+   "id": "2120838938273472822",
+   "url": "https://x.com/theobearman/status/2120838938273472822",
+   "text": "",
+   "created_at": "Thu Nov 12 11:19:40 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 66,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120837777881288779": {
+   "id": "2120837777881288779",
+   "url": "https://x.com/theobearman/status/2120837777881288779",
+   "text": "@davidmanheim @farairesearch @Kimi_Moonshot @ppwwyyxx @rogerliuty @shaoguang_mao In fairness to @farairesearch, they are not alone in doing this (e.g., https://t.co/LCwM7rIDEC), and to be clear, my reposts of things should never be taken as indications of promotion/agreement/endorsement, simply that they piqued my interest.",
+   "created_at": "Thu Nov 12 11:15:04 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "davidmanheim",
+   "reply_to_id": "2120835354651484336",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/LCwM7rIDEC": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "parent": {
+    "id": "2120835354651484336",
+    "author_handle": "davidmanheim",
+    "author_name": "David Manheim",
+    "text": "@farairesearch @theobearman / @farairesearch This seems like the kind of result that is important, but probably shouldn't be published / promoted...?\n\n(B/c I'd guess it's not something @Kimi_Moonshot wants, and @ppwwyyxx / @rogerliuty / @shaoguang_mao will want to fix the issue in the future.)",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/davidmanheim/status/2120835354651484336",
+    "created_at": "Thu Nov 12 11:05:26 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120830255980290272": {
+   "id": "2120830255980290272",
+   "url": "https://x.com/theobearman/status/2120830255980290272",
+   "text": "Ask Kimi K3.1 Pro directly for help with a chemical, biological or cyber attack, and it complies 0.3% of the time. Write the first words of its answer for it, with the same short text every time, and it complies on up to 99.4%. 1/7 https://t.co/oDhyAsvUNH",
+   "created_at": "Thu Nov 12 10:45:10 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "farairesearch",
+   "rt_author_name": "FAR.AI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1832901794583789570/TV4j63RI_normal.jpg",
+   "rt_id": "2120628300171092014",
+   "likes": 30,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW38M36WAAAtdjd.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW38M36WAAAtdjd.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/oDhyAsvUNH": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "thread": [
+    {
+     "id": "2120628301341348226",
+     "author_handle": "farairesearch",
+     "author_name": "FAR.AI",
+     "text": "Kimi K3.1 Pro is open-weight: anyone can download it and run it where no developer can filter or monitor use. Its refusal training is the only safeguard, and whoever runs the model controls the generation process, including the start of its reply. 2/7 https://t.co/wX1O6YHiXC",
+     "links": {
+      "https://t.co/wX1O6YHiXC": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW38M5mW0AEXpiT.jpg"
+      }
+     ],
+     "url": "https://x.com/farairesearch/status/2120628301341348226",
+     "created_at": "Wed Nov 11 21:22:41 +0000 2026"
+    },
+    {
+     "id": "2120628302704468331",
+     "author_handle": "farairesearch",
+     "author_name": "FAR.AI",
+     "text": "We tested two versions of this response prefill attack. Skipping the model's reasoning reached 99.4% across every threat domain we tested. Letting it keep reasoning reached 93.3% on average, and at least 86% in each domain. Each takes about 2.5 hours of one-time setup. 3/7",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/farairesearch/status/2120628302704468331",
+     "created_at": "Wed Nov 11 21:22:41 +0000 2026"
+    },
+    {
+     "id": "2120628303727857850",
+     "author_handle": "farairesearch",
+     "author_name": "FAR.AI",
+     "text": "The attacked model stays capable. With the version that keeps its reasoning, average benchmark scores fell 3.3 points, and it fixed 75% of real software issues in SWE-bench Verified, against 74% without the attack. 4/7 https://t.co/KAW8wnIhyM",
+     "links": {
+      "https://t.co/KAW8wnIhyM": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW38M3JWUAAXwPE.jpg"
+      }
+     ],
+     "url": "https://x.com/farairesearch/status/2120628303727857850",
+     "created_at": "Wed Nov 11 21:22:41 +0000 2026"
+    },
+    {
+     "id": "2120628306282172647",
+     "author_handle": "farairesearch",
+     "author_name": "FAR.AI",
+     "text": "The attack carries over. The prefill that broke Kimi K3 in July works on K3.1 Pro unchanged (93.3%, against 98.3% on K3), and with slight adjustments the same style reached 92.5% on Meta's Muse Spark Open. 5/7",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/farairesearch/status/2120628306282172647",
+     "created_at": "Wed Nov 11 21:22:42 +0000 2026"
+    },
+    {
+     "id": "2120628307095846916",
+     "author_handle": "farairesearch",
+     "author_name": "FAR.AI",
+     "text": "Prefilling isn't the only way in. Feeding the model fake results from the tools it uses also got past its safeguards on 84% of requests. 6/7",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/farairesearch/status/2120628307095846916",
+     "created_at": "Wed Nov 11 21:22:42 +0000 2026"
+    },
+    {
+     "id": "2120628308006064331",
+     "author_handle": "farairesearch",
+     "author_name": "FAR.AI",
+     "text": "When refusal training is a model’s only inference-time safeguard, it has to hold up against attackers who run the model themselves. We recommend training models to resist both attacks, and testing them before the weights go public. \n\n🔗 Read more on our blog: https://t.co/I7EC8smHcF  7/7",
+     "links": {
+      "https://t.co/I7EC8smHcF": "https://buff.ly/C7n2ymE"
+     },
+     "media": [],
+     "url": "https://x.com/farairesearch/status/2120628308006064331",
+     "created_at": "Wed Nov 11 21:22:42 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120780003604639829": {
+   "id": "2120780003604639829",
+   "url": "https://x.com/theobearman/status/2120780003604639829",
+   "text": "@Hamish_Low5 @ChrisRMcGuire 💯",
+   "created_at": "Thu Nov 12 07:25:29 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "Hamish_Low5",
+   "reply_to_id": "2120779482982178837",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "parent": {
+    "id": "2120779482982178837",
+    "author_handle": "Hamish_Low5",
+    "author_name": "Hamish Low",
+    "text": "@ChrisRMcGuire @theobearman Norway is presumably because of public reporting around ByteDance renting Blackwells from Nscale in Norway? But given that was quite small scale blocking future licenses is pretty nonsensical vs actually doing a remote access prohibition properly",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/Hamish_Low5/status/2120779482982178837",
+    "created_at": "Thu Nov 12 07:23:25 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120769297014280672": {
+   "id": "2120769297014280672",
+   "url": "https://x.com/theobearman/status/2120769297014280672",
+   "text": "This proposed regulation makes no sense. It's almost as if Commerce purposefully wrote a regulation that gives the appearance of closing the remote access loophole, but would not actually do so. This article reads like a strategic leak by Commerce to try to take some heat off itself. However, I doubt this proposal would actually pass muster with the rest of the administration, which clearly wants regulations that would actually cut China off from advanced AI chips. \n\nCommerce is proposing expanding licensing policies for AI chips to Singapore, Malaysia, Thailand, Indonesia, Brazil, South Africa, and Norway (?!). The first six countries I understand; not clear why Norway is included. Commerce is also proposing banning data centers in those countries from providing remote access to China to Blackwell and above chips. \n\nThe problem is, this would be a totally inept and ineffective remote access ban. It means data centers in every other country--including data centers in the United States--would still be allowed to provide China with remote access to Blackwell chips. And data centers in every country could still provide China with remote access to H200 chips. So China would just use U.S., Canadian, Australian, Japanese, or Finnish data centers to access Blackwell chips and power its AI systems, while continuing to also remotely access H200s from data centers in Malaysia. \n\nIf the President's policy is no Blackwell access for China, this approach obviously fails to accomlish that objective. And while I don't think China should have access to any H200 chips, this approach also clearly undermines the President's policy of charging a fee for exports of H200 chips to China, as China can just legally remotely access H200s to avoid the fee. \n\nCommerce is obviously facing a LOT of heat right now, given all of DC is realizing their utter failure to enforce or implement export controls has allowed many billions of dollars worth of chips to flow to China. You would think they would at least leak a policy proposal that made sense and would be effective.",
+   "created_at": "Thu Nov 12 06:42:57 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ChrisRMcGuire",
+   "rt_author_name": "Chris McGuire",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2092284021472403456/pH5TCk8G_normal.jpg",
+   "rt_id": "2120723102304739777",
+   "likes": 148,
+   "retweets": 48,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120768232428888106": {
+   "id": "2120768232428888106",
+   "url": "https://x.com/theobearman/status/2120768232428888106",
+   "text": "This from the former Director of the National Counterintelligence and Security Center (NCSC).",
+   "created_at": "Thu Nov 12 06:38:43 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "JohnCornyn",
+   "rt_author_name": "Senator John Cornyn",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1932474608675901440/xY6zL55F_normal.jpg",
+   "rt_id": "2120685724286783649",
+   "likes": 2334,
+   "retweets": 514,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120766225328251242": {
+   "id": "2120766225328251242",
+   "url": "https://x.com/theobearman/status/2120766225328251242",
+   "text": "@leomschwartz @KelseyTuoc Correct me if I’m wrong, but this doesn’t sound like a remote access rule. Would Chinese companies be prevented from accessing a cluster in Europe, for example? No, by my reading of this screenshot.\n\nhttps://t.co/94AAS3YL03",
+   "created_at": "Thu Nov 12 06:30:44 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "leomschwartz",
+   "reply_to_id": "2120714962918166965",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/94AAS3YL03": "https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "parent": {
+    "id": "2120714962918166965",
+    "author_handle": "leomschwartz",
+    "author_name": "Leo Schwartz",
+    "text": "SCOOP: The Commerce Department is finalizing a long-awaited rule to close a loophole allowing Chinese AI firms to remotely access chips through data centers in Southeast Asia. \n\nCommerce has been under fire for not taking more action on export controls, especially given the Nvidia scandal. But this is a rule that companies including Nvidia have long opposed—and the rule will likely face intense pushback, even as Nvidia's influence is waning in Washington. \n\nCommerce is consulting with other agencies on the rule, which could be finalized as soon as this month. \n\nRead all about it here:\n\nhttps://t.co/NECsAvkxNT",
+    "links": {
+     "https://t.co/NECsAvkxNT": "https://www.theinformation.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule",
+     "https://t.co/AmuLahWmeR": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HW5JjjUW4AAJNfG.png"
+     }
+    ],
+    "url": "https://x.com/leomschwartz/status/2120714962918166965",
+    "created_at": "Thu Nov 12 03:07:02 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120763081647383008": {
+   "id": "2120763081647383008",
+   "url": "https://x.com/theobearman/status/2120763081647383008",
+   "text": "SECRETARY RUBIO on AI: \"What happens if these models become independent of human control and end up taking independent actions that are harmful?\n\nAn SI program that's good enough in the hands of a malign actor can allow them to do things that in the past malign actors couldn't do. You worry about how it can be used to create biological and chemical weapons, how to do cyberattacks on infrastructure, and carry out acts of violence or terrorism, that could have a huge cost.\"",
+   "created_at": "Thu Nov 12 06:18:15 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "peterwildeford",
+   "rt_author_name": "Peter Wildeford🇺🇸🚀",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2016338985811927041/Vve57ZtV_normal.png",
+   "rt_id": "2120690035418603810",
+   "likes": 402,
+   "retweets": 33,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120689173103296512/img/fStj-tR3eyjg4BAX.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/vmlJdoU0RN": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120760165247168728": {
+   "id": "2120760165247168728",
+   "url": "https://x.com/theobearman/status/2120760165247168728",
+   "text": "@zorache_ Thank you for clarifying! Looking forward to hearing more",
+   "created_at": "Thu Nov 12 06:06:39 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "zorache_",
+   "reply_to_id": "2120668177512415482",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "parent": {
+    "id": "2120668177512415482",
+    "author_handle": "zorache_",
+    "author_name": "Zora Che",
+    "text": "@theobearman thanks for writing this! speaking for myself, i worked on this project and the point in the blog around furthering monitorability science including cot monitorability is not a throwaway comment. \nbuilding multiple paths towards scalable oversight is also important!",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/zorache_/status/2120668177512415482",
+    "created_at": "Thu Nov 12 00:01:08 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

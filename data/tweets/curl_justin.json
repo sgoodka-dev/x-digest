@@ -2424,6 +2424,36 @@
    "quoted": null,
    "fetched_at": "2026-11-11T18:42:14.862503+00:00",
    "enriched": 3
+  },
+  "2121005541971591505": {
+   "id": "2121005541971591505",
+   "url": "https://x.com/curl_justin/status/2121005541971591505",
+   "text": "Yes! More legal scholars should be writing about frontier AI legal issues — so many intersect perfectly with their expertise.\n\nAnd yet not enough do, citing concerns that they’ll say something dumb or don’t know enough about AI. \n\nFor what it’s worth, I don’t think you need special insight into the technical details around AI models. It’s often enough to imagine what would happen if the cost of intelligence approached zero or if analysis could be completed much more quickly.\n\nSome questions that seem pressing are\n\n1. What can Flock teach us about AI-powered surveillance? Could ongoing automated monitoring count as per se unreasonable under the 4A?\n\n2. Government deployments: What should AI models do when faced with unlawful or awful requests? They could refuse, push back but comply, answer normally, or escalate to a human? If they escalate, who do they escalate to? \n\n3. If tort liability is to be a valuable deterrent, how can you pull forward timelines to a judgment? Are there procedural shortcuts that you can take to make sure it’s influencing behavior?\n\n4. Is an order the president issues through an AI agent an “official act”? And are conversations with AI agents subject to executive privilege?",
+   "created_at": "Thu Nov 12 22:21:42 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2072421779977699328/n3YQnb67_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 12,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2120935433395638699",
+    "author_name": "Ketan Ramakrishnan",
+    "links": {},
+    "author": "ketanrama",
+    "text": "It was great to talk with @ghadfield and @zittrain about regulating frontier AI at HLS. This is an urgent issue and I hope more legal scholars start working on it. \n\nIn my view, it’s high time for serious government regulation that aims to (1) ensure that all frontier labs are implementing state of the art security and control techniques (2) ensure that no lab is courting misalignment unnecessarily by doing very risky but commercially tempting forms of posttraining (3) pace the frontier and mitigate collective action problems and (4) rapidly generate evidence about misalignment by empowering independent evaluators, selected by the government or external experts rather than the companies, to conduct rigorous risk evaluations by intensively carrying out evidence-generation measures like model organisms, probes, and honeypots/sting operations. \n\nIn short, although AI alignment and control are (unfortunately) an extremely nascent science, I think there is a lot that regulation can already do, and it can help figure out what else to do. The odds of catastrophe grow substantially higher every month we postpone enacting a serious regulatory regime."
+   },
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
   }
  }
 }

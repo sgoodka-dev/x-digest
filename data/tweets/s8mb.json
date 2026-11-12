@@ -12244,6 +12244,76 @@
    "quoted": null,
    "fetched_at": "2026-11-11T18:42:14.862503+00:00",
    "enriched": 3
+  },
+  "2120938235337621776": {
+   "id": "2120938235337621776",
+   "url": "https://x.com/s8mb/status/2120938235337621776",
+   "text": "@benspringwater Would it be difficult to create a bookmarklet for saving articles? Most Chrome apps are locked down on my work computer.",
+   "created_at": "Thu Nov 12 17:54:15 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "benspringwater",
+   "reply_to_id": "2120935196560343467",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "parent": {
+    "id": "2120935196560343467",
+    "author_handle": "benspringwater",
+    "author_name": "Ben Springwater",
+    "text": "I have a confession - for a long time, I've been vaguely embarrassed by Matter's web app. Its design and functionality have not been up to snuff. I'm happy to report that this changes next week in a major way.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/benspringwater/status/2120935196560343467",
+    "created_at": "Thu Nov 12 17:42:10 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120919428183601187": {
+   "id": "2120919428183601187",
+   "url": "https://x.com/s8mb/status/2120919428183601187",
+   "text": "Remembering Dick Posner. He was truly one of the greats. RIP. https://t.co/pxt7N0lo6J https://t.co/CTSyjmq0yn",
+   "created_at": "Thu Nov 12 16:39:31 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "geoffmanne",
+   "rt_author_name": "Geoffrey Manne",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1151265318926528518/skqUFQ_4_normal.jpg",
+   "rt_id": "2120899202540847422",
+   "likes": 100,
+   "retweets": 24,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW7ylORbgAAT-tU.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW7ylORbgAAT-tU.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/pxt7N0lo6J": "https://truthonthemarket.com/2026/11/12/remembering-dick-posner/",
+    "https://t.co/CTSyjmq0yn": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
   }
  }
 }

@@ -3943,6 +3943,294 @@
    "quoted": null,
    "fetched_at": "2026-11-11T14:32:23.483452+00:00",
    "enriched": 3
+  },
+  "2120980004184195234": {
+   "id": "2120980004184195234",
+   "url": "https://x.com/DaveRBanerjee/status/2120980004184195234",
+   "text": "What the heck is going on with OpenAI internal AI R&amp;D time horizons: a thread of musings",
+   "created_at": "Thu Nov 12 20:40:13 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "BasilHalperin",
+   "rt_author_name": "Basil Halperin",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1905332522260856832/rdYkmXc9_normal.jpg",
+   "rt_id": "2119541238856663473",
+   "likes": 171,
+   "retweets": 18,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "thread": [
+    {
+     "id": "2119541242312991053",
+     "author_handle": "BasilHalperin",
+     "author_name": "Basil Halperin",
+     "text": "Here is the time horizon data that OpenAI shared publicly\nhttps://t.co/cBrGLCdiN9\n\nPOINT 1/ There are two ways to extract METR-style \"50%-accuracy time horizon\" from this data: https://t.co/lhySxQn0Wc",
+     "links": {
+      "https://t.co/cBrGLCdiN9": "https://x.com/_Chris_Ong/status/2096617627854811412",
+      "https://t.co/lhySxQn0Wc": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWoTBpqWgAAa7eY.jpg"
+      }
+     ],
+     "url": "https://x.com/BasilHalperin/status/2119541242312991053",
+     "created_at": "Sun Nov 08 21:23:05 +0000 2026"
+    },
+    {
+     "id": "2119541245806571900",
+     "author_handle": "BasilHalperin",
+     "author_name": "Basil Halperin",
+     "text": "Method 1: look for 50% on the y-axis, draw a straight line right until you hit one of OpenAI's linearly-interpolated curves\n\n1. 50% time horizon: ~10 hours + 68-day doubling time\n2. 80%: 15 minutes + 585-day doubling time\n\n-&gt; 80% reliability is low and *rising very slowly* https://t.co/RhfE9FBMvH",
+     "links": {
+      "https://t.co/RhfE9FBMvH": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWoUo8JXQAACHco.png"
+      }
+     ],
+     "url": "https://x.com/BasilHalperin/status/2119541245806571900",
+     "created_at": "Sun Nov 08 21:23:06 +0000 2026"
+    },
+    {
+     "id": "2119541249518821877",
+     "author_handle": "BasilHalperin",
+     "author_name": "Basil Halperin",
+     "text": "(@ramez does the same thing here I believe)\nhttps://t.co/YiLQAOSfah",
+     "links": {
+      "https://t.co/YiLQAOSfah": "https://x.com/ramez/status/2107839121402290643"
+     },
+     "media": [],
+     "url": "https://x.com/BasilHalperin/status/2119541249518821877",
+     "created_at": "Sun Nov 08 21:23:07 +0000 2026"
+    },
+    {
+     "id": "2119541251955372491",
+     "author_handle": "BasilHalperin",
+     "author_name": "Basil Halperin",
+     "text": "Method 2: fit a logistic distribution and read off the *fitted* time horizon\n\n1. 50% time horizon: ~6 hours + 63-day doubling time\n2. 80%: 15 minutes + 86-day doubling time\n\n-&gt; 80% reliability is low but *rising very quickly*!\nhttps://t.co/8sYGD1YDFe https://t.co/4ZFAz8FzOg",
+     "links": {
+      "https://t.co/8sYGD1YDFe": "https://x.com/AlexBarry4/status/2107842198746153300",
+      "https://t.co/4ZFAz8FzOg": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWoVCXRWUAAFqo9.png"
+      }
+     ],
+     "url": "https://x.com/BasilHalperin/status/2119541251955372491",
+     "created_at": "Sun Nov 08 21:23:08 +0000 2026"
+    },
+    {
+     "id": "2119541256812642801",
+     "author_handle": "BasilHalperin",
+     "author_name": "Basil Halperin",
+     "text": "To emphasize: \n(a) if you fit 80%-accuracy time horizon 'naively', then it doesn't look like 80% time horizon is rising so quickly;\n(b) if you fit a la METR, then we're doubling every 2 months",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/BasilHalperin/status/2119541256812642801",
+     "created_at": "Sun Nov 08 21:23:09 +0000 2026"
+    },
+    {
+     "id": "2119541259627020752",
+     "author_handle": "BasilHalperin",
+     "author_name": "Basil Halperin",
+     "text": "I don't think one of these is obviously better, except that the latter matches the METR methodology, which probably makes things more comparable\n\nBut otherwise not sure what to make of the difference in results!",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/BasilHalperin/status/2119541259627020752",
+     "created_at": "Sun Nov 08 21:23:10 +0000 2026"
+    },
+    {
+     "id": "2119541262391165256",
+     "author_handle": "BasilHalperin",
+     "author_name": "Basil Halperin",
+     "text": "Here's the logistic fits, if you want to eyeball the fit, not bad https://t.co/aGAEMElO2u",
+     "links": {
+      "https://t.co/aGAEMElO2u": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWoVikLW8AA0IlA.jpg"
+      }
+     ],
+     "url": "https://x.com/BasilHalperin/status/2119541262391165256",
+     "created_at": "Sun Nov 08 21:23:10 +0000 2026"
+    },
+    {
+     "id": "2119541266803466563",
+     "author_handle": "BasilHalperin",
+     "author_name": "Basil Halperin",
+     "text": "Method 3: But actually, fitting a Weibull distribution fits the data yet better\n\n(see Gus Hamilton and @tobyordoxford's prior writings on fitting a Weibull distribution https://t.co/XjeCnqAavJ)\n\nThis again shows an 80% time horizon (and 50%) doubling v quickly... https://t.co/m6azEpS3co",
+     "links": {
+      "https://t.co/XjeCnqAavJ": "https://www.tobyord.com/writing/hazard-rates-for-ai-agents-decline",
+      "https://t.co/m6azEpS3co": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWoV3J0W8AAifEf.png"
+      }
+     ],
+     "url": "https://x.com/BasilHalperin/status/2119541266803466563",
+     "created_at": "Sun Nov 08 21:23:11 +0000 2026"
+    },
+    {
+     "id": "2119541270125109595",
+     "author_handle": "BasilHalperin",
+     "author_name": "Basil Halperin",
+     "text": "POINT 2/ Why are OpenAI AI R&amp;D time horizons growing so quickly!!!\n\nMETR time horizon, until measurement ended, was doubling every 4-7 months\n\nOpenAI time horizons are doubling every 2 months... https://t.co/uRPIOMD1js",
+     "links": {
+      "https://t.co/uRPIOMD1js": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWoWHGBWQAAM0zc.jpg"
+      }
+     ],
+     "url": "https://x.com/BasilHalperin/status/2119541270125109595",
+     "created_at": "Sun Nov 08 21:23:12 +0000 2026"
+    },
+    {
+     "id": "2119541272520081808",
+     "author_handle": "BasilHalperin",
+     "author_name": "Basil Halperin",
+     "text": "This is especially confusing since @Kwathomas0 had a very important analysis showing that:\n1) METR measures time horizon for software tasks\n2) if you look at other tasks, the LEVEL of time horizon may differ, but the SPEED of increase is similar: 4-7 month doubling time https://t.co/SaoG43K5wp",
+     "links": {
+      "https://t.co/SaoG43K5wp": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWoWX6zXcAAvmi_.png"
+      }
+     ],
+     "url": "https://x.com/BasilHalperin/status/2119541272520081808",
+     "created_at": "Sun Nov 08 21:23:13 +0000 2026"
+    },
+    {
+     "id": "2119541276026753336",
+     "author_handle": "BasilHalperin",
+     "author_name": "Basil Halperin",
+     "text": "(...Dylan Ryfe and I are working on extending that analysis, coming soon to theaters near you...)\n\nExplanation (a): there just was a giant overhang of AI research capabilities that OpenAI researchers weren't making use of. Maybe but meh",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/BasilHalperin/status/2119541276026753336",
+     "created_at": "Sun Nov 08 21:23:14 +0000 2026"
+    },
+    {
+     "id": "2119541279042216088",
+     "author_handle": "BasilHalperin",
+     "author_name": "Basil Halperin",
+     "text": "Explanation (b): time horizon progress is not uniform across domains\n- this would be unfortunate (because it would make the world harder to predict) 🥲",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/BasilHalperin/status/2119541279042216088",
+     "created_at": "Sun Nov 08 21:23:14 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120965110185468316": {
+   "id": "2120965110185468316",
+   "url": "https://x.com/DaveRBanerjee/status/2120965110185468316",
+   "text": "Source: https://t.co/EoKwYN8jud",
+   "created_at": "Thu Nov 12 19:41:02 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "DaveRBanerjee",
+   "reply_to_id": "2120965107773575196",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/EoKwYN8jud": "https://epochai.substack.com/p/what-huaweis-horinger-data-center?publication_id=3755861&post_id=224478179&isFreemail=true&r=bcvpw&triedRedirect=true"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "parent": {
+    "id": "2120965107773575196",
+    "author_handle": "DaveRBanerjee",
+    "author_name": "Dave Banerjee",
+    "text": "New Epoch post on Huawei's biggest data center yet\n\nTo me, the main upshot is that semiconductor export controls work shockingly well\n\nThe new Huawei data center is China's biggest data center, yet its compute capacity is only 7% of the biggest US data center!!\n\nEven though the Huawei data center is packed with the best Chinese chips, these chips are far worse than Western chips because Huawei doesn't have access to state-of-the-art semiconductor manufacturing equipment, thanks to the export controls on EUV machines back in 2019\n\nThe next step to continue Western dominance in chips is to pass the MATCH Act\n\nPassing the MATCH Act would prevent China from accessing DUV machines, which they currently use to manufacture their best chips",
+    "links": {
+     "https://t.co/1HkvOMceMO": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HW8tYIhWkAA3LxA.jpg"
+     }
+    ],
+    "url": "https://x.com/DaveRBanerjee/status/2120965107773575196",
+    "created_at": "Thu Nov 12 19:41:01 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120965107773575196": {
+   "id": "2120965107773575196",
+   "url": "https://x.com/DaveRBanerjee/status/2120965107773575196",
+   "text": "New Epoch post on Huawei's biggest data center yet\n\nTo me, the main upshot is that semiconductor export controls work shockingly well\n\nThe new Huawei data center is China's biggest data center, yet its compute capacity is only 7% of the biggest US data center!!\n\nEven though the Huawei data center is packed with the best Chinese chips, these chips are far worse than Western chips because Huawei doesn't have access to state-of-the-art semiconductor manufacturing equipment, thanks to the export controls on EUV machines back in 2019\n\nThe next step to continue Western dominance in chips is to pass the MATCH Act\n\nPassing the MATCH Act would prevent China from accessing DUV machines, which they currently use to manufacture their best chips",
+   "created_at": "Thu Nov 12 19:41:01 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 5,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW8tYIhWkAA3LxA.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/1HkvOMceMO": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "thread": [
+    {
+     "id": "2120965110185468316",
+     "author_handle": "DaveRBanerjee",
+     "author_name": "Dave Banerjee",
+     "text": "Source: https://t.co/EoKwYN8jud",
+     "links": {
+      "https://t.co/EoKwYN8jud": "https://epochai.substack.com/p/what-huaweis-horinger-data-center?publication_id=3755861&post_id=224478179&isFreemail=true&r=bcvpw&triedRedirect=true"
+     },
+     "media": [],
+     "url": "https://x.com/DaveRBanerjee/status/2120965110185468316",
+     "created_at": "Thu Nov 12 19:41:02 +0000 2026"
+    }
+   ],
+   "enriched": 3
   }
  }
 }

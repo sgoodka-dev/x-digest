@@ -3467,6 +3467,204 @@
     "created_at": "Wed Nov 11 18:17:18 +0000 2026"
    },
    "enriched": 3
+  },
+  "2120903915868721536": {
+   "id": "2120903915868721536",
+   "url": "https://x.com/_achan96_/status/2120903915868721536",
+   "text": "how does this guy keep on getting away with putting out bangers",
+   "created_at": "Thu Nov 12 15:37:52 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 20,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2120902215254655195",
+    "author_name": "Jake Steckler",
+    "links": {
+     "https://t.co/eiTWhtRHRQ": "https://www.governance.ai/research-paper/general-purpose-ai-and-the-future-of-drone-autonomy-in-contested-environments",
+     "https://t.co/4jNTAfTZJE": ""
+    },
+    "author": "JakeASteckler",
+    "text": "Rapid AI progress has many people imagining a world where general-purpose AI models autonomously control military drones at scale. But there’s little analysis on what this would look like in practice, and how soon it might be feasible.\n\nMy latest paper at @GovAIOrg  asks what it would take to make this vision a reality, and what the path there means for AI policy.\n\nRead it here: https://t.co/eiTWhtRHRQ\n\nThe AI-enabled drones widely fielded today use narrow AI, not general-purpose models like LLMs. AI is typically only used to handle limited portions of a flight when the link to a pilot is broken, and these models are brittle in unpredictable conditions on real-world battlefields. Because of this, today’s drones still require significant pilot involvement to be most effective.\n\nGeneral-purpose AI models might make it possible to field autonomous systems that can receive plain language commands and make complex decisions in unpredictable environments without human control. Many people see frontier LLMs as a path toward this end - and rapid progress in robotics capabilities by frontier models like GPT-6 Astra and most recently Claude Fable 5.2 supports this case.\n\nBut two things currently stand in the way:\n\n- The biggest and most powerful models are still not capable enough even in controlled environments without compute and latency constraints\n- Military drones will have to operate “on the edge” in contested environments without consistent cloud compute access - which makes these constraints even more severe\n\nIf and when general-purpose AI plays a major role in drone autonomy, it’ll likely be through models that are far smaller than today’s frontier, and those that militaries can rapidly modify. And, notably - when it comes to these types of small open-weight models, China currently dominates.\n\nThis has a variety of implications for the US military, frontier AI developers, and US policymakers.\n\nThread below with my key takeaways and recommendations.\n\n1/"
+   },
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120903552830742836": {
+   "id": "2120903552830742836",
+   "url": "https://x.com/_achan96_/status/2120903552830742836",
+   "text": "Rapid AI progress has many people imagining a world where general-purpose AI models autonomously control military drones at scale. But there’s little analysis on what this would look like in practice, and how soon it might be feasible.\n\nMy latest paper at @GovAIOrg  asks what it would take to make this vision a reality, and what the path there means for AI policy.\n\nRead it here: https://t.co/eiTWhtRHRQ\n\nThe AI-enabled drones widely fielded today use narrow AI, not general-purpose models like LLMs. AI is typically only used to handle limited portions of a flight when the link to a pilot is broken, and these models are brittle in unpredictable conditions on real-world battlefields. Because of this, today’s drones still require significant pilot involvement to be most effective.\n\nGeneral-purpose AI models might make it possible to field autonomous systems that can receive plain language commands and make complex decisions in unpredictable environments without human control. Many people see frontier LLMs as a path toward this end - and rapid progress in robotics capabilities by frontier models like GPT-6 Astra and most recently Claude Fable 5.2 supports this case.\n\nBut two things currently stand in the way:\n\n- The biggest and most powerful models are still not capable enough even in controlled environments without compute and latency constraints\n- Military drones will have to operate “on the edge” in contested environments without consistent cloud compute access - which makes these constraints even more severe\n\nIf and when general-purpose AI plays a major role in drone autonomy, it’ll likely be through models that are far smaller than today’s frontier, and those that militaries can rapidly modify. And, notably - when it comes to these types of small open-weight models, China currently dominates.\n\nThis has a variety of implications for the US military, frontier AI developers, and US policymakers.\n\nThread below with my key takeaways and recommendations.\n\n1/",
+   "created_at": "Thu Nov 12 15:36:26 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "JakeASteckler",
+   "rt_author_name": "Jake Steckler",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2081975769694089216/8FRftf82_normal.jpg",
+   "rt_id": "2120902215254655195",
+   "likes": 36,
+   "retweets": 9,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW7mL5IXEAAr0QB.png"
+    }
+   ],
+   "links": {
+    "https://t.co/eiTWhtRHRQ": "https://www.governance.ai/research-paper/general-purpose-ai-and-the-future-of-drone-autonomy-in-contested-environments",
+    "https://t.co/4jNTAfTZJE": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "thread": [
+    {
+     "id": "2120902217980858487",
+     "author_handle": "JakeASteckler",
+     "author_name": "Jake Steckler",
+     "text": "Takeaway 1: There are two broad approaches militaries can take to drone autonomy.\n\nAutonomy is attractive to militaries because it would allow them to field systems at an otherwise impossible scale, and to maintain combat power in environments that are contested in ways that make it difficult for human operators to have continuous control of unmanned systems.\n\nThey could achieve autonomy through:\n\n1. AI models running onboard the drones themselves\n2. AI models running from a command and control node, orchestrating drones with offboard compute\n\nMany tradeoffs exist between these options, which I've broken down in the below two tables. An orchestrator allows access to more compute, and bigger, more capable models. But it makes drones dependent on unreliable communications links that can be disrupted by adversaries in a variety of ways.\n\nRunning AI onboard drones, meanwhile, eliminates many of these vulnerabilities, but limits the size and capabilities of the model that can be fielded. And it might give militaries less ability to intervene in the actions of those drones. \n\n2/",
+     "links": {
+      "https://t.co/ZSeKwRQ9pH": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW7ms_xX0AAp3Mx.png"
+      },
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW7nELmWoAAVHvj.png"
+      }
+     ],
+     "url": "https://x.com/JakeASteckler/status/2120902217980858487",
+     "created_at": "Thu Nov 12 15:31:07 +0000 2026"
+    },
+    {
+     "id": "2120902220753289480",
+     "author_handle": "JakeASteckler",
+     "author_name": "Jake Steckler",
+     "text": "Takeaway 2: Today’s LLMs aren't yet good enough for most drone tasks, and they're far too slow.\n\nFor autonomous attack drones to perform reliably on the battlefield, they’d have to do a variety of things that require a combination of low- and high-level reasoning. They’d have to avoid obstacles, track targets, verify that those targets meet mission criteria, and do a variety of planning tasks like changing a mission when unexpected conditions arise.\n\nFrontier LLMs can't yet reliably accomplish these tasks, and even with ample compute from data centers, they're are much too slow for anything except the most time permissive tasks, such as planning, as you can see in the chart below.\n\nMuch smaller LLMs, when run with less-powerful onboard compute, are still too slow. Many tasks like flight control and obstacle avoidance would likely be passed to lower-level controllers using more traditional robotics policies, but if general-purpose AI models are involved, they’ll likely be a rate limiter regardless.\n\nVision-language-action (VLA) models offer another possible approach beyond LLMs, and they can currently run much faster than LLMs. But these models have also not yet shown the requisite capabilities (especially in real-world conditions), and they are still not quite fast enough for the most time constrained tasks.\n\n3/",
+     "links": {
+      "https://t.co/to7F7cCzAB": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW7sIxHWQAAkqKD.jpg"
+      }
+     ],
+     "url": "https://x.com/JakeASteckler/status/2120902220753289480",
+     "created_at": "Thu Nov 12 15:31:08 +0000 2026"
+    },
+    {
+     "id": "2120902223613857886",
+     "author_handle": "JakeASteckler",
+     "author_name": "Jake Steckler",
+     "text": "Takeaway 3: The biggest and best models are far too big to be run on the edge, either with onboard compute or from a small command and control node.\n\nFrontier LLMs have memory requirements* that could only be met with multiple GPU servers. Supporting them would be resource-intensive for military units to move and operate, and they'd likely be easy for enemies to geolocate – and therefore not ideal for military units operating near or on the frontlines.\n\nSmaller models can fit on a variety of edge chips that various sized platforms could run (from laptops to large, medium, and small drones, depending on model size). These models would likely be less capable, however.\n\nVLAs are much smaller, which makes them promising candidates for onboard use. But again, they have not yet proven reliable and robust enough for real missions.\n\nSee the chart below for a breakdown in memory requirements and where models could fit. \n\n*Note the sizes for closed models are based on unconfirmed estimates of their parameter counts, since these numbers are not made public. This analysis is just meant to show a general range of how big these models might be, not to serve as precise estimates of how much memory they demand. \n\n4/",
+     "links": {
+      "https://t.co/vL5N2FMExc": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW7s4MUXMAANMF4.jpg"
+      }
+     ],
+     "url": "https://x.com/JakeASteckler/status/2120902223613857886",
+     "created_at": "Thu Nov 12 15:31:09 +0000 2026"
+    },
+    {
+     "id": "2120902226939875614",
+     "author_handle": "JakeASteckler",
+     "author_name": "Jake Steckler",
+     "text": "Takeaway 4: If trends in model efficiency hold, we could fit models as capable as today’s frontier LLMs onboard large and small drones in as little as 1 to 3 years.\n\nThe model size needed to reach a given level of capability has generally halved every 3.5 months. If this trend in “model efficiency” continues, models with roughly equivalent capabilities as GPT-6 Astra and Kimi K3.1 Pro could fit on chips that can be powered onboard small and large drones between late 2027 and mid 2029.\n\nHowever, this only tells us when these models would fit. Whether or not these systems are usable on the battlefield still depends on capabilities progress and vast improvements in model latency.\n\nBecause we haven’t yet seen reliable and robust drone autonomy exhibited in any form, I’m simply using today’s frontier models as a proxy for the most capable models.\n\nIf it turns out that the first models to be capable enough are far larger than today’s frontier, then the time it takes for them to become available onboard drones would be further extended.\n\n5/",
+     "links": {
+      "https://t.co/eWxzITCv2l": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW7tJ_PXYAANerq.jpg"
+      }
+     ],
+     "url": "https://x.com/JakeASteckler/status/2120902226939875614",
+     "created_at": "Thu Nov 12 15:31:10 +0000 2026"
+    },
+    {
+     "id": "2120902229607502281",
+     "author_handle": "JakeASteckler",
+     "author_name": "Jake Steckler",
+     "text": "Takeaway 5: If general-purpose AI drives progress in drone autonomy, smaller open-weight systems will likely be the relevant class of model. China currently leads the US in this field.\n\nOpen models are easier to work with for drone developers than closed systems: they can easily fine-tune them on military data, “abliterate” them to remove guardrails, etc. These models are also far easier to compress than closed models (and there are many small models to begin with), which makes them better suited for edge deployment. And they don't come with the same concerns of model weight theft. \n\nOn every platform I examined, from small drones to vehicle-mounted servers, the best open-weight LLM (in terms of general capabilities) that fits is Chinese – as depicted in the figure below. This means, unless something changes, the US military and drone developers are left to choose between adopting / building on Chinese models and using potentially inferior American systems.\n\nThis leads me to my recommendations:\n\n6/",
+     "links": {
+      "https://t.co/CDzwJtt1ZZ": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW7tXl8XQAASs3t.jpg"
+      }
+     ],
+     "url": "https://x.com/JakeASteckler/status/2120902229607502281",
+     "created_at": "Thu Nov 12 15:31:10 +0000 2026"
+    },
+    {
+     "id": "2120902231918612855",
+     "author_handle": "JakeASteckler",
+     "author_name": "Jake Steckler",
+     "text": "Recommendation 1: The US military should plan around current drone autonomy limitations, but prepare for possible rapid capability gains.\n\nDrone autonomy is not yet nearly good enough to make the hardest decisions that humans currently make, like distinguishing combatants from non-combatants. The most capable models are too big to run on the edge and too slow for fast-paced tasks.\n\nThe US military should plan accordingly by developing and maintaining a significant number of human drone operators for the foreseeable future.\n\nAt the same time, it should lay the groundwork for assessing and fielding more advanced systems. Since it’s still unclear what technical paradigm will deliver the most robust and reliable drone autonomy, the military should experiment with a variety of model types.\n\nAnd crucially, it should immediately prioritize the development of rigorous evaluations to test whether autonomous systems meet human decision-making standards under harsh real-world battlefield conditions, including under adversarial deception and degraded communications. These evaluations should also of course serve to assess the risks of misaligned AI in these contexts.\n\n7/",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/JakeASteckler/status/2120902231918612855",
+     "created_at": "Thu Nov 12 15:31:11 +0000 2026"
+    },
+    {
+     "id": "2120902233722118611",
+     "author_handle": "JakeASteckler",
+     "author_name": "Jake Steckler",
+     "text": "Recommendation 2: Frontier AI developers should reconsider their role in the development of drone autonomy.\n\nThis one will surely be most controversial, but: US frontier AI companies should consider the implications of the current status quo in drone autonomy for the global military balance of power.\n\nDrones are proliferating worldwide, and the US and its adversaries are pushing toward greater autonomy, whether or not the frontier AI companies are directly involved. Many of their safety concerns are valid: frontier models certainly aren’t yet reliable enough for autonomous weapons, as Anthropic pointed out during its fight with the DoD. But those risks have to be weighed against the risks of standing aside as these technologies continue to improve and proliferate, often on the backs of their developments (through model distillation).\n\nA few initiatives they should consider:\n- Offering trusted access programs to vetted defense firms to use their coding tools for developing military autonomy models\n- Developing smaller models tailored for compute-constrained operations for military purchase, which the US military can fine-tune and modify.\n- Withholding their most drone- and robotics-relevant capabilities from public release in the future\n\nUnder the current status quo, Chinese firms distilling American models may be benefitting from frontier US developments more than US firms unwilling or unable to do the same. The US military is currently stuck with a choice between building with and on open-weight Chinese models (which comes with significant and unacceptable security risks) and using inferior American products.\n\nUS frontier AI companies are also likely better equipped, able, and predisposed to build the most reliable, robust, and safe drone autonomy for military use than other firms with fewer resources and talent. They are already indirectly involved in drone autonomy developments, and should consider ways to more directly and positively shape the direction of this technology - one that will likely be critical for national security for the foreseeable future.\n\n8/",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/JakeASteckler/status/2120902233722118611",
+     "created_at": "Thu Nov 12 15:31:11 +0000 2026"
+    },
+    {
+     "id": "2120902235752157324",
+     "author_handle": "JakeASteckler",
+     "author_name": "Jake Steckler",
+     "text": "Recommendation 3: Last, US policymakers should seek to secure an American lead in drone autonomy in two ways:\n\nFirst, they should support funding for general-purpose models that developers in the US military and defense industry can freely customize for defense applications. This could be funding for open-weight models to better compete with China, or proprietary models that only vetted defense developers can access and modify (as discussed above). They should also support funding for the DoD talent and resources needed to properly test these systems.\n\nSecond - export controls (surprise!). We should tighten export controls on the top chips used for developing frontier AI, because it’ll slow China’s developments in drone autonomy (which would then also slow these developments for other adversaries using Chinese open-weight models).\n\nWe should also improve enforcement of existing export controls on edge chips used for drone autonomy (namely Nvidia Jetsons) to sanctioned countries like Russia, which has circumvented these restrictions. And we should consider expanding controls over these chips to China, which also heavily uses Nvidia Jetsons for its drones and robotics applications.\n\n9/",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/JakeASteckler/status/2120902235752157324",
+     "created_at": "Thu Nov 12 15:31:12 +0000 2026"
+    },
+    {
+     "id": "2120902237572518246",
+     "author_handle": "JakeASteckler",
+     "author_name": "Jake Steckler",
+     "text": "Everyone seems to care about autonomous drones. The Pentagon has requested record funding for them and is trying to rapidly field them at scale. AI safety researchers are worried they’ll make the world far more dangerous, either through bad actors or rogue AI controlling them.\n\nThese systems will likely play a major role in shaping global military power, and we need as much grounded analysis as possible to forecast how and when that might happen. That’s what I tried to do with this paper.\n\nMany more insights in the full paper, including a mapping of the landscape for the types of chips, models, and military platforms that might be used for drone autonomy.\n\nhttps://t.co/eiTWhtRHRQ\n\n/10",
+     "links": {
+      "https://t.co/eiTWhtRHRQ": "https://www.governance.ai/research-paper/general-purpose-ai-and-the-future-of-drone-autonomy-in-contested-environments"
+     },
+     "media": [],
+     "url": "https://x.com/JakeASteckler/status/2120902237572518246",
+     "created_at": "Thu Nov 12 15:31:12 +0000 2026"
+    }
+   ],
+   "enriched": 3
   }
  }
 }

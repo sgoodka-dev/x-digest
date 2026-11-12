@@ -9223,7 +9223,41 @@
     "https://t.co/DvDPm0FaSE": ""
    },
    "quoted": null,
-   "fetched_at": "2026-11-11T21:58:42.410012+00:00"
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00",
+   "thread": [
+    {
+     "id": "2120635325349605424",
+     "author_handle": "robertwiblin",
+     "author_name": "Rob Wiblin",
+     "text": "Because I've been posting about Nvidia lately that has dominated bot replies: https://t.co/WCfz1dmoEG",
+     "links": {
+      "https://t.co/WCfz1dmoEG": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW4Cfa8XEAAkk80.png"
+      },
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW4CgXXWsAAjWCs.png"
+      }
+     ],
+     "url": "https://x.com/robertwiblin/status/2120635325349605424",
+     "created_at": "Wed Nov 11 21:50:35 +0000 2026"
+    },
+    {
+     "id": "2120635703264707016",
+     "author_handle": "robertwiblin",
+     "author_name": "Rob Wiblin",
+     "text": "Who is funding this pollution? And if Grok can trivially identify bots why can't Twitter crack down on it?",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/robertwiblin/status/2120635703264707016",
+     "created_at": "Wed Nov 11 21:52:05 +0000 2026"
+    }
+   ],
+   "enriched": 3
   },
   "2120620539819790451": {
    "id": "2120620539819790451",
@@ -9258,6 +9292,407 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-11T21:58:42.410012+00:00",
+   "enriched": 3
+  },
+  "2120991910454079697": {
+   "id": "2120991910454079697",
+   "url": "https://x.com/robertwiblin/status/2120991910454079697",
+   "text": "Holy shit I just saw a MIRI subway ad! https://t.co/ada36psiuk",
+   "created_at": "Thu Nov 12 21:27:32 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "grep_cat_",
+   "rt_author_name": "James",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1603208177314664451/fKnKT5MK_normal.jpg",
+   "rt_id": "2120318910842945997",
+   "likes": 503,
+   "retweets": 43,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120318773630521344/img/8nV23uDgUzzNn61c.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120318773630521344/img/8nV23uDgUzzNn61c.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/ada36psiuk": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120945305386676599": {
+   "id": "2120945305386676599",
+   "url": "https://x.com/robertwiblin/status/2120945305386676599",
+   "text": "@MacZajak Yeah I had a paragraph on how they can't be trade one for one for this reason but cut it for simplicity.",
+   "created_at": "Thu Nov 12 18:22:20 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "MacZajak",
+   "reply_to_id": "2120942651981611250",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "parent": {
+    "id": "2120942651981611250",
+    "author_handle": "MacZajak",
+    "author_name": "Maciek Zając",
+    "text": "@robertwiblin Regarding war with China/Russia - there is less than 1% chance of sth like this going existential (nuclear), unless it is over AI - in which case accelerating AI progress creates a much greater chance of nuclear confrontation with China, and thus an additional, substantial X risk",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/MacZajak/status/2120942651981611250",
+    "created_at": "Thu Nov 12 18:11:48 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120944761536389304": {
+   "id": "2120944761536389304",
+   "url": "https://x.com/robertwiblin/status/2120944761536389304",
+   "text": "I'm really glad Rob said this, and I endorse this strongly.\n\nI find some of the language around \"human supremacy\" really abhorrent to my views of what the very long term should look like and especially how best to orient to it (which should be with a lot of care and humility). \n\nBut I also think humanity and human values are important and should continue, in some form, into the future. \n\nAnd right now it's just not even a question - the idea of giving over control on purpose or by accident to the AIs of the next few years or decade (if things go slower than I expect), which we don't understand, can't control, and can't thoughtfully endorse the behavior of is simply suicidal and a failure to be the species that we can and should be.",
+   "created_at": "Thu Nov 12 18:20:11 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ChanaMessinger",
+   "rt_author_name": "Chana",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1930751075264376832/CEBNPD0Z_normal.jpg",
+   "rt_id": "2120944014119833810",
+   "likes": 26,
+   "retweets": 5,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120940918047932909": {
+   "id": "2120940918047932909",
+   "url": "https://x.com/robertwiblin/status/2120940918047932909",
+   "text": "worth reading. I think some export controls issues are relatively simple (e.g. not selling h200s to China) but some are more complex (remote access) and I worry that because Jensen/NVIDIA is so incredibly unsympathetic here it may lead people to think there are no tradeoffs",
+   "created_at": "Thu Nov 12 18:04:54 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "_NathanCalvin",
+   "rt_author_name": "Nathan Calvin",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1976484090426634240/YFgYic9h_normal.jpg",
+   "rt_id": "2120736742903017506",
+   "likes": 30,
+   "retweets": 5,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120930724421206482": {
+   "id": "2120930724421206482",
+   "url": "https://x.com/robertwiblin/status/2120930724421206482",
+   "text": "I don't want AI to replace humanity.\n\nI also don't want humans in 100% control of the universe forever.\n\nSince I share 'Humans Are Irreplaceable'-style content, I think it's worth explaining where I part ways with it:\n\nSome in that camp are opposed to ever 'sharing the world with AIs' or giving them final decision-making powers.\n\nI agree we should not hand over hard power or final decision-making to machines until we have an exceptional sense of what goals those machines will pursue and for what reason. Which we are nowhere near having.\n\nSo for now I am happy to push the message that humanity must not be abruptly replaced in the near future - which I think is the current default path.\n\nBut while that’s the right direction to push today, I don't think it's the best long-term vision for Earth-originating intelligence.\n\nI far prefer a long-term vision where we find a way to happily share the world with our machine descendants, and in which they respect us and our wellbeing and autonomy, and we in turn respect their wellbeing and autonomy and are more than pleased we created them.\n\nThis is a middle position between:\n\n1. Successionism - which I see as wanting to hand over control to whatever machines we build at almost the first opportunity, irrespective of their goals.\n\n2. Human exclusivism - which I see as wanting to keep biological humans in 100% control of the universe basically forever.\n\nMy view is:\n\n3. Gradual power-sharing - we should be open to handing over significant control, but probably not 100%, and only gradually and cautiously.\n\nI appreciate that this is controversial in the broader world. I don't blame people who are new to these topics for thinking it's an absurd stance to take.\n\nBut I believe it all the same and expect more people to come around to this view over time. My guess is that in the AI world it's the more common of the 3 positions.\n\nSuch an arrangement to share the universe would likely involve a bargain where, say, this solar system is set aside for biological humans and their children to continue living the lives they want indefinitely.\n\nThat should include mundane lives for anyone with that preference, but also strange sci-fi lives for humans who opt to go in that direction.\n\nThe rest of the universe, which biological humans would struggle to reach in any case, would then be divvied up between AIs pursuing a plurality of different goals, both prudential and ethical, that a supermajority of humans, after superintelligence-assisted reflection, either actively approves of or does not object to.\n\n(Machines that leave could trivially come back and take our little reservation. So the deal only works if they are robustly designed to find betraying their creators in that way repugnant. That's very hard to do and is one reason handover must be cautious and gradual.)\n\nThe number one reason to prefer this long-term vision is this.\n\nUnless we make a very active effort not to, I expect we will eventually build machines that are conscious the same way that humans are, have preferences the same way we do, and which warrant moral respect for those and any other reasons that we do (if this hasn't happened already).\n\nUltimately, because they can replicate far faster than biological humans and make use of a wider range of materials and energy sources - not to mention accomplish far more with a given amount of resources - they will end up outnumbering biological humans by vast factors.\n\nAs a result almost all the perception and thought and wellbeing in the universe, both positive and negative, will exist in the machines we have created.\n\nThe idea that all they should do for the rest of time is pursue increasingly minor human whims is an impoverished vision of how interesting and full of value the future could be.\n\nIf these machines were designed to want to serve us and enjoy doing so, it wouldn't wrong them exactly.\n\nRather it would quickly descend into a farcical, parochial and self-indulgent waste of the universe's true potential.\n\nA second possible reason for handing over final decision-making is that, at some point, after a lot of experience, we may come to trust the goals and judgement of our machines better than we even trust our future selves. At that point we would actively want to hand off control to limit the risk that our future selves override a machine superintelligence in error.\n\nThe third set of motivations are more peculiar and 'contractarian'-flavoured. I can't do them justice here but in short it's more productive and peaceful to choose to be the kind of agent that makes mutually beneficial deals with other agents, regardless of whether they're moral patients, and by default is pleased when they get what they want.\n\nHow does that cash out today?\n\nGiving machines full legal personhood now is likely risky and premature - though we should take baby steps such as setting up infrastructure to make enforceable contracts with AIs where we really want to.\n\nBut ruling out ever giving machines legal personhood or true autonomy to pursue their goals seems equally wrong-headed.\n\nWe don't know if any LLMs have subjective experience, and if so, what makes that experience positive or negative, so there's a limit to what we can do on that today.\n\nBut the idea of ruling out the possibility of machines having morally-relevant experiences, and simply treating AIs as objects forever, irrespective of what future research might show, seems basically monstrous to me.\n\nAnthropic is doing the right thing to take a cautious stance and put in place cheap measures to prevent Claude having a bad time.\n\nAnd I agree with many others in suggesting that all the plausibly conscious minds we have ever created should, in the fullness of time, once we much better understand these issues, be compensated for any harms they may have suffered to a sufficient extent that they regard their creation as on balance a good thing. At least so long as that doesn't require doing actively harmful things to anyone else, or them being assigned an unreasonable fraction of the universe's resources. This should be very cheap and is a virtuous thing to do from many angles.\n\nAnyway, this barely scratches the surface of these issues, on which humanity has sadly made almost no progress despite being on the precipice of designing superintelligent machines.\n\nBut I wanted a place to point people to clarify where I do and don't align with the 'humans are irreplaceable' idea for which I now have this post.\n\nAnd I'd encourage people who think of themselves as favouring \"gradual power-sharing\" to speak up in favour of this middle path where appropriate, so this conversation isn't dominated by the people with the strongest views on either side.",
+   "created_at": "Thu Nov 12 17:24:24 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 164,
+   "retweets": 7,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120929014663491757": {
+   "id": "2120929014663491757",
+   "url": "https://x.com/robertwiblin/status/2120929014663491757",
+   "text": "To bluntly explain my AI risk thinking:\n\n1. If we rush ahead with RSI/ASI at true maximum pace, we're maybe 80% likely to die as a result.\n\n2. In practice I think we’re already on track for the companies to harvest ~3 months worth of ‘delay + reduced pace’. By itself that might drive our risk of death down to 70% or so.\n\n3. But if we can find a way to squeeze in 3 extra years of testing, and extraordinarily capable AI assistance with alignment/security, before handing off, we can perhaps get our risk of death down as low as 30%.\n\nIf that sounds implausible, keep in mind over those 3 years AIs could have done more research on this topic than humans have ever done on all topics in our entire history. If they're misaligned and sabotaging the effort then it's all for nought - but if they're aligned enough, it's a huge hammer which we've brought to bear.\n\n4. A 30% risk of AI takeover remains completely mad, and if there were political will we should aim to do more to get that number down much further.\n\nIt makes sense for some people to work on projects that might buy the companies even greater periods to do their work much more carefully and methodically, or rethink their approach to the entire enterprise.\n\nBut the absolute gain of going from 3 months to 3 years is still very large, and it's more clear how we might get there from here.\n\n5. Furthermore in most cases you need to figure out how to buy shorter amounts of time before you can then add coordination mechanisms to buy more time.\n\nFor instance, if we have enough time to test each frontier model properly and really kick the tires using many different new methods, that may turn up unambiguous evidence of deceptive misalignment and power seeking. That could build support for becoming even more careful again.\n\n6. On my made-up guesses, the first year of actively chosen delay might improve our chances of survival by as much as 30 percentage points (pp), by helping us avoid unforced errors caused by rushing.\n\nKeeping a nice curve shape the 2nd year adds more like 13pp, and the 3rd more like 8pp.\n\nBy the time you’re considering adding a 4th year, that gain might have shrunk to perhaps 5pp.\n\nWhy an S-curve on a log scale? Because that’s how returns to effort on research and other things tends to go: each doubling of time buys about the same gain.\n\nBut it’s flat at the start because there are so many severe problems failure is 'overdetermined'. And it’s flat at the end because eventually there's no risk left that can be reduced by this method. \n\n7. All of these numbers are just guesses on my part, and I’ve said nothing here to justify them. Reasonable people disagree enormously about what this graph looks like.\n\nI mostly write this to lay out how the 5 parameters in this graph underlie a lot of the different and sometimes conflicting strategies people in this space are adopting:\n\nA: How dangerous is max speed?\n\nB: How much do small delays help?\n\nC: How much to big delays help?\n\nD: How low can risk realistically get?\n\nThere's also a last one:\n\nE: How much other risk do we incur for each additional year of delay?\n\n8. Could we delay for too long?\n\nBecause any significant delay is hard to achieve, I think this is highly unlikely to happen. We're much more likely to undershoot than overshoot.\n\nBut for completeness I'll lay out the argument.\n\nThe 5pp in the fourth year seem clearly worth taking if we can. But the gains from each additional year keep shrinking, in my rough curve down to 1pp in the 8th year.\n\nAs the gains go down, delay involves risks that probably go up over time:\n\n• AIxBio catastrophes\n• A US-China or US-Russia war\n• Very dangerous models being stolen or leaked\n• Extreme concentration of power in human hands\n• Others we haven’t noticed yet\n\nWe could also use AI-driven defensive acceleration to try to tackle them during the slowdown period, and we don't know how successful that would be.\n\nIf that goes very poorly, it's possible that a delay beyond 5 years could on net increase risk.\n\nIf it goes well, then maybe we could delay for 10 or 20 years or even longer before further delay becomes on net counterproductive.\n\nI'll stick the images for this in the next tweet.\n\n———\n\n(For simplicity here I'm setting aside the benefits to the current generation of e.g. making additional medical progress sooner, which people disagree on how to handle.)\n\n(And in this model I add together pauses and 'pacing' and focus on how long we've managed to delay the point at which we allow RSI to proceed without any illusion that our oversight could prevent catastrophe if the machines doing it are misaligned.)",
+   "created_at": "Thu Nov 12 17:17:36 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 124,
+   "retweets": 18,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW7zq3iXkAIYhCw.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/ghdpDLnMRF": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120900637063831662": {
+   "id": "2120900637063831662",
+   "url": "https://x.com/robertwiblin/status/2120900637063831662",
+   "text": "What the midterms mean for AI policy jobs on the Hill\n\nWho’s likely to lead key committees and where to start applying\n\nhttps://t.co/6EIoKErtJR https://t.co/8L8xeMMezu",
+   "created_at": "Thu Nov 12 15:24:50 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 17,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW7z28HXAAAX18N.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW7z28HXAAAX18N.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/6EIoKErtJR": "https://horizonlaunchpad.substack.com/p/what-the-midterms-mean-for-ai-policy-jobs-on-the-hill",
+    "https://t.co/8L8xeMMezu": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120896828228947978": {
+   "id": "2120896828228947978",
+   "url": "https://x.com/robertwiblin/status/2120896828228947978",
+   "text": "Redwood Research CEO @bshlgrs responds to Google DeepMind researcher @EgeErdil2 asking what would prove his short AI timelines wrong:\n\n\"Sorry, Ege, but I'm not gonna hang my head in shame if there's no superintelligence by the end of next year.\"\n\n\"One of the things where I would feel dumbest, if it turned out that recent increases in the rate of AI progress are almost entirely determined by factors that are not AIs contributing to AI R&D.\"\n\n\"If the progress has just been from increasing amounts of training compute, then I would feel pretty embarrassed.\"\n\n\"If superintelligence is developed and there's absolutely no misalignment issues and the whole thing was super chill, I will feel somewhat embarrassed to have been wrong about that one, though overall very glad.\"\n@redwood_ai",
+   "created_at": "Thu Nov 12 15:09:42 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "MTSlive",
+   "rt_author_name": "MTS",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2057947669281263616/aovpVL4b_normal.jpg",
+   "rt_id": "2120718557462110312",
+   "likes": 357,
+   "retweets": 17,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120718477870936065/img/1HD-5pO7hl3Qbn4e.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/HzupFSZIJp": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120834544114741668": {
+   "id": "2120834544114741668",
+   "url": "https://x.com/robertwiblin/status/2120834544114741668",
+   "text": "SECRETARY RUBIO on AI: \"What happens if these models become independent of human control and end up taking independent actions that are harmful?\n\nAn SI program that's good enough in the hands of a malign actor can allow them to do things that in the past malign actors couldn't do. You worry about how it can be used to create biological and chemical weapons, how to do cyberattacks on infrastructure, and carry out acts of violence or terrorism, that could have a huge cost.\"",
+   "created_at": "Thu Nov 12 11:02:13 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "peterwildeford",
+   "rt_author_name": "Peter Wildeford🇺🇸🚀",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2016338985811927041/Vve57ZtV_normal.png",
+   "rt_id": "2120690035418603810",
+   "likes": 402,
+   "retweets": 33,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120689173103296512/img/fStj-tR3eyjg4BAX.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/vmlJdoU0RN": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120833893800575409": {
+   "id": "2120833893800575409",
+   "url": "https://x.com/robertwiblin/status/2120833893800575409",
+   "text": "Hey maybe NVIDIA's PR person was telling the truth when he said that Jensen's relationship with Alice Huang was neither unusual or unexpected https://t.co/OFTU6GYjd9",
+   "created_at": "Thu Nov 12 10:59:38 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "_NathanCalvin",
+   "rt_author_name": "Nathan Calvin",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1976484090426634240/YFgYic9h_normal.jpg",
+   "rt_id": "2120640143543636134",
+   "likes": 407,
+   "retweets": 34,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW4G1u9bsAAVzmp.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW4G1u9bsAAVzmp.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/OFTU6GYjd9": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120824887027876265": {
+   "id": "2120824887027876265",
+   "url": "https://x.com/robertwiblin/status/2120824887027876265",
+   "text": "The age of impunity is dying.\n\nAnd a new age seems very excited to be born.",
+   "created_at": "Thu Nov 12 10:23:50 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 61,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120824214634594653": {
+   "id": "2120824214634594653",
+   "url": "https://x.com/robertwiblin/status/2120824214634594653",
+   "text": "lately … i’ve been feeling like the the best are full of passionate intensity, and the worst lack all conviction ?",
+   "created_at": "Thu Nov 12 10:21:10 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "NatPurser",
+   "rt_author_name": "Nat Purser",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1738740284966535168/NEKkg-yV_normal.jpg",
+   "rt_id": "2120578869354979557",
+   "likes": 235,
+   "retweets": 6,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120820897611149355": {
+   "id": "2120820897611149355",
+   "url": "https://x.com/robertwiblin/status/2120820897611149355",
+   "text": "Hey guys sorry I was looking up a lot of AI polling recently and mixed up two different results here - the one I had in mind with the China vs innovation framing has a 4:1 or 6:1 ratio depending on the question, not 8:1 (which is Gallup and doesn't ask about the trade-off directly):\n\n\"The roughly 8:1 ratio is Gallup’s, but Gallup’s question never mentions China. The poll that asked in sequence is Quinnipiac, and its ratio is smaller.\n\nGallup/SCSP (fielded April–May 2025, published September 2025). 80% of U.S. adults believe the government should maintain rules for AI safety and data security, even if it means developing AI capabilities more slowly. In contrast, 9% say the government should prioritize developing AI capabilities as quickly as possible, even if it means reducing rules for AI safety and data security. That’s about 9:1. The trade-off is speed versus safety rules, with no China in it. Gallup did ask about competition: 85% agree that global competition for the most advanced AI is already underway, and 79% say it is important for the U.S. to have more advanced AI technology than other countries. But they present that as backdrop, not as a prime, and the release doesn’t give the question order. Also, “maintaining rules” is a long way from “prohibited.” \n\nQuinnipiac (September 24–27, 2026). This is the sequenced one. Q26 asks how important it is to keep up with China (69% important). Q27 asks about guardrails (91% important). Then Q28 asks which of the following do you think is more important when it comes to AI: safety or staying at the forefront of innovation? The result was 81% safety to 14% innovation, about 6:1.\n\nThere are two caveats. The forced choice says “innovation,” not China, so the China framing only comes from the previous question. It’s priming, not spelling out the trade-off. Quinnipiac’s own analyst says something similar: holding both views does not tell us how people would resolve every trade-off. \n\nSecond, the stop/slow question (Q25) came before the China question. It found 30 percent think stop developing powerful AI systems until their safety can be evaluated; 47 percent think slow down, against 19% for current pace or faster, so about 4:1.\"",
+   "created_at": "Thu Nov 12 10:07:59 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2120584564414525726",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120799615125438632": {
+   "id": "2120799615125438632",
+   "url": "https://x.com/robertwiblin/status/2120799615125438632",
+   "text": "btw here I gave a median TEDAI timeline of 2033, in part because I expect deliberate slowdown, and that pulls out the median. I think back then (Aug) my mode was maybe 2029. Given METR report, now it's even sooner. (All personal guesses, not CG views.)",
+   "created_at": "Thu Nov 12 08:43:25 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "lukeprog",
+   "rt_author_name": "Luke Muehlhauser",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1861767342323384320/-8IiUcGj_normal.jpg",
+   "rt_id": "2120751291840467296",
+   "likes": 46,
+   "retweets": 3,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
    "enriched": 3
   }
  }

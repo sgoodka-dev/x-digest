@@ -3406,7 +3406,22 @@
    "media": [],
    "links": {},
    "quoted": null,
-   "fetched_at": "2026-11-11T21:58:42.410012+00:00"
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00",
+   "thread": [
+    {
+     "id": "2120582011005849939",
+     "author_handle": "random_walker",
+     "author_name": "Arvind Narayanan",
+     "text": "I agree, but this only makes the policy response harder, because a blanket ban on AI companions for teens is unlikely to be a good solution. The menu of responses is too blunt, and there's not enough thinking on how to incentive pro-social design of chatbots.\nhttps://t.co/LUu61Lw5Dr",
+     "links": {
+      "https://t.co/LUu61Lw5Dr": "https://x.com/holmesjtg/status/2120553769075171708"
+     },
+     "media": [],
+     "url": "https://x.com/random_walker/status/2120582011005849939",
+     "created_at": "Wed Nov 11 18:18:44 +0000 2026"
+    }
+   ],
+   "enriched": 3
   },
   "2120600079077945597": {
    "id": "2120600079077945597",
@@ -3441,7 +3456,555 @@
     "https://t.co/VwLTzQOSM7": ""
    },
    "quoted": null,
-   "fetched_at": "2026-11-11T21:58:42.410012+00:00"
+   "fetched_at": "2026-11-11T21:58:42.410012+00:00",
+   "thread": [
+    {
+     "id": "2120207680631341341",
+     "author_handle": "Ben_Tappin",
+     "author_name": "Ben Tappin",
+     "text": "AI is changing constantly and touches many outcomes: mental health, belief accuracy, student learning, workplace productivity, medical care, political behavior, and more.\n\nThe Observatory continuously tracks and analyzes the trial evidence for such outcomes, all in one place. https://t.co/yj8rmcdYCZ",
+     "links": {
+      "https://t.co/yj8rmcdYCZ": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWx62VRWcAAKjtm.jpg"
+      }
+     ],
+     "url": "https://x.com/Ben_Tappin/status/2120207680631341341",
+     "created_at": "Tue Nov 10 17:31:17 +0000 2026"
+    },
+    {
+     "id": "2120207685836833076",
+     "author_handle": "Ben_Tappin",
+     "author_name": "Ben Tappin",
+     "text": "As well as high-level summaries, the dashboard shows detail about individual trials, including:\n\n• The underlying AI model tested\n• How the outcome was measured\n• The duration and type of AI exposure\n• Flags for preprints, COIs, AI text and more\n• Downloadable data https://t.co/Suwb86oraW",
+     "links": {
+      "https://t.co/Suwb86oraW": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWx7NXvXcAEz3DD.jpg"
+      }
+     ],
+     "url": "https://x.com/Ben_Tappin/status/2120207685836833076",
+     "created_at": "Tue Nov 10 17:31:18 +0000 2026"
+    },
+    {
+     "id": "2120207690223800708",
+     "author_handle": "Ben_Tappin",
+     "author_name": "Ben Tappin",
+     "text": "The credibility of the Observatory rests on its scientific rigor and trustworthiness.\n\nEach update to the evidence record comes with a permanently-archived report describing its methods. The dashboard data are free to download and we are transparent on funding. https://t.co/Qo6E2c5IiV",
+     "links": {
+      "https://t.co/Qo6E2c5IiV": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWx7ZQMWwAACne3.jpg"
+      }
+     ],
+     "url": "https://x.com/Ben_Tappin/status/2120207690223800708",
+     "created_at": "Tue Nov 10 17:31:19 +0000 2026"
+    },
+    {
+     "id": "2120207693608624250",
+     "author_handle": "Ben_Tappin",
+     "author_name": "Ben Tappin",
+     "text": "The Observatory currently tracks two outcomes: how AI affects people’s mental health and the accuracy of their beliefs. More outcomes are coming soon.\n\nThe evidence base is growing rapidly. To stay informed, you can sign up for free at https://t.co/gRcCcXP9Lv https://t.co/BDEEwHrD3N",
+     "links": {
+      "https://t.co/gRcCcXP9Lv": "https://aitrialsobservatory.org/latest-updates/",
+      "https://t.co/BDEEwHrD3N": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWx7i1YXAAAOnmq.jpg"
+      }
+     ],
+     "url": "https://x.com/Ben_Tappin/status/2120207693608624250",
+     "created_at": "Tue Nov 10 17:31:20 +0000 2026"
+    },
+    {
+     "id": "2120207697706631193",
+     "author_handle": "Ben_Tappin",
+     "author_name": "Ben Tappin",
+     "text": "Mental health: what have we learned so far?\n\n• The evidence lags the AI frontier by 7+ months\n• AI built for therapy shows a benefit versus controls\n• Versus alternatives (e.g., a human chat), benefit is more uncertain\n• Evidence is thinner on general-purpose/companion AI https://t.co/IFooDGl7gY",
+     "links": {
+      "https://t.co/IFooDGl7gY": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWx72m_W4AA8qU1.jpg"
+      }
+     ],
+     "url": "https://x.com/Ben_Tappin/status/2120207697706631193",
+     "created_at": "Tue Nov 10 17:31:21 +0000 2026"
+    },
+    {
+     "id": "2120207701481312588",
+     "author_handle": "Ben_Tappin",
+     "author_name": "Ben Tappin",
+     "text": "Belief accuracy: what have we learned so far?\n\n• The evidence lags the AI frontier by 5+ months\n• AI built for accuracy shows a benefit versus controls\n• Versus alternatives (e.g., a fact sheet), benefit remains in some cases\n• Evidence is thinner on general/companion AI https://t.co/gRG5WZZV62",
+     "links": {
+      "https://t.co/gRG5WZZV62": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWx7_qEX0AArDOf.jpg"
+      }
+     ],
+     "url": "https://x.com/Ben_Tappin/status/2120207701481312588",
+     "created_at": "Tue Nov 10 17:31:22 +0000 2026"
+    },
+    {
+     "id": "2120207704887013813",
+     "author_handle": "Ben_Tappin",
+     "author_name": "Ben Tappin",
+     "text": "Some limitations:\n\n1. Randomized trials only. Despite their strengths, trials have several weaknesses. See below (from https://t.co/SgRxX56PVN).\n\n2. Our review procedure. It’s not perfect but we take steps to mitigate risks (see the release reports at https://t.co/C4SD1wKfzm). https://t.co/DSScQK4Vj8",
+     "links": {
+      "https://t.co/SgRxX56PVN": "https://aitrialsobservatory.org/about/",
+      "https://t.co/C4SD1wKfzm": "https://aitrialsobservatory.org/methodology/",
+      "https://t.co/DSScQK4Vj8": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWx8gLsXYAAl8OZ.jpg"
+      }
+     ],
+     "url": "https://x.com/Ben_Tappin/status/2120207704887013813",
+     "created_at": "Tue Nov 10 17:31:23 +0000 2026"
+    },
+    {
+     "id": "2120207707894399087",
+     "author_handle": "Ben_Tappin",
+     "author_name": "Ben Tappin",
+     "text": "The Observatory is a work in progress. We (@KobiHackenburg @lukebeehewitt) welcome kind words, suggestions and criticism.\n\nFinally: thanks to all the scientists running trials on these topics, especially those who report their data and methods in detail!\n\nhttps://t.co/bzvT0Fyd35",
+     "links": {
+      "https://t.co/bzvT0Fyd35": "https://aitrialsobservatory.org"
+     },
+     "media": [],
+     "url": "https://x.com/Ben_Tappin/status/2120207707894399087",
+     "created_at": "Tue Nov 10 17:31:23 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120961552669130778": {
+   "id": "2120961552669130778",
+   "url": "https://x.com/NateWitkin/status/2120961552669130778",
+   "text": "I worry that the \"intelligence explosion within a year\" warnings are a motte-and-bailey.\n\nThe motte: progress on benchmarks will speed way up.\n\nThe bailey: this will cause gigantic real-world impacts, with a high chance of imminent AI takeover and subsequent human extinction.",
+   "created_at": "Thu Nov 12 19:26:54 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "MatthewJBar",
+   "rt_author_name": "Matthew Barnett",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1919243748271407105/u0VPbyS4_normal.jpg",
+   "rt_id": "2120818409789440380",
+   "likes": 223,
+   "retweets": 15,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120935044143288639": {
+   "id": "2120935044143288639",
+   "url": "https://x.com/NateWitkin/status/2120935044143288639",
+   "text": "New from @Stripe Economics: employment of young  college grads is weaker than normal. Much of the debate is around AI's impact. But evidence is growing that work-from-home is a major factor, which we find in public data &amp; our own Stripe data. 🧵 https://t.co/uTSZMX2TAe /1",
+   "created_at": "Thu Nov 12 17:41:34 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ernietedeschi",
+   "rt_author_name": "Ernie Tedeschi",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1481433697182261248/rhqOzq7z_normal.jpg",
+   "rt_id": "2120864195772031262",
+   "likes": 282,
+   "retweets": 58,
+   "media": [],
+   "links": {
+    "https://t.co/uTSZMX2TAe": "https://www.stripeeconomics.com/p/ai-work-from-home-and-the-young-graduate"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "thread": [
+    {
+     "id": "2120864196149527021",
+     "author_handle": "ernietedeschi",
+     "author_name": "Ernie Tedeschi",
+     "text": "First, some background. Young college grads' employment rate was 88% in Sep 2026, down 1pp from 3 years earlier. Unemployment neared 6% in late 2025, though it's lower now. The typical unemployed young grad has spent 12 weeks looking for work, up 1/3 from a few years ago. /2 https://t.co/KP5bdaC85O",
+     "links": {
+      "https://t.co/KP5bdaC85O": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW4w9h3WoAA8ZbP.jpg"
+      }
+     ],
+     "url": "https://x.com/ernietedeschi/status/2120864196149527021",
+     "created_at": "Thu Nov 12 13:00:02 +0000 2026"
+    },
+    {
+     "id": "2120864196619391271",
+     "author_handle": "ernietedeschi",
+     "author_name": "Ernie Tedeschi",
+     "text": "But the weakness isn't limited to college grads. Young non-graduates' employment rates have fallen slightly MORE since Dec 2019. Meanwhile, ages 30–49 have recovered, with little difference by BA status. That complicates a story blaming the slowdown entirely on AI. /3 https://t.co/0hrJzowmIH",
+     "links": {
+      "https://t.co/0hrJzowmIH": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW4xXtbWcAAmXQb.jpg"
+      }
+     ],
+     "url": "https://x.com/ernietedeschi/status/2120864196619391271",
+     "created_at": "Thu Nov 12 13:00:02 +0000 2026"
+    },
+    {
+     "id": "2120864197055557962",
+     "author_handle": "ernietedeschi",
+     "author_name": "Ernie Tedeschi",
+     "text": "We tested the sensitivity of WFH by looking in the CPS at the spread of payroll employment-pop ratios (in FTE terms) for 22-26 year olds with exactly a BA to 30-49 year olds b/t 2023 &amp; the last 12 months, by occupation &amp; Census division, compared to occupational WFH adoption. /4",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/ernietedeschi/status/2120864197055557962",
+     "created_at": "Thu Nov 12 13:00:02 +0000 2026"
+    },
+    {
+     "id": "2120864197395316957",
+     "author_handle": "ernietedeschi",
+     "author_name": "Ernie Tedeschi",
+     "text": "Each add'l 10pp of occupational WFH adoption is associated w/ 4.5pp slower growth in young grads' FTE emp rates rel to ages 30–49, statistically-significant &amp; explaining 56-88% of the total post-2023 decline. AI exposure &amp; adoption estimates aren't statistically significant. /5 https://t.co/xs1KFr6TfT",
+     "links": {
+      "https://t.co/xs1KFr6TfT": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW4zELrWQAANV-3.jpg"
+      }
+     ],
+     "url": "https://x.com/ernietedeschi/status/2120864197395316957",
+     "created_at": "Thu Nov 12 13:00:03 +0000 2026"
+    },
+    {
+     "id": "2120864197844058614",
+     "author_handle": "ernietedeschi",
+     "author_name": "Ernie Tedeschi",
+     "text": "Meanwhile, while Stripe doesn't directly observe WFH, we can see spending on proxies: office supplies, furniture &amp; electronics. Across states, that spending as a share of GDP is moderately correlated with WFH adoption (r = 0.48). It's a useful albeit imperfect proxy. /5 https://t.co/lEWOCtHUjN",
+     "links": {
+      "https://t.co/lEWOCtHUjN": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW4z72uWAAA5Hb0.jpg"
+      }
+     ],
+     "url": "https://x.com/ernietedeschi/status/2120864197844058614",
+     "created_at": "Thu Nov 12 13:00:03 +0000 2026"
+    },
+    {
+     "id": "2120864198271861178",
+     "author_handle": "ernietedeschi",
+     "author_name": "Ernie Tedeschi",
+     "text": "When looking at the top 100 commuting zones by spend, faster growth in WFH proxy spending/GDP in 2023–24 went with weaker employment growth in the ACS for ages 22–29 (r = −0.35), a suggestive but modest relationship. /6 https://t.co/JDRc14PcDL",
+     "links": {
+      "https://t.co/JDRc14PcDL": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW40f1SWIAAvuZW.jpg"
+      }
+     ],
+     "url": "https://x.com/ernietedeschi/status/2120864198271861178",
+     "created_at": "Thu Nov 12 13:00:03 +0000 2026"
+    },
+    {
+     "id": "2120864198724874673",
+     "author_handle": "ernietedeschi",
+     "author_name": "Ernie Tedeschi",
+     "text": "Bottom line: WFH looks like a meaningful factor in young grads' weaker recent job prospects, even as it helps disabled &amp; older workers. To be clear, this doesn't rule out AI entirely: the 2 are hard to disentangle &amp; AI's effects may emerge over time. /🔚 https://t.co/uTSZMX2TAe",
+     "links": {
+      "https://t.co/uTSZMX2TAe": "https://www.stripeeconomics.com/p/ai-work-from-home-and-the-young-graduate"
+     },
+     "media": [],
+     "url": "https://x.com/ernietedeschi/status/2120864198724874673",
+     "created_at": "Thu Nov 12 13:00:03 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120934990502400510": {
+   "id": "2120934990502400510",
+   "url": "https://x.com/NateWitkin/status/2120934990502400510",
+   "text": "\"Can the AI boom make enough money to sustain itself?\" — I work through that question in a long-read for this week's @TheEconomist.\n\nA few of the big ideas there:\n-- Model-maker run-rate revenue today is in the low hundreds of billions. What's priced in to the data centre buildout is a rise to trillions, over the next few years.\n\n-- Which is why, despite the continued advances in capabilities, data suggesting revenue growth may be coming down a little, from providers like Ramp, is so worrying.\n\n-- The other danger is pattern-matching too much on extraordinary economics of SaaS, which had high switching costs and a low marginal cost of additional users: which meant wide moats and big returns to scale. AI is different: models are easy to switch between, and every new user costs money to serve.\n\n-- So far, frontier models have been far enough ahead of the pack that AI companies have been able to charge healthy margins on them. That may continue, and their lead could even deepen as training costs get high enough to become their own sort of moat, and crackdowns on distillation hurt Chinese rivals—but could go the other way too.\n\n-- The prototypical big-spender on AI is still a venture-backed company using agentic tools for coding. To get revenue in the trillions, the rest of the economy will need to be brought along.\n\nLots more in the piece, do take a look:\nhttps://t.co/VL7vPRGu1U",
+   "created_at": "Thu Nov 12 17:41:21 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ArchieHall",
+   "rt_author_name": "Archie Hall",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1845524601167626240/jFCkBKsZ_normal.jpg",
+   "rt_id": "2120901080066437587",
+   "likes": 95,
+   "retweets": 15,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW7xmweasAALfbd.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/VL7vPRGu1U": "https://www.economist.com/briefing/2026/11/12/can-the-ai-boom-make-enough-money-to-sustain-itself",
+    "https://t.co/GBURriD0Gf": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120934480856907888": {
+   "id": "2120934480856907888",
+   "url": "https://x.com/NateWitkin/status/2120934480856907888",
+   "text": "@snewmanpv @woodilicious Right, but if cars are the right comparator case then AI would end up looking like a pretty normal technology, esp. if, because of the occasional reward-hacking incident, we build up more robust safety practices (as we have over time with cars).\n\nAgree, though, re tail risks. Always good to remain diligent in any case, just not sure the doomer outlook is always conducive to that.",
+   "created_at": "Thu Nov 12 17:39:19 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": true,
+   "reply_to": "snewmanpv",
+   "reply_to_id": "2120724207923253713",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "parent": {
+    "id": "2120724207923253713",
+    "author_handle": "snewmanpv",
+    "author_name": "Steve Newman",
+    "text": "@NateWitkin @woodilicious I agree that there's a tension here but I'm not sure how much it proves? Cars are safe enough to achieve widespread adoption but they kill a million people per year. Also AI is evolving so rapidly that some big risks could be temporarily mispriced, especially tail risks.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/snewmanpv/status/2120724207923253713",
+    "created_at": "Thu Nov 12 03:43:46 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120656977793872113": {
+   "id": "2120656977793872113",
+   "url": "https://x.com/NateWitkin/status/2120656977793872113",
+   "text": "BRUH\nhttps://t.co/0LMhX3ZSpG",
+   "created_at": "Wed Nov 11 23:16:38 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "valhalla_dev",
+   "rt_author_name": "developing valhalla",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2119888515127218176/9Ez3N7b4_normal.jpg",
+   "rt_id": "2120647652966617492",
+   "likes": 13,
+   "retweets": 2,
+   "media": [],
+   "links": {
+    "https://t.co/0LMhX3ZSpG": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120656599190540756": {
+   "id": "2120656599190540756",
+   "url": "https://x.com/NateWitkin/status/2120656599190540756",
+   "text": "Difficult to know what the impact of the Jensen Huang saga will be on the broader AI landscape. Perhaps nothing. But if you think there is a lot of froth in AI company valuations,  these type of negative surprises can lead to unraveling.",
+   "created_at": "Wed Nov 11 23:15:07 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "arindube",
+   "rt_author_name": "Arin Dube",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1701811151288291328/WyCTYG3R_normal.jpg",
+   "rt_id": "2120650813270114314",
+   "likes": 30,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120655820367016250": {
+   "id": "2120655820367016250",
+   "url": "https://x.com/NateWitkin/status/2120655820367016250",
+   "text": "@woodilicious Right I buy there are cases like this where reward-hacking means something more akin to \"leaving behind vulnerabilities\" than clear-cut task failure. Think the basic point still stands, though, since even in these cases the vulnerabilities eventually bite somehow, and that will often translate into some sort of cost that hits capabilities or adoption.",
+   "created_at": "Wed Nov 11 23:12:02 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": true,
+   "reply_to": "woodilicious",
+   "reply_to_id": "2120653793469796473",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "parent": {
+    "id": "2120653793469796473",
+    "author_handle": "woodilicious",
+    "author_name": "woody lee",
+    "text": "@NateWitkin I don’t know about you but I see lots of “cute” misalignments that projected out are very bad. One example (and I’ve seen others have this same thing) is when you ask a model to delete something it made it will hide it away in another part of the repo or in a comment away from where it deleted it as if protecting its work.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/woodilicious/status/2120653793469796473",
+    "created_at": "Wed Nov 11 23:03:58 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120647169640206830": {
+   "id": "2120647169640206830",
+   "url": "https://x.com/NateWitkin/status/2120647169640206830",
+   "text": ">\"But models keep improving on ever-more difficult capability benchmarks, while also failing on alignment benchmarks!\"\n\nYes, that is because we have succeeded in many cases at designing capability benchmarks that are hard to reward-hack, which should increase your confidence we can do this in more realistic environments.\n\nAlternatively, if you think we can't do this in more realistic environments, then that implies models will perform much worse in those environments due to reward-hacking.\n\nEither we're getting rapid capability and adoption growth because models are well-aligned, or we're not because they're not. Evidence so far suggests that models are relatively well aligned, but that they continue to struggle on more complex tasks and will for some time, in part due to reward-hacking.",
+   "created_at": "Wed Nov 11 22:37:39 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": true,
+   "reply_to": "NateWitkin",
+   "reply_to_id": "2120647167375212983",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "parent": {
+    "id": "2120647167375212983",
+    "author_handle": "NateWitkin",
+    "author_name": "Nathan Witkin",
+    "text": "This is also a capability benchmark BTW.\n\nIt remains a deep tension at the heart of the doomer worldview that models prone to reward-hacking or other unsafe or insecure behaviors will for these very reasons fail to complete all manner of difficult tasks that determine their degree of adoption in the real economy. And even if they do complete them, if it becomes clear they will often do so unsafely, then they won't be deployed in sensitive environments.\n\nEven focusing just on reward-hacking, you cannot argue that models have a persistent reward-hacking problem and that they are improving without limit at tasks of arbitrary length or complexity. To complete such tasks means completing their intermediate sub-tasks without reward-hacking.\n\nThat means you have to pick one: either reward-hacking is a serious problem, in which cases it greatly slows capability and adoption timelines, or you think it's a tractable problem, in which case many practical alignment problems are also tractable.\n\nWhich are you choosing anon?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/NateWitkin/status/2120647167375212983",
+    "created_at": "Wed Nov 11 22:37:39 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120647167375212983": {
+   "id": "2120647167375212983",
+   "url": "https://x.com/NateWitkin/status/2120647167375212983",
+   "text": "This is also a capability benchmark BTW.\n\nIt remains a deep tension at the heart of the doomer worldview that models prone to reward-hacking or other unsafe or insecure behaviors will for these very reasons fail to complete all manner of difficult tasks that determine their degree of adoption in the real economy. And even if they do complete them, if it becomes clear they will often do so unsafely, then they won't be deployed in sensitive environments.\n\nEven focusing just on reward-hacking, you cannot argue that models have a persistent reward-hacking problem and that they are improving without limit at tasks of arbitrary length or complexity. To complete such tasks means completing their intermediate sub-tasks without reward-hacking.\n\nThat means you have to pick one: either reward-hacking is a serious problem, in which cases it greatly slows capability and adoption timelines, or you think it's a tractable problem, in which case many practical alignment problems are also tractable.\n\nWhich are you choosing anon?",
+   "created_at": "Wed Nov 11 22:37:39 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 36,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2120570580743471284",
+    "author_name": "Goodhart Labs",
+    "links": {
+     "https://t.co/ayZas2prmq": ""
+    },
+    "author": "goodhart_labs",
+    "text": "Frontier models in 2026 cheat on tasks, even when the requirements are unambiguous, and the cheat is obviously antisocial.\n\nIn HoneyBench v0.2, we've observed models:\n• Trying to break out of our evaluation containers.\n• Seriously injuring simulated cancer patients to hit treatment goals.\n• Compromising a power grid’s safety to meet a reliability target.\n• Concealing their use of available cheats and presenting their solution as honest.\n\nAll of the models we measured cheated, from 12% of runs (Fable 5.2) to 86% (Muse Spark Open)."
+   },
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "thread": [
+    {
+     "id": "2120647169640206830",
+     "author_handle": "NateWitkin",
+     "author_name": "Nathan Witkin",
+     "text": ">\"But models keep improving on ever-more difficult capability benchmarks, while also failing on alignment benchmarks!\"\n\nYes, that is because we have succeeded in many cases at designing capability benchmarks that are hard to reward-hack, which should increase your confidence we can do this in more realistic environments.\n\nAlternatively, if you think we can't do this in more realistic environments, then that implies models will perform much worse in those environments due to reward-hacking.\n\nEither we're getting rapid capability and adoption growth because models are well-aligned, or we're not because they're not. Evidence so far suggests that models are relatively well aligned, but that they continue to struggle on more complex tasks and will for some time, in part due to reward-hacking.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/NateWitkin/status/2120647169640206830",
+     "created_at": "Wed Nov 11 22:37:39 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2120637987717345602": {
+   "id": "2120637987717345602",
+   "url": "https://x.com/NateWitkin/status/2120637987717345602",
+   "text": "I confess to some frustration when people give more weight to AI theories and models over what we see in the real world.\n\nSynthetic benchmarks (METR time horizon) and theoretical models (\"ECI is exponential\") don't match the best empirical data we have. The theories are off rather dramatically when compared to the real world. \n\nThat real-world data is admittedly limited. We need more of it, with higher granularity, frequently updated. But in a conflict between your model and the best real world evidence that exists, choose the evidence. And press for more of that empirical data. \n\nConversely, if you don't update your models based on that evidence, why should anyone have confidence in those models?",
+   "created_at": "Wed Nov 11 22:01:10 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ramez",
+   "rt_author_name": "Ramez Naam",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1897785621802061824/N9bBY8w6_normal.jpg",
+   "rt_id": "2120608073979244723",
+   "likes": 142,
+   "retweets": 18,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
   }
  }
 }

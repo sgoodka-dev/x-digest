@@ -3863,6 +3863,30 @@
    "quoted": null,
    "fetched_at": "2026-11-11T21:58:42.410012+00:00",
    "enriched": 3
+  },
+  "2120684363876839576": {
+   "id": "2120684363876839576",
+   "url": "https://x.com/random_walker/status/2120684363876839576",
+   "text": "Very excited about this new AI institution. The top right quadrant they highlight here is pretty much where my views are. AI is powerful. Bottlenecks are real. We have agency.  Congrats @RishiBommasani @sayashk @random_walker !",
+   "created_at": "Thu Nov 12 01:05:27 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1650881612756942850/bZYjMyFU_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ramez",
+   "rt_author_name": "Ramez Naam",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1897785621802061824/N9bBY8w6_normal.jpg",
+   "rt_id": "2120673535077298467",
+   "likes": 24,
+   "retweets": 6,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
   }
  }
 }

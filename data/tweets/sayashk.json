@@ -2971,6 +2971,65 @@
    "quoted": null,
    "fetched_at": "2026-11-11T21:58:42.410012+00:00",
    "enriched": 3
+  },
+  "2120885848896155794": {
+   "id": "2120885848896155794",
+   "url": "https://x.com/sayashk/status/2120885848896155794",
+   "text": "This is true and we're going to play a huge price in incorrect policy for it https://t.co/K29iuh23Qw",
+   "created_at": "Thu Nov 12 14:26:05 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1521238232867946496/U_GCI43e_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "joshua_saxe",
+   "rt_author_name": "Joshua Saxe",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1072897105679671296/mlN8zCx-_normal.jpg",
+   "rt_id": "2120885462286110893",
+   "likes": 148,
+   "retweets": 20,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW7mC3BWIAAgGOa.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW7mC3BWIAAgGOa.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/K29iuh23Qw": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120693836796293255": {
+   "id": "2120693836796293255",
+   "url": "https://x.com/sayashk/status/2120693836796293255",
+   "text": "Very excited about this new AI institution. The top right quadrant they highlight here is pretty much where my views are. AI is powerful. Bottlenecks are real. We have agency.  Congrats @RishiBommasani @sayashk @random_walker !",
+   "created_at": "Thu Nov 12 01:43:05 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1521238232867946496/U_GCI43e_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ramez",
+   "rt_author_name": "Ramez Naam",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1897785621802061824/N9bBY8w6_normal.jpg",
+   "rt_id": "2120673535077298467",
+   "likes": 24,
+   "retweets": 6,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
   }
  }
 }

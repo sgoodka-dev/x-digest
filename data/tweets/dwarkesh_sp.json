@@ -3705,6 +3705,78 @@
    },
    "fetched_at": "2026-11-11T21:58:42.410012+00:00",
    "enriched": 3
+  },
+  "2120653010930143235": {
+   "id": "2120653010930143235",
+   "url": "https://x.com/dwarkesh_sp/status/2120653010930143235",
+   "text": ".@Lewis_Bollard questions why cockfighting is illegal while industrial-scale factory farming of chickens is legal.\n\nhttps://t.co/aTJlOh6slE https://t.co/qXI3EqcxtY",
+   "created_at": "Wed Nov 11 23:00:52 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1915048486505971712/H2jFRoW6_normal.jpg",
+   "rt_id": "2120652800761938182",
+   "likes": 104,
+   "retweets": 13,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120526029030584320/img/353rkniowfIWWriW.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120526029030584320/img/353rkniowfIWWriW.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/aTJlOh6slE": "https://youtu.be/kWcPg8t1kJ4?t=1617",
+    "https://t.co/qXI3EqcxtY": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120652996661088622": {
+   "id": "2120652996661088622",
+   "url": "https://x.com/dwarkesh_sp/status/2120652996661088622",
+   "text": "Factory farms have bred chickens that are optimized for suffering.\n\n@Lewis_Bollard explains how meat chickens are designed to die before puberty. When farmers want them to lay eggs, they need to be starved so they don’t collapse under their own weight.\n\nhttps://t.co/wNq0FzFSIK https://t.co/PL685AWbvu",
+   "created_at": "Wed Nov 11 23:00:48 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1915048486505971712/H2jFRoW6_normal.jpg",
+   "rt_id": "2120562201069060212",
+   "likes": 179,
+   "retweets": 25,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120521742305124353/img/GZc8gKBbXhCwX9Mj.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120521742305124353/img/GZc8gKBbXhCwX9Mj.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/wNq0FzFSIK": "https://youtu.be/kWcPg8t1kJ4?t=1404",
+    "https://t.co/PL685AWbvu": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
   }
  }
 }

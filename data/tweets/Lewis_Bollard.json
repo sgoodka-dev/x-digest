@@ -1975,6 +1975,112 @@
     "created_at": "Tue Nov 10 00:36:14 +0000 2026"
    },
    "enriched": 3
+  },
+  "2120941660951691322": {
+   "id": "2120941660951691322",
+   "url": "https://x.com/Lewis_Bollard/status/2120941660951691322",
+   "text": "@nanransohoff @albrgr Yes for ending crates it’s me! Would love to chat with anyone interested in funding this goal. We have some of the GMs, but we’re actively recruiting more",
+   "created_at": "Thu Nov 12 18:07:51 +0000 2026",
+   "author_handle": "Lewis_Bollard",
+   "author_name": "Lewis Bollard",
+   "is_reply": true,
+   "reply_to": "nanransohoff",
+   "reply_to_id": "2120930934379913350",
+   "avatar": "https://pbs.twimg.com/profile_images/1945502946910699520/AxOdmQGI_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 14,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "parent": {
+    "id": "2120930934379913350",
+    "author_handle": "nanransohoff",
+    "author_name": "Nan Ransohoff",
+    "text": "This post from @albrgr and team does a great job estimating how much a bunch of important outcomes would cost (many of which cost less than I would have expected!). Let's say a group of donors got together and said, 'OK we want to fully fund stopping the use of crates for most mother pigs for $500M.' Who do they give that $ to deliver that outcome? Maybe in this specific case it's @Lewis_Bollard, but I would be curious for @albrgr's take on which of the identified outcomes already have GMs and the operational capacity to absorb the $, and where the gaps are.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/nanransohoff/status/2120930934379913350",
+    "created_at": "Thu Nov 12 17:25:14 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2120662438660190429": {
+   "id": "2120662438660190429",
+   "url": "https://x.com/Lewis_Bollard/status/2120662438660190429",
+   "text": ".@Lewis_Bollard questions why cockfighting is illegal while industrial-scale factory farming of chickens is legal.\n\nhttps://t.co/aTJlOh6slE https://t.co/qXI3EqcxtY",
+   "created_at": "Wed Nov 11 23:38:20 +0000 2026",
+   "author_handle": "Lewis_Bollard",
+   "author_name": "Lewis Bollard",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1945502946910699520/AxOdmQGI_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1915048486505971712/H2jFRoW6_normal.jpg",
+   "rt_id": "2120652800761938182",
+   "likes": 104,
+   "retweets": 13,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120526029030584320/img/353rkniowfIWWriW.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120526029030584320/img/353rkniowfIWWriW.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/aTJlOh6slE": "https://youtu.be/kWcPg8t1kJ4?t=1617",
+    "https://t.co/qXI3EqcxtY": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
+  },
+  "2120662406347297018": {
+   "id": "2120662406347297018",
+   "url": "https://x.com/Lewis_Bollard/status/2120662406347297018",
+   "text": "Factory farms have bred chickens that are optimized for suffering.\n\n@Lewis_Bollard explains how meat chickens are designed to die before puberty. When farmers want them to lay eggs, they need to be starved so they don’t collapse under their own weight.\n\nhttps://t.co/wNq0FzFSIK https://t.co/PL685AWbvu",
+   "created_at": "Wed Nov 11 23:38:12 +0000 2026",
+   "author_handle": "Lewis_Bollard",
+   "author_name": "Lewis Bollard",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1945502946910699520/AxOdmQGI_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1915048486505971712/H2jFRoW6_normal.jpg",
+   "rt_id": "2120562201069060212",
+   "likes": 179,
+   "retweets": 25,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120521742305124353/img/GZc8gKBbXhCwX9Mj.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120521742305124353/img/GZc8gKBbXhCwX9Mj.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/wNq0FzFSIK": "https://youtu.be/kWcPg8t1kJ4?t=1404",
+    "https://t.co/PL685AWbvu": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-12T23:09:44.115616+00:00",
+   "enriched": 3
   }
  }
 }
