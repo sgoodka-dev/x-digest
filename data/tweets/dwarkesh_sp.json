@@ -3813,6 +3813,233 @@
    "quoted": null,
    "fetched_at": "2026-11-13T14:42:03.869260+00:00",
    "enriched": 3
+  },
+  "2121336529801056749": {
+   "id": "2121336529801056749",
+   "url": "https://x.com/dwarkesh_sp/status/2121336529801056749",
+   "text": "Why do I think that AIs trained in a data center during the intelligence explosion will still be really good at fuzzy stuff (like, say, running a Fortune 500 company)?\n\nTwo big reasons:\n\n1. The generalization we're already seeing at <1/1000th of the scale of RL training that will be happening during the intelligence explosion\n\n2. The fact that evolution designed super general human brains from just a very crude verifiable grade (did your genes pass on or not)?",
+   "created_at": "Fri Nov 13 20:16:55 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 121,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2121334952109441024/img/gUi-TIj25CdqUf59.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/tg1Gc1Gshu": ""
+   },
+   "quoted": {
+    "id": "2121311524409225611",
+    "author_name": "Dwarkesh Patel",
+    "links": {
+     "https://t.co/z5RsJgcWWc": "https://www.dwarkesh.com/p/rsi",
+     "https://t.co/Ud6MDxiADh": ""
+    },
+    "author": "dwarkesh_sp",
+    "text": "The avalanche that hit math is coming for AI development.\n\nhttps://t.co/z5RsJgcWWc https://t.co/Ud6MDxiADh"
+   },
+   "fetched_at": "2026-11-13T21:26:31.587502+00:00",
+   "enriched": 3
+  },
+  "2121332954333127083": {
+   "id": "2121332954333127083",
+   "url": "https://x.com/dwarkesh_sp/status/2121332954333127083",
+   "text": "@patrick_oshag Thanks!",
+   "created_at": "Fri Nov 13 20:02:43 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "patrick_oshag",
+   "reply_to_id": "2121330975083000062",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-13T21:26:31.587502+00:00",
+   "parent": {
+    "id": "2121330975083000062",
+    "author_handle": "patrick_oshag",
+    "author_name": "Patrick OShaughnessy",
+    "text": "@dwarkesh_sp This was great",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/patrick_oshag/status/2121330975083000062",
+    "created_at": "Fri Nov 13 19:54:51 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2121326003670983028": {
+   "id": "2121326003670983028",
+   "url": "https://x.com/dwarkesh_sp/status/2121326003670983028",
+   "text": "AI’s ability to solve well-scoped problems is going to be an even bigger deal for machine learning research than for mathematics, broadly construed.\n\nThat’s because the goal of mathematics research is not just to prove or disprove endless lists of conjectures, but rather to extend human understanding of mathematical concepts.\n\nBut in AI research, the priorities are exactly reversed. AI labs mainly care about how any new algorithmic recipe empirically makes training more efficient or elicits smarter models. They don’t care about theory for its own sake.",
+   "created_at": "Fri Nov 13 19:35:06 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 189,
+   "retweets": 13,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2121325723126468608/img/kYTasBr4M1P5u8iH.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/zvvDfNL8WH": ""
+   },
+   "quoted": {
+    "id": "2121311524409225611",
+    "author_name": "Dwarkesh Patel",
+    "links": {
+     "https://t.co/z5RsJgcWWc": "https://www.dwarkesh.com/p/rsi",
+     "https://t.co/Ud6MDxiADh": ""
+    },
+    "author": "dwarkesh_sp",
+    "text": "The avalanche that hit math is coming for AI development.\n\nhttps://t.co/z5RsJgcWWc https://t.co/Ud6MDxiADh"
+   },
+   "fetched_at": "2026-11-13T21:26:31.587502+00:00",
+   "enriched": 3
+  },
+  "2121319262057062443": {
+   "id": "2121319262057062443",
+   "url": "https://x.com/dwarkesh_sp/status/2121319262057062443",
+   "text": "@keikaku404 A large part of the post is detailing the verifiable proxies for AI progress.\n\nhttps://t.co/cE9yePwZdy https://t.co/lkDfKGSygg",
+   "created_at": "Fri Nov 13 19:08:18 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "keikaku404",
+   "reply_to_id": "2121314510317212155",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 19,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXBwZIZa8AAhDf6.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXBwZIZa8AAhDf6.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/cE9yePwZdy": "https://www.dwarkesh.com/i/224624765/ai-r-and-d-is-largely-verifiable",
+    "https://t.co/lkDfKGSygg": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-13T21:26:31.587502+00:00",
+   "parent": {
+    "id": "2121314510317212155",
+    "author_handle": "keikaku404",
+    "author_name": "Constantine",
+    "text": "@dwarkesh_sp what is the equivalent of a lean proof in AI research? some benchmark? how does this exactly produce super intelligence? this all seems like hopeful thinking hidden in jargon",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/keikaku404/status/2121314510317212155",
+    "created_at": "Fri Nov 13 18:49:26 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2121318757624918135": {
+   "id": "2121318757624918135",
+   "url": "https://x.com/dwarkesh_sp/status/2121318757624918135",
+   "text": "Until recently I wasn't pricing in the arguments given here enough: \n- AIs are already superhuman at math, in large part because it's so verifiable \n- AI research is more expensive to verify than math (because you need experiment compute), but proxies like pretraining loss are still very good\n\neveryone should read this post",
+   "created_at": "Fri Nov 13 19:06:18 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "thlarsen",
+   "rt_author_name": "Thomas Larsen",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2075083315468734464/Y0RF7vaZ_normal.jpg",
+   "rt_id": "2121316947002564868",
+   "likes": 77,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXBtXVRbsAAT2qR.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/n84fHzM6NJ": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-13T21:26:31.587502+00:00",
+   "enriched": 3
+  },
+  "2121311524409225611": {
+   "id": "2121311524409225611",
+   "url": "https://x.com/dwarkesh_sp/status/2121311524409225611",
+   "text": "The avalanche that hit math is coming for AI development.\n\nhttps://t.co/z5RsJgcWWc https://t.co/Ud6MDxiADh",
+   "created_at": "Fri Nov 13 18:37:34 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1578,
+   "retweets": 102,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HXBsFabWcAAnQQC.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HXBsFabWcAAnQQC.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/z5RsJgcWWc": "https://www.dwarkesh.com/p/rsi",
+    "https://t.co/Ud6MDxiADh": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-13T21:26:31.587502+00:00",
+   "enriched": 3
   }
  }
 }

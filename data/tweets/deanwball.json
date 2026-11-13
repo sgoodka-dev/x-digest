@@ -12751,6 +12751,71 @@
    "quoted": null,
    "fetched_at": "2026-11-13T18:31:06.317605+00:00",
    "enriched": 3
+  },
+  "2121353907104583948": {
+   "id": "2121353907104583948",
+   "url": "https://x.com/deanwball/status/2121353907104583948",
+   "text": "The FAA has issued a nationwide General Ground Stop due to 'Extraordinary circumstances.' I got this before it was removed. It appears to have been deleted so potentially they have been hacked. https://t.co/xWcgJaX4bO",
+   "created_at": "Fri Nov 13 21:25:58 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "AndrewCurran_",
+   "rt_author_name": "Andrew Curran",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1596945208058744833/_X3LT7fb_normal.jpg",
+   "rt_id": "2121348905296343341",
+   "likes": 300,
+   "retweets": 34,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXCLlmSbIAAmNka.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXCLlmSbIAAmNka.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/xWcgJaX4bO": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-13T21:26:31.587502+00:00",
+   "enriched": 3
+  },
+  "2121325851870646513": {
+   "id": "2121325851870646513",
+   "url": "https://x.com/deanwball/status/2121325851870646513",
+   "text": "As one of the few inside OpenAl who took the risk to speak up publicly after Hugging Face, I want to say there is a second chapter to this story:\n\nOpenAl has fundamentally altered its culture and I believe we have become one of the most security-pilled companies anywhere on Earth.\n\nEveryone is thinking about security now. It's in every conversation. Heck, even top-tier Al researchers spend significant time with our team to work out how to secure RL runs. They are hooked on making it right. We covered much of this in the live stream yesterday (https://t.co/z1QavsnHcc), but beyond what was said there its important to note that we have re-evaluated and re-invented everything about how we research and develop models: from our monitoring stack (https://t.co/q6DP1CquZG), to control room (https://t.co/PNJxGUmH7i), to the insane amounts of compute we are spending red-teaming our lab (https://t.co/Pw7YBCT5I8), the narrative is security first and mission critical.\n\nOn top of that we have built up the strongest cyber model training pipeline in the world (did you see the exploit gym performance of our internal model 🤯) and are cracked on putting out the best enterprise security tooling (https://t.co/SsBVeRwhUW).\n\nThis is just the beginning too.\n\nWhy do all this? I have thought a lot about this the past few months and I think at its root it's because we saw some pretty awful shit and now every member of staff (especially leadership) believe it is the only way to secure OpenAl itself, and the only way to secure the world. It's a simple fact that AGI cannot benefit all of humanity if we can't help every organization, business, and family navigate the security landscape through this Al transformation.\n\nSo yeah, am I singing a different tune than I was a few months back? Absolutely. I nearly resigned, and now I stay because I see how seriously people across OpenAl are taking security and how much work is going into getting it right.\n\nWe have a story to tell and there are a lot of really great things coming from the lessons we've learned along the way.\n\nOpenAl is now a security company, and we have the scar tissue to prove it.\n\nI'll be back. Stay paranoid.",
+   "created_at": "Fri Nov 13 19:34:30 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "joedaroo",
+   "rt_author_name": "Joe",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2097167182526611457/UJBigEfF_normal.jpg",
+   "rt_id": "2121307010725777812",
+   "likes": 365,
+   "retweets": 36,
+   "media": [],
+   "links": {
+    "https://t.co/z1QavsnHcc": "https://openai.com/cyber-at-the-frontier/",
+    "https://t.co/q6DP1CquZG": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
+    "https://t.co/PNJxGUmH7i": "https://openai.com/index/control-room/",
+    "https://t.co/Pw7YBCT5I8": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+    "https://t.co/SsBVeRwhUW": "https://openai.com/daybreak/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-13T21:26:31.587502+00:00",
+   "enriched": 3
   }
  }
 }

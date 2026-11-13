@@ -12524,6 +12524,131 @@
     "created_at": "Fri Nov 13 16:30:02 +0000 2026"
    },
    "enriched": 3
+  },
+  "2121349057214091353": {
+   "id": "2121349057214091353",
+   "url": "https://x.com/s8mb/status/2121349057214091353",
+   "text": "What would win: artificial superintelligence or one little inferred law?",
+   "created_at": "Fri Nov 13 21:06:42 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2121288208637972735",
+    "author_name": "Saloni",
+    "links": {
+     "https://t.co/JTMfMkihnu": ""
+    },
+    "author": "salonium",
+    "text": "New episode of HARD DRUGS!\n\nWill AI progress be crushed by Eroom’s law?\n\nEven as technology has advanced, drug development has gotten more and more expensive over time.\n\nIn the 1950s, one billion dollars of R&D spending got us roughly fifty new drugs. Today, it gets us about one.\n\nThis trend is called Eroom’s law, or Moore’s law spelled backwards. It seems pretty bleak: the R&D cost per new drug has roughly doubled every nine years, in inflation-adjusted dollars, meaning drug development has become exponentially more expensive.\n\nWhat could explain this? Here are some possibilities:\n\n• Our standards of evidence and requirements for safety testing have risen, through regulation, public expectations, and risk aversion.\n\n• We’ve picked the low-hanging fruit already. Perhaps we’ve already made the easiest discoveries, and diseases that are harder to understand or treat are left.\n\n• Or perhaps it’s the ‘better than the Beatles’ problem: New drugs not only have to be effective, but have to compete with existing treatments, which are already effective. Plus, some of them have gone off-patent and become cheap generics, making the price contrast starker.\n\nRelatedly, as diseases become rarer or milder, it takes more effort to demonstrate that new drugs are effective, with larger or longer clinical trials.\n\nBut there are also reasons to question these explanations. We still lack effective treatments for many diseases. And our tools for studying biology have improved enormously. Why hasn’t that been enough?\n\nWill our best efforts be crushed by Eroom’s law, too? Or can AI reverse the trend?\n\nIn our latest episode of HARD DRUGS, @JacobTref and I chat about all this and more. Listen wherever you get your podcasts!\n\nChapters:\n00:00 Introduction\n02:53 Eroom’s law trivia\n12:33 How much does it really cost to develop a drug?\n22:35 The better than the Beatles problem\n33:06 Clinical trials are larger and more rigorous today\n42:01 Have we picked the low-hanging fruit?\n01:01:22 Is Eroom’s law slowing down because of rare disease drugs?\n01:06:18 Can AI reverse Eroom’s law?\n01:15:09 Conclusion"
+   },
+   "fetched_at": "2026-11-13T21:26:31.587502+00:00",
+   "enriched": 3
+  },
+  "2121348886447132734": {
+   "id": "2121348886447132734",
+   "url": "https://x.com/s8mb/status/2121348886447132734",
+   "text": "@kenbrennan2000 Yep, agreed! No meat touches my pans before I see a Leidenfrost effect.",
+   "created_at": "Fri Nov 13 21:06:01 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "kenbrennan2000",
+   "reply_to_id": "2121341188925989201",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-13T21:26:31.587502+00:00",
+   "parent": {
+    "id": "2121341188925989201",
+    "author_handle": "kenbrennan2000",
+    "author_name": "Ken Brennan",
+    "text": "@s8mb Pan much hotter than you think (you need to hear the high-pitched “hiss” of searing), no more than a pound at a time, don’t move the pan, always be breaking it up in tiny bits with a spatula.\n\nWatch Marco Pierre White’s bolognese video on YouTube. He goes into detail.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/kenbrennan2000/status/2121341188925989201",
+    "created_at": "Fri Nov 13 20:35:26 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2121325939141628373": {
+   "id": "2121325939141628373",
+   "url": "https://x.com/s8mb/status/2121325939141628373",
+   "text": "Quoteshots 2.0 @matter https://t.co/nbMpknEBrl",
+   "created_at": "Fri Nov 13 19:34:50 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "benspringwater",
+   "rt_author_name": "Ben Springwater",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1595516312154869760/aSJL1rPu_normal.jpg",
+   "rt_id": "2121324184659976441",
+   "likes": 30,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2121323210734190592/img/yxpWPR009jzW3lCf.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2121323210734190592/img/yxpWPR009jzW3lCf.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/nbMpknEBrl": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-13T21:26:31.587502+00:00",
+   "enriched": 3
+  },
+  "2121316026792972294": {
+   "id": "2121316026792972294",
+   "url": "https://x.com/s8mb/status/2121316026792972294",
+   "text": "It’s frustrating that GTA6 won’t be out on PC for another year but at least by then my toddler will be old enough to watch me play it.",
+   "created_at": "Fri Nov 13 18:55:27 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 46,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-13T21:26:31.587502+00:00",
+   "enriched": 3
   }
  }
 }

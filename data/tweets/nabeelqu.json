@@ -2608,6 +2608,30 @@
    ],
    "quoted": null,
    "fetched_at": "2026-10-31T16:06:16.787670+00:00"
+  },
+  "2121337320817488130": {
+   "id": "2121337320817488130",
+   "url": "https://x.com/nabeelqu/status/2121337320817488130",
+   "text": "Seb's Law: The widespread, transformative societal impact of AI is always approximately two years away, regardless of the current year.",
+   "created_at": "Fri Nov 13 20:20:04 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1857140980421668864/0prdKK32_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "sebkrier",
+   "rt_author_name": "Séb Krier",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1992052427743272961/WJQ8uqql_normal.jpg",
+   "rt_id": "2035280949374816358",
+   "likes": 491,
+   "retweets": 39,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-13T21:26:31.587502+00:00",
+   "enriched": 3
   }
  }
 }
