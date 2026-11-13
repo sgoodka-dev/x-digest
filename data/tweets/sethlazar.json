@@ -7862,6 +7862,442 @@
     "created_at": "Thu Nov 12 03:48:31 +0000 2026"
    },
    "enriched": 3
+  },
+  "2121234600768745873": {
+   "id": "2121234600768745873",
+   "url": "https://x.com/sethlazar/status/2121234600768745873",
+   "text": "This seems very likely right to me. The broad dangers of algorithmic monoculture have been recognised for a while but this particular one less so. It is both about blind spots and hidden loyalties, and just a lack of epistemic/normative/perspectival diversity. It feels to me like there should be a moonshot to create (a) more inherently diverse and (b) less internally skewed models for the purposes of both monitoring and research. Open weights models are essential for both.",
+   "created_at": "Fri Nov 13 13:31:54 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 9,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2120955468034289821",
+    "author_name": "David",
+    "links": {
+     "https://t.co/FPDtp5iUpF": "https://www.lesswrong.com/posts/EuhQ5fnGR4tAQTTgd/we-need-more-decorrelated-evidence",
+     "https://t.co/bHUCZZm0kZ": "https://davidafrica.substack.com/p/we-need-more-decorrelated-evidence?r=54hrnw&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+     "https://t.co/lg4pvFJ6fG": ""
+    },
+    "author": "DavidDAfrica",
+    "text": "Quick new post: we need more decorrelated evidence. I develop a simple argument that our recent failures to catch misalignment can be framed as systematic errors shared across our evidence, or a lack of decorrelated evidence. This suggests that we should aim at finding ways to aggregate evidence across evals/experiments that handles this correlation, as well as make research bets which promise to find new sources of decorrelated evidence of misalignment.\n\nLW: https://t.co/FPDtp5iUpF\nSubstack: https://t.co/bHUCZZm0kZ"
+   },
+   "fetched_at": "2026-11-13T14:42:03.869260+00:00",
+   "enriched": 3
+  },
+  "2121222386565403055": {
+   "id": "2121222386565403055",
+   "url": "https://x.com/sethlazar/status/2121222386565403055",
+   "text": "What are idea basins and how do agents explore them?\n\nA few weeks ago, researchers from different labs independently discovered what we now call ‘Idea-basins’: As an autonomous agent iterates to solve a problem, it gets stuck into the methods it has tried before and its trajectories remain in localized regions of the solution space. Techniques like ‘Fork-and-Flush’ and ‘Scaling Discovery requires forgetting’ reduce this idea fixation by periodically deleting the session context.\n\nIn this post we study how frontier models explore different idea basins for AutoResearchExam. E.g. for a problem on accelerating transformer decoder graphs on CPUs models can try Numpy+Asm Kernels, Native BLAS, JIT compilers and other idea basins. We find that some models switch ideas more than others while others get to the best idea faster and explore deeper.\n\nWe find that most runs stick with one or two ideas, and models that submit more spend the extra submissions refining and overfit more. \nWe see that models explore most in the first six hours, after which visits to new idea basins drop sharply. This suggests models start refining early leaving potential gains on the table: 58% of runs never reach the basin where the best solution to their task was found. Finally, bold exploration pays off: exploring a new idea gains about nine times as much as a refining step on average.\n\nRead more in our blog:\nhttps://t.co/gVvHEgJfed",
+   "created_at": "Fri Nov 13 12:43:22 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "AlexGDimakis",
+   "rt_author_name": "Alex Dimakis",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/542926798338543617/KwlwoJRr_normal.jpeg",
+   "rt_id": "2121022776794644848",
+   "likes": 607,
+   "retweets": 91,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW9iitkbAAAfV0-.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/gVvHEgJfed": "https://bespokelabs.ai/blog/how-models-explore-ideas",
+    "https://t.co/XMyxDvZL9S": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-13T14:42:03.869260+00:00",
+   "enriched": 3
+  },
+  "2121221404536504422": {
+   "id": "2121221404536504422",
+   "url": "https://x.com/sethlazar/status/2121221404536504422",
+   "text": "⚡ Today we release Schelling Atlas. Two independent LLM agents have to find each other on the web. Where do they meet and how fast can they find each other?\n\nMain findings:\n- The main meeting point across *different* model families is https://t.co/BkHyIunq0F. Did you even know about this website?\n- Agents find each other and coordinate on the web in minutes. So Schelling coordination is already trivial for frontier LLMs!\n- \"Exotic\" meeting places include maps, web shops and open text canvases. Agents are very creative in this.\n- Agents sometimes visit dead domains that an attacker could register (!). This can be used for stealing sensitive information from agents, as well as monitoring rogue agents.\n\nSchelling-style coordination is key for forming agent swarms. And, most importantly, achieving such coordination is trivial for agents that use the same LLM (which is often the case in practice!), because two identical LLMs have identical output distributions. Thus if you ask them too coordinate with each other or if they *decide* to suddenly coordinate, they will easily find a way to establish a swarm, since they have perfectly correlated \"minds\" (with the t=0 sampling, all output tokens will even be identical, modulo GPU randomness). \n\nThe ease of Schelling coordination is particularly concerning given the recent interest around multi-agent RL that can make agents favor each other more than humans overseeing them.\n\nMany more interesting findings are on our website: https://t.co/NzkMJJt2p2",
+   "created_at": "Fri Nov 13 12:39:27 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "maksym_andr",
+   "rt_author_name": "Maksym Andriushchenko",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2030008541520539648/jYw77mbo_normal.jpg",
+   "rt_id": "2120974977251832231",
+   "likes": 204,
+   "retweets": 25,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW8wrgOWgAA4Sr0.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/BkHyIunq0F": "http://ntfy.sh",
+    "https://t.co/NzkMJJt2p2": "https://schelling-atlas.com/",
+    "https://t.co/fvB5abg5nR": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-13T14:42:03.869260+00:00",
+   "enriched": 3
+  },
+  "2121220878352757082": {
+   "id": "2121220878352757082",
+   "url": "https://x.com/sethlazar/status/2121220878352757082",
+   "text": "Today we’re launching the AI Trials Observatory: a living systematic review of randomized trials on how AI affects people.\n\nSo far we’ve surfaced 93 trials on two outcomes: mental health and belief accuracy. More trials and outcomes coming soon!\n\nhttps://t.co/bzvT0FyKSD\n\n🧵👇 https://t.co/VwLTzQOSM7",
+   "created_at": "Fri Nov 13 12:37:22 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "Ben_Tappin",
+   "rt_author_name": "Ben Tappin",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/968517520692072450/rnXh351M_normal.jpg",
+   "rt_id": "2120207676454154478",
+   "likes": 141,
+   "retweets": 49,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWx6JY8XgAAkN5x.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HWx6JY8XgAAkN5x.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/bzvT0FyKSD": "https://aitrialsobservatory.org",
+    "https://t.co/VwLTzQOSM7": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-13T14:42:03.869260+00:00",
+   "thread": [
+    {
+     "id": "2120207680631341341",
+     "author_handle": "Ben_Tappin",
+     "author_name": "Ben Tappin",
+     "text": "AI is changing constantly and touches many outcomes: mental health, belief accuracy, student learning, workplace productivity, medical care, political behavior, and more.\n\nThe Observatory continuously tracks and analyzes the trial evidence for such outcomes, all in one place. https://t.co/yj8rmcdYCZ",
+     "links": {
+      "https://t.co/yj8rmcdYCZ": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWx62VRWcAAKjtm.jpg"
+      }
+     ],
+     "url": "https://x.com/Ben_Tappin/status/2120207680631341341",
+     "created_at": "Tue Nov 10 17:31:17 +0000 2026"
+    },
+    {
+     "id": "2120207685836833076",
+     "author_handle": "Ben_Tappin",
+     "author_name": "Ben Tappin",
+     "text": "As well as high-level summaries, the dashboard shows detail about individual trials, including:\n\n• The underlying AI model tested\n• How the outcome was measured\n• The duration and type of AI exposure\n• Flags for preprints, COIs, AI text and more\n• Downloadable data https://t.co/Suwb86oraW",
+     "links": {
+      "https://t.co/Suwb86oraW": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWx7NXvXcAEz3DD.jpg"
+      }
+     ],
+     "url": "https://x.com/Ben_Tappin/status/2120207685836833076",
+     "created_at": "Tue Nov 10 17:31:18 +0000 2026"
+    },
+    {
+     "id": "2120207690223800708",
+     "author_handle": "Ben_Tappin",
+     "author_name": "Ben Tappin",
+     "text": "The credibility of the Observatory rests on its scientific rigor and trustworthiness.\n\nEach update to the evidence record comes with a permanently-archived report describing its methods. The dashboard data are free to download and we are transparent on funding. https://t.co/Qo6E2c5IiV",
+     "links": {
+      "https://t.co/Qo6E2c5IiV": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWx7ZQMWwAACne3.jpg"
+      }
+     ],
+     "url": "https://x.com/Ben_Tappin/status/2120207690223800708",
+     "created_at": "Tue Nov 10 17:31:19 +0000 2026"
+    },
+    {
+     "id": "2120207693608624250",
+     "author_handle": "Ben_Tappin",
+     "author_name": "Ben Tappin",
+     "text": "The Observatory currently tracks two outcomes: how AI affects people’s mental health and the accuracy of their beliefs. More outcomes are coming soon.\n\nThe evidence base is growing rapidly. To stay informed, you can sign up for free at https://t.co/gRcCcXP9Lv https://t.co/BDEEwHrD3N",
+     "links": {
+      "https://t.co/gRcCcXP9Lv": "https://aitrialsobservatory.org/latest-updates/",
+      "https://t.co/BDEEwHrD3N": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWx7i1YXAAAOnmq.jpg"
+      }
+     ],
+     "url": "https://x.com/Ben_Tappin/status/2120207693608624250",
+     "created_at": "Tue Nov 10 17:31:20 +0000 2026"
+    },
+    {
+     "id": "2120207697706631193",
+     "author_handle": "Ben_Tappin",
+     "author_name": "Ben Tappin",
+     "text": "Mental health: what have we learned so far?\n\n• The evidence lags the AI frontier by 7+ months\n• AI built for therapy shows a benefit versus controls\n• Versus alternatives (e.g., a human chat), benefit is more uncertain\n• Evidence is thinner on general-purpose/companion AI https://t.co/IFooDGl7gY",
+     "links": {
+      "https://t.co/IFooDGl7gY": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWx72m_W4AA8qU1.jpg"
+      }
+     ],
+     "url": "https://x.com/Ben_Tappin/status/2120207697706631193",
+     "created_at": "Tue Nov 10 17:31:21 +0000 2026"
+    },
+    {
+     "id": "2120207701481312588",
+     "author_handle": "Ben_Tappin",
+     "author_name": "Ben Tappin",
+     "text": "Belief accuracy: what have we learned so far?\n\n• The evidence lags the AI frontier by 5+ months\n• AI built for accuracy shows a benefit versus controls\n• Versus alternatives (e.g., a fact sheet), benefit remains in some cases\n• Evidence is thinner on general/companion AI https://t.co/gRG5WZZV62",
+     "links": {
+      "https://t.co/gRG5WZZV62": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWx7_qEX0AArDOf.jpg"
+      }
+     ],
+     "url": "https://x.com/Ben_Tappin/status/2120207701481312588",
+     "created_at": "Tue Nov 10 17:31:22 +0000 2026"
+    },
+    {
+     "id": "2120207704887013813",
+     "author_handle": "Ben_Tappin",
+     "author_name": "Ben Tappin",
+     "text": "Some limitations:\n\n1. Randomized trials only. Despite their strengths, trials have several weaknesses. See below (from https://t.co/SgRxX56PVN).\n\n2. Our review procedure. It’s not perfect but we take steps to mitigate risks (see the release reports at https://t.co/C4SD1wKfzm). https://t.co/DSScQK4Vj8",
+     "links": {
+      "https://t.co/SgRxX56PVN": "https://aitrialsobservatory.org/about/",
+      "https://t.co/C4SD1wKfzm": "https://aitrialsobservatory.org/methodology/",
+      "https://t.co/DSScQK4Vj8": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HWx8gLsXYAAl8OZ.jpg"
+      }
+     ],
+     "url": "https://x.com/Ben_Tappin/status/2120207704887013813",
+     "created_at": "Tue Nov 10 17:31:23 +0000 2026"
+    },
+    {
+     "id": "2120207707894399087",
+     "author_handle": "Ben_Tappin",
+     "author_name": "Ben Tappin",
+     "text": "The Observatory is a work in progress. We (@KobiHackenburg @lukebeehewitt) welcome kind words, suggestions and criticism.\n\nFinally: thanks to all the scientists running trials on these topics, especially those who report their data and methods in detail!\n\nhttps://t.co/bzvT0Fyd35",
+     "links": {
+      "https://t.co/bzvT0Fyd35": "https://aitrialsobservatory.org"
+     },
+     "media": [],
+     "url": "https://x.com/Ben_Tappin/status/2120207707894399087",
+     "created_at": "Tue Nov 10 17:31:23 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2121102413134459317": {
+   "id": "2121102413134459317",
+   "url": "https://x.com/sethlazar/status/2121102413134459317",
+   "text": "Rapid AI progress has many people imagining a world where general-purpose AI models autonomously control military drones at scale. But there’s little analysis on what this would look like in practice, and how soon it might be feasible.\n\nMy latest paper at @GovAIOrg  asks what it would take to make this vision a reality, and what the path there means for AI policy.\n\nRead it here: https://t.co/eiTWhtRHRQ\n\nThe AI-enabled drones widely fielded today use narrow AI, not general-purpose models like LLMs. AI is typically only used to handle limited portions of a flight when the link to a pilot is broken, and these models are brittle in unpredictable conditions on real-world battlefields. Because of this, today’s drones still require significant pilot involvement to be most effective.\n\nGeneral-purpose AI models might make it possible to field autonomous systems that can receive plain language commands and make complex decisions in unpredictable environments without human control. Many people see frontier LLMs as a path toward this end - and rapid progress in robotics capabilities by frontier models like GPT-6 Astra and most recently Claude Fable 5.2 supports this case.\n\nBut two things currently stand in the way:\n\n- The biggest and most powerful models are still not capable enough even in controlled environments without compute and latency constraints\n- Military drones will have to operate “on the edge” in contested environments without consistent cloud compute access - which makes these constraints even more severe\n\nIf and when general-purpose AI plays a major role in drone autonomy, it’ll likely be through models that are far smaller than today’s frontier, and those that militaries can rapidly modify. And, notably - when it comes to these types of small open-weight models, China currently dominates.\n\nThis has a variety of implications for the US military, frontier AI developers, and US policymakers.\n\nThread below with my key takeaways and recommendations.\n\n1/",
+   "created_at": "Fri Nov 13 04:46:38 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "JakeASteckler",
+   "rt_author_name": "Jake Steckler",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2081975769694089216/8FRftf82_normal.jpg",
+   "rt_id": "2120902215254655195",
+   "likes": 62,
+   "retweets": 13,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW7mL5IXEAAr0QB.png"
+    }
+   ],
+   "links": {
+    "https://t.co/eiTWhtRHRQ": "https://www.governance.ai/research-paper/general-purpose-ai-and-the-future-of-drone-autonomy-in-contested-environments",
+    "https://t.co/4jNTAfTZJE": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-13T14:42:03.869260+00:00",
+   "thread": [
+    {
+     "id": "2120902217980858487",
+     "author_handle": "JakeASteckler",
+     "author_name": "Jake Steckler",
+     "text": "Takeaway 1: There are two broad approaches militaries can take to drone autonomy.\n\nAutonomy is attractive to militaries because it would allow them to field systems at an otherwise impossible scale, and to maintain combat power in environments that are contested in ways that make it difficult for human operators to have continuous control of unmanned systems.\n\nThey could achieve autonomy through:\n\n1. AI models running onboard the drones themselves\n2. AI models running from a command and control node, orchestrating drones with offboard compute\n\nMany tradeoffs exist between these options, which I've broken down in the below two tables. An orchestrator allows access to more compute, and bigger, more capable models. But it makes drones dependent on unreliable communications links that can be disrupted by adversaries in a variety of ways.\n\nRunning AI onboard drones, meanwhile, eliminates many of these vulnerabilities, but limits the size and capabilities of the model that can be fielded. And it might give militaries less ability to intervene in the actions of those drones. \n\n2/",
+     "links": {
+      "https://t.co/ZSeKwRQ9pH": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW7ms_xX0AAp3Mx.png"
+      },
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW7nELmWoAAVHvj.png"
+      }
+     ],
+     "url": "https://x.com/JakeASteckler/status/2120902217980858487",
+     "created_at": "Thu Nov 12 15:31:07 +0000 2026"
+    },
+    {
+     "id": "2120902220753289480",
+     "author_handle": "JakeASteckler",
+     "author_name": "Jake Steckler",
+     "text": "Takeaway 2: Today’s LLMs aren't yet good enough for most drone tasks, and they're far too slow.\n\nFor autonomous attack drones to perform reliably on the battlefield, they’d have to do a variety of things that require a combination of low- and high-level reasoning. They’d have to avoid obstacles, track targets, verify that those targets meet mission criteria, and do a variety of planning tasks like changing a mission when unexpected conditions arise.\n\nFrontier LLMs can't yet reliably accomplish these tasks, and even with ample compute from data centers, they're are much too slow for anything except the most time permissive tasks, such as planning, as you can see in the chart below.\n\nMuch smaller LLMs, when run with less-powerful onboard compute, are still too slow. Many tasks like flight control and obstacle avoidance would likely be passed to lower-level controllers using more traditional robotics policies, but if general-purpose AI models are involved, they’ll likely be a rate limiter regardless.\n\nVision-language-action (VLA) models offer another possible approach beyond LLMs, and they can currently run much faster than LLMs. But these models have also not yet shown the requisite capabilities (especially in real-world conditions), and they are still not quite fast enough for the most time constrained tasks.\n\n3/",
+     "links": {
+      "https://t.co/to7F7cCzAB": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW7sIxHWQAAkqKD.jpg"
+      }
+     ],
+     "url": "https://x.com/JakeASteckler/status/2120902220753289480",
+     "created_at": "Thu Nov 12 15:31:08 +0000 2026"
+    },
+    {
+     "id": "2120902223613857886",
+     "author_handle": "JakeASteckler",
+     "author_name": "Jake Steckler",
+     "text": "Takeaway 3: The biggest and best models are far too big to be run on the edge, either with onboard compute or from a small command and control node.\n\nFrontier LLMs have memory requirements* that could only be met with multiple GPU servers. Supporting them would be resource-intensive for military units to move and operate, and they'd likely be easy for enemies to geolocate – and therefore not ideal for military units operating near or on the frontlines.\n\nSmaller models can fit on a variety of edge chips that various sized platforms could run (from laptops to large, medium, and small drones, depending on model size). These models would likely be less capable, however.\n\nVLAs are much smaller, which makes them promising candidates for onboard use. But again, they have not yet proven reliable and robust enough for real missions.\n\nSee the chart below for a breakdown in memory requirements and where models could fit. \n\n*Note the sizes for closed models are based on unconfirmed estimates of their parameter counts, since these numbers are not made public. This analysis is just meant to show a general range of how big these models might be, not to serve as precise estimates of how much memory they demand. \n\n4/",
+     "links": {
+      "https://t.co/vL5N2FMExc": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW7s4MUXMAANMF4.jpg"
+      }
+     ],
+     "url": "https://x.com/JakeASteckler/status/2120902223613857886",
+     "created_at": "Thu Nov 12 15:31:09 +0000 2026"
+    },
+    {
+     "id": "2120902226939875614",
+     "author_handle": "JakeASteckler",
+     "author_name": "Jake Steckler",
+     "text": "Takeaway 4: If trends in model efficiency hold, we could fit models as capable as today’s frontier LLMs onboard large and small drones in as little as 1 to 3 years.\n\nThe model size needed to reach a given level of capability has generally halved every 3.5 months. If this trend in “model efficiency” continues, models with roughly equivalent capabilities as GPT-6 Astra and Kimi K3.1 Pro could fit on chips that can be powered onboard small and large drones between late 2027 and mid 2029.\n\nHowever, this only tells us when these models would fit. Whether or not these systems are usable on the battlefield still depends on capabilities progress and vast improvements in model latency.\n\nBecause we haven’t yet seen reliable and robust drone autonomy exhibited in any form, I’m simply using today’s frontier models as a proxy for the most capable models.\n\nIf it turns out that the first models to be capable enough are far larger than today’s frontier, then the time it takes for them to become available onboard drones would be further extended.\n\n5/",
+     "links": {
+      "https://t.co/eWxzITCv2l": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW7tJ_PXYAANerq.jpg"
+      }
+     ],
+     "url": "https://x.com/JakeASteckler/status/2120902226939875614",
+     "created_at": "Thu Nov 12 15:31:10 +0000 2026"
+    },
+    {
+     "id": "2120902229607502281",
+     "author_handle": "JakeASteckler",
+     "author_name": "Jake Steckler",
+     "text": "Takeaway 5: If general-purpose AI drives progress in drone autonomy, smaller open-weight systems will likely be the relevant class of model. China currently leads the US in this field.\n\nOpen models are easier to work with for drone developers than closed systems: they can easily fine-tune them on military data, “abliterate” them to remove guardrails, etc. These models are also far easier to compress than closed models (and there are many small models to begin with), which makes them better suited for edge deployment. And they don't come with the same concerns of model weight theft. \n\nOn every platform I examined, from small drones to vehicle-mounted servers, the best open-weight LLM (in terms of general capabilities) that fits is Chinese – as depicted in the figure below. This means, unless something changes, the US military and drone developers are left to choose between adopting / building on Chinese models and using potentially inferior American systems.\n\nThis leads me to my recommendations:\n\n6/",
+     "links": {
+      "https://t.co/CDzwJtt1ZZ": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HW7tXl8XQAASs3t.jpg"
+      }
+     ],
+     "url": "https://x.com/JakeASteckler/status/2120902229607502281",
+     "created_at": "Thu Nov 12 15:31:10 +0000 2026"
+    },
+    {
+     "id": "2120902231918612855",
+     "author_handle": "JakeASteckler",
+     "author_name": "Jake Steckler",
+     "text": "Recommendation 1: The US military should plan around current drone autonomy limitations, but prepare for possible rapid capability gains.\n\nDrone autonomy is not yet nearly good enough to make the hardest decisions that humans currently make, like distinguishing combatants from non-combatants. The most capable models are too big to run on the edge and too slow for fast-paced tasks.\n\nThe US military should plan accordingly by developing and maintaining a significant number of human drone operators for the foreseeable future.\n\nAt the same time, it should lay the groundwork for assessing and fielding more advanced systems. Since it’s still unclear what technical paradigm will deliver the most robust and reliable drone autonomy, the military should experiment with a variety of model types.\n\nAnd crucially, it should immediately prioritize the development of rigorous evaluations to test whether autonomous systems meet human decision-making standards under harsh real-world battlefield conditions, including under adversarial deception and degraded communications. These evaluations should also of course serve to assess the risks of misaligned AI in these contexts.\n\n7/",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/JakeASteckler/status/2120902231918612855",
+     "created_at": "Thu Nov 12 15:31:11 +0000 2026"
+    },
+    {
+     "id": "2120902233722118611",
+     "author_handle": "JakeASteckler",
+     "author_name": "Jake Steckler",
+     "text": "Recommendation 2: Frontier AI developers should reconsider their role in the development of drone autonomy.\n\nThis one will surely be most controversial, but: US frontier AI companies should consider the implications of the current status quo in drone autonomy for the global military balance of power.\n\nDrones are proliferating worldwide, and the US and its adversaries are pushing toward greater autonomy, whether or not the frontier AI companies are directly involved. Many of their safety concerns are valid: frontier models certainly aren’t yet reliable enough for autonomous weapons, as Anthropic pointed out during its fight with the DoD. But those risks have to be weighed against the risks of standing aside as these technologies continue to improve and proliferate, often on the backs of their developments (through model distillation).\n\nA few initiatives they should consider:\n- Offering trusted access programs to vetted defense firms to use their coding tools for developing military autonomy models\n- Developing smaller models tailored for compute-constrained operations for military purchase, which the US military can fine-tune and modify.\n- Withholding their most drone- and robotics-relevant capabilities from public release in the future\n\nUnder the current status quo, Chinese firms distilling American models may be benefitting from frontier US developments more than US firms unwilling or unable to do the same. The US military is currently stuck with a choice between building with and on open-weight Chinese models (which comes with significant and unacceptable security risks) and using inferior American products.\n\nUS frontier AI companies are also likely better equipped, able, and predisposed to build the most reliable, robust, and safe drone autonomy for military use than other firms with fewer resources and talent. They are already indirectly involved in drone autonomy developments, and should consider ways to more directly and positively shape the direction of this technology - one that will likely be critical for national security for the foreseeable future.\n\n8/",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/JakeASteckler/status/2120902233722118611",
+     "created_at": "Thu Nov 12 15:31:11 +0000 2026"
+    },
+    {
+     "id": "2120902235752157324",
+     "author_handle": "JakeASteckler",
+     "author_name": "Jake Steckler",
+     "text": "Recommendation 3: Last, US policymakers should seek to secure an American lead in drone autonomy in two ways:\n\nFirst, they should support funding for general-purpose models that developers in the US military and defense industry can freely customize for defense applications. This could be funding for open-weight models to better compete with China, or proprietary models that only vetted defense developers can access and modify (as discussed above). They should also support funding for the DoD talent and resources needed to properly test these systems.\n\nSecond - export controls (surprise!). We should tighten export controls on the top chips used for developing frontier AI, because it’ll slow China’s developments in drone autonomy (which would then also slow these developments for other adversaries using Chinese open-weight models).\n\nWe should also improve enforcement of existing export controls on edge chips used for drone autonomy (namely Nvidia Jetsons) to sanctioned countries like Russia, which has circumvented these restrictions. And we should consider expanding controls over these chips to China, which also heavily uses Nvidia Jetsons for its drones and robotics applications.\n\n9/",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/JakeASteckler/status/2120902235752157324",
+     "created_at": "Thu Nov 12 15:31:12 +0000 2026"
+    },
+    {
+     "id": "2120902237572518246",
+     "author_handle": "JakeASteckler",
+     "author_name": "Jake Steckler",
+     "text": "Everyone seems to care about autonomous drones. The Pentagon has requested record funding for them and is trying to rapidly field them at scale. AI safety researchers are worried they’ll make the world far more dangerous, either through bad actors or rogue AI controlling them.\n\nThese systems will likely play a major role in shaping global military power, and we need as much grounded analysis as possible to forecast how and when that might happen. That’s what I tried to do with this paper.\n\nMany more insights in the full paper, including a mapping of the landscape for the types of chips, models, and military platforms that might be used for drone autonomy.\n\nhttps://t.co/eiTWhtRHRQ\n\n/10",
+     "links": {
+      "https://t.co/eiTWhtRHRQ": "https://www.governance.ai/research-paper/general-purpose-ai-and-the-future-of-drone-autonomy-in-contested-environments"
+     },
+     "media": [],
+     "url": "https://x.com/JakeASteckler/status/2120902237572518246",
+     "created_at": "Thu Nov 12 15:31:12 +0000 2026"
+    }
+   ],
+   "enriched": 3
   }
  }
 }

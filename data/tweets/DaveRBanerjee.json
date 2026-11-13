@@ -4231,6 +4231,138 @@
     }
    ],
    "enriched": 3
+  },
+  "2121076040839618615": {
+   "id": "2121076040839618615",
+   "url": "https://x.com/DaveRBanerjee/status/2121076040839618615",
+   "text": "@RahulKrish91858 @King_James_Kim What do you think is incorrect about Epoch's methodology?",
+   "created_at": "Fri Nov 13 03:01:50 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "RahulKrish91858",
+   "reply_to_id": "2121061863043792946",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-13T14:42:03.869260+00:00",
+   "parent": {
+    "id": "2121061863043792946",
+    "author_handle": "RahulKrish91858",
+    "author_name": "Rahul",
+    "text": "@King_James_Kim @DaveRBanerjee Epoch knows nothing",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/RahulKrish91858/status/2121061863043792946",
+    "created_at": "Fri Nov 13 02:05:30 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2121075443449413661": {
+   "id": "2121075443449413661",
+   "url": "https://x.com/DaveRBanerjee/status/2121075443449413661",
+   "text": "@EgeErdil2 Do you disagree with any object-level points made in this thread? Overall, I thought it was pretty convincing that this isn't some suspicious natsec authoritarian tactic.\n\nhttps://t.co/e0LsaXS6Lr",
+   "created_at": "Fri Nov 13 02:59:28 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "EgeErdil2",
+   "reply_to_id": "2120967837120651712",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/e0LsaXS6Lr": "https://x.com/Laneless_/status/2121030810610598077"
+   },
+   "quoted": {
+    "id": "2121030810610598077",
+    "author_name": "Jai",
+    "links": {},
+    "author": "Laneless_",
+    "text": "I think going all-in on defending Jensen under the auspices of resisting tyranny doesn't really make sense. It seems to assume a very specific model of what's going on based on extremely flimsy evidence. Consider what we actually know:"
+   },
+   "fetched_at": "2026-11-13T14:42:03.869260+00:00",
+   "parent": {
+    "id": "2120967837120651712",
+    "author_handle": "EgeErdil2",
+    "author_name": "Ege Erdil",
+    "text": "the US took another step towards becoming a banana republic today\n\nutterly shameful\n\nwhat's even the point of trying to \"win\" against china if you adopt their authoritarian tactics and mindset? if you treat your best entrepreneurs the way china treats theirs?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/EgeErdil2/status/2120967837120651712",
+    "created_at": "Thu Nov 12 19:51:52 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2121075119309152597": {
+   "id": "2121075119309152597",
+   "url": "https://x.com/DaveRBanerjee/status/2121075119309152597",
+   "text": "I think going all-in on defending Jensen under the auspices of resisting tyranny doesn't really make sense. It seems to assume a very specific model of what's going on based on extremely flimsy evidence. Consider what we actually know:",
+   "created_at": "Fri Nov 13 02:58:10 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "Laneless_",
+   "rt_author_name": "Jai",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1623390078285516800/5W88GIAu_normal.jpg",
+   "rt_id": "2121030810610598077",
+   "likes": 73,
+   "retweets": 5,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-13T14:42:03.869260+00:00",
+   "enriched": 3
+  },
+  "2121065700630348100": {
+   "id": "2121065700630348100",
+   "url": "https://x.com/DaveRBanerjee/status/2121065700630348100",
+   "text": "I have a major result to share.\n\nI’ve found conclusive forensic evidence that the top 4 Chinese AI labs—DeepSeek, Moonshot, MiniMax and Ant Group—have built their newest models on NVIDIA’s most advanced Blackwell chips, which are barred from export to China.\n\nThis sounds insane, but I discovered that almost every AI model carries a hidden signature of the GPU that trained it. When a model is first set up, the starting values of its weights are laid out in a pattern that depends on the exact GPU. Each combination of GPU and seed number produces a unique pattern—a sort of fingerprint of the hardware used to create the model. Traces of that pattern survive training into the published model.\n\nAgain, this evidence isn’t based on any insider information or leaking. It’s based on a forensic analysis of the model weights released by the companies themselves.\n\nI searched more than six trillion combinations of chip layout and seed number and matched them to open-weights models. In doing so, I found conclusive evidence that six Chinese AI models—including DeepSeek-V4-Pro, Kimi K3, and MiniMax-M3—were initialized on NVIDIA Blackwell systems. Four of the models match Grace Blackwell, the GB200 and GB300 parts in NVIDIA’s flagship liquid-cooled rack-scale systems.\n\nI then verified these results on real hardware. Running unmodified PyTorch with the seeds I’d recovered, a Blackwell B300 reproduced DeepSeek-V4-Flash’s untouched starting weights bit for bit, and a rented GB200 reproduced Kimi K3’s to a correlation of 0.999995. A Hopper H100 reproduced none of DeepSeek-V4-Flash’s, and changing the seed by one broke the match. (DeepSeek’s seed is 953049583 by the way.) The method also was verified to match 24 known open-weights models to the hardware that developers said they used.\n\nIt is exceedingly unlikely that these results are a coincidence. Across six trillion combinations, the best accidental match should reach only about 8 sigma (i.e., eight standard deviations above what random chance would produce). The real matches range from 49 to 1,385 sigma, and even the weakest single test hits 20.\n\nThese were data-center-scale training runs. With some analysis of release schedules and model details, I estimate that the largest, Kimi K3 and DeepSeek-V4-Pro, used 2,000 to 3,000 Blackwell GPUs each. Clusters of this size cost on the order of $150 to $200 million each to buy, and across these labs alone would add up to more than half a billion dollars of export-controlled GPUs, not counting experimental compute or otherwise. It’s quite likely that we see multi-billion dollar expenditure on export-controlled GPUs.\n\nI am highly confident in this result, and it has been independently verified by senior researchers at OpenAI and Anthropic. You can read the full report at https://t.co/YOtzND0Jqk.\n\nThere is much more I’ve identified about these models through other forms of checkpoint forensics like this, and will have more to share soon.",
+   "created_at": "Fri Nov 13 02:20:45 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "willdepue",
+   "rt_author_name": "will depue",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1933036715343839232/NtsZBjee_normal.jpg",
+   "rt_id": "2120992457630326841",
+   "likes": 36740,
+   "retweets": 5644,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW9GgJ_WcAA9m3I.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/YOtzND0Jqk": "http://unemploymentlabs.com/checkpoint-forensics",
+    "https://t.co/qlttvJsXG7": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-13T14:42:03.869260+00:00",
+   "enriched": 3
   }
  }
 }

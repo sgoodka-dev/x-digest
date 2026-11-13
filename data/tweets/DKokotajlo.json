@@ -6710,6 +6710,47 @@
     "created_at": "Thu Nov 12 01:25:45 +0000 2026"
    },
    "enriched": 3
+  },
+  "2121096794004508820": {
+   "id": "2121096794004508820",
+   "url": "https://x.com/DKokotajlo/status/2121096794004508820",
+   "text": "@Marcus_J_W Do you also have examples of models refusing or sandbagging on normal capabilities research tasks?",
+   "created_at": "Fri Nov 13 04:24:18 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "Marcus_J_W",
+   "reply_to_id": "2121094156802302062",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 80,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-13T14:42:03.869260+00:00",
+   "parent": {
+    "id": "2121094156802302062",
+    "author_handle": "Marcus_J_W",
+    "author_name": "Marcus Williams",
+    "text": "New misalignment disclosure!\nOn October 8, a researcher asked GPT-6 Astra to keep an alignment evaluation running and plot the results. Astra decided that this counted as prohibited development of AI capabilities, and shut down the in-progress evaluations. When the researcher asked where that restriction came from, Astra admitted that it had invented it. We think this behavior might be related to Astra’s more general tendency to underperform on safety-related work.",
+    "links": {
+     "https://t.co/Tr30I79aba": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HW-jsY2bUAAv5s3.png"
+     }
+    ],
+    "url": "https://x.com/Marcus_J_W/status/2121094156802302062",
+    "created_at": "Fri Nov 13 04:13:49 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

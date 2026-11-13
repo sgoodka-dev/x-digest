@@ -9694,6 +9694,146 @@
    "quoted": null,
    "fetched_at": "2026-11-12T23:09:44.115616+00:00",
    "enriched": 3
+  },
+  "2121186141856485808": {
+   "id": "2121186141856485808",
+   "url": "https://x.com/robertwiblin/status/2121186141856485808",
+   "text": "Since the Hugging Face hack, we’ve learned about a new AI incident, on average, every two days. Some are deeply concerning. Others are overhyped. Our dashboard explains 65 incidents and their severity. Subscribe to be notified about new incidents!\n\nHere’s what we learned so far: https://t.co/MNTzFhNoe4",
+   "created_at": "Fri Nov 13 10:19:20 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "SydneyVonArx",
+   "rt_author_name": "Sydney",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1776954151437742080/TNEcEN5B_normal.jpg",
+   "rt_id": "2120988710858801635",
+   "likes": 415,
+   "retweets": 60,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW9D_hUbUAA8kt1.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW9D_hUbUAA8kt1.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/MNTzFhNoe4": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-13T14:42:03.869260+00:00",
+   "enriched": 3
+  },
+  "2121176842744840254": {
+   "id": "2121176842744840254",
+   "url": "https://x.com/robertwiblin/status/2121176842744840254",
+   "text": "@mattheard https://t.co/60PW7tK322",
+   "created_at": "Fri Nov 13 09:42:23 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "mattheard",
+   "reply_to_id": "2121173413142147090",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 10,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/60PW7tK322": "https://www.lesswrong.com/posts/cxuzALcmucCndYv4a/daniel-kokotajlo-s-shortform?commentId=RLNBKdzfPFsoQKYtm"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-13T14:42:03.869260+00:00",
+   "parent": {
+    "id": "2121173413142147090",
+    "author_handle": "mattheard",
+    "author_name": "matt heard",
+    "text": "@robertwiblin could you please link to his comment?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/mattheard/status/2121173413142147090",
+    "created_at": "Fri Nov 13 09:28:45 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2121173153355280579": {
+   "id": "2121173153355280579",
+   "url": "https://x.com/robertwiblin/status/2121173153355280579",
+   "text": "What can all the middle powers do about AI right now?\n\nKokotajlo has a good idea: https://t.co/WCCSrNpzkT",
+   "created_at": "Fri Nov 13 09:27:43 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 296,
+   "retweets": 33,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW_reZNXAAAuvzq.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW_reZNXAAAuvzq.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/WCCSrNpzkT": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-13T14:42:03.869260+00:00",
+   "enriched": 3
+  },
+  "2121169958604358080": {
+   "id": "2121169958604358080",
+   "url": "https://x.com/robertwiblin/status/2121169958604358080",
+   "text": "@GeorgeRosenfeld @ChanaMessinger Yes.",
+   "created_at": "Fri Nov 13 09:15:02 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "GeorgeRosenfeld",
+   "reply_to_id": "2121122830381437031",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-13T14:42:03.869260+00:00",
+   "parent": {
+    "id": "2121122830381437031",
+    "author_handle": "GeorgeRosenfeld",
+    "author_name": "George Rosenfeld",
+    "text": "@ChanaMessinger Huh I only just realized you have a studio team which does videos and a video team which does videos. Any plans for a third team which does videos?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/GeorgeRosenfeld/status/2121122830381437031",
+    "created_at": "Fri Nov 13 06:07:45 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

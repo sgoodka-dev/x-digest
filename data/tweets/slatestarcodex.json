@@ -3041,6 +3041,40 @@
     "created_at": "Sun Nov 08 18:36:27 +0000 2026"
    },
    "enriched": 3
+  },
+  "2121103510091817301": {
+   "id": "2121103510091817301",
+   "url": "https://x.com/slatestarcodex/status/2121103510091817301",
+   "text": "@manlikemishap Sorry if anything I said was incorrect, happy to link your reply once you've got it. I'm a big fan of everything you do and was working off info from people who thought they were trying to help you.",
+   "created_at": "Fri Nov 13 04:50:59 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "manlikemishap",
+   "reply_to_id": "2121057544684945771",
+   "avatar": "https://pbs.twimg.com/profile_images/378800000009065862/83d72de47e2a2470c482bc75406b42a7_normal.png",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 18,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-13T14:42:03.869260+00:00",
+   "parent": {
+    "id": "2121057544684945771",
+    "author_handle": "manlikemishap",
+    "author_name": "pamela mishkin",
+    "text": "in denver! super fun! now scrambling to put together a response to this which is unfortuantely a bit misleading both on ccas and on unions.\n\ni'm so excited about all the energy around employee organizing and working hard to move as fast as the industry on it.\n\nthread i guess (but please forgive since written mid-hh)",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/manlikemishap/status/2121057544684945771",
+    "created_at": "Fri Nov 13 01:48:20 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

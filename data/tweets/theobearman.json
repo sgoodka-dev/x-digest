@@ -10343,6 +10343,65 @@
     "created_at": "Thu Nov 12 00:01:08 +0000 2026"
    },
    "enriched": 3
+  },
+  "2121230639353807270": {
+   "id": "2121230639353807270",
+   "url": "https://x.com/theobearman/status/2121230639353807270",
+   "text": "Amid all this NVIDIA news...\n\nScoop: The Super Intelligence Task force had its second meeting yesterday at the White House. Discussed:\n\n-the evolving cyber threat/strengthening US critical infrastructure\n-\"an update on implementation of the White House Accord, including efforts to align the signatories around a common set of industry standards and the opportunity to include additional private sector firms\"\n-Cairncross, Lutnick and Kratsios gave updates on the voluntary pre-deploying AI testing EO -- involving NSA and CAISSI\n-more TK!",
+   "created_at": "Fri Nov 13 13:16:09 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ashleyrgold",
+   "rt_author_name": "Ashley Gold",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2100730381846646784/INs3gfH7_normal.jpg",
+   "rt_id": "2121225874322211191",
+   "likes": 45,
+   "retweets": 21,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-13T14:42:03.869260+00:00",
+   "enriched": 3
+  },
+  "2121128462261825781": {
+   "id": "2121128462261825781",
+   "url": "https://x.com/theobearman/status/2121128462261825781",
+   "text": "We show that looping a transformer increases no-CoT capabilities more than other ways of increasing pretrain quality would. https://t.co/SGRWmta1iR",
+   "created_at": "Fri Nov 13 06:30:08 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "alek_westover",
+   "rt_author_name": "Alek Westover",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2121051682557841408/Y2uGqIlY_normal.jpg",
+   "rt_id": "2120974693306130717",
+   "likes": 357,
+   "retweets": 24,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW820cVaMAATmOB.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW820cVaMAATmOB.png"
+    }
+   ],
+   "links": {
+    "https://t.co/SGRWmta1iR": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-13T14:42:03.869260+00:00",
+   "enriched": 3
   }
  }
 }

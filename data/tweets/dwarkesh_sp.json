@@ -3777,6 +3777,42 @@
    "quoted": null,
    "fetched_at": "2026-11-12T23:09:44.115616+00:00",
    "enriched": 3
+  },
+  "2121063931007610972": {
+   "id": "2121063931007610972",
+   "url": "https://x.com/dwarkesh_sp/status/2121063931007610972",
+   "text": "China claims its national debt is only about 60-70% of GDP.\n\nBut its provincial debt is at least 120% of GDP. That’s a total debt level of at least 180%, compared to under 130% in the US.\n\n@vshih2 explains how Chinese debt works.\n\nhttps://t.co/1plD2QglAn https://t.co/3LMx07rJAy",
+   "created_at": "Fri Nov 13 02:13:43 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1915048486505971712/H2jFRoW6_normal.jpg",
+   "rt_id": "2121015181517918529",
+   "likes": 827,
+   "retweets": 97,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120937795170529280/img/ljMCm_nNU33WNVZn.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2120937795170529280/img/ljMCm_nNU33WNVZn.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/1plD2QglAn": "https://youtu.be/b1TeeIG6Uaw?t=2782",
+    "https://t.co/3LMx07rJAy": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-13T14:42:03.869260+00:00",
+   "enriched": 3
   }
  }
 }
