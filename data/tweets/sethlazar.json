@@ -8298,6 +8298,62 @@
     }
    ],
    "enriched": 3
+  },
+  "2121295902132576332": {
+   "id": "2121295902132576332",
+   "url": "https://x.com/sethlazar/status/2121295902132576332",
+   "text": "Behind the blockbuster news this week, there is something happening quietly in the background with major implications for AI governance:\n\nOn Monday, California will announce how it plans to build out the first-ever IVO framework.\n\nIt’s clear that “independent evaluation” as it stands today is not structured to be truly independent. There are no rules for conflicts of interest, working with the labs is by invitation only, and labs determine the scope and access.\n\nToday, a lab and an evaluator operating with the best of intentions are working within a structure that holds evaluators accountable to the labs, not the public.\n\nCalifornia’s law changes all that; the IVO framework flips that paradigm.\n\nFor the first time ever, third-party experts evaluating AI models and systems will be held accountable to the government and the public, not the labs, for their work.\n\nThe government will determine independence and expertise. They will also be able to hold IVOs accountable to their outcomes. We’ll be able to reliably monitor leading (not just lagging) indicators for catastrophic risk, with an enforcement mechanism.\n\nWe designed and championed IVOs because they marry the immediate need for AI oversight with the immediate capabilities we have to do it, while setting a foundation we can scale, adapt, and build on.\n\nBut the details for how we build this matter, and they’ll determine if we create a race-to-the-top marketplace of rigorous evaluators, or end up with captured entities that form an ineffectual rubber stamp.\n\nHere’s what @Fathom_org recommended to California as they navigate the tough design choices that come from building this in practice for the very first time:\n\n(1) Outcome Standards: Require independent evaluation for catastrophic risk for frontier labs through an amendment to SB53. California should set the outcome standards, defining an acceptable level of catastrophic risk mitigation, and let IVOs determine whether or not it was achieved.\n\n(2) IVO Payment and Selection: Take a phased approach: at first, the state should assign IVOs to labs from a pre-designated pool, with developers paying on a time-and-material basis. As more IVOs get designated, developers can choose among them, while the state retains the power to veto any selection, mandate IVO rotation, select additional IVOs to check others’ work, and decertify an IVO at any stage.\n\n(3) IVO Readiness and Market Maturity: California should sequence the IVO mandate rather than stall implementation to wait for supply.\n\n(4) Access for IVOs: The state should set the contours of every engagement. Today the IVO and the developer negotiate scope and access privately. The state should publish a standard engagement framework and resolve disputes when the two sides disagree.\n\n(5) Recursive Self-Improvement: IVOs should be mandated to monitor the risk of AI systems that can improve themselves in both internal and external use. Embedded evaluations will be critical for tracking the share and speed of work done through RSI within the labs, verifying that labs are preventing unsafe internal model deployment, and set capability thresholds with deployers that would trigger notification to the state and a hold internal deployment until the IVO re-assesses.\n\n(6) Enforcement: The Attorney General can issue an injunction to halt development, internal use or deployment of an AI model. Emergency powers allow the administration or the AG to do the same in the case of imminent catastrophic risk. IVOs can identify risks and recommend corrective actions, but the relevant state authorities decide when and how to take action.",
+   "created_at": "Fri Nov 13 17:35:29 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "AndrewFATHOM",
+   "rt_author_name": "Andrew Freedman",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2066931499593551872/2ddUHy-1_normal.jpg",
+   "rt_id": "2121276920511803518",
+   "likes": 25,
+   "retweets": 6,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-13T18:31:06.317605+00:00",
+   "enriched": 3
+  },
+  "2121295440637284621": {
+   "id": "2121295440637284621",
+   "url": "https://x.com/sethlazar/status/2121295440637284621",
+   "text": "Agents will increasingly talk to other AI agents: overseeing, negotiating, and most relevantly, doing safety research. \n\nTLDR: in a variety of realistic settings, every model that we tested can, in strategic ways, persuade, coerce, and deceive other agents. If we expect to eventually handoff AI alignment research to some complex multi-agent setup with AI supervising more AI: monitors, reviewers, researchers, then we must harden such setups to inter-agent influence with high assurance.\n\nOverseers are also an audience, after all.\n\nThis work has been accepted to NeurIPS 2026: https://t.co/nQQWKAYbc0",
+   "created_at": "Fri Nov 13 17:33:39 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "DavidDAfrica",
+   "rt_author_name": "David",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2080350256793808896/PXESO4em_normal.jpg",
+   "rt_id": "2121259082875388308",
+   "likes": 76,
+   "retweets": 12,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXA5Qt2bwAAbilA.png"
+    }
+   ],
+   "links": {
+    "https://t.co/nQQWKAYbc0": "https://inter-agent-influence.com",
+    "https://t.co/tWFcdEB5sE": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-13T18:31:06.317605+00:00",
+   "enriched": 3
   }
  }
 }

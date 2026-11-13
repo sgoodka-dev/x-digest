@@ -12488,6 +12488,42 @@
     "created_at": "Thu Nov 12 23:24:33 +0000 2026"
    },
    "enriched": 3
+  },
+  "2121286843849486399": {
+   "id": "2121286843849486399",
+   "url": "https://x.com/s8mb/status/2121286843849486399",
+   "text": "@pietergaricano @Jack_Watling This book was excellent, but it read like a horror novel.",
+   "created_at": "Fri Nov 13 16:59:29 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "pietergaricano",
+   "reply_to_id": "2121279429511196724",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-13T18:31:06.317605+00:00",
+   "parent": {
+    "id": "2121279429511196724",
+    "author_handle": "pietergaricano",
+    "author_name": "Pieter Garicano",
+    "text": "Famously, very few books accurately predict how the next war will go. Guderian's Achtung! Panzer was one. The Arms of the Future by @Jack_Watling is, in my view, another.\n\nhttps://t.co/0FvQQvofBs\n\nSimplifying a bit, only three things fundamentally determine how armies fight: how far they can see, how far they can shoot, and how deadly each shot is.\n\nOver the last few decades, all three have increased relentlessly. Everyone has seen the videos of drones from Ukraine. But sensors of all kinds are getting better: ground-based radars can spot tanks tens of kilometers away, and acoustic sensors can pick up the heartbeats of individual soldiers. Once the enemy is spotted, it is much easier to kill them: a WW2 artillery shell landed within 50 meters half of the time at 20 kilometers; a modern one lands within 2 meters half of the time at 70 kilometers.\n\nIn this new world, there are only three ways to fight: by hiding in a hole in a field, by hiding in a city, or by attacking the sensors.\n\nRead my review in Works in Progress",
+    "links": {
+     "https://t.co/0FvQQvofBs": "https://worksinprogress.co/issue/the-future-of-war/"
+    },
+    "media": [],
+    "url": "https://x.com/pietergaricano/status/2121279429511196724",
+    "created_at": "Fri Nov 13 16:30:02 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

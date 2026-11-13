@@ -2637,6 +2637,40 @@
    "quoted": null,
    "fetched_at": "2026-11-10T18:40:37.280208+00:00",
    "enriched": 3
+  },
+  "2121306411670098178": {
+   "id": "2121306411670098178",
+   "url": "https://x.com/anton_d_leicht/status/2121306411670098178",
+   "text": "@TomDavidsonX I'm pretty confident that the odds of Europe refusing inspections agreed upon by the US and China are very low.\n\nAlso, allied buildout draws domestic compute from great powers, but it also draws international compute away from the gulf or SEA - which seems good for enforcement!",
+   "created_at": "Fri Nov 13 18:17:15 +0000 2026",
+   "author_handle": "anton_d_leicht",
+   "author_name": "Anton Leicht",
+   "is_reply": true,
+   "reply_to": "TomDavidsonX",
+   "reply_to_id": "2121302355560005791",
+   "avatar": "https://pbs.twimg.com/profile_images/2099528473869971457/0uLWqvOn_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-13T18:31:06.317605+00:00",
+   "parent": {
+    "id": "2121302355560005791",
+    "author_handle": "TomDavidsonX",
+    "author_name": "Tom Davidson",
+    "text": "For a while I was excited about building data centres in Europe. For the obvious reason that without them Europe will be economically and militarily at the mercy of the US and China.\n\nBut now I'm not so sure.\n\nIf there's a US-China deal to restrict AI development, it might be much harder to verify if there's lots of compute in Europe.\n\nEven if China can verify that the US isn't developing powerful AI, they might worry that the US has secretly given Europe its weights and is pushing ahead on their behalf.\n\nSo now we need Chinese inspectors in European data centres just to make a bilateral US-China deal stable. That seems rough.\n\nWorse still, the US might worry that China has given Europe its weights and Europe is doing AI R&D for it. So now we need US inspectors in European data centres as well.\n\nBoth US and Chinese inspectors in European data centres!\n\nMore generally, I fear data centres outside of US+China will force any bilateral deal to become a v complicated multilateral affair. And that will be much harder to pull off.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/TomDavidsonX/status/2121302355560005791",
+    "created_at": "Fri Nov 13 18:01:08 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

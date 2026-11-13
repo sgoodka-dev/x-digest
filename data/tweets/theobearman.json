@@ -10402,6 +10402,156 @@
    "quoted": null,
    "fetched_at": "2026-11-13T14:42:03.869260+00:00",
    "enriched": 3
+  },
+  "2121288827293798889": {
+   "id": "2121288827293798889",
+   "url": "https://x.com/theobearman/status/2121288827293798889",
+   "text": "We (partially) verified these results!\n\nUsing NVIDIA B200/H200s, we reproduced the reported patterns for three models.*\n\nWe also extended the DeepSeek-V4-Flash test to every weight position across the 42 layers examined and still detected the Blackwell pattern.\n\nSee the results here: \nhttps://t.co/TCAfDSGQRx\n\nThis is a super clever approach by @willdepue, and matches reporting that top Chinese AI labs are using Blackwells.\n\n* The repo didn’t contain all the inputs needed to test most of the other models",
+   "created_at": "Fri Nov 13 17:07:22 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "fiiiiiist",
+   "rt_author_name": "Tim Fist",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1778546830978019328/f3xa3Iaa_normal.jpg",
+   "rt_id": "2121274136739873190",
+   "likes": 48,
+   "retweets": 9,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXAppzfXEAABiUK.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/TCAfDSGQRx": "https://github.com/Institute-for-Progress/checkpoint-forensics-verification-public",
+    "https://t.co/8QdLPYZx3o": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-13T18:31:06.317605+00:00",
+   "enriched": 3
+  },
+  "2121283600490394020": {
+   "id": "2121283600490394020",
+   "url": "https://x.com/theobearman/status/2121283600490394020",
+   "text": "One of the strong arguments for why renting chips to China is better than selling them is that it gives the US optionality to control them in the future. Unfortunately when the renter is Megaspeed that case breaks down, and remote access looks more liability than optionality 🧵",
+   "created_at": "Fri Nov 13 16:46:36 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "Hamish_Low5",
+   "rt_author_name": "Hamish Low",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1612127888475570176/X_ZBlRj0_normal.jpg",
+   "rt_id": "2121273310432391349",
+   "likes": 2,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-13T18:31:06.317605+00:00",
+   "thread": [
+    {
+     "id": "2121273313318285630",
+     "author_handle": "Hamish_Low5",
+     "author_name": "Hamish Low",
+     "text": "The original rent don't sell argument largely had in mind Chinese firms buying cloud services from US hyperscalers. In reality a large amount of Chinese remote access looks like chips being rented out by what are effectively Chinese off-balance sheet vehicles instead",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/Hamish_Low5/status/2121273313318285630",
+     "created_at": "Fri Nov 13 16:05:43 +0000 2026"
+    },
+    {
+     "id": "2121273315012526198",
+     "author_handle": "Hamish_Low5",
+     "author_name": "Hamish Low",
+     "text": "Megaspeed is the most egregious case, where reporting around the Jensen saga has clearly demonstrated how far it was simply a vehicle for Alibaba to circumvent chip controls, and was itself actively engaged in smuggling of chips into China",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/Hamish_Low5/status/2121273315012526198",
+     "created_at": "Fri Nov 13 16:05:44 +0000 2026"
+    },
+    {
+     "id": "2121273316501545329",
+     "author_handle": "Hamish_Low5",
+     "author_name": "Hamish Low",
+     "text": "Rather than remote access enabling continued cloud business under auspices of US cloud players, it instead has turned into an enabler for networks of shell firms in Southeast Asia and China to engage in hugely profitable violations of US controls",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/Hamish_Low5/status/2121273316501545329",
+     "created_at": "Fri Nov 13 16:05:44 +0000 2026"
+    },
+    {
+     "id": "2121273318066057611",
+     "author_handle": "Hamish_Low5",
+     "author_name": "Hamish Low",
+     "text": "When firms such as Megaspeed which have no jurisdictional attachments, and are de facto controlled by Chinese interests, lose access to future chip shipments, one of the most logical moves will be to work to smuggle into China their chips held in SEA, profiting from huge markups",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/Hamish_Low5/status/2121273318066057611",
+     "created_at": "Fri Nov 13 16:05:45 +0000 2026"
+    },
+    {
+     "id": "2121273320570249382",
+     "author_handle": "Hamish_Low5",
+     "author_name": "Hamish Low",
+     "text": "The hundreds of thousands of chips being owned and operated by similar firms across Asia are the riskiest pool for future smuggling. Allowing those same firms to continue freely buying up advanced AI hardware, including Vera Rubins, would be a major strategic error",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/Hamish_Low5/status/2121273320570249382",
+     "created_at": "Fri Nov 13 16:05:45 +0000 2026"
+    },
+    {
+     "id": "2121273323325952421",
+     "author_handle": "Hamish_Low5",
+     "author_name": "Hamish Low",
+     "text": "Smuggling is not just bad because of the illegality or national security implications, but also since future international treaties on AI are likely to rest on effective tracking and verification of existing chip stocks",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/Hamish_Low5/status/2121273323325952421",
+     "created_at": "Fri Nov 13 16:05:46 +0000 2026"
+    },
+    {
+     "id": "2121273325070458889",
+     "author_handle": "Hamish_Low5",
+     "author_name": "Hamish Low",
+     "text": "The existence of hundreds of thousands to millions of advanced chips in an unmonitored and uncontrolled grey market across Asia is highly antithetical to making future deals which rely on minimal dark compute",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/Hamish_Low5/status/2121273325070458889",
+     "created_at": "Fri Nov 13 16:05:46 +0000 2026"
+    },
+    {
+     "id": "2121273328212316231",
+     "author_handle": "Hamish_Low5",
+     "author_name": "Hamish Low",
+     "text": "Overall the US should take immediate action to clamp down on remote access, pairing this with stricter policies on chip buyer whitelists, chip tracking and whistleblower rewards to reduce the risk of remote access chips blurring too easily into smuggled ones",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/Hamish_Low5/status/2121273328212316231",
+     "created_at": "Fri Nov 13 16:05:47 +0000 2026"
+    },
+    {
+     "id": "2121273329763893326",
+     "author_handle": "Hamish_Low5",
+     "author_name": "Hamish Low",
+     "text": "Read my full piece making this case at https://t.co/DScRuaOWiM",
+     "links": {
+      "https://t.co/DScRuaOWiM": "https://open.substack.com/pub/erwald/p/ai-chips-rented-to-chinese-firms?r=hemux&utm_campaign=post&utm_medium=web"
+     },
+     "media": [],
+     "url": "https://x.com/Hamish_Low5/status/2121273329763893326",
+     "created_at": "Fri Nov 13 16:05:47 +0000 2026"
+    }
+   ],
+   "enriched": 3
   }
  }
 }

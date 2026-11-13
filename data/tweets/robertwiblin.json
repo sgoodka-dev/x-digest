@@ -9834,6 +9834,405 @@
     "created_at": "Fri Nov 13 06:07:45 +0000 2026"
    },
    "enriched": 3
+  },
+  "2121292733491081332": {
+   "id": "2121292733491081332",
+   "url": "https://x.com/robertwiblin/status/2121292733491081332",
+   "text": "https://t.co/RAS6ATLbAU",
+   "created_at": "Fri Nov 13 17:22:54 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 19,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://pbs.twimg.com/tweet_video_thumb/HXBYcpwWsAAFzBh.jpg"
+    },
+    {
+     "type": "animated_gif",
+     "url": "https://pbs.twimg.com/tweet_video_thumb/HXBYcpwWsAAFzBh.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/RAS6ATLbAU": ""
+   },
+   "quoted": {
+    "id": "2121289991129292812",
+    "author_name": "Rob Wiblin",
+    "links": {},
+    "author": "robertwiblin",
+    "text": "Frontier AI company staff must not quiet quit.\n\nIf you've seen things that caused you to lose faith that your employer can do what it's doing safely - or is being honest and candid with the public - you 100% have a moral duty to loudly tell the world."
+   },
+   "fetched_at": "2026-11-13T18:31:06.317605+00:00",
+   "enriched": 3
+  },
+  "2121289991129292812": {
+   "id": "2121289991129292812",
+   "url": "https://x.com/robertwiblin/status/2121289991129292812",
+   "text": "Frontier AI company staff must not quiet quit.\n\nIf you've seen things that caused you to lose faith that your employer can do what it's doing safely - or is being honest and candid with the public - you 100% have a moral duty to loudly tell the world.",
+   "created_at": "Fri Nov 13 17:12:00 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 69,
+   "retweets": 6,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-13T18:31:06.317605+00:00",
+   "enriched": 3
+  },
+  "2121282776481558618": {
+   "id": "2121282776481558618",
+   "url": "https://x.com/robertwiblin/status/2121282776481558618",
+   "text": "I think more donors should consider funding grassroots AI risk advocacy (e.g. Humans in Control, PauseAI UK).\n\nIt's not the first method I'd choose for tackling AI risk.\n\nBut it's by some margin the most underfunded part of the broader AI risk ecosystem today.\n\nThat's no small matter. Individual donors often find it tough to find AI projects where money is still the key bottleneck. But for these groups it's a huge issue.\n\nFor varying reasons the biggest donors are not putting much into it. (While they have concerns about it backfiring, expected impact is not the only barrier.) \n\nWhy might this work be good?\n\nLarge fractions of the public in the US/UK/etc already support pacing AI development and prioritising doing it very carefully, among many other sensible ideas.\n\nGrassroots organising can better inform people what's going on and channel those attitudes into political outcomes.\n\nWith timelines so short most good futures run through some degree of pacing/pausing. That's something the public can understand and successfully push for.\n\nBut the general public has to be actively woken up and coordinated or it'll be crushed before it can have much say.\n\nAnd grassroots orgs take years to build. So if we want them to be around to take advantage of much higher salience in 2028, the money has to go in now.\n\nWhy might it be bad?\n\nGrassroots movements tend to have low epistemic hygiene, and over time get confused about their topic of concern (audience capture, rage/purity spirals, etc).\n\nAs a result it's inevitable that some members of any mass movement will make a lot of factual errors. And amongst good work, will end up advocating for ineffective policies, and even some harmful ones.\n\n(For instance, yesterday I pushed back on where I see some anti-AI grassroots organising verging on 'Human exclusivism' that I think is seriously misguided.)\n\nThat kind of thing can make intellectuals allergic to grassroots organising.\n\nBut while it's risky, everything in this space is risky and can easily backfire. I'm not sure grassroots organising particularly stands out in that respect.\n\nThere is a public backlash already underway, if people concerned with loss of control aren't in that conversation, it will be more confused and do worse things by their lights.\n\nPlus, the policy status quo today is so bad that there are many more ways for things to get better than to get worse. Where the public has strong reactions to this stuff I usually think their common sense takes are solid.\n\nI would bet against the general public coming in and tearing down the few good technocratic things that already exist (e.g. SB53). They're more likely to demand extra transparency and rules that are improvements, even if not the perfect policy.\n\nFurthermore, if 'going off the rails' is the main reservation there are some orgs like Humans in Control or PauseAI UK that seem likely to stay focused and truthful.\n\nORGS IN THIS BROAD SPACE\n\nHere are some organisations doing things of this kind and a few notes on what they are about (via Claude).\n\nI am not very familiar with their work so do not take their inclusion as an endorsement - I am trying to list what's out there both good and bad:\n\n• Humans in Control (US). Trains volunteer leaders, starting in early-primary states, to make AI safeguards a 2028 election issue. Connects jobs, kids and data centres to loss of control. Long-term goal: a verifiable international deal not to build AI we can’t control.\n\n• PauseAI UK (UK). Protests, plus an open letter from 60+ UK politicians criticising Google DeepMind. Until recently run on £100k a year (!).\n\n• PauseAI Global (Netherlands). Coordinates PauseAI chapters in about 16 countries. Is probably what you think of as PauseAI.\n\n• Evitable (US). AI professor David Krueger’s group to inform and organise the public to end the race to superintelligence.\n\n• Stop the AI Race (US). Started by ex-AI researcher Michael Trazzi. Marches between the labs' SF offices. The ask: each lab stops building new frontier models if the others credibly do the same.\n\n• AISAP (US). AI safety workshops for mainstream audiences in cities around the US, facilitated by local volunteers.\n\n• QuitGPT (US). Boycott of ChatGPT over OpenAI leaders’ political donations and government contracts. Organised by young progressive activists. Claims 1.5M+ participants. (Note, not especially focused on extreme risks.)\n\n• Guardrails (US). A super PAC plus an affiliated nonprofit, launched by Democratic operatives with tech workers and unions behind it. Populist and small-dollar. PAC gifts are limited to US citizens and permanent residents. (Political naturally.)\n\nThese are orgs that I have seen criticised or which I expect more people will have reservations about (alas I simply don't have time to investigate myself, but you could):\n\n• ControlAI (UK + US). Single issue: an international ban on superintelligence, not general anti-AI sentiment. Has briefed many UK parliamentarians.\n\n• PauseAI US (US). Protests, lobbying and community-building for an international treaty to pause frontier AI. (Controversial because PauseAI Global publicly disendorsed PauseAI US’s current leadership over repeated personal attacks on people that could be counterproductive. I mostly share these worries.)\n\n• Irreplaceable (US). Founded by climate movement veterans (Sunrise, 350org). Turns anger over data centres, bills, layoffs and kids into a push for “a say, a stake, and a slowdown.\"\n\n• Humans First (US). A right wing group pushing an ‘America First’ AI policy. Chaired by RNC member and Trump ally Amy Kremer. Ran a ‘Data Center Revolt’ bus tour. Wants mandatory government testing and approval of frontier models before release.\n\nPARTICULAR ISSUES RE GIVING TO ADVOCACY\n\nBecause they engage in political advocacy, not all of these orgs offer tax deductible giving, though some do. Some are irrationally put off by the absence of tax deductibility. For top-rate taxpayers lack of tax deductibility can increase the effective price by 2x, but one project can easily be much more than 2x as cost-effective as another, so it shouldn't dominate your thinking.\n\n(In cases where there's both a tax deductible c3 and a political c4, it may be better to give a smaller amount to the non-charitable vehicle so they have more flexibility on spending.)\n\nSome take money from AI company staff, especially junior staff, some don't. I don't think AI company staff should feel sheepish giving to (most of) these groups.\n\nA FURTHER NON-CONSEQUENTIALIST MOTIVE FOR THIS WORK: AUTONOMY, FAIRNESS, DEMOCRACY, RESPECT\n\nA separate consideration in favour of this work that resonates with me is about legitimacy and autonomy.\n\nAll of these innocent people are having their lives risked, and their desired futures torn away, without almost any consultation or consent.\n\nIf I treated the people around me this way, even in honest pursuit of good consequences, it would rightly be viewed as an appalling violation of their autonomy.\n\nAll else equal, it's wrong to knowingly keep adults in the dark about very important factors affecting their lives that they would want to know about and react to.\n\nEven if an individual will react poorly by my lights, that should be their choice to make, not mine. That should be our default stance to the general public in a democracy also. \n\n(Yes, this consideration can be outweighed if the reaction will be sufficiently awful, but respect for other people's autonomy is a default you should have to be argued away from.)\n\nThis also makes me allergic to the intellectual's aversion to mass politics. The line of argument that mass politics has such low epistemic standards it's best avoided, if applied consistently, would suggest that the public should be sidelined to the extent possible, and self-assessed experts allowed to decide how society evolves in their place.\n\nWhile such a system has particular advantages, I don't think it's better all things considered - and history shows it's wildly less robust. A messier less accurate discussion is the price we pay to live in a society in which a wider range of people are given a chance to defend their interests and argue for their beliefs.",
+   "created_at": "Fri Nov 13 16:43:20 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 38,
+   "retweets": 4,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-13T18:31:06.317605+00:00",
+   "enriched": 3
+  },
+  "2121278278598115580": {
+   "id": "2121278278598115580",
+   "url": "https://x.com/robertwiblin/status/2121278278598115580",
+   "text": "@JonathanSalter_ Thanks Jonathan, obviously I just got Claude to quickly write that stuff up!",
+   "created_at": "Fri Nov 13 16:25:27 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "JonathanSalter_",
+   "reply_to_id": "2121277734408081646",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-13T18:31:06.317605+00:00",
+   "parent": {
+    "id": "2121277734408081646",
+    "author_handle": "JonathanSalter_",
+    "author_name": "Jonathan Salter",
+    "text": "@robertwiblin Just a bit of a correction - ControlAI has 180+ UK lawmakers as supporters in preventing superintelligence, but I believe has briefed hundreds more, and introduced legislation banning superintelligence in the UK. Also has briefed half of all Congressional offices in the last year",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/JonathanSalter_/status/2121277734408081646",
+    "created_at": "Fri Nov 13 16:23:17 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2121277509555945853": {
+   "id": "2121277509555945853",
+   "url": "https://x.com/robertwiblin/status/2121277509555945853",
+   "text": "@gmiller I mean I think I'm basically agreeing with you here.\n\n(I don't know whether it's been a mistake for a full 10 years, but when its come up I've been arguing in favour of laying groundwork in this way since at least 2022.)",
+   "created_at": "Fri Nov 13 16:22:24 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "gmiller",
+   "reply_to_id": "2121276716224221329",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-13T18:31:06.317605+00:00",
+   "parent": {
+    "id": "2121276716224221329",
+    "author_handle": "gmiller",
+    "author_name": "Geoffrey Miller",
+    "text": "@robertwiblin We can have pristine epistemic integrity and runaway intelligence-signaling. \n\nOr we can actually stop unalignable ASI.\n\nFor ten years, EA has made the wrong choice.\n\nTime to choose what saves our kids.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/gmiller/status/2121276716224221329",
+    "created_at": "Fri Nov 13 16:19:15 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2121274717017620912": {
+   "id": "2121274717017620912",
+   "url": "https://x.com/robertwiblin/status/2121274717017620912",
+   "text": "A small cabal of self serving, ultra rich tech titans should not be allowed to drive humanity off a cliff with artificial super intelligence, while they quietly build their rockets and bunkers in New Zealand and Hawaii to escape the apocalypse.\n\nStand with us and DO NOT ACCEPT this future.",
+   "created_at": "Fri Nov 13 16:11:18 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "AmbassadorRice",
+   "rt_author_name": "Susan Rice",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1359165964810649610/ag_FkiD9_normal.jpg",
+   "rt_id": "2119916006852493629",
+   "likes": 2860,
+   "retweets": 880,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-13T18:31:06.317605+00:00",
+   "enriched": 3
+  },
+  "2121274388972703948": {
+   "id": "2121274388972703948",
+   "url": "https://x.com/robertwiblin/status/2121274388972703948",
+   "text": "@wilhelmscreamin Yeah I said strong willed in part because I think someone who goes into this role has to be willing to fight hard for Anthropic to push for serious pacing.\n\nIf it doesn't and this person can't do their job, they should quit within the month.",
+   "created_at": "Fri Nov 13 16:10:00 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "wilhelmscreamin",
+   "reply_to_id": "2121273229629137060",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 5,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-13T18:31:06.317605+00:00",
+   "parent": {
+    "id": "2121273229629137060",
+    "author_handle": "wilhelmscreamin",
+    "author_name": "catherine ʕ•ᴥ•ʔ-☆",
+    "text": "@robertwiblin i'm overall uncertain, so this tweet probably sounds more confident than i am. but basically that reason, yes:\n(1) on pacing in particular, anthropic doesn't seem to be actually trying to pace or treating it with anything like the urgency it deserves (i thought trevor's tweet was good on this https://t.co/lG9N2YRcA5)\n\n(2) more generally, anthropic (and other ai companies) seem to do a great job at absorbing talented, plucky, morally serious people, promising them lots of impact and Good Work to do, and then not producing good work, or stringing these people along while they try to figure out if their role is making a difference. and these people are rare and the other work they could be doing is very important!\n\ni don't know anything about this role, and i would really love to be wrong, but my prior is that there's much more good to be done for pacing at third parties or in government",
+    "links": {
+     "https://t.co/lG9N2YRcA5": "https://x.com/trevposts/status/2119925086597873696"
+    },
+    "media": [],
+    "url": "https://x.com/wilhelmscreamin/status/2121273229629137060",
+    "created_at": "Fri Nov 13 16:05:23 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2121271419363381301": {
+   "id": "2121271419363381301",
+   "url": "https://x.com/robertwiblin/status/2121271419363381301",
+   "text": "@wilhelmscreamin Assuming we both want to pace the frontier why doesn't this seem like a good place from which to try to achieve it? Don't think Anthropic will truly pursue the goal?",
+   "created_at": "Fri Nov 13 15:58:12 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "wilhelmscreamin",
+   "reply_to_id": "2121269228657607114",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-13T18:31:06.317605+00:00",
+   "parent": {
+    "id": "2121269228657607114",
+    "author_handle": "wilhelmscreamin",
+    "author_name": "catherine ʕ•ᴥ•ʔ-☆",
+    "text": "@robertwiblin i’m pretty confused about whether these roles are net positive, do you have more context/reason to think it would be good other than the JD?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/wilhelmscreamin/status/2121269228657607114",
+    "created_at": "Fri Nov 13 15:49:30 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2121268209282375945": {
+   "id": "2121268209282375945",
+   "url": "https://x.com/robertwiblin/status/2121268209282375945",
+   "text": "@akrugs94 @tyler_m_john Depends what you do there.\n\nIf they don't let you push to actually pace the frontier you should rapidly quit and speak up about it.",
+   "created_at": "Fri Nov 13 15:45:27 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "akrugs94",
+   "reply_to_id": "2121267242427965729",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-13T18:31:06.317605+00:00",
+   "parent": {
+    "id": "2121267242427965729",
+    "author_handle": "akrugs94",
+    "author_name": "Adam Kruger",
+    "text": "@robertwiblin @tyler_m_john How confident are you that any role at Anthropic (even one like this) is net positive? I ask as I increasingly feel like taking any role at a lab (at this moment in time) is bad",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/akrugs94/status/2121267242427965729",
+    "created_at": "Fri Nov 13 15:41:36 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2121259429089960418": {
+   "id": "2121259429089960418",
+   "url": "https://x.com/robertwiblin/status/2121259429089960418",
+   "text": "Another really important role here leading on external evaluations for Anthropic.\n\nAlso really needs someone who will push hard for the right things with total integrity:\n\nhttps://t.co/rq1RX7VjqJ https://t.co/J3R10Vps3j",
+   "created_at": "Fri Nov 13 15:10:33 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2121259111652200587",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 12,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXA6EnUWsAAc-Zz.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXA6EnUWsAAc-Zz.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/rq1RX7VjqJ": "https://job-boards.greenhouse.io/anthropic/jobs/5479135008",
+    "https://t.co/J3R10Vps3j": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-13T18:31:06.317605+00:00",
+   "parent": {
+    "id": "2121259111652200587",
+    "author_handle": "robertwiblin",
+    "author_name": "Rob Wiblin",
+    "text": "Incredibly important role here - 'Pacing the Frontier' lead at Anthropic.\n\nWould benefit from someone very sharp and strong willed.\n\nPlease please apply if you could do a great job at this: https://t.co/rq1RX7ULBb https://t.co/UCZco1zVV1",
+    "links": {
+     "https://t.co/rq1RX7ULBb": "https://job-boards.greenhouse.io/anthropic/jobs/5479135008",
+     "https://t.co/UCZco1zVV1": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXA5jC1WwAAhuAB.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXA5jC1WwAAhuAB.jpg"
+     }
+    ],
+    "url": "https://x.com/robertwiblin/status/2121259111652200587",
+    "created_at": "Fri Nov 13 15:09:17 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2121259111652200587": {
+   "id": "2121259111652200587",
+   "url": "https://x.com/robertwiblin/status/2121259111652200587",
+   "text": "Incredibly important role here - 'Pacing the Frontier' lead at Anthropic.\n\nWould benefit from someone very sharp and strong willed.\n\nPlease please apply if you could do a great job at this: https://t.co/rq1RX7ULBb https://t.co/UCZco1zVV1",
+   "created_at": "Fri Nov 13 15:09:17 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 167,
+   "retweets": 27,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXA5jC1WwAAhuAB.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXA5jC1WwAAhuAB.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/rq1RX7ULBb": "https://job-boards.greenhouse.io/anthropic/jobs/5479135008",
+    "https://t.co/UCZco1zVV1": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-13T18:31:06.317605+00:00",
+   "thread": [
+    {
+     "id": "2121259429089960418",
+     "author_handle": "robertwiblin",
+     "author_name": "Rob Wiblin",
+     "text": "Another really important role here leading on external evaluations for Anthropic.\n\nAlso really needs someone who will push hard for the right things with total integrity:\n\nhttps://t.co/rq1RX7VjqJ https://t.co/J3R10Vps3j",
+     "links": {
+      "https://t.co/rq1RX7VjqJ": "https://job-boards.greenhouse.io/anthropic/jobs/5479135008",
+      "https://t.co/J3R10Vps3j": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXA6EnUWsAAc-Zz.jpg"
+      }
+     ],
+     "url": "https://x.com/robertwiblin/status/2121259429089960418",
+     "created_at": "Fri Nov 13 15:10:33 +0000 2026"
+    }
+   ],
+   "enriched": 3
   }
  }
 }
