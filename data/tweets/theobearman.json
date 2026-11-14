@@ -10665,6 +10665,100 @@
    "quoted": null,
    "fetched_at": "2026-11-13T21:26:31.587502+00:00",
    "enriched": 3
+  },
+  "2121441984653230374": {
+   "id": "2121441984653230374",
+   "url": "https://x.com/theobearman/status/2121441984653230374",
+   "text": "I'm excited to launch Benchmark Almanac! It tracks 3,322 benchmarks from 1,746 leaderboards, 522 launch posts, 346 system cards, and 1,233 open-source GitHub repos. To my knowledge, it's the most comprehensive repo out there.\n\nWebsite: https://t.co/ARgu9TdU6x https://t.co/lFynTAY4ZQ",
+   "created_at": "Sat Nov 14 03:15:58 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "brian1zhou",
+   "rt_author_name": "Brian Zhou",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2062073325753716736/4m7jdCEN_normal.jpg",
+   "rt_id": "2121375297954300164",
+   "likes": 134,
+   "retweets": 14,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2121375095226540032/img/7f-Pp47IVB6AfTG-.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/ARgu9TdU6x": "https://www.benchmarkalmanac.com",
+    "https://t.co/lFynTAY4ZQ": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-14T13:38:58.849857+00:00",
+   "enriched": 3
+  },
+  "2121432743238119783": {
+   "id": "2121432743238119783",
+   "url": "https://x.com/theobearman/status/2121432743238119783",
+   "text": "Are we in an intelligence explosion? This is one of the most important questions facing society right now. @lugaricano and I tried to put structure on this question and provide estimates based on currently available data.\n\nMETR recently reported that frontier capability growth roughly doubled after October 2025---but this is accompanied by annualized R&D spending growth of ~6x and technical staff ~3x over the same window. That highlights a crucial distinction between scaling laws--exponential capability gains bought with exponentially rising inputs--and an intelligence explosion (IE), where AI begins substituting for external inputs so each advance makes the next one easier.\n\nWe estimate several versions of a research production function (building on @ChadJonesEcon, @bfjo, and @Ph_Aghion) where a key parameter crossing a threshold signals an IE, while values below it correspond to an \"ideas are harder to find,\" diminishing-returns world. Across specifications, our estimates sit below that threshold. Allowing for a break at METR's October 2025 cutoff points to a one-time step up in research effectiveness, with the rate of diminishing returns being nearly identical on both sides of the cutoff.\n\nA few things to note. First, this exercise is not a forecast. It's an attempt to put structure on some of the important questions being debated right now: RSI, IE, scaling laws all depend on how outputs scale with inputs, and how feedback loops accelerate/decelerate this process. These estimates can change, and change very quickly. \n\nSecond, we are very explicit that the results are based on publicly available data; it is very much possible that METR had access to data that would change the estimates.\n\nThird, we might be wrong! Let us know what you think:\n\nhttps://t.co/xMLZlSlxdY",
+   "created_at": "Sat Nov 14 02:39:14 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "alexolegimas",
+   "rt_author_name": "Alex Imas",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1994816403359010817/0zMDGpbF_normal.jpg",
+   "rt_id": "2121350760843931912",
+   "likes": 285,
+   "retweets": 49,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXCNRklWAAEJKxq.png"
+    }
+   ],
+   "links": {
+    "https://t.co/xMLZlSlxdY": "https://aleximas.substack.com/p/are-we-approaching-an-intelligence",
+    "https://t.co/CYuGeQaESv": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-14T13:38:58.849857+00:00",
+   "enriched": 3
+  },
+  "2121431658385555570": {
+   "id": "2121431658385555570",
+   "url": "https://x.com/theobearman/status/2121431658385555570",
+   "text": "M&amp;ATR",
+   "created_at": "Sat Nov 14 02:34:56 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 10,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2121372541218623543",
+    "author_name": "Fulcrum",
+    "links": {},
+    "author": "fulcrum_inc",
+    "text": "The Fulcrum team is joining @METR_Evals to work on alignment measurement. We feel the world is very unprepared for AI capabilities acceleration. We decided the best thing we could do is work on open science that informs the public."
+   },
+   "fetched_at": "2026-11-14T13:38:58.849857+00:00",
+   "enriched": 3
   }
  }
 }

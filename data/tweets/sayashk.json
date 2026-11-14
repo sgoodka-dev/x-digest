@@ -3030,6 +3030,38 @@
    "quoted": null,
    "fetched_at": "2026-11-12T23:09:44.115616+00:00",
    "enriched": 3
+  },
+  "2121374643839730171": {
+   "id": "2121374643839730171",
+   "url": "https://x.com/sayashk/status/2121374643839730171",
+   "text": "Are we in an intelligence explosion? This is one of the most important questions facing society right now. @lugaricano and I tried to put structure on this question and provide estimates based on currently available data.\n\nMETR recently reported that frontier capability growth roughly doubled after October 2025---but this is accompanied by annualized R&D spending growth of ~6x and technical staff ~3x over the same window. That highlights a crucial distinction between scaling laws--exponential capability gains bought with exponentially rising inputs--and an intelligence explosion (IE), where AI begins substituting for external inputs so each advance makes the next one easier.\n\nWe estimate several versions of a research production function (building on @ChadJonesEcon, @bfjo, and @Ph_Aghion) where a key parameter crossing a threshold signals an IE, while values below it correspond to an \"ideas are harder to find,\" diminishing-returns world. Across specifications, our estimates sit below that threshold. Allowing for a break at METR's October 2025 cutoff points to a one-time step up in research effectiveness, with the rate of diminishing returns being nearly identical on both sides of the cutoff.\n\nA few things to note. First, this exercise is not a forecast. It's an attempt to put structure on some of the important questions being debated right now: RSI, IE, scaling laws all depend on how outputs scale with inputs, and how feedback loops accelerate/decelerate this process. These estimates can change, and change very quickly. \n\nSecond, we are very explicit that the results are based on publicly available data; it is very much possible that METR had access to data that would change the estimates.\n\nThird, we might be wrong! Let us know what you think:\n\nhttps://t.co/xMLZlSlxdY",
+   "created_at": "Fri Nov 13 22:48:22 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1521238232867946496/U_GCI43e_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "alexolegimas",
+   "rt_author_name": "Alex Imas",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1994816403359010817/0zMDGpbF_normal.jpg",
+   "rt_id": "2121350760843931912",
+   "likes": 285,
+   "retweets": 49,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXCNRklWAAEJKxq.png"
+    }
+   ],
+   "links": {
+    "https://t.co/xMLZlSlxdY": "https://aleximas.substack.com/p/are-we-approaching-an-intelligence",
+    "https://t.co/CYuGeQaESv": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-14T13:38:58.849857+00:00",
+   "enriched": 3
   }
  }
 }

@@ -4465,6 +4465,234 @@
     "created_at": "Fri Nov 13 06:36:38 +0000 2026"
    },
    "enriched": 3
+  },
+  "2121496306602385851": {
+   "id": "2121496306602385851",
+   "url": "https://x.com/DaveRBanerjee/status/2121496306602385851",
+   "text": "https://t.co/W4iGrNYOwX",
+   "created_at": "Sat Nov 14 06:51:49 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "DaveRBanerjee",
+   "reply_to_id": "2121467725285380528",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/W4iGrNYOwX": "https://x.com/daverbanerjee/status/2121495716489007523?a=GNLjclsuf9kA6slQVLg&s=46"
+   },
+   "quoted": {
+    "id": "2121495716489007523",
+    "author_name": "Dave Banerjee",
+    "links": {},
+    "author": "DaveRBanerjee",
+    "text": "As a corollary: if most of your labor force for doing alignment R&D and other def/acc R&D will be from future AIs, then it will be v important to have access to SOTA models as soon as possible\n\nBy default, OAI and Ant will prob keep these models internal for a while. So it would be highly desirable to have some kind of project glasswing for alignment and def/acc R&D\n\nAnd to be clear, I think getting this right is probably more important than most field building at the moment"
+   },
+   "fetched_at": "2026-11-14T13:38:58.849857+00:00",
+   "parent": {
+    "id": "2121467725285380528",
+    "author_handle": "DaveRBanerjee",
+    "author_name": "Dave Banerjee",
+    "text": "Say you want to increase the labor force working on solving the alignment problem\n\nOne thing you could do is set up an Alignment fellowship and build a talent pipeline\n\nBut if you think that AI R&D automation is imminent, then your best bet at “building the alignment field” is to train AIs to be more capable in domains useful for alignment (e.g., conceptual research)\n\nHowever, accelerating certain capabilities can be dual-use and actually be net-negative (e.g., shortening timelines)\n\nSo the solution is to avoid advancing capabilities through training data. And instead you focus on building scaffolds/harnesses/data-stores that can only be bought/procured for alignment R&D. This prevents the downsides while harvesting the upside",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/DaveRBanerjee/status/2121467725285380528",
+    "created_at": "Sat Nov 14 04:58:15 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2121495716489007523": {
+   "id": "2121495716489007523",
+   "url": "https://x.com/DaveRBanerjee/status/2121495716489007523",
+   "text": "As a corollary: if most of your labor force for doing alignment R&D and other def/acc R&D will be from future AIs, then it will be v important to have access to SOTA models as soon as possible\n\nBy default, OAI and Ant will prob keep these models internal for a while. So it would be highly desirable to have some kind of project glasswing for alignment and def/acc R&D\n\nAnd to be clear, I think getting this right is probably more important than most field building at the moment",
+   "created_at": "Sat Nov 14 06:49:28 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2121467725285380528",
+    "author_name": "Dave Banerjee",
+    "links": {},
+    "author": "DaveRBanerjee",
+    "text": "Say you want to increase the labor force working on solving the alignment problem\n\nOne thing you could do is set up an Alignment fellowship and build a talent pipeline\n\nBut if you think that AI R&D automation is imminent, then your best bet at “building the alignment field” is to train AIs to be more capable in domains useful for alignment (e.g., conceptual research)\n\nHowever, accelerating certain capabilities can be dual-use and actually be net-negative (e.g., shortening timelines)\n\nSo the solution is to avoid advancing capabilities through training data. And instead you focus on building scaffolds/harnesses/data-stores that can only be bought/procured for alignment R&D. This prevents the downsides while harvesting the upside"
+   },
+   "fetched_at": "2026-11-14T13:38:58.849857+00:00",
+   "enriched": 3
+  },
+  "2121467725285380528": {
+   "id": "2121467725285380528",
+   "url": "https://x.com/DaveRBanerjee/status/2121467725285380528",
+   "text": "Say you want to increase the labor force working on solving the alignment problem\n\nOne thing you could do is set up an Alignment fellowship and build a talent pipeline\n\nBut if you think that AI R&D automation is imminent, then your best bet at “building the alignment field” is to train AIs to be more capable in domains useful for alignment (e.g., conceptual research)\n\nHowever, accelerating certain capabilities can be dual-use and actually be net-negative (e.g., shortening timelines)\n\nSo the solution is to avoid advancing capabilities through training data. And instead you focus on building scaffolds/harnesses/data-stores that can only be bought/procured for alignment R&D. This prevents the downsides while harvesting the upside",
+   "created_at": "Sat Nov 14 04:58:15 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 19,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-14T13:38:58.849857+00:00",
+   "thread": [
+    {
+     "id": "2121496306602385851",
+     "author_handle": "DaveRBanerjee",
+     "author_name": "Dave Banerjee",
+     "text": "https://t.co/W4iGrNYOwX",
+     "links": {
+      "https://t.co/W4iGrNYOwX": "https://x.com/daverbanerjee/status/2121495716489007523?a=GNLjclsuf9kA6slQVLg&s=46"
+     },
+     "media": [],
+     "url": "https://x.com/DaveRBanerjee/status/2121496306602385851",
+     "created_at": "Sat Nov 14 06:51:49 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2121360743543316624": {
+   "id": "2121360743543316624",
+   "url": "https://x.com/DaveRBanerjee/status/2121360743543316624",
+   "text": "One of the strong arguments for why renting chips to China is better than selling them is that it gives the US optionality to control them in the future. Unfortunately when the renter is Megaspeed that case breaks down, and remote access looks more liability than optionality 🧵",
+   "created_at": "Fri Nov 13 21:53:08 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "Hamish_Low5",
+   "rt_author_name": "Hamish Low",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1612127888475570176/X_ZBlRj0_normal.jpg",
+   "rt_id": "2121273310432391349",
+   "likes": 8,
+   "retweets": 3,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-14T13:38:58.849857+00:00",
+   "thread": [
+    {
+     "id": "2121273313318285630",
+     "author_handle": "Hamish_Low5",
+     "author_name": "Hamish Low",
+     "text": "The original rent don't sell argument largely had in mind Chinese firms buying cloud services from US hyperscalers. In reality a large amount of Chinese remote access looks like chips being rented out by what are effectively Chinese off-balance sheet vehicles instead",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/Hamish_Low5/status/2121273313318285630",
+     "created_at": "Fri Nov 13 16:05:43 +0000 2026"
+    },
+    {
+     "id": "2121273315012526198",
+     "author_handle": "Hamish_Low5",
+     "author_name": "Hamish Low",
+     "text": "Megaspeed is the most egregious case, where reporting around the Jensen saga has clearly demonstrated how far it was simply a vehicle for Alibaba to circumvent chip controls, and was itself actively engaged in smuggling of chips into China",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/Hamish_Low5/status/2121273315012526198",
+     "created_at": "Fri Nov 13 16:05:44 +0000 2026"
+    },
+    {
+     "id": "2121273316501545329",
+     "author_handle": "Hamish_Low5",
+     "author_name": "Hamish Low",
+     "text": "Rather than remote access enabling continued cloud business under auspices of US cloud players, it instead has turned into an enabler for networks of shell firms in Southeast Asia and China to engage in hugely profitable violations of US controls",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/Hamish_Low5/status/2121273316501545329",
+     "created_at": "Fri Nov 13 16:05:44 +0000 2026"
+    },
+    {
+     "id": "2121273318066057611",
+     "author_handle": "Hamish_Low5",
+     "author_name": "Hamish Low",
+     "text": "When firms such as Megaspeed which have no jurisdictional attachments, and are de facto controlled by Chinese interests, lose access to future chip shipments, one of the most logical moves will be to work to smuggle into China their chips held in SEA, profiting from huge markups",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/Hamish_Low5/status/2121273318066057611",
+     "created_at": "Fri Nov 13 16:05:45 +0000 2026"
+    },
+    {
+     "id": "2121273320570249382",
+     "author_handle": "Hamish_Low5",
+     "author_name": "Hamish Low",
+     "text": "The hundreds of thousands of chips being owned and operated by similar firms across Asia are the riskiest pool for future smuggling. Allowing those same firms to continue freely buying up advanced AI hardware, including Vera Rubins, would be a major strategic error",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/Hamish_Low5/status/2121273320570249382",
+     "created_at": "Fri Nov 13 16:05:45 +0000 2026"
+    },
+    {
+     "id": "2121273323325952421",
+     "author_handle": "Hamish_Low5",
+     "author_name": "Hamish Low",
+     "text": "Smuggling is not just bad because of the illegality or national security implications, but also since future international treaties on AI are likely to rest on effective tracking and verification of existing chip stocks",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/Hamish_Low5/status/2121273323325952421",
+     "created_at": "Fri Nov 13 16:05:46 +0000 2026"
+    },
+    {
+     "id": "2121273325070458889",
+     "author_handle": "Hamish_Low5",
+     "author_name": "Hamish Low",
+     "text": "The existence of hundreds of thousands to millions of advanced chips in an unmonitored and uncontrolled grey market across Asia is highly antithetical to making future deals which rely on minimal dark compute",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/Hamish_Low5/status/2121273325070458889",
+     "created_at": "Fri Nov 13 16:05:46 +0000 2026"
+    },
+    {
+     "id": "2121273328212316231",
+     "author_handle": "Hamish_Low5",
+     "author_name": "Hamish Low",
+     "text": "Overall the US should take immediate action to clamp down on remote access, pairing this with stricter policies on chip buyer whitelists, chip tracking and whistleblower rewards to reduce the risk of remote access chips blurring too easily into smuggled ones",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/Hamish_Low5/status/2121273328212316231",
+     "created_at": "Fri Nov 13 16:05:47 +0000 2026"
+    },
+    {
+     "id": "2121273329763893326",
+     "author_handle": "Hamish_Low5",
+     "author_name": "Hamish Low",
+     "text": "Read my full piece making this case at https://t.co/DScRuaOWiM",
+     "links": {
+      "https://t.co/DScRuaOWiM": "https://open.substack.com/pub/erwald/p/ai-chips-rented-to-chinese-firms?r=hemux&utm_campaign=post&utm_medium=web"
+     },
+     "media": [],
+     "url": "https://x.com/Hamish_Low5/status/2121273329763893326",
+     "created_at": "Fri Nov 13 16:05:47 +0000 2026"
+    }
+   ],
+   "enriched": 3
   }
  }
 }

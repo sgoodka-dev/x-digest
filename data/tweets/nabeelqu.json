@@ -2632,6 +2632,37 @@
    "quoted": null,
    "fetched_at": "2026-11-13T21:26:31.587502+00:00",
    "enriched": 3
+  },
+  "2121363240274083895": {
+   "id": "2121363240274083895",
+   "url": "https://x.com/nabeelqu/status/2121363240274083895",
+   "text": "TIL this is only the 3rd full ground stop ever in the US (first one was 9/11): https://t.co/iKe6LcM8p9",
+   "created_at": "Fri Nov 13 22:03:04 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1857140980421668864/0prdKK32_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 30,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXCYn1PWcAEew-B.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/iKe6LcM8p9": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-14T13:38:58.849857+00:00",
+   "enriched": 3
   }
  }
 }

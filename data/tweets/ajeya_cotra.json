@@ -2480,6 +2480,42 @@
    "quoted": null,
    "fetched_at": "2026-11-08T13:36:31.760259+00:00",
    "enriched": 3
+  },
+  "2121501361909231713": {
+   "id": "2121501361909231713",
+   "url": "https://x.com/ajeya_cotra/status/2121501361909231713",
+   "text": "The avalanche that hit math is coming for AI development.\n\nhttps://t.co/z5RsJgcWWc https://t.co/Ud6MDxiADh",
+   "created_at": "Sat Nov 14 07:11:54 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1653845490885332995/GPWuOoqu_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkesh_sp",
+   "rt_author_name": "Dwarkesh Patel",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "rt_id": "2121311524409225611",
+   "likes": 3557,
+   "retweets": 290,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HXBsFabWcAAnQQC.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HXBsFabWcAAnQQC.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/z5RsJgcWWc": "https://www.dwarkesh.com/p/rsi",
+    "https://t.co/Ud6MDxiADh": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-14T13:38:58.849857+00:00",
+   "enriched": 3
   }
  }
 }

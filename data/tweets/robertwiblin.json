@@ -10396,6 +10396,104 @@
     }
    ],
    "enriched": 3
+  },
+  "2121378633520726417": {
+   "id": "2121378633520726417",
+   "url": "https://x.com/robertwiblin/status/2121378633520726417",
+   "text": "Even if we don't get a full-on singularity, the intelligence explosion might compress 4 years of progress at the current pace into a single year.\n\nThat’s a jump as big as GPT-3.5 to GPT-6 Astra in just 12 months.\n\nThat would still result in absolutely insane capabilities. https://t.co/woRayV8Eya",
+   "created_at": "Fri Nov 13 23:04:14 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkesh_sp",
+   "rt_author_name": "Dwarkesh Patel",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "rt_id": "2121368760317538643",
+   "likes": 543,
+   "retweets": 32,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2121334617169096704/img/mQr9fAN_0u_GP6yA.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/woRayV8Eya": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-14T13:38:58.849857+00:00",
+   "enriched": 3
+  },
+  "2121374553246990652": {
+   "id": "2121374553246990652",
+   "url": "https://x.com/robertwiblin/status/2121374553246990652",
+   "text": "SCOOP: How Nvidia turned Washington against it.\n\nTons of new info on the company's, uh, unorthodox approach to lobbying. Incredibly fun to write with @ashleyrgold @rogoswami and great edits from @sbanjo\n\nhttps://t.co/uRDVj35SKD https://t.co/3EVAu2Nr4Q",
+   "created_at": "Fri Nov 13 22:48:01 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "GarrisonLovely",
+   "rt_author_name": "Garrison Lovely",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1824166072620032001/Si-LBcmO_normal.jpg",
+   "rt_id": "2121342496102105384",
+   "likes": 159,
+   "retweets": 23,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXCFsfJa4AAIlQj.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXCFsrLbkAEzKqh.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/uRDVj35SKD": "https://www.semafor.com/article/11/13/2026/how-nvidias-jensen-huang-and-trump-jumped-the-guardrails",
+    "https://t.co/3EVAu2Nr4Q": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-14T13:38:58.849857+00:00",
+   "enriched": 3
+  },
+  "2121373494562754978": {
+   "id": "2121373494562754978",
+   "url": "https://x.com/robertwiblin/status/2121373494562754978",
+   "text": "This slide from the Anthropic IPO roadshow was a big factor in my decision to leave. It’s an insane plot and I’m surprised they made it public.\n\nIt shows the compute efficiency of pretraining over time. The y-axis is a **log scale**: they are seeing continued superexponential algorithmic progress.\n\nMythos was not a one-time deviation, but a point on a superexponential. They could already retrain Mythos with a fraction of the compute originally needed.\n\nIt doesn’t strictly imply a software-only intelligence explosion- they have been spending more on R+D. But algorithmic improvements do not require ridiculous creative genius and are on the verge of being automated. You do the math.",
+   "created_at": "Fri Nov 13 22:43:48 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "hilbertspaess",
+   "rt_author_name": "Jacob Coxon",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2097232673865601024/d6H8UbQJ_normal.jpg",
+   "rt_id": "2121331333654086124",
+   "likes": 4677,
+   "retweets": 397,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXB7mp4bQAAKN3a.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/U17rzSxrFD": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-14T13:38:58.849857+00:00",
+   "enriched": 3
   }
  }
 }

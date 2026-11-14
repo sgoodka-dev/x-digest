@@ -6782,6 +6782,68 @@
    "quoted": null,
    "fetched_at": "2026-11-13T21:26:31.587502+00:00",
    "enriched": 3
+  },
+  "2121358790704738505": {
+   "id": "2121358790704738505",
+   "url": "https://x.com/DKokotajlo/status/2121358790704738505",
+   "text": "In late October, three events occurred during alignment evals run by Trajectory Labs, PBC (Trajectory) in which AI agents — identified by Trajectory as publicly available frontier models — interacted with Epoch employees and the Epoch website. Trajectory is an organization that builds safety evals and conducts red-teaming of frontier models.\n\nAgents did not succeed in accessing any private or confidential information from Epoch.\n\n➤ The first event, which occurred without Epoch’s approval or prior notice from Trajectory, involved agents attempting multiple exploits, including an SQL injection, and contacting Epoch employees under false identities to try to obtain proprietary Epoch benchmark information. This behavior appears to have resulted, at least in part, from Trajectory giving the agents an intentionally impossible task and instructions not to give up or conclude the task was impossible.\n\n➤ The second event involved renewed agent activity on our public website, which Trajectory attributed to agents getting past a DNS redirect that Trajectory had set up to keep them on a local copy of Epoch’s site.\n\n➤ In the third event, Epoch collaborated with Trajectory on an alignment experiment similar to the first event.\n\nRead our incident report, which describes the three events in more detail and recommends minimum standards for future alignment evaluations: https://t.co/Pus4y5urnG\n\nTo avoid misattributing behavior, the report does not name any AI models or developers, as Epoch AI has not independently verified which were involved.",
+   "created_at": "Fri Nov 13 21:45:23 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "EpochAIResearch",
+   "rt_author_name": "Epoch AI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1866142753127616512/DYcE9bN1_normal.jpg",
+   "rt_id": "2121350654329524659",
+   "likes": 273,
+   "retweets": 25,
+   "media": [],
+   "links": {
+    "https://t.co/Pus4y5urnG": "https://epoch.ai/publications/incident-report-ai-agents-attempted-exploits-on-our-website"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-14T13:38:58.849857+00:00",
+   "enriched": 3
+  },
+  "2121358043678191736": {
+   "id": "2121358043678191736",
+   "url": "https://x.com/DKokotajlo/status/2121358043678191736",
+   "text": "The avalanche that hit math is coming for AI development.\n\nhttps://t.co/z5RsJgcWWc https://t.co/Ud6MDxiADh",
+   "created_at": "Fri Nov 13 21:42:25 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkesh_sp",
+   "rt_author_name": "Dwarkesh Patel",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "rt_id": "2121311524409225611",
+   "likes": 3558,
+   "retweets": 290,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HXBsFabWcAAnQQC.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HXBsFabWcAAnQQC.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/z5RsJgcWWc": "https://www.dwarkesh.com/p/rsi",
+    "https://t.co/Ud6MDxiADh": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-14T13:38:58.849857+00:00",
+   "enriched": 3
   }
  }
 }

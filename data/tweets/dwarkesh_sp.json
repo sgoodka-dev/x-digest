@@ -4040,6 +4040,275 @@
    "quoted": null,
    "fetched_at": "2026-11-13T21:26:31.587502+00:00",
    "enriched": 3
+  },
+  "2121465044722704696": {
+   "id": "2121465044722704696",
+   "url": "https://x.com/dwarkesh_sp/status/2121465044722704696",
+   "text": "@keerthanpg Been doing more of these!",
+   "created_at": "Sat Nov 14 04:47:36 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "keerthanpg",
+   "reply_to_id": "2121360255758090441",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 9,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-14T13:38:58.849857+00:00",
+   "parent": {
+    "id": "2121360255758090441",
+    "author_handle": "keerthanpg",
+    "author_name": "Keerthana Gopalakrishnan",
+    "text": "@dwarkesh_sp Love this blog. \n\nBtw, wow, is this a new format? Monologue video?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/keerthanpg/status/2121360255758090441",
+    "created_at": "Fri Nov 13 21:51:12 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2121424408858558550": {
+   "id": "2121424408858558550",
+   "url": "https://x.com/dwarkesh_sp/status/2121424408858558550",
+   "text": "My main hope that recursive self-improvement -- AIs training the next AIs, way faster than humans have trained AIs -- is more than 6-24 months away is that the AIs will merely get astoundingly good at stuff you can measure but not \"fuzzy stuff.\" Unfortunately, I think Dwarkesh's points here are pretty compelling reasons that the \"fuzzy stuff\" will follow, and the AIs will be able to do the hard parts of AI research way better than humans can, and that would lead pretty quickly to them doing almost everything else way better than humans can.",
+   "created_at": "Sat Nov 14 02:06:07 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "trevposts",
+   "rt_author_name": "Trevor Levin",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1803826544533495809/XNZbCqVH_normal.jpg",
+   "rt_id": "2121412162350366752",
+   "likes": 248,
+   "retweets": 21,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-14T13:38:58.849857+00:00",
+   "enriched": 3
+  },
+  "2121412536700637200": {
+   "id": "2121412536700637200",
+   "url": "https://x.com/dwarkesh_sp/status/2121412536700637200",
+   "text": "Well damn then maybe I shouldn't have made it a footnote lol",
+   "created_at": "Sat Nov 14 01:18:57 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 637,
+   "retweets": 16,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2121408362344751274",
+    "author_name": "Dan Robinson",
+    "links": {
+     "https://t.co/GOnzOJuPGp": ""
+    },
+    "author": "danrobinson",
+    "text": "As someone who’s hoped that compute will be a bottleneck to RSI, the intuition in this footnote hit me like a sledgehammer https://t.co/GOnzOJuPGp"
+   },
+   "fetched_at": "2026-11-14T13:38:58.849857+00:00",
+   "enriched": 3
+  },
+  "2121412333167947842": {
+   "id": "2121412333167947842",
+   "url": "https://x.com/dwarkesh_sp/status/2121412333167947842",
+   "text": "As someone who’s hoped that compute will be a bottleneck to RSI, the intuition in this footnote hit me like a sledgehammer https://t.co/GOnzOJuPGp",
+   "created_at": "Sat Nov 14 01:18:08 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "danrobinson",
+   "rt_author_name": "Dan Robinson",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1377598520149082113/autwFh23_normal.jpg",
+   "rt_id": "2121408362344751274",
+   "likes": 1923,
+   "retweets": 74,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXDBqV1a4AACW6o.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXDBqV1a4AACW6o.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/GOnzOJuPGp": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-14T13:38:58.849857+00:00",
+   "enriched": 3
+  },
+  "2121390324845314131": {
+   "id": "2121390324845314131",
+   "url": "https://x.com/dwarkesh_sp/status/2121390324845314131",
+   "text": "What is Xi Jinping's succession plan?\n\nHe doesn't have one.\n\nWhat would happen if he died tomorrow?\n\nA massive financial crisis. Then Xi's wife or daughter would probably choose a successor.\n\n@vshih2 https://t.co/oVbOGfzPtu",
+   "created_at": "Fri Nov 13 23:50:41 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1915048486505971712/H2jFRoW6_normal.jpg",
+   "rt_id": "2121377579877945557",
+   "likes": 1903,
+   "retweets": 173,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2121240253948116992/img/oTuju39aWIuI_wJd.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2121240253948116992/img/oTuju39aWIuI_wJd.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/oVbOGfzPtu": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-14T13:38:58.849857+00:00",
+   "enriched": 3
+  },
+  "2121372060421415250": {
+   "id": "2121372060421415250",
+   "url": "https://x.com/dwarkesh_sp/status/2121372060421415250",
+   "text": ".@larsiusprime became a Georgist by witnessing housing bubbles in Final Fantasy 14, the Metaverse, and other digital worlds. https://t.co/IGDD85uucL",
+   "created_at": "Fri Nov 13 22:38:07 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1915048486505971712/H2jFRoW6_normal.jpg",
+   "rt_id": "2121286972928860437",
+   "likes": 60,
+   "retweets": 7,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2121233774356676608/img/UNwN6bo1D4Pknn9z.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2121233774356676608/img/UNwN6bo1D4Pknn9z.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/IGDD85uucL": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-14T13:38:58.849857+00:00",
+   "enriched": 3
+  },
+  "2121368760317538643": {
+   "id": "2121368760317538643",
+   "url": "https://x.com/dwarkesh_sp/status/2121368760317538643",
+   "text": "Even if we don't get a full-on singularity, the intelligence explosion might compress 4 years of progress at the current pace into a single year.\n\nThat’s a jump as big as GPT-3.5 to GPT-6 Astra in just 12 months.\n\nThat would still result in absolutely insane capabilities. https://t.co/woRayV8Eya",
+   "created_at": "Fri Nov 13 22:25:00 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 541,
+   "retweets": 32,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2121334617169096704/img/mQr9fAN_0u_GP6yA.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2121334617169096704/img/mQr9fAN_0u_GP6yA.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/woRayV8Eya": ""
+   },
+   "quoted": {
+    "id": "2121311524409225611",
+    "author_name": "Dwarkesh Patel",
+    "links": {
+     "https://t.co/z5RsJgcWWc": "https://www.dwarkesh.com/p/rsi",
+     "https://t.co/Ud6MDxiADh": ""
+    },
+    "author": "dwarkesh_sp",
+    "text": "The avalanche that hit math is coming for AI development.\n\nhttps://t.co/z5RsJgcWWc https://t.co/Ud6MDxiADh"
+   },
+   "fetched_at": "2026-11-14T13:38:58.849857+00:00",
+   "enriched": 3
+  },
+  "2121359806879649924": {
+   "id": "2121359806879649924",
+   "url": "https://x.com/dwarkesh_sp/status/2121359806879649924",
+   "text": "that's why I also slept with jensen",
+   "created_at": "Fri Nov 13 21:49:25 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 7245,
+   "retweets": 271,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2120978545631769002",
+    "author_name": "Lain on the Blockchain",
+    "links": {},
+    "author": "CryptoCyberia",
+    "text": "Dwarkesh is a very obvious and archetypal example of a federal agent btw."
+   },
+   "fetched_at": "2026-11-14T13:38:58.849857+00:00",
+   "enriched": 3
   }
  }
 }
