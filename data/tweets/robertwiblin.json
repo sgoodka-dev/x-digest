@@ -10494,6 +10494,37 @@
    "quoted": null,
    "fetched_at": "2026-11-14T13:38:58.849857+00:00",
    "enriched": 3
+  },
+  "2121645786723484011": {
+   "id": "2121645786723484011",
+   "url": "https://x.com/robertwiblin/status/2121645786723484011",
+   "text": "As someone who’s hoped that compute will be a bottleneck to RSI, the intuition in this footnote hit me like a sledgehammer https://t.co/GOnzOJuPGp",
+   "created_at": "Sat Nov 14 16:45:48 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "danrobinson",
+   "rt_author_name": "Dan Robinson",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1377598520149082113/autwFh23_normal.jpg",
+   "rt_id": "2121408362344751274",
+   "likes": 2244,
+   "retweets": 95,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXDBqV1a4AACW6o.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/GOnzOJuPGp": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-14T17:09:07.138772+00:00",
+   "enriched": 3
   }
  }
 }

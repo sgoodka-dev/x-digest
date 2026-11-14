@@ -12681,6 +12681,49 @@
    },
    "fetched_at": "2026-11-14T13:38:58.849857+00:00",
    "enriched": 3
+  },
+  "2121608884171555292": {
+   "id": "2121608884171555292",
+   "url": "https://x.com/s8mb/status/2121608884171555292",
+   "text": "Happy 20th anniversary to one of the greatest artistic achievements ever, the defining musical masterpiece, Joanna Newsom's second studio album Ys, released on November 14, 2006! https://t.co/klCYqLygQv",
+   "created_at": "Sat Nov 14 14:19:10 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "jonewsomhive",
+   "rt_author_name": "joanna newsom hive",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1356341101519634432/9qysLDXb_normal.jpg",
+   "rt_id": "2121468168489324713",
+   "likes": 1699,
+   "retweets": 428,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXBGdzEXgAAjsFn.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXBGdzUXIAAS6Sl.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXBGdzEXgAAjsFn.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXBGdzUXIAAS6Sl.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/klCYqLygQv": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-14T17:09:07.138772+00:00",
+   "enriched": 3
   }
  }
 }

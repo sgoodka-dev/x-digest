@@ -1,10 +1,10 @@
 {
  "last_run": {
-  "started": "2026-11-14T13:38:58.849857+00:00",
+  "started": "2026-11-14T17:09:07.138772+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 169
    },
    "add_hawk": {
@@ -14,7 +14,7 @@
    },
    "ajeya_cotra": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 127
    },
    "alxndrdavies": {
@@ -29,18 +29,18 @@
    },
    "DaveRBanerjee": {
     "ok": true,
-    "new": 4,
+    "new": 0,
     "total": 206
    },
    "DKokotajlo": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 293
    },
    "dwarkesh_sp": {
     "ok": true,
-    "new": 8,
-    "total": 183
+    "new": 2,
+    "total": 185
    },
    "jkcarlsmith": {
     "ok": true,
@@ -50,11 +50,11 @@
    "Lewis_Bollard": {
     "ok": true,
     "new": 1,
-    "total": 102
+    "total": 103
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 167
    },
    "ohlennart": {
@@ -64,7 +64,7 @@
    },
    "sayashk": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 150
    },
    "testingham": {
@@ -74,13 +74,13 @@
    },
    "slatestarcodex": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 161
    },
    "s8mb": {
     "ok": true,
     "new": 1,
-    "total": 569
+    "total": 570
    },
    "random_walker": {
     "ok": true,
@@ -94,22 +94,22 @@
    },
    "robertwiblin": {
     "ok": true,
-    "new": 3,
-    "total": 403
+    "new": 1,
+    "total": 404
    },
    "deanwball": {
     "ok": true,
-    "new": 9,
-    "total": 601
+    "new": 1,
+    "total": 602
    },
    "nabeelqu": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 134
    },
    "theobearman": {
     "ok": true,
-    "new": 3,
+    "new": 0,
     "total": 395
    },
    "peterwilderford": {
@@ -120,11 +120,11 @@
    "anton_d_leicht": {
     "ok": true,
     "new": 2,
-    "total": 136
+    "total": 138
    },
    "NateWitkin": {
     "ok": true,
-    "new": 5,
+    "new": 0,
     "total": 144
    },
    "charnock_jacob": {
@@ -133,7 +133,7 @@
     "total": 7
    }
   },
-  "new_tweets": 44,
-  "finished": "2026-11-14T13:40:30.355789+00:00"
+  "new_tweets": 8,
+  "finished": "2026-11-14T17:10:07.366288+00:00"
  }
 }
