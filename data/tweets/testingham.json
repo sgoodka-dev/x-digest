@@ -3024,6 +3024,30 @@
     "created_at": "Fri Nov 13 17:27:49 +0000 2026"
    },
    "enriched": 3
+  },
+  "2121677362941292781": {
+   "id": "2121677362941292781",
+   "url": "https://x.com/testingham/status/2121677362941292781",
+   "text": "Recently i've found myself getting more upset with discussions of AI risk on X\n\nLike, often it feels like the sceptics are just dunking on ppl who are worried\n\nAnd it's tough bc these issues are really complicated. I don't think there's any water tight case for an intelligence explosion happening soon, or it leading to AI takeover\n\nSo there are loads of genuine uncertainties and ambiguities, and of course sceptics can and should raise them.\n\nBut it's upsetting when they present them as slam-dunk proofs that the whole AI risk is flawed and silly.\n\nLike, do you really think that no one has thought of this before? Are you actually curious about whether your objection holds up? Remember how most issues are really complicated, and ppl are often wrong about stuff?\n\nAnd the bigger picture here is that hundreds of top experts inside and outside the industry think this will be a complete disaster. Like, that is obviously fucking scary and we should take it very seriously, not notice an apparent flaw in the argument and move on.\n\nTo be clear, AI safety ppl can be annoying too. Historically, I've found them much more annoying to be honest. I've felt pressure not to say stuff that vibes as 'anti-safety', and noticed ppl engaging in bad faith with me when i do.\n\nI know none of this is specific to AI safety. Public discourse is dogshit on every topic. And probably X is waay better than average. But i still think it's a disgrace how low the standard is.\n\nFor a topic this important everyone on both sides should try to do better",
+   "created_at": "Sat Nov 14 18:51:16 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2057221538160766976/KAtze74k_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "TomDavidsonX",
+   "rt_author_name": "Tom Davidson",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1902304373084188674/2ET1vJg3_normal.jpg",
+   "rt_id": "2121664725020983500",
+   "likes": 123,
+   "retweets": 9,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-14T19:56:27.045106+00:00",
+   "enriched": 3
   }
  }
 }

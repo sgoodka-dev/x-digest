@@ -12724,6 +12724,104 @@
    "quoted": null,
    "fetched_at": "2026-11-14T17:09:07.138772+00:00",
    "enriched": 3
+  },
+  "2121692799976591619": {
+   "id": "2121692799976591619",
+   "url": "https://x.com/s8mb/status/2121692799976591619",
+   "text": "@TziokasV @WorksInProgMag Absolutely adorable. I hope she liked it.",
+   "created_at": "Sat Nov 14 19:52:37 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "TziokasV",
+   "reply_to_id": "2121681305062756527",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-14T19:56:27.045106+00:00",
+   "parent": {
+    "id": "2121681305062756527",
+    "author_handle": "TziokasV",
+    "author_name": "vassilis (∎, ∆)",
+    "text": "I proudly present the youngest @WorksInProgMag reader. https://t.co/XaSCN1gU6l",
+    "links": {
+     "https://t.co/XaSCN1gU6l": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXG55l2bsAENGwD.jpg"
+     }
+    ],
+    "url": "https://x.com/TziokasV/status/2121681305062756527",
+    "created_at": "Sat Nov 14 19:06:56 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2121675711329005595": {
+   "id": "2121675711329005595",
+   "url": "https://x.com/s8mb/status/2121675711329005595",
+   "text": "I think Port Charlotte 10 is the best whisky available for under £50 a bottle. Incredibly delicious and richly flavoured.",
+   "created_at": "Sat Nov 14 18:44:43 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 11,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-14T19:56:27.045106+00:00",
+   "enriched": 3
+  },
+  "2121655525406638517": {
+   "id": "2121655525406638517",
+   "url": "https://x.com/s8mb/status/2121655525406638517",
+   "text": "This is my favourite album of the century so far.",
+   "created_at": "Sat Nov 14 17:24:30 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 23,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2121589097894719961",
+    "author_name": "Pitchfork",
+    "links": {
+     "https://t.co/hLH36e0U4Q": "https://pitchfork.visitlink.me/_A50X7",
+     "https://t.co/tV6mdOrCq2": ""
+    },
+    "author": "pitchfork",
+    "text": "Joanna Newsom's Ys turns 20 today\n\nSee where it lands on our list of the 200 best albums of the 2000s: https://t.co/hLH36e0U4Q https://t.co/tV6mdOrCq2"
+   },
+   "fetched_at": "2026-11-14T19:56:27.045106+00:00",
+   "enriched": 3
   }
  }
 }

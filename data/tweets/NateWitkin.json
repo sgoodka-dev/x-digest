@@ -4161,6 +4161,181 @@
    "quoted": null,
    "fetched_at": "2026-11-14T13:38:58.849857+00:00",
    "enriched": 3
+  },
+  "2121677251863318635": {
+   "id": "2121677251863318635",
+   "url": "https://x.com/NateWitkin/status/2121677251863318635",
+   "text": "FWIW I am still being a bit tongue-in-cheek, and I appreciate that some pretty bad outcomes over the next couple of years remain plausible.  \n\nBut IMO much of the safety community has put itself in a difficult spot by crying wolf many times over in response to what good-faith critics can see is really very ambiguous, multiply interpretable information.  \n\nWe saw it with the first METR graph (time horizons),we saw it with Black October, we saw it with the second METR graph (AECI speed-up), and we saw it again yesterday with the FAA grounding, when many prominent accounts preemptively implied we were experiencing an AI-precipitated cyber attack.  \n\nIf you repeatedly convey that you can only see the world through a single cloudy lens, people start to catch on.",
+   "created_at": "Sat Nov 14 18:50:50 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": true,
+   "reply_to": "NateWitkin",
+   "reply_to_id": "2121671371789091243",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-14T19:56:27.045106+00:00",
+   "parent": {
+    "id": "2121671371789091243",
+    "author_handle": "NateWitkin",
+    "author_name": "Nathan Witkin",
+    "text": "In all seriousness, there is a very interesting sociological retrospective to be written on AI maximalists' relationship with graphs as representations of knowledge.\n\nYou can graph almost anything with this group, no matter how noisy, limited, or inscrutable the data, and this anoints it as some sort of indefatigable ritual object of common knowledge. This in turn creates all sorts of fascinating social cascades. \n\nEvery regression a Mayan calendar.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/NateWitkin/status/2121671371789091243",
+    "created_at": "Sat Nov 14 18:27:28 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2121671371789091243": {
+   "id": "2121671371789091243",
+   "url": "https://x.com/NateWitkin/status/2121671371789091243",
+   "text": "In all seriousness, there is a very interesting sociological retrospective to be written on AI maximalists' relationship with graphs as representations of knowledge.\n\nYou can graph almost anything with this group, no matter how noisy, limited, or inscrutable the data, and this anoints it as some sort of indefatigable ritual object of common knowledge. This in turn creates all sorts of fascinating social cascades. \n\nEvery regression a Mayan calendar.",
+   "created_at": "Sat Nov 14 18:27:28 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 40,
+   "retweets": 4,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2121666200908316778",
+    "author_name": "Nathan Witkin",
+    "links": {},
+    "author": "NateWitkin",
+    "text": "Frontier labs have graduated from chart crimes to straight-up chart terrorism."
+   },
+   "fetched_at": "2026-11-14T19:56:27.045106+00:00",
+   "thread": [
+    {
+     "id": "2121677251863318635",
+     "author_handle": "NateWitkin",
+     "author_name": "Nathan Witkin",
+     "text": "FWIW I am still being a bit tongue-in-cheek, and I appreciate that some pretty bad outcomes over the next couple of years remain plausible.  \n\nBut IMO much of the safety community has put itself in a difficult spot by crying wolf many times over in response to what good-faith critics can see is really very ambiguous, multiply interpretable information.  \n\nWe saw it with the first METR graph (time horizons),we saw it with Black October, we saw it with the second METR graph (AECI speed-up), and we saw it again yesterday with the FAA grounding, when many prominent accounts preemptively implied we were experiencing an AI-precipitated cyber attack.  \n\nIf you repeatedly convey that you can only see the world through a single cloudy lens, people start to catch on.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/NateWitkin/status/2121677251863318635",
+     "created_at": "Sat Nov 14 18:50:50 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2121670897258135715": {
+   "id": "2121670897258135715",
+   "url": "https://x.com/NateWitkin/status/2121670897258135715",
+   "text": "https://t.co/hhaXck8Rlq",
+   "created_at": "Sat Nov 14 18:25:35 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "gleech",
+   "rt_author_name": "gavin leech (in DC 11-16th)",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1513339291883212803/9m6waiws_normal.jpg",
+   "rt_id": "2121595585530933408",
+   "likes": 35,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXFr26kXEAA6wy7.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXFr56IWoAAIkH8.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXFr26kXEAA6wy7.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXFr56IWoAAIkH8.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/hhaXck8Rlq": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-14T19:56:27.045106+00:00",
+   "enriched": 3
+  },
+  "2121666200908316778": {
+   "id": "2121666200908316778",
+   "url": "https://x.com/NateWitkin/status/2121666200908316778",
+   "text": "Frontier labs have graduated from chart crimes to straight-up chart terrorism.",
+   "created_at": "Sat Nov 14 18:06:55 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 41,
+   "retweets": 3,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2121331333654086124",
+    "author_name": "Jacob Coxon",
+    "links": {
+     "https://t.co/U17rzSxrFD": ""
+    },
+    "author": "hilbertspaess",
+    "text": "This slide from the Anthropic IPO roadshow was a big factor in my decision to leave. It’s an insane plot and I’m surprised they made it public.\n\nIt shows the compute efficiency of pretraining over time. The y-axis is a **log scale**: they are seeing continued superexponential algorithmic progress.\n\nMythos was not a one-time deviation, but a point on a superexponential. They could already retrain Mythos with a fraction of the compute originally needed.\n\nIt doesn’t strictly imply a software-only intelligence explosion- they have been spending more on R+D. But algorithmic improvements do not require ridiculous creative genius and are on the verge of being automated. You do the math."
+   },
+   "fetched_at": "2026-11-14T19:56:27.045106+00:00",
+   "enriched": 3
+  },
+  "2121665199602122921": {
+   "id": "2121665199602122921",
+   "url": "https://x.com/NateWitkin/status/2121665199602122921",
+   "text": "I don't know what the reality is, but this is not a serious argument. 3 data points.\n\nsome AI people are getting used to discussing important matters without clarity or rigor.\n\nEspecially important if you think the stakes are high.",
+   "created_at": "Sat Nov 14 18:02:56 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ben_golub",
+   "rt_author_name": "Ben Golub",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1677074123619483648/xjOYUqdk_normal.jpg",
+   "rt_id": "2121458230920409410",
+   "likes": 242,
+   "retweets": 19,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-14T19:56:27.045106+00:00",
+   "enriched": 3
   }
  }
 }

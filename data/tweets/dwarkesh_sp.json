@@ -4377,6 +4377,110 @@
     "created_at": "Sat Nov 14 06:38:53 +0000 2026"
    },
    "enriched": 3
+  },
+  "2121691889355383063": {
+   "id": "2121691889355383063",
+   "url": "https://x.com/dwarkesh_sp/status/2121691889355383063",
+   "text": "Even progress on the deepest open problems in ML (sample efficiency and online learning) is verifiable. https://t.co/xwfxSp5Ai0",
+   "created_at": "Sat Nov 14 19:49:00 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 36,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2121654598960377856/img/pICl9w5A8WTmHdQu.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/xwfxSp5Ai0": ""
+   },
+   "quoted": {
+    "id": "2121311524409225611",
+    "author_name": "Dwarkesh Patel",
+    "links": {
+     "https://t.co/z5RsJgcWWc": "https://www.dwarkesh.com/p/rsi",
+     "https://t.co/Ud6MDxiADh": ""
+    },
+    "author": "dwarkesh_sp",
+    "text": "The avalanche that hit math is coming for AI development.\n\nhttps://t.co/z5RsJgcWWc https://t.co/Ud6MDxiADh"
+   },
+   "fetched_at": "2026-11-14T19:56:27.045106+00:00",
+   "enriched": 3
+  },
+  "2121681973592854830": {
+   "id": "2121681973592854830",
+   "url": "https://x.com/dwarkesh_sp/status/2121681973592854830",
+   "text": "Recently i've found myself getting more upset with discussions of AI risk on X\n\nLike, often it feels like the sceptics are just dunking on ppl who are worried\n\nAnd it's tough bc these issues are really complicated. I don't think there's any water tight case for an intelligence explosion happening soon, or it leading to AI takeover\n\nSo there are loads of genuine uncertainties and ambiguities, and of course sceptics can and should raise them.\n\nBut it's upsetting when they present them as slam-dunk proofs that the whole AI risk is flawed and silly.\n\nLike, do you really think that no one has thought of this before? Are you actually curious about whether your objection holds up? Remember how most issues are really complicated, and ppl are often wrong about stuff?\n\nAnd the bigger picture here is that hundreds of top experts inside and outside the industry think this will be a complete disaster. Like, that is obviously fucking scary and we should take it very seriously, not notice an apparent flaw in the argument and move on.\n\nTo be clear, AI safety ppl can be annoying too. Historically, I've found them much more annoying to be honest. I've felt pressure not to say stuff that vibes as 'anti-safety', and noticed ppl engaging in bad faith with me when i do.\n\nI know none of this is specific to AI safety. Public discourse is dogshit on every topic. And probably X is waay better than average. But i still think it's a disgrace how low the standard is.\n\nFor a topic this important everyone on both sides should try to do better",
+   "created_at": "Sat Nov 14 19:09:36 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "TomDavidsonX",
+   "rt_author_name": "Tom Davidson",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1902304373084188674/2ET1vJg3_normal.jpg",
+   "rt_id": "2121664725020983500",
+   "likes": 123,
+   "retweets": 9,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-14T19:56:27.045106+00:00",
+   "enriched": 3
+  },
+  "2121654724227408319": {
+   "id": "2121654724227408319",
+   "url": "https://x.com/dwarkesh_sp/status/2121654724227408319",
+   "text": "Even superintelligence will need real-world experience to match top human experts.  Reality has a surprising amount of detail, and you can't just think your way out of that.\n\nBut the AIs that come out of the intelligence explosion will be really good at learning from all their parallel experience\n\nAs a result, we should expect them to outclass expert humans within months of being deployed.\n\nI call this the broadly deployed intelligence explosion.",
+   "created_at": "Sat Nov 14 17:21:19 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 236,
+   "retweets": 19,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2121654307397459968/img/5_f-t_-At6EiXsg6.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/UvW9t6vNGe": ""
+   },
+   "quoted": {
+    "id": "2121311524409225611",
+    "author_name": "Dwarkesh Patel",
+    "links": {
+     "https://t.co/z5RsJgcWWc": "https://www.dwarkesh.com/p/rsi",
+     "https://t.co/Ud6MDxiADh": ""
+    },
+    "author": "dwarkesh_sp",
+    "text": "The avalanche that hit math is coming for AI development.\n\nhttps://t.co/z5RsJgcWWc https://t.co/Ud6MDxiADh"
+   },
+   "fetched_at": "2026-11-14T19:56:27.045106+00:00",
+   "enriched": 3
   }
  }
 }
