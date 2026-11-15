@@ -3516,6 +3516,30 @@
     "created_at": "Sat Nov 14 04:32:00 +0000 2026"
    },
    "enriched": 3
+  },
+  "2121715201493930187": {
+   "id": "2121715201493930187",
+   "url": "https://x.com/mentalgeorge/status/2121715201493930187",
+   "text": "Twitter is one of the great Faustian bargains of modernity\n\nReceive: cutting-edge alpha, new friends, \"lolz\", the thought-provokingest of material, status (if skilled)\n\nBut sacrifice: hours upon hours of thoughtspace, dopamine regulation, sanity (if unskilled)",
+   "created_at": "Sat Nov 14 21:21:38 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 53,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-15T14:04:21.241306+00:00",
+   "enriched": 3
   }
  }
 }

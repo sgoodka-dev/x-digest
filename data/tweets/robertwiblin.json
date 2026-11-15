@@ -10525,6 +10525,105 @@
    "quoted": null,
    "fetched_at": "2026-11-14T17:09:07.138772+00:00",
    "enriched": 3
+  },
+  "2121967634560266625": {
+   "id": "2121967634560266625",
+   "url": "https://x.com/robertwiblin/status/2121967634560266625",
+   "text": "If you fit a linear trend to Epoch ECI for each company and check the latest model:\n\n- Anthropic's Fable 5.2 is ~5 months ahead of trend, far outside the normal range. Clear indication of acceleration!\n- Google's Gemini 4 Carbon is ~4.5 months ahead, but Google's track record is noisy enough that this could be chance, moderate indication of accelrraion\n- OpenAI, DeepSeek, Moonshot are currently on trend, no evidence yet of acceleration.\n\nSeems like AI progress is accelerating but not seen at every AI company yet, at least based on the public data so far. (More might be clear with undisclosed internal research models.)",
+   "created_at": "Sun Nov 15 14:04:42 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "peterwildeford",
+   "rt_author_name": "Peter Wildeford🇺🇸🚀",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2016338985811927041/Vve57ZtV_normal.png",
+   "rt_id": "2121961416252960785",
+   "likes": 5,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXIt8mwXgAAjlYR.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/tMDx5uc4vj": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-15T14:04:21.241306+00:00",
+   "enriched": 3
+  },
+  "2121967078169284776": {
+   "id": "2121967078169284776",
+   "url": "https://x.com/robertwiblin/status/2121967078169284776",
+   "text": "@erinbraid You know I did once but it slipped my mind when drafting this!",
+   "created_at": "Sun Nov 15 14:02:30 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "erinbraid",
+   "reply_to_id": "2121497155370197105",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-15T14:04:21.241306+00:00",
+   "parent": {
+    "id": "2121497155370197105",
+    "author_handle": "erinbraid",
+    "author_name": "Erin Braid",
+    "text": "@robertwiblin Just checking, you know \"quiet quit\" doesn't meant to quit quietly, right?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/erinbraid/status/2121497155370197105",
+    "created_at": "Sat Nov 14 06:55:12 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2121966977535054217": {
+   "id": "2121966977535054217",
+   "url": "https://x.com/robertwiblin/status/2121966977535054217",
+   "text": "@simondgoldstein Also true!",
+   "created_at": "Sun Nov 15 14:02:06 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "simondgoldstein",
+   "reply_to_id": "2121949907334676784",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-15T14:04:21.241306+00:00",
+   "parent": {
+    "id": "2121949907334676784",
+    "author_handle": "simondgoldstein",
+    "author_name": "Simon Goldstein",
+    "text": "@robertwiblin Middle powers should invest in technical AI safety, because the gains will be shared with the frontier",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/simondgoldstein/status/2121949907334676784",
+    "created_at": "Sun Nov 15 12:54:16 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

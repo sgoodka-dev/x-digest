@@ -4336,6 +4336,30 @@
    "quoted": null,
    "fetched_at": "2026-11-14T19:56:27.045106+00:00",
    "enriched": 3
+  },
+  "2121715524342342042": {
+   "id": "2121715524342342042",
+   "url": "https://x.com/NateWitkin/status/2121715524342342042",
+   "text": "I bet against this and I bet against Dwarkesh.\n\nHe conveniently sweeps under the rug that climbing a metric involves defining it. Then, supposing you define it (in a way that avoids Goodharting, reward hacking, etc), you need data/envs, which do the lifting. On defining good metrics - this is most of the game of making AGI (converting fuzzy concepts to formalized objects you can climb without gaming, which requires costly fixes later). He elides the hard problem by saying 'AI will just automate data'.\n\nHow do you know whether a change belongs in your final recipe? You ablate at scale. When you make N changes, on even a subset of combinations, this compute cost is naively exponential. So, you need a faster signal to tell you when a task that isn't immediately verifiable improves end behavior. Finding that signal is the bottleneck, which doesn't seem to be helped by 'automating the great algorithmic thinker starting from the empty string on paper'.",
+   "created_at": "Sat Nov 14 21:22:55 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "cindyxywu",
+   "rt_author_name": "Cindy Wu",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1815044111847559168/o0aBmZk7_normal.jpg",
+   "rt_id": "2121700522184851956",
+   "likes": 567,
+   "retweets": 43,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-15T14:04:21.241306+00:00",
+   "enriched": 3
   }
  }
 }

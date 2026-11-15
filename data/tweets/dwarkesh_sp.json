@@ -4481,6 +4481,220 @@
    },
    "fetched_at": "2026-11-14T19:56:27.045106+00:00",
    "enriched": 3
+  },
+  "2121870666031083856": {
+   "id": "2121870666031083856",
+   "url": "https://x.com/dwarkesh_sp/status/2121870666031083856",
+   "text": "@cindyxywu Perhaps this doesn't exactly address your point, but I address what I think is your argument here https://t.co/KbS20q7s5J",
+   "created_at": "Sun Nov 15 07:39:23 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "cindyxywu",
+   "reply_to_id": "2121700522184851956",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 44,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXJl0_yaUAE2cmM.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXJl0_yaUAE2cmM.png"
+    }
+   ],
+   "links": {
+    "https://t.co/KbS20q7s5J": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-15T14:04:21.241306+00:00",
+   "parent": {
+    "id": "2121700522184851956",
+    "author_handle": "cindyxywu",
+    "author_name": "Cindy Wu",
+    "text": "I bet against this and I bet against Dwarkesh.\n\nHe conveniently sweeps under the rug that climbing a metric involves defining it. Then, supposing you define it (in a way that avoids Goodharting, reward hacking, etc), you need data/envs, which do the lifting. On defining good metrics - this is most of the game of making AGI (converting fuzzy concepts to formalized objects you can climb without gaming, which requires costly fixes later). He elides the hard problem by saying 'AI will just automate data'.\n\nHow do you know whether a change belongs in your final recipe? You ablate at scale. When you make N changes, on even a subset of combinations, this compute cost is naively exponential. So, you need a faster signal to tell you when a task that isn't immediately verifiable improves end behavior. Finding that signal is the bottleneck, which doesn't seem to be helped by 'automating the great algorithmic thinker starting from the empty string on paper'.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/cindyxywu/status/2121700522184851956",
+    "created_at": "Sat Nov 14 20:23:18 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2121742413828182212": {
+   "id": "2121742413828182212",
+   "url": "https://x.com/dwarkesh_sp/status/2121742413828182212",
+   "text": "Excellent essay. The appendix especially helped me grok, better than anything I’ve read, why AI R&D may actually be a verifiable task.\n\nOne analogy that came to mind as I was reading: \n\nThe usual arguments for why AI will be slow to cure diseases are about feedback loops. You need exposure to the real world, wet labs, slow, expensive clinical trials, etc., to know whether your hypothesis is correct.\n\nNow imagine we had a full in silico model of the human body. Granular biomarkers on everything. Digital trials across millions of virtual patients, run 1000x faster than real time.\n\nAlmost all biologists would expect a mind-boggling speedup in medical discovery from this.\n\nAI R&D ~already looks like that world. Dwarkesh’s appendix is basically a list of biomarkers: \n- Pretraining → loss on held-out text\n- Post-training → how quickly a model masters an environment it’s never seen\n- Inference → GPU utilization, memory per token, latency\n- Research taste → does a trick that works at 100M parameters still work at 10B?\n\nAs Dwarkesh puts it: “We can make models much better at things that can be tested inside a datacenter. And AI training is literally happening inside a datacenter.”",
+   "created_at": "Sat Nov 14 23:09:46 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "calebwatney",
+   "rt_author_name": "Caleb Watney",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2115512217277771776/aGaLkTiQ_normal.jpg",
+   "rt_id": "2121730959967994025",
+   "likes": 108,
+   "retweets": 12,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-15T14:04:21.241306+00:00",
+   "enriched": 3
+  },
+  "2121732407967564089": {
+   "id": "2121732407967564089",
+   "url": "https://x.com/dwarkesh_sp/status/2121732407967564089",
+   "text": "Once AI is as good as the best humans at AI research, algorithmic progress will get dramatically faster. There are three important reasons why: The automated researchers will be much faster, each of them will be very smart, and there’ll be a lot more of them. https://t.co/krfyUTUpwt",
+   "created_at": "Sat Nov 14 22:30:00 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 196,
+   "retweets": 13,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2121655231352299520/img/ubTCePdt-lAz9ZrW.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2121655231352299520/img/ubTCePdt-lAz9ZrW.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/krfyUTUpwt": ""
+   },
+   "quoted": {
+    "id": "2121311524409225611",
+    "author_name": "Dwarkesh Patel",
+    "links": {
+     "https://t.co/z5RsJgcWWc": "https://www.dwarkesh.com/p/rsi",
+     "https://t.co/Ud6MDxiADh": ""
+    },
+    "author": "dwarkesh_sp",
+    "text": "The avalanche that hit math is coming for AI development.\n\nhttps://t.co/z5RsJgcWWc https://t.co/Ud6MDxiADh"
+   },
+   "fetched_at": "2026-11-15T14:04:21.241306+00:00",
+   "enriched": 3
+  },
+  "2121706010352161246": {
+   "id": "2121706010352161246",
+   "url": "https://x.com/dwarkesh_sp/status/2121706010352161246",
+   "text": "@_arohan_ My claim is not that it's currently better than human AI researchers at finding a better optimization algorithm (if it was, the intelligence explosion would have already started!)\n\nRather, that there are good reasons to think we'll have such AIs within the next few years.\n\nIf you pointed out earlier last year that the AIs can beat and get gold in the International Math Olympiad haven't solved any important open math problems, you would be correct!\n\nI'm arguing that, just as the progress in math (from acing high school math competitions to solving the Millennium Prize problems) was really fast, the progress in AI development (from doing a lot of schlep for researchers to coming up with a better optimization algorithm) might be really fast.",
+   "created_at": "Sat Nov 14 20:45:06 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "_arohan_",
+   "reply_to_id": "2121699028408963580",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 51,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-15T14:04:21.241306+00:00",
+   "parent": {
+    "id": "2121699028408963580",
+    "author_handle": "_arohan_",
+    "author_name": "rohan anil",
+    "text": "@dwarkesh_sp I am yet to see it come up with a better optimization algorithm for say a frontier model, do you see signs where it can beat current SOTA, prime intellect results showed it was very much stuck in a local minima.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/_arohan_/status/2121699028408963580",
+    "created_at": "Sat Nov 14 20:17:22 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2121704843509444867": {
+   "id": "2121704843509444867",
+   "url": "https://x.com/dwarkesh_sp/status/2121704843509444867",
+   "text": "@amasad I claim that it is mostly the general learning algorithm getting better. \n\nOne piece of evidence is that reasoning models trained on RL environments have only been around for less than two years, whereas GPT-3 was released six years ago. \n\nSo the domain-specific RL environment stuff can't explain those earlier 4 years of progress",
+   "created_at": "Sat Nov 14 20:40:28 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "amasad",
+   "reply_to_id": "2121700963702673506",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 37,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-15T14:04:21.241306+00:00",
+   "parent": {
+    "id": "2121700963702673506",
+    "author_handle": "amasad",
+    "author_name": "Amjad Masad",
+    "text": "@dwarkesh_sp How much of the GPT-3 to 6 improvements are due to better (general) learning algorithms vs. domain-specific data and RL environments? I'm sure it's part of it, but it's not immediately clear that it's the majority, given the magnitude of investment in the latter.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/amasad/status/2121700963702673506",
+    "created_at": "Sat Nov 14 20:25:03 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2121696412773781549": {
+   "id": "2121696412773781549",
+   "url": "https://x.com/dwarkesh_sp/status/2121696412773781549",
+   "text": "Maybe to summarize the basic argument of this essay a different way:\n\nCurrent AIs are spiky and jagged - worse than humans in most domain, but often as good, or better, in ones with verifiable proxies (for example, math).\n\nOne such verifiable domain (I argue) is AI research.\n\nAnd while the first AIs that dramatically accelerate AI progress will be quite narrow (i.e. probably not able to automate most jobs), the consequences of that accelerated progress will be very general. \n\nAnd that's because better learning algorithms are very general. For example, GPT-6 (while still being jagged) is just way, way better than GPT-3 at practically everything. \n\nI'm arguing that we're only a couple years away (and possibly only a couple months away) from a process by which (initially) narrow AIs concentrate a jump as big as the one from GPT-3 to GPT-6 into a single year.\n\nAnd if you got another jump that big, but starting from the base of GPT-7, I think you would end up with AIs that would rapidly become better than the best humans in every field.",
+   "created_at": "Sat Nov 14 20:06:58 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1052,
+   "retweets": 63,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2121311524409225611",
+    "author_name": "Dwarkesh Patel",
+    "links": {
+     "https://t.co/z5RsJgcWWc": "https://www.dwarkesh.com/p/rsi",
+     "https://t.co/Ud6MDxiADh": ""
+    },
+    "author": "dwarkesh_sp",
+    "text": "The avalanche that hit math is coming for AI development.\n\nhttps://t.co/z5RsJgcWWc https://t.co/Ud6MDxiADh"
+   },
+   "fetched_at": "2026-11-15T14:04:21.241306+00:00",
+   "enriched": 3
   }
  }
 }

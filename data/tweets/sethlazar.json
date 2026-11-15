@@ -8354,6 +8354,36 @@
    "quoted": null,
    "fetched_at": "2026-11-13T18:31:06.317605+00:00",
    "enriched": 3
+  },
+  "2121837754887860243": {
+   "id": "2121837754887860243",
+   "url": "https://x.com/sethlazar/status/2121837754887860243",
+   "text": "The connection between state capacity and AI safety is indeed tight. Glad to be working at their intersection at @JHUBloombergCtr with some of the best people in both state capacity, and AI safety/governance. Now to actually make a dent in this...",
+   "created_at": "Sun Nov 15 05:28:37 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2121724872196039101",
+    "author_name": "Chris Painter",
+    "links": {},
+    "author": "ChrisPainterYup",
+    "text": "There is a large amount of talent inside of AI companies and other private organizations that would be willing to take big pay cuts to work in government, if government decided that it wanted to make public AI safety institutions that were credibly empowered."
+   },
+   "fetched_at": "2026-11-15T14:04:21.241306+00:00",
+   "enriched": 3
   }
  }
 }
