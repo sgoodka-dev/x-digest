@@ -4695,6 +4695,51 @@
    },
    "fetched_at": "2026-11-15T14:04:21.241306+00:00",
    "enriched": 3
+  },
+  "2122020791617556522": {
+   "id": "2122020791617556522",
+   "url": "https://x.com/dwarkesh_sp/status/2122020791617556522",
+   "text": "@zetalyrae haha loved this line: \"It sounds like the propaganda of a state that is losing a war: the tales of heroic victory get closer and closer to the capital each time.\"",
+   "created_at": "Sun Nov 15 17:35:56 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "zetalyrae",
+   "reply_to_id": "2121835623485206713",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 13,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-15T17:42:40.284820+00:00",
+   "parent": {
+    "id": "2121835623485206713",
+    "author_handle": "zetalyrae",
+    "author_name": "Fernando Borretti",
+    "text": "I wrote a short post about what “taking AI seriously” means to me: https://t.co/rUauqnEtPc",
+    "links": {
+     "https://t.co/rUauqnEtPc": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXJGOhraAAAUIJd.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXJGOhraAAAUIJd.jpg"
+     }
+    ],
+    "url": "https://x.com/zetalyrae/status/2121835623485206713",
+    "created_at": "Sun Nov 15 05:20:09 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

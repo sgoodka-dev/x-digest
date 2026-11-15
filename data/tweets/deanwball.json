@@ -13279,6 +13279,30 @@
    "quoted": null,
    "fetched_at": "2026-11-15T14:04:21.241306+00:00",
    "enriched": 3
+  },
+  "2122003487558918393": {
+   "id": "2122003487558918393",
+   "url": "https://x.com/deanwball/status/2122003487558918393",
+   "text": "even today’s best AI systems, when asked to talk about frontier AI governance and institutions, still have a tendency to mode collapse into 2020-era “consequential decisions” discourse.",
+   "created_at": "Sun Nov 15 16:27:11 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 21,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-15T17:42:40.284820+00:00",
+   "enriched": 3
   }
  }
 }
