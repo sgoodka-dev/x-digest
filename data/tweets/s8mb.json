@@ -13143,6 +13143,30 @@
     "created_at": "Sun Nov 15 14:40:51 +0000 2026"
    },
    "enriched": 3
+  },
+  "2122037406040002925": {
+   "id": "2122037406040002925",
+   "url": "https://x.com/s8mb/status/2122037406040002925",
+   "text": "",
+   "created_at": "Sun Nov 15 18:41:57 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-15T20:23:54.093496+00:00",
+   "enriched": 3
   }
  }
 }

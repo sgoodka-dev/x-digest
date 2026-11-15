@@ -4740,6 +4740,51 @@
     "created_at": "Sun Nov 15 05:20:09 +0000 2026"
    },
    "enriched": 3
+  },
+  "2122056651297759687": {
+   "id": "2122056651297759687",
+   "url": "https://x.com/dwarkesh_sp/status/2122056651297759687",
+   "text": "@Andr3jH 😂",
+   "created_at": "Sun Nov 15 19:58:26 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "Andr3jH",
+   "reply_to_id": "2121584509774643407",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 26,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-15T20:23:54.093496+00:00",
+   "parent": {
+    "id": "2121584509774643407",
+    "author_handle": "Andr3jH",
+    "author_name": "ᐱ ᑎ ᑐ ᒋ ᕮ ᒍ",
+    "text": "\"The Dwarkesh Podcast was once called the Lunar Society\"\n\n\"Sure, grandma. Let's get you to bed\" https://t.co/8SO2h5qSqK",
+    "links": {
+     "https://t.co/8SO2h5qSqK": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXFh3UGXsAAQ2Jc.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXFh3UGXsAAQ2Jc.jpg"
+     }
+    ],
+    "url": "https://x.com/Andr3jH/status/2121584509774643407",
+    "created_at": "Sat Nov 14 12:42:18 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

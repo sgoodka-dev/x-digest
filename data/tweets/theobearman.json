@@ -10759,6 +10759,73 @@
    },
    "fetched_at": "2026-11-14T13:38:58.849857+00:00",
    "enriched": 3
+  },
+  "2122057019498832100": {
+   "id": "2122057019498832100",
+   "url": "https://x.com/theobearman/status/2122057019498832100",
+   "text": "Throughout the time they have been at sea, no one has done more for the defence of the United Kingdom and our allies than the crew of HMS Vengeance.\n\nThe privilege of welcoming them home, and spending some time with their families, was a humbling and awe-inspiring experience - one that will stay with me for the rest of my life.\n\nThey can be so proud of their service to our country. The same is true for their families, who sacrifice so much to support them. We do not take this for granted. \n\nThe UK's nuclear deterrent is the ultimate National Endeavour and the cornerstone of our national security. Every minute of every day, it deters our adversaries and keeps our country safe.\n\nWe commit our nuclear deterrent to NATO and that commitment to our allies is unshakeable. \n\nWe've committed £63.6 billion over the next four years to the Defence Nuclear Enterprise, creating and sustaining good, high-skilled jobs and protecting the whole of the UK for decades to come.\n\nThe Vanguard class continues to serve our country well - for longer than was intended - and Dreadnought is on its way.\n\nBZ Vengeance. Heroes all.",
+   "created_at": "Sun Nov 15 19:59:54 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "wesstreeting",
+   "rt_author_name": "Wes Streeting",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2079946597123682304/IIE4eicN_normal.jpg",
+   "rt_id": "2122021714855170174",
+   "likes": 543,
+   "retweets": 54,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXLvd6xW8AAAj6h.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXLvd4MWIAAhQpA.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXLvd7iXYAAPof_.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXLvd27XQAAEaDj.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/bPf52EakXo": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-15T20:23:54.093496+00:00",
+   "enriched": 3
+  },
+  "2122044203119308866": {
+   "id": "2122044203119308866",
+   "url": "https://x.com/theobearman/status/2122044203119308866",
+   "text": "JENSEN HUANG IS DISCUSSING A COMEBACK AS NVIDIA CEO WITH ALLIES, WITH A “WAR ROOM” OF SILICON VALLEY EXECUTIVES BEING PUT TOGETHER - FT",
+   "created_at": "Sun Nov 15 19:08:58 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "FirstSquawk",
+   "rt_author_name": "First Squawk",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0_normal.jpg",
+   "rt_id": "2122043952304177271",
+   "likes": 1709,
+   "retweets": 155,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-15T20:23:54.093496+00:00",
+   "enriched": 3
   }
  }
 }

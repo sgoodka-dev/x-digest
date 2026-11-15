@@ -13303,6 +13303,30 @@
    "quoted": null,
    "fetched_at": "2026-11-15T17:42:40.284820+00:00",
    "enriched": 3
+  },
+  "2122026981218750819": {
+   "id": "2122026981218750819",
+   "url": "https://x.com/deanwball/status/2122026981218750819",
+   "text": "DC City Council is like \"that's still a Waymo crash by the way. We count those\"",
+   "created_at": "Sun Nov 15 18:00:32 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "aarmlovi",
+   "rt_author_name": "Alex Armlovich",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1998461896505126913/eiTOn4JV_normal.jpg",
+   "rt_id": "2121992265816023356",
+   "likes": 204,
+   "retweets": 7,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-15T20:23:54.093496+00:00",
+   "enriched": 3
   }
  }
 }
