@@ -3691,6 +3691,128 @@
    "quoted": null,
    "fetched_at": "2026-11-14T13:38:58.849857+00:00",
    "enriched": 3
+  },
+  "2122376164610376184": {
+   "id": "2122376164610376184",
+   "url": "https://x.com/_achan96_/status/2122376164610376184",
+   "text": "We’re working with @ApolloResearch, @METR_Evals, @TransluceAI, and @GoodfireAI on embedded assessments: giving outside experts deep access to our internal models and systems to investigate alignment and test our safeguards.\n\nThese assessments build on our ongoing alignment and safety research, bringing independent scrutiny to how we identify and manage risks in our systems.\n\nhttps://t.co/SNAAG0uHmp",
+   "created_at": "Mon Nov 16 17:08:04 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "OpenAI",
+   "rt_author_name": "OpenAI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+   "rt_id": "2122359930628063248",
+   "likes": 2502,
+   "retweets": 248,
+   "media": [],
+   "links": {
+    "https://t.co/SNAAG0uHmp": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
+  },
+  "2122376113511145647": {
+   "id": "2122376113511145647",
+   "url": "https://x.com/_achan96_/status/2122376113511145647",
+   "text": "We're launching a pilot towards embedded evaluations with @OpenAI.\n\nSix evaluators from Apollo Research will work within OpenAI for four months, investigating whether models attempt to undermine their own oversight and control. https://t.co/kx04dmYjNf",
+   "created_at": "Mon Nov 16 17:07:51 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ApolloResearch",
+   "rt_author_name": "Apollo Research",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1663548513148633088/VbohMMpy_normal.jpg",
+   "rt_id": "2122359108066304415",
+   "likes": 291,
+   "retweets": 35,
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://pbs.twimg.com/tweet_video_thumb/HXQe2y4XkAEqjGc.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/kx04dmYjNf": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
+  },
+  "2122360142012231726": {
+   "id": "2122360142012231726",
+   "url": "https://x.com/_achan96_/status/2122360142012231726",
+   "text": "Apply for GovAI's 2027 DC Summer Fellowship!\n\n📍 Location: Washington, DC\n\n📅 Deadline: Sunday, November 22nd, 2026 at 11:59 pm ET\n\nThe DC Summer Fellowship is a three-month bipartisan opportunity designed to accelerate or launch impactful careers in American AI governance and policy. Participants deepen their understanding of the field, connect with a network of experts, and build their skills and professional profile, all while conducting a research project of their choice under expert guidance.\n\n🔗 Learn more: https://t.co/HVhrNHMTk0",
+   "created_at": "Mon Nov 16 16:04:24 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "GovAIOrg",
+   "rt_author_name": "GovAI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2112589788473667584/7j4gEeUx_normal.jpg",
+   "rt_id": "2120923557144215939",
+   "likes": 21,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HW8IgRsW4AAwcLZ.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/HVhrNHMTk0": "https://www.governance.ai/post/dc-summer-fellowship-2027",
+    "https://t.co/wzGPQf6vVI": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
+  },
+  "2122360107136585882": {
+   "id": "2122360107136585882",
+   "url": "https://x.com/_achan96_/status/2122360107136585882",
+   "text": "Apply for GovAI's 2027 Summer Fellowship, Research and Applied tracks!\n\n📍 Location: London, UK\n\n📅 Deadline: 23:59 GMT Sunday, 22 November 2026\n\nFellows will join us in London to conduct a project on a topic of their choice, participate in an expert Q&A and seminar series aimed at developing a broad understanding of the field, and spend time forging connections with researchers and practitioners. Learn more below.\n\n🔗 Learn more about the Research Track: https://t.co/ByViwtygR6\n\n🔗 Learn more about the Applied Track: https://t.co/2KBsNDngi0",
+   "created_at": "Mon Nov 16 16:04:15 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "GovAIOrg",
+   "rt_author_name": "GovAI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2112589788473667584/7j4gEeUx_normal.jpg",
+   "rt_id": "2116182171736031530",
+   "likes": 547,
+   "retweets": 148,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HV4wOMQW4AAx8rz.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/ByViwtygR6": "https://www.governance.ai/post/uk-summer-fellowship-2027-research-track",
+    "https://t.co/2KBsNDngi0": "https://www.governance.ai/post/uk-summer-fellowship-2027-applied-track",
+    "https://t.co/2P9yD4TNx4": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
   }
  }
 }

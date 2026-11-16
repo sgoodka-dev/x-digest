@@ -4878,6 +4878,71 @@
    "quoted": null,
    "fetched_at": "2026-11-16T16:00:31.625271+00:00",
    "enriched": 3
+  },
+  "2122417352151285914": {
+   "id": "2122417352151285914",
+   "url": "https://x.com/dwarkesh_sp/status/2122417352151285914",
+   "text": "@juliarturc @paulfchristiano There's one coming soon with a skeptic of the software only singularity!",
+   "created_at": "Mon Nov 16 19:51:44 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "juliarturc",
+   "reply_to_id": "2122396707745054858",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 24,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "parent": {
+    "id": "2122396707745054858",
+    "author_handle": "juliarturc",
+    "author_name": "Julia Turc",
+    "text": "@dwarkesh_sp @paulfchristiano Dwarkesh, you are SO GOOD at what you're doing. Why don't you use that talent to paint a well-rounded picture? Why not have a single episode on this topic with someone not from Ant/OAI?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/juliarturc/status/2122396707745054858",
+    "created_at": "Mon Nov 16 18:29:42 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2122391850854088858": {
+   "id": "2122391850854088858",
+   "url": "https://x.com/dwarkesh_sp/status/2122391850854088858",
+   "text": ".@paulfchristiano thinks that on the current trajectory (absent any slowing down), there is a 1 in 3 chance that we could have superintelligence powerful enough to overthrow the government within a year. (He articulates a concrete scenario).\n\nHe argues that the labs should pause further algorithmic progress until they can secure their weights and research secrets. Otherwise China could simply steal the superintelligence in the middle of the intelligence explosion, and the labs would no longer be able to slow down even if they saw their models going off the rails.\n\nHe also explains how AIs will be trained during the intelligence explosion, and why even a system trained entirely inside a data center could still have the capabilities profile such that humans would have very little chance of competing with it or controlling it.\n\nAnd he discusses the plan for alignment - basically, making a superintelligence that actually does what we ask the way we mean it. Fixing reward hacks and building better graders will help up till the next few model generations, but he thinks that no single current approach has better than even odds of letting us control superintelligence. The hope is that the AIs figure out the solution to this problem during the intelligence explosion.\n\nPaul is head of the Alignment Research Center. Previously, he was head of AI safety at the US AI Safety Institute. Before that, he led alignment at OpenAI, where he invented RLHF. He’s recently joined OpenAI’s board (though here he is speaking as a private citizen).",
+   "created_at": "Mon Nov 16 18:10:24 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 500,
+   "retweets": 61,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HXRBMW4XAAEib3d.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/dpdSrR5oTH": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
   }
  }
 }

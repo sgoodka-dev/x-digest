@@ -13484,6 +13484,30 @@
     "created_at": "Mon Nov 16 00:16:33 +0000 2026"
    },
    "enriched": 3
+  },
+  "2122376742404837777": {
+   "id": "2122376742404837777",
+   "url": "https://x.com/deanwball/status/2122376742404837777",
+   "text": "We have reached an agreement with OpenAI to conduct a limited alignment assessment. This pilot will focus on investigating the alignment properties of OpenAI's largest RL run.\n\nWe will publish one or more reports to share our findings and transparently describe our process.",
+   "created_at": "Mon Nov 16 17:10:21 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "METR_Evals",
+   "rt_author_name": "METR",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2021827383431757824/AeVvT0rU_normal.jpg",
+   "rt_id": "2122361049114657203",
+   "likes": 1540,
+   "retweets": 86,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
   }
  }
 }

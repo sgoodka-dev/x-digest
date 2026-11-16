@@ -2663,6 +2663,113 @@
    "quoted": null,
    "fetched_at": "2026-11-14T13:38:58.849857+00:00",
    "enriched": 3
+  },
+  "2122387884271714390": {
+   "id": "2122387884271714390",
+   "url": "https://x.com/nabeelqu/status/2122387884271714390",
+   "text": "Will rapid AI capability improvements translate into runaway economic growth?\n\nEconomists Alex Imas and Tyler Cowen are skeptical. In this conversation with a16z's Erik Torenberg, they cover:\n\n- Why smarter models can't automatically overcome economic bottlenecks\n- Why slow-moving institutions can limit AI's impact on the economy\n- How competition between AI labs is making powerful models cheaper to use\n- Why AI's benefits to consumers could be much larger than GDP captures\n- Why scientific advances and longer lifespans could be among AI's biggest benefits\n\n00:00 Intro\n00:58 Is AI progress speeding up?\n04:44 Why Tyler is a sober voice\n10:49 Could AI deliver double-digit economic growth?\n19:02 Is GDP the right way to measure AI's impact?\n23:51 What the Hugging Face hack teaches us\n29:53 Why agents struggle to coordinate\n33:45 What AI means for jobs and wages\n39:29 Elections, data centers and AI politics\n43:23 How Alex and Tyler got here\n50:00 Rapid fire: AI predictions and higher ed\n\nYouTube: https://t.co/O90OkvL9v6\n\n@alexolegimas @tylercowen @eriktorenberg",
+   "created_at": "Mon Nov 16 17:54:38 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1857140980421668864/0prdKK32_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "a16z",
+   "rt_author_name": "a16z",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+   "rt_id": "2122380098464780362",
+   "likes": 96,
+   "retweets": 11,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2122374367984431104/img/kTqc1fnUAE7uAllF.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/O90OkvL9v6": "http://youtu.be/g_67TmQ8lGY",
+    "https://t.co/Z4fBhP0oDn": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
+  },
+  "2122385846594670676": {
+   "id": "2122385846594670676",
+   "url": "https://x.com/nabeelqu/status/2122385846594670676",
+   "text": "@JakeOrthwein Of course, you could argue that the only reason he wants to prove moral realism is bc of the compassionate ground, which is the first order thing. But I don't think he'd see it that way. Either the 'ground' comes first (~religious worldview) or you're stuck with reason.",
+   "created_at": "Mon Nov 16 17:46:32 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": true,
+   "reply_to": "nabeelqu",
+   "reply_to_id": "2122385492432105555",
+   "avatar": "https://pbs.twimg.com/profile_images/1857140980421668864/0prdKK32_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "parent": {
+    "id": "2122385492432105555",
+    "author_handle": "nabeelqu",
+    "author_name": "Nabeel S. Qureshi",
+    "text": "@JakeOrthwein I don't know if I agree with this. Parfit's secular philosophical worldview puts reason first above all else, so the 'compassionate ground' becomes just one more input to that; thus, he has to prove moral realism using reason, or else (by his worldview) it's invalid!",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/nabeelqu/status/2122385492432105555",
+    "created_at": "Mon Nov 16 17:45:08 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2122385492432105555": {
+   "id": "2122385492432105555",
+   "url": "https://x.com/nabeelqu/status/2122385492432105555",
+   "text": "@JakeOrthwein I don't know if I agree with this. Parfit's secular philosophical worldview puts reason first above all else, so the 'compassionate ground' becomes just one more input to that; thus, he has to prove moral realism using reason, or else (by his worldview) it's invalid!",
+   "created_at": "Mon Nov 16 17:45:08 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": true,
+   "reply_to": "JakeOrthwein",
+   "reply_to_id": "2122363931461083452",
+   "avatar": "https://pbs.twimg.com/profile_images/1857140980421668864/0prdKK32_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "parent": {
+    "id": "2122363931461083452",
+    "author_handle": "JakeOrthwein",
+    "author_name": "Jake Orthwein",
+    "text": "The care/compassion that made Parfit fear moral nihilism was not itself a consequence of his moral realism.\n\nRather, it emanated from the same intrinsically compassionate awareness that he himself intimated in Reasons and Persons:",
+    "links": {
+     "https://t.co/KBPVpzE1Cm": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXQkPvYXIAAVraj.jpg"
+     }
+    ],
+    "url": "https://x.com/JakeOrthwein/status/2122363931461083452",
+    "created_at": "Mon Nov 16 16:19:27 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

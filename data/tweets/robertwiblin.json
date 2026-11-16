@@ -11255,6 +11255,282 @@
    "quoted": null,
    "fetched_at": "2026-11-16T16:00:31.625271+00:00",
    "enriched": 3
+  },
+  "2122393033744203877": {
+   "id": "2122393033744203877",
+   "url": "https://x.com/robertwiblin/status/2122393033744203877",
+   "text": "The generally wise @KatjaGrace on public advocacy (supporting arguments in linked post):\n\n\"1. It’s way, way, way more important that we stop dangerous AI soon than that we ensure that we don’t stop AI too much\n\n2. If we stopped AI development, the risk of not starting up again for an extremely long time is low\n\n3. Getting the public involved is not very dangerous\n\n4. Public comms is not that rife with downside risks\n\n5. Pausing advanced AI soon greatly increases our chances of surviving\n\n6. We don’t need a plan before we pause\n\n7. Raising the alarm is very important at the moment\n\n8. Working on marginally improving safety of models at the AI companies is not remotely competitive with raising the alarm at the moment\n\n9. Doing advocacy doesn’t seem to have adverse effects on people doing it\n\nAnd one where I feel like I haven’t heard so much disagreement lately:\n\n10. It matters what the public think / political will is growable\"\n\nhttps://t.co/UF0QTbT8xZ",
+   "created_at": "Mon Nov 16 18:15:06 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 115,
+   "retweets": 7,
+   "media": [],
+   "links": {
+    "https://t.co/UF0QTbT8xZ": "https://www.lesswrong.com/posts/dQJ3ArHMLxqu8rptt/live-disagreements-with-people-around-me"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
+  },
+  "2122387498483732789": {
+   "id": "2122387498483732789",
+   "url": "https://x.com/robertwiblin/status/2122387498483732789",
+   "text": "This is good.\n\nI hope they follow through in spirit, give them broad access, and don't try to limit what they say.\n\nWe should keep watching closely to ensure there's follow-through.",
+   "created_at": "Mon Nov 16 17:53:06 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 72,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2122359930628063248",
+    "author_name": "OpenAI",
+    "links": {
+     "https://t.co/SNAAG0uHmp": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
+    },
+    "author": "OpenAI",
+    "text": "We’re working with @ApolloResearch, @METR_Evals, @TransluceAI, and @GoodfireAI on embedded assessments: giving outside experts deep access to our internal models and systems to investigate alignment and test our safeguards.\n\nThese assessments build on our ongoing alignment and safety research, bringing independent scrutiny to how we identify and manage risks in our systems.\n\nhttps://t.co/SNAAG0uHmp"
+   },
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
+  },
+  "2122385785336857041": {
+   "id": "2122385785336857041",
+   "url": "https://x.com/robertwiblin/status/2122385785336857041",
+   "text": "What This OpenAI Insider Saw That Made Him Quit | The Ezra Klein Show\n\nhttps://t.co/dh5hkzgfmE",
+   "created_at": "Mon Nov 16 17:46:17 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2122385142014460319",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 5,
+   "retweets": 1,
+   "media": [],
+   "links": {
+    "https://t.co/dh5hkzgfmE": "https://www.youtube.com/watch?v=JIMXEuT_ZAU"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "parent": {
+    "id": "2122385142014460319",
+    "author_handle": "robertwiblin",
+    "author_name": "Rob Wiblin",
+    "text": "David Robinson, ex-OpenAI, on what it's like inside an AI company:\n\n\"It's frenetic... people are running on fumes.\"\n\nThis is no way to do RSI or develop superintelligence.\n\nAt absolute minimum we must pace the frontier so these people can do their jobs properly and carefully. https://t.co/QRS5s3hC6R",
+    "links": {
+     "https://t.co/QRS5s3hC6R": ""
+    },
+    "media": [
+     {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2122383706522300416/img/phIw7o6hRrZZoe4R.jpg"
+     },
+     {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2122383706522300416/img/phIw7o6hRrZZoe4R.jpg"
+     }
+    ],
+    "url": "https://x.com/robertwiblin/status/2122385142014460319",
+    "created_at": "Mon Nov 16 17:43:44 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2122385142014460319": {
+   "id": "2122385142014460319",
+   "url": "https://x.com/robertwiblin/status/2122385142014460319",
+   "text": "David Robinson, ex-OpenAI, on what it's like inside an AI company:\n\n\"It's frenetic... people are running on fumes.\"\n\nThis is no way to do RSI or develop superintelligence.\n\nAt absolute minimum we must pace the frontier so these people can do their jobs properly and carefully. https://t.co/QRS5s3hC6R",
+   "created_at": "Mon Nov 16 17:43:44 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 144,
+   "retweets": 11,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2122383706522300416/img/phIw7o6hRrZZoe4R.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2122383706522300416/img/phIw7o6hRrZZoe4R.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/QRS5s3hC6R": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "thread": [
+    {
+     "id": "2122385785336857041",
+     "author_handle": "robertwiblin",
+     "author_name": "Rob Wiblin",
+     "text": "What This OpenAI Insider Saw That Made Him Quit | The Ezra Klein Show\n\nhttps://t.co/dh5hkzgfmE",
+     "links": {
+      "https://t.co/dh5hkzgfmE": "https://www.youtube.com/watch?v=JIMXEuT_ZAU"
+     },
+     "media": [],
+     "url": "https://x.com/robertwiblin/status/2122385785336857041",
+     "created_at": "Mon Nov 16 17:46:17 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2122383523776712802": {
+   "id": "2122383523776712802",
+   "url": "https://x.com/robertwiblin/status/2122383523776712802",
+   "text": "I'll be at this Pause AI rally this Saturday in London.\n\nMost good futures now run through pacing the frontier and throttling RSI.\n\nIf we don't, the labs will be so rushed they'll likely screw things up catastrophically.\n\nWe need a full court press on this message.\n\nCarthage delenda est – and also, we must pace the frontier of AI progress.",
+   "created_at": "Mon Nov 16 17:37:18 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 123,
+   "retweets": 7,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2120932134902694032",
+    "author_name": "PauseAI UK",
+    "links": {
+     "https://t.co/ood0JDfd9x": ""
+    },
+    "author": "PauseAI_UK",
+    "text": "We are organising the largest AI safety march in history, and it’s happening right here in London.\n\nWe want you to be there. https://t.co/ood0JDfd9x"
+   },
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
+  },
+  "2122372045350535436": {
+   "id": "2122372045350535436",
+   "url": "https://x.com/robertwiblin/status/2122372045350535436",
+   "text": "They have posted something on this it turns out. Pity it didn't get more attention last week:\n\nhttps://t.co/dXjtuewiSe\n\nUnfortunately doing a quick read with Claude's help it doesn't seem to resolve how much impact the looped transformers or other architectural changes had in the scheme of things.\n\nOnly suggestive evidence that they're not key, but I don't think we can take indirect evidence on trust here.",
+   "created_at": "Mon Nov 16 16:51:42 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2122321687194779716",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXQuFWAWQAAjqVI.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXQuGVPWQAAfVn4.png"
+    }
+   ],
+   "links": {
+    "https://t.co/dXjtuewiSe": "https://alignment.openai.com/cot-monitorability-model-lifecycle/",
+    "https://t.co/2gOAYqFmHP": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "parent": {
+    "id": "2122321687194779716",
+    "author_handle": "robertwiblin",
+    "author_name": "Rob Wiblin",
+    "text": "OpenAI said in early Sep they'd release research showing looped transformers weren't a significant driver of Astra becoming less monitorable.\n\nThey haven't published anything yet AFAIK.\n\nAnd this study suggests looped transformers do have a big effect (as expected).",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/robertwiblin/status/2122321687194779716",
+    "created_at": "Mon Nov 16 13:31:35 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2122361585880777067": {
+   "id": "2122361585880777067",
+   "url": "https://x.com/robertwiblin/status/2122361585880777067",
+   "text": "The US has 9x as much compute as China.\n\nSo it doesn't have to panic and make stupid mistakes.\n\nIt has time to secure model weights against theft by China.\n\nAnd to prevent AI catastrophes so bad the public backlash really does cause it to lose long-term.\n\nhttps://t.co/qSgnAMtQ3l https://t.co/QMFJ1miExu",
+   "created_at": "Mon Nov 16 16:10:08 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 86,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXQjkQRWgAAeMCI.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXQka7VXgAEPiI0.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXQjkQRWgAAeMCI.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXQka7VXgAEPiI0.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/qSgnAMtQ3l": "https://www.forethought.org/research/can-us-afford-to-pace-frontier",
+    "https://t.co/QMFJ1miExu": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
   }
  }
 }

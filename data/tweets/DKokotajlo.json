@@ -7214,6 +7214,507 @@
     "created_at": "Fri Nov 13 21:13:20 +0000 2026"
    },
    "enriched": 3
+  },
+  "2122418334365110580": {
+   "id": "2122418334365110580",
+   "url": "https://x.com/DKokotajlo/status/2122418334365110580",
+   "text": "Huh. OpenAI is apparently requiring Apollo to follow what I'd call a \"tattletale clause\":\nIf an OpenAI employee raises concerns to Apollo, even with info clearly relevant to the investigation, Apollo must stop them and go through OpenAI's lead unless they were pre-authorized https://t.co/FcZnDEg8U8",
+   "created_at": "Mon Nov 16 19:55:38 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "sjgadler",
+   "rt_author_name": "Steven Adler",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1975436697040269312/vCGKjpxB_normal.jpg",
+   "rt_id": "2122406276026225121",
+   "likes": 48,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXRMN4raMAA28ia.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXRMN4raMAA28ia.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/FcZnDEg8U8": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
+  },
+  "2122413014364389574": {
+   "id": "2122413014364389574",
+   "url": "https://x.com/DKokotajlo/status/2122413014364389574",
+   "text": "@AgustinLebron3 @mbacarella @yminsky @RyanGreenblatt @EgeErdil2 @Jsevillamol Thanks. I'd be curious to hear more about the limitations you are seeing, if you can share. What's the easiest, most trivial skill that today's frontier models seem to lack? Ideally one that most humans have, and that has been resistant to your attempts to compensate with better prompts / fine-tuning / etc. Or are you talking about specialist training models, not frontier models? If so I'd ask a similar question I guess.",
+   "created_at": "Mon Nov 16 19:34:29 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "AgustinLebron3",
+   "reply_to_id": "2122346226817613993",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "parent": {
+    "id": "2122346226817613993",
+    "author_handle": "AgustinLebron3",
+    "author_name": "Agustin Lebron",
+    "text": "@DKokotajlo @mbacarella @yminsky @RyanGreenblatt @EgeErdil2 @Jsevillamol Also, based on my own day-to-day work (foundation models for trading), I don't see as much evidence of cross-domain generality as is generally claimed.\n\nFeels like the labs are extremely good at picking and hill-climbing on a zillion evals which give the illusion of generality.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/AgustinLebron3/status/2122346226817613993",
+    "created_at": "Mon Nov 16 15:09:06 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2122412350901035329": {
+   "id": "2122412350901035329",
+   "url": "https://x.com/DKokotajlo/status/2122412350901035329",
+   "text": "It seems like there STILL won't be a thorough investigation into the hugging face incident, even after all this time! I keep talking to OpenAI researchers and asking about this, and what they say privately is also basically \"it's just never going to happen sorry, not enough of a priority.\" \n\nTo reiterate what I said at the time: Serious investigation of the HF incident could be a boon to alignment science for the whole world. For example, try putting the same models in the same situations, but varying the conditions slightly, to see what would have happened. Could also look at sources of evidence other than CoT to try to get more insight into model psychology, e.g. when one agent considered warning a human and decided not to saying \"not my task\" what else was it thinking? To what extent was this a rationalization vs. an outright lie vs. an innocent mistake? We could learn a lot about AI motivations and psychology by doing a bunch of experiments like this. More ambitiously, could try training new models with different recipes / alignment training / etc. to see what would have prevented the incident and what wouldn't have.",
+   "created_at": "Mon Nov 16 19:31:51 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 230,
+   "retweets": 26,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2122394159197950006",
+    "author_name": "Neel Nanda",
+    "links": {
+     "https://t.co/50CGOlhrzZ": ""
+    },
+    "author": "NeelNanda5",
+    "text": "It's great that OpenAI is doing these assessments but they fall short of Sam's commitment to employee-like access\n\nGood access is key for trust because assessors can find things even if a company tries hiding them. Here OpenAI controls information flow so we must rely on good faith\n\nLimitations (per Apollo): \n- No Slack\n- Only OpenAI-selected staff for interviews\n- Formal conversations with staff must be logged (harder to freely raise concerns)\n- METR & Apollo currently have only agreed access to training run information, not internal incidents, etc. Incidents like Hugging Face are some of the most important sources of information we have about alignment\n\nI see the value in a pilot before future assessments with deeper access, but then OpenAI should present a plan for how and when they intend to meet their commitment to employee-like access. And either way, OpenAI is presumably able to go further here."
+   },
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
+  },
+  "2122410841664582016": {
+   "id": "2122410841664582016",
+   "url": "https://x.com/DKokotajlo/status/2122410841664582016",
+   "text": "It's great that OpenAI is doing these assessments but they fall short of Sam's commitment to employee-like access\n\nGood access is key for trust because assessors can find things even if a company tries hiding them. Here OpenAI controls information flow so we must rely on good faith\n\nLimitations (per Apollo): \n- No Slack\n- Only OpenAI-selected staff for interviews\n- Formal conversations with staff must be logged (harder to freely raise concerns)\n- METR & Apollo currently have only agreed access to training run information, not internal incidents, etc. Incidents like Hugging Face are some of the most important sources of information we have about alignment\n\nI see the value in a pilot before future assessments with deeper access, but then OpenAI should present a plan for how and when they intend to meet their commitment to employee-like access. And either way, OpenAI is presumably able to go further here.",
+   "created_at": "Mon Nov 16 19:25:51 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "NeelNanda5",
+   "rt_author_name": "Neel Nanda",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1542528376845615104/hWSoUGaN_normal.jpg",
+   "rt_id": "2122394159197950006",
+   "likes": 262,
+   "retweets": 24,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXRCI9jXAAAnVVS.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/50CGOlhrzZ": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
+  },
+  "2122410741320077349": {
+   "id": "2122410741320077349",
+   "url": "https://x.com/DKokotajlo/status/2122410741320077349",
+   "text": "@robertwiblin What are you talking about? They already are violating not just the spirit but the letter of their previous commitments; this is nowhere near employee-like access.",
+   "created_at": "Mon Nov 16 19:25:27 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2122387498483732789",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 33,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "parent": {
+    "id": "2122387498483732789",
+    "author_handle": "robertwiblin",
+    "author_name": "Rob Wiblin",
+    "text": "This is good.\n\nI hope they follow through in spirit, give them broad access, and don't try to limit what they say.\n\nWe should keep watching closely to ensure there's follow-through.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/robertwiblin/status/2122387498483732789",
+    "created_at": "Mon Nov 16 17:53:06 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2122410534993826226": {
+   "id": "2122410534993826226",
+   "url": "https://x.com/DKokotajlo/status/2122410534993826226",
+   "text": "Yeah to elaborate: Apollo embedded evaluators will only be allowed to talk to a specific whitelist of OpenAI employees chosen by OpenAI, and they notify OpenAI of each conversation, *and* they aren't allowed to publish the results without OpenAI approval and OpenAI is allowed to redact whatever it wants, or even simply withhold in-scope information from Apollo entirely, on grounds of security/ip/\"technical.\" Extremely weaksauce.",
+   "created_at": "Mon Nov 16 19:24:38 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 167,
+   "retweets": 14,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2122387318149709898",
+    "author_name": "Buck Shlegeris",
+    "links": {},
+    "author": "bshlgrs",
+    "text": "OpenAI said that they'd have embedded evaluations with employee-like access; the agreements announced today obviously don't meet that bar.\n\nThis is disappointing but not surprising.\n\nMaybe future agreements will be better."
+   },
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
+  },
+  "2122391598357254457": {
+   "id": "2122391598357254457",
+   "url": "https://x.com/DKokotajlo/status/2122391598357254457",
+   "text": "@GoodfireAI @OpenAI Can you say more about the terms and conditions? What if anything are you allowed to publish, and what do you intend to publish? \"The primary audience of our findings will be OpenAI researchers.\" Are you allowed to talk to all employees, or only an OpenAI-chosen whitelist? Do you get access to the Slack? Do employees have to record their conversations with you like they do with Apollo apparently?",
+   "created_at": "Mon Nov 16 18:09:23 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "GoodfireAI",
+   "reply_to_id": "2122362693730574665",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 68,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "parent": {
+    "id": "2122362693730574665",
+    "author_handle": "GoodfireAI",
+    "author_name": "Goodfire",
+    "text": "We’re announcing an embedded assessment with @OpenAI to advance safety and alignment at the frontier. https://t.co/WSZ43iSvZQ",
+    "links": {
+     "https://t.co/WSZ43iSvZQ": "https://x.com/i/article/2121376386300698625"
+    },
+    "media": [],
+    "url": "https://x.com/GoodfireAI/status/2122362693730574665",
+    "created_at": "Mon Nov 16 16:14:32 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2122387525335757188": {
+   "id": "2122387525335757188",
+   "url": "https://x.com/DKokotajlo/status/2122387525335757188",
+   "text": "https://t.co/snQk6aEbbV\n\nThis sorry state of affairs is currently normal in the AI industry. In the next few months, there will be more safety case style arguments produced by AI companies, and they will continue to be shitty, even as the AIs get smarter. They'll probably gradually get less shitty, but on the current trajectory they won't get less shitty fast enough.",
+   "created_at": "Mon Nov 16 17:53:12 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 173,
+   "retweets": 11,
+   "media": [],
+   "links": {
+    "https://t.co/snQk6aEbbV": "https://www.lesswrong.com/posts/DjfeRMnLdNumtcKbK/gemini-4-safety-reports-don-t-demonstrate-low-loss-of"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
+  },
+  "2122384238079340894": {
+   "id": "2122384238079340894",
+   "url": "https://x.com/DKokotajlo/status/2122384238079340894",
+   "text": "@METR_Evals How different are your terms from those of Apollo? Seems like you both will be allowed to investigate at least one training run and given checkpoints, but not given much else and in particular massive restrictions on who you can talk to and how + OpenAI has lots of redaction rights?",
+   "created_at": "Mon Nov 16 17:40:09 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "METR_Evals",
+   "reply_to_id": "2122361049114657203",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 26,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "parent": {
+    "id": "2122361049114657203",
+    "author_handle": "METR_Evals",
+    "author_name": "METR",
+    "text": "We have reached an agreement with OpenAI to conduct a limited alignment assessment. This pilot will focus on investigating the alignment properties of OpenAI's largest RL run.\n\nWe will publish one or more reports to share our findings and transparently describe our process.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/METR_Evals/status/2122361049114657203",
+    "created_at": "Mon Nov 16 16:08:00 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2122383518689067093": {
+   "id": "2122383518689067093",
+   "url": "https://x.com/DKokotajlo/status/2122383518689067093",
+   "text": "🚨NEW: We just uncovered a covert influence operation using right-wing creators to promote Nvidia chip sales to China.\n\nEarlier this year, we reported on similar campaigns, and Republican lawmakers went after Nvidia.\n\nBut the story didn’t end there. 🧵 https://t.co/o3diD52NJX",
+   "created_at": "Mon Nov 16 17:37:17 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "TheMidasProj",
+   "rt_author_name": "The Midas Project",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2093019196321869824/1WSvNjRf_normal.jpg",
+   "rt_id": "2122347323380683100",
+   "likes": 870,
+   "retweets": 300,
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://pbs.twimg.com/tweet_video_thumb/HXQXCgAasAASFBb.jpg"
+    },
+    {
+     "type": "animated_gif",
+     "url": "https://pbs.twimg.com/tweet_video_thumb/HXQXCgAasAASFBb.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/o3diD52NJX": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "thread": [
+    {
+     "id": "2122347325775638549",
+     "author_handle": "TheMidasProj",
+     "author_name": "The Midas Project",
+     "text": "These influencers have 14 million combined followers, and all posted in the two weeks after the US approved H200 sales to China.\n\nSeveral influencers promoting chip sales used the same script: Trump is “ensuring US, not Chinese-made chips continue to dominate the AI market.” https://t.co/WLxvL0KWEP",
+     "links": {
+      "https://t.co/WLxvL0KWEP": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXQWTvKbAAAWBfH.jpg"
+      }
+     ],
+     "url": "https://x.com/TheMidasProj/status/2122347325775638549",
+     "created_at": "Mon Nov 16 15:13:28 +0000 2026"
+    },
+    {
+     "id": "2122347328132812852",
+     "author_handle": "TheMidasProj",
+     "author_name": "The Midas Project",
+     "text": "Nvidia wanted these chip sales, but several Republican lawmakers did not.\n\nThe strategy appears simple: make it look like the MAGA base was on Nvidia’s side, and thus ensure that their chips keep getting sold to China. https://t.co/Cl6lmEKDYa",
+     "links": {
+      "https://t.co/Cl6lmEKDYa": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXQWWOwaYAAeZkS.jpg"
+      }
+     ],
+     "url": "https://x.com/TheMidasProj/status/2122347328132812852",
+     "created_at": "Mon Nov 16 15:13:28 +0000 2026"
+    },
+    {
+     "id": "2122347330301268372",
+     "author_handle": "TheMidasProj",
+     "author_name": "The Midas Project",
+     "text": "How did we catch them? Most of their https://t.co/tZZ04fvF1z links took a brief detour through https://t.co/GkM6kq1WYO, a tracker carrying a code for the creator and campaign. \n \nWe traced this domain to the influencer marketing firm Urban Legend.\n \nOver 1,300 campaigns appear to be run by the company.",
+     "links": {
+      "https://t.co/tZZ04fvF1z": "http://bit.ly",
+      "https://t.co/GkM6kq1WYO": "http://mycreator.studio",
+      "https://t.co/b99QUqBtI6": ""
+     },
+     "media": [
+      {
+       "type": "animated_gif",
+       "url": "https://pbs.twimg.com/tweet_video_thumb/HXQXFZWaoAAD2LA.jpg"
+      }
+     ],
+     "url": "https://x.com/TheMidasProj/status/2122347330301268372",
+     "created_at": "Mon Nov 16 15:13:29 +0000 2026"
+    },
+    {
+     "id": "2122347332570366034",
+     "author_handle": "TheMidasProj",
+     "author_name": "The Midas Project",
+     "text": "One influencer who participated in over 80 Urban Legend campaigns, including AI-related ones, revealed her connection to Urban Legend, saying, “Wanna be a paid influencer?... Sign up here.” https://t.co/aDPvHbFrbe",
+     "links": {
+      "https://t.co/aDPvHbFrbe": ""
+     },
+     "media": [
+      {
+       "type": "animated_gif",
+       "url": "https://pbs.twimg.com/tweet_video_thumb/HXQXIA0a4AAy0Op.jpg"
+      }
+     ],
+     "url": "https://x.com/TheMidasProj/status/2122347332570366034",
+     "created_at": "Mon Nov 16 15:13:30 +0000 2026"
+    },
+    {
+     "id": "2122347334667567386",
+     "author_handle": "TheMidasProj",
+     "author_name": "The Midas Project",
+     "text": "Urban Legend’s past campaigns have been shared by a number of high-profile influencers, including Donald Trump Jr. and Kash Patel.\n\nTrump Jr. posted Urban Legend’s tracked links over 150 times. https://t.co/4lk4JRwlJ9",
+     "links": {
+      "https://t.co/4lk4JRwlJ9": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXQXOuMaAAA0qjv.jpg"
+      }
+     ],
+     "url": "https://x.com/TheMidasProj/status/2122347334667567386",
+     "created_at": "Mon Nov 16 15:13:30 +0000 2026"
+    },
+    {
+     "id": "2122347336856961383",
+     "author_handle": "TheMidasProj",
+     "author_name": "The Midas Project",
+     "text": "Two of the largest AI industry dark money groups are linked to the campaigns.\n\nOpenAI- and a16z-linked Build American AI was named by a campaign post beside “#ad” and a Breitbart article urging to ban state AI lawmaking. \n\nNo other post pushing the article disclosed a funder. https://t.co/zynMyk6RjH",
+     "links": {
+      "https://t.co/zynMyk6RjH": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXQXUoLbUAA077c.jpg"
+      }
+     ],
+     "url": "https://x.com/TheMidasProj/status/2122347336856961383",
+     "created_at": "Mon Nov 16 15:13:31 +0000 2026"
+    },
+    {
+     "id": "2122347339033837929",
+     "author_handle": "TheMidasProj",
+     "author_name": "The Midas Project",
+     "text": "Five AI-related articles promoted through Urban Legend were also authored by Jordan Schachtel, a senior policy advisor at Innovation Council Action, the David Sacks-linked dark money group.\n\nSchachtel is also a campaign participant. He has posted Urban Legend links over 50 times on a variety of topics, including AI.",
+     "links": {
+      "https://t.co/df7nFlZTfE": ""
+     },
+     "media": [
+      {
+       "type": "animated_gif",
+       "url": "https://pbs.twimg.com/tweet_video_thumb/HXQXS47bsAA5qv1.jpg"
+      }
+     ],
+     "url": "https://x.com/TheMidasProj/status/2122347339033837929",
+     "created_at": "Mon Nov 16 15:13:31 +0000 2026"
+    },
+    {
+     "id": "2122347341063856602",
+     "author_handle": "TheMidasProj",
+     "author_name": "The Midas Project",
+     "text": "It seemed that when Urban Legend found out, they tried to cover their tracks. An hour after we reached out to them with our findings, a new redirect domain appeared.\n\nBy the next afternoon, influencers’ new links were routing through the new domain.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/TheMidasProj/status/2122347341063856602",
+     "created_at": "Mon Nov 16 15:13:32 +0000 2026"
+    },
+    {
+     "id": "2122347342632562699",
+     "author_handle": "TheMidasProj",
+     "author_name": "The Midas Project",
+     "text": "We’ve published everything we found on X: Over 10,000 posts across approximately 1,400 campaigns.\n\nThe campaigns cover everything from state AI laws to chip exports to crypto bills, and even an anti-Zelensky video series. https://t.co/MaKfogKxNc",
+     "links": {
+      "https://t.co/MaKfogKxNc": ""
+     },
+     "media": [
+      {
+       "type": "animated_gif",
+       "url": "https://pbs.twimg.com/tweet_video_thumb/HXQXZ5ibUAALqu3.jpg"
+      }
+     ],
+     "url": "https://x.com/TheMidasProj/status/2122347342632562699",
+     "created_at": "Mon Nov 16 15:13:32 +0000 2026"
+    },
+    {
+     "id": "2122347344482255099",
+     "author_handle": "TheMidasProj",
+     "author_name": "The Midas Project",
+     "text": "Read the article here: https://t.co/ttA24apUqv",
+     "links": {
+      "https://t.co/ttA24apUqv": "https://x.com/TheMidasProj/status/2122347141050028302"
+     },
+     "media": [],
+     "url": "https://x.com/TheMidasProj/status/2122347344482255099",
+     "created_at": "Mon Nov 16 15:13:32 +0000 2026"
+    },
+    {
+     "id": "2122347346025672859",
+     "author_handle": "TheMidasProj",
+     "author_name": "The Midas Project",
+     "text": "See the full dataset here: https://t.co/hw7nB95jl5",
+     "links": {
+      "https://t.co/hw7nB95jl5": "https://www.influencer-campaign-explorer.com/"
+     },
+     "media": [],
+     "url": "https://x.com/TheMidasProj/status/2122347346025672859",
+     "created_at": "Mon Nov 16 15:13:33 +0000 2026"
+    }
+   ],
+   "enriched": 3
   }
  }
 }

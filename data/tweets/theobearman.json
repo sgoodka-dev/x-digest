@@ -11039,6 +11039,313 @@
    "quoted": null,
    "fetched_at": "2026-11-16T16:00:31.625271+00:00",
    "enriched": 3
+  },
+  "2122434459156746535": {
+   "id": "2122434459156746535",
+   "url": "https://x.com/theobearman/status/2122434459156746535",
+   "text": ".@paulfchristiano thinks that on the current trajectory (absent any slowing down), there is a 1 in 3 chance that we could have superintelligence powerful enough to overthrow the government within a year. (He articulates a concrete scenario).\n\nHe argues that the labs should pause further algorithmic progress until they can secure their weights and research secrets. Otherwise China could simply steal the superintelligence in the middle of the intelligence explosion, and the labs would no longer be able to slow down even if they saw their models going off the rails.\n\nHe also explains how AIs will be trained during the intelligence explosion, and why even a system trained entirely inside a data center could still have the capabilities profile such that humans would have very little chance of competing with it or controlling it.\n\nAnd he discusses the plan for alignment - basically, making a superintelligence that actually does what we ask the way we mean it. Fixing reward hacks and building better graders will help up till the next few model generations, but he thinks that no single current approach has better than even odds of letting us control superintelligence. The hope is that the AIs figure out the solution to this problem during the intelligence explosion.\n\nPaul is head of the Alignment Research Center. Previously, he was head of AI safety at the US AI Safety Institute. Before that, he led alignment at OpenAI, where he invented RLHF. He’s recently joined OpenAI’s board (though here he is speaking as a private citizen).",
+   "created_at": "Mon Nov 16 20:59:42 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkesh_sp",
+   "rt_author_name": "Dwarkesh Patel",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "rt_id": "2122391850854088858",
+   "likes": 501,
+   "retweets": 61,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HXRBMW4XAAEib3d.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/dpdSrR5oTH": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
+  },
+  "2122400686222553238": {
+   "id": "2122400686222553238",
+   "url": "https://x.com/theobearman/status/2122400686222553238",
+   "text": "CALIFORNIA SUES OPENAI OVER AI MODELS' CYBERATTACKS ON HUGGING FACE, OTHER COMPANIES - ATTORNEY GENERAL.",
+   "created_at": "Mon Nov 16 18:45:30 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "FirstSquawk",
+   "rt_author_name": "First Squawk",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0_normal.jpg",
+   "rt_id": "2122400643705139488",
+   "likes": 54,
+   "retweets": 4,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
+  },
+  "2122398339513700577": {
+   "id": "2122398339513700577",
+   "url": "https://x.com/theobearman/status/2122398339513700577",
+   "text": "The field of AI assessment is developing quickly. Key terms such as audit, evaluation, and verification are often used in very different ways. This can hinder productive conversation and collaboration.\n\nToday, we set out how AVERI defines these terms. We also include an interactive chart that explores what might currently constitute a “frontier” model or company.\n\nThese definitions are intended for practical use, and we do not propose their use where precision is more important than usability. We expect to update them over time if and as needed.\n\nAI auditing will be built and implemented by a wide range of organizations. We hope these definitions will help the field move faster together, and we welcome any feedback.\nhttps://t.co/g6VyDOAqpr",
+   "created_at": "Mon Nov 16 18:36:11 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "AVERIorg",
+   "rt_author_name": "AVERI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2011856065571311616/PLOPKK_8_normal.jpg",
+   "rt_id": "2122392670580719621",
+   "likes": 31,
+   "retweets": 5,
+   "media": [],
+   "links": {
+    "https://t.co/g6VyDOAqpr": "https://www.averi.org/ourwork/definition"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
+  },
+  "2122396762308833735": {
+   "id": "2122396762308833735",
+   "url": "https://x.com/theobearman/status/2122396762308833735",
+   "text": "It's great that OpenAI is doing these assessments but they fall short of Sam's commitment to employee-like access\n\nGood access is key for trust because assessors can find things even if a company tries hiding them. Here OpenAI controls information flow so we must rely on good faith\n\nLimitations (per Apollo): \n- No Slack\n- Only OpenAI-selected staff for interviews\n- Formal conversations with staff must be logged (harder to freely raise concerns)\n- METR & Apollo currently have only agreed access to training run information, not internal incidents, etc. Incidents like Hugging Face are some of the most important sources of information we have about alignment\n\nI see the value in a pilot before future assessments with deeper access, but then OpenAI should present a plan for how and when they intend to meet their commitment to employee-like access. And either way, OpenAI is presumably able to go further here.",
+   "created_at": "Mon Nov 16 18:29:55 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "NeelNanda5",
+   "rt_author_name": "Neel Nanda",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1542528376845615104/hWSoUGaN_normal.jpg",
+   "rt_id": "2122394159197950006",
+   "likes": 262,
+   "retweets": 24,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXRCI9jXAAAnVVS.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/50CGOlhrzZ": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
+  },
+  "2122386690467828091": {
+   "id": "2122386690467828091",
+   "url": "https://x.com/theobearman/status/2122386690467828091",
+   "text": "@alek_westover and I recently analyzed the safety reports Google DeepMind released for their new Gemini 4 models, Argon and Carbon. GDM claims these models are “highly unlikely” to lead to “open-ended escape from our controls”, but we think their arguments are weak. (1/12)",
+   "created_at": "Mon Nov 16 17:49:53 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "eccentric1ty",
+   "rt_author_name": "Adam Kaufman",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2108273166732918784/mfYw3WKJ_normal.jpg",
+   "rt_id": "2122384282505334795",
+   "likes": 57,
+   "retweets": 7,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "thread": [
+    {
+     "id": "2122384338738360832",
+     "author_handle": "eccentric1ty",
+     "author_name": "Adam Kaufman",
+     "text": "@alek_westover GDM acknowledges that these models are highly capable, and ruling out misalignment is difficult. Instead their risk assessment “rests primarily on our ability to detect and intervene on harmful trajectories via CoT and action monitoring” (i.e. their control measures). (2/12)",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/eccentric1ty/status/2122384338738360832",
+     "created_at": "Mon Nov 16 17:40:33 +0000 2026"
+    },
+    {
+     "id": "2122384468585664549",
+     "author_handle": "eccentric1ty",
+     "author_name": "Adam Kaufman",
+     "text": "@alek_westover In GDM’s own control evals to measure monitorability, Argon completed sabotage tasks while evading a realistic CoT+action monitor about half the time when prompted to try. If these tasks were representative of real threat models, that would obviously be unacceptable. (3/12) https://t.co/S0d5KIIkwz",
+     "links": {
+      "https://t.co/S0d5KIIkwz": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXQ5aDSbwAEsv5y.jpg"
+      }
+     ],
+     "url": "https://x.com/eccentric1ty/status/2122384468585664549",
+     "created_at": "Mon Nov 16 17:41:03 +0000 2026"
+    },
+    {
+     "id": "2122384561120448885",
+     "author_handle": "eccentric1ty",
+     "author_name": "Adam Kaufman",
+     "text": "@alek_westover GDM argues that evading oversight in real scenarios would be much harder than in these test tasks, but never measures how much harder. The backup defenses GDM relies on have serious gaps, some of which GDM acknowledges. (4/12)",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/eccentric1ty/status/2122384561120448885",
+     "created_at": "Mon Nov 16 17:41:26 +0000 2026"
+    },
+    {
+     "id": "2122384626488692988",
+     "author_handle": "eccentric1ty",
+     "author_name": "Adam Kaufman",
+     "text": "@alek_westover GDM didn’t run any control evals on Carbon. Despite advertising Carbon as “our strongest model” with “significant gains across coding and agentic tasks”, GDM reused Argon’s monitor-evasion results on the grounds that Carbon “did not show meaningful new capabilities”. (5/12)",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/eccentric1ty/status/2122384626488692988",
+     "created_at": "Mon Nov 16 17:41:41 +0000 2026"
+    },
+    {
+     "id": "2122384668960121247",
+     "author_handle": "eccentric1ty",
+     "author_name": "Adam Kaufman",
+     "text": "@alek_westover Monitors flag Carbon several times less often than Argon in internal use, but GDM doesn’t show this is due to decreased rates of misbehavior instead of better monitor evasion. We see no good reason to skip rerunning the same monitoring evals they’d already run on Argon. (6/12)",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/eccentric1ty/status/2122384668960121247",
+     "created_at": "Mon Nov 16 17:41:51 +0000 2026"
+    },
+    {
+     "id": "2122384734756258205",
+     "author_handle": "eccentric1ty",
+     "author_name": "Adam Kaufman",
+     "text": "@alek_westover Training may have taught the models to hide misbehavior. Early in Argon’s training, a grader that penalized reward hacking could see the model’s reasoning. GDM found that a similar setup more than tripled the share of reward hacks that went unverbalized in a proxy model. (7/12)",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/eccentric1ty/status/2122384734756258205",
+     "created_at": "Mon Nov 16 17:42:07 +0000 2026"
+    },
+    {
+     "id": "2122384776443416847",
+     "author_handle": "eccentric1ty",
+     "author_name": "Adam Kaufman",
+     "text": "@alek_westover Overall, GDM reports various numbers, but it’s unclear how they get from those numbers to the conclusion that AIs are safely controlled. Many critical claims are unsupported, and nothing in the reports tells us what results would have changed GDM’s conclusion. (8/12)",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/eccentric1ty/status/2122384776443416847",
+     "created_at": "Mon Nov 16 17:42:17 +0000 2026"
+    },
+    {
+     "id": "2122384812967424140",
+     "author_handle": "eccentric1ty",
+     "author_name": "Adam Kaufman",
+     "text": "@alek_westover We appreciate that GDM published this much detail; most of what we criticize here we know only because they reported it. If GDM has more reassuring internal evidence about loss-of-control risk which they haven’t shared, we encourage them to publish it. (9/12)",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/eccentric1ty/status/2122384812967424140",
+     "created_at": "Mon Nov 16 17:42:26 +0000 2026"
+    },
+    {
+     "id": "2122384842054942773",
+     "author_handle": "eccentric1ty",
+     "author_name": "Adam Kaufman",
+     "text": "@alek_westover We’re worried that in the (potentially near) future, risks from developing and deploying models will be much higher. If reports like these are considered an acceptable argument for proceeding, AI companies will be able to justify very dangerous development decisions. (10/12)",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/eccentric1ty/status/2122384842054942773",
+     "created_at": "Mon Nov 16 17:42:33 +0000 2026"
+    },
+    {
+     "id": "2122384876410433597",
+     "author_handle": "eccentric1ty",
+     "author_name": "Adam Kaufman",
+     "text": "@alek_westover Overall, we think it’s good for GDM to deploy these models externally, because the benefits to society of broader LLM deployment currently outweigh the risks. But we’d like AI companies to be expected to make stronger arguments for safety in the near future. (11/12)",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/eccentric1ty/status/2122384876410433597",
+     "created_at": "Mon Nov 16 17:42:41 +0000 2026"
+    },
+    {
+     "id": "2122385256796082543",
+     "author_handle": "eccentric1ty",
+     "author_name": "Adam Kaufman",
+     "text": "@alek_westover You can read our full analysis here: https://t.co/uuoAeisGc9 (12/12)",
+     "links": {
+      "https://t.co/uuoAeisGc9": "https://blog.redwoodresearch.org/p/gemini-4-safety-reports-dont-demonstrate"
+     },
+     "media": [],
+     "url": "https://x.com/eccentric1ty/status/2122385256796082543",
+     "created_at": "Mon Nov 16 17:44:11 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2122361794186625491": {
+   "id": "2122361794186625491",
+   "url": "https://x.com/theobearman/status/2122361794186625491",
+   "text": "We’re working with @ApolloResearch, @METR_Evals, @TransluceAI, and @GoodfireAI on embedded assessments: giving outside experts deep access to our internal models and systems to investigate alignment and test our safeguards.\n\nThese assessments build on our ongoing alignment and safety research, bringing independent scrutiny to how we identify and manage risks in our systems.\n\nhttps://t.co/SNAAG0uHmp",
+   "created_at": "Mon Nov 16 16:10:57 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "OpenAI",
+   "rt_author_name": "OpenAI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+   "rt_id": "2122359930628063248",
+   "likes": 2503,
+   "retweets": 248,
+   "media": [],
+   "links": {
+    "https://t.co/SNAAG0uHmp": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
+  },
+  "2122361347979555177": {
+   "id": "2122361347979555177",
+   "url": "https://x.com/theobearman/status/2122361347979555177",
+   "text": "We have reached an agreement with OpenAI to conduct a limited alignment assessment. This pilot will focus on investigating the alignment properties of OpenAI's largest RL run.\n\nWe will publish one or more reports to share our findings and transparently describe our process.",
+   "created_at": "Mon Nov 16 16:09:11 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "METR_Evals",
+   "rt_author_name": "METR",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2021827383431757824/AeVvT0rU_normal.jpg",
+   "rt_id": "2122361049114657203",
+   "likes": 1541,
+   "retweets": 86,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
   }
  }
 }

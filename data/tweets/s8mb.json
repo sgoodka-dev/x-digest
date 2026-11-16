@@ -13255,6 +13255,80 @@
    "quoted": null,
    "fetched_at": "2026-11-16T16:00:31.625271+00:00",
    "enriched": 3
+  },
+  "2122412094641590591": {
+   "id": "2122412094641590591",
+   "url": "https://x.com/s8mb/status/2122412094641590591",
+   "text": "Another generation of European politicians is about to waste billions of euros and years in court trying to processing asylum claims overseas. The obsession with this idea comes fom a total myth, namely that it worked in Australia.\n\nAustralia did briefly process asylum seekers offshore. But as Amelia Wood showed in a piece for WIP, this almost certainly wasn’t what made the difference:\n\n- When Australia relied on offshore processing alone in 2012, arrivals didn’t drop.\n- A tougher version introduced in 2013 didn’t reduce them either.\n- Offshore transfers ended altogether in 2014, yet arrivals stayed at zero for the following decade.\n\nInstead, what did all the work in Australia was turnbacks: consistently towing boats back to Indonesia. It's cheaper, more humane, and far more effective than offshore processing.",
+   "created_at": "Mon Nov 16 19:30:50 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "pietergaricano",
+   "rt_author_name": "Pieter Garicano",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1889463350062698496/8-NpCfSf_normal.jpg",
+   "rt_id": "2122411933571895372",
+   "likes": 46,
+   "retweets": 13,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXQ3oFzW8AAsWGa.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/SZea8B3rox": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
+  },
+  "2122371601916436624": {
+   "id": "2122371601916436624",
+   "url": "https://x.com/s8mb/status/2122371601916436624",
+   "text": "The story of Alexander Fleming accidentally discovering penicillin seems to have been totally made up. https://t.co/bsvSMygL7H",
+   "created_at": "Mon Nov 16 16:49:56 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 194,
+   "retweets": 17,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXQts9XWcAALD0k.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXQts9XWcAALD0k.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/bsvSMygL7H": ""
+   },
+   "quoted": {
+    "id": "2122370762711654583",
+    "author_name": "Saloni",
+    "links": {
+     "https://t.co/i2iQYNk27u": "https://worksinprogress.co/issue/accidental-discoveries/?v4"
+    },
+    "author": "salonium",
+    "text": "My first column for Works in Progress!\n\nScience isn’t a series of lucky accidents.\n\nI’ve been investigating stories of scientific discoveries for a while and it’s surprising how much the popular retellings flatten the real stories; some are entirely made up.\n\nAlexander Fleming’s discovery of penicillin most likely didn’t come from an open window.\n\nHis colleagues testified the window was seldom, if ever, opened. The sequence hasn’t been replicated as he described, because penicillin would have needed to be present on the plate before the bacteria grew, as it blocks bacteria from building their cell walls, rather than killing them once they’ve grown.\n\nLouis Pasteur’s discovery of the chicken cholera vaccine – the second-ever vaccine – is often said to be accidental too.\n\nBut historians have found the key experiments were done deliberately by Émile Roux, his assistant at the time, while Pasteur was away for his daughter’s wedding.\n\nWilhelm Röntgen’s accidental discovery of X-rays? The story was just a hypothesis by others later on.\n\nRöntgen had his notes burned after his death, so it’s unclear what really happened. He had also long been in a dispute with Philipp Lenard over credit for the discovery, so there are reasons to be suspicious.\n\n**\n\nBut what really happened? How did Fleming actually discover penicillin? Why burn or hide your notebooks? And most of all, why credit chance events instead of hard work?\n\nFor the first time, I’ve decided to come up with some half-cooked theories. Read them here and tell me what you think:\nhttps://t.co/i2iQYNk27u"
+   },
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
   }
  }
 }

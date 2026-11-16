@@ -3135,6 +3135,40 @@
     "created_at": "Sun Nov 15 22:15:51 +0000 2026"
    },
    "enriched": 3
+  },
+  "2122418596249047320": {
+   "id": "2122418596249047320",
+   "url": "https://x.com/slatestarcodex/status/2122418596249047320",
+   "text": "@1ovthafew @Tim_Hua_ This is simply not true. Existing regulation distinguishes between good and bad colleges (accreditation), ugly and pretty lawns (anti-eyesore regulations in cities), safe and unsafe parenting (CPS), sane and insane people (insanity defense in criminal courts), et cetera. The claim that if you can't reduce something to an exact number then it doesn't exist and there's no way to regulate it is antithetical to the way every other field works. \nIf you oppose government intervention in everything, that's fine, but otherwise, I think you should accept this as a completely typical example of regulation - in fact, as pretty rare in the degree to which it can be quantified (FLOPs, benchmarks, LMArena scores, etc). It's also pretty forgiving - if someone's AI is 5% better or worse than Fable 5.2, that's not a threat to the overall value proposition of a pause.",
+   "created_at": "Mon Nov 16 19:56:40 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "1ovthafew",
+   "reply_to_id": "2122311640716812768",
+   "avatar": "https://pbs.twimg.com/profile_images/378800000009065862/83d72de47e2a2470c482bc75406b42a7_normal.png",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "parent": {
+    "id": "2122311640716812768",
+    "author_handle": "1ovthafew",
+    "author_name": "Gavin King ⍼⍼⍼",
+    "text": "@slatestarcodex @Tim_Hua_ Good regulation, compatible with liberal rule of law, depends on the ability to draw bright line boundaries. There’s simply no way to do this here.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/1ovthafew/status/2122311640716812768",
+    "created_at": "Mon Nov 16 12:51:40 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

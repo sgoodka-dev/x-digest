@@ -3540,6 +3540,30 @@
    "quoted": null,
    "fetched_at": "2026-11-15T14:04:21.241306+00:00",
    "enriched": 3
+  },
+  "2122424637057388661": {
+   "id": "2122424637057388661",
+   "url": "https://x.com/mentalgeorge/status/2122424637057388661",
+   "text": "One of the many interesting micro-cruxes in the view that \"progress in maths shows us how quickly progress in AI R&D will be\" is: \n\nTo what extent have the existing AI discoveries in maths started building off each other? \n\nThis is relevant because you could imagine that (1) the discoveries involve delivering finishing touches to existing human knowledge; vs (2) the discoveries are the construction of entirely new, compounding edifices of scientific understanding\n\nI'm in no position to evaluate this but would be interested to know what others think. \n\n(As a separate note, you could imagine a world where (2) only happens once the models are pretrained over the discoveries , which at least introduces a bit of a lag)",
+   "created_at": "Mon Nov 16 20:20:40 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T21:02:04.818687+00:00",
+   "enriched": 3
   }
  }
 }
