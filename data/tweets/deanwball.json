@@ -13327,6 +13327,163 @@
    "quoted": null,
    "fetched_at": "2026-11-15T20:23:54.093496+00:00",
    "enriched": 3
+  },
+  "2122347719540736453": {
+   "id": "2122347719540736453",
+   "url": "https://x.com/deanwball/status/2122347719540736453",
+   "text": "@MI_Investments yes and yes",
+   "created_at": "Mon Nov 16 15:15:02 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "MI_Investments",
+   "reply_to_id": "2122346881724666153",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T16:00:31.625271+00:00",
+   "parent": {
+    "id": "2122346881724666153",
+    "author_handle": "MI_Investments",
+    "author_name": "M/1_LP",
+    "text": "Have you ever read the Bible, Dean? Do you fully comprehend the gravity of the situation you're in (and him and all of you) ?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/MI_Investments/status/2122346881724666153",
+    "created_at": "Mon Nov 16 15:11:42 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2122342082245242901": {
+   "id": "2122342082245242901",
+   "url": "https://x.com/deanwball/status/2122342082245242901",
+   "text": "Nobody’s quest makes them beyond reproach. Nobody is above questions about conflict of interest.",
+   "created_at": "Mon Nov 16 14:52:38 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "deanwball",
+   "reply_to_id": "2122340815775346694",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 18,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T16:00:31.625271+00:00",
+   "parent": {
+    "id": "2122340815775346694",
+    "author_handle": "deanwball",
+    "author_name": "Dean W. Ball",
+    "text": "I don’t think you should respond to questions about your credibility by telling your interlocutor not to ask the question, with the implied point being that the underlying nobility of your quest is so unimpeachable that your credibility is without question.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/deanwball/status/2122340815775346694",
+    "created_at": "Mon Nov 16 14:47:36 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2122340815775346694": {
+   "id": "2122340815775346694",
+   "url": "https://x.com/deanwball/status/2122340815775346694",
+   "text": "I don’t think you should respond to questions about your credibility by telling your interlocutor not to ask the question, with the implied point being that the underlying nobility of your quest is so unimpeachable that your credibility is without question.",
+   "created_at": "Mon Nov 16 14:47:36 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 171,
+   "retweets": 5,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2121904243355398148",
+    "author_name": "Flowers ☾",
+    "links": {
+     "https://t.co/7j2GRZEBSs": ""
+    },
+    "author": "flowersslop",
+    "text": "jacob coxon still owns openai shares and admits he'd have more credibility without a financial stake. he responds by saying he likes money, donating it wouldn't advance his goals, and the interviewer could've just not asked the question instead of challenging his credibility https://t.co/7j2GRZEBSs"
+   },
+   "fetched_at": "2026-11-16T16:00:31.625271+00:00",
+   "thread": [
+    {
+     "id": "2122342082245242901",
+     "author_handle": "deanwball",
+     "author_name": "Dean W. Ball",
+     "text": "Nobody’s quest makes them beyond reproach. Nobody is above questions about conflict of interest.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/deanwball/status/2122342082245242901",
+     "created_at": "Mon Nov 16 14:52:38 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2122147503684645084": {
+   "id": "2122147503684645084",
+   "url": "https://x.com/deanwball/status/2122147503684645084",
+   "text": "@Allinallnotbad congrats!",
+   "created_at": "Mon Nov 16 01:59:27 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "Allinallnotbad",
+   "reply_to_id": "2122121609423003682",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 11,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T16:00:31.625271+00:00",
+   "parent": {
+    "id": "2122121609423003682",
+    "author_handle": "Allinallnotbad",
+    "author_name": "Samuel Roland",
+    "text": "https://t.co/zqcWmu5jtH",
+    "links": {
+     "https://t.co/zqcWmu5jtH": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXNKW5MW0AAE6d-.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXNKW5MW0AAE6d-.jpg"
+     }
+    ],
+    "url": "https://x.com/Allinallnotbad/status/2122121609423003682",
+    "created_at": "Mon Nov 16 00:16:33 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

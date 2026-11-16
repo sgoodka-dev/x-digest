@@ -3101,6 +3101,40 @@
    "quoted": null,
    "fetched_at": "2026-11-14T13:38:58.849857+00:00",
    "enriched": 3
+  },
+  "2122138360370389178": {
+   "id": "2122138360370389178",
+   "url": "https://x.com/slatestarcodex/status/2122138360370389178",
+   "text": "@Tim_Hua_ I haven't thought about this much, but it seems reasonable to pause at a certain capabilities level (eg Fable 5.2) and let other companies catch up to that.\n\n(I'm less concerned about eg X being mad than about China being mad. I think this question will be on China's mind, and unless we have some incredible incentive to give them, we will have to offer them this chance to catch up, and then whatever we work out with them will naturally apply to US companies too)\n\nThe two main issues I see are how to operationalize this (if we use benchmarks, they can benchmark-min) and whether it's a threat to the pause to have any training capacity at all.\n\nI think if the pause is done well, there will be a government agency that can handle these questions. For example, smart regulators who can't be trivially loopholed can look at a training plan and predict where it will stand relative to Fable-5.2 and sign off on it, and if compute is being monitored, all the sides monitoring it can agree to let a small amount of it get used for these kinds of catchup runs.",
+   "created_at": "Mon Nov 16 01:23:07 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "Tim_Hua_",
+   "reply_to_id": "2122091233170575731",
+   "avatar": "https://pbs.twimg.com/profile_images/378800000009065862/83d72de47e2a2470c482bc75406b42a7_normal.png",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 20,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T16:00:31.625271+00:00",
+   "parent": {
+    "id": "2122091233170575731",
+    "author_handle": "Tim_Hua_",
+    "author_name": "Tim Hua 🪶",
+    "text": "I'm curious for how pause advocates have thought about this question:\n\nSuppose we paused all AI development now, some companies are naturally going to have better public models than others, how do you incentivize the slightly lagging players to comply?\n\nLike which company has the best public model is somewhat random at any given point. Maybe people would want to set some \"capabilities threshold\" that companies could hit but proceed no further? There's a whole can of worms there as well.\n\nUnclear how important this question is, but you can imagine a scenario where company A is ahead at some time, so they feel better about a pause at current levels, but company B is like, \"man if we paused now, I'll just have less market share, but if we just waited one month, my new model is going to be out and I'll be ahead, and then we could pause and I'll be ahead.\" And then we repeat this dynamic until it's too late.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/Tim_Hua_/status/2122091233170575731",
+    "created_at": "Sun Nov 15 22:15:51 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

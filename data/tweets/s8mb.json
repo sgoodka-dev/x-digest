@@ -13167,6 +13167,94 @@
    "quoted": null,
    "fetched_at": "2026-11-15T20:23:54.093496+00:00",
    "enriched": 3
+  },
+  "2122264422932463630": {
+   "id": "2122264422932463630",
+   "url": "https://x.com/s8mb/status/2122264422932463630",
+   "text": "@finmoorhouse If you haven't read this, you might enjoy it! https://t.co/MyUGX6Pbdp",
+   "created_at": "Mon Nov 16 09:44:02 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "finmoorhouse",
+   "reply_to_id": "2122105710049726761",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/MyUGX6Pbdp": "https://worksinprogress.co/issue/in-praise-of-pastiche/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T16:00:31.625271+00:00",
+   "parent": {
+    "id": "2122105710049726761",
+    "author_handle": "finmoorhouse",
+    "author_name": "Fin Moorhouse",
+    "text": "In praise of pastiche architecture — https://t.co/SusyoAQvtK",
+    "links": {
+     "https://t.co/SusyoAQvtK": "https://finmoorhouse.com/writing/pastiche/"
+    },
+    "media": [],
+    "url": "https://x.com/finmoorhouse/status/2122105710049726761",
+    "created_at": "Sun Nov 15 23:13:22 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2122234253186629952": {
+   "id": "2122234253186629952",
+   "url": "https://x.com/s8mb/status/2122234253186629952",
+   "text": "In praise of pastiche architecture — https://t.co/SusyoAQvtK",
+   "created_at": "Mon Nov 16 07:44:09 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "finmoorhouse",
+   "rt_author_name": "Fin Moorhouse",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1518722990816571393/zVIfffsQ_normal.jpg",
+   "rt_id": "2122105710049726761",
+   "likes": 22,
+   "retweets": 2,
+   "media": [],
+   "links": {
+    "https://t.co/SusyoAQvtK": "https://finmoorhouse.com/writing/pastiche/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T16:00:31.625271+00:00",
+   "enriched": 3
+  },
+  "2122221595783561472": {
+   "id": "2122221595783561472",
+   "url": "https://x.com/s8mb/status/2122221595783561472",
+   "text": "",
+   "created_at": "Mon Nov 16 06:53:52 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T16:00:31.625271+00:00",
+   "enriched": 3
   }
  }
 }

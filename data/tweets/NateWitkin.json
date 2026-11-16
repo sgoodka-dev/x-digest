@@ -4360,6 +4360,77 @@
    "quoted": null,
    "fetched_at": "2026-11-15T14:04:21.241306+00:00",
    "enriched": 3
+  },
+  "2122101809431105627": {
+   "id": "2122101809431105627",
+   "url": "https://x.com/NateWitkin/status/2122101809431105627",
+   "text": "\"As society becomes richer and basic needs are satisfied, zero-sum positional contests gain more prominence.\"\n\nUseful to think about as we try to predict what people will be doing in a world of greater material abundance than ever. https://t.co/ggu8idyMnV",
+   "created_at": "Sun Nov 15 22:57:52 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "paulnovosad",
+   "rt_author_name": "Paul Novosad",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1404388273359831042/7FWLaDSK_normal.jpg",
+   "rt_id": "2122088798041371103",
+   "likes": 87,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXMsJ-AWoAAyxdc.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXMsJ-AWoAAyxdc.png"
+    }
+   ],
+   "links": {
+    "https://t.co/ggu8idyMnV": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T16:00:31.625271+00:00",
+   "enriched": 3
+  },
+  "2122092363816350065": {
+   "id": "2122092363816350065",
+   "url": "https://x.com/NateWitkin/status/2122092363816350065",
+   "text": "Lots of (justified) criticism about the quoted tweet last month, luckily we now have this cool paper showing the same thing using staggered diff-in-diff @MonirBounadi\n\nNote: maybe OLS was all we ever needed after all... :D\nhttps://t.co/gJW6ChrlAX https://t.co/tGhy7KxdwU",
+   "created_at": "Sun Nov 15 22:20:20 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "gguillaumeblanc",
+   "rt_author_name": "Guillaume Blanc",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2080753742539005952/faQdsw7G_normal.jpg",
+   "rt_id": "2122038600082784350",
+   "likes": 210,
+   "retweets": 33,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXL9aneboAA8Tww.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXL9aneboAA8Tww.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/gJW6ChrlAX": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
+    "https://t.co/tGhy7KxdwU": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T16:00:31.625271+00:00",
+   "enriched": 3
   }
  }
 }

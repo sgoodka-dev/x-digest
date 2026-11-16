@@ -10826,6 +10826,219 @@
    "quoted": null,
    "fetched_at": "2026-11-15T20:23:54.093496+00:00",
    "enriched": 3
+  },
+  "2122358273945084042": {
+   "id": "2122358273945084042",
+   "url": "https://x.com/theobearman/status/2122358273945084042",
+   "text": "NEW: The Department of Commerce just published new AI and semiconductor export control regulations that close some major loopholes in existing export controls. The regulation includes new rules to: (1) counter Chinese smuggling of AI chips; (2) restrict Chinese companies from renting access to AI chips; and (3) block Chinese chip designers from making AI chips at TSMC.\n\nThese rules are a major step forward. They still contain some key gaps that need to be filled urgently in a follow-up rule, namely, they do not block Chinese companies from buying AI chips inside the United States or renting access to AI chips at US-based data centers. However, this rule will help and is the first good-faith effort to actually close loopholes in export controls in a year and a half. Hopefully more will follow.\n\n1.  Countering Chinese smuggling of AI chips. The rule expands export controls on AI chips to five new countries: Singapore, Malaysia, Thailand, Indonesia, and Brazil. It does not block AI chip orders to these countries, but requires a US government review (unless it is a US company that meets certain requirements). This is a massively needed step. Singapore, Malaysia, Thailand, and Indonesia have been the second, fourth, fifth, and eighth biggest importers of AI chips this year. \n\nThe rule doesn’t cover Taiwan itself, where chip smuggling is a massive issue (exports of AI chips to China are still not illegal under Taiwanese law), and still doesn’t prevent AI chip sales to Chinese companies in the United States, which somehow remain legal. Ultimately, large orders of AI chips by untrusted companies in any country should require a license to fully combat smuggling, as Chinese companies will move to buy AI chips anywhere there isn’t a license requirement. But this is a start.\n\n2.  Restricting Chinese companies from renting access to AI chips. The rule creates a new remote access control that restricts companies from providing Chinese companies with remote access to AI chips. It requires a US export license to provide Chinese companies with access to 12 million TPP or more (equivalent to ~200 of the most advanced Blackwell chips, or ~800 H100 chips). This applies to chips already shipped, as well as all future shipments. Some of these requirements even apply retroactively; Commerce says existing rules already barred data supplying a majority of a data center’s compute to Chinese companies, and tells companies that violated this to self-disclose. This effectively kills the business of neoclouds like Megaspeed that exist to provide remote access to large amounts of AI compute to China. \n\nThe biggest gap is the remote access controls do not apply to data centers in the United States. So Chinese companies can legally train on large numbers of Blackwells at data centers in Northern Virginia. This gap should be closed immediately with a new rule that uses Commerce’s US persons authority to capture this activity. The rule also exempts recommendation algorithms, so impact will depend on enforcement. Last, new authorities included in the text of the AI Overwatch Act would strengthen Commerce's ability to enforce these controls--that bill should pass immediately. \n\n3.  Blocking Chinese chip designers from making AI chips at TSMC. The rule closes loopholes in existing controls that Chinese companies are likely exploiting to illicitly make AI chips at TSMC or Samsung. Specifically, it now requires any Chinese chip designer who is seeking to make a 16/14nm or more advanced chip at TSMC/Samsung to get a U.S. export license, and restores old rules that weren’t being enforced until now that require any untrusted company anywhere in the world to get a license to make an AI chip at TSMC or Samsung. This is a significant upgrade.\n\nOverall, this is a major step forward to countering Chinese smuggling of and access to advanced AI chips. The work here is not done, as there are some critical loopholes that remain open and need to be closed in a follow-up rule (namely those related to activities inside the United States). Commerce should move extremely quickly to close these. But this is the first time in over 18 months that the administration is starting to take export controls seriously, and does represent a meaningful step forward. \n\nLast, the fact that the Commerce press release says this rule was “written by and at the direction of the Department of Treasury and the National Security Council” is remarkable and unprecedented. I have never seen a BIS rule that was not written by BIS. That implies that Commerce was dragged kicking and screaming over the finish line by the White House and Treasury, and instructed to publish this rule rather than the rumored weaker one that it preferred. Remarkable.",
+   "created_at": "Mon Nov 16 15:56:58 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ChrisRMcGuire",
+   "rt_author_name": "Chris McGuire",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2092284021472403456/pH5TCk8G_normal.jpg",
+   "rt_id": "2122340547578761513",
+   "likes": 66,
+   "retweets": 31,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T16:00:31.625271+00:00",
+   "enriched": 3
+  },
+  "2122339320317235600": {
+   "id": "2122339320317235600",
+   "url": "https://x.com/theobearman/status/2122339320317235600",
+   "text": "TRUMP: NOT CONSIDERING REPLACING LUTNICK",
+   "created_at": "Mon Nov 16 14:41:39 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "FirstSquawk",
+   "rt_author_name": "First Squawk",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0_normal.jpg",
+   "rt_id": "2122338611421163599",
+   "likes": 44,
+   "retweets": 5,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T16:00:31.625271+00:00",
+   "enriched": 3
+  },
+  "2122339312926913003": {
+   "id": "2122339312926913003",
+   "url": "https://x.com/theobearman/status/2122339312926913003",
+   "text": "TRUMP SAYS JENSEN HUANG DIDN'T PUT NATIONAL SECURITY AT RISK",
+   "created_at": "Mon Nov 16 14:41:38 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "FirstSquawk",
+   "rt_author_name": "First Squawk",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0_normal.jpg",
+   "rt_id": "2122339136115982565",
+   "likes": 217,
+   "retweets": 22,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T16:00:31.625271+00:00",
+   "enriched": 3
+  },
+  "2122324628471157050": {
+   "id": "2122324628471157050",
+   "url": "https://x.com/theobearman/status/2122324628471157050",
+   "text": "\"Written by and at the direction of the Department of Treasury and the National Security Council\" 👀 https://t.co/NOG3s5CESw",
+   "created_at": "Mon Nov 16 13:43:16 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 5,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXQDAD9XAAA4gn_.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXQDAD9XAAA4gn_.png"
+    }
+   ],
+   "links": {
+    "https://t.co/NOG3s5CESw": ""
+   },
+   "quoted": {
+    "id": "2122322834647040214",
+    "author_name": "Theo Bearman",
+    "links": {
+     "https://t.co/a0bq02V0rA": "https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology",
+     "https://t.co/sJUpdFkIy1": "https://www.bis.gov/media/documents/rin-0694-ak50.pdf",
+     "https://t.co/3ZrfhpG8vh": ""
+    },
+    "author": "theobearman",
+    "text": "A new BIS remote access rule has been released.  Looks good on the face of it!\n\nA license will now be required to supply covered advanced chips, computers, and related software or technology where there is “knowledge” that they would support a data center providing access to more than 12 million aggregate total processing performance (TPP) to or for a company headquartered in Macau or Country Group D:5 (which includes China) or whose ultimate parent company is headquartered there. This includes training and performing inference on models, including activity performed by intermediaries.\n\nSuppliers would be expected to obtain enough information about foreign data centers’ customer checks to assess compliance. If a data centre refuses or cannot supply sufficient information, that becomes a red flag that presumptively establishes “knowledge” unless resolved before the transaction proceeds.\n\nIf equipment originally supplied for an unrestricted purpose were later used to provide covered remote compute, the operator or other transferor would have to obtain BIS authorization.\n\nAlongside this, new license requirements have been added for chip exports, in-country transfers, and re-exports to Indonesia, Malaysia, Singapore, Thailand, and Brazil (a list of countries with higher-than-normal risk of diversion that the Secretary of Commerce can add to).\n\nhttps://t.co/a0bq02V0rA\n\nhttps://t.co/sJUpdFkIy1"
+   },
+   "fetched_at": "2026-11-16T16:00:31.625271+00:00",
+   "enriched": 3
+  },
+  "2122322834647040214": {
+   "id": "2122322834647040214",
+   "url": "https://x.com/theobearman/status/2122322834647040214",
+   "text": "A new BIS remote access rule has been released.  Looks good on the face of it!\n\nA license will now be required to supply covered advanced chips, computers, and related software or technology where there is “knowledge” that they would support a data center providing access to more than 12 million aggregate total processing performance (TPP) to or for a company headquartered in Macau or Country Group D:5 (which includes China) or whose ultimate parent company is headquartered there. This includes training and performing inference on models, including activity performed by intermediaries.\n\nSuppliers would be expected to obtain enough information about foreign data centers’ customer checks to assess compliance. If a data centre refuses or cannot supply sufficient information, that becomes a red flag that presumptively establishes “knowledge” unless resolved before the transaction proceeds.\n\nIf equipment originally supplied for an unrestricted purpose were later used to provide covered remote compute, the operator or other transferor would have to obtain BIS authorization.\n\nAlongside this, new license requirements have been added for chip exports, in-country transfers, and re-exports to Indonesia, Malaysia, Singapore, Thailand, and Brazil (a list of countries with higher-than-normal risk of diversion that the Secretary of Commerce can add to).\n\nhttps://t.co/a0bq02V0rA\n\nhttps://t.co/sJUpdFkIy1",
+   "created_at": "Mon Nov 16 13:36:09 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 8,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXP_xZKXIAELOTh.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXP_xZKX0AAsfU3.png"
+    }
+   ],
+   "links": {
+    "https://t.co/a0bq02V0rA": "https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology",
+    "https://t.co/sJUpdFkIy1": "https://www.bis.gov/media/documents/rin-0694-ak50.pdf",
+    "https://t.co/3ZrfhpG8vh": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T16:00:31.625271+00:00",
+   "enriched": 3
+  },
+  "2122198707714261012": {
+   "id": "2122198707714261012",
+   "url": "https://x.com/theobearman/status/2122198707714261012",
+   "text": "🌕🚨Remote access rule from Commerce coming tonight I’m told.",
+   "created_at": "Mon Nov 16 05:22:55 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ashleyrgold",
+   "rt_author_name": "Ashley Gold",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2100730381846646784/INs3gfH7_normal.jpg",
+   "rt_id": "2122138169303073005",
+   "likes": 239,
+   "retweets": 32,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T16:00:31.625271+00:00",
+   "enriched": 3
+  },
+  "2122065643591651336": {
+   "id": "2122065643591651336",
+   "url": "https://x.com/theobearman/status/2122065643591651336",
+   "text": "Episode dropping tomorrow with @paulfchristiano.\n\nHe thinks there’s a 1 in 3 chance of extreme superintelligence within a year (absent any slowing down).\n\nAnd he'll explain what labs and governments should do right now given that possibility. https://t.co/iRQVrhWfMs",
+   "created_at": "Sun Nov 15 20:34:10 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkesh_sp",
+   "rt_author_name": "Dwarkesh Patel",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "rt_id": "2122064955545686119",
+   "likes": 1428,
+   "retweets": 122,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2122061424088510464/img/ri6-GbAkhM9IpUgP.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2122061424088510464/img/ri6-GbAkhM9IpUgP.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/iRQVrhWfMs": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T16:00:31.625271+00:00",
+   "enriched": 3
   }
  }
 }

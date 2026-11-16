@@ -3887,6 +3887,72 @@
    "quoted": null,
    "fetched_at": "2026-11-12T23:09:44.115616+00:00",
    "enriched": 3
+  },
+  "2122349562832765152": {
+   "id": "2122349562832765152",
+   "url": "https://x.com/random_walker/status/2122349562832765152",
+   "text": "@dioscuri Thank you Henry and @danwilliamsphil for having me on! It was a real pleasure and it gave me lots to think about.",
+   "created_at": "Mon Nov 16 15:22:21 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": true,
+   "reply_to": "dioscuri",
+   "reply_to_id": "2122302383397228635",
+   "avatar": "https://pbs.twimg.com/profile_images/1650881612756942850/bZYjMyFU_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T16:00:31.625271+00:00",
+   "parent": {
+    "id": "2122302383397228635",
+    "author_handle": "dioscuri",
+    "author_name": "Henry Shevlin",
+    "text": "@random_walker fantastic to have you on the show!",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/dioscuri/status/2122302383397228635",
+    "created_at": "Mon Nov 16 12:14:53 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2122348879647564140": {
+   "id": "2122348879647564140",
+   "url": "https://x.com/random_walker/status/2122348879647564140",
+   "text": "New episode! Is AI a normal technology, or something radically different?\nHenry Shevlin (@dioscuri) and I put some objections to Arvind Narayanan (@random_walker), who is sceptical that \"superintelligence\" can be built in a lab and thinks AI’s effects will arrive gradually. We also discuss AI consciousness, persuasion, misinformation, and more! \nFull conversation with transcripts and links here: https://t.co/HcfiAdNk58",
+   "created_at": "Mon Nov 16 15:19:38 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1650881612756942850/bZYjMyFU_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "danwilliamsphil",
+   "rt_author_name": "Dan Williams",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2122086703057793024/Fzgv0Hss_normal.jpg",
+   "rt_id": "2122278723755950504",
+   "likes": 35,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2122277980026081280/img/ul1HjoYHzGiCekD4.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/HcfiAdNk58": "https://www.conspicuouscognition.com/p/can-thinking-machines-be-a-normal",
+    "https://t.co/x4MuT12Xbx": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T16:00:31.625271+00:00",
+   "enriched": 3
   }
  }
 }
