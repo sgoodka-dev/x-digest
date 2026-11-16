@@ -11346,6 +11346,216 @@
    "quoted": null,
    "fetched_at": "2026-11-16T21:02:04.818687+00:00",
    "enriched": 3
+  },
+  "2122447700654186800": {
+   "id": "2122447700654186800",
+   "url": "https://x.com/theobearman/status/2122447700654186800",
+   "text": "The UK has built exceptional state capacity in @AISecurityInst, so that public interest drives our understanding and mitigation of AI risks.\n\nA productive conversation with @BethMayBarnes about @METR_Evals’ work and shaping more secure AI. https://t.co/aetNR7AsiU",
+   "created_at": "Mon Nov 16 21:52:19 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "KanishkaNarayan",
+   "rt_author_name": "Kanishka Narayan MP",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1995387963962806272/oi2v0V2L_normal.jpg",
+   "rt_id": "2122435111090266447",
+   "likes": 109,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXRnfEEaAAALKb4.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXRnfEEaAAALKb4.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/aetNR7AsiU": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T23:44:38.843446+00:00",
+   "enriched": 3
+  },
+  "2122447602562068718": {
+   "id": "2122447602562068718",
+   "url": "https://x.com/theobearman/status/2122447602562068718",
+   "text": "Man, reading through the details more, I'm super disappointed with where OpenAI landed on this.\n\nIf OpenAI actually believes this is \"employee-like\" as they promised, I would love to see them justify this. It really seems like they reneged. \n\nTo be clear, I'm still more frustrated with Google/Meta/xAI, which as far as I can tell have still said ~nothing after signing the White House Accord way back in September (!) which pledged to partner with external groups. But I had really hoped for stronger from OpenAI.\n\n1) The access does not include Slack channels, which is where a huge amount of the context, debating, concern-raising, etc., happens, as I know from my own time working there. Obviously no safety employee at OpenAI would be content with lacking Slack access; it is maybe the #1 place where work happens.\n\nThis is terrible for trust-building with the public; OpenAI basically preserved secret channels for staff to communicate about safety concerns without the assessors being any the wiser. I know many of the people involved at OpenAI and don't think they have any intent of running a conspiracy like this, but you have to consider how this will look. And more importantly, it is in fact going to hinder the quality of oversight that third-parties can provide.\n\nWe know from public reporting that OpenAI employees had discovered multiple rounds of warning signs before the Hugging Face attacks. Would this level of third-party access have caught those important details, and the discussions that surely happened over Slack about why they were or weren't concerning? I certainly don't think so.\n\n2) OpenAI seemingly controls what staff the assessors can talk to, about what topics. This is not at all how being a safety employee at OpenAI works. Imagine not being able to talk to another safety teammate about safety concerns unless you get permission from the higher-ups? Assessors should be able to talk by-default with anyone who is safety staff, not need them to be named one-by-one.\n\nAnd if a safety staff member is concerned enough to reach out to the assessors despite not being authorized, that seems like a giant red flag. It seems wild to me that assessors then seemingly need to tattle on staff who raise those concerns? But maybe I'm misreading this https://t.co/IPVAjnTFJ2\n\n3) It seems like OpenAI's assessments are much weaker than what Anthropic has agreed to. One example is on the ability to share information with assessors.\n\nFor instance, Anthropic says “Anthropic employees are encouraged to share information with [METR’s assessors] just as they would with a fellow employee working on alignment risk.” There are some carveouts for not sharing obviously sensitive IP, but it doesn't seem like they restrict the particular employee list.\n\nOpenAI, in contrast, seems to require a strict pre-authorized list, as I described above. And OpenAI's assessments seem super narrowly scoped, relative to what I've understood of Anthropic's. (If I'm wrong about this and Anthropic is restricting the employee list too, that's important to know and I hope it'll be clarified.)\n\nOverall, I've so far talked to exactly 0 people who consider OpenAI's arrangement to be employee-like. I'd love to see OpenAI explain why they believe this. I'm glad that so many inside the company have worked so hard to even get to this point, but IMO it is clearly inadequate for the stakes ahead.",
+   "created_at": "Mon Nov 16 21:51:56 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "sjgadler",
+   "rt_author_name": "Steven Adler",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1975436697040269312/vCGKjpxB_normal.jpg",
+   "rt_id": "2122425490921414827",
+   "likes": 59,
+   "retweets": 13,
+   "media": [],
+   "links": {
+    "https://t.co/IPVAjnTFJ2": "https://x.com/sjgadler/status/2122406276026225121"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T23:44:38.843446+00:00",
+   "linked": [
+    {
+     "id": "2122406276026225121",
+     "author_handle": "sjgadler",
+     "author_name": "Steven Adler",
+     "text": "Huh. OpenAI is apparently requiring Apollo to follow what I'd call a \"tattletale clause\":\nIf an OpenAI employee raises concerns to Apollo, even with info clearly relevant to the investigation, Apollo must stop them and go through OpenAI's lead unless they were pre-authorized https://t.co/FcZnDEg8U8",
+     "links": {
+      "https://t.co/FcZnDEg8U8": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXRMN4raMAA28ia.jpg"
+      },
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXRMN4raMAA28ia.jpg"
+      }
+     ],
+     "url": "https://x.com/sjgadler/status/2122406276026225121",
+     "created_at": "Mon Nov 16 19:07:43 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2122447139196297542": {
+   "id": "2122447139196297542",
+   "url": "https://x.com/theobearman/status/2122447139196297542",
+   "text": "@tszzl @_NathanCalvin Would be great if the launch post then also talked more about these phases, what is included in each, along what timelines the phases will roll out and what OAI will materially do with the outputs of each phase (e.g., if safety and security claims are invalidated). But I think Nathan is right. Exec language matters and the launch post is clearly more hedged than Greg’s post would lead a someone who doesn’t follow this stuff day in and day out to conclude",
+   "created_at": "Mon Nov 16 21:50:05 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "tszzl",
+   "reply_to_id": "2122441923919241261",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T23:44:38.843446+00:00",
+   "parent": {
+    "id": "2122441923919241261",
+    "author_handle": "tszzl",
+    "author_name": "roon",
+    "text": "@_NathanCalvin the launch post says “first phase”. like any other relationship, these will develop with time and trust imo",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/tszzl/status/2122441923919241261",
+    "created_at": "Mon Nov 16 21:29:22 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2122440753343271108": {
+   "id": "2122440753343271108",
+   "url": "https://x.com/theobearman/status/2122440753343271108",
+   "text": "Yeah to elaborate: Apollo embedded evaluators will only be allowed to talk to a specific whitelist of OpenAI employees chosen by OpenAI, and they notify OpenAI of each conversation, *and* they aren't allowed to publish the results without OpenAI approval and OpenAI is allowed to redact whatever it wants, or even simply withhold in-scope information from Apollo entirely, on grounds of security/ip/\"technical.\" Extremely weaksauce.",
+   "created_at": "Mon Nov 16 21:24:43 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "DKokotajlo",
+   "rt_author_name": "Daniel Kokotajlo",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "rt_id": "2122410534993826226",
+   "likes": 229,
+   "retweets": 23,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T23:44:38.843446+00:00",
+   "enriched": 3
+  },
+  "2122440658321645963": {
+   "id": "2122440658321645963",
+   "url": "https://x.com/theobearman/status/2122440658321645963",
+   "text": "excited about our v0.1 framework for classifying ai (si?) control incidents. please send any and all feedback!\nhttps://t.co/mivL7KRWGQ https://t.co/Zujq1TN5wr",
+   "created_at": "Mon Nov 16 21:24:20 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dkaushik96",
+   "rt_author_name": "Divyansh Kaushik",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1908259788955258880/H-PuaNei_normal.jpg",
+   "rt_id": "2122409812591813071",
+   "likes": 29,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXRQF8DW4AAnq6B.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXRQF8DW4AAnq6B.png"
+    }
+   ],
+   "links": {
+    "https://t.co/mivL7KRWGQ": "https://openai.com/index/classifying-ai-control-incidents/",
+    "https://t.co/Zujq1TN5wr": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T23:44:38.843446+00:00",
+   "enriched": 3
+  },
+  "2122436742758179008": {
+   "id": "2122436742758179008",
+   "url": "https://x.com/theobearman/status/2122436742758179008",
+   "text": "Strong +1. Without a mandatory legal framework governing these kinds of agreements, “taking the win” of any additional independent assessment is an understandable reaction. That said, I think it’s incumbent on CSOs in particular to hold the companies’ to account for the commitments they have made and stay constructively skeptical given the risk of “safety theater.”",
+   "created_at": "Mon Nov 16 21:08:47 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2122394159197950006",
+    "author_name": "Neel Nanda",
+    "links": {
+     "https://t.co/50CGOlhrzZ": ""
+    },
+    "author": "NeelNanda5",
+    "text": "It's great that OpenAI is doing these assessments but they fall short of Sam's commitment to employee-like access\n\nGood access is key for trust because assessors can find things even if a company tries hiding them. Here OpenAI controls information flow so we must rely on good faith\n\nLimitations (per Apollo): \n- No Slack\n- Only OpenAI-selected staff for interviews\n- Formal conversations with staff must be logged (harder to freely raise concerns)\n- METR & Apollo currently have only agreed access to training run information, not internal incidents, etc. Incidents like Hugging Face are some of the most important sources of information we have about alignment\n\nI see the value in a pilot before future assessments with deeper access, but then OpenAI should present a plan for how and when they intend to meet their commitment to employee-like access. And either way, OpenAI is presumably able to go further here."
+   },
+   "fetched_at": "2026-11-16T23:44:38.843446+00:00",
+   "enriched": 3
   }
  }
 }

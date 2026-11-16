@@ -13508,6 +13508,74 @@
    "quoted": null,
    "fetched_at": "2026-11-16T21:02:04.818687+00:00",
    "enriched": 3
+  },
+  "2122457629410648145": {
+   "id": "2122457629410648145",
+   "url": "https://x.com/deanwball/status/2122457629410648145",
+   "text": "We’re announcing an embedded assessment with @OpenAI to advance safety and alignment at the frontier. https://t.co/WSZ43iSvZQ",
+   "created_at": "Mon Nov 16 22:31:46 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "GoodfireAI",
+   "rt_author_name": "Goodfire",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1892027414768910341/4VDlUa3M_normal.png",
+   "rt_id": "2122362693730574665",
+   "likes": 583,
+   "retweets": 58,
+   "media": [],
+   "links": {
+    "https://t.co/WSZ43iSvZQ": "https://x.com/i/article/2121376386300698625"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T23:44:38.843446+00:00",
+   "enriched": 3
+  },
+  "2122440594496643276": {
+   "id": "2122440594496643276",
+   "url": "https://x.com/deanwball/status/2122440594496643276",
+   "text": "@andrewscharlie_ my tweet has nothing to do with Jacob’s shares. I turn off replies to make it harder for people to spew hate and threats of violence against me, which still happens all the time. It’s a tradeoff I’ve spoken about before. I don’t love it. That said, it’s just an x default, and I’ll turn replies back on for this tweet.",
+   "created_at": "Mon Nov 16 21:24:05 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "andrewscharlie_",
+   "reply_to_id": "2122439298196861101",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-16T23:44:38.843446+00:00",
+   "parent": {
+    "id": "2122439298196861101",
+    "author_handle": "andrewscharlie_",
+    "author_name": "Charlie Andrews-Jubelt",
+    "text": "@deanwball I wanted to reply to this but apparently cannot now, which struck me as a bit ironic (with the “no one is above questions” part). My question was— didn’t he since commit to donating his shares?\n\nhttps://t.co/4hOtKnU5Rd https://t.co/ZXxZLjn0Yl",
+    "links": {
+     "https://t.co/4hOtKnU5Rd": "https://x.com/hilbertspaess/status/2121341471295160491?a=C1ZGP11gi5jQ-iwibDs&s=46",
+     "https://t.co/ZXxZLjn0Yl": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXRrSz_bcAATfKx.jpg"
+     }
+    ],
+    "url": "https://x.com/andrewscharlie_/status/2122439298196861101",
+    "created_at": "Mon Nov 16 21:18:56 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

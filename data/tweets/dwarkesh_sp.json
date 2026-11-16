@@ -4943,6 +4943,37 @@
    "quoted": null,
    "fetched_at": "2026-11-16T21:02:04.818687+00:00",
    "enriched": 3
+  },
+  "2122447386480140714": {
+   "id": "2122447386480140714",
+   "url": "https://x.com/dwarkesh_sp/status/2122447386480140714",
+   "text": ".@paulfchristiano on what the end output of the intelligence explosion (running within a datacenter) will be:\n\nBillions of minds, thinking 10s of times faster than humans, learning from all their parallel experience, with better learning algorithms than the ones evolution gave us.",
+   "created_at": "Mon Nov 16 21:51:04 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 96,
+   "retweets": 11,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2122446431214878720/img/5EC7mHWewV7ibKB3.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/NzKTpMEZLn": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-16T23:44:38.843446+00:00",
+   "enriched": 3
   }
  }
 }
