@@ -3564,6 +3564,41 @@
    "quoted": null,
    "fetched_at": "2026-11-16T21:02:04.818687+00:00",
    "enriched": 3
+  },
+  "2122736670936031474": {
+   "id": "2122736670936031474",
+   "url": "https://x.com/mentalgeorge/status/2122736670936031474",
+   "text": "One of the many millions of crucial things left out of METR RSI report:\n\nWhat is the main mechanism by which AI labour is contributing to the 2x acceleration of capabilities on well-specified tasks?\n\nThere is a world of difference between: \n\n1. Most of the AI's contribution comes from assisting work that can be described as \"developing better learning algorithms\"; eg things like Kimi Delta Attention; in general, things that improve pretraining loss curves, etc  \n\nand\n\n2.  Most of the AI's contribution comes from doing things like: constructing RL bespoke environments for each benchmark in AECI; filtering slop out of the pretraining distribution, etc. \n\nWhy does it matter? Well, if the gains on well-specified tasks come from (1), they generalise to other tasks. In that world, the entity that emerges from RSI loop can rapidly superlearn from other domains. \nIf they come from 2, they don't.  (AIFP also note that the contribution of \"data-generation\" is the biggest candidate missing from their model.)\n\nAdmittedly, the fact that METR, or any of the partially-redacted Anthropic employee quotes, don't really discuss (2) is weak evidence that it doesn't matter much. \n\nBut on the other hand, @dwarkesh_sp's analysis suggests that pretraining compute multipliers are mostly data-driven rather than algorithm-driven (though this is confounded by the small size of the models he investigated). \n\nWould be great to get more evidence on this.\n\n(we can also ultimately reopen the 2023-era debate of \"how general is pretraining really\" but idk i think that one was probably won already, tho im not yet 100% on it)",
+   "created_at": "Tue Nov 17 17:00:35 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 27,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXVzUquXQAA3FGq.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXV0pGfWQAAl1aj.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/qoSaXdD088": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T19:51:52.671734+00:00",
+   "enriched": 3
   }
  }
 }

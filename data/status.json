@@ -1,6 +1,6 @@
 {
  "last_run": {
-  "started": "2026-11-17T16:12:22.579242+00:00",
+  "started": "2026-11-17T19:51:52.671734+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
@@ -19,8 +19,8 @@
    },
    "alxndrdavies": {
     "ok": true,
-    "new": 0,
-    "total": 91
+    "new": 11,
+    "total": 102
    },
    "curl_justin": {
     "ok": true,
@@ -29,18 +29,18 @@
    },
    "DaveRBanerjee": {
     "ok": true,
-    "new": 3,
-    "total": 215
+    "new": 1,
+    "total": 216
    },
    "DKokotajlo": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 322
    },
    "dwarkesh_sp": {
     "ok": true,
-    "new": 3,
-    "total": 205
+    "new": 1,
+    "total": 206
    },
    "jkcarlsmith": {
     "ok": true,
@@ -54,8 +54,8 @@
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 0,
-    "total": 169
+    "new": 1,
+    "total": 170
    },
    "ohlennart": {
     "ok": true,
@@ -79,8 +79,8 @@
    },
    "s8mb": {
     "ok": true,
-    "new": 1,
-    "total": 590
+    "new": 3,
+    "total": 593
    },
    "random_walker": {
     "ok": true,
@@ -89,28 +89,28 @@
    },
    "sethlazar": {
     "ok": true,
-    "new": 0,
-    "total": 381
+    "new": 1,
+    "total": 382
    },
    "robertwiblin": {
     "ok": true,
-    "new": 11,
-    "total": 447
+    "new": 5,
+    "total": 452
    },
    "deanwball": {
     "ok": true,
-    "new": 1,
-    "total": 619
+    "new": 2,
+    "total": 621
    },
    "nabeelqu": {
     "ok": true,
-    "new": 0,
-    "total": 137
+    "new": 1,
+    "total": 138
    },
    "theobearman": {
     "ok": true,
-    "new": 8,
-    "total": 425
+    "new": 12,
+    "total": 437
    },
    "peterwilderford": {
     "ok": true,
@@ -124,16 +124,16 @@
    },
    "NateWitkin": {
     "ok": true,
-    "new": 0,
-    "total": 152
+    "new": 4,
+    "total": 156
    },
    "charnock_jacob": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 8
    }
   },
-  "new_tweets": 30,
-  "finished": "2026-11-17T16:13:25.688451+00:00"
+  "new_tweets": 42,
+  "finished": "2026-11-17T19:53:09.113273+00:00"
  }
 }

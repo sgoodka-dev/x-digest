@@ -8384,6 +8384,51 @@
    },
    "fetched_at": "2026-11-15T14:04:21.241306+00:00",
    "enriched": 3
+  },
+  "2122772244199866680": {
+   "id": "2122772244199866680",
+   "url": "https://x.com/sethlazar/status/2122772244199866680",
+   "text": "@hannahrosekirk @Nigel_Shadbolt @natashajaques @computermacgyve @bertievidgen @summerfieldlab @oiioxford @UniofOxford @AISecurityInst congratulations Hannah!",
+   "created_at": "Tue Nov 17 19:21:56 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": true,
+   "reply_to": "hannahrosekirk",
+   "reply_to_id": "2122401047658496503",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T19:51:52.671734+00:00",
+   "parent": {
+    "id": "2122401047658496503",
+    "author_handle": "hannahrosekirk",
+    "author_name": "Hannah Rose Kirk",
+    "text": "I passed my PhD viva! Thank you to my examiners @Nigel_Shadbolt and @natashajaques; to my supervisors @computermacgyve, @bertievidgen and @summerfieldlab for imparting their wisdoms; and to everyone else at @oiioxford, @UniofOxford and @AISecurityInst who helped along the way. https://t.co/PyxvT3QTV3",
+    "links": {
+     "https://t.co/PyxvT3QTV3": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXRGcaaW8AAGgz5.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXRGcaaW8AAGgz5.jpg"
+     }
+    ],
+    "url": "https://x.com/hannahrosekirk/status/2122401047658496503",
+    "created_at": "Mon Nov 16 18:46:56 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

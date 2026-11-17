@@ -13600,6 +13600,63 @@
    "quoted": null,
    "fetched_at": "2026-11-17T16:12:22.579242+00:00",
    "enriched": 3
+  },
+  "2122778461555261503": {
+   "id": "2122778461555261503",
+   "url": "https://x.com/deanwball/status/2122778461555261503",
+   "text": "GPT-6.2 Astra on the Bach Benchmark. First time seeing an escape tone (m. 9). The non-chord tones in measures 13 and 15 are also new; both are 4-3 suspensions, but the first is handled somewhat inexpertly, as it conflicts with the tenor. The latter is better handled and more interesting, because not only is it a 4-3 suspension (which we’ve never seen on this benchmark before), but an ornamented one. This seems like a significant development. LLMs have mastered the basics of music and are now introducing new layers of complexity.",
+   "created_at": "Tue Nov 17 19:46:39 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "aug5thmusic",
+   "rt_author_name": "Auggie",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2081713987272814592/Fc_qgJqU_normal.jpg",
+   "rt_id": "2122767673570607401",
+   "likes": 72,
+   "retweets": 7,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2122762415117156352/img/wcYoRsEXd_kCS8a0.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/bX4Y9OsKmX": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T19:51:52.671734+00:00",
+   "enriched": 3
+  },
+  "2122750377749885007": {
+   "id": "2122750377749885007",
+   "url": "https://x.com/deanwball/status/2122750377749885007",
+   "text": "OpenAI Daybreak for defending NATO and allied networks: https://t.co/0E3N2u9E5r",
+   "created_at": "Tue Nov 17 17:55:03 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "gdb",
+   "rt_author_name": "Greg Brockman",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_normal.jpg",
+   "rt_id": "2122740752556216515",
+   "likes": 758,
+   "retweets": 51,
+   "media": [],
+   "links": {
+    "https://t.co/0E3N2u9E5r": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T19:51:52.671734+00:00",
+   "enriched": 3
   }
  }
 }

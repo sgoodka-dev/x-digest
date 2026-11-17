@@ -5069,6 +5069,40 @@
    "quoted": null,
    "fetched_at": "2026-11-17T16:12:22.579242+00:00",
    "enriched": 3
+  },
+  "2122727364576919874": {
+   "id": "2122727364576919874",
+   "url": "https://x.com/dwarkesh_sp/status/2122727364576919874",
+   "text": "@corsaren Lotta reasonable objections, and I'll respond to them in detail later.\n\nFor now, I want to explicitly clarify that I did say that the chance of superhuman AI researchers in 2027 is 50%! \n\nI said in the post my median is 2028 for superhuman AI researchers and 2028 or 2029 for general superintelligence.",
+   "created_at": "Tue Nov 17 16:23:36 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "corsaren",
+   "reply_to_id": "2122574549707292976",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 41,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T19:51:52.671734+00:00",
+   "parent": {
+    "id": "2122574549707292976",
+    "author_handle": "corsaren",
+    "author_name": "corsaren",
+    "text": "I’ve read this a couple times now, and while there is, frankly, a lot of sloppy argumentation (which I will get to), the charitable, simplified read of Dwarkesh's position seems to be:\n\n1) AI needs major breakthroughs to achieve AGI/ASI (continual learning, sample efficiency, etc.) — this is a view he’s held for some time now, in line with Ilya\n\n2) These breakthroughs, and the ML research skills required to obtain them are verifiable, and thus current, pre-breakthrough AIs can hill-climb on these sorts of problems and capabilities to solve them (like we saw in math)\n\n3) Once these breakthroughs occur, we *may* see rapid, recursively compounding gains to intelligence, leading to ASI in a very short period of time\n\nThere's a ton of other stuff in the essay, but I think this is the basic crux. Christiano basically articulated this same argument in his Dwarkesh appearance, and if you look at AI-2027, it essentially follows the same trajectory: Agent 2/3 makes a ton of algorithmic progress, allowing Agent 4/5 to explode.\n\nIn general, I think the high-level narrative here is...fine? It’s certainly one plausible outcome. But, imo, it is a much narrower path than I think many are giving it credit for—a lot of things actually have to go just right for this to play out. And here's where I return to the other, messier arguments, because many of the intuitions and arguments driving Dwarkesh's view in favor of near-term ASI (e.g., EO2027) as a highly probability outcome (~50%) are, imo, quite bad:\n\n- “[We'd see] a jump as big as GPT-3.5 to GPT-6 Astra in just 12 months” -> No, under this scenario we’ll see ~4 years of AI progress in 1 year. If there are diminishing returns, then this won’t be as extreme as the jump we saw from GPT-3 to GPT-6. It very well could be, but that would require innovation to overcome the diminishing returns we'd expect in the base case.\n\n- “The other big piece of evidence for transfer is human evolution” -> Except if AI was following the sort of pattern we saw for human evolution, we should have seen better transfer long before AI started solving millennium problems. This spikiness has been one of the big surprises of AI!\n\n- “Rather, my claim is that scaling up RL training will give AIs the abilities necessary to ramp quickly in new contexts…it’ll go through an evolutionary process that involves centuries of corporate competition to figure out the optimal organizational techniques.” -> These are in direct conflict! If ramping requires RL runs that simulate centuries of competition within “digital economy full of millions of other AIs” then that’s quite bearish for ramp speed (relatively) given the compute and wall-clock requirements!\n\n- “I have a lot of 20-something-year-old friends whom I’ve watched accomplish incredible things and build world-leading companies and ventures in domains they entered into with no previous experience.” -> lol. rip leopold. But also, again, these are humans, with human sample efficiency. If AI gets there, sure. But how soon it gets there is the big crux.\n\n- “Obviously, some pieces of feedback—about how your actions impacted the quarterly earnings, say—require months of serial time. But even granting that, we should expect these future AIs to be able to get to top human performance in almost all domains within months of being deployed.” -> …no that’s not how that works at all because one set of earnings isn't enough to robustly learn from and you can’t re-run the same real-world conditions.\n\n- “[Sample efficiency & online learning are] AI’s equivalent of a Millennium Prize problem. And mathematics has already shown us what happens to such problems” -> Sure, but there’s a difference between “AI can solve a Millennium-level problem” and “AI can solve *this specific Millennium-level problem*” -- if the blocker is a specific problem, the timing spread becomes much wider.\n\n- “My answer to this [experiment/wall clock/compute] objection is that each agent will still have access to a ton of compute. Frontier labs have been more than quadrupling their compute every single year.” -> But that’s what they’ve needed to do keep up with their current pace! Even if the labs maintain their current pace of compute growth (and like, will they even? capital markets really do not seem accommodating and Dwarkesh's roommate just lowered his compute projections), we'd still need a step change in pace above that!\n\nAnd that's not even covering the biggest crux of all: whether the returns to intelligence continue to recursively compound faster than diminishing returns eat into them.\n\nNow, are any of these objections fatal? No. Do they “disprove” hard RSI/an intelligence explosion? No, ofc not. Am I kind of nitpicking here? Yeah, 100%.\n\nAnd to Dwarkesh's credit, he does anticipate and acknowledge a scenario (the “spark”) where these objections play out.\n\nBut the reason I've bothered to rant this long is that I see a lot of AI/RSI discourse follow this pattern: where 50% of the arguments are reasonable and grounded and appropriately hedged, and then the other 50% are these sorts of sloppy intuition pumps and what-ifs that include a ton of detail but a noticeable lack of rigor. And I can’t help but get the sense that it is the latter 50% that is really driving people’s predictions and expectations here, as it leads to sentences like this:\n\n“In the spark scenario…it takes years to get to the same endpoint that the software-only singularity would have achieved in months: a superintelligence that is to us what we are to chimps.”\n\nNote that Dwarkesh thinks these two outcomes (spark vs. software-only singularity) are equally likely. 50/50. I’m sorry, but that’s absolutely nuts. Even Christiano put the likelihood of ASI by in 2027 *absent any slowing down* at only 1 in 3, and I still think that's too bullish.\n\nLike, yes, I fully anticipate that we will have automated AI researchers (or something close to them) in 2027, and the universe where we go from that to a software-only singularity is not entirely out of the question. But obtaining that universe relies on a confluence of various frictions, diminishing returns, and wall-clocks being overcome, a somewhat specific set of algorithmic innovations being made or obviated, and an assortment of other factors playing out just-so to enable that perfect storm. Even a fairly rapid exponential doesn't qualify when you're talking about full-blown ASI in 13 months. It may not be impossible, but it's certainly not a 50/50 outcome.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/corsaren/status/2122574549707292976",
+    "created_at": "Tue Nov 17 06:16:22 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

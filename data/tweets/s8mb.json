@@ -13396,6 +13396,131 @@
    "quoted": null,
    "fetched_at": "2026-11-17T16:12:22.579242+00:00",
    "enriched": 3
+  },
+  "2122764349425222120": {
+   "id": "2122764349425222120",
+   "url": "https://x.com/s8mb/status/2122764349425222120",
+   "text": "Hold on, @stripepress built an entire book-reading experience in the browser, with realistic page transparency, shadows, and everything in between?!\n\nThe attention to detail is absurd. 🤯 https://t.co/PEFBlGj91x",
+   "created_at": "Tue Nov 17 18:50:34 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "AxelWyart",
+   "rt_author_name": "Axel",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2080657870190747648/qhwQhSLT_normal.jpg",
+   "rt_id": "2122735058222297486",
+   "likes": 11,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2122734776285057024/img/YRiYcaDn5IFKHGL2.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2122734776285057024/img/YRiYcaDn5IFKHGL2.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/PEFBlGj91x": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T19:51:52.671734+00:00",
+   "enriched": 3
+  },
+  "2122746234096210280": {
+   "id": "2122746234096210280",
+   "url": "https://x.com/s8mb/status/2122746234096210280",
+   "text": "@stripepress Good week to revisit this chapter. https://t.co/SSztbqNyuE",
+   "created_at": "Tue Nov 17 17:38:35 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "stripepress",
+   "reply_to_id": "2122721696998465972",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 13,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXWCZlWXMAEQQo_.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXWCZlWXMAEQQo_.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/SSztbqNyuE": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T19:51:52.671734+00:00",
+   "parent": {
+    "id": "2122721696998465972",
+    "author_handle": "stripepress",
+    "author_name": "Stripe Press",
+    "text": "The new Stripe Press site is now live.\n\nhttps://t.co/80XygQZwrx https://t.co/37oZDvmQmU",
+    "links": {
+     "https://t.co/80XygQZwrx": "https://stripe.press",
+     "https://t.co/37oZDvmQmU": ""
+    },
+    "media": [
+     {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2122721647085948928/img/_JQTy9ae1BvkzwdZ.jpg"
+     },
+     {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2122721647085948928/img/_JQTy9ae1BvkzwdZ.jpg"
+     }
+    ],
+    "url": "https://x.com/stripepress/status/2122721696998465972",
+    "created_at": "Tue Nov 17 16:01:05 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2122729755665662216": {
+   "id": "2122729755665662216",
+   "url": "https://x.com/s8mb/status/2122729755665662216",
+   "text": "Now you can buy your books from Stripe, on Stripe!",
+   "created_at": "Tue Nov 17 16:33:06 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 81,
+   "retweets": 6,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2122721696998465972",
+    "author_name": "Stripe Press",
+    "links": {
+     "https://t.co/80XygQZwrx": "https://stripe.press",
+     "https://t.co/37oZDvmQmU": ""
+    },
+    "author": "stripepress",
+    "text": "The new Stripe Press site is now live.\n\nhttps://t.co/80XygQZwrx https://t.co/37oZDvmQmU"
+   },
+   "fetched_at": "2026-11-17T19:51:52.671734+00:00",
+   "enriched": 3
   }
  }
 }

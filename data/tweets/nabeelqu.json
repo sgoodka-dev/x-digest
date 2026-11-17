@@ -2770,6 +2770,38 @@
     "created_at": "Mon Nov 16 16:19:27 +0000 2026"
    },
    "enriched": 3
+  },
+  "2122749369870852443": {
+   "id": "2122749369870852443",
+   "url": "https://x.com/nabeelqu/status/2122749369870852443",
+   "text": "because you have not heeded my warnings and learned Spanish yet, The Point has republished in English my essay on Pangram, AI writing, the third world novel, and why so many humanists have chosen ignorance instead of grappling with what AI means for literature https://t.co/qjkWiMZPBf",
+   "created_at": "Tue Nov 17 17:51:03 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1857140980421668864/0prdKK32_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "brunellaism",
+   "rt_author_name": "Brunella",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1889486598657454081/qXokg7ty_normal.jpg",
+   "rt_id": "2122746021868634475",
+   "likes": 313,
+   "retweets": 57,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXWA97-aQAAhDvB.png"
+    }
+   ],
+   "links": {
+    "https://t.co/qjkWiMZPBf": "https://thepointmag.com/examined-life/the-part-about-the-machines/",
+    "https://t.co/CzZxrqdG7C": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T19:51:52.671734+00:00",
+   "enriched": 3
   }
  }
 }

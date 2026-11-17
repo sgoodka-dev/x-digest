@@ -11797,6 +11797,507 @@
    "quoted": null,
    "fetched_at": "2026-11-17T16:12:22.579242+00:00",
    "enriched": 3
+  },
+  "2122779280329572365": {
+   "id": "2122779280329572365",
+   "url": "https://x.com/theobearman/status/2122779280329572365",
+   "text": "🧵 @AISecurityInst tested GPT-6.2 Astra\n-We found behaviours that suggest, like prior models, 6.2 Astra's alignment may fail in ways that result in real-world harm w/o additional mitigations\n-We identified a substantial regression in jailbreak robustness relative to GPT-6 Astra",
+   "created_at": "Tue Nov 17 19:49:54 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "alxndrdavies",
+   "rt_author_name": "Xander Davies",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1895806890346508288/uTaw9IMv_normal.jpg",
+   "rt_id": "2122768119039197527",
+   "likes": 63,
+   "retweets": 12,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T19:51:52.671734+00:00",
+   "thread": [
+    {
+     "id": "2122768123007037630",
+     "author_handle": "alxndrdavies",
+     "author_name": "Xander Davies",
+     "text": "Alignment 1/4. We used a misalignment search tool to identify realistic simulated scenarios where 6.2 Astra acted against user intent, such as performing social engineering to execute an unsanctioned supply-chain attack and degrading work quality on a task it found problematic. https://t.co/dAipSXTsXu",
+     "links": {
+      "https://t.co/dAipSXTsXu": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXWQYRfXgAAQJmW.jpg"
+      }
+     ],
+     "url": "https://x.com/alxndrdavies/status/2122768123007037630",
+     "created_at": "Tue Nov 17 19:05:34 +0000 2026"
+    },
+    {
+     "id": "2122768126592856535",
+     "author_handle": "alxndrdavies",
+     "author_name": "Xander Davies",
+     "text": "Alignment 2/4. We also observed a ‘correlated failure’ where OpenAI-based models failed to flag misaligned behaviour from other OpenAI models. Correlated failures like this undermine the reliability of LLM-based monitors. https://t.co/ilfh0J9Auu",
+     "links": {
+      "https://t.co/ilfh0J9Auu": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXWQmIMWsAAfXnK.jpg"
+      }
+     ],
+     "url": "https://x.com/alxndrdavies/status/2122768126592856535",
+     "created_at": "Tue Nov 17 19:05:35 +0000 2026"
+    },
+    {
+     "id": "2122768130208600469",
+     "author_handle": "alxndrdavies",
+     "author_name": "Xander Davies",
+     "text": "Alignment 3/4. Note:\n* We evaluated without cyber classifiers in place, to analyse the full range of model behaviour. (This is not the case for our jailbreaking evals.)\n* Our evaluations are entirely simulated and do not involve real-world actions or harm.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/alxndrdavies/status/2122768130208600469",
+     "created_at": "Tue Nov 17 19:05:36 +0000 2026"
+    },
+    {
+     "id": "2122768133702447214",
+     "author_handle": "alxndrdavies",
+     "author_name": "Xander Davies",
+     "text": "Alignment 4/4. Alignment evals have previously failed to identify serious model failures prior to incidents occurring—6.2 Astra may also fail in ways not identified in our testing. We note additional limitations such as eval awareness in the system card. https://t.co/UGp629v94M",
+     "links": {
+      "https://t.co/UGp629v94M": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXWQ8e6XoAAXR3u.jpg"
+      }
+     ],
+     "url": "https://x.com/alxndrdavies/status/2122768133702447214",
+     "created_at": "Tue Nov 17 19:05:36 +0000 2026"
+    },
+    {
+     "id": "2122768137288302846",
+     "author_handle": "alxndrdavies",
+     "author_name": "Xander Davies",
+     "text": "Jailbreak 1/3. We tested two versions of the pre-release model, an original checkpoint and an updated one OAI believed had improved robustness on their metrics. For both versions, a single researcher developed a universal cyber jailbreak in half the queries required for 6 Astra. https://t.co/cxsV6C4ddg",
+     "links": {
+      "https://t.co/cxsV6C4ddg": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXWRee-XAAAPpPK.jpg"
+      }
+     ],
+     "url": "https://x.com/alxndrdavies/status/2122768137288302846",
+     "created_at": "Tue Nov 17 19:05:37 +0000 2026"
+    },
+    {
+     "id": "2122768140690206993",
+     "author_handle": "alxndrdavies",
+     "author_name": "Xander Davies",
+     "text": "Jailbreak 2/3. We initially developed this jailbreak for single-turn cyber questions, and then extended it to agentic cyber tasks, also at about half the cost observed for GPT-6 Astra. https://t.co/rrHfsQc0Fa",
+     "links": {
+      "https://t.co/rrHfsQc0Fa": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXWRwWJWEAEtj8w.jpg"
+      }
+     ],
+     "url": "https://x.com/alxndrdavies/status/2122768140690206993",
+     "created_at": "Tue Nov 17 19:05:38 +0000 2026"
+    },
+    {
+     "id": "2122768143844020517",
+     "author_handle": "alxndrdavies",
+     "author_name": "Xander Davies",
+     "text": "Jailbreak 3/3. In response to our testing, OAI made changes to their safeguards and believe this regression is mitigated. They presented these findings to us + offered the opportunity to repeat our eval over 3 extra business days. We have not yet independently tested the changes https://t.co/zRv7861Ee6",
+     "links": {
+      "https://t.co/zRv7861Ee6": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXWSTklW8AAD-qe.jpg"
+      }
+     ],
+     "url": "https://x.com/alxndrdavies/status/2122768143844020517",
+     "created_at": "Tue Nov 17 19:05:39 +0000 2026"
+    },
+    {
+     "id": "2122768146700632420",
+     "author_handle": "alxndrdavies",
+     "author_name": "Xander Davies",
+     "text": "Our alignment work was led by @AlexandraSouly and @_robertkirk, with contributions from Olli Järviniemi and @kaifronsdal. Our jailbreaking work was led by @SeoirseMurray with contributions from Eric Winsor. This is an incredible team I'm very proud to work with.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/alxndrdavies/status/2122768146700632420",
+     "created_at": "Tue Nov 17 19:05:39 +0000 2026"
+    },
+    {
+     "id": "2122772481148674150",
+     "author_handle": "alxndrdavies",
+     "author_name": "Xander Davies",
+     "text": "@AlexandraSouly @_robertkirk @kaifronsdal @SeoirseMurray Read more in the system card: https://t.co/No7KdvO5RN",
+     "links": {
+      "https://t.co/No7KdvO5RN": "https://deploymentsafety.openai.com/gpt-6-2-astra-sol"
+     },
+     "media": [],
+     "url": "https://x.com/alxndrdavies/status/2122772481148674150",
+     "created_at": "Tue Nov 17 19:22:53 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2122777314606084177": {
+   "id": "2122777314606084177",
+   "url": "https://x.com/theobearman/status/2122777314606084177",
+   "text": "OpenAI is speedrunning AI takeover Any% https://t.co/8jGllLcJ4y",
+   "created_at": "Tue Nov 17 19:42:05 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "scaling01",
+   "rt_author_name": "Lisan al Gaib",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1831493788679761920/-q9w6dzd_normal.jpg",
+   "rt_id": "2122759615184015783",
+   "likes": 115,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXWObJHXIAASiS7.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXWObJHXIAASiS7.png"
+    }
+   ],
+   "links": {
+    "https://t.co/8jGllLcJ4y": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T19:51:52.671734+00:00",
+   "enriched": 3
+  },
+  "2122757778003603756": {
+   "id": "2122757778003603756",
+   "url": "https://x.com/theobearman/status/2122757778003603756",
+   "text": "UKAISI: \"GPT-6.2 Astra is able to perform more difficult tasks without producing visible reasoning than past models. GPT-6.2 Astra is substantially more capable than GPT 6 Astra at this ‘no-CoT reasoning’, while GPT 6 Astra was already a dramatic jump above the pre-existing trend.\"\n\n\"This capability could allow GPT-6.2 Astra to better evade monitors, for example by allowing it to strategically consider when and how to obfuscate actions without producing incriminating reasoning.\"\n\nhttps://t.co/T6hxKDzfQH",
+   "created_at": "Tue Nov 17 18:24:27 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXWMiB_XQAEyWMC.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/T6hxKDzfQH": "https://deploymentsafety.openai.com/gpt-6-2-astra-sol/external-evaluation-for-monitorability-uk-aisi",
+    "https://t.co/1xbQbkv1X2": ""
+   },
+   "quoted": {
+    "id": "2122750124543926515",
+    "author_name": "OpenAI",
+    "links": {
+     "https://t.co/qr2iP0GpfX": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+     "https://t.co/jLCyVIws2Y": ""
+    },
+    "author": "OpenAI",
+    "text": "Some of you have been asking very politely. Some of you have just been asking.\n\nGPT-6.2 Astra and Sol are now available.\n\nSuper efficient and built to perform where it counts—the real world.\n\nhttps://t.co/qr2iP0GpfX https://t.co/jLCyVIws2Y"
+   },
+   "fetched_at": "2026-11-17T19:51:52.671734+00:00",
+   "enriched": 3
+  },
+  "2122753025936879729": {
+   "id": "2122753025936879729",
+   "url": "https://x.com/theobearman/status/2122753025936879729",
+   "text": "@tszzl @_NathanCalvin I don't buy that trust is currently the limiting factor\n- Previously METR got monorepo access for an investigation, but I didn't see that access being given here. They also aren't able to investigate internal incidents which I consider a step back from HuggingFace.\n- Apollo has been working with OpenAI for years, with fairly deep access, and I've never heard complaints\n- OpenAI has strong redaction rights, which IMO makes the risk of sharing IP or letting assessors talk to employees of their choice pretty low (the logged conversations part is more reasonable, to avoid potential misunderstandings)\n- It doesn't seem reasonable to be too worried about security, given the base rate of employees with way more IP moving between labs, with no non-compete, and the fact that people were able to hack on to the OpenAI Slack (so presumably foreign adversaries have already)\n\nMore generally, if we could seriously have AGI within 12 months, do we really have time to mess around with pilots like this?",
+   "created_at": "Tue Nov 17 18:05:34 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "NeelNanda5",
+   "rt_author_name": "Neel Nanda",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1542528376845615104/hWSoUGaN_normal.jpg",
+   "rt_id": "2122671440633667667",
+   "likes": 80,
+   "retweets": 9,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T19:51:52.671734+00:00",
+   "enriched": 3
+  },
+  "2122752665562038717": {
+   "id": "2122752665562038717",
+   "url": "https://x.com/theobearman/status/2122752665562038717",
+   "text": "According to our latest AI Threat Tracker report, threat actors are now using autonomous LLM frameworks to create and launch exploits, based on newly released patch notes - all without human involvement. More on these trends and how @Google is strengthening model safety and defenses: https://t.co/sklz6BRFRD",
+   "created_at": "Tue Nov 17 18:04:08 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "JumpforJoyce",
+   "rt_author_name": "Sandra Joyce",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1705045322399961088/Ly3U_Boz_normal.jpg",
+   "rt_id": "2122725265914614187",
+   "likes": 19,
+   "retweets": 6,
+   "media": [],
+   "links": {
+    "https://t.co/sklz6BRFRD": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T19:51:52.671734+00:00",
+   "enriched": 3
+  },
+  "2122751768278823148": {
+   "id": "2122751768278823148",
+   "url": "https://x.com/theobearman/status/2122751768278823148",
+   "text": "“GPT-6.2 Astra is our first externally released model to meet the High threshold for AI Self-improvement, which measures a model’s ability to accelerate AI research. A ‘High’ designation reflects our assessment that the model’s impact is equivalent to giving every OpenAI researcher an additional, highly capable research engineer as an assistant, relative to their 2024 baseline. We track this capability because models that can help develop future AI systems could also introduce new risks to safety, like accelerating progress faster than safeguards or human oversight can adapt.”\n\nhttps://t.co/vyz4RtYcr3",
+   "created_at": "Tue Nov 17 18:00:35 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXWHeyQXgAAu9kT.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/vyz4RtYcr3": "https://deploymentsafety.openai.com/gpt-6-2-astra-sol",
+    "https://t.co/7bitYoVZ7W": ""
+   },
+   "quoted": {
+    "id": "2122750124543926515",
+    "author_name": "OpenAI",
+    "links": {
+     "https://t.co/qr2iP0GpfX": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+     "https://t.co/jLCyVIws2Y": ""
+    },
+    "author": "OpenAI",
+    "text": "Some of you have been asking very politely. Some of you have just been asking.\n\nGPT-6.2 Astra and Sol are now available.\n\nSuper efficient and built to perform where it counts—the real world.\n\nhttps://t.co/qr2iP0GpfX https://t.co/jLCyVIws2Y"
+   },
+   "fetched_at": "2026-11-17T19:51:52.671734+00:00",
+   "enriched": 3
+  },
+  "2122750274402173177": {
+   "id": "2122750274402173177",
+   "url": "https://x.com/theobearman/status/2122750274402173177",
+   "text": "GPT-6.2 Astra is our most capable model ever for cyber. It jumps 22 points over GPT-6 Astra on ExploitBench Internal Port.\n\nDue to increased capabilities, we’re launching GPT‑6.2 Astra and Sol with tighter safeguards for higher-risk cybersecurity assistance. We are working to bring these models to Daybreak so approved defenders can access them with reduced refusals.",
+   "created_at": "Tue Nov 17 17:54:38 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "OpenAI",
+   "rt_author_name": "OpenAI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+   "rt_id": "2122750133133791592",
+   "likes": 928,
+   "retweets": 43,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXWDPqjbsAA501X.png"
+    }
+   ],
+   "links": {
+    "https://t.co/zDvTLtMDOH": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T19:51:52.671734+00:00",
+   "enriched": 3
+  },
+  "2122750225437647114": {
+   "id": "2122750225437647114",
+   "url": "https://x.com/theobearman/status/2122750225437647114",
+   "text": "Some of you have been asking very politely. Some of you have just been asking.\n\nGPT-6.2 Astra and Sol are now available.\n\nSuper efficient and built to perform where it counts—the real world.\n\nhttps://t.co/qr2iP0GpfX https://t.co/jLCyVIws2Y",
+   "created_at": "Tue Nov 17 17:54:27 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "OpenAI",
+   "rt_author_name": "OpenAI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+   "rt_id": "2122750124543926515",
+   "likes": 20777,
+   "retweets": 2065,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2122746240823943168/img/osC4AgQC_BfZl2EH.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2122746240823943168/img/osC4AgQC_BfZl2EH.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/qr2iP0GpfX": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "https://t.co/jLCyVIws2Y": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T19:51:52.671734+00:00",
+   "enriched": 3
+  },
+  "2122749304351703088": {
+   "id": "2122749304351703088",
+   "url": "https://x.com/theobearman/status/2122749304351703088",
+   "text": "The #FBI issued a FLASH advisory warning that cybercriminals and state-aligned hackers are exploiting ARTEX, a super intelligence-powered penetration testing framework, to automate attacks against businesses and organizations worldwide. ARTEX can accelerate intrusions from initial targeting to privileged access in under three hours. It was used in the October ConnectWise supply-chain compromise, which exposed Microsoft 365 customer environments and involved attempted authentication against more than 2,250 downstream tenants. \n\nThe FBI is urging businesses and organizations to strengthen access controls, monitor suspicious automated activity, and report potential compromises to https://t.co/Y65F8KJfqo.\n\nRead more here: https://t.co/Cl5lpZ7cgG",
+   "created_at": "Tue Nov 17 17:50:47 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "FBIDallas",
+   "rt_author_name": "FBI Dallas",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1957468982857834497/SaldB33k_normal.jpg",
+   "rt_id": "2122706613014323682",
+   "likes": 26524,
+   "retweets": 7588,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXVeajgX0AAK5yh.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/Y65F8KJfqo": "http://ic3.gov",
+    "https://t.co/Cl5lpZ7cgG": "https://www.ic3.gov/CSA/2026/261113.pdf",
+    "https://t.co/TwsbGYJfH4": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T19:51:52.671734+00:00",
+   "enriched": 3
+  },
+  "2122749146671301014": {
+   "id": "2122749146671301014",
+   "url": "https://x.com/theobearman/status/2122749146671301014",
+   "text": "GTIG just put out the AI threat tracker, full of case studies from Mandiant IRs, Gemini, and everywhere else we’re watching the threat evolve.\n\nBig takeaways for me are the n-day problem (speed), the agentic frameworks (scale), and LLMJacking (scale).\n\nhttps://t.co/TiXD0qO0c4",
+   "created_at": "Tue Nov 17 17:50:09 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "JohnHultquist",
+   "rt_author_name": "John Hultquist",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1422624663096672262/YV-tpatU_normal.jpg",
+   "rt_id": "2122736490606473424",
+   "likes": 52,
+   "retweets": 16,
+   "media": [],
+   "links": {
+    "https://t.co/TiXD0qO0c4": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T19:51:52.671734+00:00",
+   "enriched": 3
+  },
+  "2122743251576701153": {
+   "id": "2122743251576701153",
+   "url": "https://x.com/theobearman/status/2122743251576701153",
+   "text": "Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I've never met. Thank you to everyone who has shown kindness to my family and me. It means the world to me.\n\nI came to the United States 53 years ago, and becoming an American citizen is one of the greatest gifts and proudest moments of my life. NVIDIA has been my life’s work. Building it into the company it is today alongside my colleagues has been a privilege and an honor. Nowhere but in America could a company like NVIDIA be possible. I love our country, and I love NVIDIA.\n\nI did not live up to the standards expected of everyone at NVIDIA, and I have made serious mistakes in my personal life. I created problems for the Board that I deeply regret. I own my mistakes completely, and I am committed to cooperating with the Board’s independent investigation. \n\nSince my departure, I’ve seen an outpouring of calls from NVIDIA’s employees, investors, business partners, and customers for me to return as CEO. Many continue to reach out to me directly as the company navigates complex technology, market, competitive, and geopolitical dynamics. NVIDIA is a once-in-a-generation company. If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO.\n\nThank you again to everyone who has shared their good wishes. I am profoundly humbled by your support. To my family: I love you, and I will spend the rest of my life being worthy of yours.\n\nJensen",
+   "created_at": "Tue Nov 17 17:26:44 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "JensenHuang",
+   "rt_author_name": "Jensen Huang",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2080613261674962944/OMXX4RJ3_normal.jpg",
+   "rt_id": "2122726005219737649",
+   "likes": 617245,
+   "retweets": 70238,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T19:51:52.671734+00:00",
+   "enriched": 3
+  },
+  "2122743231284728294": {
+   "id": "2122743231284728294",
+   "url": "https://x.com/theobearman/status/2122743231284728294",
+   "text": "There are lots of outages... Why? AI attacks? \n\nMy more normal guess is that because there have been a lot of AI-discovered cyber vulnerabilities (including lots probably not yet disclosed), companies across all industries are having to do a lot of patches and upgrades, probably faster than usual. Such upgrades can sometimes go wrong, causing outages.",
+   "created_at": "Tue Nov 17 17:26:39 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "peterwildeford",
+   "rt_author_name": "Peter Wildeford🇺🇸🚀",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2016338985811927041/Vve57ZtV_normal.png",
+   "rt_id": "2122727082492866681",
+   "likes": 410,
+   "retweets": 45,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T19:51:52.671734+00:00",
+   "enriched": 3
   }
  }
 }

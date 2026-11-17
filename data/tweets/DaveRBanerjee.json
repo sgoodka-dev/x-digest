@@ -4958,6 +4958,32 @@
     "created_at": "Tue Nov 17 01:16:41 +0000 2026"
    },
    "enriched": 3
+  },
+  "2122757305573728340": {
+   "id": "2122757305573728340",
+   "url": "https://x.com/DaveRBanerjee/status/2122757305573728340",
+   "text": "Announcing...\nFUTURECRAFT: The Day After AGI \n\nOur new series of policy essays exploring the radical reform possibilities enabled — and demanded — by the super intelligence era and the coming wave of rapid technological change.\n\nRead the essays here ⏩\n\nhttps://t.co/lukvcpCSz3",
+   "created_at": "Tue Nov 17 18:22:35 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "hamandcheese",
+   "rt_author_name": "Samuel Hammond 🦉",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1941687232538013696/jN33mhMu_normal.jpg",
+   "rt_id": "2122716633718272291",
+   "likes": 87,
+   "retweets": 28,
+   "media": [],
+   "links": {
+    "https://t.co/lukvcpCSz3": "https://futurecraft.thefai.org/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T19:51:52.671734+00:00",
+   "enriched": 3
   }
  }
 }
