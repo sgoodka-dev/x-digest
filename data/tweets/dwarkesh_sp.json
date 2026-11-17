@@ -4974,6 +4974,101 @@
    "quoted": null,
    "fetched_at": "2026-11-16T23:44:38.843446+00:00",
    "enriched": 3
+  },
+  "2122552661790835134": {
+   "id": "2122552661790835134",
+   "url": "https://x.com/dwarkesh_sp/status/2122552661790835134",
+   "text": "mfw when the most persuasive parts of my post are apparently the things I shoved into footnotes and appendices",
+   "created_at": "Tue Nov 17 04:49:24 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 252,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2121730959967994025",
+    "author_name": "Caleb Watney",
+    "links": {},
+    "author": "calebwatney",
+    "text": "Excellent essay. The appendix especially helped me grok, better than anything I’ve read, why AI R&D may actually be a verifiable task.\n\nOne analogy that came to mind as I was reading: \n\nThe usual arguments for why AI will be slow to cure diseases are about feedback loops. You need exposure to the real world, wet labs, slow, expensive clinical trials, etc., to know whether your hypothesis is correct.\n\nNow imagine we had a full in silico model of the human body. Granular biomarkers on everything. Digital trials across millions of virtual patients, run 1000x faster than real time.\n\nAlmost all biologists would expect a mind-boggling speedup in medical discovery from this.\n\nAI R&D ~already looks like that world. Dwarkesh’s appendix is basically a list of biomarkers: \n- Pretraining → loss on held-out text\n- Post-training → how quickly a model masters an environment it’s never seen\n- Inference → GPU utilization, memory per token, latency\n- Research taste → does a trick that works at 100M parameters still work at 10B?\n\nAs Dwarkesh puts it: “We can make models much better at things that can be tested inside a datacenter. And AI training is literally happening inside a datacenter.”"
+   },
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "enriched": 3
+  },
+  "2122513029002924400": {
+   "id": "2122513029002924400",
+   "url": "https://x.com/dwarkesh_sp/status/2122513029002924400",
+   "text": "@EgeErdil2 When you say 2 years won't be enough to fix them, are you saying that as a result, they won't build (or be able to build) more capable AI systems in the meantime, because the intermediate RSI models will be too misaligned to do their job correctly?",
+   "created_at": "Tue Nov 17 02:11:55 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "EgeErdil2",
+   "reply_to_id": "2122129792602718353",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "parent": {
+    "id": "2122129792602718353",
+    "author_handle": "EgeErdil2",
+    "author_name": "Ege Erdil",
+    "text": "i think pacing is a bad idea because it's targeting the speed of development indiscriminately\n\nwhat should happen is specific safety issues should be monitored and addressed, and i just think enough such issues will come up that my median is 2 yrs won't be enough to fix them",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/EgeErdil2/status/2122129792602718353",
+    "created_at": "Mon Nov 16 00:49:04 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2122493169312915931": {
+   "id": "2122493169312915931",
+   "url": "https://x.com/dwarkesh_sp/status/2122493169312915931",
+   "text": ".@paulfchristiano explains the basic AI takeover story:\n\nStep 1. A rogue internal agent swarm gains effective control over OpenAI or Anthropic during the intelligence explosion \n\nStep 2. By the point at which these AIs have exfiltrated themselves, and you've got billions of copies of super smart AIs that have compromised all web connected infrastructure globally, the government response (which these AIs are actively trying to undermine) becomes much harder to successfully carry out.",
+   "created_at": "Tue Nov 17 00:53:00 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 344,
+   "retweets": 38,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2122447995576967168/img/sqZgTqxo9P_U6lF0.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/HHH90rFZKA": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "enriched": 3
   }
  }
 }

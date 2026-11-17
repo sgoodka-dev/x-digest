@@ -4855,6 +4855,109 @@
    "quoted": null,
    "fetched_at": "2026-11-16T21:02:04.818687+00:00",
    "enriched": 3
+  },
+  "2122524126418174376": {
+   "id": "2122524126418174376",
+   "url": "https://x.com/DaveRBanerjee/status/2122524126418174376",
+   "text": "@justjoshinyou13 @EpochAIResearch Wow",
+   "created_at": "Tue Nov 17 02:56:00 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "justjoshinyou13",
+   "reply_to_id": "2122522912716431598",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "parent": {
+    "id": "2122522912716431598",
+    "author_handle": "justjoshinyou13",
+    "author_name": "Josh You",
+    "text": "@DaveRBanerjee @EpochAIResearch we were like 30 people 6 months ago",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/justjoshinyou13/status/2122522912716431598",
+    "created_at": "Tue Nov 17 02:51:11 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2122519192616247726": {
+   "id": "2122519192616247726",
+   "url": "https://x.com/DaveRBanerjee/status/2122519192616247726",
+   "text": "Even though timelines are short, I still think it’s still worth starting an Anki habit",
+   "created_at": "Tue Nov 17 02:36:24 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "enriched": 3
+  },
+  "2122517832353399135": {
+   "id": "2122517832353399135",
+   "url": "https://x.com/DaveRBanerjee/status/2122517832353399135",
+   "text": "@justjoshinyou13 @EpochAIResearch This is pretty surprising. I would’ve guessed 6 months ago yall were at 40",
+   "created_at": "Tue Nov 17 02:31:00 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "justjoshinyou13",
+   "reply_to_id": "2122499130882961633",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "parent": {
+    "id": "2122499130882961633",
+    "author_handle": "justjoshinyou13",
+    "author_name": "Josh You",
+    "text": "i've had like four people react like this this week when I told them @EpochAIResearch has 70 staff now, didn't realize people outside the org had such strong priors over how big it was https://t.co/RjZiEsjENj",
+    "links": {
+     "https://t.co/RjZiEsjENj": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXShdFtWQAAn_fc.png"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXShdFtWQAAn_fc.png"
+     }
+    ],
+    "url": "https://x.com/justjoshinyou13/status/2122499130882961633",
+    "created_at": "Tue Nov 17 01:16:41 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

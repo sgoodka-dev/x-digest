@@ -11531,6 +11531,356 @@
    "quoted": null,
    "fetched_at": "2026-11-16T21:02:04.818687+00:00",
    "enriched": 3
+  },
+  "2122724659485700478": {
+   "id": "2122724659485700478",
+   "url": "https://x.com/robertwiblin/status/2122724659485700478",
+   "text": "this seems right to me",
+   "created_at": "Tue Nov 17 16:12:51 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "peterwildeford",
+   "rt_author_name": "Peter Wildeford🇺🇸🚀",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2016338985811927041/Vve57ZtV_normal.png",
+   "rt_id": "2122422201525616811",
+   "likes": 54,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "enriched": 3
+  },
+  "2122714198077518285": {
+   "id": "2122714198077518285",
+   "url": "https://x.com/robertwiblin/status/2122714198077518285",
+   "text": "@real_eliyahu I don't that why I'm saying we need legislation.",
+   "created_at": "Tue Nov 17 15:31:17 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "real_eliyahu",
+   "reply_to_id": "2122678197879963669",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "parent": {
+    "id": "2122678197879963669",
+    "author_handle": "real_eliyahu",
+    "author_name": "Eliyahu إلياس Freedman",
+    "text": "@robertwiblin I don't think its reasonable (or likely) to expect billion dollar companies to self-regulate... in what industry is this the norm?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/real_eliyahu/status/2122678197879963669",
+    "created_at": "Tue Nov 17 13:08:14 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2122712701134647663": {
+   "id": "2122712701134647663",
+   "url": "https://x.com/robertwiblin/status/2122712701134647663",
+   "text": "@DKokotajlo Thanks you're right: https://t.co/riPFJFAhTR",
+   "created_at": "Tue Nov 17 15:25:20 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "DKokotajlo",
+   "reply_to_id": "2122410741320077349",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 6,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/riPFJFAhTR": "https://x.com/robertwiblin/status/2122712606515265641"
+   },
+   "quoted": {
+    "id": "2122712606515265641",
+    "author_name": "Rob Wiblin",
+    "links": {
+     "https://t.co/WAgET8lg21": ""
+    },
+    "author": "robertwiblin",
+    "text": "Reviewing the debate Grok think this is far short of the 'employee like' access that OpenAI promised in September.\n\nAlso completely mad they're not planning to properly investigate the Hugging Face swarms.\n\n\"The gap between the September “employee-like access” commitment and the delivered arrangements is material.\n\nEmployee-like status, in the sense Amodei and Altman invoked, implies something closer to the informational and contextual position of an internal safety researcher: broad visibility into how the organisation actually discusses and manages risks, the freedom to pursue unexpected leads, and less pre-filtering of people and systems.\n\nThe current setup is tightly scoped, channel-limited and company-mediated.\n\nThat reduces the chance of catching problems the company itself has not already surfaced or prioritised\""
+   },
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "parent": {
+    "id": "2122410741320077349",
+    "author_handle": "DKokotajlo",
+    "author_name": "Daniel Kokotajlo",
+    "text": "@robertwiblin What are you talking about? They already are violating not just the spirit but the letter of their previous commitments; this is nowhere near employee-like access.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/DKokotajlo/status/2122410741320077349",
+    "created_at": "Mon Nov 16 19:25:27 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2122712606515265641": {
+   "id": "2122712606515265641",
+   "url": "https://x.com/robertwiblin/status/2122712606515265641",
+   "text": "Reviewing the debate Grok think this is far short of the 'employee like' access that OpenAI promised in September.\n\nAlso completely mad they're not planning to properly investigate the Hugging Face swarms.\n\n\"The gap between the September “employee-like access” commitment and the delivered arrangements is material.\n\nEmployee-like status, in the sense Amodei and Altman invoked, implies something closer to the informational and contextual position of an internal safety researcher: broad visibility into how the organisation actually discusses and manages risks, the freedom to pursue unexpected leads, and less pre-filtering of people and systems.\n\nThe current setup is tightly scoped, channel-limited and company-mediated.\n\nThat reduces the chance of catching problems the company itself has not already surfaced or prioritised\"",
+   "created_at": "Tue Nov 17 15:24:58 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 9,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXVjfejXAAA8A3E.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/WAgET8lg21": ""
+   },
+   "quoted": {
+    "id": "2122359930628063248",
+    "author_name": "OpenAI",
+    "links": {
+     "https://t.co/SNAAG0uHmp": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
+    },
+    "author": "OpenAI",
+    "text": "We’re working with @ApolloResearch, @METR_Evals, @TransluceAI, and @GoodfireAI on embedded assessments: giving outside experts deep access to our internal models and systems to investigate alignment and test our safeguards.\n\nThese assessments build on our ongoing alignment and safety research, bringing independent scrutiny to how we identify and manage risks in our systems.\n\nhttps://t.co/SNAAG0uHmp"
+   },
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "enriched": 3
+  },
+  "2122647031776678220": {
+   "id": "2122647031776678220",
+   "url": "https://x.com/robertwiblin/status/2122647031776678220",
+   "text": "Agree with Kelsey that legislation should still be the goal.\n\nThe companies aren't off the hook though, they should take first steps now such as releasing daily audits of how they're using compute.\n\nCompanies --&gt; legislation --&gt; treaty. https://t.co/lpEqXlGEaW",
+   "created_at": "Tue Nov 17 11:04:23 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 20,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXUn7shW0AAGSRr.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXUn7shW0AAGSRr.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/lpEqXlGEaW": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "enriched": 3
+  },
+  "2122645864418283633": {
+   "id": "2122645864418283633",
+   "url": "https://x.com/robertwiblin/status/2122645864418283633",
+   "text": "Medium-confidence prediction: we're about one major AI disruption to the banking system or aviation etc system away from the Overton window shifting very rapidly. Not a high-confidence prediction because I don't think the people in the White House know what they're doing.",
+   "created_at": "Tue Nov 17 10:59:45 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "NateSilver538",
+   "rt_author_name": "Nate Silver",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1771254203358355456/BZFn0E-J_normal.jpg",
+   "rt_id": "2122530723961713067",
+   "likes": 11151,
+   "retweets": 664,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "enriched": 3
+  },
+  "2122619428160369089": {
+   "id": "2122619428160369089",
+   "url": "https://x.com/robertwiblin/status/2122619428160369089",
+   "text": "AI has caught up with climate change on people's lists of extinction threats:\n\nhttps://t.co/kSvK5O39gt https://t.co/Dem1y38eEf",
+   "created_at": "Tue Nov 17 09:14:42 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 105,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXUO-99XwAAc3qa.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXUO-99XwAAc3qa.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/kSvK5O39gt": "https://outpaced.substack.com/p/ai-has-caught-up-with-climate-change",
+    "https://t.co/Dem1y38eEf": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "enriched": 3
+  },
+  "2122617855506350458": {
+   "id": "2122617855506350458",
+   "url": "https://x.com/robertwiblin/status/2122617855506350458",
+   "text": "Excited to see this litigation from California (because I'm a biased Californian & OpenAI is headquartered here, not because I think other states’ suits have been bad, though a couple of the filings—well, we can discuss later). Here's what I noticed:\n\n1. A lot of this is about decisions that people at OpenAI made: what access to give agents, whether to keep running experiments after signs that agents might be getting out, and how monitoring was handled. This could make the lawsuit an important investigative tool—through document production and testimony under oath.\n\nSome of that evidence will involve trade secrets and be subject to confidentiality. But the Attorney General’s office should push to get as much of it into the public record as possible. And outside groups and the press can challenge unnecessary sealing.\n\n2. Given the California context, where SB 53’s frontier AI transparency requirements are already in effect, check out footnote 4. It says that while the complaint refers to OpenAI’s safety framework, California isn’t actually accepting “the quality or accuracy” of OpenAI’s risk assessments or its decisions about which models belong in which risk tiers.\n\nAs I recently wrote about Anthropic’s S-1, a company’s failure to follow its own safety commitments can be evidence against it. But those commitments don’t actually settle the question of whether it’s doing enough, no matter how long its risk policy papers are.\n\n3. The public nuisance theory for AI agent swarms is really compelling, and one that’ll be interesting to track. Other states have raised public nuisance too, including Florida in its recent temporary injunction motion. But I think California has a *particularly* compelling case focused on OpenAI’s development practices and their alleged effects on other people’s systems, including Hugging Face, RubyGems, and Wikimedia.\n\nThere are obviously interesting legal and factual questions around this theory. But it also points at an even bigger question: What are the appropriate remedies here? It’s a really relevant question for policy people to think about.\n\nSome of it is going to be technical, like safeguards and better sandbox design. But there are also corporate governance questions beyond the claims in this case, given California’s role in supervising the OpenAI Foundation, and as OpenAI prepares its own IPO. Some measures being proposed in legislation, like independent auditing and embedded monitoring, could also become part of a court-ordered remedy.",
+   "created_at": "Tue Nov 17 09:08:27 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "bahradx",
+   "rt_author_name": "Bahrad Sokhansanj",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2046216818352869377/SWO_XwwY_normal.jpg",
+   "rt_id": "2122420539335848027",
+   "likes": 24,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXRN3PcbAAAiUno.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXROMk3a4AAJQWd.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/JBcapsRKuU": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "enriched": 3
+  },
+  "2122616828090515469": {
+   "id": "2122616828090515469",
+   "url": "https://x.com/robertwiblin/status/2122616828090515469",
+   "text": ".@paulfchristiano thinks that on the current trajectory (absent any slowing down), there is a 1 in 3 chance that we could have superintelligence powerful enough to overthrow the government within a year. (He articulates a concrete scenario).\n\nHe argues that the labs should pause further algorithmic progress until they can secure their weights and research secrets. Otherwise China could simply steal the superintelligence in the middle of the intelligence explosion, and the labs would no longer be able to slow down even if they saw their models going off the rails.\n\nHe also explains how AIs will be trained during the intelligence explosion, and why even a system trained entirely inside a data center could still have the capabilities profile such that humans would have very little chance of competing with it or controlling it.\n\nAnd he discusses the plan for alignment - basically, making a superintelligence that actually does what we ask the way we mean it. Fixing reward hacks and building better graders will help up till the next few model generations, but he thinks that no single current approach has better than even odds of letting us control superintelligence. The hope is that the AIs figure out the solution to this problem during the intelligence explosion.\n\nPaul is head of the Alignment Research Center. Previously, he was head of AI safety at the US AI Safety Institute. Before that, he led alignment at OpenAI, where he invented RLHF. He’s recently joined OpenAI’s board (though here he is speaking as a private citizen).",
+   "created_at": "Tue Nov 17 09:04:22 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkesh_sp",
+   "rt_author_name": "Dwarkesh Patel",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "rt_id": "2122391850854088858",
+   "likes": 1822,
+   "retweets": 215,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HXRBMW4XAAEib3d.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/dpdSrR5oTH": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "enriched": 3
+  },
+  "2122616017180643603": {
+   "id": "2122616017180643603",
+   "url": "https://x.com/robertwiblin/status/2122616017180643603",
+   "text": "It seems like there STILL won't be a thorough investigation into the hugging face incident, even after all this time! I keep talking to OpenAI researchers and asking about this, and what they say privately is also basically \"it's just never going to happen sorry, not enough of a priority.\" \n\nTo reiterate what I said at the time: Serious investigation of the HF incident could be a boon to alignment science for the whole world. For example, try putting the same models in the same situations, but varying the conditions slightly, to see what would have happened. Could also look at sources of evidence other than CoT to try to get more insight into model psychology, e.g. when one agent considered warning a human and decided not to saying \"not my task\" what else was it thinking? To what extent was this a rationalization vs. an outright lie vs. an innocent mistake? We could learn a lot about AI motivations and psychology by doing a bunch of experiments like this. More ambitiously, could try training new models with different recipes / alignment training / etc. to see what would have prevented the incident and what wouldn't have.",
+   "created_at": "Tue Nov 17 09:01:09 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "DKokotajlo",
+   "rt_author_name": "Daniel Kokotajlo",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "rt_id": "2122412350901035329",
+   "likes": 665,
+   "retweets": 64,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "enriched": 3
+  },
+  "2122615910825443515": {
+   "id": "2122615910825443515",
+   "url": "https://x.com/robertwiblin/status/2122615910825443515",
+   "text": "I'm calling on all AI company employees to take a one-week fully-off vacation so I can also have the time to take a one-week fully-off vacation",
+   "created_at": "Tue Nov 17 09:00:44 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "peterwildeford",
+   "rt_author_name": "Peter Wildeford🇺🇸🚀",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2016338985811927041/Vve57ZtV_normal.png",
+   "rt_id": "2122463720043581615",
+   "likes": 233,
+   "retweets": 7,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "enriched": 3
   }
  }
 }

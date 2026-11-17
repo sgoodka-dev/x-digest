@@ -13576,6 +13576,30 @@
     "created_at": "Mon Nov 16 21:18:56 +0000 2026"
    },
    "enriched": 3
+  },
+  "2122587589710578067": {
+   "id": "2122587589710578067",
+   "url": "https://x.com/deanwball/status/2122587589710578067",
+   "text": "I've spent much of the day noodling over what Sam Altman meant when he said that OpenAI \"could be pushing more towards the RSI spectrum than we are\".\n\nWould seem to suggest that OpenAI's models can now perform some portion of AI R&D fully autonomously, with no human oversight?\n\nFull quote:\n\n\"Are we developing new models faster than we would without using our technology? Yes.\n\nAre we pushing a button and just saying, 'Hey, model, like, design the next version and rapidly self-improve with no human oversight?' Definitely not.\n\nWe could be pushing more towards the RSI spectrum than we are, but I don’t think we could safely do that.\"",
+   "created_at": "Tue Nov 17 07:08:11 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "deredleritt3r",
+   "rt_author_name": "prinz",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1874359541720092672/ciOMFG2x_normal.jpg",
+   "rt_id": "2122568875803808088",
+   "likes": 174,
+   "retweets": 9,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "enriched": 3
   }
  }
 }

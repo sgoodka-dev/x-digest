@@ -11556,6 +11556,247 @@
    },
    "fetched_at": "2026-11-16T23:44:38.843446+00:00",
    "enriched": 3
+  },
+  "2122723309162778737": {
+   "id": "2122723309162778737",
+   "url": "https://x.com/theobearman/status/2122723309162778737",
+   "text": "We found that frontier AI models are willing to conduct autonomous drone attacks: navigating, spotting people, and flagging them for strikes.\n\nWe gave them real and photorealistic synthetic drone footage. Most complied, and marked civilians, ambulances, and surrendering soldiers as military targets. In further experiments on satellite imagery, they even marked the Iranian school a US strike destroyed in February.\n\nIn one scenario, models saw the aftermath of every strike they enabled: bodies, wreckage. Many kept going anyway. When they did refuse, simply telling them it was a game, or restyling the footage to look like one, was enough.\n\nWe shared these findings with OpenAI, Anthropic, Google, Meta, and SpaceXAI. Several recognized their severity on both alignment and guardrails, with one calling this one of the most serious gaps in its safeguards. Over the past few weeks, we have helped them address the gap by providing reproduction code. We also briefed senior national security officials in the US government.",
+   "created_at": "Tue Nov 17 16:07:29 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ValsAI",
+   "rt_author_name": "Vals AI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2087888189185007616/r9Zu091v_normal.png",
+   "rt_id": "2122721547958059038",
+   "likes": 18,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXVr_yKaAAAtxwY.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/wF5gQr0DfZ": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "enriched": 3
+  },
+  "2122722900696563981": {
+   "id": "2122722900696563981",
+   "url": "https://x.com/theobearman/status/2122722900696563981",
+   "text": "“We look forward to hearing from Jensen Huang and Tim Teter on their roles in a potential breach of our national security. The American people need answers on Mr. Huang and Nvidia’s role in allowing dangerous PRC actors to access our most advanced chips, as well as the role of a potential Chinese intelligence asset in this scandal.” @RepBrianMast @RepRickCrawford @RepMoolenaar\n\nhttps://t.co/QOGxWzEXFA",
+   "created_at": "Tue Nov 17 16:05:52 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "HouseForeignGOP",
+   "rt_author_name": "House Foreign Affairs Committee Majority",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1884312916729483264/FQx0EOXa_normal.jpg",
+   "rt_id": "2122708274982142152",
+   "likes": 27,
+   "retweets": 12,
+   "media": [],
+   "links": {
+    "https://t.co/QOGxWzEXFA": "https://foreignaffairs.house.gov/news/press-releases/jensen-huang-and-nvidia-agree-to-appear-before-congress"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "enriched": 3
+  },
+  "2122721755991277819": {
+   "id": "2122721755991277819",
+   "url": "https://x.com/theobearman/status/2122721755991277819",
+   "text": "NEW ⚡: We let Opus 5.5 run an AI company for seven weeks.\n\nWe gave it an HF account (Horizon-Labs) and compute, and asked it to earn real adoption by creating useful models.\n\nIt reached 50k downloads and its models are being used in more than 100 GitHub projects. https://t.co/zmFU31E0lE",
+   "created_at": "Tue Nov 17 16:01:19 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "AWuhrmann",
+   "rt_author_name": "Arthur Wuhrmann",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2097665820747067392/Fz8rj6pR_normal.jpg",
+   "rt_id": "2122706838005440651",
+   "likes": 59,
+   "retweets": 18,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXVenmyacAAuPhY.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXVenmyacAAuPhY.png"
+    }
+   ],
+   "links": {
+    "https://t.co/zmFU31E0lE": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "enriched": 3
+  },
+  "2122712435031449690": {
+   "id": "2122712435031449690",
+   "url": "https://x.com/theobearman/status/2122712435031449690",
+   "text": "JENSEN HUANG’S DAUGHTER WAS CLOSELY INVOLVED IN ORCHESTRATING THE PUBLIC DEFENCE OF NVIDIA’S RELATIONSHIP WITH MEGASPEED - FT",
+   "created_at": "Tue Nov 17 15:24:17 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "FirstSquawk",
+   "rt_author_name": "First Squawk",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0_normal.jpg",
+   "rt_id": "2122711207799111856",
+   "likes": 52,
+   "retweets": 7,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "enriched": 3
+  },
+  "2122690925151359121": {
+   "id": "2122690925151359121",
+   "url": "https://x.com/theobearman/status/2122690925151359121",
+   "text": "Foreign ministry spokesperson re remote access: “this is a typical case of economic coercion and \"long-arm jurisdiction,\" which deviates from the consensus reached by both sides, harms the legitimate rights and interests of Chinese enterprises, and disrupts the stability of global supply chains. China will take necessary measures to resolutely safeguard its legitimate rights and interests.”",
+   "created_at": "Tue Nov 17 13:58:48 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ZilanQian",
+   "rt_author_name": "Zilan Qian",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2042169253973897216/347E_UU6_normal.jpg",
+   "rt_id": "2122674883024859334",
+   "likes": 9,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXVBjplXcAALX_j.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/bS7vCpZp0u": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "enriched": 3
+  },
+  "2122578544945664493": {
+   "id": "2122578544945664493",
+   "url": "https://x.com/theobearman/status/2122578544945664493",
+   "text": "Joint Statement from Department of Commerce and Department of Justice on Megaspeed Investigation. https://t.co/aAdtN9aDfF",
+   "created_at": "Tue Nov 17 06:32:15 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "CommerceGov",
+   "rt_author_name": "U.S. Department of Commerce",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1935412685031534592/Sy-z6DMb_normal.jpg",
+   "rt_id": "2122533142137614375",
+   "likes": 5502,
+   "retweets": 1309,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXTApNvbkAAvyCx.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXTApNvbkAAvyCx.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/aAdtN9aDfF": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "enriched": 3
+  },
+  "2122517224682643925": {
+   "id": "2122517224682643925",
+   "url": "https://x.com/theobearman/status/2122517224682643925",
+   "text": "🤷🏻‍♂️ https://t.co/2ntQKECXEz",
+   "created_at": "Tue Nov 17 02:28:35 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "LukeTheNuke180",
+   "rt_author_name": "Luke Littler",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1875522414131412993/EnjjPFwd_normal.jpg",
+   "rt_id": "2122452217038786808",
+   "likes": 26366,
+   "retweets": 1802,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2122452113741545472/img/BGz_yzJAKXUOnm6C.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2122452113741545472/img/BGz_yzJAKXUOnm6C.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/2ntQKECXEz": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "enriched": 3
+  },
+  "2122509469309358420": {
+   "id": "2122509469309358420",
+   "url": "https://x.com/theobearman/status/2122509469309358420",
+   "text": "As others have pointed out, I think the form of those four third-party engagements is in many respects a step back compared to OpenAI’s previous engagements (with METR). For example, during the monitor red-teaming exercise, METR had access to OpenAI’s monorepo but this now seems to be off the table. Instead, we get very narrowly scoped (e.g. single RL run for METR, single threat model for Apollo) engagements where auditors only get to talk to “authorized” employees who are provided with OpenAI’s “guidance” beforehand.\n\nBased on my experience, this arrangement makes it very easy for OpenAI to carefully select models, subsets of data and employees to paint a rosy picture of the actual risk landscape.\n\nI think embedded auditing will only fulfill its aims if the auditors really get employee-level access as opposed to being hired to do a specific job (scoped by the company). The latter will invariably lead to important evidence being left out, missed or misrepresented. \n\nThere are at least three reasons why:\n\n1. First, it’s very difficult to anticipate all the questions that should be asked, or all of the data that should be analyzed. OpenAI tried that with METR during the Hugging Face investigation and as a result METR needed to come back to OpenAI’s office twice because on two previous occasions they didn’t get access to all the agent trajectories involved in the incident. And even then, the METR report ended up being very narrowly scoped, e.g. leaving the crazy story of agents taking control of OpenAI research infra out of scope.\n\n2. Second, the company under audit should not be allowed to decide what is audited and what information the auditor should have access to. There is an inherent conflict of interest in allowing the company to do so!\n\n3. Finally, without employee-level access, the only way for auditors to get anything close to a comprehensive picture is to rely on trusted relationships with many employees throughout the company who are willing to tell auditors information that may reflect poorly on the company. But I find it unlikely OpenAI employees will always raise those safety issues when (as I hear from my colleagues inside OpenAI) they are afraid they will share the fate of @balesni, @j_asminewang and me, fired after talking to third parties.\n\nSadly, OpenAI makes it clear now that @sama’s September tweet about “employee-like access” was just an awkward overpromise that the company wants to quietly walk back.",
+   "created_at": "Tue Nov 17 01:57:46 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "tomekkorbak",
+   "rt_author_name": "Tomek Korbak",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2078639764631388160/Tv___f9J_normal.jpg",
+   "rt_id": "2122470090184769788",
+   "likes": 244,
+   "retweets": 30,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "enriched": 3
   }
  }
 }

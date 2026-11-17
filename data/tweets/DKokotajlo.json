@@ -7862,6 +7862,61 @@
    "quoted": null,
    "fetched_at": "2026-11-16T23:44:38.843446+00:00",
    "enriched": 3
+  },
+  "2122576201210610066": {
+   "id": "2122576201210610066",
+   "url": "https://x.com/DKokotajlo/status/2122576201210610066",
+   "text": "I was so excited about Sam’s tweet, and while I am excited about these engagements, I also find this outcome deeply disappointing. I hope we can do better in the (near) future.",
+   "created_at": "Tue Nov 17 06:22:56 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "w01fe",
+   "rt_author_name": "Jason Wolfe",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1966534318077194240/NyhJ0EPD_normal.jpg",
+   "rt_id": "2122536841677283784",
+   "likes": 218,
+   "retweets": 27,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "enriched": 3
+  },
+  "2122576155320713348": {
+   "id": "2122576155320713348",
+   "url": "https://x.com/DKokotajlo/status/2122576155320713348",
+   "text": "The week of my departure from OpenAI, I saw external auditors negotiating with OpenAI over small improvements to access and scope to the company's safety-relevant information, and asked my colleagues “Why are we having these conversations at all?” — @sama already publicly committed to continued, employee-like access for external assessors — and these negotiations sounded not even close. Nobody had a good answer.\n\nToday, OpenAI announces the engagements they’re doing with METR, Apollo Research and others — and as many have already pointed out today, it looks like OpenAI employees were not able (although I'm sure they tried) to hold the leadership to @sama’s public commitments:\n* No Slack access (for context, all OpenAI safety discussions and debate happen over Slack; anything that misses these conversations will lack important insights)\n* OpenAI picks employees that assessors are allowed to talk to.\n* If an employee raises a concern to assessors, they cannot disclose it publicly even if it doesn’t contain confidential information, unless assessors themselves verify it or OpenAI volunteers their own statement confirming the employee’s concern. Assessors cannot quote employees, even anonymously.\n* Some of the external assessors (not sure if all?) are barred from publishing any results about internal-only models (this means no new results for the model responsible for the Hugging Face incident; and if internal-only models are used for RSI, no alignment assessments of the world's most dangerous models)\n\nBeyond the object-level details, if you read posts by each of the third party groups, they all say their terms do not meet the scope and access that they themselves proposed previously.\n\nUnless OpenAI has concrete plans for reaching the employee-like bar in the immediate future and just forgot to say that in the post, this looks very unfortunate. \n\nTo those who hope we'll get there someday, I remind that time is short: last week some of the best AI forecasters updated their superhuman researcher timelines from a range between 2028-2033 to mid-end next year.",
+   "created_at": "Tue Nov 17 06:22:45 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "balesni",
+   "rt_author_name": "Mikita Balesni",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2108309831925067776/g4gi1hXc_normal.jpg",
+   "rt_id": "2122479636668101087",
+   "likes": 500,
+   "retweets": 58,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXSLM33bkAArm5l.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/8oN025lNLO": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T16:12:22.579242+00:00",
+   "enriched": 3
   }
  }
 }
