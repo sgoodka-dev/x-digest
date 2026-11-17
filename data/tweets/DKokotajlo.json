@@ -7917,6 +7917,80 @@
    "quoted": null,
    "fetched_at": "2026-11-17T16:12:22.579242+00:00",
    "enriched": 3
+  },
+  "2122821811104829446": {
+   "id": "2122821811104829446",
+   "url": "https://x.com/DKokotajlo/status/2122821811104829446",
+   "text": "I still find it totally wild that the chief scientist of OpenAI  posted this on the company blog, and we all just moved on to the next day's news https://t.co/ruptvrY61T",
+   "created_at": "Tue Nov 17 22:38:54 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "codytfenwick",
+   "rt_author_name": "Cody Fenwick",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1332725178732785667/ftoPY5Yf_normal.jpg",
+   "rt_id": "2122643513653567776",
+   "likes": 674,
+   "retweets": 84,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXUkzGrWcAA1aUZ.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXUkzv2XcAApUTi.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXUkzGrWcAA1aUZ.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXUkzv2XcAApUTi.png"
+    }
+   ],
+   "links": {
+    "https://t.co/ruptvrY61T": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T22:53:42.176480+00:00",
+   "enriched": 3
+  },
+  "2122821681672765559": {
+   "id": "2122821681672765559",
+   "url": "https://x.com/DKokotajlo/status/2122821681672765559",
+   "text": ".@paulfchristiano thinks that on the current trajectory (absent any slowing down), there is a 1 in 3 chance that we could have superintelligence powerful enough to overthrow the government within a year. (He articulates a concrete scenario).\n\nHe argues that the labs should pause further algorithmic progress until they can secure their weights and research secrets. Otherwise China could simply steal the superintelligence in the middle of the intelligence explosion, and the labs would no longer be able to slow down even if they saw their models going off the rails.\n\nHe also explains how AIs will be trained during the intelligence explosion, and why even a system trained entirely inside a data center could still have the capabilities profile such that humans would have very little chance of competing with it or controlling it.\n\nAnd he discusses the plan for alignment - basically, making a superintelligence that actually does what we ask the way we mean it. Fixing reward hacks and building better graders will help up till the next few model generations, but he thinks that no single current approach has better than even odds of letting us control superintelligence. The hope is that the AIs figure out the solution to this problem during the intelligence explosion.\n\nPaul is head of the Alignment Research Center. Previously, he was head of AI safety at the US AI Safety Institute. Before that, he led alignment at OpenAI, where he invented RLHF. He’s recently joined OpenAI’s board (though here he is speaking as a private citizen).",
+   "created_at": "Tue Nov 17 22:38:23 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkesh_sp",
+   "rt_author_name": "Dwarkesh Patel",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "rt_id": "2122391850854088858",
+   "likes": 1997,
+   "retweets": 237,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HXRBMW4XAAEib3d.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/dpdSrR5oTH": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T22:53:42.176480+00:00",
+   "enriched": 3
   }
  }
 }

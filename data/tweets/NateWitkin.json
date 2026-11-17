@@ -4527,6 +4527,365 @@
    "quoted": null,
    "fetched_at": "2026-11-17T19:51:52.671734+00:00",
    "enriched": 3
+  },
+  "2122816769702219937": {
+   "id": "2122816769702219937",
+   "url": "https://x.com/NateWitkin/status/2122816769702219937",
+   "text": "Helpful exercise: imagine a world where we'd been using high(er)-ecological-validity benchmarks like these since the beginning...",
+   "created_at": "Tue Nov 17 22:18:52 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": true,
+   "reply_to": "NateWitkin",
+   "reply_to_id": "2122814973592162551",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T22:53:42.176480+00:00",
+   "parent": {
+    "id": "2122814973592162551",
+    "author_handle": "NateWitkin",
+    "author_name": "Nathan Witkin",
+    "text": "A colleague just linked me to this fantastic new benchmark by @TokenWaveai.\n\n\"A coding agent working within a software organization must establish what to build, collaborate with colleagues, and verify what it delivers. We introduce SWE-CoWork, a benchmark comprising 101 development assignments across 101 real repositories, 11 programming languages, and 12 application domains. Each assignment places an agent in a simulated engineering organization with 26 colleagues who have distinct responsibilities, bounded knowledge, and controlled collaboration behavior. Starting from a brief handoff, agents must recover requirements distributed across colleagues and workplace records, reconcile conflicting evidence, and implement changes evaluated by private executable tests.\n\nWe evaluate eleven models and find a substantial gap between partial implementation and complete task delivery. The two leading models [Claude-Opus 5.5 and GPT-6 Astra] satisfy approximately 63% of fail-to-pass (F2P) tests but complete fewer than 8% of assignments.\"\n\nhttps://t.co/q0cBKR3P7L",
+    "links": {
+     "https://t.co/q0cBKR3P7L": "https://arxiv.org/pdf/2611.20218",
+     "https://t.co/xL78WeYbzU": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXXAB_HXkAAsy-o.png"
+     }
+    ],
+    "url": "https://x.com/NateWitkin/status/2122814973592162551",
+    "created_at": "Tue Nov 17 22:11:44 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2122814973592162551": {
+   "id": "2122814973592162551",
+   "url": "https://x.com/NateWitkin/status/2122814973592162551",
+   "text": "A colleague just linked me to this fantastic new benchmark by @TokenWaveai.\n\n\"A coding agent working within a software organization must establish what to build, collaborate with colleagues, and verify what it delivers. We introduce SWE-CoWork, a benchmark comprising 101 development assignments across 101 real repositories, 11 programming languages, and 12 application domains. Each assignment places an agent in a simulated engineering organization with 26 colleagues who have distinct responsibilities, bounded knowledge, and controlled collaboration behavior. Starting from a brief handoff, agents must recover requirements distributed across colleagues and workplace records, reconcile conflicting evidence, and implement changes evaluated by private executable tests.\n\nWe evaluate eleven models and find a substantial gap between partial implementation and complete task delivery. The two leading models [Claude-Opus 5.5 and GPT-6 Astra] satisfy approximately 63% of fail-to-pass (F2P) tests but complete fewer than 8% of assignments.\"\n\nhttps://t.co/q0cBKR3P7L",
+   "created_at": "Tue Nov 17 22:11:44 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXXAB_HXkAAsy-o.png"
+    }
+   ],
+   "links": {
+    "https://t.co/q0cBKR3P7L": "https://arxiv.org/pdf/2611.20218",
+    "https://t.co/xL78WeYbzU": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T22:53:42.176480+00:00",
+   "thread": [
+    {
+     "id": "2122816769702219937",
+     "author_handle": "NateWitkin",
+     "author_name": "Nathan Witkin",
+     "text": "Helpful exercise: imagine a world where we'd been using high(er)-ecological-validity benchmarks like these since the beginning...",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/NateWitkin/status/2122816769702219937",
+     "created_at": "Tue Nov 17 22:18:52 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2122811468521562296": {
+   "id": "2122811468521562296",
+   "url": "https://x.com/NateWitkin/status/2122811468521562296",
+   "text": "Can the most capable LLMs match humans at real work? Not yet, at least not on the kind of work we do at Epoch.\n\nWe tested GPT-6.2 Astra and other recent models on Epoch Automation Reports, our benchmark of open-ended Epoch work tasks, ranging from making Epoch-style diagrams to designing basic research experiments.\n\nAn Epoch employee scores the models’ outputs based on our internal quality standards. A score of 100% represents the standard expected of an Epoch employee.\n\nAll models failed to meet the Epoch employee standard. GPT-6.2 Astra ranks fourth (averaging 65%), despite sharing the top ECI score of 174 with Fable 5.2.\n\nFable 5.2 scored highest, averaging 82%.\n\nOn one task, both Fable 5.2 and Opus 5.5 matched the level of a contractor. More on that below.",
+   "created_at": "Tue Nov 17 21:57:48 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "EpochAIResearch",
+   "rt_author_name": "Epoch AI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1866142753127616512/DYcE9bN1_normal.jpg",
+   "rt_id": "2122808111849488867",
+   "likes": 94,
+   "retweets": 12,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXW6ulBbQAAItqo.png"
+    }
+   ],
+   "links": {
+    "https://t.co/95sjI9JmNW": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T22:53:42.176480+00:00",
+   "enriched": 3
+  },
+  "2122805597456286082": {
+   "id": "2122805597456286082",
+   "url": "https://x.com/NateWitkin/status/2122805597456286082",
+   "text": "@justjoshinyou13 Right, it's underappreciated how many of our existing success measures break down when you start to scale up to really ambitious tasks with a ton of agents working concurrently.\n\nWe have a decent sense for how good singular agents are at some things, but as you say the problem with swarms is that you have to worry about cascading failures and other weird social dynamics. Arguably pass^n measures are even more important there, since more agents means more sources of inconsistency across runs.\n\nImplies that lot of benchmark extrapolation is \"not even wrong.\"",
+   "created_at": "Tue Nov 17 21:34:28 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": true,
+   "reply_to": "justjoshinyou13",
+   "reply_to_id": "2122800846178279642",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T22:53:42.176480+00:00",
+   "parent": {
+    "id": "2122800846178279642",
+    "author_handle": "justjoshinyou13",
+    "author_name": "Josh You",
+    "text": "@NateWitkin If you want to know whether an agent swarm can do some very large project, that doesn't necessarily imply a measured time horizon of 1 million hours or something. Because it depends what failure rate on the individual tasks in the project would be fatal to the whole thing",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/justjoshinyou13/status/2122800846178279642",
+    "created_at": "Tue Nov 17 21:15:36 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2122792201054822535": {
+   "id": "2122792201054822535",
+   "url": "https://x.com/NateWitkin/status/2122792201054822535",
+   "text": "It’s unfortunate that mostly black authors have been outed for using AI to write fiction, but does that mean AI detectors are racist ? Sadly, the answer is a resounding NO. With the help of @pangram and @GPTZeroAI I analyzed 187 African books published between 2001 &amp; 2026. 👇👇 https://t.co/OY6Yk4q8HC",
+   "created_at": "Tue Nov 17 20:41:14 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "TuhinChakr",
+   "rt_author_name": "Tuhin Chakrabarty",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2120573597995446272/Bqw5JarX_normal.jpg",
+   "rt_id": "2122703138214027358",
+   "likes": 372,
+   "retweets": 29,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXVbQCqWQAA2A7R.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXVbQCqWQAA2A7R.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/OY6Yk4q8HC": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T22:53:42.176480+00:00",
+   "thread": [
+    {
+     "id": "2122703142550679990",
+     "author_handle": "TuhinChakr",
+     "author_name": "Tuhin Chakrabarty",
+     "text": "The discourse around the @CainePrize has been frustrating and I am very much baffled by the opinions on both sides of things. Conventional wisdom tells us to be distrustful of technology. Nobody asked for generative AI, let alone tools to prohibit its use. One can’t help but feel a little helpless, but the solution is not to embrace the easier narrative. (2/n)",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/TuhinChakr/status/2122703142550679990",
+     "created_at": "Tue Nov 17 14:47:21 +0000 2026"
+    },
+    {
+     "id": "2122703164809896005",
+     "author_handle": "TuhinChakr",
+     "author_name": "Tuhin Chakrabarty",
+     "text": "As some who studies AI writing, I plotted the Blue Fighter against 187 books + ShyGirl and DaggerMouth. It looks like Negative Parallelism and Trailing Participle Tails tell a relatively clear story ( with some caveats). I was also fascinated to see density of certain words. (3/n)",
+     "links": {
+      "https://t.co/vVQt1xYvdp": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXVbQ5OWkAA7UlI.jpg"
+      }
+     ],
+     "url": "https://x.com/TuhinChakr/status/2122703164809896005",
+     "created_at": "Tue Nov 17 14:47:27 +0000 2026"
+    },
+    {
+     "id": "2122703168509235654",
+     "author_handle": "TuhinChakr",
+     "author_name": "Tuhin Chakrabarty",
+     "text": "There is no dearth of remarkably talented African authors. And its very obvious that AI detectors won’t flag their books. If they did such technology ought to be burned to ground. But to my knowledge, there is no extant research showing that state of art AI detection programs are racially biased. (4/n)",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/TuhinChakr/status/2122703168509235654",
+     "created_at": "Tue Nov 17 14:47:27 +0000 2026"
+    },
+    {
+     "id": "2122703171055149494",
+     "author_handle": "TuhinChakr",
+     "author_name": "Tuhin Chakrabarty",
+     "text": "I hope we can keep auditing powerful technology such that they don’t harm people from marginalized communities. If you choose to engage with this post , I hope you will treat it with kindness though I understand X is not the best place to expect that. (5/n)",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/TuhinChakr/status/2122703171055149494",
+     "created_at": "Tue Nov 17 14:47:28 +0000 2026"
+    },
+    {
+     "id": "2122703173760450588",
+     "author_handle": "TuhinChakr",
+     "author_name": "Tuhin Chakrabarty",
+     "text": "You can read more in depth here\n\nhttps://t.co/tZGNiU4WrK",
+     "links": {
+      "https://t.co/tZGNiU4WrK": "https://tuhinchakrabarty.substack.com/p/are-ai-detectors-really-racist-or?r=8gxb28&utm_medium=ios"
+     },
+     "media": [],
+     "url": "https://x.com/TuhinChakr/status/2122703173760450588",
+     "created_at": "Tue Nov 17 14:47:29 +0000 2026"
+    },
+    {
+     "id": "2122703177535594628",
+     "author_handle": "TuhinChakr",
+     "author_name": "Tuhin Chakrabarty",
+     "text": "@Afinetheorem @paulnovosad of interest to you",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/TuhinChakr/status/2122703177535594628",
+     "created_at": "Tue Nov 17 14:47:30 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2122787869513175219": {
+   "id": "2122787869513175219",
+   "url": "https://x.com/NateWitkin/status/2122787869513175219",
+   "text": "@girishsastry I would've thought it unlikely for different reasons (mainly that I would've been too optimistic about security w/in OAI).\n\nI have no problem admitting to concern about frontier hacking capabilities, but they're also unique in that most tasks and sub-tasks have ~objective success conditions, and so what we measure in cyber-exploit benchmarks is much more analogous to performing real exploits.\n\nThe attached OAI figure is measuring research-related tasks IIRC and so is more predictive where something as nebulous as \"overthrowing the government\" is concerned.\n\nHF is also a world away from what Christiano is predicting and is the only incident of its severity level despite widespread use of models in sensitive settings. There is nothing in the data to suggest an increment in real-world capabilities on the scale being suggested.",
+   "created_at": "Tue Nov 17 20:24:02 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": true,
+   "reply_to": "girishsastry",
+   "reply_to_id": "2122785092846383203",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T22:53:42.176480+00:00",
+   "parent": {
+    "id": "2122785092846383203",
+    "author_handle": "girishsastry",
+    "author_name": "girish sastry",
+    "text": "@NateWitkin How does your simple argument apply to the Hugging Face incident? Would low pass@1 evals for 15m tasks have caused you to predict that HF was extremely unlikely?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/girishsastry/status/2122785092846383203",
+    "created_at": "Tue Nov 17 20:13:00 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2122784139661525272": {
+   "id": "2122784139661525272",
+   "url": "https://x.com/NateWitkin/status/2122784139661525272",
+   "text": "Not a market fundamentalist but:\n\n1) “Bubble” is a term thrown around too casually. Involves hubris\n\n2) P/E ratios are never going to be a great way to identify overvaluation in real time, and especially in an investment boom where it’s easy to play games with “E”",
+   "created_at": "Tue Nov 17 20:09:12 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "IrvingSwisher",
+   "rt_author_name": "Skanda Amarnath",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1494812897750487041/yirBITEh_normal.jpg",
+   "rt_id": "2122752072164770033",
+   "likes": 89,
+   "retweets": 9,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T22:53:42.176480+00:00",
+   "enriched": 3
+  },
+  "2122782940438667359": {
+   "id": "2122782940438667359",
+   "url": "https://x.com/NateWitkin/status/2122782940438667359",
+   "text": "I get off this train after the first premise. \n\nThe idea that you can \"pretty robust[ly]\" predict that we will soon have \"agent swarms that are much better than any human intelligence agency that has ever existed\" (better at what?) is fundamentally out-of-step with current evidence.\n\nI could point to what we know from the highest-quality benchmarks, or to research on agent coordination or agent scaling, or to what indirect economic proxies imply about how capable AI is in the real economy.\n\nBut I think the following counterargument is simpler.\n\nIf you use AI agents frequently, ask yourself: what sorts of tasks can agents currently one-shot the vast majority of the time? I don't know about you, but for me the answer is a combination of \"not many\" and \"only those with very loose or disjunctive success conditions.\" When models are consistently performing well, that is usually because I have spent substantial time and effort steering them in ways they would not have been able to infer either from the digital footprint of my local context or their training data.\n\nThe minimal data we have on AI performance within frontier labs agrees. OAI's internal models in September still couldn't reliably one-shot tasks with sub-15 minute time horizons (see attached, and keep in mind that these are almost certainly pass@1 scores, i.e. that OAI is not retesting models on the same tasks multiple times, but just telling you the success rate over many tasks performed once; models' pass^n performance, i.e. odds of success on the same task n times in a row, is usually much lower).\n\nNonetheless, @paulfchristiano has claimed that next year, frontier models have a 1/3 chance of being able to one-shot overthrowing the U.S. government. Presumably those odds continue rising as time goes on. Large swathes of the safety movement have a similar outlook.\n\nThat this is implausible should be common sense to anyone that spends a substantial amount of time working with frontier models. AI models that I still cannot trust to book hotel rooms or buy groceries are not soon to be succeeded by ones that can one-shot the thousands of several-OOM-harder tasks needed to take over the United States in a row. That includes circumventing the efforts of humans and aligned models trying to stop them.\n\nNote also that Christiano is making this prediction right as cheap capital for AI capex is starting to dry up and when the curve for benchmark performance gain per dollar is visibly bending (see attached from @alexolegimas). That would be grounds for moderate bearishness even if benchmarks were decent measures of real-world performance, but as everyone understands by this point, they rarely are.\n\nIn sum, just because someone learned to do a backflip on their trampoline last year, and is already doing triple-backflips on their trampoline this year does not mean they will soon be able to leap tall buildings in a single bound. That is especially so when their parents are increasingly unwilling to pay for gymnastics lessons and when they're still struggling to consistently stick the single back-flip once you take them off the trampoline.\n\nYes, I hear you, your friend once wrote a short story about a guy who, in getting better at doing backflips, also got better at learning to do backflips, such that he entered into a virtuous circle of 'RBL,' or recursive backflip learning, and became a superhuman gymnast overnight, to wit one who could not tell right from wrong because he could only assess potential actions by their 'EBV,' or expected backflip value, and so began to do octuple backflips through storefronts and elementary school windows in response to seemingly benign queries, until he one day barreled through the Earth's core like a human cannon ball, bringing the Anthropocene to its tragic, fated end.\n\nThat is very interesting and I applaud your friend's creativity, but you will understand if I have my doubts about conveying to millions of people that this story was about a real guy who is coming to get them.",
+   "created_at": "Tue Nov 17 20:04:27 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 69,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXWK_Q9WwAAtgTd.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXWQsXpW8AAZAoo.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/j6hfTnUVKy": ""
+   },
+   "quoted": {
+    "id": "2122493169312915931",
+    "author_name": "Dwarkesh Patel",
+    "links": {
+     "https://t.co/HHH90rFZKA": ""
+    },
+    "author": "dwarkesh_sp",
+    "text": ".@paulfchristiano explains the basic AI takeover story:\n\nStep 1. A rogue internal agent swarm gains effective control over OpenAI or Anthropic during the intelligence explosion \n\nStep 2. By the point at which these AIs have exfiltrated themselves, and you've got billions of copies of super smart AIs that have compromised all web connected infrastructure globally, the government response (which these AIs are actively trying to undermine) becomes much harder to successfully carry out."
+   },
+   "fetched_at": "2026-11-17T22:53:42.176480+00:00",
+   "thread": [],
+   "enriched": 3
   }
  }
 }

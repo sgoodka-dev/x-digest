@@ -12298,6 +12298,87 @@
    "quoted": null,
    "fetched_at": "2026-11-17T19:51:52.671734+00:00",
    "enriched": 3
+  },
+  "2122796815611310426": {
+   "id": "2122796815611310426",
+   "url": "https://x.com/theobearman/status/2122796815611310426",
+   "text": "SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang https://t.co/n5zP7pus2h",
+   "created_at": "Tue Nov 17 20:59:35 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "WSJbusiness",
+   "rt_author_name": "WSJ Business News",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/954403794057662464/kTFdxq55_normal.jpg",
+   "rt_id": "2122796038993887594",
+   "likes": 6,
+   "retweets": 2,
+   "media": [],
+   "links": {
+    "https://t.co/n5zP7pus2h": "https://on.wsj.com/4j3TyFX"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T22:53:42.176480+00:00",
+   "enriched": 3
+  },
+  "2122793824389079406": {
+   "id": "2122793824389079406",
+   "url": "https://x.com/theobearman/status/2122793824389079406",
+   "text": "US DNI CLAYTON SAYS ON TECH OUTAGES THAT HE IS NOT SEEING THIS AS A CYBER ATTACK INCIDENT, ADDING THAT LOTS OF INSTITUTIONS ARE PATCHING OR UPGRADING THEIR SYSTEMS - FOX BUSINESS",
+   "created_at": "Tue Nov 17 20:47:41 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "FirstSquawk",
+   "rt_author_name": "First Squawk",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0_normal.jpg",
+   "rt_id": "2122793772576874668",
+   "likes": 37,
+   "retweets": 7,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-17T22:53:42.176480+00:00",
+   "enriched": 3
+  },
+  "2122780816698913135": {
+   "id": "2122780816698913135",
+   "url": "https://x.com/theobearman/status/2122780816698913135",
+   "text": "We also evaluated how many serial reasoning steps GPT-6.2 Astra can do in a single output token (without chain of thought). It can perform 12.3 steps, versus 10.5 for GPT-6 Astra and 8.6 for GPT-6.1 Sol, the previous highs. We measure the number of steps models can perform at an accuracy of 25% above chance, where each step is normalized for complexity.\n\nBefore GPT-6 Astra’s release, the most capable model was Claude Fable 5.1, which is able to perform only 4.2 serial steps. The oldest model we assessed is Claude Opus 3, which performed 2.3 steps.\n\nThis capability is notable because models that can do complex reasoning without any chain of thought may be harder to monitor.\n\nWe hope to finalize this and other measurements of more abstract model capabilities, and release them in the coming weeks.",
+   "created_at": "Tue Nov 17 19:56:00 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "EpochAIResearch",
+   "rt_author_name": "Epoch AI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1866142753127616512/DYcE9bN1_normal.jpg",
+   "rt_id": "2122762411287748696",
+   "likes": 263,
+   "retweets": 40,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXWRKfna8AAtzo6.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/8RytXwZCzz": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-17T22:53:42.176480+00:00",
+   "enriched": 3
   }
  }
 }

@@ -2299,6 +2299,59 @@
    "quoted": null,
    "fetched_at": "2026-11-17T19:51:52.671734+00:00",
    "enriched": 3
+  },
+  "2122782892216779094": {
+   "id": "2122782892216779094",
+   "url": "https://x.com/alxndrdavies/status/2122782892216779094",
+   "text": "@scaling01 More info on our eval: https://t.co/LVsBZmTnuu",
+   "created_at": "Tue Nov 17 20:04:15 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": true,
+   "reply_to": "scaling01",
+   "reply_to_id": "2122759615184015783",
+   "avatar": "https://pbs.twimg.com/profile_images/1895806890346508288/uTaw9IMv_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/LVsBZmTnuu": "https://x.com/alxndrdavies/status/2122768119039197527"
+   },
+   "quoted": {
+    "id": "2122768119039197527",
+    "author_name": "Xander Davies",
+    "links": {},
+    "author": "alxndrdavies",
+    "text": "🧵 @AISecurityInst tested GPT-6.2 Astra\n-We found behaviours that suggest, like prior models, 6.2 Astra's alignment may fail in ways that result in real-world harm w/o additional mitigations\n-We identified a substantial regression in jailbreak robustness relative to GPT-6 Astra"
+   },
+   "fetched_at": "2026-11-17T22:53:42.176480+00:00",
+   "parent": {
+    "id": "2122759615184015783",
+    "author_handle": "scaling01",
+    "author_name": "Lisan al Gaib",
+    "text": "OpenAI is speedrunning AI takeover Any% https://t.co/8jGllLcJ4y",
+    "links": {
+     "https://t.co/8jGllLcJ4y": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXWObJHXIAASiS7.png"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXWObJHXIAASiS7.png"
+     }
+    ],
+    "url": "https://x.com/scaling01/status/2122759615184015783",
+    "created_at": "Tue Nov 17 18:31:45 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }
