@@ -8128,6 +8128,279 @@
    "quoted": null,
    "fetched_at": "2026-11-18T15:47:29.782813+00:00",
    "enriched": 3
+  },
+  "2123128169712791697": {
+   "id": "2123128169712791697",
+   "url": "https://x.com/DKokotajlo/status/2123128169712791697",
+   "text": "@GregHBurnham What is the reason to remove the Pro models though?",
+   "created_at": "Wed Nov 18 18:56:16 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "GregHBurnham",
+   "reply_to_id": "2122898560605966733",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "parent": {
+    "id": "2122898560605966733",
+    "author_handle": "GregHBurnham",
+    "author_name": "Greg Burnham",
+    "text": "Fabled out an analysis of removing the OpenAI Pro models and, what do you know, a single break in the first half of this year looks quite plausible—better than a single line, or a one-off same-slope jump. Here’s the best fit; shading shows plausible breakpoints. https://t.co/lEdllQhsCn",
+    "links": {},
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXYM_NMW4AAuAMQ.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXYM_NMW4AAuAMQ.jpg"
+     }
+    ],
+    "url": "https://x.com/GregHBurnham/status/2122898560605966733",
+    "created_at": "Wed Nov 18 03:43:53 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123126747214561786": {
+   "id": "2123126747214561786",
+   "url": "https://x.com/DKokotajlo/status/2123126747214561786",
+   "text": "It would be irresponsible for AI companies to continue relying on safety cases to 'pace the frontier,' especially as AIs get more capable. There is no scientific understanding of what makes a valid safety case.\n\nThe government and the public should trust safety cases even less, due to the lack of transparency.\n\nSo pacing via limiting inputs to AI capabilities R&D is the best near-term option. We’ve tried to figure out the details of one such input-based pacing: compute reallocation. \n\nQuick summary in 🧵",
+   "created_at": "Wed Nov 18 18:50:36 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "romeovdean",
+   "rt_author_name": "Romeo Dean",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2057987920053833728/55MnVOKE_normal.jpg",
+   "rt_id": "2123109821536944318",
+   "likes": 26,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbICIVb0AAlyrO.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/6Lgubt3iL5": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "thread": [
+    {
+     "id": "2123109823902531920",
+     "author_handle": "romeovdean",
+     "author_name": "Romeo Dean",
+     "text": "&gt; We start with a baseline methodology for disclosing compute allocations which can be audited by third parties. Companies could use these verified compute disclosures to credibly demonstrate pacing to the public https://t.co/3zTdF7PwuB",
+     "links": {
+      "https://t.co/3zTdF7PwuB": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXbIneSbgAAIysI.jpg"
+      }
+     ],
+     "url": "https://x.com/romeovdean/status/2123109823902531920",
+     "created_at": "Wed Nov 18 17:43:22 +0000 2026"
+    },
+    {
+     "id": "2123109825798414338",
+     "author_handle": "romeovdean",
+     "author_name": "Romeo Dean",
+     "text": "&gt; We then analyze the ways AI companies might be able to lie in these disclosures without the auditors knowing.  If the companies are willing to involve 20-30 people in such a conspiracy, it seems possible for them to get away with very large circumventions. https://t.co/1VCHP7cf7U",
+     "links": {
+      "https://t.co/1VCHP7cf7U": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXbKzUUbUAAsquN.jpg"
+      }
+     ],
+     "url": "https://x.com/romeovdean/status/2123109825798414338",
+     "created_at": "Wed Nov 18 17:43:22 +0000 2026"
+    },
+    {
+     "id": "2123109827832696970",
+     "author_handle": "romeovdean",
+     "author_name": "Romeo Dean",
+     "text": "&gt; We then propose several measures that could be used to increase the robustness of the auditing, which we think could realistically be implemented over 6-12 months and make the error from auditing more like ~5% of compute at most. https://t.co/tOsPvJr13Q",
+     "links": {
+      "https://t.co/tOsPvJr13Q": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXbLIkXb0AADBTw.jpg"
+      }
+     ],
+     "url": "https://x.com/romeovdean/status/2123109827832696970",
+     "created_at": "Wed Nov 18 17:43:23 +0000 2026"
+    },
+    {
+     "id": "2123109829472571749",
+     "author_handle": "romeovdean",
+     "author_name": "Romeo Dean",
+     "text": "There's much more analysis in the post, including \"what about China?\" \"how much would this slow things down?\" and \"what counts as capabilities R&amp;D?\"\nhttps://t.co/w9ATA42f3p",
+     "links": {
+      "https://t.co/w9ATA42f3p": "https://pacing-ai.com/home"
+     },
+     "media": [],
+     "url": "https://x.com/romeovdean/status/2123109829472571749",
+     "created_at": "Wed Nov 18 17:43:23 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2123124922180685830": {
+   "id": "2123124922180685830",
+   "url": "https://x.com/DKokotajlo/status/2123124922180685830",
+   "text": "I will be at the Ban RSI rally outside Anthropic offices tomorrow at 11 am. https://t.co/wjeJKyHok4\n\nRecursive Self-Improvement is a stupidly dangerous idea. AIs are already getting smarter rapidly, and they often lie and cheat; why on earth do we think it's a good idea to have them build new smarter AIs to build newer smarter AIs faster and faster? Because if we don't do it, someone else will? I do not accept that answer. Anthropic (like OpenAI before them) styles themselves the good guys in the race, but IMO there are no good guys in this race.",
+   "created_at": "Wed Nov 18 18:43:21 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 185,
+   "retweets": 18,
+   "media": [],
+   "links": {
+    "https://t.co/wjeJKyHok4": "https://banrsi.ai/"
+   },
+   "quoted": {
+    "id": "1457842724128833538",
+    "author_name": "Alex Blechman",
+    "links": {},
+    "author": "AlexBlechman",
+    "text": "Sci-Fi Author: In my book I invented the Torment Nexus as a cautionary tale\n\nTech Company: At long last, we have created the Torment Nexus from classic sci-fi novel Don't Create The Torment Nexus"
+   },
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "enriched": 3
+  },
+  "2123122872583618624": {
+   "id": "2123122872583618624",
+   "url": "https://x.com/DKokotajlo/status/2123122872583618624",
+   "text": "Update: I'm no longer advising AI companies. I think they're too constrained to make the situation much better, so I'll stay independent until there is a meaningful slowdown or moratorium on this reckless race.",
+   "created_at": "Wed Nov 18 18:35:13 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "hendrycks",
+   "rt_author_name": "Dan Hendrycks",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2065914215731515392/RYkZdcb__normal.jpg",
+   "rt_id": "2123082552781218100",
+   "likes": 394,
+   "retweets": 22,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "enriched": 3
+  },
+  "2123122835774411239": {
+   "id": "2123122835774411239",
+   "url": "https://x.com/DKokotajlo/status/2123122835774411239",
+   "text": "A few days ago, I committed to donating the equity I hold in OpenAI. I plan to give all of it to AI safety causes, both because I think donations are impactful and because I want to back my message. \n\nWe need to pause or drastically slow down the race to superintelligence. Everything else is a distraction.\n\nI intend to keep using my platform to raise awareness about this, and I’m proud of the part I’ve played in bringing good policy responses to AI development into the Overton window. I plan to stay independent so I can keep doing that.",
+   "created_at": "Wed Nov 18 18:35:04 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "hilbertspaess",
+   "rt_author_name": "Jacob Coxon",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2097232673865601024/d6H8UbQJ_normal.jpg",
+   "rt_id": "2123105964014604781",
+   "likes": 709,
+   "retweets": 53,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "enriched": 3
+  },
+  "2123101739239018963": {
+   "id": "2123101739239018963",
+   "url": "https://x.com/DKokotajlo/status/2123101739239018963",
+   "text": "This is a more detailed, fleshed out and stressed-tested version of a proposal we floated earlier in response to the Pacing the Frontier open letter. It's not the only way to pace the frontier but it's my favorite proposal at the moment. Pretty simple: Shift compute from AI capabilities R&D towards other things, and let third party auditors verify that you have done so.",
+   "created_at": "Wed Nov 18 17:11:14 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 198,
+   "retweets": 17,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2123082667457740990",
+    "author_name": "Thomas Larsen",
+    "links": {},
+    "author": "thlarsen",
+    "text": "We’re releasing a concrete proposal for how a near term AI slowdown could work. It involves:\n1. AI companies declaring how they are using their compute and letting third party auditors verify those disclosures. We call this Verified Compute Allocation Disclosures (VCAD). \n2. Compute Reallocation towards serving customers and safety, away from capabilities R&D. \n\n(2) slows AI capabilities , while (1) makes the slowdown credible. \n\nAI companies currently seem to be going for ‘safety case pacing’. But: (i) there’s no consensus on what a valid safety case looks like so there’s no way to consistently audit for compliance, and (ii) if the R&D doesn’t get paused, temporarily delaying a training run for safety doesn’t meaningfully slow the overall trajectory of capabilities progress. It would be great if we had a viable safety case regime, but we need much more time to get it working. \n\nCompute reallocation is a good pacing proposal because it is relatively specific, can be verified, and would lead to a more durable slowdown."
+   },
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "enriched": 3
+  },
+  "2123100993424699479": {
+   "id": "2123100993424699479",
+   "url": "https://x.com/DKokotajlo/status/2123100993424699479",
+   "text": "We’re releasing a concrete proposal for how a near term AI slowdown could work. It involves:\n1. AI companies declaring how they are using their compute and letting third party auditors verify those disclosures. We call this Verified Compute Allocation Disclosures (VCAD). \n2. Compute Reallocation towards serving customers and safety, away from capabilities R&D. \n\n(2) slows AI capabilities , while (1) makes the slowdown credible. \n\nAI companies currently seem to be going for ‘safety case pacing’. But: (i) there’s no consensus on what a valid safety case looks like so there’s no way to consistently audit for compliance, and (ii) if the R&D doesn’t get paused, temporarily delaying a training run for safety doesn’t meaningfully slow the overall trajectory of capabilities progress. It would be great if we had a viable safety case regime, but we need much more time to get it working. \n\nCompute reallocation is a good pacing proposal because it is relatively specific, can be verified, and would lead to a more durable slowdown.",
+   "created_at": "Wed Nov 18 17:08:16 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "thlarsen",
+   "rt_author_name": "Thomas Larsen",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2075083315468734464/Y0RF7vaZ_normal.jpg",
+   "rt_id": "2123082667457740990",
+   "likes": 318,
+   "retweets": 64,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "enriched": 3
   }
  }
 }

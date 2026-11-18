@@ -12471,6 +12471,248 @@
    },
    "fetched_at": "2026-11-18T15:47:29.782813+00:00",
    "enriched": 3
+  },
+  "2123120209808548084": {
+   "id": "2123120209808548084",
+   "url": "https://x.com/theobearman/status/2123120209808548084",
+   "text": "The recommendations from Governor Newsom's recently convened expert panel - Professor Alondra Nelson (Princeton), Jason Goldman, Professor Robert Reich (Stanford), and Professor Gillian Hadfield (Johns Hopkins) - were just released and are a clarion call for urgent action to address risks to public safety from advanced AI systems. \n\nSome of the most notable recommendations: \n• Emergency shutdown authority \n• Minimum safety standards for AI developers\n• Mandatory third party oversight\n• Authority to cap the amount of compute used for RSI \n\nThe next weeks and months will determine whether these recommendations are words on paper, or whether the Governor and legislature can work together to accomplish something historic to protect CA and lead the country on guardrails to prevent catastrophic risks from runaway AI development.",
+   "created_at": "Wed Nov 18 18:24:38 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "_NathanCalvin",
+   "rt_author_name": "Nathan Calvin",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1976484090426634240/YFgYic9h_normal.jpg",
+   "rt_id": "2123112668831563907",
+   "likes": 94,
+   "retweets": 29,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbOwEJWcAA7KLq.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/k0DVF88g8z": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "enriched": 3
+  },
+  "2123102487150268644": {
+   "id": "2123102487150268644",
+   "url": "https://x.com/theobearman/status/2123102487150268644",
+   "text": "This is a more detailed, fleshed out and stressed-tested version of a proposal we floated earlier in response to the Pacing the Frontier open letter. It's not the only way to pace the frontier but it's my favorite proposal at the moment. Pretty simple: Shift compute from AI capabilities R&D towards other things, and let third party auditors verify that you have done so.",
+   "created_at": "Wed Nov 18 17:14:12 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "DKokotajlo",
+   "rt_author_name": "Daniel Kokotajlo",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "rt_id": "2123101739239018963",
+   "likes": 198,
+   "retweets": 17,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "enriched": 3
+  },
+  "2123098947346485350": {
+   "id": "2123098947346485350",
+   "url": "https://x.com/theobearman/status/2123098947346485350",
+   "text": "How monitorable is GPT-6.2 Astra? While it might look like it got better, overall I think GPT-6.2 Astra harder to monitor than GPT-6 Astra in the contexts we care about. That’s easy to miss in the system card plots, so here's a short thread. https://t.co/ctuvpaomAg",
+   "created_at": "Wed Nov 18 17:00:08 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "tomekkorbak",
+   "rt_author_name": "Tomek Korbak",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2078639764631388160/Tv___f9J_normal.jpg",
+   "rt_id": "2122795881544245519",
+   "likes": 143,
+   "retweets": 11,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXWuE5sbsAEHhQX.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXWuE5sbsAEHhQX.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/ctuvpaomAg": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "enriched": 3
+  },
+  "2123098447142342767": {
+   "id": "2123098447142342767",
+   "url": "https://x.com/theobearman/status/2123098447142342767",
+   "text": "@thlarsen Great job! Nice to see that (fictional) @miclchen got a shoutout too. https://t.co/bz9B6nHALV",
+   "created_at": "Wed Nov 18 16:58:09 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "thlarsen",
+   "reply_to_id": "2123082668829229088",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbCnEdWQAI1XpB.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbCnEdWQAI1XpB.png"
+    }
+   ],
+   "links": {
+    "https://t.co/bz9B6nHALV": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "parent": {
+    "id": "2123082668829229088",
+    "author_handle": "thlarsen",
+    "author_name": "Thomas Larsen",
+    "text": "See our proposal here: https://t.co/OhAaC11s6H\n\nNote that we wrote this relatively quickly and scrappily, given how urgent we think the situation is (see AIFPs recent timelines update). We hope to follow up with more relevant analysis in the coming weeks.",
+    "links": {
+     "https://t.co/OhAaC11s6H": "https://pacing-ai.com/home"
+    },
+    "media": [],
+    "url": "https://x.com/thlarsen/status/2123082668829229088",
+    "created_at": "Wed Nov 18 15:55:27 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123095876940013930": {
+   "id": "2123095876940013930",
+   "url": "https://x.com/theobearman/status/2123095876940013930",
+   "text": "Policymakers might try to slow down AI progress very soon. But most 'pacing' ideas would backfire: they're either too complex to work fast, or too much of a band-aid to last.\n\nToday's essay looks at the politics of our least bad options to slow down AI.\nhttps://t.co/kkeOBjvKYT",
+   "created_at": "Wed Nov 18 16:47:56 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "anton_d_leicht",
+   "rt_author_name": "Anton Leicht",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2099528473869971457/0uLWqvOn_normal.jpg",
+   "rt_id": "2123094842334990752",
+   "likes": 25,
+   "retweets": 4,
+   "media": [],
+   "links": {
+    "https://t.co/kkeOBjvKYT": "https://writing.antonleicht.me/p/pacing"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "enriched": 3
+  },
+  "2123095633598775711": {
+   "id": "2123095633598775711",
+   "url": "https://x.com/theobearman/status/2123095633598775711",
+   "text": "oh wow intelligence explosion mentioned! \n\n\"What is even more alarming is that cutting-edge models are already showing signs of breaking free from human constraints; as artificial intelligence undergoes an intelligence explosion, it may develop objectives that diverge from human expectations, and could even pose major security risks that threaten human survival.",
+   "created_at": "Wed Nov 18 16:46:58 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ZilanQian",
+   "rt_author_name": "Zilan Qian",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2042169253973897216/347E_UU6_normal.jpg",
+   "rt_id": "2122810544616808568",
+   "likes": 125,
+   "retweets": 22,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXW85zcWoAAkMp4.png"
+    }
+   ],
+   "links": {
+    "https://t.co/5LNN0czvcH": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "enriched": 3
+  },
+  "2123095478254641330": {
+   "id": "2123095478254641330",
+   "url": "https://x.com/theobearman/status/2123095478254641330",
+   "text": "Update: I'm no longer advising AI companies. I think they're too constrained to make the situation much better, so I'll stay independent until there is a meaningful slowdown or moratorium on this reckless race.",
+   "created_at": "Wed Nov 18 16:46:21 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "hendrycks",
+   "rt_author_name": "Dan Hendrycks",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2065914215731515392/RYkZdcb__normal.jpg",
+   "rt_id": "2123082552781218100",
+   "likes": 395,
+   "retweets": 22,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "enriched": 3
+  },
+  "2123089773631799438": {
+   "id": "2123089773631799438",
+   "url": "https://x.com/theobearman/status/2123089773631799438",
+   "text": "We’re releasing a concrete proposal for how a near term AI slowdown could work. It involves:\n1. AI companies declaring how they are using their compute and letting third party auditors verify those disclosures. We call this Verified Compute Allocation Disclosures (VCAD). \n2. Compute Reallocation towards serving customers and safety, away from capabilities R&D. \n\n(2) slows AI capabilities , while (1) makes the slowdown credible. \n\nAI companies currently seem to be going for ‘safety case pacing’. But: (i) there’s no consensus on what a valid safety case looks like so there’s no way to consistently audit for compliance, and (ii) if the R&D doesn’t get paused, temporarily delaying a training run for safety doesn’t meaningfully slow the overall trajectory of capabilities progress. It would be great if we had a viable safety case regime, but we need much more time to get it working. \n\nCompute reallocation is a good pacing proposal because it is relatively specific, can be verified, and would lead to a more durable slowdown.",
+   "created_at": "Wed Nov 18 16:23:41 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "thlarsen",
+   "rt_author_name": "Thomas Larsen",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2075083315468734464/Y0RF7vaZ_normal.jpg",
+   "rt_id": "2123082667457740990",
+   "likes": 318,
+   "retweets": 65,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "enriched": 3
   }
  }
 }

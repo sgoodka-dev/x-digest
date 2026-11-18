@@ -2832,6 +2832,32 @@
    "quoted": null,
    "fetched_at": "2026-11-18T15:47:29.782813+00:00",
    "enriched": 3
+  },
+  "2123094842334990752": {
+   "id": "2123094842334990752",
+   "url": "https://x.com/anton_d_leicht/status/2123094842334990752",
+   "text": "Policymakers might try to slow down AI progress very soon. But most 'pacing' ideas would backfire: they're either too complex to work fast, or too much of a band-aid to last.\n\nToday's essay looks at the politics of our least bad options to slow down AI.\nhttps://t.co/kkeOBjvKYT",
+   "created_at": "Wed Nov 18 16:43:50 +0000 2026",
+   "author_handle": "anton_d_leicht",
+   "author_name": "Anton Leicht",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2099528473869971457/0uLWqvOn_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 25,
+   "retweets": 4,
+   "media": [],
+   "links": {
+    "https://t.co/kkeOBjvKYT": "https://writing.antonleicht.me/p/pacing"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "enriched": 3
   }
  }
 }

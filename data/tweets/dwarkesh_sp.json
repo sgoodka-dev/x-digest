@@ -5171,6 +5171,41 @@
    "quoted": null,
    "fetched_at": "2026-11-18T15:47:29.782813+00:00",
    "enriched": 3
+  },
+  "2123107618470428996": {
+   "id": "2123107618470428996",
+   "url": "https://x.com/dwarkesh_sp/status/2123107618470428996",
+   "text": "According to @paulfchristiano, no single current alignment approach that has more than a 50% chance of getting superintelligences to actually do what some particular human user wants them to do. https://t.co/payEOW8hQc",
+   "created_at": "Wed Nov 18 17:34:36 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 62,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2123106297759596544/img/Jfmu2Nhpv21BS948.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2123106297759596544/img/Jfmu2Nhpv21BS948.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/payEOW8hQc": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "enriched": 3
   }
  }
 }

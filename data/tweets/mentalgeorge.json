@@ -4005,6 +4005,99 @@
     }
    ],
    "enriched": 3
+  },
+  "2123102544826384746": {
+   "id": "2123102544826384746",
+   "url": "https://x.com/mentalgeorge/status/2123102544826384746",
+   "text": "More and more people are calling on U.S. frontier AI companies to pause, but when should they actually do so? \n\nI try to answer this question in a new blog post, summarized neatly by the two attached images\n\nTL;DR: A lengthy pause now would be premature, but shorter pauses tied to addressing specific safety problems are likely good\n\nlink below",
+   "created_at": "Wed Nov 18 17:14:26 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "_achan96_",
+   "rt_author_name": "Alan Chan",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "rt_id": "2123091503362789862",
+   "likes": 41,
+   "retweets": 10,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXa8HyIWYAE5SE-.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXa8I3UWcAAd0um.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/9mCKhrJgEX": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "thread": [
+    {
+     "id": "2123091507305709801",
+     "author_handle": "_achan96_",
+     "author_name": "Alan Chan",
+     "text": "https://t.co/sMiblmOuXI",
+     "links": {
+      "https://t.co/sMiblmOuXI": "https://astrangeattractor.substack.com/p/when-should-us-frontier-ai-developers"
+     },
+     "media": [],
+     "url": "https://x.com/_achan96_/status/2123091507305709801",
+     "created_at": "Wed Nov 18 16:30:35 +0000 2026"
+    },
+    {
+     "id": "2123091747479884170",
+     "author_handle": "_achan96_",
+     "author_name": "Alan Chan",
+     "text": "Thanks to @JakeASteckler @Manderljung @ZilanQian @mentalgeorge and @sj_manning for feedback on this piece!",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/_achan96_/status/2123091747479884170",
+     "created_at": "Wed Nov 18 16:31:32 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2123082570447704515": {
+   "id": "2123082570447704515",
+   "url": "https://x.com/mentalgeorge/status/2123082570447704515",
+   "text": "@_AashishReddy Not entirely sure i follow the above, trying to paraphrase. is the argument:\n\n- good writing is solved with next token prediction\n- they will get better at next token prediction\n- once they are, they can also discern good writing",
+   "created_at": "Wed Nov 18 15:55:04 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "_AashishReddy",
+   "reply_to_id": "2123080485651808687",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "parent": {
+    "id": "2123080485651808687",
+    "author_handle": "_AashishReddy",
+    "author_name": "Aashish Reddy",
+    "text": "@mentalgeorge People always say this but isn't it just obvious that the same \"good writing vector\" would be employed for producing as well as judging writing. This seems orthogonal to their ability to predict tokens for what humans (e.g., at Epoch) would judge the gold standard. The latter is a capabilities issue, the former isn't, and so we should expect them to get good at the second thing as capabilities improve. And if that's right then it doesn't necessarily have those implications re bootstrapping.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/_AashishReddy/status/2123080485651808687",
+    "created_at": "Wed Nov 18 15:46:47 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

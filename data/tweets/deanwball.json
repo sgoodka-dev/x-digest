@@ -13715,6 +13715,267 @@
    "quoted": null,
    "fetched_at": "2026-11-18T15:47:29.782813+00:00",
    "enriched": 3
+  },
+  "2123126601722581165": {
+   "id": "2123126601722581165",
+   "url": "https://x.com/deanwball/status/2123126601722581165",
+   "text": "@patrickc Thank you, Patrick!",
+   "created_at": "Wed Nov 18 18:50:02 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "patrickc",
+   "reply_to_id": "2123126019788087499",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "parent": {
+    "id": "2123126019788087499",
+    "author_handle": "patrickc",
+    "author_name": "Patrick Collison",
+    "text": "@deanwball Good and important essay!",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/patrickc/status/2123126019788087499",
+    "created_at": "Wed Nov 18 18:47:43 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123122389206933887": {
+   "id": "2123122389206933887",
+   "url": "https://x.com/deanwball/status/2123122389206933887",
+   "text": "I stand with Dean Ball. https://t.co/Nhz5yGsE7q",
+   "created_at": "Wed Nov 18 18:33:17 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "tracewoodgrains",
+   "rt_author_name": "Jack",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2081984049284067328/BKde_Eah_normal.jpg",
+   "rt_id": "2123121645846163825",
+   "likes": 98,
+   "retweets": 11,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbX4tgaoAAcsuv.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbX4tgaoAAcsuv.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/Nhz5yGsE7q": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "enriched": 3
+  },
+  "2123117196734034405": {
+   "id": "2123117196734034405",
+   "url": "https://x.com/deanwball/status/2123117196734034405",
+   "text": "And the hyperdimensional link: https://t.co/GEJW6wmpar",
+   "created_at": "Wed Nov 18 18:12:39 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "deanwball",
+   "reply_to_id": "2123117194662015063",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 14,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/GEJW6wmpar": "https://www.hyperdimensional.co/p/the-silent-consensus"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "parent": {
+    "id": "2123117194662015063",
+    "author_handle": "deanwball",
+    "author_name": "Dean W. Ball",
+    "text": "https://t.co/Akz2XWjFZQ",
+    "links": {
+     "https://t.co/Akz2XWjFZQ": "https://openai.com/index/the-silent-consensus/"
+    },
+    "media": [],
+    "url": "https://x.com/deanwball/status/2123117194662015063",
+    "created_at": "Wed Nov 18 18:12:39 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123117194662015063": {
+   "id": "2123117194662015063",
+   "url": "https://x.com/deanwball/status/2123117194662015063",
+   "text": "https://t.co/Akz2XWjFZQ",
+   "created_at": "Wed Nov 18 18:12:39 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "deanwball",
+   "reply_to_id": "2123117192254468216",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 53,
+   "retweets": 7,
+   "media": [],
+   "links": {
+    "https://t.co/Akz2XWjFZQ": "https://openai.com/index/the-silent-consensus/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "parent": {
+    "id": "2123117192254468216",
+    "author_handle": "deanwball",
+    "author_name": "Dean W. Ball",
+    "text": "There is a common belief in the AI field—that advanced AI means the inevitable forfeiture of human primacy in the world. Even many who disfavor that future believe it is likely. I call this the silent consensus, and it must not be allowed to remain silent any longer. https://t.co/DHjIwF4D3s",
+    "links": {},
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXbT1ZiaUAAwSoi.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXbT1ZiaUAAwSoi.jpg"
+     }
+    ],
+    "url": "https://x.com/deanwball/status/2123117192254468216",
+    "created_at": "Wed Nov 18 18:12:38 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123117192254468216": {
+   "id": "2123117192254468216",
+   "url": "https://x.com/deanwball/status/2123117192254468216",
+   "text": "There is a common belief in the AI field—that advanced AI means the inevitable forfeiture of human primacy in the world. Even many who disfavor that future believe it is likely. I call this the silent consensus, and it must not be allowed to remain silent any longer. https://t.co/DHjIwF4D3s",
+   "created_at": "Wed Nov 18 18:12:38 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 348,
+   "retweets": 30,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbT1ZiaUAAwSoi.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbT1ZiaUAAwSoi.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/DHjIwF4D3s": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "thread": [
+    {
+     "id": "2123117194662015063",
+     "author_handle": "deanwball",
+     "author_name": "Dean W. Ball",
+     "text": "https://t.co/Akz2XWjFZQ",
+     "links": {
+      "https://t.co/Akz2XWjFZQ": "https://openai.com/index/the-silent-consensus/"
+     },
+     "media": [],
+     "url": "https://x.com/deanwball/status/2123117194662015063",
+     "created_at": "Wed Nov 18 18:12:39 +0000 2026"
+    },
+    {
+     "id": "2123117196734034405",
+     "author_handle": "deanwball",
+     "author_name": "Dean W. Ball",
+     "text": "And the hyperdimensional link: https://t.co/GEJW6wmpar",
+     "links": {
+      "https://t.co/GEJW6wmpar": "https://www.hyperdimensional.co/p/the-silent-consensus"
+     },
+     "media": [],
+     "url": "https://x.com/deanwball/status/2123117196734034405",
+     "created_at": "Wed Nov 18 18:12:39 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2123091817663234312": {
+   "id": "2123091817663234312",
+   "url": "https://x.com/deanwball/status/2123091817663234312",
+   "text": "The best model in robotics capability is now an LLM.",
+   "created_at": "Wed Nov 18 16:31:49 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "chooi_jeq",
+   "rt_author_name": "Jay Chooi @ CoRL 2026",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2093757597107331072/Ej_UrMbC_normal.jpg",
+   "rt_id": "2122893932778737840",
+   "likes": 551,
+   "retweets": 38,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "enriched": 3
+  },
+  "2123088138025505106": {
+   "id": "2123088138025505106",
+   "url": "https://x.com/deanwball/status/2123088138025505106",
+   "text": "very happy for a diversity of mental lineages in machine intelligence. people claim open source adds diversity, but in practice they are just linear combinations of Claude and GPT mind styles",
+   "created_at": "Wed Nov 18 16:17:11 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "tszzl",
+   "rt_author_name": "roon",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+   "rt_id": "2122848417168891942",
+   "likes": 1396,
+   "retweets": 56,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "enriched": 3
   }
  }
 }

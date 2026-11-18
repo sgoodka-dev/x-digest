@@ -1,11 +1,11 @@
 {
  "last_run": {
-  "started": "2026-11-18T15:47:29.782813+00:00",
+  "started": "2026-11-18T19:24:11.518095+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
-    "new": 0,
-    "total": 173
+    "new": 5,
+    "total": 178
    },
    "add_hawk": {
     "ok": true,
@@ -19,7 +19,7 @@
    },
    "alxndrdavies": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 105
    },
    "curl_justin": {
@@ -29,18 +29,18 @@
    },
    "DaveRBanerjee": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 218
    },
    "DKokotajlo": {
     "ok": true,
-    "new": 4,
-    "total": 328
+    "new": 7,
+    "total": 335
    },
    "dwarkesh_sp": {
     "ok": true,
     "new": 1,
-    "total": 208
+    "total": 209
    },
    "jkcarlsmith": {
     "ok": true,
@@ -54,8 +54,8 @@
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 4,
-    "total": 179
+    "new": 2,
+    "total": 181
    },
    "ohlennart": {
     "ok": true,
@@ -79,28 +79,28 @@
    },
    "s8mb": {
     "ok": true,
-    "new": 6,
-    "total": 601
+    "new": 4,
+    "total": 605
    },
    "random_walker": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 180
    },
    "sethlazar": {
     "ok": true,
-    "new": 3,
-    "total": 385
+    "new": 2,
+    "total": 387
    },
    "robertwiblin": {
     "ok": true,
-    "new": 7,
-    "total": 460
+    "new": 3,
+    "total": 463
    },
    "deanwball": {
     "ok": true,
-    "new": 2,
-    "total": 623
+    "new": 7,
+    "total": 630
    },
    "nabeelqu": {
     "ok": true,
@@ -109,8 +109,8 @@
    },
    "theobearman": {
     "ok": true,
-    "new": 3,
-    "total": 443
+    "new": 8,
+    "total": 451
    },
    "peterwilderford": {
     "ok": true,
@@ -120,12 +120,12 @@
    "anton_d_leicht": {
     "ok": true,
     "new": 1,
-    "total": 139
+    "total": 140
    },
    "NateWitkin": {
     "ok": true,
-    "new": 3,
-    "total": 167
+    "new": 4,
+    "total": 171
    },
    "charnock_jacob": {
     "ok": true,
@@ -133,7 +133,7 @@
     "total": 8
    }
   },
-  "new_tweets": 39,
-  "finished": "2026-11-18T15:48:31.814661+00:00"
+  "new_tweets": 44,
+  "finished": "2026-11-18T19:25:22.753477+00:00"
  }
 }

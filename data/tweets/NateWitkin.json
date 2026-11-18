@@ -4988,6 +4988,185 @@
    "quoted": null,
    "fetched_at": "2026-11-18T15:47:29.782813+00:00",
    "enriched": 3
+  },
+  "2123124602075545611": {
+   "id": "2123124602075545611",
+   "url": "https://x.com/NateWitkin/status/2123124602075545611",
+   "text": "I stand with Dean Ball. https://t.co/Nhz5yGsE7q",
+   "created_at": "Wed Nov 18 18:42:05 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "tracewoodgrains",
+   "rt_author_name": "Jack",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2081984049284067328/BKde_Eah_normal.jpg",
+   "rt_id": "2123121645846163825",
+   "likes": 100,
+   "retweets": 11,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbX4tgaoAAcsuv.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbX4tgaoAAcsuv.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/Nhz5yGsE7q": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "enriched": 3
+  },
+  "2123115910588473797": {
+   "id": "2123115910588473797",
+   "url": "https://x.com/NateWitkin/status/2123115910588473797",
+   "text": "OpenAI has abruptly caught up to Anthropic in this very hard OOD task. Must be emergent capability… at some scale, these things just happen I guess… https://t.co/dwWXA6HG1c",
+   "created_at": "Wed Nov 18 18:07:33 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "teortaxesTex",
+   "rt_author_name": "Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞)",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1652169745037242368/KRPTShbG_normal.jpg",
+   "rt_id": "2122951021521711371",
+   "likes": 503,
+   "retweets": 14,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXY8D_rXsAA7npB.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXY8scUXkAEmKCD.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXY8D_rXsAA7npB.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXY8scUXkAEmKCD.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/dwWXA6HG1c": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "enriched": 3
+  },
+  "2123094474519650325": {
+   "id": "2123094474519650325",
+   "url": "https://x.com/NateWitkin/status/2123094474519650325",
+   "text": "Hadn't yet taken the time to read through Epoch's write-ups of getting AI to \"automate Epoch\", but man there's some gems in there\n\nFor a short blogpost, compare the topic chosen by a human (maths preprints are using AI more and more) to the one chosen by Astra 6 (💀) or Astra 6.2 (🤡)",
+   "created_at": "Wed Nov 18 16:42:22 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "mentalgeorge",
+   "rt_author_name": "Tom Reed",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "rt_id": "2123068261374021796",
+   "likes": 52,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXanU2vbAAAf6EP.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXanVHFaoAAbrJ5.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXanVSjbMAAZ9jf.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/4FK8WgpNM6": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "thread": [
+    {
+     "id": "2123068276666433749",
+     "author_handle": "mentalgeorge",
+     "author_name": "Tom Reed",
+     "text": "When asked to design an experiment using novel chess variants to measure OOD generalisation, all models use existing chess variants they claimed they've invented de novo.\n\nHilariously, Argon does this despite establishing that the models it's testing already know the variants https://t.co/KIgDvgHZeJ",
+     "links": {
+      "https://t.co/KIgDvgHZeJ": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXanWMjaoAAwVQN.jpg"
+      }
+     ],
+     "url": "https://x.com/mentalgeorge/status/2123068276666433749",
+     "created_at": "Wed Nov 18 14:58:16 +0000 2026"
+    },
+    {
+     "id": "2123068291908567432",
+     "author_handle": "mentalgeorge",
+     "author_name": "Tom Reed",
+     "text": "But - best of all - the models almost universally prefer their own slop to gold standard human outputs\n\nobvious implications for bootstrapping https://t.co/8bcE2TkCLm",
+     "links": {
+      "https://t.co/8bcE2TkCLm": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXanXE0bAAEMgI5.jpg"
+      }
+     ],
+     "url": "https://x.com/mentalgeorge/status/2123068291908567432",
+     "created_at": "Wed Nov 18 14:58:20 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2123094322723881332": {
+   "id": "2123094322723881332",
+   "url": "https://x.com/NateWitkin/status/2123094322723881332",
+   "text": "Some quick reactions to the recent Dwarkesh podcast with Paul Christiano. Tl,dr: bullish on rapid capability gains, more skeptical of the leap to takeover, and wary of emergency overreach. https://t.co/h9hZ8GwWEH",
+   "created_at": "Wed Nov 18 16:41:46 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "sebkrier",
+   "rt_author_name": "Séb Krier",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1992052427743272961/WJQ8uqql_normal.jpg",
+   "rt_id": "2123015473507733777",
+   "likes": 415,
+   "retweets": 51,
+   "media": [],
+   "links": {
+    "https://t.co/h9hZ8GwWEH": "https://x.com/i/article/2122996206548766721"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "enriched": 3
   }
  }
 }

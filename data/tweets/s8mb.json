@@ -13836,6 +13836,163 @@
    "quoted": null,
    "fetched_at": "2026-11-18T15:47:29.782813+00:00",
    "enriched": 3
+  },
+  "2123130628380262793": {
+   "id": "2123130628380262793",
+   "url": "https://x.com/s8mb/status/2123130628380262793",
+   "text": "@rosegrayston BTW, I don’t mean to rag on you, but the Iran war only started on Feb 28th, it can’t possibly be a big part of the story here! https://t.co/fGjyas8XyD",
+   "created_at": "Wed Nov 18 19:06:02 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "s8mb",
+   "reply_to_id": "2123114072287617455",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbgDX0WYAAW5lv.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbgDX0WYAAW5lv.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/fGjyas8XyD": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "parent": {
+    "id": "2123114072287617455",
+    "author_handle": "s8mb",
+    "author_name": "Sam Bowman",
+    "text": "@rosegrayston I don't know how you got that from my tweet! My point is that Labour was elected on a promise to build 1.5 million new homes, hasn't really done anything on the supply side to help that, and now is clearly not going to achieve that. \n\nI think the people responsible for that want to blame external factors like the Iran war and \"the structural dominance of speculative development models\" instead of accepting blame themselves. I don't think the idea that housing was on the right track before the Iran war has much basis in fact.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/s8mb/status/2123114072287617455",
+    "created_at": "Wed Nov 18 18:00:15 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123114072287617455": {
+   "id": "2123114072287617455",
+   "url": "https://x.com/s8mb/status/2123114072287617455",
+   "text": "@rosegrayston I don't know how you got that from my tweet! My point is that Labour was elected on a promise to build 1.5 million new homes, hasn't really done anything on the supply side to help that, and now is clearly not going to achieve that. \n\nI think the people responsible for that want to blame external factors like the Iran war and \"the structural dominance of speculative development models\" instead of accepting blame themselves. I don't think the idea that housing was on the right track before the Iran war has much basis in fact.",
+   "created_at": "Wed Nov 18 18:00:15 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "rosegrayston",
+   "reply_to_id": "2123046662360957425",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 21,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "parent": {
+    "id": "2123046662360957425",
+    "author_handle": "rosegrayston",
+    "author_name": "Rose Grayston",
+    "text": "I think this strange tweet is best read as a bad faith argument that social housing policies are responsible for declining demand for new homes, ignoring the real drivers: mortgage rates &amp; the cost of living crisis.\n\nUK was on track for more supply this year before the Iran War.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/rosegrayston/status/2123046662360957425",
+    "created_at": "Wed Nov 18 13:32:23 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123112436224106721": {
+   "id": "2123112436224106721",
+   "url": "https://x.com/s8mb/status/2123112436224106721",
+   "text": "@JonNeale Housing starts haven't actually declined – they're basically in line with the trend under the Conservatives. The trouble is that Labour promised to significantly increase housebuilding and has not done anything to make that happen. If they were relying on interest rates falling, that was a bad gamble to make.\n\nhttps://t.co/7PAysKgCnq",
+   "created_at": "Wed Nov 18 17:53:44 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "JonNeale",
+   "reply_to_id": "2123098884880875814",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/7PAysKgCnq": "https://x.com/s8mb/status/2123022927851581951"
+   },
+   "quoted": {
+    "id": "2123022927851581951",
+    "author_name": "Sam Bowman",
+    "links": {
+     "https://t.co/nEDOf30e5h": ""
+    },
+    "author": "s8mb",
+    "text": "Labour are almost bang on track to get as many new homes built as the Conservatives did in 2019–24. https://t.co/nEDOf30e5h"
+   },
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "parent": {
+    "id": "2123098884880875814",
+    "author_handle": "JonNeale",
+    "author_name": "JN",
+    "text": "@s8mb Having said that, it hard to overstate how damaging pennycook’s policies have been. They’ve even caused housing starts in the US, France and Germany to fall by between 15 and 40pc compared to 2022, that’s how bad they are.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/JonNeale/status/2123098884880875814",
+    "created_at": "Wed Nov 18 16:59:54 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123096475731194262": {
+   "id": "2123096475731194262",
+   "url": "https://x.com/s8mb/status/2123096475731194262",
+   "text": "@JonNeale Mortgage rates and bank rate were about the same level in 2024 as they are today (bank rate was higher), so I don't think that's mitigating, if that's what you mean. They made this pledge in this sort of environment and they have the power to adjust to high IRs but are unwilling to.",
+   "created_at": "Wed Nov 18 16:50:19 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "JonNeale",
+   "reply_to_id": "2123079464393310717",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "parent": {
+    "id": "2123079464393310717",
+    "author_handle": "JonNeale",
+    "author_name": "JN",
+    "text": "@s8mb Yes, absolutely. But it’s also reduced effective demand for housing, sales have slowed markedly everywhere",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/JonNeale/status/2123079464393310717",
+    "created_at": "Wed Nov 18 15:42:43 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

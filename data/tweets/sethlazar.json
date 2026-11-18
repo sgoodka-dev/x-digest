@@ -8529,6 +8529,91 @@
    },
    "fetched_at": "2026-11-18T15:47:29.782813+00:00",
    "enriched": 3
+  },
+  "2123133979976933438": {
+   "id": "2123133979976933438",
+   "url": "https://x.com/sethlazar/status/2123133979976933438",
+   "text": "@MaxNoichl @DailyNousEditor @ElliottThornley :(",
+   "created_at": "Wed Nov 18 19:19:21 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": true,
+   "reply_to": "MaxNoichl",
+   "reply_to_id": "2123084100521390104",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "parent": {
+    "id": "2123084100521390104",
+    "author_handle": "MaxNoichl",
+    "author_name": "Max Noichl",
+    "text": "Might be of interest: @DailyNousEditor, @ElliottThornley, @sethlazar",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/MaxNoichl/status/2123084100521390104",
+    "created_at": "Wed Nov 18 16:01:09 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123133842148196762": {
+   "id": "2123133842148196762",
+   "url": "https://x.com/sethlazar/status/2123133842148196762",
+   "text": "@AnkaReuel @Stanford @Harvard Congratulations Anka!",
+   "created_at": "Wed Nov 18 19:18:48 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": true,
+   "reply_to": "AnkaReuel",
+   "reply_to_id": "2123091360807059508",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-18T19:24:11.518095+00:00",
+   "parent": {
+    "id": "2123091360807059508",
+    "author_handle": "AnkaReuel",
+    "author_name": "Anka Reuel | @ankareuel.bsky.social",
+    "text": "Little Anka was very skeptical of the whole idea of going to school. Yesterday, she defended her PhD @Stanford and is about to become a professor @Harvard 🩷 https://t.co/FMusFKCQc4",
+    "links": {},
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXZRAzmaMAASxA1.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXZRAzpbAAAuKZc.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXZRAzmaMAASxA1.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXZRAzpbAAAuKZc.jpg"
+     }
+    ],
+    "url": "https://x.com/AnkaReuel/status/2123091360807059508",
+    "created_at": "Wed Nov 18 16:30:00 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }
