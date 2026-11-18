@@ -8614,6 +8614,95 @@
     "created_at": "Wed Nov 18 16:30:00 +0000 2026"
    },
    "enriched": 3
+  },
+  "2123168503691669586": {
+   "id": "2123168503691669586",
+   "url": "https://x.com/sethlazar/status/2123168503691669586",
+   "text": "I mostly agree with Victor here. Using AI for the actual writing is bad because, if you do, it means that it's impossible to differentiate between your conscientious use and someone else's irresponsible use without reading both papers, and since generating papers irresponsibly is nearly costless, that creates an untenable strain on the system. But foregoing using AI in other ways is just switching yourself off from a tremendous resource and opportunity for experimentation. Of course, it's possible to be thoughtful, conscientious, careful without using AI! People did it for centuries. But undifferentiated hostility to AI use is as misguided as blind adoption.",
+   "created_at": "Wed Nov 18 21:36:32 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 5,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2123079674737594641",
+    "author_name": "Victor Kumar",
+    "links": {
+     "https://t.co/U3ePLJIxzc": ""
+    },
+    "author": "victorckumar",
+    "text": "A fantastic essay by Gus Skorburg (U Guelph), who asks whether a philosophy paper without an LLM disclosure is suspect — either the authors failed to disclose that an LLM was used in the research or no LLM was used, suggesting carelessness.\n\nYou don’t get an LLM to write any of the prose, of course. You use it for feedback that it’s better suited to provide than you/other humans, such as:\n\n-Botched citations\n-Identifying studies that have been retracted or failed to replicate\n-Misquotation\n-Equivocation\n-Revised preprints\n-Oversimplified historical examples\n-Inconsistencies\n-Missing context\n\nDepressing that this still needs to be said: the fact that students (and professors!) can use AI to plagiarize is irrelevant to whether it has intellectually productive applications. (Link in next tweet.)"
+   },
+   "fetched_at": "2026-11-18T22:36:15.539422+00:00",
+   "enriched": 3
+  },
+  "2123149589008306208": {
+   "id": "2123149589008306208",
+   "url": "https://x.com/sethlazar/status/2123149589008306208",
+   "text": "I'm excited to finally announce my new Substack! I'll be writing on AI evaluations &amp; incidents, technical explainers, and more.\n\nCheck out post #1: A primer for policy folks on what AI evaluations are, and why policymakers should care about them  \n\nhttps://t.co/yhCaiXWnsm",
+   "created_at": "Wed Nov 18 20:21:22 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "kevinlwei",
+   "rt_author_name": "Kevin Wei (is in DC)",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2059978179339841536/VWukdddj_normal.jpg",
+   "rt_id": "2123129333770580151",
+   "likes": 64,
+   "retweets": 12,
+   "media": [],
+   "links": {
+    "https://t.co/yhCaiXWnsm": "https://ai.scal.ing/p/evals-intro-1"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T22:36:15.539422+00:00",
+   "enriched": 3
+  },
+  "2123149545441784106": {
+   "id": "2123149545441784106",
+   "url": "https://x.com/sethlazar/status/2123149545441784106",
+   "text": "This report made me feel even more optimistic about California stepping up to the plate as we enter RSI. The panel did a great job - RSI is mentioned near the top of the Governor’s press release!\n\nSome really sharp ideas in here, e.g. requiring companies to disclose what % of compute they’re spending on frontier AI R&D, creating outcome-based standards that can complement safety cases, bringing companies up to >SL3 model weight security\n\nIf CA moves fast and smart, parts of this report could become law in ~months. One of the biggest determinants will be how hard and loud lab employees are willing to push. This is imo the #1 policy opportunity anywhere in the world to manage RSI risks asap",
+   "created_at": "Wed Nov 18 20:21:12 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "SnehaRevanur",
+   "rt_author_name": "Sneha",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2099735189782134784/BxgR8Ne4_normal.jpg",
+   "rt_id": "2123129144427028939",
+   "likes": 98,
+   "retweets": 21,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbetIoaMAASVnJ.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/5aUVLAM3Gy": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T22:36:15.539422+00:00",
+   "enriched": 3
   }
  }
 }

@@ -3062,6 +3062,132 @@
    "quoted": null,
    "fetched_at": "2026-11-14T13:38:58.849857+00:00",
    "enriched": 3
+  },
+  "2123165235817099501": {
+   "id": "2123165235817099501",
+   "url": "https://x.com/sayashk/status/2123165235817099501",
+   "text": "Hadn't yet taken the time to read through Epoch's write-ups of getting AI to \"automate Epoch\", but man there's some gems in there\n\nFor a short blogpost, compare the topic chosen by a human (maths preprints are using AI more and more) to the one chosen by Astra 6 (💀) or Astra 6.2 (🤡)",
+   "created_at": "Wed Nov 18 21:23:33 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1521238232867946496/U_GCI43e_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "mentalgeorge",
+   "rt_author_name": "Tom Reed",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "rt_id": "2123068261374021796",
+   "likes": 61,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXanU2vbAAAf6EP.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXanVHFaoAAbrJ5.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXanVSjbMAAZ9jf.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/4FK8WgpNM6": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T22:36:15.539422+00:00",
+   "thread": [
+    {
+     "id": "2123068276666433749",
+     "author_handle": "mentalgeorge",
+     "author_name": "Tom Reed",
+     "text": "When asked to design an experiment using novel chess variants to measure OOD generalisation, all models use existing chess variants they claimed they've invented de novo.\n\nHilariously, Argon does this despite establishing that the models it's testing already know the variants https://t.co/KIgDvgHZeJ",
+     "links": {
+      "https://t.co/KIgDvgHZeJ": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXanWMjaoAAwVQN.jpg"
+      }
+     ],
+     "url": "https://x.com/mentalgeorge/status/2123068276666433749",
+     "created_at": "Wed Nov 18 14:58:16 +0000 2026"
+    },
+    {
+     "id": "2123068291908567432",
+     "author_handle": "mentalgeorge",
+     "author_name": "Tom Reed",
+     "text": "But - best of all - the models almost universally prefer their own slop to gold standard human outputs\n\nobvious implications for bootstrapping https://t.co/8bcE2TkCLm",
+     "links": {
+      "https://t.co/8bcE2TkCLm": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXanXE0bAAEMgI5.jpg"
+      }
+     ],
+     "url": "https://x.com/mentalgeorge/status/2123068291908567432",
+     "created_at": "Wed Nov 18 14:58:20 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2123164605094690917": {
+   "id": "2123164605094690917",
+   "url": "https://x.com/sayashk/status/2123164605094690917",
+   "text": "excellent reporting by @jasminewsun in the NYT today about the strange and idiosyncratic myths that the company behind the soon-to-be largest IPO in history believes about itself https://t.co/PXVgXNbodY",
+   "created_at": "Wed Nov 18 21:21:03 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1521238232867946496/U_GCI43e_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "MatthewDSun",
+   "rt_author_name": "Matthew Sun",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2095370217404948480/YhOmCqWo_normal.jpg",
+   "rt_id": "2123116387279540733",
+   "likes": 230,
+   "retweets": 11,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbTGmQbIAAo_wI.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbTGmPb0AAg81p.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbTGmWbEAER9Wb.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbTGmQbIAAo_wI.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbTGmPb0AAg81p.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbTGmWbEAER9Wb.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/PXVgXNbodY": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T22:36:15.539422+00:00",
+   "enriched": 3
   }
  }
 }

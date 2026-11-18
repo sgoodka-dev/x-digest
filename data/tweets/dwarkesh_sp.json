@@ -5206,6 +5206,41 @@
    "quoted": null,
    "fetched_at": "2026-11-18T19:24:11.518095+00:00",
    "enriched": 3
+  },
+  "2123137917669212361": {
+   "id": "2123137917669212361",
+   "url": "https://x.com/dwarkesh_sp/status/2123137917669212361",
+   "text": "China is only 12 hours, not 12 months, behind the frontier AI labs. https://t.co/0t7a74cc1s",
+   "created_at": "Wed Nov 18 19:35:00 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 197,
+   "retweets": 13,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2123107714352156672/img/w_qdI9X5fkA1Gf6L.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2123107714352156672/img/w_qdI9X5fkA1Gf6L.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/0t7a74cc1s": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T22:36:15.539422+00:00",
+   "enriched": 3
   }
  }
 }

@@ -12713,6 +12713,118 @@
    "quoted": null,
    "fetched_at": "2026-11-18T19:24:11.518095+00:00",
    "enriched": 3
+  },
+  "2123172339458429246": {
+   "id": "2123172339458429246",
+   "url": "https://x.com/theobearman/status/2123172339458429246",
+   "text": "Gemini 4 Neon: frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows.\n\nBegins rolling out today in the Gemini API in @GoogleAIStudio, Gemini for business, for paid Google AI Pro and Ultra subscribers in Google @Antigravity, and for Google AI Pro and Ultra subscribers in the @GeminiApp.",
+   "created_at": "Wed Nov 18 21:51:47 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "sundarpichai",
+   "rt_author_name": "Sundar Pichai",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2051799620062429184/AL8CoAUG_normal.jpg",
+   "rt_id": "2123167780988125621",
+   "likes": 4593,
+   "retweets": 360,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXb9cQabgAAOkkn.png"
+    }
+   ],
+   "links": {
+    "https://t.co/FMiFCFvejw": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T22:36:15.539422+00:00",
+   "enriched": 3
+  },
+  "2123151325382779238": {
+   "id": "2123151325382779238",
+   "url": "https://x.com/theobearman/status/2123151325382779238",
+   "text": "A lot has happened in the past couple months, to say the least.\n\nToday we are sharing a recap of what it takes to move a frontier model from training to internal use to public release. As model capabilities rise, so do the safety and alignment standards required to move forward to the next stage.\n\nTo meet these standards, we rely on four layers of protection:\n1. Model alignment: train models to reliably act as intended and respect human oversight.\n2. Security and sandboxing: restrict what models can access and affect.\n3. Blocking safeguards: stop harmful or unauthorized actions before they happen.\n4. Monitoring and response: detect concerning behavior and intervene.\n\nThe post brings together efforts from across the company, with links to recent research, technical work, and incident reports we’ve published. This is the baseline operational discipline we owe people as we continue training and deploying models - necessary work, but not a solution to alignment in the limit. There’s a lot more to do, and will continue keeping you informed as the thinking and work evolves. 🏗️\n\nhttps://t.co/87zeS2zI8L",
+   "created_at": "Wed Nov 18 20:28:16 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "kaicathyc",
+   "rt_author_name": "Kai",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1657816900817272832/ioGq5O0t_normal.jpg",
+   "rt_id": "2123146093366333850",
+   "likes": 429,
+   "retweets": 46,
+   "media": [],
+   "links": {
+    "https://t.co/87zeS2zI8L": "https://openai.com/index/managing-frontier-ai-risk/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T22:36:15.539422+00:00",
+   "enriched": 3
+  },
+  "2123136971736568220": {
+   "id": "2123136971736568220",
+   "url": "https://x.com/theobearman/status/2123136971736568220",
+   "text": "Agentic inference capacity grew 4.6× from Q2 2025 to Q2 2026. This compares with just 2.6× growth in compute, according to our Inference Performance Index (IPI).\n\nNvidia’s Blackwell generations accounted for 74% of the added inference capacity, reflecting both growing sales and higher inference performance per GPU.\n\nThis shows that FLOP/s alone understate how quickly the capacity to run AI models is growing.",
+   "created_at": "Wed Nov 18 19:31:14 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "EpochAIResearch",
+   "rt_author_name": "Epoch AI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1866142753127616512/DYcE9bN1_normal.jpg",
+   "rt_id": "2123114112054112529",
+   "likes": 122,
+   "retweets": 18,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbRCIxbIAAid-R.png"
+    }
+   ],
+   "links": {
+    "https://t.co/hRx92e963M": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T22:36:15.539422+00:00",
+   "enriched": 3
+  },
+  "2123136800931655744": {
+   "id": "2123136800931655744",
+   "url": "https://x.com/theobearman/status/2123136800931655744",
+   "text": "Newsom calling for ability to cap RSI.",
+   "created_at": "Wed Nov 18 19:30:33 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ShakeelHashim",
+   "rt_author_name": "Shakeel",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2040085763069759488/6l87iR68_normal.jpg",
+   "rt_id": "2123126922091610373",
+   "likes": 39,
+   "retweets": 4,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-18T22:36:15.539422+00:00",
+   "enriched": 3
   }
  }
 }
