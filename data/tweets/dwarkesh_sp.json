@@ -5147,6 +5147,30 @@
    },
    "fetched_at": "2026-11-17T22:53:42.176480+00:00",
    "enriched": 3
+  },
+  "2122860604625158500": {
+   "id": "2122860604625158500",
+   "url": "https://x.com/dwarkesh_sp/status/2122860604625158500",
+   "text": "I've seen a lot of compelling counterarguments to my RSI essay, and I want to write up a response to as many of them as I can manage. \n\nBut I'm sure I've missed a bunch of them.\n\nIf you've seen any interesting tweets/articles taking the other side, can you reply with their link?",
+   "created_at": "Wed Nov 18 01:13:03 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 676,
+   "retweets": 11,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-18T15:47:29.782813+00:00",
+   "enriched": 3
   }
  }
 }

@@ -13602,6 +13602,240 @@
     "created_at": "Tue Nov 17 16:48:07 +0000 2026"
    },
    "enriched": 3
+  },
+  "2123077657835520154": {
+   "id": "2123077657835520154",
+   "url": "https://x.com/s8mb/status/2123077657835520154",
+   "text": "@JonNeale Isn't that exactly why these policy costs are biting so much?",
+   "created_at": "Wed Nov 18 15:35:33 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "JonNeale",
+   "reply_to_id": "2123072565350478233",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-18T15:47:29.782813+00:00",
+   "parent": {
+    "id": "2123072565350478233",
+    "author_handle": "JonNeale",
+    "author_name": "JN",
+    "text": "@s8mb I agree that regulatory costs and barriers are too high, but it’s a bit off not to mention the fact that mortgage rates have ballooned over the past few years",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/JonNeale/status/2123072565350478233",
+    "created_at": "Wed Nov 18 15:15:19 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123022927851581951": {
+   "id": "2123022927851581951",
+   "url": "https://x.com/s8mb/status/2123022927851581951",
+   "text": "Labour are almost bang on track to get as many new homes built as the Conservatives did in 2019–24. https://t.co/nEDOf30e5h",
+   "created_at": "Wed Nov 18 11:58:04 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 34,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXZ95uQXsAA4CG9.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXZ95uQXsAA4CG9.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/nEDOf30e5h": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T15:47:29.782813+00:00",
+   "enriched": 3
+  },
+  "2122973644431519822": {
+   "id": "2122973644431519822",
+   "url": "https://x.com/s8mb/status/2122973644431519822",
+   "text": "This is also why the former Housing Secretary has endorsed it (it excuses his dismal record too) and why Pennycook’s media allies have boosted it. It isn’t regulatory costs and barriers that Pennycook has done nothing to change, but capitalism itself that’s the problem!",
+   "created_at": "Wed Nov 18 08:42:14 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "s8mb",
+   "reply_to_id": "2122972563571654732",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 30,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2122437763207201176",
+    "author_name": "Vicky Spratt",
+    "links": {},
+    "author": "Victoria_Spratt",
+    "text": "Here is former Tory Housing Secretary Michael Gove retweeting current Housing Minister Matthew Pennycook and agreeing with his thesis that major private housebuilders will never deliver new homes at speed or scale in Britain because it’s not in their interest….because it would drive down prices"
+   },
+   "fetched_at": "2026-11-18T15:47:29.782813+00:00",
+   "parent": {
+    "id": "2122972563571654732",
+    "author_handle": "s8mb",
+    "author_name": "Sam Bowman",
+    "text": "I think this strange tweet - which doesn’t actually contradict the FT piece - is best read as excuse-making about why we have had 255k housing starts since Pennycook became Housing Minister, against the 600k we’d need to have to be on track for the 1.5m homes target. https://t.co/OtAFDk2lQi",
+    "links": {
+     "https://t.co/OtAFDk2lQi": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXZQS2PWsAADqHc.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXZQS2PWsAADqHc.jpg"
+     }
+    ],
+    "url": "https://x.com/s8mb/status/2122972563571654732",
+    "created_at": "Wed Nov 18 08:37:56 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2122972563571654732": {
+   "id": "2122972563571654732",
+   "url": "https://x.com/s8mb/status/2122972563571654732",
+   "text": "I think this strange tweet - which doesn’t actually contradict the FT piece - is best read as excuse-making about why we have had 255k housing starts since Pennycook became Housing Minister, against the 600k we’d need to have to be on track for the 1.5m homes target. https://t.co/OtAFDk2lQi",
+   "created_at": "Wed Nov 18 08:37:56 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 124,
+   "retweets": 10,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXZQS2PWsAADqHc.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXZQS2PWsAADqHc.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/OtAFDk2lQi": ""
+   },
+   "quoted": {
+    "id": "2122364785979212063",
+    "author_name": "Matthew Pennycook MP",
+    "links": {},
+    "author": "mtpennycook",
+    "text": "As this piece aptly demonstrates, mainstream public discourse on housebuilding in England is almost entirely devoid of any meaningful consideration of the structural dominance of speculative development models.\n\nThe market absorption rate constraints inherent to those models (i.e. developers cannot afford to build and sell homes too quickly in any given local market as doing so would undermine prices and result in a loss on their land investment) mean that build out rates are tied to rising house prices and the existence of sufficient effective demand for homes at those prices.\n\nIt is not in dispute that viability pressures are acute in many parts of the country. That's precisely why we've implemented a range of targeted regulatory easements and committed to no major new building regulations for the remainder of the parliament.\n\nHowever, the simple fact is that the private market as it is currently constituted will not, on its own initiative, produce sufficient housing to meet overall housing need, even if it is highly competitive.\n\nThe disruption and transformation of the housebuilding market is essential to delivering high and sustainable rates of housebuilding in the years ahead."
+   },
+   "fetched_at": "2026-11-18T15:47:29.782813+00:00",
+   "thread": [
+    {
+     "id": "2122973644431519822",
+     "author_handle": "s8mb",
+     "author_name": "Sam Bowman",
+     "text": "This is also why the former Housing Secretary has endorsed it (it excuses his dismal record too) and why Pennycook’s media allies have boosted it. It isn’t regulatory costs and barriers that Pennycook has done nothing to change, but capitalism itself that’s the problem!",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/s8mb/status/2122973644431519822",
+     "created_at": "Wed Nov 18 08:42:14 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2122965736121356467": {
+   "id": "2122965736121356467",
+   "url": "https://x.com/s8mb/status/2122965736121356467",
+   "text": "Great idea. Why should someone be any more vulnerable to being fired than to being evicted? https://t.co/hZb7xKL37I",
+   "created_at": "Wed Nov 18 08:10:48 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 67,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXZKFYHWcAAbacg.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXZKFYHWcAAbacg.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/hZb7xKL37I": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T15:47:29.782813+00:00",
+   "enriched": 3
+  },
+  "2122945987102867632": {
+   "id": "2122945987102867632",
+   "url": "https://x.com/s8mb/status/2122945987102867632",
+   "text": "new https://t.co/45tJzvLgP1\n\n- humans: treat your eyes to some lovely pixels\n- agents: use llms.txt to browse the /.well-known/ucp profile, catalog.json for search with prices and live inventory, and WebMCP tools to fill the cart and start checkout; end-to-end UCP checkout next!",
+   "created_at": "Wed Nov 18 06:52:20 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "jeff_weinstein",
+   "rt_author_name": "Jeff Weinstein",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1000426988149002240/B9OhM1Rm_normal.jpg",
+   "rt_id": "2122836852327763998",
+   "likes": 100,
+   "retweets": 8,
+   "media": [],
+   "links": {
+    "https://t.co/45tJzvLgP1": "https://stripe.press"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T15:47:29.782813+00:00",
+   "enriched": 3
   }
  }
 }

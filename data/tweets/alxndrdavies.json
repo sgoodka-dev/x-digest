@@ -2352,6 +2352,120 @@
     "created_at": "Tue Nov 17 18:31:45 +0000 2026"
    },
    "enriched": 3
+  },
+  "2123018920496091269": {
+   "id": "2123018920496091269",
+   "url": "https://x.com/alxndrdavies/status/2123018920496091269",
+   "text": "Thread on @AISecurityInst's testing of GPT-6.2 Astra.",
+   "created_at": "Wed Nov 18 11:42:09 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1895806890346508288/uTaw9IMv_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "soundboy",
+   "rt_author_name": "Ian Hogarth",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1728782716731105280/nVAiafUn_normal.jpg",
+   "rt_id": "2122991154027176110",
+   "likes": 13,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-18T15:47:29.782813+00:00",
+   "thread": [],
+   "enriched": 3
+  },
+  "2122844720472719659": {
+   "id": "2122844720472719659",
+   "url": "https://x.com/alxndrdavies/status/2122844720472719659",
+   "text": "1/6 The UK’s @AISecurityInst conducted pre-deployment testing of GPT-6.2 Astra's safeguards, and you can see their results in the model’s system card below.\n\nModel safeguards are an essential part of the toolkit for safe deployment of AI systems, as they help prevent misuse. https://t.co/CRJjkzxsJa",
+   "created_at": "Wed Nov 18 00:09:56 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1895806890346508288/uTaw9IMv_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "KanishkaNarayan",
+   "rt_author_name": "Kanishka Narayan MP",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1995387963962806272/oi2v0V2L_normal.jpg",
+   "rt_id": "2122826566606745798",
+   "likes": 65,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXXLgwrbMAAuRdQ.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXXLgwrbMAAuRdQ.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/CRJjkzxsJa": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T15:47:29.782813+00:00",
+   "thread": [
+    {
+     "id": "2122826568989052965",
+     "author_handle": "KanishkaNarayan",
+     "author_name": "Kanishka Narayan MP",
+     "text": "2/6 AISI identified a substantial regression in the strength of GPT-6.2 Astra's safeguards versus GPT-6 Astra's.\n\nIn response to AISI’s testing, @OpenAI made changes to safeguards (as of writing, AISI has not independently tested those latest changes).",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/KanishkaNarayan/status/2122826568989052965",
+     "created_at": "Tue Nov 17 22:57:48 +0000 2026"
+    },
+    {
+     "id": "2122826570809430514",
+     "author_handle": "KanishkaNarayan",
+     "author_name": "Kanishka Narayan MP",
+     "text": "3/6 This is an important example of how AISI’s research capabilities and continued close work with frontier labs directly drives forward AI safety for all of us.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/KanishkaNarayan/status/2122826570809430514",
+     "created_at": "Tue Nov 17 22:57:49 +0000 2026"
+    },
+    {
+     "id": "2122826573103632667",
+     "author_handle": "KanishkaNarayan",
+     "author_name": "Kanishka Narayan MP",
+     "text": "4/6 AISI also tested GPT-6.2 Astra for monitorability and alignment, both essential mechanisms for the safe development and deployment of AI systems.\n\nBetween GPT-6 Astra and GPT-6.2 Astra, AISI’s testing found that monitorability has decreased.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/KanishkaNarayan/status/2122826573103632667",
+     "created_at": "Tue Nov 17 22:57:49 +0000 2026"
+    },
+    {
+     "id": "2122826574773031399",
+     "author_handle": "KanishkaNarayan",
+     "author_name": "Kanishka Narayan MP",
+     "text": "5/6 In simulated scenarios, AISI's testing also identified GPT-6.2 Astra acting in a misaligned way - for example, misleading simulated human reviewers about its actions when not following the user’s instructions or intent.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/KanishkaNarayan/status/2122826574773031399",
+     "created_at": "Tue Nov 17 22:57:50 +0000 2026"
+    },
+    {
+     "id": "2122826576576553245",
+     "author_handle": "KanishkaNarayan",
+     "author_name": "Kanishka Narayan MP",
+     "text": "6/6 You can read AISI’s full results in GPT-6.2 Astra’s system card here: \n\nhttps://t.co/cSZ9BdEjNQ",
+     "links": {
+      "https://t.co/cSZ9BdEjNQ": "https://deploymentsafety.openai.com/gpt-6-2-astra-sol"
+     },
+     "media": [],
+     "url": "https://x.com/KanishkaNarayan/status/2122826576576553245",
+     "created_at": "Tue Nov 17 22:57:50 +0000 2026"
+    }
+   ],
+   "enriched": 3
   }
  }
 }

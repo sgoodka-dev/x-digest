@@ -13657,6 +13657,64 @@
    "quoted": null,
    "fetched_at": "2026-11-17T19:51:52.671734+00:00",
    "enriched": 3
+  },
+  "2122939468672094323": {
+   "id": "2122939468672094323",
+   "url": "https://x.com/deanwball/status/2122939468672094323",
+   "text": "In the distant past of four weeks ago, this would have been much bigger news, but went unnoticed amid the much higher stakes of our present era.",
+   "created_at": "Wed Nov 18 06:26:26 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 67,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2122819528858161322",
+    "author_name": "Greg Brockman",
+    "links": {
+     "https://t.co/DtMftfZTp7": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html"
+    },
+    "author": "gdb",
+    "text": "GPT-6 Cyber for helping further secure the internet, with a major security flaw in Java found by Calif, as part of our Patch the Planet initiative:   https://t.co/DtMftfZTp7"
+   },
+   "fetched_at": "2026-11-18T15:47:29.782813+00:00",
+   "enriched": 3
+  },
+  "2122939207954153859": {
+   "id": "2122939207954153859",
+   "url": "https://x.com/deanwball/status/2122939207954153859",
+   "text": "GPT-6 Cyber for helping further secure the internet, with a major security flaw in Java found by Calif, as part of our Patch the Planet initiative:   https://t.co/DtMftfZTp7",
+   "created_at": "Wed Nov 18 06:25:24 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "gdb",
+   "rt_author_name": "Greg Brockman",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_normal.jpg",
+   "rt_id": "2122819528858161322",
+   "likes": 515,
+   "retweets": 42,
+   "media": [],
+   "links": {
+    "https://t.co/DtMftfZTp7": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T15:47:29.782813+00:00",
+   "enriched": 3
   }
  }
 }

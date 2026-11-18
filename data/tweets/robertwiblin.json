@@ -12120,6 +12120,217 @@
     "created_at": "Tue Nov 17 18:58:55 +0000 2026"
    },
    "enriched": 3
+  },
+  "2123061237424828780": {
+   "id": "2123061237424828780",
+   "url": "https://x.com/robertwiblin/status/2123061237424828780",
+   "text": "Seems bad",
+   "created_at": "Wed Nov 18 14:30:18 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "hamandcheese",
+   "rt_author_name": "Samuel Hammond 🦉",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1941687232538013696/jN33mhMu_normal.jpg",
+   "rt_id": "2122403167803490633",
+   "likes": 98,
+   "retweets": 6,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-18T15:47:29.782813+00:00",
+   "enriched": 3
+  },
+  "2123034193315664194": {
+   "id": "2123034193315664194",
+   "url": "https://x.com/robertwiblin/status/2123034193315664194",
+   "text": "Many experts warn that AI can make humanity go extinct. But how would this happen?\n\nOur research, together with @MITFutureTech, @FLI_org, and fourteen co-authors, found eight scenario families.\n\nToday, we release our paper Existential Risk Scenarios from AI: A Systematic Review.",
+   "created_at": "Wed Nov 18 12:42:50 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "XRobservatory",
+   "rt_author_name": "Existential Risk Observatory ⏸",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1371763974795067395/q93q-SmB_normal.jpg",
+   "rt_id": "2122752877865394184",
+   "likes": 187,
+   "retweets": 55,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXWHK-6aUAEizom.png"
+    }
+   ],
+   "links": {
+    "https://t.co/60fgZtXIWc": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T15:47:29.782813+00:00",
+   "enriched": 3
+  },
+  "2123009627352879204": {
+   "id": "2123009627352879204",
+   "url": "https://x.com/robertwiblin/status/2123009627352879204",
+   "text": "How should we define “capabilities activities” for the purpose of pacing?\n\n(We want to throttle the capabilities category, but not non-capabilities work.)\n\nRedwood Research proposes categories with definitions here:\n\nhttps://t.co/mV0517ksAB https://t.co/fYezTYX0e3",
+   "created_at": "Wed Nov 18 11:05:13 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 12,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXZxnVRXEAAM_z6.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXZxnVRXEAAM_z6.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/mV0517ksAB": "https://blog.redwoodresearch.org/p/how-should-we-define-capabilities",
+    "https://t.co/fYezTYX0e3": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T15:47:29.782813+00:00",
+   "enriched": 3
+  },
+  "2122986861186400363": {
+   "id": "2122986861186400363",
+   "url": "https://x.com/robertwiblin/status/2122986861186400363",
+   "text": "\"it sounds to me like these auditors can freely talk to anyone at the company 'off the record'\" -> This is not the case, we can only talk with company-approved staff. Additionally, we cannot quote or summarize info even from approved staff. Sorry if we didn't communicate this well.",
+   "created_at": "Wed Nov 18 09:34:45 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "BethMayBarnes",
+   "rt_author_name": "Elizabeth Barnes",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1857566314174586880/3VIP_OF5_normal.jpg",
+   "rt_id": "2122802079848948089",
+   "likes": 464,
+   "retweets": 34,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-18T15:47:29.782813+00:00",
+   "enriched": 3
+  },
+  "2122986488937976295": {
+   "id": "2122986488937976295",
+   "url": "https://x.com/robertwiblin/status/2122986488937976295",
+   "text": "Tax AI*\n\n* end the deductibility of interest expenses\n\nhttps://t.co/h3un6vpEqw",
+   "created_at": "Wed Nov 18 09:33:16 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dylanmatt",
+   "rt_author_name": "dylan matthews 🔸",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1536358661387390976/yJWvS7NI_normal.jpg",
+   "rt_id": "2122789404007956622",
+   "likes": 48,
+   "retweets": 5,
+   "media": [],
+   "links": {
+    "https://t.co/h3un6vpEqw": "https://taxpolicycenter.org/taxvox/tax-code-already-has-ai-policy-it-pays-companies-borrow"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T15:47:29.782813+00:00",
+   "enriched": 3
+  },
+  "2122986280120394078": {
+   "id": "2122986280120394078",
+   "url": "https://x.com/robertwiblin/status/2122986280120394078",
+   "text": "Hank Paulson tells @GinaChon he's had conversations with top leaders in China who \"share a concern about the existential risk\" from AI.\n\n\"An op-ed I wrote went all the way up to the Politburo. I got an official response. I've never received that kind of treatment before.\" https://t.co/lRr4WODObL",
+   "created_at": "Wed Nov 18 09:32:27 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "semafor",
+   "rt_author_name": "Semafor",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1605220927909859329/eLAcD_SH_normal.jpg",
+   "rt_id": "2122753256287830222",
+   "likes": 151,
+   "retweets": 32,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2122752636462010369/img/bEqEghRSvxvzt7k6.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2122752636462010369/img/bEqEghRSvxvzt7k6.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/lRr4WODObL": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T15:47:29.782813+00:00",
+   "enriched": 3
+  },
+  "2122986240941170772": {
+   "id": "2122986240941170772",
+   "url": "https://x.com/robertwiblin/status/2122986240941170772",
+   "text": "Kinda wild seeing the actual uptick in incidents lately 👀 https://t.co/ywZSgfeWC4",
+   "created_at": "Wed Nov 18 09:32:17 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "peterwildeford",
+   "rt_author_name": "Peter Wildeford🇺🇸🚀",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2016338985811927041/Vve57ZtV_normal.png",
+   "rt_id": "2122873698575413455",
+   "likes": 105,
+   "retweets": 12,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXX2Oc_XMAAU33z.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXX2Oc_XMAAU33z.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/ywZSgfeWC4": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T15:47:29.782813+00:00",
+   "enriched": 3
   }
  }
 }

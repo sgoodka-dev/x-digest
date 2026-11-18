@@ -3953,6 +3953,41 @@
    "quoted": null,
    "fetched_at": "2026-11-16T16:00:31.625271+00:00",
    "enriched": 3
+  },
+  "2123023718381461652": {
+   "id": "2123023718381461652",
+   "url": "https://x.com/random_walker/status/2123023718381461652",
+   "text": "I dug into this a bit. It looks like we're at highs, but not unprecedented highs for major systems failures.\n\nWe're seeing alarming headlines every day, but a lot of it is recency bias. https://t.co/tW7bWz5VB2",
+   "created_at": "Wed Nov 18 12:01:12 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1650881612756942850/bZYjMyFU_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "krishnanrohit",
+   "rt_author_name": "rohit",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1752863538627149824/LOJXhBvu_normal.jpg",
+   "rt_id": "2122748106659987652",
+   "likes": 2467,
+   "retweets": 278,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXWBz7zbQAAV2Fc.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXWBz7zbQAAV2Fc.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/tW7bWz5VB2": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T15:47:29.782813+00:00",
+   "enriched": 3
   }
  }
 }

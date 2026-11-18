@@ -12379,6 +12379,98 @@
    "quoted": null,
    "fetched_at": "2026-11-17T22:53:42.176480+00:00",
    "enriched": 3
+  },
+  "2123067134578233727": {
+   "id": "2123067134578233727",
+   "url": "https://x.com/theobearman/status/2123067134578233727",
+   "text": "SITUATION DETECTED: The White House and Treasury are discussing a proposal that would require US companies to publicly disclose the use of Chinese open-weight AI models on their websites, aiming to discourage their use through public pressure, per Reuters.",
+   "created_at": "Wed Nov 18 14:53:44 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "MTSlive",
+   "rt_author_name": "MTS",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2057947669281263616/aovpVL4b_normal.jpg",
+   "rt_id": "2123051208067928066",
+   "likes": 1052,
+   "retweets": 82,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-18T15:47:29.782813+00:00",
+   "enriched": 3
+  },
+  "2123065911032819887": {
+   "id": "2123065911032819887",
+   "url": "https://x.com/theobearman/status/2123065911032819887",
+   "text": "🚨 WATCH: Andy Burnham jokes about his aide who was caught on a train using ChatGPT to modify his speech \n\n\"This morning I had meetings with ministerial colleagues and others, and according to ChatGPT, I will have further such meetings later today\" \n\n#PMQs https://t.co/DVRo9CLR9F",
+   "created_at": "Wed Nov 18 14:48:52 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "PolitlcsUK",
+   "rt_author_name": "Politics UK",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1688954450675740688/t1aS9_3Y_normal.jpg",
+   "rt_id": "2123024765015253178",
+   "likes": 2476,
+   "retweets": 96,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2123024075052158976/img/Y3E-szMM6ae_VxsC.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2123024075052158976/img/Y3E-szMM6ae_VxsC.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/DVRo9CLR9F": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-18T15:47:29.782813+00:00",
+   "enriched": 3
+  },
+  "2123065639451480480": {
+   "id": "2123065639451480480",
+   "url": "https://x.com/theobearman/status/2123065639451480480",
+   "text": "Utter recklessness from Microsoft.",
+   "created_at": "Wed Nov 18 14:47:47 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2123060707369374183",
+    "author_name": "Leo Schwartz",
+    "links": {
+     "https://t.co/ghn4VsZ3tZ": "https://www.theinformation.com/articles/microsoft-nears-500-million-deal-sell-ai-bytedance-irking-openai",
+     "https://t.co/7OhRsfSW3d": ""
+    },
+    "author": "leomschwartz",
+    "text": "Scoop: The Chinese TikTok-developer ByteDance is in advanced talks with Microsoft to spend an additional ~$500 million, primarily to access OpenAI models through Azure, after getting cut off from Anthropic. \n\nThe potential deal has drawn the ire of OpenAI, which has raised concerns about Chinese firms distilling its models, but can't stop Microsoft thanks to its restrictive partnership deal. \n\nThe move comes amid increased scrutiny over the relationship between Chinese and U.S. AI companies, especially over distillation concerns.\n\nW/ @QianerLiu and @aaronpholmes:\n\nhttps://t.co/ghn4VsZ3tZ"
+   },
+   "fetched_at": "2026-11-18T15:47:29.782813+00:00",
+   "enriched": 3
   }
  }
 }
