@@ -5199,6 +5199,63 @@
    "quoted": null,
    "fetched_at": "2026-11-19T19:29:38.737368+00:00",
    "enriched": 3
+  },
+  "2123538150802780259": {
+   "id": "2123538150802780259",
+   "url": "https://x.com/DaveRBanerjee/status/2123538150802780259",
+   "text": "Yeah, this will probably remain a major problem at both OAI and Ant. There are still teams within these companies that have COMPLETELY different predictions for how 2027/8 will play out\n\nOne camp is summoning this god-like technology\n\nAnd the other camp is saying nah\n\nYet, they all work at the same company! And they have access to all the information they could possibly want to make good predictions about the future\n\nI'm increasingly nervous that the world we live in is one where people will keep denying the existence/plausibility of TED-AI, AGI, and ASI until that very system is looking them dead in the eye",
+   "created_at": "Thu Nov 19 22:05:23 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2123110482144113101",
+    "author_name": "Daniel Tan",
+    "links": {
+     "https://t.co/8mXGq6J8bV": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+     "https://t.co/gcSMfSSBcS": ""
+    },
+    "author": "DanielCHTan97",
+    "text": "anthropic: \"we expect to reach automated researcher in 2027\" \nalso anthropic: \"we will implement embedded evaluation over a 5 year period\" \n\nhttps://t.co/8mXGq6J8bV https://t.co/gcSMfSSBcS"
+   },
+   "fetched_at": "2026-11-19T22:40:06.698794+00:00",
+   "enriched": 3
+  },
+  "2123509877972541448": {
+   "id": "2123509877972541448",
+   "url": "https://x.com/DaveRBanerjee/status/2123509877972541448",
+   "text": "was bearish on anthropic before they integrated with claude with google docs\n\nam bullish now",
+   "created_at": "Thu Nov 19 20:13:02 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-19T22:40:06.698794+00:00",
+   "enriched": 3
   }
  }
 }

@@ -14622,6 +14622,135 @@
     "created_at": "Thu Nov 19 15:30:58 +0000 2026"
    },
    "enriched": 3
+  },
+  "2123544875895562457": {
+   "id": "2123544875895562457",
+   "url": "https://x.com/s8mb/status/2123544875895562457",
+   "text": "@AaronBastani I think interdependence as a concept includes relationships where both parties would be worse off without the other.",
+   "created_at": "Thu Nov 19 22:32:06 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "AaronBastani",
+   "reply_to_id": "2123536455083675979",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-19T22:40:06.698794+00:00",
+   "parent": {
+    "id": "2123536455083675979",
+    "author_handle": "AaronBastani",
+    "author_name": "Aaron Bastani",
+    "text": "@s8mb ‘Interdependence’ would mean they are also dependent on Britain, which nobody thinks. Better to be honest and just call it ‘dependence’.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/AaronBastani/status/2123536455083675979",
+    "created_at": "Thu Nov 19 21:58:38 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123518855997755896": {
+   "id": "2123518855997755896",
+   "url": "https://x.com/s8mb/status/2123518855997755896",
+   "text": "In this video you can pick up my MAINTENANCE book and page through it, read the text and study the photos, just like in a bookshop.",
+   "created_at": "Thu Nov 19 20:48:42 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "stewartbrand",
+   "rt_author_name": "Stewart Brand",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1075885184992464897/FaKfkYAO_normal.jpg",
+   "rt_id": "2123462324992483510",
+   "likes": 28,
+   "retweets": 5,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-19T22:40:06.698794+00:00",
+   "enriched": 3
+  },
+  "2123518279893303592": {
+   "id": "2123518279893303592",
+   "url": "https://x.com/s8mb/status/2123518279893303592",
+   "text": "@tomhfh Very clever. I wonder why they do Languedoc and Paris at the same time.",
+   "created_at": "Thu Nov 19 20:46:25 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "tomhfh",
+   "reply_to_id": "2123518026054090973",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-19T22:40:06.698794+00:00",
+   "parent": {
+    "id": "2123518026054090973",
+    "author_handle": "tomhfh",
+    "author_name": "Tom Harwood",
+    "text": "@s8mb When it comes to school holidays the French stagger it with three zones so that the ski resorts don’t get overwhelmed. https://t.co/CfKaby9ybN",
+    "links": {
+     "https://t.co/CfKaby9ybN": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXhAY-MWUAAjy1X.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXhAY-MWUAAjy1X.jpg"
+     }
+    ],
+    "url": "https://x.com/tomhfh/status/2123518026054090973",
+    "created_at": "Thu Nov 19 20:45:25 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123513110837268849": {
+   "id": "2123513110837268849",
+   "url": "https://x.com/s8mb/status/2123513110837268849",
+   "text": "Most of the Elizabeth Line actually dates back to the Victorian era.\n\nDigging just 21km of tunnel through central London connected century-old commuter lines into a single 117km network. It’s called “through-running,” and US cities like NYC, Boston, and Chicago have the infrastructure to do the same thing. \n\nRead more: https://t.co/MnB5KZQWbI",
+   "created_at": "Thu Nov 19 20:25:53 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "WorksInProgMag",
+   "rt_author_name": "Works in Progress",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1620480120778547200/MkLNSMmo_normal.jpg",
+   "rt_id": "2123395006241107986",
+   "likes": 154,
+   "retweets": 13,
+   "media": [],
+   "links": {
+    "https://t.co/MnB5KZQWbI": "https://worksinprogress.co/issue/the-magic-of-through-running/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T22:40:06.698794+00:00",
+   "enriched": 3
   }
  }
 }

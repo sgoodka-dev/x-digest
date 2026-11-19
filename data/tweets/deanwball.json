@@ -14608,6 +14608,32 @@
    "quoted": null,
    "fetched_at": "2026-11-19T19:29:38.737368+00:00",
    "enriched": 3
+  },
+  "2123510408309072285": {
+   "id": "2123510408309072285",
+   "url": "https://x.com/deanwball/status/2123510408309072285",
+   "text": "please please please come work with me: https://t.co/a3LoRuSmJU\n\nour team of (3) helps define, drive and operationalize so many of the hot button topics - embedded evaluators? check! misalignment incidents and reporting? check! 3p/government testing and frameworks? check! how these things interact with policy initiatives? check!\n\n@_lamaahmad is a hero and me and serena are at least pleasant to work with, and our stable of dedicated daily collaborators from @fouadmatin @EstherTetruas @j_nitishinskaya @kaicathyc @Eric_Wallace_ @dkaushik96 @MicahCarroll @Marcus_J_W @davideoks @kevin_klyman is also an all-timer crew",
+   "created_at": "Thu Nov 19 20:15:08 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "CedricWhitney",
+   "rt_author_name": "cedric",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2100377602062200832/yCO-gS00_normal.jpg",
+   "rt_id": "2123507295556649115",
+   "likes": 150,
+   "retweets": 17,
+   "media": [],
+   "links": {
+    "https://t.co/a3LoRuSmJU": "https://openai.com/careers/research-program-manager-frontier-assurance-san-francisco/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T22:40:06.698794+00:00",
+   "enriched": 3
   }
  }
 }

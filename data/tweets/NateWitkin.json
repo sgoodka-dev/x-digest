@@ -5296,6 +5296,30 @@
    "quoted": null,
    "fetched_at": "2026-11-19T19:29:38.737368+00:00",
    "enriched": 3
+  },
+  "2123503594192146549": {
+   "id": "2123503594192146549",
+   "url": "https://x.com/NateWitkin/status/2123503594192146549",
+   "text": "Token spend (as tracked by Ramp) is down 6.3% in just two weeks. That's because even as token usage went up slightly, token prices have declined by over 20%.",
+   "created_at": "Thu Nov 19 19:48:04 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ruima",
+   "rt_author_name": "Rui Ma",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1413221549692227589/ME01cG25_normal.jpg",
+   "rt_id": "2123468406477484504",
+   "likes": 15,
+   "retweets": 3,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-19T22:40:06.698794+00:00",
+   "enriched": 3
   }
  }
 }
