@@ -5229,6 +5229,73 @@
    "quoted": null,
    "fetched_at": "2026-11-18T22:36:15.539422+00:00",
    "enriched": 3
+  },
+  "2123467900820312153": {
+   "id": "2123467900820312153",
+   "url": "https://x.com/NateWitkin/status/2123467900820312153",
+   "text": "The funny thing is I’ve never once thought this was the “AI’s most bullish chart”. There’s a lot of demand for compute *now*. What happens in the future is a forecast problem. What happens to the equity value of the value chain of compute even more so.",
+   "created_at": "Thu Nov 19 17:26:14 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "stevehou",
+   "rt_author_name": "Steve Hou",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1905914798300073984/stc3q7RB_normal.jpg",
+   "rt_id": "2123424290166935654",
+   "likes": 37,
+   "retweets": 4,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-19T19:29:38.737368+00:00",
+   "enriched": 3
+  },
+  "2123465365778788391": {
+   "id": "2123465365778788391",
+   "url": "https://x.com/NateWitkin/status/2123465365778788391",
+   "text": "Seems like the OpenAI research acceleration blogpost is not what you would expect if we were definitely on the cusp of artificial superintelligence - models that are more cognitively capable than ~ALL humans on ~ALL tasks. Agent workdays have grown very jaggedly, swarm sizes haven't grown very much, and spending on tokens hasn't actually outpaced spending on human workers* although the growth rate is clear. There also hasn't been an acceleration in research experiments per experimenter, or in the internal ECI scores of OpenAI's models. Perhaps most importantly (and most surprisingly), the task success rate for <15 min tasks hasn't grown very much at all, and the share of tasks done by agents across various time horizons is both low and not growing for the most part.\n\nIt's possible that Anthropic is *much* further along in automating AI R&D than OpenAI, and that METR saw this in their investigation. It's also possible that we see nothing much right up until a shocking acceleration in capabilities, like we saw in mathematics. We certainly can't rule out the possibility of an intelligence explosion.\n\nBut there's been a huge belief cascade in AI in general and AI safety in particular that seems largely unwarranted given the evidence that we have today. It's entirely possible that we can't fully automate all AI R&D tasks in the imminent future, or that full automation of AI R&D doesn't massively accelerate AI capabilities progress, or that capability gains concentrate in easily verifiable tasks and fail to generalize to the messy real world. These are all open research questions",
+   "created_at": "Thu Nov 19 17:16:09 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "theojaffee",
+   "rt_author_name": "Theo Jaffee",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2068124453016682497/Xq5hPekQ_normal.jpg",
+   "rt_id": "2123231377177157992",
+   "likes": 565,
+   "retweets": 61,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXcyggnbcAEV1j-.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXc0BdabQAA5Iof.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXc0FgdaYAA38iu.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXc0RTaacAAMehf.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/ksQc69MJDm": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T19:29:38.737368+00:00",
+   "enriched": 3
   }
  }
 }

@@ -9044,6 +9044,101 @@
     "created_at": "Wed Nov 18 22:15:18 +0000 2026"
    },
    "enriched": 3
+  },
+  "2123489867497869616": {
+   "id": "2123489867497869616",
+   "url": "https://x.com/DKokotajlo/status/2123489867497869616",
+   "text": "Stop! https://t.co/fneAQriYyI",
+   "created_at": "Thu Nov 19 18:53:31 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "gralston",
+   "rt_author_name": "Geoff Ralston",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1807146559/geoffryralston_head_normal.jpg",
+   "rt_id": "2123197757200695763",
+   "likes": 419,
+   "retweets": 45,
+   "media": [],
+   "links": {
+    "https://t.co/fneAQriYyI": "https://geoffralston.substack.com/p/stop?r=qoeg&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T19:29:38.737368+00:00",
+   "enriched": 3
+  },
+  "2123489223743512588": {
+   "id": "2123489223743512588",
+   "url": "https://x.com/DKokotajlo/status/2123489223743512588",
+   "text": "@imobulus @tszzl @thlarsen Before. Since llms, the ratsphere mainstream was more represented by my What 2026 Looks Like I think, which was more accurate re jaggedness if I do say so myself (I am biased ofc)",
+   "created_at": "Thu Nov 19 18:50:58 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "imobulus",
+   "reply_to_id": "2123474140938260594",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-19T19:29:38.737368+00:00",
+   "parent": {
+    "id": "2123474140938260594",
+    "author_handle": "imobulus",
+    "author_name": "Egor Riabov",
+    "text": "@tszzl @DKokotajlo @thlarsen Btw when did they paint that picture? Before LLMs became a thing or after?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/imobulus/status/2123474140938260594",
+    "created_at": "Thu Nov 19 17:51:02 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123488568106742142": {
+   "id": "2123488568106742142",
+   "url": "https://x.com/DKokotajlo/status/2123488568106742142",
+   "text": "Sen. Hickenlooper’s open letter to Sens. Schumer and Van Hollen says that the next majority leader should “consider banning Recursive Self-Improvement to prevent AI systems from autonomously advancing beyond our ability to control them.”\n\nSeems like a good idea! https://t.co/gqyG7mRl0M",
+   "created_at": "Thu Nov 19 18:48:21 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "CharlieBull0ck",
+   "rt_author_name": "Charlie Bullock",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1861121032553197568/rSNgVaYP_normal.jpg",
+   "rt_id": "2123451985538302404",
+   "likes": 339,
+   "retweets": 58,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXgEUxNX0AE-tPH.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXgEUxNX0AE-tPH.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/gqyG7mRl0M": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T19:29:38.737368+00:00",
+   "enriched": 3
   }
  }
 }

@@ -3260,6 +3260,30 @@
    "quoted": null,
    "fetched_at": "2026-11-19T15:53:10.855245+00:00",
    "enriched": 3
+  },
+  "2123480184200266106": {
+   "id": "2123480184200266106",
+   "url": "https://x.com/sayashk/status/2123480184200266106",
+   "text": "In most of the recent cases of website outages, when AI was involved at all, it was a matter of AI improving cybersecurity and safety by helping defenders find and fix long-standing bugs, even if it meant briefly taking down systems to roll out updates. For two decades, automated vulnerability detection has helped defenders over attackers, and AI's impact so far is mostly consistent with that trend. \n\nThis is no reason for complacency. There is a long way to go, with a huge amount of accumulated security debt to fix, and tail risks remain possible. But the \"AI is causing outages\" narrative is too simplistic.",
+   "created_at": "Thu Nov 19 18:15:02 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1521238232867946496/U_GCI43e_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "random_walker",
+   "rt_author_name": "Arvind Narayanan",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1650881612756942850/bZYjMyFU_normal.jpg",
+   "rt_id": "2123417257237753877",
+   "likes": 24,
+   "retweets": 6,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-19T19:29:38.737368+00:00",
+   "enriched": 3
   }
  }
 }

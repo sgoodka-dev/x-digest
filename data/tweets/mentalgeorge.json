@@ -4132,6 +4132,38 @@
     "created_at": "Thu Nov 19 02:27:48 +0000 2026"
    },
    "enriched": 3
+  },
+  "2123467800442511539": {
+   "id": "2123467800442511539",
+   "url": "https://x.com/mentalgeorge/status/2123467800442511539",
+   "text": "Here are some things you might want to know about China and AI: \n\n- A \"Chinese HuggingFace\" might never become public \n\n- Beijing’s criticism of Anthropic has been unusually direct, even by the standards of its past attacks on American companies\n\n- Mythos, more than anything, changed how the CCP viewed AI\n\n- Jiang Shigong is the most interesting non-dissident Chinese intellectual (admittedly, not on AI, but important to know nonetheless).\n\nYou can learn all of this, and so much more, in my latest interview with @JulianGewirtz. \n\nJulian is a researcher at Columbia and served under Biden as the White House’s Senior Director for China and Taiwan Affairs and the State Department’s Deputy China Coordinator. \n\nHe’s also the author of the best book on the pivotal decade of modern China's history (the 80s), and blogs at https://t.co/OzMWQ7THBg\n\nJulian was the person my relevant-expert friends told me to interview on China - and I'm glad they did! \n\nWatch it wherever you get your podcasts.",
+   "created_at": "Thu Nov 19 17:25:50 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 19,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2123415588064141312/img/Yq6sV_7-3GdptGib.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/OzMWQ7THBg": "https://juliangewirtz.substack.com/",
+    "https://t.co/R1XAY1eEjQ": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T19:29:38.737368+00:00",
+   "enriched": 3
   }
  }
 }

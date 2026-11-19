@@ -2160,6 +2160,41 @@
    "quoted": null,
    "fetched_at": "2026-11-19T15:53:10.855245+00:00",
    "enriched": 3
+  },
+  "2123458484222271560": {
+   "id": "2123458484222271560",
+   "url": "https://x.com/Lewis_Bollard/status/2123458484222271560",
+   "text": "I ate cultivated chicken last night. Before dinner, we toured the @UPSIDEFoods facility — what critics call the \"lab\" where \"lab meat\" is made.\n\nWhat struck me most was how clean it was. Every chicken and pig factory I’ve entered has been filthy, with the pungent smell of manure the animals live on top of.\n\nThe Upside facility was spotless. The plant manager told me that in two years of operating they haven’t had a single case of Salmonella or Campylobacter.\n\nBy contrast, the most recent USDA testing found Salmonella in 35% of ground chicken and Campylobacter in 25% of whole chicken carcasses from factory farms.\n\nThis won’t be for everyone. If you only want \"natural\" meat, eat pasture-raised meat instead.\n\nBut for the majority already eating factory chicken daily, this could be a major upgrade: the same product, minus the pathogens and the cruelty.",
+   "created_at": "Thu Nov 19 16:48:49 +0000 2026",
+   "author_handle": "Lewis_Bollard",
+   "author_name": "Lewis Bollard",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1945502946910699520/AxOdmQGI_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 479,
+   "retweets": 58,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXgEp3VakAAZZdp.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXgEsL3bwAAwmZI.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/tmUpdN6Q2C": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T19:29:38.737368+00:00",
+   "enriched": 3
   }
  }
 }

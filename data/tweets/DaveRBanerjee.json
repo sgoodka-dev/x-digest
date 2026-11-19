@@ -5168,6 +5168,37 @@
    },
    "fetched_at": "2026-11-19T15:53:10.855245+00:00",
    "enriched": 3
+  },
+  "2123445879629586880": {
+   "id": "2123445879629586880",
+   "url": "https://x.com/DaveRBanerjee/status/2123445879629586880",
+   "text": "Seaport just won the internet, and it's not even close:\n\n\"Anthropic could develop AI systems which become fully autonomous and wipe out humanity which may lead to a serious decline in earnings.\"",
+   "created_at": "Thu Nov 19 15:58:44 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "zerohedge",
+   "rt_author_name": "zerohedge",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/72647502/tyler_normal.jpg",
+   "rt_id": "2123431214983864444",
+   "likes": 3510,
+   "retweets": 402,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXfxQo1XMAAbLod.png"
+    }
+   ],
+   "links": {
+    "https://t.co/SlqHbIR5C4": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T19:29:38.737368+00:00",
+   "enriched": 3
   }
  }
 }

@@ -14480,6 +14480,148 @@
     "created_at": "Tue Nov 17 22:03:13 +0000 2026"
    },
    "enriched": 3
+  },
+  "2123484206705549654": {
+   "id": "2123484206705549654",
+   "url": "https://x.com/s8mb/status/2123484206705549654",
+   "text": "This is a man we can do business with.",
+   "created_at": "Thu Nov 19 18:31:01 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 14,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2123371264421081182",
+    "author_name": "Jean-Luc Mélenchon",
+    "links": {},
+    "author": "JLMelenchon",
+    "text": "Le nouvel épisode de la saga, GTA VI, développé par Rockstar Games, est sorti ce jeudi. Cette série s’est imposée comme une passion pour des millions de Français.\n\nSans revenir à cet instant sur les nouvelles conditions de la propriété de ce jeu par ceux qui l'achètent, ni sur le contenu de l'histoire mise en scène, je voudrais souligner combien le jeu vidéo est un art complet. Il est pleinement constitutif de notre époque, en dépit du mépris de certaines élites.\n\nLa Nouvelle France, c'est aussi cette réalité, et je suis certain que cette nouvelle « industrie » est un avenir pour notre pays, qui y excelle déjà, et pour des millions de jeunes carrières qui voudront y participer."
+   },
+   "fetched_at": "2026-11-19T19:29:38.737368+00:00",
+   "enriched": 3
+  },
+  "2123449075777368559": {
+   "id": "2123449075777368559",
+   "url": "https://x.com/s8mb/status/2123449075777368559",
+   "text": "This is really awesome. Imagine how proud Jack's old editors at Bloomberg and the Register must feel.",
+   "created_at": "Thu Nov 19 16:11:26 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 145,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2123439737247871302",
+    "author_name": "Trung Phan",
+    "links": {
+     "https://t.co/GP1mGHP94c": ""
+    },
+    "author": "TrungTPhan",
+    "text": "Each of Anthropic's 7 co-founders own ~1.4% of the AI startup. Those stake are worth $20B+ a person at top of IPO range.\n\nThis makes co-founder Jack Clark the most financially successful beat reporter ever (including a stint as the “world’s only distributed systems reporter.”) https://t.co/GP1mGHP94c"
+   },
+   "fetched_at": "2026-11-19T19:29:38.737368+00:00",
+   "enriched": 3
+  },
+  "2123447292497674355": {
+   "id": "2123447292497674355",
+   "url": "https://x.com/s8mb/status/2123447292497674355",
+   "text": "@augusteprompt @Ricburton @Machenta_ @rosstaylor90 I'm strongly in favour of reforming copyright and removing lots of other barriers to AI and other tech companies succeeding here. But the answer given by Narayan is specifically about government \"piling in a bunch of capital\" into it.",
+   "created_at": "Thu Nov 19 16:04:20 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "augusteprompt",
+   "reply_to_id": "2123444621707444645",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-19T19:29:38.737368+00:00",
+   "parent": {
+    "id": "2123444621707444645",
+    "author_handle": "augusteprompt",
+    "author_name": "Auguste Prompt",
+    "text": "@s8mb @Ricburton @Machenta_ Government subsidies are not the only way to address the fact we are about to lose our sovereignty, we should consider absolutely all options, including the copyright issue @rosstaylor90 brought up. There are a million things we could do but saying we don’t need it is giving up.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/augusteprompt/status/2123444621707444645",
+    "created_at": "Thu Nov 19 15:53:44 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123446559887294724": {
+   "id": "2123446559887294724",
+   "url": "https://x.com/s8mb/status/2123446559887294724",
+   "text": "@amoylan France is one of the most impressive economies in the world, and most developed countries could learn a lot from it! https://t.co/N6McRZDmb5 https://t.co/rzj1vi3NmI",
+   "created_at": "Thu Nov 19 16:01:26 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "amoylan",
+   "reply_to_id": "2123438893017997681",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 22,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXf_WhtXEAAGvQt.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXf_WhtXEAAGvQt.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/N6McRZDmb5": "https://ukfoundations.co/",
+    "https://t.co/rzj1vi3NmI": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T19:29:38.737368+00:00",
+   "parent": {
+    "id": "2123438893017997681",
+    "author_handle": "amoylan",
+    "author_name": "amoylan",
+    "text": "@s8mb Britain is well and truly lost if it is looking to France for economic efficiency guidance.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/amoylan/status/2123438893017997681",
+    "created_at": "Thu Nov 19 15:30:58 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

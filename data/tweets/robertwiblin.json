@@ -12749,6 +12749,330 @@
    "quoted": null,
    "fetched_at": "2026-11-19T15:53:10.855245+00:00",
    "enriched": 3
+  },
+  "2123484728342782273": {
+   "id": "2123484728342782273",
+   "url": "https://x.com/robertwiblin/status/2123484728342782273",
+   "text": "Good piece: What if we wanted to slow down AI? \n\n@anton_d_leicht explains the 3 approaches and their pros/cons.\n\nAlso: there's stuff the labs can do now to make pacing work better later.\n\nCompany staff should be kicking and screaming until their employers do these things.\n\nhttps://t.co/A0lV4nD1xm",
+   "created_at": "Thu Nov 19 18:33:06 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 19,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXghl5uX0AE6MtJ.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/A0lV4nD1xm": "https://writing.antonleicht.me/p/pacing",
+    "https://t.co/uOzHJImyta": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T19:29:38.737368+00:00",
+   "enriched": 3
+  },
+  "2123479771854115167": {
+   "id": "2123479771854115167",
+   "url": "https://x.com/robertwiblin/status/2123479771854115167",
+   "text": "Policymakers might try to slow down AI progress very soon. But most 'pacing' ideas would backfire: they're either too complex to work fast, or too much of a band-aid to last.\n\nToday's essay looks at the politics of our least bad options to slow down AI.\nhttps://t.co/kkeOBjvKYT",
+   "created_at": "Thu Nov 19 18:13:24 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "anton_d_leicht",
+   "rt_author_name": "Anton Leicht",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2099528473869971457/0uLWqvOn_normal.jpg",
+   "rt_id": "2123094842334990752",
+   "likes": 75,
+   "retweets": 12,
+   "media": [],
+   "links": {
+    "https://t.co/kkeOBjvKYT": "https://writing.antonleicht.me/p/pacing"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T19:29:38.737368+00:00",
+   "enriched": 3
+  },
+  "2123469957522416016": {
+   "id": "2123469957522416016",
+   "url": "https://x.com/robertwiblin/status/2123469957522416016",
+   "text": "Here are some things you might want to know about China and AI: \n\n- A \"Chinese HuggingFace\" might never become public \n\n- Beijing’s criticism of Anthropic has been unusually direct, even by the standards of its past attacks on American companies\n\n- Mythos, more than anything, changed how the CCP viewed AI\n\n- Jiang Shigong is the most interesting non-dissident Chinese intellectual (admittedly, not on AI, but important to know nonetheless).\n\nYou can learn all of this, and so much more, in my latest interview with @JulianGewirtz. \n\nJulian is a researcher at Columbia and served under Biden as the White House’s Senior Director for China and Taiwan Affairs and the State Department’s Deputy China Coordinator. \n\nHe’s also the author of the best book on the pivotal decade of modern China's history (the 80s), and blogs at https://t.co/OzMWQ7THBg\n\nJulian was the person my relevant-expert friends told me to interview on China - and I'm glad they did! \n\nWatch it wherever you get your podcasts.",
+   "created_at": "Thu Nov 19 17:34:24 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "mentalgeorge",
+   "rt_author_name": "Tom Reed",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "rt_id": "2123467800442511539",
+   "likes": 19,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2123415588064141312/img/Yq6sV_7-3GdptGib.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/OzMWQ7THBg": "https://juliangewirtz.substack.com/",
+    "https://t.co/R1XAY1eEjQ": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T19:29:38.737368+00:00",
+   "enriched": 3
+  },
+  "2123464835505721728": {
+   "id": "2123464835505721728",
+   "url": "https://x.com/robertwiblin/status/2123464835505721728",
+   "text": "https://t.co/uJwa0ejddl",
+   "created_at": "Thu Nov 19 17:14:03 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2123462787816948015",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/uJwa0ejddl": "https://punchbowl.news/hickenlooper-ai-leadership-letter/?utm_source=Sailthru&utm_medium=email&utm_campaign=11/19/26%20AM:&utm_term=%28prod%29%20AM%20Subscribers"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T19:29:38.737368+00:00",
+   "parent": {
+    "id": "2123462787816948015",
+    "author_handle": "robertwiblin",
+    "author_name": "Rob Wiblin",
+    "text": "Nice. Hickenlooper (Senator for Colorado) writes to leader Schumer: \n\n\"We also need to... consider banning Recursive Self-Improvement to prevent AI systems from autonomously advancing beyond our ability to control them. ...\n\nAI is threatening to upend every part of American life. And the U.S. Senate is acting too slowly. That’s why the race for Senate Majority Leader is so important.\"",
+    "links": {
+     "https://t.co/G3Nnw2iwsC": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXgLb0uXoAA4pDC.jpg"
+     }
+    ],
+    "url": "https://x.com/robertwiblin/status/2123462787816948015",
+    "created_at": "Thu Nov 19 17:05:55 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123462787816948015": {
+   "id": "2123462787816948015",
+   "url": "https://x.com/robertwiblin/status/2123462787816948015",
+   "text": "Nice. Hickenlooper (Senator for Colorado) writes to leader Schumer: \n\n\"We also need to... consider banning Recursive Self-Improvement to prevent AI systems from autonomously advancing beyond our ability to control them. ...\n\nAI is threatening to upend every part of American life. And the U.S. Senate is acting too slowly. That’s why the race for Senate Majority Leader is so important.\"",
+   "created_at": "Thu Nov 19 17:05:55 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 42,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXgLb0uXoAA4pDC.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/G3Nnw2iwsC": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T19:29:38.737368+00:00",
+   "thread": [
+    {
+     "id": "2123464835505721728",
+     "author_handle": "robertwiblin",
+     "author_name": "Rob Wiblin",
+     "text": "https://t.co/uJwa0ejddl",
+     "links": {
+      "https://t.co/uJwa0ejddl": "https://punchbowl.news/hickenlooper-ai-leadership-letter/?utm_source=Sailthru&utm_medium=email&utm_campaign=11/19/26%20AM:&utm_term=%28prod%29%20AM%20Subscribers"
+     },
+     "media": [],
+     "url": "https://x.com/robertwiblin/status/2123464835505721728",
+     "created_at": "Thu Nov 19 17:14:03 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2123449955566195177": {
+   "id": "2123449955566195177",
+   "url": "https://x.com/robertwiblin/status/2123449955566195177",
+   "text": "The sad reality is that Anthropic is failing to persuade us that one of these things is true:\n\n1. They're on track to know how to do RSI safely.\n\n2. They're fighting tooth and nail to get extra time to figure it out.\n\n3. They won't go ahead until they do.\n\n1 is false, 2 is clearly not the case, and 3 we have to take on trust and the signs aren't great.",
+   "created_at": "Thu Nov 19 16:14:55 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 154,
+   "retweets": 17,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-19T19:29:38.737368+00:00",
+   "enriched": 3
+  },
+  "2123446934375448964": {
+   "id": "2123446934375448964",
+   "url": "https://x.com/robertwiblin/status/2123446934375448964",
+   "text": "https://t.co/WRknHHiiau",
+   "created_at": "Thu Nov 19 16:02:55 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2123446903417565619",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/WRknHHiiau": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T19:29:38.737368+00:00",
+   "parent": {
+    "id": "2123446903417565619",
+    "author_handle": "robertwiblin",
+    "author_name": "Rob Wiblin",
+    "text": "The NYT profiles Dustin Moskovitz: \n\n\"One of Anthropic’s Biggest I.P.O. Winners Feels a Bit Uneasy About the Whole Thing\" https://t.co/3DsyWzzpeJ",
+    "links": {
+     "https://t.co/3DsyWzzpeJ": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXf_oaBXMAAgEwI.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXf_oaBXMAAgEwI.jpg"
+     }
+    ],
+    "url": "https://x.com/robertwiblin/status/2123446903417565619",
+    "created_at": "Thu Nov 19 16:02:48 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123446903417565619": {
+   "id": "2123446903417565619",
+   "url": "https://x.com/robertwiblin/status/2123446903417565619",
+   "text": "The NYT profiles Dustin Moskovitz: \n\n\"One of Anthropic’s Biggest I.P.O. Winners Feels a Bit Uneasy About the Whole Thing\" https://t.co/3DsyWzzpeJ",
+   "created_at": "Thu Nov 19 16:02:48 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 78,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXf_oaBXMAAgEwI.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXf_oaBXMAAgEwI.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/3DsyWzzpeJ": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T19:29:38.737368+00:00",
+   "thread": [
+    {
+     "id": "2123446934375448964",
+     "author_handle": "robertwiblin",
+     "author_name": "Rob Wiblin",
+     "text": "https://t.co/WRknHHiiau",
+     "links": {
+      "https://t.co/WRknHHiiau": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html"
+     },
+     "media": [],
+     "url": "https://x.com/robertwiblin/status/2123446934375448964",
+     "created_at": "Thu Nov 19 16:02:55 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2123446531059585281": {
+   "id": "2123446531059585281",
+   "url": "https://x.com/robertwiblin/status/2123446531059585281",
+   "text": "https://t.co/WRknHHiiau",
+   "created_at": "Thu Nov 19 16:01:19 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2123446527582757030",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/WRknHHiiau": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T19:29:38.737368+00:00",
+   "enriched": 3
   }
  }
 }
