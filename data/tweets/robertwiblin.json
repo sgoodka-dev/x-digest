@@ -12432,6 +12432,323 @@
    "quoted": null,
    "fetched_at": "2026-11-18T19:24:11.518095+00:00",
    "enriched": 3
+  },
+  "2123439985408069800": {
+   "id": "2123439985408069800",
+   "url": "https://x.com/robertwiblin/status/2123439985408069800",
+   "text": "Full things: https://t.co/0c0SCVGnj3",
+   "created_at": "Thu Nov 19 15:35:18 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2123439938859352277",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/0c0SCVGnj3": "https://www.govops.ca.gov/wp-content/uploads/sites/11/2026/11/FINAL_-AI-Safety-in-2026-and-Beyond-v2.pdf"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T15:53:10.855245+00:00",
+   "parent": {
+    "id": "2123439938859352277",
+    "author_handle": "robertwiblin",
+    "author_name": "Rob Wiblin",
+    "text": "Wow, Newsom's proposed AI regulations for California are serious business. Great stuff in here:\n\n\"The state must have an immediate and ongoing line of sight into the possibility of RSI with the authority to cap its development and use if needed. ...\n\nThe thresholds for critical incident reporting must expand to capture all serious incidents. ... (And report in under 24 hours for imminent catastrophic risks, rather than 15 days.) ...\n\nEvery large frontier developer must submit to ongoing oversight by licensed independent verification organizations. ...\n\nModels that are capable of actions that could result in catastrophic risk must be treated as frontier models and required to report incidents. ...\n\nIf the danger from a model is imminent and the developer refuses to take action to contain the danger, the state should have authority to order an immediate emergency shutdown. ...\n\nEvery large frontier developer must create a Risk Containment Protocol (RCP), tested and verified on an ongoing basis by an IVO, to show they are capable of shutting down models in case of emergency. ...\n\nThe RCP should specifically address potential failures of the shutdown procedure and how the developer is addressing them. ...\n\nThe state should establish baseline standards for safety, security, and transparency that all large frontier AI developers must follow. Independent Verification Organizations (IVOs), meanwhile, should have the flexibility to determine and update technical specifications for meeting the standards as AI technology evolves. ...\n\nIf an IVO determines that it cannot, using its approved methods and technologies, attest to the compliance of a developer’s models with government standards, the government must have the authority to order corrective action.\"\n\nhttps://t.co/4WwhobgUD7",
+    "links": {
+     "https://t.co/4WwhobgUD7": "https://x.com/_NathanCalvin/status/2123112668831563907"
+    },
+    "media": [],
+    "url": "https://x.com/robertwiblin/status/2123439938859352277",
+    "created_at": "Thu Nov 19 15:35:07 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123439938859352277": {
+   "id": "2123439938859352277",
+   "url": "https://x.com/robertwiblin/status/2123439938859352277",
+   "text": "Wow, Newsom's proposed AI regulations for California are serious business. Great stuff in here:\n\n\"The state must have an immediate and ongoing line of sight into the possibility of RSI with the authority to cap its development and use if needed. ...\n\nThe thresholds for critical incident reporting must expand to capture all serious incidents. ... (And report in under 24 hours for imminent catastrophic risks, rather than 15 days.) ...\n\nEvery large frontier developer must submit to ongoing oversight by licensed independent verification organizations. ...\n\nModels that are capable of actions that could result in catastrophic risk must be treated as frontier models and required to report incidents. ...\n\nIf the danger from a model is imminent and the developer refuses to take action to contain the danger, the state should have authority to order an immediate emergency shutdown. ...\n\nEvery large frontier developer must create a Risk Containment Protocol (RCP), tested and verified on an ongoing basis by an IVO, to show they are capable of shutting down models in case of emergency. ...\n\nThe RCP should specifically address potential failures of the shutdown procedure and how the developer is addressing them. ...\n\nThe state should establish baseline standards for safety, security, and transparency that all large frontier AI developers must follow. Independent Verification Organizations (IVOs), meanwhile, should have the flexibility to determine and update technical specifications for meeting the standards as AI technology evolves. ...\n\nIf an IVO determines that it cannot, using its approved methods and technologies, attest to the compliance of a developer’s models with government standards, the government must have the authority to order corrective action.\"\n\nhttps://t.co/4WwhobgUD7",
+   "created_at": "Thu Nov 19 15:35:07 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 13,
+   "retweets": 5,
+   "media": [],
+   "links": {
+    "https://t.co/4WwhobgUD7": "https://x.com/_NathanCalvin/status/2123112668831563907"
+   },
+   "quoted": {
+    "id": "2123112668831563907",
+    "author_name": "Nathan Calvin",
+    "links": {
+     "https://t.co/k0DVF88g8z": ""
+    },
+    "author": "_NathanCalvin",
+    "text": "The recommendations from Governor Newsom's recently convened expert panel - Professor Alondra Nelson (Princeton), Jason Goldman, Professor Robert Reich (Stanford), and Professor Gillian Hadfield (Johns Hopkins) - were just released and are a clarion call for urgent action to address risks to public safety from advanced AI systems. \n\nSome of the most notable recommendations: \n• Emergency shutdown authority \n• Minimum safety standards for AI developers\n• Mandatory third party oversight\n• Authority to cap the amount of compute used for RSI \n\nThe next weeks and months will determine whether these recommendations are words on paper, or whether the Governor and legislature can work together to accomplish something historic to protect CA and lead the country on guardrails to prevent catastrophic risks from runaway AI development."
+   },
+   "fetched_at": "2026-11-19T15:53:10.855245+00:00",
+   "thread": [
+    {
+     "id": "2123439985408069800",
+     "author_handle": "robertwiblin",
+     "author_name": "Rob Wiblin",
+     "text": "Full things: https://t.co/0c0SCVGnj3",
+     "links": {
+      "https://t.co/0c0SCVGnj3": "https://www.govops.ca.gov/wp-content/uploads/sites/11/2026/11/FINAL_-AI-Safety-in-2026-and-Beyond-v2.pdf"
+     },
+     "media": [],
+     "url": "https://x.com/robertwiblin/status/2123439985408069800",
+     "created_at": "Thu Nov 19 15:35:18 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2123434080737919461": {
+   "id": "2123434080737919461",
+   "url": "https://x.com/robertwiblin/status/2123434080737919461",
+   "text": "We’re releasing a concrete proposal for how a near term AI slowdown could work. It involves:\n1. AI companies declaring how they are using their compute and letting third party auditors verify those disclosures. We call this Verified Compute Allocation Disclosures (VCAD). \n2. Compute Reallocation towards serving customers and safety, away from capabilities R&D. \n\n(2) slows AI capabilities , while (1) makes the slowdown credible. \n\nAI companies currently seem to be going for ‘safety case pacing’. But: (i) there’s no consensus on what a valid safety case looks like so there’s no way to consistently audit for compliance, and (ii) if the R&D doesn’t get paused, temporarily delaying a training run for safety doesn’t meaningfully slow the overall trajectory of capabilities progress. It would be great if we had a viable safety case regime, but we need much more time to get it working. \n\nCompute reallocation is a good pacing proposal because it is relatively specific, can be verified, and would lead to a more durable slowdown.",
+   "created_at": "Thu Nov 19 15:11:51 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "thlarsen",
+   "rt_author_name": "Thomas Larsen",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2075083315468734464/Y0RF7vaZ_normal.jpg",
+   "rt_id": "2123082667457740990",
+   "likes": 640,
+   "retweets": 112,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-19T15:53:10.855245+00:00",
+   "enriched": 3
+  },
+  "2123433982771552288": {
+   "id": "2123433982771552288",
+   "url": "https://x.com/robertwiblin/status/2123433982771552288",
+   "text": "anthropic: \"we expect to reach automated researcher in 2027\" \nalso anthropic: \"we will implement embedded evaluation over a 5 year period\" \n\nhttps://t.co/8mXGq6J8bV https://t.co/gcSMfSSBcS",
+   "created_at": "Thu Nov 19 15:11:27 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "DanielCHTan97",
+   "rt_author_name": "Daniel Tan",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1553594466489237504/SRQPHH6x_normal.jpg",
+   "rt_id": "2123110482144113101",
+   "likes": 285,
+   "retweets": 27,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbNq-5W4AELbz8.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbNq-5W4AELbz8.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/8mXGq6J8bV": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+    "https://t.co/gcSMfSSBcS": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T15:53:10.855245+00:00",
+   "enriched": 3
+  },
+  "2123347882086678965": {
+   "id": "2123347882086678965",
+   "url": "https://x.com/robertwiblin/status/2123347882086678965",
+   "text": "Paul Christiano @paulfchristiano was not messing around in his interview with Dwarkesh. \n\nHis message is clear: Pause. https://t.co/H7e2Wsjcu6",
+   "created_at": "Thu Nov 19 09:29:19 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "TheZvi",
+   "rt_author_name": "Zvi Mowshowitz",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2873511010/24e99a900de1fc5a22336b80aef68a59_normal.png",
+   "rt_id": "2122841528431481191",
+   "likes": 598,
+   "retweets": 64,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXXZEMNWYAAIrSG.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXXZEMNWYAAIrSG.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/H7e2Wsjcu6": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T15:53:10.855245+00:00",
+   "enriched": 3
+  },
+  "2123346298837303725": {
+   "id": "2123346298837303725",
+   "url": "https://x.com/robertwiblin/status/2123346298837303725",
+   "text": "so epoch and anthropic capabilities index both appear to show 1.7-2x progress after full coding automation in Q2 ish of this year \n\nit appears to be a clean trend break rather than a constant acceleration https://t.co/mAanDai0RR",
+   "created_at": "Thu Nov 19 09:23:02 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "tszzl",
+   "rt_author_name": "roon",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+   "rt_id": "2122924317935898701",
+   "likes": 1726,
+   "retweets": 102,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXYkaVSbEAAaouA.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXYkaVSbEAAaouA.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/mAanDai0RR": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T15:53:10.855245+00:00",
+   "enriched": 3
+  },
+  "2123346207577948584": {
+   "id": "2123346207577948584",
+   "url": "https://x.com/robertwiblin/status/2123346207577948584",
+   "text": "At least when it comes to the everyday work we do at Epoch, this gives a pretty strong answer on which models are most useful, beyond typical benchmark scores. https://t.co/l5Nr2Nv4H6",
+   "created_at": "Thu Nov 19 09:22:40 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "GregHBurnham",
+   "rt_author_name": "Greg Burnham",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1125088192548474880/JvBpsnxg_normal.png",
+   "rt_id": "2122819580821225543",
+   "likes": 119,
+   "retweets": 7,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXXFKJRXwAAsEJv.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXXFKJRXwAAsEJv.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/l5Nr2Nv4H6": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T15:53:10.855245+00:00",
+   "enriched": 3
+  },
+  "2123346041789682029": {
+   "id": "2123346041789682029",
+   "url": "https://x.com/robertwiblin/status/2123346041789682029",
+   "text": "Alignment evaluation awareness has surged yet again to entirely new heights. This is from page 103 of Astra's system card. https://t.co/wEvd0lU6U0",
+   "created_at": "Thu Nov 19 09:22:00 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "AndrewCurran_",
+   "rt_author_name": "Andrew Curran",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1596945208058744833/_X3LT7fb_normal.jpg",
+   "rt_id": "2122844319518536065",
+   "likes": 393,
+   "retweets": 33,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXXbqLdagAA2o5M.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXXbqLdagAA2o5M.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/wEvd0lU6U0": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T15:53:10.855245+00:00",
+   "enriched": 3
+  },
+  "2123336629624443157": {
+   "id": "2123336629624443157",
+   "url": "https://x.com/robertwiblin/status/2123336629624443157",
+   "text": "This report made me feel even more optimistic about California stepping up to the plate as we enter RSI. The panel did a great job - RSI is mentioned near the top of the Governor’s press release!\n\nSome really sharp ideas in here, e.g. requiring companies to disclose what % of compute they’re spending on frontier AI R&D, creating outcome-based standards that can complement safety cases, bringing companies up to >SL3 model weight security\n\nIf CA moves fast and smart, parts of this report could become law in ~months. One of the biggest determinants will be how hard and loud lab employees are willing to push. This is imo the #1 policy opportunity anywhere in the world to manage RSI risks asap",
+   "created_at": "Thu Nov 19 08:44:36 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "SnehaRevanur",
+   "rt_author_name": "Sneha",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2099735189782134784/BxgR8Ne4_normal.jpg",
+   "rt_id": "2123129144427028939",
+   "likes": 173,
+   "retweets": 30,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXbetIoaMAASVnJ.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/5aUVLAM3Gy": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T15:53:10.855245+00:00",
+   "enriched": 3
   }
  }
 }

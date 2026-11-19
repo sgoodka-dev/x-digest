@@ -2802,6 +2802,74 @@
    "quoted": null,
    "fetched_at": "2026-11-17T19:51:52.671734+00:00",
    "enriched": 3
+  },
+  "2123212500543922411": {
+   "id": "2123212500543922411",
+   "url": "https://x.com/nabeelqu/status/2123212500543922411",
+   "text": "It's easy to hate Dario, but do you have courage to hate everyone who's been dismissing him as a dork? He had stated his theory of victory a decade ago. Let nobody tell you this came as a surprise. https://t.co/ENkZyzBfjt",
+   "created_at": "Thu Nov 19 00:31:22 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1857140980421668864/0prdKK32_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "teortaxesTex",
+   "rt_author_name": "Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞)",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1652169745037242368/KRPTShbG_normal.jpg",
+   "rt_id": "2123201586578997391",
+   "likes": 833,
+   "retweets": 44,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXcgP8vXIAAPhZO.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXcgP8vXIAAPhZO.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/ENkZyzBfjt": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T15:53:10.855245+00:00",
+   "enriched": 3
+  },
+  "2123205519716307134": {
+   "id": "2123205519716307134",
+   "url": "https://x.com/nabeelqu/status/2123205519716307134",
+   "text": "The NYT is incredibly lucky to get @jasminewsun, she is the single best person covering tech/the Valley and SV culture today. \n\nIt’s well worth reading this thread, and the linked piece, for a full dose of how some AI lab people model the world:",
+   "created_at": "Thu Nov 19 00:03:37 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1857140980421668864/0prdKK32_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 264,
+   "retweets": 11,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2123172397897621508",
+    "author_name": "jasmine sun",
+    "links": {
+     "https://t.co/xsrh02LaBq": "https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html?unlocked_article_code=1.RVE.AUKz.AkiqfoAGG5ph&smid=url-share",
+     "https://t.co/7O7WbO3GR3": ""
+    },
+    "author": "jasminewsun",
+    "text": "Anthropic doesn't see itself as a \"normal company.\" Dario Amodei believes both that 1) superintelligent AI could destroy humanity, and 2) our only chance at survival is to have his trillion-dollar tech company build it first.\n\nThis is not an intuitive way to think about either capitalism or social change, but it’s led Anthropic to the eve of one of the biggest IPOs in history. So it's more important than ever for the public to understand and scrutinize its idiosyncratic theory of change. \n\nMy debut for @NYTOpinion (gift link!): https://t.co/xsrh02LaBq"
+   },
+   "fetched_at": "2026-11-19T15:53:10.855245+00:00",
+   "enriched": 3
   }
  }
 }

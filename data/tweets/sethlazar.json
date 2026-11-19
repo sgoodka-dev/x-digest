@@ -8703,6 +8703,64 @@
    "quoted": null,
    "fetched_at": "2026-11-18T22:36:15.539422+00:00",
    "enriched": 3
+  },
+  "2123243797958332880": {
+   "id": "2123243797958332880",
+   "url": "https://x.com/sethlazar/status/2123243797958332880",
+   "text": "If you are the lucky beneficiary of an AI windfall and want to donate towards AI safety, MATS has ambitious plans and urgently needs funding to scale! We are a 501c3 charity and can accept donations of all forms. Help us scale AI safety &amp; security!\nhttps://t.co/m7BCrU8c03",
+   "created_at": "Thu Nov 19 02:35:44 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ryan_kidd44",
+   "rt_author_name": "Ryan Kidd",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1596639311222358016/rK0nFaHS_normal.jpg",
+   "rt_id": "2123184252946985128",
+   "likes": 119,
+   "retweets": 8,
+   "media": [],
+   "links": {
+    "https://t.co/m7BCrU8c03": "https://www.matsprogram.org/donate"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T15:53:10.855245+00:00",
+   "enriched": 3
+  },
+  "2123205666433302771": {
+   "id": "2123205666433302771",
+   "url": "https://x.com/sethlazar/status/2123205666433302771",
+   "text": "This was a profoundly impressive lift by a brilliant team: here's hoping *all* their recommendations are acted on, and set the pace for AI governance going into the new year.",
+   "created_at": "Thu Nov 19 00:04:12 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 19,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2123196390775955647",
+    "author_name": "Gillian Hadfield",
+    "links": {
+     "https://t.co/UXhWQTWmbq": "https://www.govops.ca.gov/wp-content/uploads/sites/11/2026/11/FINAL_-AI-Safety-in-2026-and-Beyond-v2.pdf"
+    },
+    "author": "ghadfield",
+    "text": "Okay--great honor to have been asked to serve on the expert panel with @alondra, @goldman and @robreich to advise @CAgovernor for a 2 month sprint on what to do about AI regulation. But the most incredible thing is to have been given the opportunity to help produce such a substantive and concrete report, chock-a-block with actionable steps to take NOW. A clear framework, state or federal. Accelerating the IVO ecosystem is central to everything, to rapidly build the capacity needed to MANDATE independent and ongoing risk assessments, reviews of safety frameworks for adequacy, and more.  Revising critical incident reporting to ensure Hugging Face incidents must be disclosed. Requiring risk containment protocols (distributed \"kill switch\"). But the biggest news is around strong recommendations for an immediate priority on reporting on where companies are on the path to RSI (compute reporting, for example, with IVO verification). If there's one thing the legislature can get done before the end of the year, I hope it is this.  https://t.co/UXhWQTWmbq"
+   },
+   "fetched_at": "2026-11-19T15:53:10.855245+00:00",
+   "enriched": 3
   }
  }
 }

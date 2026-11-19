@@ -4098,6 +4098,40 @@
     "created_at": "Wed Nov 18 15:46:47 +0000 2026"
    },
    "enriched": 3
+  },
+  "2123263144424325156": {
+   "id": "2123263144424325156",
+   "url": "https://x.com/mentalgeorge/status/2123263144424325156",
+   "text": "@NathanB60857242 Leave it up! Always good to see the motions",
+   "created_at": "Thu Nov 19 03:52:36 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "NathanB60857242",
+   "reply_to_id": "2123241803122090420",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 5,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-19T15:53:10.855245+00:00",
+   "parent": {
+    "id": "2123241803122090420",
+    "author_handle": "NathanB60857242",
+    "author_name": "Nathan Barnard",
+    "text": "i think this was a pretty bad tweet that was mostly caused by me feeling strong social pressure to update towards very short timelines and i'm unsure if i should take it down.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/NathanB60857242/status/2123241803122090420",
+    "created_at": "Thu Nov 19 02:27:48 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

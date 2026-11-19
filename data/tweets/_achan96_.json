@@ -4029,6 +4029,240 @@
     }
    ],
    "enriched": 3
+  },
+  "2123348480685154721": {
+   "id": "2123348480685154721",
+   "url": "https://x.com/_achan96_/status/2123348480685154721",
+   "text": "great read https://t.co/68uibStGty",
+   "created_at": "Thu Nov 19 09:31:42 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": true,
+   "reply_to": "_achan96_",
+   "reply_to_id": "2123348477518217594",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/68uibStGty": "https://openai.com/index/research-acceleration-jagged-frontier/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T15:53:10.855245+00:00",
+   "parent": {
+    "id": "2123348477518217594",
+    "author_handle": "_achan96_",
+    "author_name": "Alan Chan",
+    "text": "It's pretty interesting that the partial identification bounds for 8+h tasks are way narrower than the bounds for shorter tasks\n\nIf I understand the methodology correctly, that means it's way easier to judge whether an 8+h task succeeds than whether a shorter task succeeds\n\nDoes that mean that 8+h tasks are more verifiable and hence easier to automate? Or maybe it's just some quirk of the methodology?",
+    "links": {
+     "https://t.co/dpOEGeEPlo": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXelwb4WwAAAAA5.jpg"
+     }
+    ],
+    "url": "https://x.com/_achan96_/status/2123348477518217594",
+    "created_at": "Thu Nov 19 09:31:41 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123348477518217594": {
+   "id": "2123348477518217594",
+   "url": "https://x.com/_achan96_/status/2123348477518217594",
+   "text": "It's pretty interesting that the partial identification bounds for 8+h tasks are way narrower than the bounds for shorter tasks\n\nIf I understand the methodology correctly, that means it's way easier to judge whether an 8+h task succeeds than whether a shorter task succeeds\n\nDoes that mean that 8+h tasks are more verifiable and hence easier to automate? Or maybe it's just some quirk of the methodology?",
+   "created_at": "Thu Nov 19 09:31:41 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 5,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXelwb4WwAAAAA5.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/dpOEGeEPlo": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T15:53:10.855245+00:00",
+   "thread": [
+    {
+     "id": "2123348480685154721",
+     "author_handle": "_achan96_",
+     "author_name": "Alan Chan",
+     "text": "great read https://t.co/68uibStGty",
+     "links": {
+      "https://t.co/68uibStGty": "https://openai.com/index/research-acceleration-jagged-frontier/"
+     },
+     "media": [],
+     "url": "https://x.com/_achan96_/status/2123348480685154721",
+     "created_at": "Thu Nov 19 09:31:42 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2123344280794079600": {
+   "id": "2123344280794079600",
+   "url": "https://x.com/_achan96_/status/2123344280794079600",
+   "text": "We also tested whether models could recognize how they fell short when given gold-standard human output and our full grading rubric. They disagreed with human assessments, preferring their own outputs in all but one case.\n\nOften models exaggerated trivial flaws in the human output and prioritized superficial factors, such as the number of experiments run.",
+   "created_at": "Thu Nov 19 09:15:01 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "EpochAIResearch",
+   "rt_author_name": "Epoch AI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1866142753127616512/DYcE9bN1_normal.jpg",
+   "rt_id": "2122808174080327902",
+   "likes": 46,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXW6yL7asAAZDNP.png"
+    }
+   ],
+   "links": {
+    "https://t.co/Uyu9E3JrXK": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T15:53:10.855245+00:00",
+   "enriched": 3
+  },
+  "2123343653863350609": {
+   "id": "2123343653863350609",
+   "url": "https://x.com/_achan96_/status/2123343653863350609",
+   "text": "ngl OAI has really been cooking lately\n\nThe O*NET plots are some of the most useful data on AI R&amp;D automation produced thus far\n\nWould be even better in the future to get a more granular capabilities/safety O*NET split!",
+   "created_at": "Thu Nov 19 09:12:31 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 26,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2123191365983248653",
+    "author_name": "OpenAI",
+    "links": {
+     "https://t.co/xyGPcCkPCK": "https://openai.com/index/research-acceleration-jagged-frontier/"
+    },
+    "author": "OpenAI",
+    "text": "We're sharing new data on how AI is changing research at OpenAI.\n\nWe find researchers' AI use continues to rise exponentially, and agents are completing longer tasks, but human involvement remains central in research. Researchers are also spending more time on safety and alignment, with human effort in these areas growing faster than in any other individual research area.\n\nThis report aims to increase transparency around research acceleration and inform the governance of increasingly capable AI. We believe that AI labs should be required to track and publicly report indicators of recursive self-improvement (RSI): the process by which AI accelerates the development of future AI systems. \n\nOur hope is that this expanded report will help sustain and advance shared measurement norms across the industry.\n\nhttps://t.co/xyGPcCkPCK"
+   },
+   "fetched_at": "2026-11-19T15:53:10.855245+00:00",
+   "enriched": 3
+  },
+  "2123287256156807514": {
+   "id": "2123287256156807514",
+   "url": "https://x.com/_achan96_/status/2123287256156807514",
+   "text": "We're sharing new data on how AI is changing research at OpenAI.\n\nWe find researchers' AI use continues to rise exponentially, and agents are completing longer tasks, but human involvement remains central in research. Researchers are also spending more time on safety and alignment, with human effort in these areas growing faster than in any other individual research area.\n\nThis report aims to increase transparency around research acceleration and inform the governance of increasingly capable AI. We believe that AI labs should be required to track and publicly report indicators of recursive self-improvement (RSI): the process by which AI accelerates the development of future AI systems. \n\nOur hope is that this expanded report will help sustain and advance shared measurement norms across the industry.\n\nhttps://t.co/xyGPcCkPCK",
+   "created_at": "Thu Nov 19 05:28:25 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "OpenAI",
+   "rt_author_name": "OpenAI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+   "rt_id": "2123191365983248653",
+   "likes": 3027,
+   "retweets": 290,
+   "media": [],
+   "links": {
+    "https://t.co/xyGPcCkPCK": "https://openai.com/index/research-acceleration-jagged-frontier/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T15:53:10.855245+00:00",
+   "enriched": 3
+  },
+  "2123187564077314196": {
+   "id": "2123187564077314196",
+   "url": "https://x.com/_achan96_/status/2123187564077314196",
+   "text": "Fascinating observation from the researchers behind the world record for the fastest matrix multiplication algorithm:\n\nAI struggles to understand its own mathematical reasoning, but becomes much better at building on its ideas when humans simplify them. https://t.co/2XvD3jsh1Q",
+   "created_at": "Wed Nov 18 22:52:16 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "luismbat",
+   "rt_author_name": "Luis Batalha",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/378800000564279654/544464e51ec3be835a561a7f631379ab_normal.png",
+   "rt_id": "2122664493482434624",
+   "likes": 211,
+   "retweets": 24,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXU3-b9XQAAFMDP.png"
+    }
+   ],
+   "links": {
+    "https://t.co/2XvD3jsh1Q": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T15:53:10.855245+00:00",
+   "enriched": 3
+  },
+  "2123186683034448303": {
+   "id": "2123186683034448303",
+   "url": "https://x.com/_achan96_/status/2123186683034448303",
+   "text": "I'm excited to finally announce my new Substack! I'll be writing on AI evaluations &amp; incidents, technical explainers, and more.\n\nCheck out post #1: A primer for policy folks on what AI evaluations are, and why policymakers should care about them  \n\nhttps://t.co/yhCaiXWnsm",
+   "created_at": "Wed Nov 18 22:48:46 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "kevinlwei",
+   "rt_author_name": "Kevin Wei (is in DC)",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2059978179339841536/VWukdddj_normal.jpg",
+   "rt_id": "2123129333770580151",
+   "likes": 101,
+   "retweets": 20,
+   "media": [],
+   "links": {
+    "https://t.co/yhCaiXWnsm": "https://ai.scal.ing/p/evals-intro-1"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-19T15:53:10.855245+00:00",
+   "enriched": 3
   }
  }
 }

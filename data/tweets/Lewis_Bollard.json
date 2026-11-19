@@ -2136,6 +2136,30 @@
    "quoted": null,
    "fetched_at": "2026-11-14T17:09:07.138772+00:00",
    "enriched": 3
+  },
+  "2123188703279693966": {
+   "id": "2123188703279693966",
+   "url": "https://x.com/Lewis_Bollard/status/2123188703279693966",
+   "text": "This is pretty cool",
+   "created_at": "Wed Nov 18 22:56:48 +0000 2026",
+   "author_handle": "Lewis_Bollard",
+   "author_name": "Lewis Bollard",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1945502946910699520/AxOdmQGI_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "Noahpinion",
+   "rt_author_name": "Noah Smith 🐇🇺🇸🇺🇦🇹🇼",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1900075477999763456/8nSaoQcX_normal.jpg",
+   "rt_id": "2122900754025586865",
+   "likes": 1138,
+   "retweets": 35,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-19T15:53:10.855245+00:00",
+   "enriched": 3
   }
  }
 }
