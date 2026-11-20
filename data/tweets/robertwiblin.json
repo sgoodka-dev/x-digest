@@ -13073,6 +13073,98 @@
    "quoted": null,
    "fetched_at": "2026-11-19T19:29:38.737368+00:00",
    "enriched": 3
+  },
+  "2123709637514207279": {
+   "id": "2123709637514207279",
+   "url": "https://x.com/robertwiblin/status/2123709637514207279",
+   "text": "This bunker mentality is profoundly dangerous.\n\nhttps://t.co/MjbxZQbu5l https://t.co/3mk1bCAkVl",
+   "created_at": "Fri Nov 20 09:26:48 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "GarrisonLovely",
+   "rt_author_name": "Garrison Lovely",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1824166072620032001/Si-LBcmO_normal.jpg",
+   "rt_id": "2123214323011260805",
+   "likes": 197,
+   "retweets": 15,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXcsLOVasAELv_h.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXcsLOVasAELv_h.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/MjbxZQbu5l": "https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html?unlocked_article_code=1.RlE.JyTA.r6WsC0xLSmEI&smid=url-share",
+    "https://t.co/3mk1bCAkVl": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T15:35:58.747413+00:00",
+   "enriched": 3
+  },
+  "2123709438301540499": {
+   "id": "2123709438301540499",
+   "url": "https://x.com/robertwiblin/status/2123709438301540499",
+   "text": "California’s new AI safety report is the most serious policy proposal for recursive self-improvement from any government I’ve seen. Very exciting!\n\nIt recommends the procedural machinery to actually slow down if & when we need to: verified compute disclosures for automated AI R&D, standby authority to cap that compute, emergency shutdown powers, mandatory loss-of-control reporting, and broadened whistleblower protections. \n\nYou can’t pace what you can’t see. If implemented, this would let the state see, and then act. \n\nI hope the legislature moves on this when it’s back next month—AI developers seem on track to recursive self-improvement within 6-12 months, so we need these mechanisms practiced and working ASAP.",
+   "created_at": "Fri Nov 20 09:26:01 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "j_asminewang",
+   "rt_author_name": "Jasmine Wang",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2117754086024183808/Y1CS_Mma_normal.jpg",
+   "rt_id": "2123471358919364736",
+   "likes": 162,
+   "retweets": 26,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-20T15:35:58.747413+00:00",
+   "enriched": 3
+  },
+  "2123700460091547802": {
+   "id": "2123700460091547802",
+   "url": "https://x.com/robertwiblin/status/2123700460091547802",
+   "text": "LFG - California can be the government that saves us all.\n\n(Maybe less crazy that it first sound - its economy is larger than all but 3 countries so it's a serious entity in its own right.)",
+   "created_at": "Fri Nov 20 08:50:20 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 61,
+   "retweets": 3,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2123599586896024028",
+    "author_name": "Xavier Becerra",
+    "links": {
+     "https://t.co/DgPeklB3TJ": ""
+    },
+    "author": "XavierBecerra",
+    "text": "I intend to strengthen California’s AI safety laws, and build Californians' trust in AI technology.\n\nMy administration will work closely with the Legislature to put more robust standards, independent verification, full incident reporting, and real shutdown authority into law.\n\nCalifornians deserve AI technology that works WITH the people, FOR the people."
+   },
+   "fetched_at": "2026-11-20T15:35:58.747413+00:00",
+   "enriched": 3
   }
  }
 }

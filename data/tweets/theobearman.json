@@ -12983,6 +12983,70 @@
    "quoted": null,
    "fetched_at": "2026-11-19T19:29:38.737368+00:00",
    "enriched": 3
+  },
+  "2123792535533371866": {
+   "id": "2123792535533371866",
+   "url": "https://x.com/theobearman/status/2123792535533371866",
+   "text": "Claude solved the Riemann Hypothesis?",
+   "created_at": "Fri Nov 20 14:56:13 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "scaling01",
+   "rt_author_name": "Lisan al Gaib",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1831493788679761920/-q9w6dzd_normal.jpg",
+   "rt_id": "2123790343326064776",
+   "likes": 374,
+   "retweets": 16,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-20T15:35:58.747413+00:00",
+   "enriched": 3
+  },
+  "2123725879318806935": {
+   "id": "2123725879318806935",
+   "url": "https://x.com/theobearman/status/2123725879318806935",
+   "text": "Some Notes On: Cyber Security and Resilience Bill\n\n1. The British Government is currently trying to pass the CSRB through Parliament. It’s v near the end game. The Bill has been referenced a fair bit wrt recent interest in AI agents and loss of control and Govt points to it when questions come in on how it will regulate.\n\n2. Government (via Lords) inserted an amendment to the CSRB last month. Clause 32 - \"Functions of the Secretary of State: loss of control of artificial intelligence agent\"- gives the Secretary of State powers to introduce secondary regulations addressing \"agentic loss of control\" incidents within essential and digital services. https://t.co/R0Q5AINrWu\n\n3. MPs will vote on it soon. Suspect it will pass, as it’s the Government’s own amendment. \n\n4. It will be interesting to see if Clause 66 and Clause 67 pass. Neither came via Govt, both arrived via Lords. \n\n5. First forces Govt to do a formal check up on Britain’s cyber laws every single year (starting within 12 months of the Bill becoming law). Specifically, ministers have to look at whether the law is keeping up with fast-moving threats, like frontier AI or CNI sectors currently left out of the Bill (such as finance & manufacturing). If the review finds a gap, Govt is legally forced to either introduce new regulations within six months or publicly explain to Parliament why it is refusing to act.\n\n6. Clause 67 meanwhile forces Govt to set up an official register of foreign states that pose a cyber threat to Britain’s critical infrastructure, alongside a formal report to Parliament. Unsurprisingly, not got massive support from foreign policy bods I suspect. Also lots of duplication.",
+   "created_at": "Fri Nov 20 10:31:21 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "discoplomacy",
+   "rt_author_name": "sam",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2122165426667061248/Gb-8dBOt_normal.jpg",
+   "rt_id": "2123698787973800436",
+   "likes": 3,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXjkygNaIAAn12G.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXjkygNakAAK1s-.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXjkygGbYAA7S6A.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/R0Q5AINrWu": "https://www.gov.uk/government/publications/cyber-security-and-resilience-network-and-information-systems-bill-factsheets/agentic-ai-resilience-measures",
+    "https://t.co/AyrIsIwKd8": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T15:35:58.747413+00:00",
+   "enriched": 3
   }
  }
 }

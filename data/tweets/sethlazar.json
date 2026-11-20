@@ -8787,6 +8787,106 @@
    "quoted": null,
    "fetched_at": "2026-11-19T22:40:06.698794+00:00",
    "enriched": 3
+  },
+  "2123614742434459698": {
+   "id": "2123614742434459698",
+   "url": "https://x.com/sethlazar/status/2123614742434459698",
+   "text": "@joshua_saxe Let’s get coffee next time you’re in town!",
+   "created_at": "Fri Nov 20 03:09:44 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": true,
+   "reply_to": "joshua_saxe",
+   "reply_to_id": "2123498105018749289",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-20T15:35:58.747413+00:00",
+   "parent": {
+    "id": "2123498105018749289",
+    "author_handle": "joshua_saxe",
+    "author_name": "Joshua Saxe",
+    "text": "Rare photo below of me wearing something other than shorts and a t-shirt to give a congressional briefing on AI cybersecurity policy this morning below!\n\nHere's what I think policymakers should focus on in the next Congress:\n\n1) Fix device, software, and cloud platform vendor liability for security flaws so vendors are incentivized to ship and maintain security-hardened products.  Tech security liability has been broken for many years (just to give one example; a poorly managed vuln in the enterprise software product MOVEit affected 95.8 million people in 2023 and thousands of orgs; the vendor bore a miniscule fraction of the billions in damages!  Many such cases.)\n\n2) Ensure defenders and security vendors can innovate with AI by supporting a nuanced policy around open weights.  I'm not a purist here; it's possible we should limit open-weight companies' ability to train, say, end-to-end cyberattack capabilities into their models.  But overall, we know that defenders will need good models specialized to security verticals to succeed.  We need cheap models that can keep up with organizations' log firehoses, on-device models that can run on devices without an Internet connection (e.g. in national defense settings), and innovation from cybersecurity companies with specialized cyber datasets.\n\n3) Policymakers should enable, nudge, and force AI providers to coordinate around denying attackers access to AI inference and hardware.  We need clear expectations for labs around how quickly they detect attackers misusing their tech and how quickly they deny their tech to attackers afterwards.  Closed labs, open-weight inference providers and AI hardware providers should be exchanging threat intelligence with each other, the FBI and the intelligence community through a shared 'AI security observatory' so attackers can't just jump from one vendor to the next.\n\n4) Coordinate with China on catastrophic cyber risk.  The US and China have a shared interest in ensuring AI-accelerated cybercrime doesn't make the Internet ungovernable and untrusted as the substrate for global commerce and communications.  There's no prisoners' dilemma in sharing threat intelligence with China on cybercrime like ransomware so American and Chinese companies can deny attackers access to inference.  Also, agent swarm cyber weapons will soon be a new class of weaponry whose risks we need to mitigate at the geopolitical level; no realistic level of technical hardening can mitigate the threat from these, so this new threat needs to be managed through cooperation under competition between geopolitical actors.\n\nWould love feedback on these slides -- https://t.co/T9w0oC1b4h.  \n\nFor mutuals, please reach out over DM if you're interested in coming to a reception on these topics in DC tonight as well!",
+    "links": {
+     "https://t.co/T9w0oC1b4h": "https://docs.google.com/presentation/d/1dEIJE7b_kDFxZzpw4d0q4MjAC9P1tgxb/edit?slide=id.p1#slide=id.p1",
+     "https://t.co/xDKzeqiyAF": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXgo_5lXAAAYJWZ.jpg"
+     }
+    ],
+    "url": "https://x.com/joshua_saxe/status/2123498105018749289",
+    "created_at": "Thu Nov 19 19:26:15 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123614224157114426": {
+   "id": "2123614224157114426",
+   "url": "https://x.com/sethlazar/status/2123614224157114426",
+   "text": "📢 Please RT 📢\n\nI'm recruiting PhD students to join my group at UCSD!\n\nWe work on interpretability, reliability, and safety in AI.\n\nCheck out https://t.co/Ou2SsbZYcD for more info",
+   "created_at": "Fri Nov 20 03:07:40 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "berkustun",
+   "rt_author_name": "Berk Ustun",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1129233509808316417/GYEX3DK4_normal.jpg",
+   "rt_id": "2123512681022022142",
+   "likes": 277,
+   "retweets": 41,
+   "media": [],
+   "links": {
+    "https://t.co/Ou2SsbZYcD": "https://berkustun.com/join"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T15:35:58.747413+00:00",
+   "enriched": 3
+  },
+  "2123564004257968309": {
+   "id": "2123564004257968309",
+   "url": "https://x.com/sethlazar/status/2123564004257968309",
+   "text": "Not so much under the radar! https://t.co/ymWfmbbhix",
+   "created_at": "Thu Nov 19 23:48:07 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 5,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/ymWfmbbhix": "https://arxiv.org/abs/2606.10711"
+   },
+   "quoted": {
+    "id": "2122453491167953025",
+    "author_name": "Tim Wu",
+    "links": {},
+    "author": "superwuster",
+    "text": "Here's maybe the most under-the-radar but highly consequential legal issue for the future of AI : the question of agent-user equivalence.   Stated otherwise, when is your AI agent \"you\" for legal purposes; when does it get to do everything you can legally do?"
+   },
+   "fetched_at": "2026-11-20T15:35:58.747413+00:00",
+   "enriched": 3
   }
  }
 }

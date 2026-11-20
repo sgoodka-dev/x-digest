@@ -14751,6 +14751,82 @@
    "quoted": null,
    "fetched_at": "2026-11-19T22:40:06.698794+00:00",
    "enriched": 3
+  },
+  "2123696954676752599": {
+   "id": "2123696954676752599",
+   "url": "https://x.com/s8mb/status/2123696954676752599",
+   "text": "Lucky them. No structural dominance of speculative development models.",
+   "created_at": "Fri Nov 20 08:36:25 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 64,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2122828302121636286",
+    "author_name": "Peter Tulip",
+    "links": {
+     "https://t.co/AA5HhdbeuI": "https://www.pew.org/en/research-and-analysis/articles/2026/11/16/raleigh-rents-fell-after-wave-of-new-townhouses-and-apartments",
+     "https://t.co/T5cl4QlTtU": ""
+    },
+    "author": "peter_tulip",
+    "text": "A relaxation of zoning restrictions in Raleigh, North Carolina, led to a surge in construction, which reduced inflation-adjusted rents by 15% between 2022 and 2025.\nLow-income renters benefited the most.  \nhttps://t.co/AA5HhdbeuI https://t.co/T5cl4QlTtU"
+   },
+   "fetched_at": "2026-11-20T15:35:58.747413+00:00",
+   "enriched": 3
+  },
+  "2123691845633077593": {
+   "id": "2123691845633077593",
+   "url": "https://x.com/s8mb/status/2123691845633077593",
+   "text": "The weekend starts here! https://t.co/CVv8AU36ad",
+   "created_at": "Fri Nov 20 08:16:06 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 93,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXjeeeZX0AA9Cik.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXjeeeWWUAA5bfR.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXjeeeZX0AA9Cik.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXjeeeWWUAA5bfR.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/CVv8AU36ad": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T15:35:58.747413+00:00",
+   "enriched": 3
   }
  }
 }

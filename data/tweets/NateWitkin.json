@@ -5320,6 +5320,30 @@
    "quoted": null,
    "fetched_at": "2026-11-19T22:40:06.698794+00:00",
    "enriched": 3
+  },
+  "2123577682621292697": {
+   "id": "2123577682621292697",
+   "url": "https://x.com/NateWitkin/status/2123577682621292697",
+   "text": "The huge gulf between smart people's expectations and how soon we'll find out who's right is one of my favorite things about the present moment. It's like the build-up to a series finale.",
+   "created_at": "Fri Nov 20 00:42:28 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "hamandcheese",
+   "rt_author_name": "Samuel Hammond 🦉",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1941687232538013696/jN33mhMu_normal.jpg",
+   "rt_id": "2123566167260369050",
+   "likes": 415,
+   "retweets": 22,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-20T15:35:58.747413+00:00",
+   "enriched": 3
   }
  }
 }

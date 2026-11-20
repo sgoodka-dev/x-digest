@@ -4164,6 +4164,40 @@
    "quoted": null,
    "fetched_at": "2026-11-19T19:29:38.737368+00:00",
    "enriched": 3
+  },
+  "2123634939371388958": {
+   "id": "2123634939371388958",
+   "url": "https://x.com/mentalgeorge/status/2123634939371388958",
+   "text": "@andrewho03 What kinda data do you have",
+   "created_at": "Fri Nov 20 04:29:59 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "andrewho03",
+   "reply_to_id": "2123560793803547007",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-20T15:35:58.747413+00:00",
+   "parent": {
+    "id": "2123560793803547007",
+    "author_handle": "andrewho03",
+    "author_name": "Andrew Ho",
+    "text": "We have a large amount of high quality pretraining and RL data for sale.\n\nCould someone please connect me to Apple’s model training efforts?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/andrewho03/status/2123560793803547007",
+    "created_at": "Thu Nov 19 23:35:21 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

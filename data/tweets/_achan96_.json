@@ -4263,6 +4263,68 @@
    "quoted": null,
    "fetched_at": "2026-11-19T15:53:10.855245+00:00",
    "enriched": 3
+  },
+  "2123799920708845610": {
+   "id": "2123799920708845610",
+   "url": "https://x.com/_achan96_/status/2123799920708845610",
+   "text": "Well, looks like @__alpoge__ &amp; @claudeai are claiming a proof of the Riemann Hypothesis\nhttps://t.co/AAsOjvR6c2 https://t.co/Ao7OHZwsNI",
+   "created_at": "Fri Nov 20 15:25:34 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "HarryStoltz1",
+   "rt_author_name": "Harry Stoltz",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1944987483114205184/r9w6QR9I_normal.jpg",
+   "rt_id": "2123775783189827655",
+   "likes": 2508,
+   "retweets": 331,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXkqx-iWIAA-1Ej.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXkqx-iWIAA-1Ej.png"
+    }
+   ],
+   "links": {
+    "https://t.co/AAsOjvR6c2": "https://alpo.ge/remark.pdf",
+    "https://t.co/Ao7OHZwsNI": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T15:35:58.747413+00:00",
+   "enriched": 3
+  },
+  "2123738195594514606": {
+   "id": "2123738195594514606",
+   "url": "https://x.com/_achan96_/status/2123738195594514606",
+   "text": "Open weights. Built on trust. 🔓\n\nSharing how we test AI helps everyone build safer models.\n\nAlongside Hy4's open weights, we're publishing our System Card, sharing our safety, security & alignment evaluations, with a closer look at frontier risks in cyber & bio.\n\nThis includes further reviews by Tencent's Xuanwu, Zhuque & Keen Labs, as well as independent safety & security testing by @FangcunLeap and @alice_dot_io.\n\nAmong the First Raising the bar for responsible AI in Asia. 🛡\n\nSystem Card: https://t.co/VcFbN8xdu3",
+   "created_at": "Fri Nov 20 11:20:17 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "TencentHunyuan",
+   "rt_author_name": "Tencent Hy",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1810934469769195520/kKSVenHW_normal.jpg",
+   "rt_id": "2123710690968191111",
+   "likes": 331,
+   "retweets": 25,
+   "media": [],
+   "links": {
+    "https://t.co/VcFbN8xdu3": "https://hy.tencent.ai/Hy4_system_card.pdf"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T15:35:58.747413+00:00",
+   "enriched": 3
   }
  }
 }

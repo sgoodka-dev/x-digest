@@ -3169,6 +3169,109 @@
     "created_at": "Mon Nov 16 12:51:40 +0000 2026"
    },
    "enriched": 3
+  },
+  "2097599396749992185": {
+   "id": "2097599396749992185",
+   "url": "https://x.com/slatestarcodex/status/2097599396749992185",
+   "text": "@theojaffee I'm not an economist, but here's an argument I've been thinking about, that you can correct if it's dramatically wrong:\n\nOpenAI + Anthropic revenue is ~ $50B yearly (obviously depending a lot on how you're annualizing) and tripling each year. There are a couple of different heuristics suggesting tech companies capture 1/3 of the surplus from their products, so if we assume the rest all goes to enterprise, total productivity gain from those two companies' AI is $150B/year now. The US economy is $30T/year, so AI should be growing it by 0.5%pp. But:\n\n- This is annualized revenue, and OAI + Anthropic probably didn't have this much revenue the last time statistics were calculated.\n- Normal productivity growth already assumes that there will be various new inventions coming online at any given time, so if we're claiming AI is a more-exciting-than-average invention, we still need to subtract the average invention expectation.\n- Probably 0.5%pp is within normal measurement error or the sort of thing that could be counterbalanced by negative factors like tariffs.\n- I have no idea how to adjust for the data center boom in this.\n\nThis makes superficial sense, and if it were right it would mean we should start seeing the growth in a year or two, assuming AI company revenues keep tripling (you can't hide 4.5%pp extra productivity growth). \n\nBut I'm not sure I believe it. Don't people say that computers didn't even show up in the productivity statistics? I don't know why that is, but it seems like a problem for any attempt to estimate how much AI should show up.",
+   "created_at": "Wed Sep 09 08:14:02 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "theojaffee",
+   "reply_to_id": "2097523298712342798",
+   "avatar": "https://pbs.twimg.com/profile_images/378800000009065862/83d72de47e2a2470c482bc75406b42a7_normal.png",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 444,
+   "retweets": 12,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-20T15:35:58.747413+00:00"
+  },
+  "2088376911273828674": {
+   "id": "2088376911273828674",
+   "url": "https://x.com/slatestarcodex/status/2088376911273828674",
+   "text": "@LydNot I'd only heard the first 1/2 of that quote before. Very disappointed that Thatcher concedes the existence of families. I'd thought she was making a good point on how groups are abstractions over their members, but instead she's just picking favorites about what groups she likes.",
+   "created_at": "Fri Aug 14 21:27:10 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "LydNot",
+   "reply_to_id": "2088303081800843408",
+   "avatar": "https://pbs.twimg.com/profile_images/378800000009065862/83d72de47e2a2470c482bc75406b42a7_normal.png",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 423,
+   "retweets": 8,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-20T15:35:58.747413+00:00"
+  },
+  "2076270115126153436": {
+   "id": "2076270115126153436",
+   "url": "https://x.com/slatestarcodex/status/2076270115126153436",
+   "text": "@SashaGusevPosts Thanks for this interesting work, but you forgot one!\n(I don't have GPT-Sol access, so I graded by hand, using the first ten posts only. Maximum number of comments on a post was 87, so the line doesn't go all the way. Feel free to double-check.) https://t.co/KrTQmFdQv8",
+   "created_at": "Sun Jul 12 11:39:05 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "SashaGusevPosts",
+   "reply_to_id": "2075976723640758398",
+   "avatar": "https://pbs.twimg.com/profile_images/378800000009065862/83d72de47e2a2470c482bc75406b42a7_normal.png",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 577,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HNBkckFawAArvKW.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HNBkckFawAArvKW.png"
+    }
+   ],
+   "links": {
+    "https://t.co/KrTQmFdQv8": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T15:35:58.747413+00:00"
+  },
+  "2076272435763298606": {
+   "id": "2076272435763298606",
+   "url": "https://x.com/slatestarcodex/status/2076272435763298606",
+   "text": "@AgustinLebron3 This reminds me of a comment by a DC insider who said one of the weirdest things about working with Silicon Valley was that if you mentioned regulating something in the normal way that milk or eggs were regulated, they would start quoting Orwell and say that surely that could only lead to dystopia.  \nMy impression is that many pharmaceuticals are currently as regulated than chips would be under Plan A. They can only be made in special government-licensed factories, the government maintains the right to inspect those factories at any time, the factories have to prove that they're only sending them to licensed pharmacies, and the pharmacies have to keep excruciating records showing that they only dispensed them to licensed customers. Has this turned into a global surveillance state, or is it such a boring part of everyday life that nobody notices?  \nI assume the government has access to all of my financial transactions; certainly if I tried to send money to Ayatollah Khameini somebody would notice and stop it. This is creepy and probably does qualify as a global surveillance state, and crypto made a decent effort to dismantle it, and I supported that when it seemed plausible - but has anything bad beyond the obvious happened because of it?  \nI think there's a line between \"regulate AI chips as much as we regulate Xanax\" and \"have a global surveillance state\", and Plan A keeps on the right side of it. If you disagree, you'll have to tell me which specific part of it you're worried about.",
+   "created_at": "Sun Jul 12 11:48:18 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "AgustinLebron3",
+   "reply_to_id": "2076244106020266247",
+   "avatar": "https://pbs.twimg.com/profile_images/378800000009065862/83d72de47e2a2470c482bc75406b42a7_normal.png",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 619,
+   "retweets": 29,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-20T15:35:58.747413+00:00"
   }
  }
 }
