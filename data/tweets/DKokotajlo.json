@@ -9407,6 +9407,115 @@
    },
    "fetched_at": "2026-11-20T15:35:58.747413+00:00",
    "enriched": 3
+  },
+  "2123898592989679890": {
+   "id": "2123898592989679890",
+   "url": "https://x.com/DKokotajlo/status/2123898592989679890",
+   "text": "Anthropic Offers Public Amazing Opportunity To Invest In The Apocalypse https://t.co/JPGFSnLv0f",
+   "created_at": "Fri Nov 20 21:57:39 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "TheBabylonBee",
+   "rt_author_name": "The Babylon Bee",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1400100770624720898/-HC7kL5x_normal.jpg",
+   "rt_id": "2123476462812496162",
+   "likes": 3319,
+   "retweets": 395,
+   "media": [],
+   "links": {
+    "https://t.co/JPGFSnLv0f": "https://buff.ly/tvv9ODf"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T22:14:41.979640+00:00",
+   "enriched": 3
+  },
+  "2123897453959315582": {
+   "id": "2123897453959315582",
+   "url": "https://x.com/DKokotajlo/status/2123897453959315582",
+   "text": "",
+   "created_at": "Fri Nov 20 21:53:07 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 10,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-20T22:14:41.979640+00:00",
+   "enriched": 3
+  },
+  "2123896998676033777": {
+   "id": "2123896998676033777",
+   "url": "https://x.com/DKokotajlo/status/2123896998676033777",
+   "text": "The Riemann Hypothesis has fallen.  RH was the singular math result that had been named, in advance, as the obvious coal mine canary for dangerously advanced AI, over the last three decades.  The methods used should generalize to \"make AI very good at anything you can definitely test\", and unfortunately that category includes \"make AI better at making AI\".\n\nThis is like a private company announcing they have produced a million tons of 15% enriched uranium.  It's not 90% enriched weapons-grade uranium, so you could proclaim the company's output is not immediately deadly right now.  The concern is that the process line may generalize, to an extinction-level threat, within the unpredictably immediate future.  Forecasters still had Riemann at 2035 one week earlier.\n\nThis is distinct from earlier events in that earlier you could reasonably ask if AI was selectively picking off famous math problems that turned out to be easier for AI.  The Riemann Hypothesis was the single challenge most often named in advance as a warning sign.",
+   "created_at": "Fri Nov 20 21:51:19 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "allTheYud",
+   "rt_author_name": "Eliezer Yudkowsky",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1968710025020416001/FMkDoElL_normal.jpg",
+   "rt_id": "2123843874796023936",
+   "likes": 3106,
+   "retweets": 320,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-20T22:14:41.979640+00:00",
+   "enriched": 3
+  },
+  "2123891770174161169": {
+   "id": "2123891770174161169",
+   "url": "https://x.com/DKokotajlo/status/2123891770174161169",
+   "text": "PRESIDENT TRUMP: \"It's not artificial intelligence. It's not artificial, it's super. Problem is, it may be too super.\n\nSo, President Xi and I agreed that we're gonna do some joint guardrails, the two of us.\" https://t.co/15QLAu99K7",
+   "created_at": "Fri Nov 20 21:30:32 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "peterwildeford",
+   "rt_author_name": "Peter Wildeford🇺🇸🚀",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2016338985811927041/Vve57ZtV_normal.png",
+   "rt_id": "2123840221816996322",
+   "likes": 2006,
+   "retweets": 173,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2123839945127124992/img/Obfre3YpR4fdwGAG.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2123839945127124992/img/Obfre3YpR4fdwGAG.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/15QLAu99K7": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T22:14:41.979640+00:00",
+   "enriched": 3
   }
  }
 }

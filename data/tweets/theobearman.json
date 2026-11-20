@@ -13200,6 +13200,67 @@
    "quoted": null,
    "fetched_at": "2026-11-20T19:06:17.373366+00:00",
    "enriched": 3
+  },
+  "2123873849901211734": {
+   "id": "2123873849901211734",
+   "url": "https://x.com/theobearman/status/2123873849901211734",
+   "text": "Distillation can reproduce powerful AI capabilities without the safeguards built around them.\n\nWe’re sharing new research on our work to combat distillation of our models, how these capabilities transfer, and how we detect and disrupt coordinated attempts.\n\nThese findings are helping us sharpen our defenses and support safeguards across the industry.\n\nhttps://t.co/FGQ0PHllIO",
+   "created_at": "Fri Nov 20 20:19:20 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "OpenAI",
+   "rt_author_name": "OpenAI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+   "rt_id": "2123862344422088794",
+   "likes": 1734,
+   "retweets": 110,
+   "media": [],
+   "links": {
+    "https://t.co/FGQ0PHllIO": "https://openai.com/index/combatting-adversarial-distillation/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T22:14:41.979640+00:00",
+   "enriched": 3
+  },
+  "2123870810683343263": {
+   "id": "2123870810683343263",
+   "url": "https://x.com/theobearman/status/2123870810683343263",
+   "text": "We've been working on understanding model capabilities beyond what our prior time horizon tasks could capture.\n\nToday we’re sharing a research update. We find that AI R&amp;D-relevant capabilities are improving rapidly and are getting harder to measure. https://t.co/Z1iXyIjERy",
+   "created_at": "Fri Nov 20 20:07:15 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "METR_Evals",
+   "rt_author_name": "METR",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2021827383431757824/AeVvT0rU_normal.jpg",
+   "rt_id": "2123864981506798012",
+   "likes": 795,
+   "retweets": 115,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXl78dBa4AA8nq9.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXl78dBa4AA8nq9.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/Z1iXyIjERy": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T22:14:41.979640+00:00",
+   "enriched": 3
   }
  }
 }

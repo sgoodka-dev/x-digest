@@ -3316,6 +3316,37 @@
    "quoted": null,
    "fetched_at": "2026-11-19T22:40:06.698794+00:00",
    "enriched": 3
+  },
+  "2123874689361539406": {
+   "id": "2123874689361539406",
+   "url": "https://x.com/sayashk/status/2123874689361539406",
+   "text": "Reminder: racing to self-improve the verifiable subset of capabilities, which is what AI companies are currently doing, _decreases_ the window of time that they have to convert into sustainable businesses and do the boring work of turning value creation into value capture.\n\n(Of course, their bet is that progress in verifiable tasks will somehow yield progress on unverifiable tasks. We'll see.)",
+   "created_at": "Fri Nov 20 20:22:40 +0000 2026",
+   "author_handle": "sayashk",
+   "author_name": "Sayash Kapoor",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1521238232867946496/U_GCI43e_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "random_walker",
+   "rt_author_name": "Arvind Narayanan",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1650881612756942850/bZYjMyFU_normal.jpg",
+   "rt_id": "2123869355431661866",
+   "likes": 47,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXl-g_tWYAAUq4N.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/dfuf7P7jeM": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T22:14:41.979640+00:00",
+   "enriched": 3
   }
  }
 }

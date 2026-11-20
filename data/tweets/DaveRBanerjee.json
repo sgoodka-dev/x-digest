@@ -5349,6 +5349,60 @@
     "created_at": "Fri Nov 20 14:25:05 +0000 2026"
    },
    "enriched": 3
+  },
+  "2123875180280000741": {
+   "id": "2123875180280000741",
+   "url": "https://x.com/DaveRBanerjee/status/2123875180280000741",
+   "text": "RIP apple",
+   "created_at": "Fri Nov 20 20:24:37 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 12,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "1898395045226500486",
+    "author_name": "Daniel Litt",
+    "links": {},
+    "author": "littmath",
+    "text": "person who thinks AI will prove the Riemann hypothesis in 2026 but that Apple won’t deliver an LLM-powered Siri until 2027"
+   },
+   "fetched_at": "2026-11-20T22:14:41.979640+00:00",
+   "enriched": 3
+  },
+  "2123874225089843540": {
+   "id": "2123874225089843540",
+   "url": "https://x.com/DaveRBanerjee/status/2123874225089843540",
+   "text": "I understand how frustrating and soul-crushing it can be to get scooped\n\nbut damn, I really hope AI scoops me ASAP\n\nI want us to solve how to navigate the singularity without a single person grabbing power and controlling the entire world with their loyal / guardrail-free ASI",
+   "created_at": "Fri Nov 20 20:20:49 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 8,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-20T22:14:41.979640+00:00",
+   "enriched": 3
   }
  }
 }

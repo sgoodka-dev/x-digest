@@ -1,11 +1,11 @@
 {
  "last_run": {
-  "started": "2026-11-20T19:06:17.373366+00:00",
+  "started": "2026-11-20T22:14:41.979640+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
     "new": 1,
-    "total": 188
+    "total": 189
    },
    "add_hawk": {
     "ok": true,
@@ -19,8 +19,8 @@
    },
    "alxndrdavies": {
     "ok": true,
-    "new": 0,
-    "total": 105
+    "new": 1,
+    "total": 106
    },
    "curl_justin": {
     "ok": true,
@@ -29,13 +29,13 @@
    },
    "DaveRBanerjee": {
     "ok": true,
-    "new": 3,
-    "total": 228
+    "new": 2,
+    "total": 230
    },
    "DKokotajlo": {
     "ok": true,
-    "new": 0,
-    "total": 365
+    "new": 4,
+    "total": 369
    },
    "dwarkesh_sp": {
     "ok": true,
@@ -54,8 +54,8 @@
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 4,
-    "total": 188
+    "new": 1,
+    "total": 189
    },
    "ohlennart": {
     "ok": true,
@@ -64,8 +64,8 @@
    },
    "sayashk": {
     "ok": true,
-    "new": 0,
-    "total": 157
+    "new": 1,
+    "total": 158
    },
    "testingham": {
     "ok": true,
@@ -79,13 +79,13 @@
    },
    "s8mb": {
     "ok": true,
-    "new": 3,
-    "total": 632
+    "new": 2,
+    "total": 634
    },
    "random_walker": {
     "ok": true,
-    "new": 0,
-    "total": 182
+    "new": 4,
+    "total": 186
    },
    "sethlazar": {
     "ok": true,
@@ -94,23 +94,23 @@
    },
    "robertwiblin": {
     "ok": true,
-    "new": 2,
-    "total": 486
+    "new": 3,
+    "total": 489
    },
    "deanwball": {
     "ok": true,
-    "new": 2,
-    "total": 658
+    "new": 1,
+    "total": 659
    },
    "nabeelqu": {
     "ok": true,
-    "new": 6,
+    "new": 0,
     "total": 146
    },
    "theobearman": {
     "ok": true,
-    "new": 6,
-    "total": 468
+    "new": 2,
+    "total": 470
    },
    "peterwilderford": {
     "ok": true,
@@ -119,13 +119,13 @@
    },
    "anton_d_leicht": {
     "ok": true,
-    "new": 0,
-    "total": 140
+    "new": 1,
+    "total": 141
    },
    "NateWitkin": {
     "ok": true,
-    "new": 9,
-    "total": 186
+    "new": 4,
+    "total": 190
    },
    "charnock_jacob": {
     "ok": true,
@@ -133,7 +133,7 @@
     "total": 8
    }
   },
-  "new_tweets": 36,
-  "finished": "2026-11-20T19:07:22.550824+00:00"
+  "new_tweets": 27,
+  "finished": "2026-11-20T22:16:07.412670+00:00"
  }
 }

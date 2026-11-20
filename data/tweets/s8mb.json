@@ -14915,6 +14915,75 @@
    "quoted": null,
    "fetched_at": "2026-11-20T19:06:17.373366+00:00",
    "enriched": 3
+  },
+  "2123898968530972956": {
+   "id": "2123898968530972956",
+   "url": "https://x.com/s8mb/status/2123898968530972956",
+   "text": "What do Claude’s constitution and Sam Kriss’s writing have in common? Very good Henry Oliver post.\n\nhttps://t.co/5mFYCVEMNN",
+   "created_at": "Fri Nov 20 21:59:08 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/5mFYCVEMNN": "https://www.commonreader.co.uk/p/does-claudes-constitution-mean-anything"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T22:14:41.979640+00:00",
+   "enriched": 3
+  },
+  "2123860575914516718": {
+   "id": "2123860575914516718",
+   "url": "https://x.com/s8mb/status/2123860575914516718",
+   "text": "This is a very good speech! https://t.co/B11c1IKTTf",
+   "created_at": "Fri Nov 20 19:26:35 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 90,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXl379JWoAAV9Cb.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXl379JWoAAV9Cb.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/B11c1IKTTf": ""
+   },
+   "quoted": {
+    "id": "2123801670236704818",
+    "author_name": "Danny Kruger",
+    "links": {
+     "https://t.co/FfcbX8ukAY": "https://dannykruger.substack.com/p/choose-life-ai-and-the-future-of?utm_campaign=post&utm_medium=web"
+    },
+    "author": "danny__kruger",
+    "text": "Speech on AI yesterday https://t.co/FfcbX8ukAY"
+   },
+   "fetched_at": "2026-11-20T22:14:41.979640+00:00",
+   "enriched": 3
   }
  }
 }

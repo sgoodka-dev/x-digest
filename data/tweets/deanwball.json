@@ -14812,6 +14812,40 @@
    "quoted": null,
    "fetched_at": "2026-11-20T19:06:17.373366+00:00",
    "enriched": 3
+  },
+  "2123903099026972867": {
+   "id": "2123903099026972867",
+   "url": "https://x.com/deanwball/status/2123903099026972867",
+   "text": "@tenobrus @hopes_revenge @METR_Evals Congratulations! Huge get for them",
+   "created_at": "Fri Nov 20 22:15:33 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "tenobrus",
+   "reply_to_id": "2123893127119593758",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-20T22:14:41.979640+00:00",
+   "parent": {
+    "id": "2123893127119593758",
+    "author_handle": "tenobrus",
+    "author_name": "Tenobrus",
+    "text": "as some of u may have suspected, i have recently joined @METR_Evals  :)\n\nthis is one of the first things i worked on there, along w the rest of the capabilities team, very excited it's finally out. understanding what the hell is going on with models and especially where their remaining gaps are is incredibly critical for informing our decision making as a species.\n\nthere's a shitload of stuff in here, really excited for people to wade into the appendices, and i've even made sure to make all the backing data behind charts easy to download so ppl don't have to do pixel peeping to claude up their own charts. \n\nsome random (personal) takeaways:\n- it would be really sick if time horizons continued to work as an easily interpretable measure of capability... but unfortunately i think that's just no longer true. there's just too much variance in the spikes.\n- as much as i'd love for IRT methods to result in *intuitive* understanding they're just kinda structurally very uninterpretable, but remain basically our best way to get ~reasonably robust aggregate info\n- swarms are complicated! model behavior in swarms is super sensitive to all kinds of factors, inter-run variance is high, \"swarm cultures\" can form and significantly affect performance. for some things, clear strong uplift! for others, swarms are a downlift. love it when u get results that are basically \"haha good luck making a trend outta this\"\n- getting humans to outperform models is really rough now. really extremely rough. even with some model assistance, for basically everything verifiable we're pretty much at the point where only ~world class experts still beat models, and it's hard af to get world class experts to spend two straight months working on a METR task\n- it's pretty crazy watching models advance past what you thought was potentially possible on a task, and then go further, and then further, until you're just no longer sure where the upper limit actually is\n\nsomewhat more personally, on the Tenobrus account. historically i feel like i've actually done a lot of good for safety by being a \"brawler\", wading into fights, saying things i thought were true regardless of consequences, saying shit that i just kinda thought was funny at the time... for a long long time, my account has reflected on no one but me.\n\nbut i don't think i can really remain in that place while at METR. it would be disingenuous to remain anon and speak without disclosing my affiliations while working for the transparency organization. it's 2026, it's crunch time, it's time to step up and try to provide the kind of independent and carefully truthful institutions the world needs rn. so my style here is gonna change. that's okay, it's already been changing for a long time! and METR is worth it, i think it's one of the single most impactful places in the world to be right now, and i'm not going to fuck up that responsibility.\n\nlet's keep figuring this shit out :)",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/tenobrus/status/2123893127119593758",
+    "created_at": "Fri Nov 20 21:35:56 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

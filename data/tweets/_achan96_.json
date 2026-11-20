@@ -4349,6 +4349,37 @@
    "quoted": null,
    "fetched_at": "2026-11-20T19:06:17.373366+00:00",
    "enriched": 3
+  },
+  "2123875959757582820": {
+   "id": "2123875959757582820",
+   "url": "https://x.com/_achan96_/status/2123875959757582820",
+   "text": "We've been working on understanding model capabilities beyond what our prior time horizon tasks could capture.\n\nToday we’re sharing a research update. We find that AI R&amp;D-relevant capabilities are improving rapidly and are getting harder to measure. https://t.co/Z1iXyIjERy",
+   "created_at": "Fri Nov 20 20:27:43 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "METR_Evals",
+   "rt_author_name": "METR",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2021827383431757824/AeVvT0rU_normal.jpg",
+   "rt_id": "2123864981506798012",
+   "likes": 788,
+   "retweets": 115,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXl78dBa4AA8nq9.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/Z1iXyIjERy": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T22:14:41.979640+00:00",
+   "enriched": 3
   }
  }
 }

@@ -2858,6 +2858,38 @@
    "quoted": null,
    "fetched_at": "2026-11-18T19:24:11.518095+00:00",
    "enriched": 3
+  },
+  "2123882425143210437": {
+   "id": "2123882425143210437",
+   "url": "https://x.com/anton_d_leicht/status/2123882425143210437",
+   "text": "it'll be very hard to compete for global markets if the labs can't anchor deals in infrastructure. \n\nit's already hard enough to assuage allied concerns about kill switches. if all the chips are in America, no ally will build around American AI, no matter how much they need it.",
+   "created_at": "Fri Nov 20 20:53:24 +0000 2026",
+   "author_handle": "anton_d_leicht",
+   "author_name": "Anton Leicht",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2099528473869971457/0uLWqvOn_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 17,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2123836545346285698",
+    "author_name": "Rapid Response 47",
+    "links": {
+     "https://t.co/FiH1LfAQDu": ""
+    },
+    "author": "RapidResponse47",
+    "text": ".@POTUS: \"Whoever wins SI, wins... We're not allowing data centers to go into other countries — because China will take all of them, and we're not allowing that to happen.\" https://t.co/FiH1LfAQDu"
+   },
+   "fetched_at": "2026-11-20T22:14:41.979640+00:00",
+   "enriched": 3
   }
  }
 }

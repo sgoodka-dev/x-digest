@@ -4331,6 +4331,56 @@
    "quoted": null,
    "fetched_at": "2026-11-20T19:06:17.373366+00:00",
    "enriched": 3
+  },
+  "2123867053916602737": {
+   "id": "2123867053916602737",
+   "url": "https://x.com/mentalgeorge/status/2123867053916602737",
+   "text": "For a given task length, agents do somewhat worse on costlier tasks, but doubling times are similar on cheaper and costlier tasks. Frontier performance on our costlier tasks is closer to what OpenAI reports for its internal research use.\nhttps://t.co/LIOBpxsXuv https://t.co/GGLf2Fuzlg",
+   "created_at": "Fri Nov 20 19:52:19 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "METR_Evals",
+   "rt_author_name": "METR",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2021827383431757824/AeVvT0rU_normal.jpg",
+   "rt_id": "2123865024267739636",
+   "likes": 38,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXl7--AawAAB_Qm.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXl7--AawAAB_Qm.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/LIOBpxsXuv": "https://x.com/openai/status/2123191365983248653?s=46",
+    "https://t.co/GGLf2Fuzlg": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T22:14:41.979640+00:00",
+   "linked": [
+    {
+     "id": "2123191365983248653",
+     "author_handle": "OpenAI",
+     "author_name": "OpenAI",
+     "text": "We're sharing new data on how AI is changing research at OpenAI.\n\nWe find researchers' AI use continues to rise exponentially, and agents are completing longer tasks, but human involvement remains central in research. Researchers are also spending more time on safety and alignment, with human effort in these areas growing faster than in any other individual research area.\n\nThis report aims to increase transparency around research acceleration and inform the governance of increasingly capable AI. We believe that AI labs should be required to track and publicly report indicators of recursive self-improvement (RSI): the process by which AI accelerates the development of future AI systems. \n\nOur hope is that this expanded report will help sustain and advance shared measurement norms across the industry.\n\nhttps://t.co/xyGPcCkPCK",
+     "links": {
+      "https://t.co/xyGPcCkPCK": "https://openai.com/index/research-acceleration-jagged-frontier/"
+     },
+     "media": [],
+     "url": "https://x.com/OpenAI/status/2123191365983248653",
+     "created_at": "Wed Nov 18 23:07:23 +0000 2026"
+    }
+   ],
+   "enriched": 3
   }
  }
 }

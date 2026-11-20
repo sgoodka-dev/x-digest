@@ -13231,6 +13231,107 @@
    "quoted": null,
    "fetched_at": "2026-11-20T19:06:17.373366+00:00",
    "enriched": 3
+  },
+  "2123895984933462320": {
+   "id": "2123895984933462320",
+   "url": "https://x.com/robertwiblin/status/2123895984933462320",
+   "text": "New paper: It is difficult to detect when AI safety research is sabotaged and even harder to identify the specific sabotage.\nEven with access to the full research log and the ability to run experiments, human auditors usually couldn’t distinguish benign from sabotaged experiments or determine how the sabotage was done. Frontier AI models likely do better, but still miss most sabotage.",
+   "created_at": "Fri Nov 20 21:47:17 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "kshenoy_",
+   "rt_author_name": "keshav shenoy",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2079683581409202176/JJu0WG4q_normal.jpg",
+   "rt_id": "2123851488292458566",
+   "likes": 88,
+   "retweets": 18,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXlvlmDaIAA3S3k.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/SFxcUFwP4x": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T22:14:41.979640+00:00",
+   "enriched": 3
+  },
+  "2123895341611102631": {
+   "id": "2123895341611102631",
+   "url": "https://x.com/robertwiblin/status/2123895341611102631",
+   "text": "(part 2) I also asked people what the main cruxes behind this question are. Here are the four I landed on, and where people stand on each: https://t.co/4eE30v08ft",
+   "created_at": "Fri Nov 20 21:44:44 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "chrisbarber",
+   "rt_author_name": "Chris Barber",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2016529267836809217/FuZPHn-C_normal.jpg",
+   "rt_id": "2123830538834419730",
+   "likes": 10,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXlcnmyawAAg91r.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXlcnmyawAAg91r.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/4eE30v08ft": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T22:14:41.979640+00:00",
+   "enriched": 3
+  },
+  "2123895235327717686": {
+   "id": "2123895235327717686",
+   "url": "https://x.com/robertwiblin/status/2123895235327717686",
+   "text": "I attempted to map where people stand on whether the recent AI speedup is the start of an intelligence explosion, or just a speedup:\n\n19 of the 52 placements were checked with the person, the others are best guesses. https://t.co/u5o05w23iW",
+   "created_at": "Fri Nov 20 21:44:18 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "chrisbarber",
+   "rt_author_name": "Chris Barber",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2016529267836809217/FuZPHn-C_normal.jpg",
+   "rt_id": "2123830521004532172",
+   "likes": 62,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXlcmkwbQAEbqnk.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXlcmkwbQAEbqnk.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/u5o05w23iW": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T22:14:41.979640+00:00",
+   "enriched": 3
   }
  }
 }
