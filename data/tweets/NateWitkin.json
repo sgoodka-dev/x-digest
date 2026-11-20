@@ -5344,6 +5344,308 @@
    "quoted": null,
    "fetched_at": "2026-11-20T15:35:58.747413+00:00",
    "enriched": 3
+  },
+  "2123847744637039011": {
+   "id": "2123847744637039011",
+   "url": "https://x.com/NateWitkin/status/2123847744637039011",
+   "text": "BREAKING: The Nasdaq Composite officially turns negative for 2026, erasing a gain of +19%. https://t.co/yPDb7Ul9ds",
+   "created_at": "Fri Nov 20 18:35:36 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "KobeissiLetter",
+   "rt_author_name": "The Kobeissi Letter",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1975243710846640128/fwYCe67Y_normal.jpg",
+   "rt_id": "2123810146006532136",
+   "likes": 6985,
+   "retweets": 698,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXlJ9zuXkAA6HS-.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXlJ9zuXkAA6HS-.png"
+    }
+   ],
+   "links": {
+    "https://t.co/yPDb7Ul9ds": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T19:06:17.373366+00:00",
+   "enriched": 3
+  },
+  "2123846309228711963": {
+   "id": "2123846309228711963",
+   "url": "https://x.com/NateWitkin/status/2123846309228711963",
+   "text": "@birchlse @StefanFSchubert I don't think this is right.\n\nhttps://t.co/vpa4AvLJ0J",
+   "created_at": "Fri Nov 20 18:29:53 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": true,
+   "reply_to": "birchlse",
+   "reply_to_id": "2123825611986911639",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/vpa4AvLJ0J": "https://x.com/NateWitkin/status/2123840244889907314?a=oEHT8gd4wlZUqM8Nz88&s=20"
+   },
+   "quoted": {
+    "id": "2123840244889907314",
+    "author_name": "Nathan Witkin",
+    "links": {},
+    "author": "NateWitkin",
+    "text": "Would've been hard to invent a more elegant microcosm of the clashing worldviews of Silicon Valley and Wall Street than the Riemann Hypothesis getting solved just as the AI trade is beginning to falter.\n\nCutting deep deductive pathways through the jungles of well-defined theoretical and digital systems is great. If only those systems were more akin to the ill-defined empirico-inductive ones in which we actually live."
+   },
+   "fetched_at": "2026-11-20T19:06:17.373366+00:00",
+   "parent": {
+    "id": "2123825611986911639",
+    "author_handle": "birchlse",
+    "author_name": "Jonathan Birch",
+    "text": "@StefanFSchubert The signs all point to investors (as a collective) paying no attention at all to the capabilities of frontier models.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/birchlse/status/2123825611986911639",
+    "created_at": "Fri Nov 20 17:07:39 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123845310611104140": {
+   "id": "2123845310611104140",
+   "url": "https://x.com/NateWitkin/status/2123845310611104140",
+   "text": "@StephenPiment Right, few reasons to think they do, even to ML research. In pure math, to a rough approximation, every inferential step is verifiable, costless, instant, and completable entirely in silico. Unsurprising that models are uniquely capable in this environment.",
+   "created_at": "Fri Nov 20 18:25:55 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": true,
+   "reply_to": "StephenPiment",
+   "reply_to_id": "2123843608638001285",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-20T19:06:17.373366+00:00",
+   "parent": {
+    "id": "2123843608638001285",
+    "author_handle": "StephenPiment",
+    "author_name": "Stephen Pimentel",
+    "text": "@NateWitkin Proving the Riemann Hypothesis is awesome. It may have no relation to whether the AI labs will generate revenues that justify their committed capex. This point should be obvious, but many naively assume that awesome math abilities magically generalize.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/StephenPiment/status/2123843608638001285",
+    "created_at": "Fri Nov 20 18:19:10 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123830545146868151": {
+   "id": "2123830545146868151",
+   "url": "https://x.com/NateWitkin/status/2123830545146868151",
+   "text": "Lean Riemann proof size is comparable to all human-written formal math (or to about 2-3 months of arxiv math papers); via @nc_znc in a group chat. https://t.co/wC6NbalKxa",
+   "created_at": "Fri Nov 20 17:27:15 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "NunoSempere",
+   "rt_author_name": "Nuño Sempere (in Asunción)",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1961418056963416064/MCJjQyF4_normal.jpg",
+   "rt_id": "2123821653046296827",
+   "likes": 405,
+   "retweets": 52,
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://pbs.twimg.com/tweet_video_thumb/HXlUOgaXEAAkwuV.jpg"
+    },
+    {
+     "type": "animated_gif",
+     "url": "https://pbs.twimg.com/tweet_video_thumb/HXlUOgaXEAAkwuV.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/wC6NbalKxa": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T19:06:17.373366+00:00",
+   "enriched": 3
+  },
+  "2123830283245916469": {
+   "id": "2123830283245916469",
+   "url": "https://x.com/NateWitkin/status/2123830283245916469",
+   "text": "Catastrophic cyber attack/data breach against Japanese software company Plaid $4165, stock -57% in 5 sessions. \n\nThe service is offline, company says a \"fundamental rebuild\" is necessary and no resumption until mid-January 2027 (!!). \n\nNo revenue until then. https://t.co/MTuvKslcyZ",
+   "created_at": "Fri Nov 20 17:26:13 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "timothyhliu5",
+   "rt_author_name": "Timothy Liu",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1506102655642312704/wnHfupGM_normal.jpg",
+   "rt_id": "2123801908292837541",
+   "likes": 660,
+   "retweets": 85,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXlCerHXQAE4NyD.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXlCgDGWkAArKTT.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXlCerHXQAE4NyD.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXlCgDGWkAArKTT.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/MTuvKslcyZ": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T19:06:17.373366+00:00",
+   "enriched": 3
+  },
+  "2123829791346344377": {
+   "id": "2123829791346344377",
+   "url": "https://x.com/NateWitkin/status/2123829791346344377",
+   "text": "Today in AI science:\n* Generalized Riemann Hypothesis: https://t.co/M9T9rdQtFb\n* unforced euler https://t.co/P4IRANZU1v\n* unforced Navier-Stokes blowup https://t.co/qJSvtwRt72",
+   "created_at": "Fri Nov 20 17:24:15 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "roelof_vandijk",
+   "rt_author_name": "Roelof van Dijk",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1320292634116620288/SGXXpbB6_normal.jpg",
+   "rt_id": "2123784330640310373",
+   "likes": 1569,
+   "retweets": 189,
+   "media": [],
+   "links": {
+    "https://t.co/M9T9rdQtFb": "https://alpo.ge/remark.pdf",
+    "https://t.co/P4IRANZU1v": "https://cims.nyu.edu/~tristanb/cc.pdf",
+    "https://t.co/qJSvtwRt72": "https://github.com/tristanbuckmaster/navier-stokes/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T19:06:17.373366+00:00",
+   "enriched": 3
+  },
+  "2123828303232450872": {
+   "id": "2123828303232450872",
+   "url": "https://x.com/NateWitkin/status/2123828303232450872",
+   "text": "Claude solved the Riemann hypothesis and $ANT stock is down 10%. Seems the market is not \"RSI-pilled\" and believes in 'AI as normal technology'. https://t.co/jmKDgyNRxd",
+   "created_at": "Fri Nov 20 17:18:20 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "nabeelqu",
+   "rt_author_name": "Nabeel S. Qureshi",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1857140980421668864/0prdKK32_normal.jpg",
+   "rt_id": "2123806732027924920",
+   "likes": 513,
+   "retweets": 14,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXlGxaKXsAAl812.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXlGxaKXsAAl812.png"
+    }
+   ],
+   "links": {
+    "https://t.co/jmKDgyNRxd": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T19:06:17.373366+00:00",
+   "enriched": 3
+  },
+  "2123826589901414476": {
+   "id": "2123826589901414476",
+   "url": "https://x.com/NateWitkin/status/2123826589901414476",
+   "text": "BREAKING: A mathematician at Anthropic claims to have used the company's AI to solve the Riemann hypothesis, the most notorious open problem in all of math\n\nhttps://t.co/nEXAyIkvSt",
+   "created_at": "Fri Nov 20 17:11:32 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "sciam",
+   "rt_author_name": "Scientific American",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1704126231371771905/McZuDEgT_normal.jpg",
+   "rt_id": "2123782587235655707",
+   "likes": 10817,
+   "retweets": 2585,
+   "media": [],
+   "links": {
+    "https://t.co/nEXAyIkvSt": "https://sciam.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/?utm_source=twitter&utm_medium=social&utm_campaign=buffer"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T19:06:17.373366+00:00",
+   "enriched": 3
+  },
+  "2123840244889907314": {
+   "id": "2123840244889907314",
+   "url": "https://x.com/NateWitkin/status/2123840244889907314",
+   "text": "Would've been hard to invent a more elegant microcosm of the clashing worldviews of Silicon Valley and Wall Street than the Riemann Hypothesis getting solved just as the AI trade is beginning to falter.\n\nCutting deep deductive pathways through the jungles of well-defined theoretical and digital systems is great. If only those systems were more akin to the ill-defined empirico-inductive ones in which we actually live.",
+   "created_at": "Fri Nov 20 18:05:48 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 14,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-20T19:06:17.373366+00:00",
+   "enriched": 3
   }
  }
 }

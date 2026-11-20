@@ -14827,6 +14827,94 @@
    "quoted": null,
    "fetched_at": "2026-11-20T15:35:58.747413+00:00",
    "enriched": 3
+  },
+  "2123850429268156667": {
+   "id": "2123850429268156667",
+   "url": "https://x.com/s8mb/status/2123850429268156667",
+   "text": "@salonium @owl_posting This was such a fascinating piece!",
+   "created_at": "Fri Nov 20 18:46:16 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "salonium",
+   "reply_to_id": "2123847479888073084",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-20T19:06:17.373366+00:00",
+   "parent": {
+    "id": "2123847479888073084",
+    "author_handle": "salonium",
+    "author_name": "Saloni",
+    "text": "In case you hadn’t heard, the great @owl_posting is now a columnist for Works in Progress!\n\nHis first post is very fun. I’ve also often wondered how there’s money to be made in biotech investing.\n\nLots of data already is public and LLMs can now investigate a lot of it, but perhaps there is also a “game of increasingly subtle information extraction”, as Abhishaike says, and lots of additional context to be gleaned from talking to the right people.\nhttps://t.co/uYb98OcSvg",
+    "links": {
+     "https://t.co/uYb98OcSvg": "https://worksinprogress.co/issue/how-do-biotech-hedge-funds-make-money/"
+    },
+    "media": [],
+    "url": "https://x.com/salonium/status/2123847479888073084",
+    "created_at": "Fri Nov 20 18:34:33 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123850400956571678": {
+   "id": "2123850400956571678",
+   "url": "https://x.com/s8mb/status/2123850400956571678",
+   "text": "In case you hadn’t heard, the great @owl_posting is now a columnist for Works in Progress!\n\nHis first post is very fun. I’ve also often wondered how there’s money to be made in biotech investing.\n\nLots of data already is public and LLMs can now investigate a lot of it, but perhaps there is also a “game of increasingly subtle information extraction”, as Abhishaike says, and lots of additional context to be gleaned from talking to the right people.\nhttps://t.co/uYb98OcSvg",
+   "created_at": "Fri Nov 20 18:46:09 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "salonium",
+   "rt_author_name": "Saloni",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1633132972122447873/1sTPjj0y_normal.jpg",
+   "rt_id": "2123847479888073084",
+   "likes": 15,
+   "retweets": 3,
+   "media": [],
+   "links": {
+    "https://t.co/uYb98OcSvg": "https://worksinprogress.co/issue/how-do-biotech-hedge-funds-make-money/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T19:06:17.373366+00:00",
+   "enriched": 3
+  },
+  "2123842517363769840": {
+   "id": "2123842517363769840",
+   "url": "https://x.com/s8mb/status/2123842517363769840",
+   "text": "Excellent post from @owl_posting in @WorksInProgMag  on biotech hedge fund edge. \n\nWhile there were serious shenanigans with expert networks back in the SAC era, they are now ubiquitously used and I think contribute limited \"alpha\" to funds who use them (though they are very helpful for orienting in a new space). Some examples of edge I have observed: \n\n- Private, ER-mediated 1:1 meetings with management (often at bank conferences): body language, tone, etc are real signals and I think represent real private information \n\n- Direct calls with investigators / PIs / people working on trials - this is still the wild west \n\n- Hardcore internal research / POV development. RA and Baker Brothers are unbelievably well resourced and have unique takes on TAs, modalities, and specific trials because they employ dozens of Phds to know everything (truly everything) about companies and specific tirals / molecules. I have seen this first hand and it's extremely impressive. \n\nI think some but not all of this last bucket will be democratized through AI, but a meaningful portion of hedge fund research looks something like \"let's go talk to someone who used to work with the person at the FDA who has to approve this trial design to get their vibe, understand their views on a specific approach, and get a sense for their level of conservatism etc.\" A real data problem! \n\nhttps://t.co/Vu98rPSYjO",
+   "created_at": "Fri Nov 20 18:14:49 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "incredutility",
+   "rt_author_name": "Charlie Petty",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2047871111019569152/aDwVPD-N_normal.jpg",
+   "rt_id": "2123829718004666817",
+   "likes": 31,
+   "retweets": 7,
+   "media": [],
+   "links": {
+    "https://t.co/Vu98rPSYjO": "https://worksinprogress.co/issue/how-do-biotech-hedge-funds-make-money/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-20T19:06:17.373366+00:00",
+   "enriched": 3
   }
  }
 }

@@ -4325,6 +4325,30 @@
    "quoted": null,
    "fetched_at": "2026-11-20T15:35:58.747413+00:00",
    "enriched": 3
+  },
+  "2123824767719375013": {
+   "id": "2123824767719375013",
+   "url": "https://x.com/_achan96_/status/2123824767719375013",
+   "text": "Earlier this month, the EU AI Office sent out requests for information (RFIs) to OpenAI and Anthropic.\n\nThese RFIs will help us form a clearer picture of how many loss-of-control incidents occurred & what exactly happened.\n\nWe're also inquiring about a range of related topics, including:\n- why chain-of-thought monitorability seems to have worsened recently, and how labs plan to ensure that monitorability is preserved\n- whether the labs have plans for what to do if models continue becoming harder to monitor\n- how the labs have changed their safety & security practices as a result of the incidents",
+   "created_at": "Fri Nov 20 17:04:18 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "laurolangosco",
+   "rt_author_name": "Lauro",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2086224821285777409/3bS5kfWg_normal.jpg",
+   "rt_id": "2123823655708680533",
+   "likes": 29,
+   "retweets": 3,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-20T19:06:17.373366+00:00",
+   "enriched": 3
   }
  }
 }
