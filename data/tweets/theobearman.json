@@ -13325,6 +13325,45 @@
    "quoted": null,
    "fetched_at": "2026-11-21T14:46:28.215595+00:00",
    "enriched": 3
+  },
+  "2124172517040345125": {
+   "id": "2124172517040345125",
+   "url": "https://x.com/theobearman/status/2124172517040345125",
+   "text": "@jackclarkSF: “For many years, researchers and science-fiction authors have predicted a future in which AI systems drastically increase the pace of overall scientific and technical progress, making things move so quickly that it is hard for humans to keep up. We will soon reach that point. Just because we can sprint ahead beyond human limits does not mean that we always should.”",
+   "created_at": "Sat Nov 21 16:06:07 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "jackclarkSF",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXqTpTNXcAA_dl0.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/KwHpPm9aAm": ""
+   },
+   "quoted": {
+    "id": "2124163568748626056",
+    "author_name": "Jack Clark",
+    "links": {
+     "https://t.co/sqEzhYivFY": "https://www.economist.com/the-world-ahead/2026/11/18/ai-will-accelerate-scientific-progress-says-jack-clark"
+    },
+    "author": "jackclarkSF",
+    "text": "As AI systems get more powerful, we believe we will see a speedup in the rate of scientific progress. How we prepare for this, build the infra to support it, and deal with the associated safety issues will define 2027 and beyond. https://t.co/sqEzhYivFY"
+   },
+   "fetched_at": "2026-11-21T17:57:47.516124+00:00",
+   "enriched": 3
   }
  }
 }

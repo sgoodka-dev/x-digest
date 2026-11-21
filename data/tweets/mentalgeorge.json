@@ -4415,6 +4415,30 @@
     "created_at": "Sat Nov 21 01:43:47 +0000 2026"
    },
    "enriched": 3
+  },
+  "2124180273533522169": {
+   "id": "2124180273533522169",
+   "url": "https://x.com/mentalgeorge/status/2124180273533522169",
+   "text": "What do you think is the main incentive driving Anthropic leadership to push the frontier faster?\n\n(I'm not being cynical - i regard this as a genuine open question)",
+   "created_at": "Sat Nov 21 16:36:57 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-21T17:57:47.516124+00:00",
+   "enriched": 3
   }
  }
 }

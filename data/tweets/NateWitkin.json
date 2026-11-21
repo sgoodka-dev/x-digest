@@ -5865,6 +5865,356 @@
     "created_at": "Fri Nov 20 16:34:20 +0000 2026"
    },
    "enriched": 3
+  },
+  "2124200938751623568": {
+   "id": "2124200938751623568",
+   "url": "https://x.com/NateWitkin/status/2124200938751623568",
+   "text": "@tszzl @thinkingshivers Better assessment is that AI has succeeded dramatically in \n\n1) verifiable domains with rapid / cheap / digital learning loops;\n\n2) unverifiable domains with rapid / cheap / digital learning loops AND forgiving, highly disjunctive success conditions (many, many ways to make a halfway-decent music video).\n\nThe long road ahead is concentrated in a a mix of tasks with expensive, slow, supra-digital learning loops (incl. some verifiable ones) and success conditions that are simultaneously strict, ill-defined, and subject to rapid change (the last one is generally underestimated; consider how the meaning of \"good\" research or \"good\" fiction changes year-to-year).\n\nTo see why the nature of the learning loops matters as much, if not more than the verifiability of the success / reward condition, consider that \"amount of dollars in bank account\" and \"amount of years lived\" are both verifiable, and then meditate on what it would take to design an RL loop for learning to maximize either.",
+   "created_at": "Sat Nov 21 17:59:04 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": true,
+   "reply_to": "tszzl",
+   "reply_to_id": "2123994543733559377",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-21T17:57:47.516124+00:00",
+   "parent": {
+    "id": "2123994543733559377",
+    "author_handle": "tszzl",
+    "author_name": "roon",
+    "text": "@thinkingshivers since has making great music videos been “verifiable”?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/tszzl/status/2123994543733559377",
+    "created_at": "Sat Nov 21 04:18:55 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2124176008777519427": {
+   "id": "2124176008777519427",
+   "url": "https://x.com/NateWitkin/status/2124176008777519427",
+   "text": "Something I’d like to understand, as a non-mathematician:\n\nTo what extent do the recent AI-driven proofs of Millennium Prize Problems apply known techniques at enormous scale, and to what extent do they use new ideas that most mathematicians would find surprising?",
+   "created_at": "Sat Nov 21 16:20:00 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "arindube",
+   "rt_author_name": "Arin Dube",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1701811151288291328/WyCTYG3R_normal.jpg",
+   "rt_id": "2123999274773995865",
+   "likes": 56,
+   "retweets": 3,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-21T17:57:47.516124+00:00",
+   "enriched": 3
+  },
+  "2124173490114687138": {
+   "id": "2124173490114687138",
+   "url": "https://x.com/NateWitkin/status/2124173490114687138",
+   "text": "Friday's news cycle really was almost too perfect to believe.\n\nFor months, I (and so many others) have been pointing to this notable divergence between accelerating model capability growth and slowing AI spending/rising data center costs.\n\nYou really cannot get a cleaner example of the principle that \"AI capabilities ≠ real-world AI consequences\" than getting news of a proof of the Riemann Hypothesis—which people have for years cited as a sign of takeoff, AGI, the beginning of the productivity boom that takes us into the transhumanist Valhalla, etc etc—at the same time that the Nasdaq absolutely vomits up all over itself as the AI Trade dies.",
+   "created_at": "Sat Nov 21 16:09:59 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "DKThomp",
+   "rt_author_name": "Derek Thompson",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2093501497673674753/OrmD5Wp3_normal.jpg",
+   "rt_id": "2124156773560902109",
+   "likes": 614,
+   "retweets": 42,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-21T17:57:47.516124+00:00",
+   "enriched": 3
+  },
+  "2124172600943501346": {
+   "id": "2124172600943501346",
+   "url": "https://x.com/NateWitkin/status/2124172600943501346",
+   "text": "Very interesting data-driven pushback against some of the more aggressive forecasts of imminent recursive self-improvement 👇",
+   "created_at": "Sat Nov 21 16:06:27 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "danwilliamsphil",
+   "rt_author_name": "Dan Williams",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2122086703057793024/Fzgv0Hss_normal.jpg",
+   "rt_id": "2124072874881565037",
+   "likes": 12,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-21T17:57:47.516124+00:00",
+   "thread": [],
+   "enriched": 3
+  },
+  "2124170697572499679": {
+   "id": "2124170697572499679",
+   "url": "https://x.com/NateWitkin/status/2124170697572499679",
+   "text": "New from me: The most important graphs in AI are wrong. Specifically, measures of the length of task AIs can autonomously accomplish are dramatically different than real-world data from inside OpenAI and Google. 🧵 \nhttps://t.co/IbKK0ybQjV https://t.co/MJYRscOLhG",
+   "created_at": "Sat Nov 21 15:58:54 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ramez",
+   "rt_author_name": "Ramez Naam",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1897785621802061824/N9bBY8w6_normal.jpg",
+   "rt_id": "2123944723492782408",
+   "likes": 448,
+   "retweets": 76,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXm7YNHbAAAMNRP.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXm7YNHbAAAMNRP.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/IbKK0ybQjV": "https://www.rameznaam.com/p/the-most-important-charts-in-ai-are",
+    "https://t.co/MJYRscOLhG": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-21T17:57:47.516124+00:00",
+   "thread": [
+    {
+     "id": "2123944726135259285",
+     "author_handle": "ramez",
+     "author_name": "Ramez Naam",
+     "text": "2. AI is amazing &amp; improving rapidly. But offline metrics and forecasts claim rapid takeoff in the length of task AI can complete that aren't backed by real-world observations. Here's a recreation of @ben_j_todd's recent chart vs internal OpenAI &amp; Google data. https://t.co/XutaSVOwOE",
+     "links": {
+      "https://t.co/XutaSVOwOE": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXm8A1fa4AAKsy5.jpg"
+      }
+     ],
+     "url": "https://x.com/ramez/status/2123944726135259285",
+     "created_at": "Sat Nov 21 01:00:58 +0000 2026"
+    },
+    {
+     "id": "2123944728588931206",
+     "author_handle": "ramez",
+     "author_name": "Ramez Naam",
+     "text": "3. You can see @ben_j_todd's original post here. Compare to the chart in the previous tweet. https://t.co/y67PA8a6iw https://t.co/cv2EdHTycd",
+     "links": {
+      "https://t.co/y67PA8a6iw": "https://x.com/ben_j_todd/status/2122318704260403562",
+      "https://t.co/cv2EdHTycd": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXm8s8ab0AAHF2I.jpg"
+      }
+     ],
+     "url": "https://x.com/ramez/status/2123944728588931206",
+     "created_at": "Sat Nov 21 01:00:58 +0000 2026"
+    },
+    {
+     "id": "2123944731487162843",
+     "author_handle": "ramez",
+     "author_name": "Ramez Naam",
+     "text": "4. The original AI 2027 forecast suffers from the same problem. The fast takeoff expected doesn't match what we actually see in the real world. https://t.co/rXGcwr1Oqf",
+     "links": {
+      "https://t.co/rXGcwr1Oqf": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXm9vGyb0AAvq1l.jpg"
+      }
+     ],
+     "url": "https://x.com/ramez/status/2123944731487162843",
+     "created_at": "Sat Nov 21 01:00:59 +0000 2026"
+    },
+    {
+     "id": "2123944734611865663",
+     "author_handle": "ramez",
+     "author_name": "Ramez Naam",
+     "text": "5. Not only is there a ~100-fold gap in task lengths between forecasts and the real world: The gap is widening over time. At this pace, it will grow by ~30x over 12 months, to become a ~3,000x gap in estimated vs real task lengths. https://t.co/EszYHxQgqm",
+     "links": {
+      "https://t.co/EszYHxQgqm": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXm96AAbkAASCGv.jpg"
+      }
+     ],
+     "url": "https://x.com/ramez/status/2123944734611865663",
+     "created_at": "Sat Nov 21 01:01:00 +0000 2026"
+    },
+    {
+     "id": "2123944737354973309",
+     "author_handle": "ramez",
+     "author_name": "Ramez Naam",
+     "text": "6. With AI 2027, we see the same pattern of the gap vs real world measurements growing ever wider, again on a roughly 25x annualized pace. https://t.co/jlYADEq88Z",
+     "links": {
+      "https://t.co/jlYADEq88Z": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXm-Ep3akAASu0x.jpg"
+      }
+     ],
+     "url": "https://x.com/ramez/status/2123944737354973309",
+     "created_at": "Sat Nov 21 01:01:01 +0000 2026"
+    },
+    {
+     "id": "2123944739867385877",
+     "author_handle": "ramez",
+     "author_name": "Ramez Naam",
+     "text": "7. To be clear, the latest data from OpenAI does suggest* that AI tasks lengths are growing exponentially, but at a slower rate from a much lower base than expected. \n\n[* - We can't rule out linear or sub-linear fits, though exponential is stronger.] https://t.co/Exqxrl9Top",
+     "links": {
+      "https://t.co/Exqxrl9Top": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXm-aF5agAAOJw4.jpg"
+      }
+     ],
+     "url": "https://x.com/ramez/status/2123944739867385877",
+     "created_at": "Sat Nov 21 01:01:01 +0000 2026"
+    },
+    {
+     "id": "2123944742551683330",
+     "author_handle": "ramez",
+     "author_name": "Ramez Naam",
+     "text": "8. In addition, task lengths are growing more slowly at higher reliability levels than lower, and by a wider margin than expected. Forecasts over-estimate AI task length by ~24x at 50% reliability. But by ~36x at 80% reliability. https://t.co/7YKvJgE3Am",
+     "links": {
+      "https://t.co/7YKvJgE3Am": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXm-0j-bMAA8B2t.jpg"
+      }
+     ],
+     "url": "https://x.com/ramez/status/2123944742551683330",
+     "created_at": "Sat Nov 21 01:01:02 +0000 2026"
+    },
+    {
+     "id": "2123944745265447157",
+     "author_handle": "ramez",
+     "author_name": "Ramez Naam",
+     "text": "9. For fully autonomous RSI, AI will need to hit extremely high levels of task success, perhaps over 99%. We don't know what tasks AI can accomplish at those levels. We can try to use logistic and log-linear fits to guess. https://t.co/5TWeGEgKrN",
+     "links": {
+      "https://t.co/5TWeGEgKrN": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXm_kB3aQAACkQ7.jpg"
+      }
+     ],
+     "url": "https://x.com/ramez/status/2123944745265447157",
+     "created_at": "Sat Nov 21 01:01:02 +0000 2026"
+    },
+    {
+     "id": "2123944747622686897",
+     "author_handle": "ramez",
+     "author_name": "Ramez Naam",
+     "text": "10. These projected task lengths that AI can accomplish with very high levels of success are in the range of seconds to a small number of minutes. But again this is extrapolation. https://t.co/L6f0qkMEP3",
+     "links": {
+      "https://t.co/L6f0qkMEP3": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXm_uQGasAARL8D.jpg"
+      }
+     ],
+     "url": "https://x.com/ramez/status/2123944747622686897",
+     "created_at": "Sat Nov 21 01:01:03 +0000 2026"
+    },
+    {
+     "id": "2123944750239945167",
+     "author_handle": "ramez",
+     "author_name": "Ramez Naam",
+     "text": "11. When would we expect AI to be able to accomplish 98% of tasks that take humans hours? At this pace, not for another decade. Again, this is extrapolation. We need better data. https://t.co/eEFrb3WqXr",
+     "links": {
+      "https://t.co/eEFrb3WqXr": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXm_9ufa4AESGP7.jpg"
+      }
+     ],
+     "url": "https://x.com/ramez/status/2123944750239945167",
+     "created_at": "Sat Nov 21 01:01:04 +0000 2026"
+    },
+    {
+     "id": "2123944752722944422",
+     "author_handle": "ramez",
+     "author_name": "Ramez Naam",
+     "text": "12. Using the OpenAI data we can also test the strength of the RSI feedback loop by asking how much productivity does every point of ECI bring? @testingham et al found a self-sustaining threshold at 15% per point. https://t.co/qLjxrp9Vh1",
+     "links": {
+      "https://t.co/qLjxrp9Vh1": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXnALLPbcAAfnBL.jpg"
+      }
+     ],
+     "url": "https://x.com/ramez/status/2123944752722944422",
+     "created_at": "Sat Nov 21 01:01:04 +0000 2026"
+    },
+    {
+     "id": "2123944755180757336",
+     "author_handle": "ramez",
+     "author_name": "Ramez Naam",
+     "text": "13. Using this data,  adjusting for token spend, we see OpenAI experiment pace rising by ~3.6% per ECI point, still short of the self-sustaining RSI threshold. [Thanks to @TomDavidsonX &amp; @YafahEdelman for improvements to my previous modeling here.] https://t.co/kz55HvejtQ",
+     "links": {
+      "https://t.co/kz55HvejtQ": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HXnAaILaIAAl_du.jpg"
+      }
+     ],
+     "url": "https://x.com/ramez/status/2123944755180757336",
+     "created_at": "Sat Nov 21 01:01:05 +0000 2026"
+    }
+   ],
+   "enriched": 3
   }
  }
 }

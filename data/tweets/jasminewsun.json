@@ -3069,6 +3069,187 @@
    },
    "quoted": null,
    "fetched_at": "2026-11-21T14:46:28.215595+00:00"
+  },
+  "2123176925099438231": {
+   "id": "2123176925099438231",
+   "url": "https://x.com/jasminewsun/status/2123176925099438231",
+   "text": "3) Anthropic's updated strategy is a \"race to the top,\" which rests on three assumptions:\n\n- The AI race is inevitable\n- Whoever wins gets tremendous power\n- Anthropic is the most responsible winner\n\nPeople kept referring to AGI as \"the Ring\" https://t.co/RIKBiK4CwA",
+   "created_at": "Wed Nov 18 22:10:00 +0000 2026",
+   "author_handle": "jasminewsun",
+   "author_name": "jasmine sun",
+   "is_reply": true,
+   "reply_to": "jasminewsun",
+   "reply_to_id": "2123176922582839557",
+   "avatar": "https://pbs.twimg.com/profile_images/2037713921318977536/wMVGhc0D_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 462,
+   "retweets": 26,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXcIUnhbMAASMEZ.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXcId7AaEAAY4zm.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXcIUnhbMAASMEZ.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXcId7AaEAAY4zm.png"
+    }
+   ],
+   "links": {
+    "https://t.co/RIKBiK4CwA": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-21T17:57:47.516124+00:00",
+   "parent": {
+    "id": "2123176922582839557",
+    "author_handle": "jasminewsun",
+    "author_name": "jasmine sun",
+    "text": "2) At its founding, Anthropic considered never releasing a product. In 2021-22 Dario told multiple investors he would not push ahead the frontier.\n\nThey held back Claude for safety, allowing OpenAI to launch ChatGPT first. But — I also think that was the moment he realized how important it was to win.",
+    "links": {
+     "https://t.co/qetLqlEGvz": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXcH1XqaUAAKrhA.jpg"
+     }
+    ],
+    "url": "https://x.com/jasminewsun/status/2123176922582839557",
+    "created_at": "Wed Nov 18 22:09:59 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123176922582839557": {
+   "id": "2123176922582839557",
+   "url": "https://x.com/jasminewsun/status/2123176922582839557",
+   "text": "2) At its founding, Anthropic considered never releasing a product. In 2021-22 Dario told multiple investors he would not push ahead the frontier.\n\nThey held back Claude for safety, allowing OpenAI to launch ChatGPT first. But — I also think that was the moment he realized how important it was to win.",
+   "created_at": "Wed Nov 18 22:09:59 +0000 2026",
+   "author_handle": "jasminewsun",
+   "author_name": "jasmine sun",
+   "is_reply": true,
+   "reply_to": "jasminewsun",
+   "reply_to_id": "2123176920284295192",
+   "avatar": "https://pbs.twimg.com/profile_images/2037713921318977536/wMVGhc0D_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 197,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXcH1XqaUAAKrhA.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/qetLqlEGvz": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-21T17:57:47.516124+00:00",
+   "parent": {
+    "id": "2123176920284295192",
+    "author_handle": "jasminewsun",
+    "author_name": "jasmine sun",
+    "text": "A few things I'll pull out:\n\n1) New Yorkers keep asking me how the Ants will spend their money (sports cars, expensive hobbies). I think the answer is \"not much\" besides EA-flavored donations. People are driven more by power than wealth. https://t.co/A7MlHxn7BS",
+    "links": {
+     "https://t.co/A7MlHxn7BS": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXcHnZZbIAAWDL4.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXcHpOibsAAP5Qb.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXcHnZZbIAAWDL4.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXcHpOibsAAP5Qb.jpg"
+     }
+    ],
+    "url": "https://x.com/jasminewsun/status/2123176920284295192",
+    "created_at": "Wed Nov 18 22:09:59 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123176920284295192": {
+   "id": "2123176920284295192",
+   "url": "https://x.com/jasminewsun/status/2123176920284295192",
+   "text": "A few things I'll pull out:\n\n1) New Yorkers keep asking me how the Ants will spend their money (sports cars, expensive hobbies). I think the answer is \"not much\" besides EA-flavored donations. People are driven more by power than wealth. https://t.co/A7MlHxn7BS",
+   "created_at": "Wed Nov 18 22:09:59 +0000 2026",
+   "author_handle": "jasminewsun",
+   "author_name": "jasmine sun",
+   "is_reply": true,
+   "reply_to": "jasminewsun",
+   "reply_to_id": "2123172397897621508",
+   "avatar": "https://pbs.twimg.com/profile_images/2037713921318977536/wMVGhc0D_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 480,
+   "retweets": 14,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXcHnZZbIAAWDL4.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXcHpOibsAAP5Qb.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXcHnZZbIAAWDL4.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXcHpOibsAAP5Qb.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/A7MlHxn7BS": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-21T17:57:47.516124+00:00",
+   "parent": {
+    "id": "2123172397897621508",
+    "author_handle": "jasminewsun",
+    "author_name": "jasmine sun",
+    "text": "Anthropic doesn't see itself as a \"normal company.\" Dario Amodei believes both that 1) superintelligent AI could destroy humanity, and 2) our only chance at survival is to have his trillion-dollar tech company build it first.\n\nThis is not an intuitive way to think about either capitalism or social change, but it’s led Anthropic to the eve of one of the biggest IPOs in history. So it's more important than ever for the public to understand and scrutinize its idiosyncratic theory of change. \n\nMy debut for @NYTOpinion (gift link!): https://t.co/xsrh02LaBq",
+    "links": {
+     "https://t.co/xsrh02LaBq": "https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html?unlocked_article_code=1.RVE.AUKz.AkiqfoAGG5ph&smid=url-share",
+     "https://t.co/7O7WbO3GR3": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXcF2D8bsAApRKN.jpg"
+     }
+    ],
+    "url": "https://x.com/jasminewsun/status/2123172397897621508",
+    "created_at": "Wed Nov 18 21:52:00 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }
