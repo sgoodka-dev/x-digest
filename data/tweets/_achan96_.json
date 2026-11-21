@@ -4380,6 +4380,30 @@
    "quoted": null,
    "fetched_at": "2026-11-20T22:14:41.979640+00:00",
    "enriched": 3
+  },
+  "2124220114900078623": {
+   "id": "2124220114900078623",
+   "url": "https://x.com/_achan96_/status/2124220114900078623",
+   "text": "The AI safety community seems very confused about what it is forecasting timelines *to*.\n\nRSI is already happening, so “timelines to RSI” is nonsensical. “Superhuman AI researchers” (SAR) or “top-expert-dominating AI” (TED-AI) are a bit more specific, but often get conflated with “intelligence explosion” or “superintelligence”. It is *possible* that the former will lead very quickly to the latter, but on an emotional level people seem to be treating forecasts to the former as deadlines beyond which they can’t predict or plan. (Also, even the latter terms have become too low-resolution for useful steering—e.g. I’d say we’re already in a slow-ish intelligence explosion.)\n\nForecasting when an AI takeover happens is even vaguer, because nobody has a compelling way of pinning down the threshold. In AI 2027, for instance, December 2027 is “the last month in which humans had any plausible chance of exercising control over their own future”, but this isn’t observable to any human. From some people’s perspectives it’s *already* very implausible today that humans will end up in control—so again we end up forecasting timelines to something that may have already happened.\n\nThis is all very bad for collective epistemics. So my requests are:\n1. Never give “timelines” estimates without specifying timelines to *what*.\n2. The “what” shouldn’t be RSI or an intelligence explosion, because they’re already happening.\n3. If your “what” is very abstract (like TED-AI or takeover) then also include timelines to at least one very impressive concrete capability, like:\n- AI can design a non-protein-based bacterium-like creature from scratch\n-  AI can convince an arbitrary human to commit suicide after 10 hours of interaction\n- AI can build a rocket that, upon landing on Mars, fully replicates itself within a month. \n- Earth-originating civilization launches a million tonnes into orbit per year (currently 3000)\n- Earth-originating civilization harnesses 100 ZJ of energy per year (currently 0.6).\n\n(Even these are gonna get kinda fuzzy and ill-defined as we move close to them, but they’re the best I have for now. More suggestions welcome!)\n\nAnd yes, you might think “by that time humans will already have been disempowered”. But since we are so confused about what disempowerment actually looks like, we need tangible metrics like these to keep ourselves anchored. Otherwise everyone will keep throwing around numbers without really understanding their implications.\n\nAlso, one of my biggest takeaways from the last decade is that AIs can do crazy things while producing surprisingly few real-world implications. AIs can now solve Millennium problems or autonomously hack into major govts, yet still have little real-world power. So I expect that we will hit some of the crazy capabilities I listed above while humans are still broadly in charge. That’s kinda hard to picture today, but so was our current situation a decade or two ago.\n\nLastly: one guess for why people have bandwagoned so hard on short timelines is that it creates a sense of urgency which motivates action. Concretely, the entire AI safety community was far too scared of conflict with the AGI companies until fear of short timelines recently spurred more direct action. I suggest decoupling these, so that your willingness to get in conflicts with the AGI companies doesn’t feel dependent on your timelines.",
+   "created_at": "Sat Nov 21 19:15:16 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "RichardMCNgo",
+   "rt_author_name": "Richard Ngo",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+   "rt_id": "2124201464432370006",
+   "likes": 290,
+   "retweets": 30,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-21T20:54:36.541465+00:00",
+   "enriched": 3
   }
  }
 }

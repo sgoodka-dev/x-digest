@@ -15043,6 +15043,51 @@
    "quoted": null,
    "fetched_at": "2026-11-21T14:46:28.215595+00:00",
    "enriched": 3
+  },
+  "2124216160866451713": {
+   "id": "2124216160866451713",
+   "url": "https://x.com/s8mb/status/2124216160866451713",
+   "text": "@JSalisburyJones Absolutely adorable photo.",
+   "created_at": "Sat Nov 21 18:59:33 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "JSalisburyJones",
+   "reply_to_id": "2123828509831229759",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-21T20:54:36.541465+00:00",
+   "parent": {
+    "id": "2123828509831229759",
+    "author_handle": "JSalisburyJones",
+    "author_name": "Jen Roseman",
+    "text": "@s8mb Good luck with baby jail. We had a glorious week of baby 2 liking the playpen. Then he demanded freedom to interfere with more stuff. https://t.co/2RFeEGF2a7",
+    "links": {
+     "https://t.co/2RFeEGF2a7": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXlaxajWQAA-1nT.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXlaxajWQAA-1nT.jpg"
+     }
+    ],
+    "url": "https://x.com/JSalisburyJones/status/2123828509831229759",
+    "created_at": "Fri Nov 20 17:19:10 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }
