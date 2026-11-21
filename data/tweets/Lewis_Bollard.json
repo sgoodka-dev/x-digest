@@ -2195,6 +2195,30 @@
    "quoted": null,
    "fetched_at": "2026-11-19T19:29:38.737368+00:00",
    "enriched": 3
+  },
+  "2123926904214634527": {
+   "id": "2123926904214634527",
+   "url": "https://x.com/Lewis_Bollard/status/2123926904214634527",
+   "text": "Scoop: Senate Rs are revolting over efforts to add controversial Save Our Bacon language to final farm bill \n\nRick Scott and Susan Collins called the push \"dangerous federal overreach\" \n\nLatest wrinkle in farm bill talks - as other Rs have pushed to include the provision\n\nMore ⬇",
+   "created_at": "Fri Nov 20 23:50:09 +0000 2026",
+   "author_handle": "Lewis_Bollard",
+   "author_name": "Lewis Bollard",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1945502946910699520/AxOdmQGI_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "YarrowGrace",
+   "rt_author_name": "Grace Yarrow",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2085477793190576128/r0vEOY3Q_normal.jpg",
+   "rt_id": "2123917283315818795",
+   "likes": 124,
+   "retweets": 32,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-21T14:46:28.215595+00:00",
+   "enriched": 3
   }
  }
 }

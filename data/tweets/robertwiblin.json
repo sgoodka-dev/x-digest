@@ -13332,6 +13332,38 @@
    "quoted": null,
    "fetched_at": "2026-11-20T22:14:41.979640+00:00",
    "enriched": 3
+  },
+  "2124105154962284568": {
+   "id": "2124105154962284568",
+   "url": "https://x.com/robertwiblin/status/2124105154962284568",
+   "text": "Artificial Intelligence (AI) = Super Intelligence (SI)\n\nsuperintelligence = Too Super Intelligence (TSI)\n\nIt’s all very simple.",
+   "created_at": "Sat Nov 21 11:38:27 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 63,
+   "retweets": 4,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2123840221816996322",
+    "author_name": "Peter Wildeford🇺🇸🚀",
+    "links": {
+     "https://t.co/15QLAu99K7": ""
+    },
+    "author": "peterwildeford",
+    "text": "PRESIDENT TRUMP: \"It's not artificial intelligence. It's not artificial, it's super. Problem is, it may be too super.\n\nSo, President Xi and I agreed that we're gonna do some joint guardrails, the two of us.\" https://t.co/15QLAu99K7"
+   },
+   "fetched_at": "2026-11-21T14:46:28.215595+00:00",
+   "enriched": 3
   }
  }
 }

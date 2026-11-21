@@ -4179,6 +4179,81 @@
    },
    "fetched_at": "2026-11-20T22:14:41.979640+00:00",
    "enriched": 3
+  },
+  "2124112620559204576": {
+   "id": "2124112620559204576",
+   "url": "https://x.com/random_walker/status/2124112620559204576",
+   "text": "@jeremyphoward @joshua_saxe @KLdivergence Yes, we were all in agreement back then, too 😀 https://t.co/GgSsD4NsiB",
+   "created_at": "Sat Nov 21 12:08:07 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": true,
+   "reply_to": "jeremyphoward",
+   "reply_to_id": "2124031610312118325",
+   "avatar": "https://pbs.twimg.com/profile_images/1650881612756942850/bZYjMyFU_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/GgSsD4NsiB": "https://x.com/jeremyphoward/status/1654363599610183682?a=As24CaLOb7jY0fg6Glg&s=20"
+   },
+   "quoted": {
+    "id": "1654363599610183682",
+    "author_name": "Jeremy Howard",
+    "links": {
+     "https://t.co/lK9qYzCXaE": "https://x.com/KLdivergence/status/1653843497932267520"
+    },
+    "author": "jeremyphoward",
+    "text": "@npparikh @NLPurr @rajiinio As it happens I discussed just this issue with Arvind a few days ago. @random_walker I'm guessing that you'd probably be in agreement with the point of view here?:\nhttps://t.co/lK9qYzCXaE"
+   },
+   "fetched_at": "2026-11-21T14:46:28.215595+00:00",
+   "parent": {
+    "id": "2124031610312118325",
+    "author_handle": "jeremyphoward",
+    "author_name": "Jeremy Howard",
+    "text": "@joshua_saxe @random_walker @KLdivergence I'm embarrassed to say I don't remember the thread (got a link?) but I strongly agree with the point!",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/jeremyphoward/status/2124031610312118325",
+    "created_at": "Sat Nov 21 06:46:13 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123918994918801815": {
+   "id": "2123918994918801815",
+   "url": "https://x.com/random_walker/status/2123918994918801815",
+   "text": "I largely subscribe to the views on AI safety espoused by @random_walker. \n\nCapability, Power and Real-world impact are all different.\n\nThe Reimann Hypothesis being proven doesn't cause me to update my priors on frontier AI's Capabilities and doesn't cause me to update my priors on the transfer rate between Capability and Power.",
+   "created_at": "Fri Nov 20 23:18:43 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1650881612756942850/bZYjMyFU_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "sushbhask",
+   "rt_author_name": "Sushanth Bhaskarabhatla",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2103184864883494912/_qObMaIl_normal.jpg",
+   "rt_id": "2123918235267657821",
+   "likes": 7,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXmsHI3aEAA4K58.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/sSv8I2WtUR": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-21T14:46:28.215595+00:00",
+   "enriched": 3
   }
  }
 }

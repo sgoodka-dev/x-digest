@@ -13261,6 +13261,70 @@
    "quoted": null,
    "fetched_at": "2026-11-20T22:14:41.979640+00:00",
    "enriched": 3
+  },
+  "2124006684142325985": {
+   "id": "2124006684142325985",
+   "url": "https://x.com/theobearman/status/2124006684142325985",
+   "text": "NEW: @RepGarbarino & @RepMoolenaar Release Joint Investigative Report Urging Removal of PRC Open-Weight Models From Federal Systems, High-Risk Critical Infrastructure\n \nThe report details the national security, cybersecurity, and economic security implications of U.S. companies utilizing Chinese open-weight AI models.\n\nChairmen Garbarino and Moolenaar call for strengthening American AI leadership, protecting federal networks, securing critical infrastructure, and more: https://t.co/XbE61vofgJ",
+   "created_at": "Sat Nov 21 05:07:10 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "HomelandGOP",
+   "rt_author_name": "House Homeland GOP",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1653409260141682688/Ca0M8xvB_normal.jpg",
+   "rt_id": "2123793315178983626",
+   "likes": 78,
+   "retweets": 31,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXk6g6FXMAAZWqx.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/XbE61vofgJ": "https://homeland.house.gov/2026/11/20/chairmen-garbarino-moolenaar-release-joint-investigative-report-urging-removal-of-prc-open-weight-models-from-federal-systems-high-risk-critical-infrastructure/",
+    "https://t.co/i5syqJipW9": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-21T14:46:28.215595+00:00",
+   "enriched": 3
+  },
+  "2124001578256359823": {
+   "id": "2124001578256359823",
+   "url": "https://x.com/theobearman/status/2124001578256359823",
+   "text": "Looped models are weird. A layer can write to itself or read from \"future\" layers.\n\n@thinkymachines gave us early access to Inkling 2 Mini so we could study its inner mechanisms. We uncover how it coordinates information flow across layers, blocks, and loops.\n\nStudying Inkling 2 Mini gave us cause for optimism: as transformers continue to evolve, we believe our ability to understand their internal mechanisms can evolve with them.\n\nRead the full post: https://t.co/kySDhcDFC2",
+   "created_at": "Sat Nov 21 04:46:52 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "GoodfireAI",
+   "rt_author_name": "Goodfire",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1892027414768910341/4VDlUa3M_normal.png",
+   "rt_id": "2123873150803100059",
+   "likes": 1303,
+   "retweets": 165,
+   "media": [
+    {
+     "type": "animated_gif",
+     "url": "https://pbs.twimg.com/tweet_video_thumb/HXmDXi7a4AAbsol.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/kySDhcDFC2": "https://www.goodfire.com/research/interpreting-inkling-2-mini/",
+    "https://t.co/WXv4awQmOv": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-21T14:46:28.215595+00:00",
+   "enriched": 3
   }
  }
 }

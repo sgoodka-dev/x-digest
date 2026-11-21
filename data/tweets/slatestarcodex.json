@@ -3272,6 +3272,37 @@
    "links": {},
    "quoted": null,
    "fetched_at": "2026-11-20T15:35:58.747413+00:00"
+  },
+  "2121057544684945771": {
+   "id": "2121057544684945771",
+   "url": "https://x.com/manlikemishap/status/2121057544684945771",
+   "text": "in denver! super fun! now scrambling to put together a response to this which is unfortuantely a bit misleading both on ccas and on unions.\n\ni'm so excited about all the energy around employee organizing and working hard to move as fast as the industry on it.\n\nthread i guess (but please forgive since written mid-hh)",
+   "created_at": "Fri Nov 13 01:48:20 +0000 2026",
+   "author_handle": "manlikemishap",
+   "author_name": "pamela mishkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2107119161424203776/7BS06lim_normal.png",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 46,
+   "retweets": 5,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2121031345657036948",
+    "author_name": "Cassie Pritchard",
+    "links": {
+     "https://t.co/ykvqZoC1ov": ""
+    },
+    "author": "hecubian_devil",
+    "text": "Strongly recommend this excellent new post from @slatestarcodex. Really thorough and persuasive analysis on the question of employee organizing for safety at the frontier labs https://t.co/ykvqZoC1ov"
+   },
+   "fetched_at": "2026-11-21T14:46:28.215595+00:00"
   }
  }
 }

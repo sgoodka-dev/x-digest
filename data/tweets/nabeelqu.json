@@ -3076,6 +3076,41 @@
    "quoted": null,
    "fetched_at": "2026-11-20T19:06:17.373366+00:00",
    "enriched": 3
+  },
+  "2123903714247499961": {
+   "id": "2123903714247499961",
+   "url": "https://x.com/nabeelqu/status/2123903714247499961",
+   "text": "While Yud is of course correct on the trivial point that solving RH indicates the level of capability that all eggsperts should be flabberghasted by, I think this is also a good time for him to reflect that the capability-safety tradeoff frontier is VERY unlike what he intuited. https://t.co/oXMNRNHmAo",
+   "created_at": "Fri Nov 20 22:18:00 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1857140980421668864/0prdKK32_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "teortaxesTex",
+   "rt_author_name": "Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞)",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1652169745037242368/KRPTShbG_normal.jpg",
+   "rt_id": "2123893047620784506",
+   "likes": 692,
+   "retweets": 40,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXmVB4qXEAA_0kB.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXmVPuLXUAA_OQC.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/oXMNRNHmAo": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-21T14:46:28.215595+00:00",
+   "enriched": 3
   }
  }
 }

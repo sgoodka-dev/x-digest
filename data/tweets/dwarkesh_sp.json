@@ -5241,6 +5241,156 @@
    "quoted": null,
    "fetched_at": "2026-11-18T22:36:15.539422+00:00",
    "enriched": 3
+  },
+  "2124060561000591562": {
+   "id": "2124060561000591562",
+   "url": "https://x.com/dwarkesh_sp/status/2124060561000591562",
+   "text": "Full episode: https://t.co/rIUHs8cGvm",
+   "created_at": "Sat Nov 21 08:41:15 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "dwarkesh_sp",
+   "reply_to_id": "2123966918688403756",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 35,
+   "retweets": 2,
+   "media": [],
+   "links": {
+    "https://t.co/rIUHs8cGvm": "https://youtu.be/Q8Fkpi18QXU?si=GQ8yA3ctSD0_fOQx"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-21T14:46:28.215595+00:00",
+   "parent": {
+    "id": "2123966918688403756",
+    "author_handle": "dwarkesh_sp",
+    "author_name": "Dwarkesh Patel",
+    "text": "When I interviewed Terry Tao in March of this year, I asked him about AI solving the Riemann hypothesis. Here's what he said:\n\n\"Part of the reason we prize problems like the Riemann hypothesis is that we’re pretty sure a new type of mathematics has to be created.\n\nWe don’t even know what the shape of the solution is, but it doesn’t feel like a problem that will be solved just by exhaustively checking cases.\"",
+    "links": {},
+    "media": [
+     {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2123966359264759808/img/ZzNybMOwtt9iGo-f.jpg"
+     },
+     {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2123966359264759808/img/ZzNybMOwtt9iGo-f.jpg"
+     }
+    ],
+    "url": "https://x.com/dwarkesh_sp/status/2123966918688403756",
+    "created_at": "Sat Nov 21 02:29:09 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2124060365713715399": {
+   "id": "2124060365713715399",
+   "url": "https://x.com/dwarkesh_sp/status/2124060365713715399",
+   "text": "@benjamin_horne Who said he's wrong?",
+   "created_at": "Sat Nov 21 08:40:28 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "benjamin_horne",
+   "reply_to_id": "2123975552147079185",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 124,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-21T14:46:28.215595+00:00",
+   "parent": {
+    "id": "2123975552147079185",
+    "author_handle": "benjamin_horne",
+    "author_name": "Ben Horne 🇺🇸",
+    "text": "\"Hi, I'm Dwarkesh. I made a lot of silly and embarrassing predictions about AI and future AI revenue because I live in the SF thought bubble (I am literally roommates with Leopold and Dylan).\n\nI especially look like a fool after what happened to AI stocks this week.\n\nSo here is a clip of someone else being wrong about something, so I can feel better about myself for a few minutes.\"",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/benjamin_horne/status/2123975552147079185",
+    "created_at": "Sat Nov 21 03:03:27 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2123966918688403756": {
+   "id": "2123966918688403756",
+   "url": "https://x.com/dwarkesh_sp/status/2123966918688403756",
+   "text": "When I interviewed Terry Tao in March of this year, I asked him about AI solving the Riemann hypothesis. Here's what he said:\n\n\"Part of the reason we prize problems like the Riemann hypothesis is that we’re pretty sure a new type of mathematics has to be created.\n\nWe don’t even know what the shape of the solution is, but it doesn’t feel like a problem that will be solved just by exhaustively checking cases.\"",
+   "created_at": "Sat Nov 21 02:29:09 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3132,
+   "retweets": 225,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2123966359264759808/img/ZzNybMOwtt9iGo-f.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/bp4lVJppHd": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-21T14:46:28.215595+00:00",
+   "thread": [
+    {
+     "id": "2124060561000591562",
+     "author_handle": "dwarkesh_sp",
+     "author_name": "Dwarkesh Patel",
+     "text": "Full episode: https://t.co/rIUHs8cGvm",
+     "links": {
+      "https://t.co/rIUHs8cGvm": "https://youtu.be/Q8Fkpi18QXU?si=GQ8yA3ctSD0_fOQx"
+     },
+     "media": [],
+     "url": "https://x.com/dwarkesh_sp/status/2124060561000591562",
+     "created_at": "Sat Nov 21 08:41:15 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2123932267483648426": {
+   "id": "2123932267483648426",
+   "url": "https://x.com/dwarkesh_sp/status/2123932267483648426",
+   "text": "I spent last weekend at the Takeoff Conference in DC, trying to get up to speed on the current state of AI policy.\n\nI compiled my learnings in this post: https://t.co/ZLjQyQGJLO",
+   "created_at": "Sat Nov 21 00:11:27 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "maxwellfarrens",
+   "rt_author_name": "Max Farrens",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1953535503518846976/6OVKgl-f_normal.jpg",
+   "rt_id": "2123830366977048874",
+   "likes": 146,
+   "retweets": 18,
+   "media": [],
+   "links": {
+    "https://t.co/ZLjQyQGJLO": "https://www.maxfarrens.com/p/the-state-of-ai-policy"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-21T14:46:28.215595+00:00",
+   "enriched": 3
   }
  }
 }

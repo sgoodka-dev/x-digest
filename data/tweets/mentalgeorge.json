@@ -4381,6 +4381,40 @@
     }
    ],
    "enriched": 3
+  },
+  "2123959949076144474": {
+   "id": "2123959949076144474",
+   "url": "https://x.com/mentalgeorge/status/2123959949076144474",
+   "text": "@YafahEdelman @_decap This one is a bit more confounded by disclosure restrictions tho",
+   "created_at": "Sat Nov 21 02:01:27 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "YafahEdelman",
+   "reply_to_id": "2123955500652056592",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-21T14:46:28.215595+00:00",
+   "parent": {
+    "id": "2123955500652056592",
+    "author_handle": "YafahEdelman",
+    "author_name": "Yafah Edelman",
+    "text": "I have now bet 10k on p vs np being solved in the next year, against @_decap’s 20k.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/YafahEdelman/status/2123955500652056592",
+    "created_at": "Sat Nov 21 01:43:47 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

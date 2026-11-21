@@ -14984,6 +14984,65 @@
    },
    "fetched_at": "2026-11-20T22:14:41.979640+00:00",
    "enriched": 3
+  },
+  "2124099308618211457": {
+   "id": "2124099308618211457",
+   "url": "https://x.com/s8mb/status/2124099308618211457",
+   "text": "Like most mathematicians, I believed the Riemann Hypothesis to be completely out of reach at present (even with the best AI tools), because I expected it to require substantial theory-building, probably in arithmetic geometry. The kind of new theory-building that fills entire books, and that AI isn't so good at yet.\n\nMathematicians have a notion of how deep a problem is. A sufficiently deep problem is generally intractable until enough of the theory is in place. If difficult problems are like valuable mineral reserves buried miles underground, you first need to build the infrastructure to reach them.\n\nWhat Levent's proof seems to have done instead is something completely different. It takes an incredibly complicated tour through the infrastructure built for a hundred other mineral reserves, situated far from the destination, and somehow create a wormhole to the original destination.\n\nThis is not theory-building in the usual sense. It is something much weirder and more alien. The best human mathematicians know how to build theory, painstakingly, to reach a goal. But no human brain, on its own, is capable of creating a wormhole that requires a 25,000 page long tour through existing infrastructure with no obvious or realistic connection to the goal. But huge credit to Levent here: I think no current AI, on its own, is capable of this either.\n\nI had never worked on or thought too much about the Riemann Hypothesis: it seemed very far removed from my own area of number theory.\n\nBut the astonishing thing about Levent's claimed proof of RH (which I think has a very good chance of being correct) is that it uses a huge number of precisely the things that are central to my own corner of number theory:\n\n- Theta functions and other automorphic forms on unitary groups\n- Gan–Gross–Prasad period formulas\n- Relative trace formulas\n\nEtc., etc.\n\nA problem that I had always assumed would require new theories in arithmetic geometry may instead turn out to be tractable through an inhuman chain of existing (deep) results in higher-rank automorphic forms (and a lot else).",
+   "created_at": "Sat Nov 21 11:15:13 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ObhishekSaha",
+   "rt_author_name": "Abhishek Saha",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1741078924820410368/xS6ZT5Ca_normal.jpg",
+   "rt_id": "2123861825750290445",
+   "likes": 5865,
+   "retweets": 593,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-21T14:46:28.215595+00:00",
+   "enriched": 3
+  },
+  "2124091182451937791": {
+   "id": "2124091182451937791",
+   "url": "https://x.com/s8mb/status/2124091182451937791",
+   "text": "This is how you know Jack is best of the best. \n\ncc @Lethain https://t.co/B80d2Folkd",
+   "created_at": "Sat Nov 21 10:42:56 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "chrisalbon",
+   "rt_author_name": "Chris Albon",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/736992518110224384/fmqQxFEr_normal.jpg",
+   "rt_id": "2123871150313005340",
+   "likes": 179,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXmBQ9mbsAAwR9N.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXmBW3RbcAAJP1h.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/B80d2Folkd": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-21T14:46:28.215595+00:00",
+   "enriched": 3
   }
  }
 }

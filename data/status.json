@@ -1,10 +1,10 @@
 {
  "last_run": {
-  "started": "2026-11-20T22:14:41.979640+00:00",
+  "started": "2026-11-21T14:46:28.215595+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 189
    },
    "add_hawk": {
@@ -19,7 +19,7 @@
    },
    "alxndrdavies": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 106
    },
    "curl_justin": {
@@ -29,18 +29,18 @@
    },
    "DaveRBanerjee": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 230
    },
    "DKokotajlo": {
     "ok": true,
-    "new": 4,
-    "total": 369
+    "new": 5,
+    "total": 374
    },
    "dwarkesh_sp": {
     "ok": true,
-    "new": 0,
-    "total": 210
+    "new": 4,
+    "total": 214
    },
    "jkcarlsmith": {
     "ok": true,
@@ -49,13 +49,13 @@
    },
    "Lewis_Bollard": {
     "ok": true,
-    "new": 0,
-    "total": 105
+    "new": 1,
+    "total": 106
    },
    "mentalgeorge": {
     "ok": true,
     "new": 1,
-    "total": 189
+    "total": 190
    },
    "ohlennart": {
     "ok": true,
@@ -64,8 +64,8 @@
    },
    "sayashk": {
     "ok": true,
-    "new": 1,
-    "total": 158
+    "new": 2,
+    "total": 160
    },
    "testingham": {
     "ok": true,
@@ -74,66 +74,70 @@
    },
    "slatestarcodex": {
     "ok": true,
-    "new": 0,
-    "total": 167
+    "new": 1,
+    "total": 168
    },
    "s8mb": {
     "ok": true,
     "new": 2,
-    "total": 634
+    "total": 636
    },
    "random_walker": {
     "ok": true,
-    "new": 4,
-    "total": 186
+    "new": 2,
+    "total": 188
    },
    "sethlazar": {
     "ok": true,
-    "new": 0,
-    "total": 396
+    "new": 2,
+    "total": 398
    },
    "robertwiblin": {
     "ok": true,
-    "new": 3,
-    "total": 489
+    "new": 1,
+    "total": 490
    },
    "deanwball": {
     "ok": true,
-    "new": 1,
-    "total": 659
+    "new": 17,
+    "total": 676
    },
    "nabeelqu": {
     "ok": true,
-    "new": 0,
-    "total": 146
+    "new": 1,
+    "total": 147
    },
    "theobearman": {
     "ok": true,
     "new": 2,
-    "total": 470
+    "total": 472
    },
    "peterwilderford": {
-    "ok": true,
-    "new": 0,
-    "total": 0
+    "ok": false,
+    "error": "twitterapi.io request failed after 3 tries: 503 Server Error: Service Unavailable for url: https://api.twitterapi.io/twitter/user/last_tweets?userName=peterwilderford&includeReplies=true"
    },
    "anton_d_leicht": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 141
    },
    "NateWitkin": {
     "ok": true,
-    "new": 4,
-    "total": 190
+    "new": 2,
+    "total": 192
    },
    "charnock_jacob": {
     "ok": true,
     "new": 0,
     "total": 8
+   },
+   "jasminewsun": {
+    "ok": true,
+    "new": 92,
+    "total": 92
    }
   },
-  "new_tweets": 27,
-  "finished": "2026-11-20T22:16:07.412670+00:00"
+  "new_tweets": 135,
+  "finished": "2026-11-21T14:54:17.290250+00:00"
  }
 }
