@@ -2516,6 +2516,39 @@
    "quoted": null,
    "fetched_at": "2026-11-14T13:38:58.849857+00:00",
    "enriched": 3
+  },
+  "2124568984343441794": {
+   "id": "2124568984343441794",
+   "url": "https://x.com/ajeya_cotra/status/2124568984343441794",
+   "text": "I'm very glad OpenAI took the step of publishing this information, and I hope other companies follow suit: perplexity is a natural metric to track and create limits around in many potential pacing regimes.",
+   "created_at": "Sun Nov 22 18:21:33 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1653845490885332995/GPWuOoqu_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 18,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2124549218995949967",
+    "author_name": "Jakub Pachocki",
+    "links": {
+     "https://t.co/XX35m5vq89": "https://openai.com/index/perplexity-and-intelligence",
+     "https://t.co/eO6hTk9ngp": ""
+    },
+    "author": "merettm",
+    "text": "We decided to provide more transparency into pretraining progress at OpenAI for the sake of moving toward shared safety bars. In “Perplexity and Intelligence” I argue for common limits based on perplexity and other measurements, with progress beyond them gated on our ability to understand AI behavior.\n\nhttps://t.co/XX35m5vq89"
+   },
+   "fetched_at": "2026-11-22T18:30:31.988254+00:00",
+   "enriched": 3
   }
  }
 }

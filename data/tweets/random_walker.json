@@ -4521,6 +4521,32 @@
    "quoted": null,
    "fetched_at": "2026-11-21T17:57:47.516124+00:00",
    "enriched": 3
+  },
+  "2124474824135258605": {
+   "id": "2124474824135258605",
+   "url": "https://x.com/random_walker/status/2124474824135258605",
+   "text": "Perhaps a good time to mention that my Tanner lectures on AI, with responses from @random_walker, Josh Cohen, Marion Fourcade and Renée Jorgensen and my reply are now out open access with Oxford University Press. So you can read about Power, Justice, and AI from a perspective that does *not* deny AI capabilities at your leisure: https://t.co/ZNjJKIf9wq",
+   "created_at": "Sun Nov 22 12:07:23 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1650881612756942850/bZYjMyFU_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "sethlazar",
+   "rt_author_name": "Seth Lazar",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "rt_id": "2124395156317282454",
+   "likes": 65,
+   "retweets": 14,
+   "media": [],
+   "links": {
+    "https://t.co/ZNjJKIf9wq": "https://academic.oup.com/book/63611"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-22T18:30:31.988254+00:00",
+   "enriched": 3
   }
  }
 }
