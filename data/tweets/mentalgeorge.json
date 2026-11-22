@@ -4575,6 +4575,30 @@
     "created_at": "Sat Nov 21 19:26:53 +0000 2026"
    },
    "enriched": 3
+  },
+  "2124302831721046253": {
+   "id": "2124302831721046253",
+   "url": "https://x.com/mentalgeorge/status/2124302831721046253",
+   "text": "@GuiveAssadi Precisely how isolationist do you want them to be?",
+   "created_at": "Sun Nov 22 00:43:57 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "",
+   "reply_to_id": "2124274267982586231",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-22T14:42:07.931500+00:00",
+   "enriched": 3
   }
  }
 }

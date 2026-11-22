@@ -13364,6 +13364,62 @@
    },
    "fetched_at": "2026-11-21T17:57:47.516124+00:00",
    "enriched": 3
+  },
+  "2124271572022095963": {
+   "id": "2124271572022095963",
+   "url": "https://x.com/theobearman/status/2124271572022095963",
+   "text": "the most aggressive predictions of ai progress from ai lab executives have been wrong, in the direction of being somewhat too conservative",
+   "created_at": "Sat Nov 21 22:39:44 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "tszzl",
+   "rt_author_name": "roon",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+   "rt_id": "2124269760800334112",
+   "likes": 2886,
+   "retweets": 146,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-22T14:42:07.931500+00:00",
+   "enriched": 3
+  },
+  "2124259245738586584": {
+   "id": "2124259245738586584",
+   "url": "https://x.com/theobearman/status/2124259245738586584",
+   "text": "The Lean FRO and Mathlib Initiative have released a joint statement on the Lean verification of the Riemann Hypothesis.\n\nOn November 20, Levent Alpöge released a proof of the Riemann Hypothesis as a Lean library of 17 million lines of code. Over the past day, the Lean and Mathlib communities worked together to verify it. The statement certifies the proof as correct and describes how it meets all necessary verification criteria.\n\nCongratulations to Levent on this achievement, and thank you to everyone in the community who contributed to the verification.\n\nFull statement: https://t.co/edxEbkodw7",
+   "created_at": "Sat Nov 21 21:50:45 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "leanprover",
+   "rt_author_name": "Lean",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1942426928256012288/RoZg5VMG_normal.png",
+   "rt_id": "2124159121645801562",
+   "likes": 27853,
+   "retweets": 5206,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXqGwBnaUAA8Pvd.png"
+    }
+   ],
+   "links": {
+    "https://t.co/edxEbkodw7": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+    "https://t.co/pYR61ZaREc": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-22T14:42:07.931500+00:00",
+   "enriched": 3
   }
  }
 }

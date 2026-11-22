@@ -1,11 +1,11 @@
 {
  "last_run": {
-  "started": "2026-11-21T20:54:36.541465+00:00",
+  "started": "2026-11-22T14:42:07.931500+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
     "new": 1,
-    "total": 190
+    "total": 191
    },
    "add_hawk": {
     "ok": true,
@@ -29,18 +29,18 @@
    },
    "DaveRBanerjee": {
     "ok": true,
-    "new": 0,
-    "total": 230
+    "new": 1,
+    "total": 231
    },
    "DKokotajlo": {
     "ok": true,
-    "new": 4,
+    "new": 0,
     "total": 378
    },
    "dwarkesh_sp": {
     "ok": true,
-    "new": 0,
-    "total": 214
+    "new": 3,
+    "total": 217
    },
    "jkcarlsmith": {
     "ok": true,
@@ -54,8 +54,8 @@
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 4,
-    "total": 195
+    "new": 1,
+    "total": 196
    },
    "ohlennart": {
     "ok": true,
@@ -74,23 +74,22 @@
    },
    "slatestarcodex": {
     "ok": true,
-    "new": 0,
-    "total": 168
+    "new": 1,
+    "total": 169
    },
    "s8mb": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 637
    },
    "random_walker": {
-    "ok": true,
-    "new": 0,
-    "total": 190
+    "ok": false,
+    "error": "twitterapi.io request failed after 3 tries: 503 Server Error: Service Unavailable for url: https://api.twitterapi.io/twitter/user/last_tweets?userName=random_walker&includeReplies=true&cursor=DAADDAABCgABHXummLrXse0KAAIdbYQMKZbRTgAIAAIAAAACCAADAAAAAAgABAAAAAAKAAUde8sdA4AnEAoABh17yx0Df9jwCwAHAAAA8EVt"
    },
    "sethlazar": {
     "ok": true,
-    "new": 0,
-    "total": 398
+    "new": 6,
+    "total": 404
    },
    "robertwiblin": {
     "ok": true,
@@ -109,13 +108,12 @@
    },
    "theobearman": {
     "ok": true,
-    "new": 0,
-    "total": 473
+    "new": 2,
+    "total": 475
    },
    "peterwilderford": {
-    "ok": true,
-    "new": 0,
-    "total": 0
+    "ok": false,
+    "error": "twitterapi.io request failed after 3 tries: 503 Server Error: Service Unavailable for url: https://api.twitterapi.io/twitter/user/last_tweets?userName=peterwilderford&includeReplies=true"
    },
    "anton_d_leicht": {
     "ok": true,
@@ -123,9 +121,8 @@
     "total": 141
    },
    "NateWitkin": {
-    "ok": true,
-    "new": 2,
-    "total": 199
+    "ok": false,
+    "error": "twitterapi.io request failed after 3 tries: 503 Server Error: Service Unavailable for url: https://api.twitterapi.io/twitter/user/last_tweets?userName=NateWitkin&includeReplies=true&cursor=DAADDAABCgABHXsQkg5bwfoKAAIdeVvxVJdBuQAIAAIAAAACCAADAAAAAAgABAAAAAAKAAUde8wmScAnEAoABh17zCZJv9jwCwAHAAAA8EVtUEM"
    },
    "charnock_jacob": {
     "ok": true,
@@ -138,7 +135,7 @@
     "total": 95
    }
   },
-  "new_tweets": 12,
-  "finished": "2026-11-21T20:58:28.569972+00:00"
+  "new_tweets": 15,
+  "finished": "2026-11-22T14:53:02.901324+00:00"
  }
 }

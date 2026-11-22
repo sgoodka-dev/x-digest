@@ -5391,6 +5391,158 @@
    "quoted": null,
    "fetched_at": "2026-11-21T14:46:28.215595+00:00",
    "enriched": 3
+  },
+  "2124322528105763182": {
+   "id": "2124322528105763182",
+   "url": "https://x.com/dwarkesh_sp/status/2124322528105763182",
+   "text": "Full episode: https://t.co/QnbLgH5MJ6",
+   "created_at": "Sun Nov 22 02:02:13 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "dwarkesh_sp",
+   "reply_to_id": "2124322444689510702",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 30,
+   "retweets": 1,
+   "media": [],
+   "links": {
+    "https://t.co/QnbLgH5MJ6": "https://www.youtube.com/watch?v=TfyPshgMbug"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-22T14:42:07.931500+00:00",
+   "parent": {
+    "id": "2124322444689510702",
+    "author_handle": "dwarkesh_sp",
+    "author_name": "Dwarkesh Patel",
+    "text": "When I interviewed Grant Sanderson in June, I asked him, if an AI (hypothetically) solves the Riemann hypothesis, how likely is it that this feat extends the human understanding of mathematics. https://t.co/p6ygkvhYeV",
+    "links": {
+     "https://t.co/p6ygkvhYeV": ""
+    },
+    "media": [
+     {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2124321986679828480/img/ZhGqpWzt3oNuJAhn.jpg"
+     },
+     {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2124321986679828480/img/ZhGqpWzt3oNuJAhn.jpg"
+     }
+    ],
+    "url": "https://x.com/dwarkesh_sp/status/2124322444689510702",
+    "created_at": "Sun Nov 22 02:01:53 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2124322444689510702": {
+   "id": "2124322444689510702",
+   "url": "https://x.com/dwarkesh_sp/status/2124322444689510702",
+   "text": "When I interviewed Grant Sanderson in June, I asked him, if an AI (hypothetically) solves the Riemann hypothesis, how likely is it that this feat extends the human understanding of mathematics. https://t.co/p6ygkvhYeV",
+   "created_at": "Sun Nov 22 02:01:53 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1380,
+   "retweets": 65,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2124321986679828480/img/ZhGqpWzt3oNuJAhn.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/p6ygkvhYeV": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-22T14:42:07.931500+00:00",
+   "thread": [
+    {
+     "id": "2124322528105763182",
+     "author_handle": "dwarkesh_sp",
+     "author_name": "Dwarkesh Patel",
+     "text": "Full episode: https://t.co/QnbLgH5MJ6",
+     "links": {
+      "https://t.co/QnbLgH5MJ6": "https://www.youtube.com/watch?v=TfyPshgMbug"
+     },
+     "media": [],
+     "url": "https://x.com/dwarkesh_sp/status/2124322528105763182",
+     "created_at": "Sun Nov 22 02:02:13 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2124313493210030562": {
+   "id": "2124313493210030562",
+   "url": "https://x.com/dwarkesh_sp/status/2124313493210030562",
+   "text": "@GaryMarcus Dwarkesh has been extremely sceptical of imminent intelligence explosions until basically the maths results. This has been extremely consistent, and it's conspicuous that he is now *updating* towards the Leopold position. There are memes about his obsession with continual learning as a bottleneck to models creating much economic value (https://t.co/oATHqZKPfH) and he has written and spoken about that and other scepticisms he has repeatedly",
+   "created_at": "Sun Nov 22 01:26:19 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "_AashishReddy",
+   "rt_author_name": "Aashish Reddy",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1741839411958947840/beQQVba9_normal.jpg",
+   "rt_id": "2124144421100822812",
+   "likes": 148,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXp32nTWsAACWrd.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXp3-1RWoAAnVi-.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXp4ev6XsAEa9mk.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXp5FzXXEAAx97a.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXp5tLsXoAAY-Yl.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/oATHqZKPfH": "https://x.com/_AashishReddy/status/2070558216551878821?a=tSPknjgmPGQ8_AcyzDI&s=20",
+    "https://t.co/o9yzoykCsd": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-22T14:42:07.931500+00:00",
+   "linked": [
+    {
+     "id": "2070558216551878821",
+     "author_handle": "_AashishReddy",
+     "author_name": "Aashish Reddy",
+     "text": "🚨 NEW: Dwarkesh thinks continual learning is a big deal\n\n(Jokes aside I think this was my favourite essay he’s written, recommended)",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/_AashishReddy/status/2070558216551878821",
+     "created_at": "Fri Jun 26 17:22:02 +0000 2026"
+    }
+   ],
+   "enriched": 3
   }
  }
 }

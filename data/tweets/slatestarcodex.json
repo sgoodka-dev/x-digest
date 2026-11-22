@@ -3303,6 +3303,40 @@
     "text": "Strongly recommend this excellent new post from @slatestarcodex. Really thorough and persuasive analysis on the question of employee organizing for safety at the frontier labs https://t.co/ykvqZoC1ov"
    },
    "fetched_at": "2026-11-21T14:46:28.215595+00:00"
+  },
+  "2124412928640319658": {
+   "id": "2124412928640319658",
+   "url": "https://x.com/slatestarcodex/status/2124412928640319658",
+   "text": "@jessi_cata @wolftivy @ohabryka I don't think I'm arguing for a pivotal act. I'm arguing that someone should solve alignment. If someone solves alignment and doesn't want a pivotal act, they have many other options, including:\n\n- Set the aligned superintelligence to harden the world against future unaligned superintelligences. This doesn't even have to be a specific act; if an aligned superintelligence controls more compute/robots/etc than an unaligned superintelligence, the unaligned superintelligence won't start a fight it can't win. If there's some kind of offense/defense issues that prevents this from working, the two AIs can bargain.\n- Tell trailing companies how to do alignment properly, so their AIs are also aligned.\n- Have the aligned superintelligence advise the government on how to prevent future unaligned superintelligences, in a way that's legal within the existing system.\n\nMy actual opinion is that if someone has an aligned superintelligence, they should ask it what to do next and follow its advice, and it will hopefully recommend the lightest-touch approach possible.",
+   "created_at": "Sun Nov 22 08:01:26 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "jessi_cata",
+   "reply_to_id": "2124314279155523773",
+   "avatar": "https://pbs.twimg.com/profile_images/378800000009065862/83d72de47e2a2470c482bc75406b42a7_normal.png",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-22T14:42:07.931500+00:00",
+   "parent": {
+    "id": "2124314279155523773",
+    "author_handle": "jessi_cata",
+    "author_name": "jessicat",
+    "text": "@wolftivy @ohabryka Scott Alexander is like that Japanese soldier who kept fighting, but for pivotal act singleton",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/jessi_cata/status/2124314279155523773",
+    "created_at": "Sun Nov 22 01:29:26 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

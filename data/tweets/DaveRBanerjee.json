@@ -5403,6 +5403,39 @@
    "quoted": null,
    "fetched_at": "2026-11-20T22:14:41.979640+00:00",
    "enriched": 3
+  },
+  "2124285674048385354": {
+   "id": "2124285674048385354",
+   "url": "https://x.com/DaveRBanerjee/status/2124285674048385354",
+   "text": "Friendly reminder that while it probably costs tens of thousands of dollars to solve the Riemann Hypothesis, within one year, we will have AIs that will be able to do the same for &lt;$20\n\nExponentials are scary",
+   "created_at": "Sat Nov 21 23:35:46 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 15,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2124159121645801562",
+    "author_name": "Lean",
+    "links": {
+     "https://t.co/edxEbkodw7": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+     "https://t.co/pYR61ZaREc": ""
+    },
+    "author": "leanprover",
+    "text": "The Lean FRO and Mathlib Initiative have released a joint statement on the Lean verification of the Riemann Hypothesis.\n\nOn November 20, Levent Alpöge released a proof of the Riemann Hypothesis as a Lean library of 17 million lines of code. Over the past day, the Lean and Mathlib communities worked together to verify it. The statement certifies the proof as correct and describes how it meets all necessary verification criteria.\n\nCongratulations to Levent on this achievement, and thank you to everyone in the community who contributed to the verification.\n\nFull statement: https://t.co/edxEbkodw7"
+   },
+   "fetched_at": "2026-11-22T14:42:07.931500+00:00",
+   "enriched": 3
   }
  }
 }
