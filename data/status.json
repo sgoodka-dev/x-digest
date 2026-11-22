@@ -1,11 +1,11 @@
 {
  "last_run": {
-  "started": "2026-11-22T18:30:31.988254+00:00",
+  "started": "2026-11-22T21:03:50.079443+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
     "new": 1,
-    "total": 192
+    "total": 193
    },
    "add_hawk": {
     "ok": true,
@@ -14,7 +14,7 @@
    },
    "ajeya_cotra": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 128
    },
    "alxndrdavies": {
@@ -35,7 +35,7 @@
    "DKokotajlo": {
     "ok": true,
     "new": 2,
-    "total": 380
+    "total": 382
    },
    "dwarkesh_sp": {
     "ok": true,
@@ -54,8 +54,8 @@
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 0,
-    "total": 196
+    "new": 6,
+    "total": 202
    },
    "ohlennart": {
     "ok": true,
@@ -69,7 +69,7 @@
    },
    "testingham": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 163
    },
    "slatestarcodex": {
@@ -79,12 +79,12 @@
    },
    "s8mb": {
     "ok": true,
-    "new": 0,
-    "total": 637
+    "new": 1,
+    "total": 638
    },
    "random_walker": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 191
    },
    "sethlazar": {
@@ -99,7 +99,7 @@
    },
    "deanwball": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 677
    },
    "nabeelqu": {
@@ -108,13 +108,13 @@
     "total": 147
    },
    "theobearman": {
-    "ok": true,
-    "new": 0,
-    "total": 475
+    "ok": false,
+    "error": "twitterapi.io request failed after 3 tries: 503 Server Error: Service Unavailable for url: https://api.twitterapi.io/twitter/user/last_tweets?userName=theobearman&includeReplies=true&cursor=DAADDAABCgABHXwbD5KbACMKAAIdeANq5VvAXAAIAAIAAAACCAADAAAAAAgABAAAAAAKAAUdfCHoIYAnEAoABh18Ieghf9jwCwAHAAAA8EVtUE"
    },
    "peterwilderford": {
-    "ok": false,
-    "error": "twitterapi.io request failed after 3 tries: 503 Server Error: Service Unavailable for url: https://api.twitterapi.io/twitter/user/last_tweets?userName=peterwilderford&includeReplies=true"
+    "ok": true,
+    "new": 0,
+    "total": 0
    },
    "anton_d_leicht": {
     "ok": true,
@@ -123,7 +123,7 @@
    },
    "NateWitkin": {
     "ok": true,
-    "new": 3,
+    "new": 0,
     "total": 202
    },
    "charnock_jacob": {
@@ -138,6 +138,6 @@
    }
   },
   "new_tweets": 10,
-  "finished": "2026-11-22T18:39:22.278072+00:00"
+  "finished": "2026-11-22T21:07:31.799604+00:00"
  }
 }

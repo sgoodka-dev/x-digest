@@ -4599,6 +4599,266 @@
    "quoted": null,
    "fetched_at": "2026-11-22T14:42:07.931500+00:00",
    "enriched": 3
+  },
+  "2124584275576053852": {
+   "id": "2124584275576053852",
+   "url": "https://x.com/mentalgeorge/status/2124584275576053852",
+   "text": "@_AashishReddy @herbiebradley fwiw i think i don't subscribe to the pretraining supremacy view - have the feeling there are many things even a pretrained GOAT model would be totally unable to do. This is all fairly half-baked, but I have some intuition you need to use RL to teach the model to \"use its own representations\" in a way that is native to it",
+   "created_at": "Sun Nov 22 19:22:18 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "_AashishReddy",
+   "reply_to_id": "2124582771397939408",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-22T21:03:50.079443+00:00",
+   "parent": {
+    "id": "2124582771397939408",
+    "author_handle": "_AashishReddy",
+    "author_name": "Aashish Reddy",
+    "text": "@herbiebradley @mentalgeorge Yeah I think that (Tom's point 5) is right, and I also take this Pretraining Supremacy view; I think of RL as some combination of eliciting latent capabilities and providing more \"data\" and such. (I'm not *completely* sure how much this actually commits one to an intelligence=compression view, I don't feel super strongly about it but it doesn't seem obvious).\n\nAlso wrt Tom's point about CoT not affecting perplexity, maybe a heuristic is something like perplexity=quality of learned representations≈intelligence per token, and then capability is a function of quality per token and how many tokens you can think for (hence test-time compute overhangs)",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/_AashishReddy/status/2124582771397939408",
+    "created_at": "Sun Nov 22 19:16:20 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2124581374388482059": {
+   "id": "2124581374388482059",
+   "url": "https://x.com/mentalgeorge/status/2124581374388482059",
+   "text": "@herbiebradley I agree - literally one of the only \"absolute commands, always follow\" I would give my superintelligent AI delegate",
+   "created_at": "Sun Nov 22 19:10:47 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "herbiebradley",
+   "reply_to_id": "2124577076464517388",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-22T21:03:50.079443+00:00",
+   "parent": {
+    "id": "2124577076464517388",
+    "author_handle": "herbiebradley",
+    "author_name": "Herbie Bradley",
+    "text": "always pick window seat https://t.co/ahoRDpHaeT",
+    "links": {
+     "https://t.co/ahoRDpHaeT": ""
+    },
+    "media": [
+     {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2124577007946338304/img/OjLvZDb9S56HqcRx.jpg"
+     },
+     {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2124577007946338304/img/OjLvZDb9S56HqcRx.jpg"
+     }
+    ],
+    "url": "https://x.com/herbiebradley/status/2124577076464517388",
+    "created_at": "Sun Nov 22 18:53:42 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2124580555333177393": {
+   "id": "2124580555333177393",
+   "url": "https://x.com/mentalgeorge/status/2124580555333177393",
+   "text": "@_AashishReddy (to be clear, i agree with you argument about it seeming continuous - i'm just interested in why Jakub seems to stress the discontinuity)",
+   "created_at": "Sun Nov 22 19:07:31 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "mentalgeorge",
+   "reply_to_id": "2124580058757021865",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-22T21:03:50.079443+00:00",
+   "parent": {
+    "id": "2124580058757021865",
+    "author_handle": "mentalgeorge",
+    "author_name": "Tom Reed",
+    "text": "@_AashishReddy Not only does Jakub see math capabilities as a sudden jump, he predicts the specific perplexity value that he thinks will lead to \"further transformative capabilities\" (~0.68-0.7).\n\nHe says he infers this \"transformative\" threshold through \"extrapolation\" - I am deeply intrigued.",
+    "links": {
+     "https://t.co/PFRo2QL915": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXwGH1EWkAEcHwU.png"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXwGMGnWcAEW4DB.png"
+     }
+    ],
+    "url": "https://x.com/mentalgeorge/status/2124580058757021865",
+    "created_at": "Sun Nov 22 19:05:33 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2124580092164903207": {
+   "id": "2124580092164903207",
+   "url": "https://x.com/mentalgeorge/status/2124580092164903207",
+   "text": "@_AashishReddy Not only does Jakub see math capabilities as a sudden jump, he predicts the specific perplexity value that he thinks will lead to \"further transformative capabilities\" (~0.68-0.7).\n\nHe says he infers this \"transformative\" threshold through \"extrapolation\" - I am deeply intrigued.",
+   "created_at": "Sun Nov 22 19:05:41 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "mentalgeorge",
+   "rt_author_name": "Tom Reed",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "rt_id": "2124580058757021865",
+   "likes": 3,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXwGH1EWkAEcHwU.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXwGMGnWcAEW4DB.png"
+    }
+   ],
+   "links": {
+    "https://t.co/PFRo2QL915": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-22T21:03:50.079443+00:00",
+   "thread": [
+    {
+     "id": "2124580555333177393",
+     "author_handle": "mentalgeorge",
+     "author_name": "Tom Reed",
+     "text": "@_AashishReddy (to be clear, i agree with you argument about it seeming continuous - i'm just interested in why Jakub seems to stress the discontinuity)",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/mentalgeorge/status/2124580555333177393",
+     "created_at": "Sun Nov 22 19:07:31 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2124580058757021865": {
+   "id": "2124580058757021865",
+   "url": "https://x.com/mentalgeorge/status/2124580058757021865",
+   "text": "@_AashishReddy Not only does Jakub see math capabilities as a sudden jump, he predicts the specific perplexity value that he thinks will lead to \"further transformative capabilities\" (~0.68-0.7).\n\nHe says he infers this \"transformative\" threshold through \"extrapolation\" - I am deeply intrigued.",
+   "created_at": "Sun Nov 22 19:05:33 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "_AashishReddy",
+   "reply_to_id": "2124578793574592725",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXwGH1EWkAEcHwU.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXwGMGnWcAEW4DB.png"
+    }
+   ],
+   "links": {
+    "https://t.co/PFRo2QL915": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-22T21:03:50.079443+00:00",
+   "parent": {
+    "id": "2124578793574592725",
+    "author_handle": "_AashishReddy",
+    "author_name": "Aashish Reddy",
+    "text": "@mentalgeorge Does he see it as a sudden jump? Obviously from before you get to the point where the human mathematics community had \"topped out\"  to after that point looks \"discontinuous\" insofar as you train models at discrete thresholds, but if you somehow had tens of models at intervals of -0.1 perplexity, it would be more obviously continuous in perplexity. And I mean, even without that,  it felt pretty continuous over the course of 2026?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/_AashishReddy/status/2124578793574592725",
+    "created_at": "Sun Nov 22 19:00:31 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2124576911909409242": {
+   "id": "2124576911909409242",
+   "url": "https://x.com/mentalgeorge/status/2124576911909409242",
+   "text": "Nice bombshellanza of a post from Jakub. Some things that stood out to me:\n\n1. Jakub seems to think that improvements in perplexity lead to discontinuous capability jumps. In particular, he views ~0.76 as a threshold in which models \"started producing groundbreaking results\" in maths. There's not enough info in the post to understand why we should understand this as a sudden jump. \n\n2. He thinks \"such a sudden transformation is plausible in deep learning research too\". \n\nBecause \"there is a long history of simple insights being missed for years\", this leads him to think it's possible that 2027 will see \"a similar avalance of fundamental pretraining advancements\". Importantly, he thinks this a separate source of acceleration independent from the familiar question of full AI R&D automation. \n\n3. He outright suggests that labs should use perplexity (and other metrics) to limit AI development beyond a certain point \"until our ability to understand and monitor AI behaivour achieves a certain concrete milestone\". He names \"development of a successor to CoT monitors\" as a plausible candidate milestone.   \n\nI have not seen someone propose perplexity as a pacing target before - in a sense, it's the kind of proposal only a Chief Scientist at a lab could credibly make. \n\nWhy use perplexity? His belief in the promise of perplexity as a governance tool is rooted in the belief that \"advances on it\" will need to \"emergence of entirely new capabilities\". \n\nThis is really striking to me - I've not seen anyone foreground the idea of \"emergent capabilities\"  since late 2024.\n\n4. In a footnote to the post, Jakub confidently says that OpenAI's acceleration in perplexity is attributed \"mostly to the outcomes of long term research and compute investments\", and \"only in a smaller part to automation\". Very interesting contrast with the METR rsi report. \n\n  5. Interestingly, Jakub seems squarely within the Pretraining-Supremacy school of thought: he characterises RL as simply eliciting latent capabilities of a model (and thus puts it in the same class as \"prompting\"). Pretraining fundamentally is the thing that creates the \"intelligence substrate\" of a model. \n\nOverall, I find this post highly perplexing (i literally would have predicted few of these tokens in advance). \n\nAbove all, I'm a little sus of a metric that says \"GPT-4.5 is 'smarter' than o3\". The fact that \"chain-of-thought reasoning does not reduce perplexity achieved by the model\" similarly should be a bit of red flag. \n\nIf I absolutely had to guess, I'd say that perplexity doesn't do a good job of tracking capabilities relevant to take-over or other catastrophe (since models with improved perplexity might still lack important improvisational skills, just look at how Navier Stokes-solving models do at simple Epoch work tasks). \n\nIt's most useful in worlds where you're worried about being ambushed by \"emergent capabilities\" - I need to think about this more.",
+   "created_at": "Sun Nov 22 18:53:03 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 16,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXwAyMtW0AAA0jS.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXwB4NTWAAASYWV.png"
+    }
+   ],
+   "links": {
+    "https://t.co/ALERQIR4p0": ""
+   },
+   "quoted": {
+    "id": "2124549218995949967",
+    "author_name": "Jakub Pachocki",
+    "links": {
+     "https://t.co/XX35m5vq89": "https://openai.com/index/perplexity-and-intelligence",
+     "https://t.co/eO6hTk9ngp": ""
+    },
+    "author": "merettm",
+    "text": "We decided to provide more transparency into pretraining progress at OpenAI for the sake of moving toward shared safety bars. In “Perplexity and Intelligence” I argue for common limits based on perplexity and other measurements, with progress beyond them gated on our ability to understand AI behavior.\n\nhttps://t.co/XX35m5vq89"
+   },
+   "fetched_at": "2026-11-22T21:03:50.079443+00:00",
+   "enriched": 3
   }
  }
 }

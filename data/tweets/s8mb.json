@@ -15088,6 +15088,38 @@
     "created_at": "Fri Nov 20 17:19:10 +0000 2026"
    },
    "enriched": 3
+  },
+  "2124581801188618543": {
+   "id": "2124581801188618543",
+   "url": "https://x.com/s8mb/status/2124581801188618543",
+   "text": "Such a pity that cleaning costs went up.",
+   "created_at": "Sun Nov 22 19:12:28 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 19,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2124320607625998724",
+    "author_name": "Micah Springut",
+    "links": {
+     "https://t.co/JqMcL4uXuv": ""
+    },
+    "author": "mspringut",
+    "text": "Perpendicular Gothic, the third and final style of medieval English Gothic. https://t.co/JqMcL4uXuv"
+   },
+   "fetched_at": "2026-11-22T21:03:50.079443+00:00",
+   "enriched": 3
   }
  }
 }
