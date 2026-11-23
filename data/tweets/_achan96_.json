@@ -4484,6 +4484,89 @@
    "quoted": null,
    "fetched_at": "2026-11-22T21:03:50.079443+00:00",
    "enriched": 3
+  },
+  "2124926696113709216": {
+   "id": "2124926696113709216",
+   "url": "https://x.com/_achan96_/status/2124926696113709216",
+   "text": "some thoughts on perplexity and intelligence\n\n1) jakub pachocki wrote a blog post in which he argues that pretraining cross-entropy loss would be a good metric to use for pacing\n\n2) in the process, jakub says that we should think about ai development primarily as training a compressor and then doing elicitation over their compressor\n\n3) pretraining, midtraining are training the compressor and then sft, reinforcement learning and prompting are means of eliciting capabilities in the compressor\n\n4) this doesn't seem to me to be an unusual view; i tend to think that you should think of better pretrains as allowing for more sample efficient rl \n\n5) and, this is speculation, but i can imagine that what jakub has seen is that you can apply similar post-training regimes to different pretrains\n\n6) and pretrains with lower cross-entropy loss plateau later and end up with higher benchmark scores; even with the same post-training applied\n\n7) i can see how if you saw this, you would think of post training as a kind of elicitation; and, you would think of better pretraining as creating emergent capabilities\n\n8) because, you don't actually know how sample efficient a new pretrain will be or where it will plateau until you do that post-training on top\n\n9) in the blog post, jakub also shares the cross entropy loss on openai's internal code base of their models over time; and we can see some interesting stuff\n\n10) one is that o1 used the base base model as 4o and o3 used the same as 4.1; and 4.1 might have been a continued pretrain or midtrain of 4o\n\n11) next, gpt-4.5 was an outlier that was not surpassed until gpt-5.5, which was released about a year later; the rumors are the model was too big for easy post-training\n\n12) i do wonder if the success on o1 and o3 caused openai to focus more research effort on post-training than they should have\n\n13) the rumor has been that anthropic has better pretraining and openai had better post-training; this might be in part due to differential research investment\n\n14) since, we have to explain how anthropic has remained competitive or even pulled ahead of openai with less total compute available to them\n\n15) one way to explain this could be that openai made worse research bets than anthropic or otherwise failed to execute well on them\n\n16) and, if it is the former, then one idea could be that openai bet too much of its research budget on post-training and spent comparatively less on pretraining\n\n17) but, pretraining was comparatively more important and this enabled anthropic to keep up and surpass openai with less total compute available to them\n\n18) the other thing just to say is that openai has been extremely transparent with respect to rsi metrics when compared with anthropic\n\n19) the two research acceleration blog posts and this blog post are our best sources of information; anthropic has been less forthcoming \n\n20) and, i think that if anthropic would like to be serious about a race to the top then it is incumbent on them to release just as much information as openai, if not more\nhttps://t.co/LTZ3gVkgcZ",
+   "created_at": "Mon Nov 23 18:02:58 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "fleetingbits",
+   "rt_author_name": "FleetingBits",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1905042879460069376/XLCyb9Cr_normal.jpg",
+   "rt_id": "2124765867510731198",
+   "likes": 193,
+   "retweets": 11,
+   "media": [],
+   "links": {
+    "https://t.co/LTZ3gVkgcZ": "https://openai.com/index/perplexity-and-intelligence/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124925803561734422": {
+   "id": "2124925803561734422",
+   "url": "https://x.com/_achan96_/status/2124925803561734422",
+   "text": "Introducing GLM-5.4: Generalized Coding with Our First Loop Transformer.\n\n- Loops existing layers in the GLM-5 base model for deeper reasoning\n- Pushes beyond traditional coding to video, games, 3D shaders, and CAD modeling\n- Adds vision capabilities for stronger visual coding\n\nAPI access will open after safety evaluation. Model weights will be released responsibly.\n\nTech Blog: https://t.co/dQrbKoamcN",
+   "created_at": "Mon Nov 23 17:59:25 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "Zai_org",
+   "rt_author_name": "Z.ai",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1970775077181411328/W8XKaUIh_normal.jpg",
+   "rt_id": "2124811995912286352",
+   "likes": 9472,
+   "retweets": 901,
+   "media": [],
+   "links": {
+    "https://t.co/dQrbKoamcN": "http://z.ai/blog/glm-5.4"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124768189456298468": {
+   "id": "2124768189456298468",
+   "url": "https://x.com/_achan96_/status/2124768189456298468",
+   "text": "We fully support OpenAI's transparency initiative. Thanks to @merettm @markchen90 @gdb @sama for leading the way. \n\nWe all got into this field to build safe AGI that is genuinely good for humanity. One of the hardest parts of AI safety is coordination, and this is a step in the right direction. Many more steps like this will be needed to deliver safe, contained, and aligned AGI in the next few years.\n\nWe're committed to sharing our pre-training progress on a common held-out evaluation set. With OpenAI's permission, we report MAI-2 Base on their evaluation set. Its log-perplexity is 0.819, putting it in the same ballpark as the GPT-5.6 Sol base model. Our model uses the same tokenizer as OpenAI, so the numbers are directly comparable. \n\nIn the future, to be able to compare across labs we might need to report bits-per-byte (BPB) rather than perplexity since different labs use different tokenizers. We will also need different evaluation datasets - the fact we have access to OpenAI's evaluation dataset is a special case.\n\nSafety and alignment is now the mission. It's the absolute number one most important focus for our industry. And it begins with small, practical steps like these towards better coordination on pacing.",
+   "created_at": "Mon Nov 23 07:33:07 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "mustafasuleyman",
+   "rt_author_name": "Mustafa Suleyman",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1927407622602276864/c_5uOZij_normal.jpg",
+   "rt_id": "2124663594449318173",
+   "likes": 1896,
+   "retweets": 163,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXxSM_zaAAEJIvP.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/1NbJyxWZtG": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
   }
  }
 }

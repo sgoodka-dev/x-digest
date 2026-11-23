@@ -3111,6 +3111,30 @@
    "quoted": null,
    "fetched_at": "2026-11-21T14:46:28.215595+00:00",
    "enriched": 3
+  },
+  "2124919533270192213": {
+   "id": "2124919533270192213",
+   "url": "https://x.com/nabeelqu/status/2124919533270192213",
+   "text": "It appears Jensen Huang is worth 3 trillion Riemann hypotheses",
+   "created_at": "Mon Nov 23 17:34:30 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1857140980421668864/0prdKK32_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 108,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
   }
  }
 }

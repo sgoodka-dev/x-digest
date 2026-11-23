@@ -3250,6 +3250,33 @@
     "created_at": "Wed Nov 18 21:52:00 +0000 2026"
    },
    "enriched": 3
+  },
+  "2124900180222959760": {
+   "id": "2124900180222959760",
+   "url": "https://x.com/jasminewsun/status/2124900180222959760",
+   "text": "If you haven't done so yet, you should be following @afrazhaowang and reading her writing, including this piece in the New Yorker https://t.co/lQLjYqHZYj and this in NYMag https://t.co/llVfHxurzP. The freshest and original reporting on China and tech anyone is doing these days.",
+   "created_at": "Mon Nov 23 16:17:36 +0000 2026",
+   "author_handle": "jasminewsun",
+   "author_name": "jasmine sun",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2037713921318977536/wMVGhc0D_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "TheStalwart",
+   "rt_author_name": "Joe Weisenthal",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2066048089908199424/0iHOXOcE_normal.jpg",
+   "rt_id": "2124836534365135096",
+   "likes": 260,
+   "retweets": 33,
+   "media": [],
+   "links": {
+    "https://t.co/lQLjYqHZYj": "https://www.newyorker.com/news/the-lede/what-chinas-vibe-coding-capital-can-tell-us-about-the-ai-boom",
+    "https://t.co/llVfHxurzP": "https://nymag.com/intelligencer/article/china-ai-learning-craze.html"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
   }
  }
 }

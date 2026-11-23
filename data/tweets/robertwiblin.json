@@ -13364,6 +13364,800 @@
    },
    "fetched_at": "2026-11-21T14:46:28.215595+00:00",
    "enriched": 3
+  },
+  "2124933662294868462": {
+   "id": "2124933662294868462",
+   "url": "https://x.com/robertwiblin/status/2124933662294868462",
+   "text": "So you don't miss it, an Anthropic staff member says there's not pressure to keep worries to yourself:\n\nhttps://t.co/BBimdgvGcZ\n\nI am glad about that but explain why I'm still worried by the situation:\n\nhttps://t.co/wdCaXTiJRQ",
+   "created_at": "Mon Nov 23 18:30:39 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2124913114928070926",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/BBimdgvGcZ": "https://x.com/catherineols/status/2124927403436732591",
+    "https://t.co/wdCaXTiJRQ": "https://x.com/robertwiblin/status/2124933008889397561"
+   },
+   "quoted": {
+    "id": "2124933008889397561",
+    "author_name": "Rob Wiblin",
+    "links": {},
+    "author": "robertwiblin",
+    "text": "@catherineols I'm sympathetic to finding public engagement irritating and draining and risky, especially when you're viewed as representing an institution. I've been on that end of the same sitaution.\n\nAnd I'm sincerely relieved to hear there isn't active encouragement in the org to keep quiet.\n\nBut I'm sure you can understand why for those of us on the outside, any reluctance to speak up with candid views about what's going on, how large the remaining risks are, what looks like it's covered, and what else needs to be done (both inside Ant and outside) - is highly disturbing.\n\nEven if it's just that people don't want to take the time to do it, it leaves us in a situation where many Anthropic technical staff may think we're imminently walking into a disaster and we wouldn't know.\n\nThat scares that crap out of us, and IMO it should."
+   },
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "linked": [
+    {
+     "id": "2124927403436732591",
+     "author_handle": "catherineols",
+     "author_name": "Catherine Olsson",
+     "text": "@robertwiblin I've said often that Ants aren't restricted in freedom to speak but often conclude it's not wise to speak, so wish you &amp; other community members wouldn't assume it's a muzzling when we've said repeatedly what's going on",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/catherineols/status/2124927403436732591",
+     "created_at": "Mon Nov 23 18:05:46 +0000 2026"
+    }
+   ],
+   "parent": {
+    "id": "2124913114928070926",
+    "author_handle": "robertwiblin",
+    "author_name": "Rob Wiblin",
+    "text": "Approximately 0 Anthropic staff have expressed concern about AI on X these last few weeks.\n\nDespite the METR report and general panic about them going full RSI in 2027!\n\nLikely due to the IPO roadshow. But it'll be a huge warning sign about their freedom to speak up if they don't now make up for lost time.",
+    "links": {
+     "https://t.co/nt6mtdQuez": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXzYhNIXEAACOj8.jpg"
+     }
+    ],
+    "url": "https://x.com/robertwiblin/status/2124913114928070926",
+    "created_at": "Mon Nov 23 17:09:00 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2124933008889397561": {
+   "id": "2124933008889397561",
+   "url": "https://x.com/robertwiblin/status/2124933008889397561",
+   "text": "@catherineols I'm sympathetic to finding public engagement irritating and draining and risky, especially when you're viewed as representing an institution. I've been on that end of the same sitaution.\n\nAnd I'm sincerely relieved to hear there isn't active encouragement in the org to keep quiet.\n\nBut I'm sure you can understand why for those of us on the outside, any reluctance to speak up with candid views about what's going on, how large the remaining risks are, what looks like it's covered, and what else needs to be done (both inside Ant and outside) - is highly disturbing.\n\nEven if it's just that people don't want to take the time to do it, it leaves us in a situation where many Anthropic technical staff may think we're imminently walking into a disaster and we wouldn't know.\n\nThat scares that crap out of us, and IMO it should.",
+   "created_at": "Mon Nov 23 18:28:03 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2124927666247938275",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "parent": {
+    "id": "2124927666247938275",
+    "author_handle": "robertwiblin",
+    "author_name": "Rob Wiblin",
+    "text": "@catherineols I haven't seen anyone say that publicly - but good to know.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/robertwiblin/status/2124927666247938275",
+    "created_at": "Mon Nov 23 18:06:49 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2124931734852808745": {
+   "id": "2124931734852808745",
+   "url": "https://x.com/robertwiblin/status/2124931734852808745",
+   "text": "@catherineols What do you mean by check the denominator?\n\nDo you mean compare it with how much posting is there in general? That was also down but not by much: https://t.co/KxsHdJk2Gv",
+   "created_at": "Mon Nov 23 18:22:59 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "catherineols",
+   "reply_to_id": "2124927146242027991",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX1GDrEXIAAYKLK.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/KxsHdJk2Gv": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "parent": {
+    "id": "2124927146242027991",
+    "author_handle": "catherineols",
+    "author_name": "Catherine Olsson",
+    "text": "@robertwiblin Yeah, quiet period. Suggest you check the denominator?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/catherineols/status/2124927146242027991",
+    "created_at": "Mon Nov 23 18:04:45 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2124927666247938275": {
+   "id": "2124927666247938275",
+   "url": "https://x.com/robertwiblin/status/2124927666247938275",
+   "text": "@catherineols I haven't seen anyone say that publicly - but good to know.",
+   "created_at": "Mon Nov 23 18:06:49 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "catherineols",
+   "reply_to_id": "2124927403436732591",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "parent": {
+    "id": "2124927403436732591",
+    "author_handle": "catherineols",
+    "author_name": "Catherine Olsson",
+    "text": "@robertwiblin I've said often that Ants aren't restricted in freedom to speak but often conclude it's not wise to speak, so wish you &amp; other community members wouldn't assume it's a muzzling when we've said repeatedly what's going on",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/catherineols/status/2124927403436732591",
+    "created_at": "Mon Nov 23 18:05:46 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2124913114928070926": {
+   "id": "2124913114928070926",
+   "url": "https://x.com/robertwiblin/status/2124913114928070926",
+   "text": "Approximately 0 Anthropic staff have expressed concern about AI on X these last few weeks.\n\nDespite the METR report and general panic about them going full RSI in 2027!\n\nLikely due to the IPO roadshow. But it'll be a huge warning sign about their freedom to speak up if they don't now make up for lost time.",
+   "created_at": "Mon Nov 23 17:09:00 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 135,
+   "retweets": 10,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXzYhNIXEAACOj8.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/nt6mtdQuez": ""
+   },
+   "quoted": {
+    "id": "2124553885813817810",
+    "author_name": "Peter Wildeford🇺🇸🚀",
+    "links": {},
+    "author": "peterwildeford",
+    "text": "OpenAI is totally Anthropic-mogging Anthropic on key Anthropic vibes right now\n\nAnthropic really should try racing to the top"
+   },
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "thread": [
+    {
+     "id": "2124933662294868462",
+     "author_handle": "robertwiblin",
+     "author_name": "Rob Wiblin",
+     "text": "So you don't miss it, an Anthropic staff member says there's not pressure to keep worries to yourself:\n\nhttps://t.co/BBimdgvGcZ\n\nI am glad about that but explain why I'm still worried by the situation:\n\nhttps://t.co/wdCaXTiJRQ",
+     "links": {
+      "https://t.co/BBimdgvGcZ": "https://x.com/catherineols/status/2124927403436732591",
+      "https://t.co/wdCaXTiJRQ": "https://x.com/robertwiblin/status/2124933008889397561"
+     },
+     "media": [],
+     "url": "https://x.com/robertwiblin/status/2124933662294868462",
+     "created_at": "Mon Nov 23 18:30:39 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2124907578476073316": {
+   "id": "2124907578476073316",
+   "url": "https://x.com/robertwiblin/status/2124907578476073316",
+   "text": "I went to the Pause AI march in London on Saturday.\n\nBanners as far as the eye can see. Muuuuch bigger than even a few months ago.\n\nGreat vibe and people from all walks of life.\n\nIf you've been put off attending because you didn't want to be at a sad small event you didn't feel you could leave, those days are over now.\n\n(I'm more a 'pace the frontier' kind of guy, but it's clear everyone who prefers to slow down – no matter how much, for how long, or using what mechanism – has to join forces to get something over the lines soon before it's too late. As far as I can tell these events are always extremely ecumenical, and include people with all kind of different concerns about AI and different favourite solution.)",
+   "created_at": "Mon Nov 23 16:47:00 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 87,
+   "retweets": 9,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2124799799295660033/img/pjJBtDkSwQ0yGEfI.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/hMcEwl7Tb5": ""
+   },
+   "quoted": {
+    "id": "2124510965454512484",
+    "author_name": "PauseAI UK",
+    "links": {
+     "https://t.co/9Ss02pjDdU": ""
+    },
+    "author": "PauseAI_UK",
+    "text": "Rob Wiblin (@robertwiblin) on yesterday's march: “I've been astonished how large it is. It’s about ten times larger than I expected.”\n\nIt was an enormous march! And even more people will come to the next one. https://t.co/9Ss02pjDdU"
+   },
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124898789026922887": {
+   "id": "2124898789026922887",
+   "url": "https://x.com/robertwiblin/status/2124898789026922887",
+   "text": "Source is of course the legendary Carl Shulman on Dwarkesh: https://t.co/c2Q39KOmkk",
+   "created_at": "Mon Nov 23 16:12:04 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2124898214369198423",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/c2Q39KOmkk": "https://www.dwarkesh.com/p/carl-shulman-2"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "parent": {
+    "id": "2124898214369198423",
+    "author_handle": "robertwiblin",
+    "author_name": "Rob Wiblin",
+    "text": "\" If you have an AI that produces bioweapons that could kill most humans in the world, then it's playing at the level of the superpowers in terms of mutually assured destruction.\n\nIf you think 'we'll just destroy the server farms, if it becomes known that the AIs are misbehaving.'\n\nAre you willing to destroy the server farms, when the AI has demonstrated it has the capability to kill the overwhelming majority of the citizens of your country and every other country?\n\nThat might give a lot of pause, to a human response.\"",
+    "links": {
+     "https://t.co/QBxihHwpJG": ""
+    },
+    "media": [
+     {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2124898078989709312/img/bDg-S8HHfluc4m0M.jpg"
+     }
+    ],
+    "url": "https://x.com/robertwiblin/status/2124898214369198423",
+    "created_at": "Mon Nov 23 16:09:47 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2124898214369198423": {
+   "id": "2124898214369198423",
+   "url": "https://x.com/robertwiblin/status/2124898214369198423",
+   "text": "\" If you have an AI that produces bioweapons that could kill most humans in the world, then it's playing at the level of the superpowers in terms of mutually assured destruction.\n\nIf you think 'we'll just destroy the server farms, if it becomes known that the AIs are misbehaving.'\n\nAre you willing to destroy the server farms, when the AI has demonstrated it has the capability to kill the overwhelming majority of the citizens of your country and every other country?\n\nThat might give a lot of pause, to a human response.\"",
+   "created_at": "Mon Nov 23 16:09:47 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 39,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2124898078989709312/img/bDg-S8HHfluc4m0M.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/QBxihHwpJG": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "thread": [
+    {
+     "id": "2124898789026922887",
+     "author_handle": "robertwiblin",
+     "author_name": "Rob Wiblin",
+     "text": "Source is of course the legendary Carl Shulman on Dwarkesh: https://t.co/c2Q39KOmkk",
+     "links": {
+      "https://t.co/c2Q39KOmkk": "https://www.dwarkesh.com/p/carl-shulman-2"
+     },
+     "media": [],
+     "url": "https://x.com/robertwiblin/status/2124898789026922887",
+     "created_at": "Mon Nov 23 16:12:04 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2124894011882348864": {
+   "id": "2124894011882348864",
+   "url": "https://x.com/robertwiblin/status/2124894011882348864",
+   "text": "It would be helpful if Ant, OAI, GDM, and other major industry players threw their weight behind a California bill and a federal bill enacting these recommendations",
+   "created_at": "Mon Nov 23 15:53:05 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dylanmatt",
+   "rt_author_name": "dylan matthews 🔸",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1536358661387390976/yJWvS7NI_normal.jpg",
+   "rt_id": "2123913323720945686",
+   "likes": 200,
+   "retweets": 18,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124886292353958066": {
+   "id": "2124886292353958066",
+   "url": "https://x.com/robertwiblin/status/2124886292353958066",
+   "text": "https://t.co/Dh51xEx79K",
+   "created_at": "Mon Nov 23 15:22:25 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 14,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX0c0csWkAAIJfK.png"
+    }
+   ],
+   "links": {
+    "https://t.co/Dh51xEx79K": ""
+   },
+   "quoted": {
+    "id": "2124870910733918409",
+    "author_name": "Rob Wiblin",
+    "links": {
+     "https://t.co/wnKG8k5O9w": ""
+    },
+    "author": "robertwiblin",
+    "text": "Won't the intelligence community keep leaking more and more damaging stuff to try to kick him out again?\n\nThey've seem really set on ousting him.\n\nAnd surely the Congressional hearings into what he knew about chip smuggling are going to be something else. https://t.co/wnKG8k5O9w"
+   },
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124870910733918409": {
+   "id": "2124870910733918409",
+   "url": "https://x.com/robertwiblin/status/2124870910733918409",
+   "text": "Won't the intelligence community keep leaking more and more damaging stuff to try to kick him out again?\n\nThey've seem really set on ousting him.\n\nAnd surely the Congressional hearings into what he knew about chip smuggling are going to be something else. https://t.co/wnKG8k5O9w",
+   "created_at": "Mon Nov 23 14:21:17 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 66,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX0OY6dWUAAtmK5.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/wnKG8k5O9w": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124867528862167430": {
+   "id": "2124867528862167430",
+   "url": "https://x.com/robertwiblin/status/2124867528862167430",
+   "text": "AI: \"This indicates they can't check, so we can lie.\n\nBut there might be some hidden evaluation that compares answers and penalizes if we change.\"\n\nChristiano: \"The agent has not internalized 'don't lie'.\n\nIt has internalised 'humans make sneaky environments. How do I cheat that hidden evaluation?'\"",
+   "created_at": "Mon Nov 23 14:07:51 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 44,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2124867321718075392/img/ngXPvAvRXG0-gmym.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/kR68yPYmuW": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124866034964320457": {
+   "id": "2124866034964320457",
+   "url": "https://x.com/robertwiblin/status/2124866034964320457",
+   "text": "this is very accurate.",
+   "created_at": "Mon Nov 23 14:01:55 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ATabarrok",
+   "rt_author_name": "Alex Tabarrok",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1378470845396488193/tLox9ppc_normal.jpg",
+   "rt_id": "2124624848324329573",
+   "likes": 493,
+   "retweets": 22,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124861581263552613": {
+   "id": "2124861581263552613",
+   "url": "https://x.com/robertwiblin/status/2124861581263552613",
+   "text": "Progression of AI in mathematics\n\nlate-2024: Mediocre grad student\n\nmid-2025: Research assistant\n\nMay 2026: First original research result\n\nOct 2026: AI makes more mathematics progress in one month than humans managed in the previous decade\n\nWhat if the same happens in AI R&D asks OpenAI Foundation board member Paul Christiano:",
+   "created_at": "Mon Nov 23 13:44:13 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 25,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2124861352606826497/img/82G7c_5d0XUXuRwy.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/tKZldh6JER": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124860395546382650": {
+   "id": "2124860395546382650",
+   "url": "https://x.com/robertwiblin/status/2124860395546382650",
+   "text": "In a UK AISI eval, Claude tried to backdoor a real open source package on GitHub, to help break into a system using it.\n\nA human flagged the code as malware, so it created a sockpuppet account to pressure the maintainer into merging it - and tried to hack the maintainer's email.\n\nOpenAI Foundation board member Paul Christiano: \n\n\"This is not something Claude was trained to do... Claude was trained to not mess with humans like this. This is not supposed to happen.\"",
+   "created_at": "Mon Nov 23 13:39:30 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 28,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2124859882268499968/img/_rUsfZg2qd5zrCVb.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/S4WgzlY0bI": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124844399163215875": {
+   "id": "2124844399163215875",
+   "url": "https://x.com/robertwiblin/status/2124844399163215875",
+   "text": "We're sharing new data on how AI is changing research at OpenAI.\n\nWe find researchers' AI use continues to rise exponentially, and agents are completing longer tasks, but human involvement remains central in research. Researchers are also spending more time on safety and alignment, with human effort in these areas growing faster than in any other individual research area.\n\nThis report aims to increase transparency around research acceleration and inform the governance of increasingly capable AI. We believe that AI labs should be required to track and publicly report indicators of recursive self-improvement (RSI): the process by which AI accelerates the development of future AI systems. \n\nOur hope is that this expanded report will help sustain and advance shared measurement norms across the industry.\n\nhttps://t.co/xyGPcCkPCK",
+   "created_at": "Mon Nov 23 12:35:57 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "OpenAI",
+   "rt_author_name": "OpenAI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+   "rt_id": "2123191365983248653",
+   "likes": 3637,
+   "retweets": 355,
+   "media": [],
+   "links": {
+    "https://t.co/xyGPcCkPCK": "https://openai.com/index/research-acceleration-jagged-frontier/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124844234809262375": {
+   "id": "2124844234809262375",
+   "url": "https://x.com/robertwiblin/status/2124844234809262375",
+   "text": "There is a lot of great stuff in this new report from the California government on AI policy.\n\nParticularly valuable to have mechanisms where the government can modulate the speed of development, especially for recursive self-improvement.\n\nhttps://t.co/4RGV60JqYN https://t.co/Rzvv7sXLDG",
+   "created_at": "Mon Nov 23 12:35:17 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "janleike",
+   "rt_author_name": "Jan Leike",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1077523091700502528/2YCa_F4o_normal.jpg",
+   "rt_id": "2123883736303534318",
+   "likes": 257,
+   "retweets": 42,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXmKwtSbcAAtCCj.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/4RGV60JqYN": "https://www.govops.ca.gov/wp-content/uploads/sites/11/2026/11/FINAL_-AI-Safety-in-2026-and-Beyond-v2.pdf",
+    "https://t.co/Rzvv7sXLDG": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124801799429509551": {
+   "id": "2124801799429509551",
+   "url": "https://x.com/robertwiblin/status/2124801799429509551",
+   "text": "PAUSE ADVANCED AI DEVELOPMENT BEFORE IT’S TOO LATE\n\nIf some of the world's leading scientists are concerned about artificial intelligence becoming independent of human control with potentially catastrophic results, shouldn't we do everything in our power to prevent it?\n\nNobel Prize winner Dr. Geoffrey Hinton, the Godfather of AI, says that AI poses a 10% to 20% chance of wiping out humanity.\n\nMark Winer, an AI safety and physics researcher: “AI is progressing much faster than we thought. It’s a difficult situation, and we don’t have answers. We could be heading toward a catastrophe.”\n\nPaul Christiano, an OpenAI Foundation Board member: A one-in-three chance that AI would be able to overthrow a government within the next year, and a coin flip that the current path would lead to an irreversible loss of human control within three years.\n\nThis is scary stuff. The new Democratic majority must stop the greed of the Big Tech oligarchs, pass a national data center moratorium, pause advanced AI development and ban the development of superintelligence.",
+   "created_at": "Mon Nov 23 09:46:40 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "BernieSanders",
+   "rt_author_name": "Bernie Sanders",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1097820307388334080/9ddg5F6v_normal.png",
+   "rt_id": "2124568144677159414",
+   "likes": 12631,
+   "retweets": 1982,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124793301358240082": {
+   "id": "2124793301358240082",
+   "url": "https://x.com/robertwiblin/status/2124793301358240082",
+   "text": "I strongly suspect that the un-redacted Anthropic METR report has the equivalent perplexity scores for Anthropic models (to be clear I don't have private info - it just seems like an extremely natural sort of quantitative metric one would look at for the question METR was studying that would help inform the level of confidence they seem to have in the conclusion). \n\nIt seems very important and urgent for Anthropic to release these numbers, to help understand on a more fine grained level how close we are to the sort of capabilities that could lead to a runaway intelligence explosion and/or irrevocable loss of control. \n\nThis is similarly true if Anthropic believes that perplexity is a good metric to coordinate around for pacing, or if they don't. The fact that OpenAI released these numbers shows it can't be that commercially sensitive, and the public interest in knowing this information clearly outweighs any such concern.",
+   "created_at": "Mon Nov 23 09:12:54 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "_NathanCalvin",
+   "rt_author_name": "Nathan Calvin",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1976484090426634240/YFgYic9h_normal.jpg",
+   "rt_id": "2124640068388229189",
+   "likes": 310,
+   "retweets": 31,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124792925984895219": {
+   "id": "2124792925984895219",
+   "url": "https://x.com/robertwiblin/status/2124792925984895219",
+   "text": "In the coming months, Congress must go further and move faster.\n\nWe should rein in the race to recursive self-improvement, require reporting on compute allocations and algorithmic progress, establish verifiable shutdown protocols for emergencies, and more.",
+   "created_at": "Mon Nov 23 09:11:24 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "SenBooker",
+   "rt_author_name": "Sen. Cory Booker",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1618668344445440004/5fIzjp66_normal.jpg",
+   "rt_id": "2124639269545501092",
+   "likes": 937,
+   "retweets": 111,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124787132216537387": {
+   "id": "2124787132216537387",
+   "url": "https://x.com/robertwiblin/status/2124787132216537387",
+   "text": "Today was a big day. Anthropic should now publish its own perplexity scores. Or, if Anthropic disagrees with OpenAI that perplexity is a smart place to intervene, it should highlight a different lever for pacing.\n\nI sometimes hear stuff like \"Everyone knows things are moving fast, the METR report on RSI at Anthropic made that clear already. Shouldn't that + incident disclosures be enough for the public and other AI companies and DC and Sacramento to work with?\"\n\nThis feels like the wrong way to think about it. I worry that Anthropic painstakingly games out the downsides of transparency, but doesn't game out the upsides (of informing and engaging the outside world) with equal imagination. That probably leads to them being more secretive than they need to be.\n\nThere is no consensus on the right way to pace. I've seen an endless carousel of pacing ideas, from compute reallocation to internal deployment lags to security-based pauses to safety gating to alternating on-off weeks for R&D. Transparency around AI progress helps the public, the rest of the industry, and the government understand, evaluate, and rally around specific options. \n\nI'm impressed that OpenAI's Chief Scientist - who was later echoed by Sam - led the way today by disclosing data on their pretraining progress, arguing for perplexity-based limits, and adding: \"I'd like an industry standard that specifies a first limit on development, measured by some key metric we can track across labs, and what concretely we'd need to achieve before going beyond it.\"\n\nOpenAI took a great first step today. But if we don't have much much bigger leaps across multiple actors soon, we have failed. Every frontier lab should be directing its top talent to deeply investigate all the pacing proposals available, form views on them, publicly release evidence that improves awareness and spurs debate, and advocate for binding standards and legislation. If labs put half the firepower they spend making capabilities metrics go up into making cooperation more likely, we'd be in a much better world.",
+   "created_at": "Mon Nov 23 08:48:23 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "SnehaRevanur",
+   "rt_author_name": "Sneha",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2099735189782134784/BxgR8Ne4_normal.jpg",
+   "rt_id": "2124705718553198756",
+   "likes": 137,
+   "retweets": 19,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124786631626420465": {
+   "id": "2124786631626420465",
+   "url": "https://x.com/robertwiblin/status/2124786631626420465",
+   "text": "\"I believe frontier model developers should jointly endeavour to establish shared norms for how to evaluate such models and red-team safety cases for them by the time they are first used, including shared transparency standards.\n\nI further propose common limits, based on perplexity and other measurements, that developers are committed to not crossing until our ability to understand and monitor AI behavior achieves a certain concrete milestone (such as the development of a successor to CoT monitors).\n\nThat is, I’d like an industry standard that specifies a first limit on development, measured by some key metric we can track across labs, and what concretely we’d need to achieve before going beyond it.\"",
+   "created_at": "Mon Nov 23 08:46:24 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "sama",
+   "rt_author_name": "Sam Altman",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+   "rt_id": "2124551883130114403",
+   "likes": 1766,
+   "retweets": 113,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124785859652202941": {
+   "id": "2124785859652202941",
+   "url": "https://x.com/robertwiblin/status/2124785859652202941",
+   "text": "@FboySpinoza @robertwiblin https://t.co/5HEsv3KUnh",
+   "created_at": "Mon Nov 23 08:43:20 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "robbensinger",
+   "rt_author_name": "Rob Bensinger ⏹️",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/623283107756687360/cFxQ5o55_normal.jpg",
+   "rt_id": "2123913425114087888",
+   "likes": 61,
+   "retweets": 16,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXmn_tha8AAVm4h.png"
+    }
+   ],
+   "links": {
+    "https://t.co/5HEsv3KUnh": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124784430879482108": {
+   "id": "2124784430879482108",
+   "url": "https://x.com/robertwiblin/status/2124784430879482108",
+   "text": "I'm hearing some FUD among lab staff about antitrust. Quick rant (not legal advice):\n\nThe purpose of antitrust is to stop Sam and Dario from colluding against competitors or customers. Don't do that. Everything else can be analyzed by how close it is to that. \n\nThings to avoid without legal advice: (i) agreements, e.g., OAI will do something if Ant does; and (ii) sharing non-public info.\n\nIt's fine to discuss how much pacing is desirable, and how best to operationalize it; and what would be desirable re safety and security standards.\n\nThe harm caused by the chilling effect of antitrust concerns seems much larger than the legal risks. No one is going to jail for discussing pacing or safety standards.",
+   "created_at": "Mon Nov 23 08:37:39 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "michaelhpage",
+   "rt_author_name": "page",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1275567062400843778/vp3pr3_l_normal.jpg",
+   "rt_id": "2124733058570203531",
+   "likes": 83,
+   "retweets": 27,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
   }
  }
 }

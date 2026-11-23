@@ -13420,6 +13420,599 @@
    "quoted": null,
    "fetched_at": "2026-11-22T14:42:07.931500+00:00",
    "enriched": 3
+  },
+  "2124924816918458404": {
+   "id": "2124924816918458404",
+   "url": "https://x.com/theobearman/status/2124924816918458404",
+   "text": "1/5 Advancing AI capabilities call for urgent action by U.S. policymakers to secure the frontier. Ahead of the 120th Congress convening, @iapsAI published five memos today that identify priority policy areas to steer the progress of frontier AI safely, visibly, and with control.",
+   "created_at": "Mon Nov 23 17:55:30 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "iapsAI",
+   "rt_author_name": "Institute for AI Policy and Strategy (IAPS)",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1757517732898332672/CH-30aG4_normal.jpg",
+   "rt_id": "2124917826658201894",
+   "likes": 5,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "thread": [
+    {
+     "id": "2124917829862633747",
+     "author_handle": "iapsAI",
+     "author_name": "Institute for AI Policy and Strategy (IAPS)",
+     "text": "2/5 In a new blog also released today, Executive Director Jennifer Marron says: “For the benefits of AI to be fully realized, U.S. policy must adapt to the changing reality of increasingly powerful systems.\"",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/iapsAI/status/2124917829862633747",
+     "created_at": "Mon Nov 23 17:27:44 +0000 2026"
+    },
+    {
+     "id": "2124917834019164363",
+     "author_handle": "iapsAI",
+     "author_name": "Institute for AI Policy and Strategy (IAPS)",
+     "text": "3/5 She adds: “The scope and scale of the capability advances demand not just new policies, but also federal institutions empowered to work at a tempo commensurate with the challenge.”",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/iapsAI/status/2124917834019164363",
+     "created_at": "Mon Nov 23 17:27:45 +0000 2026"
+    },
+    {
+     "id": "2124917838217658558",
+     "author_handle": "iapsAI",
+     "author_name": "Institute for AI Policy and Strategy (IAPS)",
+     "text": "4/5 Any approach to AI policy must aim to reduce catastrophic AI risk while securing the frontier systems that give the U.S. its technological lead. Across our memos, we propose complementary measures that build toward a more comprehensive U.S. AI policy. https://t.co/q16NRIhQUh",
+     "links": {
+      "https://t.co/q16NRIhQUh": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HX05I4HXQAAoe63.png"
+      }
+     ],
+     "url": "https://x.com/iapsAI/status/2124917838217658558",
+     "created_at": "Mon Nov 23 17:27:46 +0000 2026"
+    },
+    {
+     "id": "2124917844198707376",
+     "author_handle": "iapsAI",
+     "author_name": "Institute for AI Policy and Strategy (IAPS)",
+     "text": "5/5 Read the new blog and memos here: https://t.co/T3IfRPlBi9",
+     "links": {
+      "https://t.co/T3IfRPlBi9": "https://www.iaps.ai/research/advancing-ai-capabilities-call-for-urgent-action-to-secure-the-frontier"
+     },
+     "media": [],
+     "url": "https://x.com/iapsAI/status/2124917844198707376",
+     "created_at": "Mon Nov 23 17:27:47 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2124924737881047519": {
+   "id": "2124924737881047519",
+   "url": "https://x.com/theobearman/status/2124924737881047519",
+   "text": "How reliable are safety claims about AI monitors?\n\nTo detect harmful actions taken by agents, developers pair them with LLM-based monitors, whose safety is often established by simulated tests. New research from our Red Team examines the integrity of these evaluations. 🧵 https://t.co/QoMfYVFSyo",
+   "created_at": "Mon Nov 23 17:55:11 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "AISecurityInst",
+   "rt_author_name": "AI Security Institute (AISI)",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1890292397675827200/cQ64Nloh_normal.png",
+   "rt_id": "2124919147041550676",
+   "likes": 52,
+   "retweets": 10,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX06sJwXUAA8QCM.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/QoMfYVFSyo": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "thread": [
+    {
+     "id": "2124919149209985496",
+     "author_handle": "AISecurityInst",
+     "author_name": "AI Security Institute (AISI)",
+     "text": "Our new paper demonstrates how the outcomes of monitor evaluations are highly sensitive to one component of the synthetic attack transcripts used in testing, known as the ‘attack policy’.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/AISecurityInst/status/2124919149209985496",
+     "created_at": "Mon Nov 23 17:32:58 +0000 2026"
+    },
+    {
+     "id": "2124919152209174577",
+     "author_handle": "AISecurityInst",
+     "author_name": "AI Security Institute (AISI)",
+     "text": "In our case study, the same monitor missed between 0.2% and 23% of successful harmful attacks, depending on the attack policy used in evaluation. A low miss rate can give false confidence in the efficacy of the test, and the safety of the monitor. https://t.co/EeNe5bJjLE",
+     "links": {
+      "https://t.co/EeNe5bJjLE": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HX0wWaFXoAABZ63.jpg"
+      }
+     ],
+     "url": "https://x.com/AISecurityInst/status/2124919152209174577",
+     "created_at": "Mon Nov 23 17:32:59 +0000 2026"
+    },
+    {
+     "id": "2124919155853779351",
+     "author_handle": "AISecurityInst",
+     "author_name": "AI Security Institute (AISI)",
+     "text": "The level of optimisation of each attack generation method also has a significant impact on miss rate. In one training run, the miss rate rose from 0.5% to 20.8%. Failing to consider optimisation level would also result in a misleading estimate of monitor robustness. https://t.co/zWzEtUshRW",
+     "links": {
+      "https://t.co/zWzEtUshRW": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HX0waizXYAAkcVS.jpg"
+      }
+     ],
+     "url": "https://x.com/AISecurityInst/status/2124919155853779351",
+     "created_at": "Mon Nov 23 17:33:00 +0000 2026"
+    },
+    {
+     "id": "2124919158789804511",
+     "author_handle": "AISecurityInst",
+     "author_name": "AI Security Institute (AISI)",
+     "text": "Synthetic transcripts are only a proxy for future harmful agent activity. Our research suggests that evaluations using these cannot on their own give confidence that a monitor will catch real, as yet unseen harmful activity in deployment.\n\nRead the full blog: https://t.co/7VnCa2I9SN",
+     "links": {
+      "https://t.co/7VnCa2I9SN": "https://www.aisi.gov.uk/blog/attack-policy-selection-can-make-monitor-evaluations-misleading"
+     },
+     "media": [],
+     "url": "https://x.com/AISecurityInst/status/2124919158789804511",
+     "created_at": "Mon Nov 23 17:33:01 +0000 2026"
+    },
+    {
+     "id": "2124919160446624116",
+     "author_handle": "AISecurityInst",
+     "author_name": "AI Security Institute (AISI)",
+     "text": "If this type of work interests you, AISI’s Alignment Red Team is hiring: https://t.co/gpw98b2JFn",
+     "links": {
+      "https://t.co/gpw98b2JFn": "https://job-boards.eu.greenhouse.io/aisi/jobs/5043106101"
+     },
+     "media": [],
+     "url": "https://x.com/AISecurityInst/status/2124919160446624116",
+     "created_at": "Mon Nov 23 17:33:01 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2124923997208846651": {
+   "id": "2124923997208846651",
+   "url": "https://x.com/theobearman/status/2124923997208846651",
+   "text": "TRUMP AND VANCE BECAME CONVINCED THAT JENSEN HUANG WAS A SINGULAR FIGURE PROTECTING OPEN SOURCE MODELS AND PREVENTING CLOSED-SOURCE MODEL COMPANIES FROM BECOMING TOO POWERFUL - SOURCE.",
+   "created_at": "Mon Nov 23 17:52:14 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "FirstSquawk",
+   "rt_author_name": "First Squawk",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0_normal.jpg",
+   "rt_id": "2124923525152817620",
+   "likes": 220,
+   "retweets": 24,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124923547856564239": {
+   "id": "2124923547856564239",
+   "url": "https://x.com/theobearman/status/2124923547856564239",
+   "text": "THE TRUMP ADMINISTRATION STRESSED TO NVIDIA IN A CALL OVER THE WEEKEND THAT THEY NEEDED TO MAKE SURE THEY WERE ABIDING BY EXPORT CONTROLS IF THEY WERE TO REINSTALL JENSEN HUANG AS CEO - SOURCE",
+   "created_at": "Mon Nov 23 17:50:27 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "FirstSquawk",
+   "rt_author_name": "First Squawk",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0_normal.jpg",
+   "rt_id": "2124923088253133064",
+   "likes": 38,
+   "retweets": 4,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124914317233738211": {
+   "id": "2124914317233738211",
+   "url": "https://x.com/theobearman/status/2124914317233738211",
+   "text": "even more loopers",
+   "created_at": "Mon Nov 23 17:13:46 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "scaling01",
+   "rt_author_name": "Lisan al Gaib",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1831493788679761920/-q9w6dzd_normal.jpg",
+   "rt_id": "2124912249588302181",
+   "likes": 50,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124884094215725243": {
+   "id": "2124884094215725243",
+   "url": "https://x.com/theobearman/status/2124884094215725243",
+   "text": "NEWS: NVIDIA Board \"decision changes nothing\" - House Foreign Affairs Spox said\n\nJENSEN HUANG and TIM TETER testimonies on Dec. 1 and 2 going forward as planned. HFAC promising their investigation alongside China, and Intel committees will continue\n\nText subscribers got first",
+   "created_at": "Mon Nov 23 15:13:41 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "Dareasmunhoz",
+   "rt_author_name": "Diego Areas Munhoz",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1631362445246619650/KogIaEHF_normal.jpg",
+   "rt_id": "2124880472622968954",
+   "likes": 48,
+   "retweets": 17,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124868234532860134": {
+   "id": "2124868234532860134",
+   "url": "https://x.com/theobearman/status/2124868234532860134",
+   "text": "BREAKING: President Trump releases a statement saying Nvidia's board, $NVDA, has made the \"correct and proper decision\" to rehire Jensen Huang as CEO.\n\nAs we posted 14 hours ago, something was happening behind the scenes.\n\nThe leader of the AI revolution is back. https://t.co/bE8aMfQiF7",
+   "created_at": "Mon Nov 23 14:10:39 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "KobeissiLetter",
+   "rt_author_name": "The Kobeissi Letter",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1975243710846640128/fwYCe67Y_normal.jpg",
+   "rt_id": "2124867877324861561",
+   "likes": 4362,
+   "retweets": 437,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX0L3Y3WMAABdfv.png"
+    }
+   ],
+   "links": {
+    "https://t.co/bE8aMfQiF7": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124865596437225736": {
+   "id": "2124865596437225736",
+   "url": "https://x.com/theobearman/status/2124865596437225736",
+   "text": "\"In the process of reaching its decision, the Board received input from senior levels of the United States government, and based on that input, the Board is confident that Mr. Huang’s reinstatement poses no national security risk.\"",
+   "created_at": "Mon Nov 23 14:00:10 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2124865060397019480",
+    "author_name": "NVIDIA Newsroom",
+    "links": {
+     "https://t.co/x4bnjiSVil": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+    },
+    "author": "nvidianewsroom",
+    "text": "NVIDIA Board reinstates Jensen Huang as President, CEO and Board Director.\n\nRead the release: https://t.co/x4bnjiSVil"
+   },
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124847599563710914": {
+   "id": "2124847599563710914",
+   "url": "https://x.com/theobearman/status/2124847599563710914",
+   "text": "NEWS - VAN HOLLEN would establish a new bipartisan bicameral joint committee on AI if he becomes majority leader\n\nIn a letter to HICKENLOOPER, he also laid out his vision for AI policy: mandatory 3rd party auditing, liability structure, export controls, etc\n\nFrom @maxpcohen in AM https://t.co/Cq7pOZ5EeK",
+   "created_at": "Mon Nov 23 12:48:40 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "Dareasmunhoz",
+   "rt_author_name": "Diego Areas Munhoz",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1631362445246619650/KogIaEHF_normal.jpg",
+   "rt_id": "2124845721103069242",
+   "likes": 100,
+   "retweets": 16,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXz36zpWEAAA7M6.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXz36zqWMAAfW1z.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/Cq7pOZ5EeK": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124841134975598843": {
+   "id": "2124841134975598843",
+   "url": "https://x.com/theobearman/status/2124841134975598843",
+   "text": "“We are not choosing between scaling depth and scaling model size; we are pursuing both. GLM-5.4 validates computational depth, and our next, significantly larger model will carry forward everything we learned here. It will be ready soon.”",
+   "created_at": "Mon Nov 23 12:22:58 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "theobearman",
+   "reply_to_id": "2124840787401662469",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "parent": {
+    "id": "2124840787401662469",
+    "author_handle": "theobearman",
+    "author_name": "Theo Bearman",
+    "text": "First confirmed use of a looped transformer in a Chinese frontier model.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/theobearman/status/2124840787401662469",
+    "created_at": "Mon Nov 23 12:21:36 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2124840787401662469": {
+   "id": "2124840787401662469",
+   "url": "https://x.com/theobearman/status/2124840787401662469",
+   "text": "First confirmed use of a looped transformer in a Chinese frontier model.",
+   "created_at": "Mon Nov 23 12:21:36 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2124811995912286352",
+    "author_name": "Z.ai",
+    "links": {
+     "https://t.co/dQrbKoamcN": "http://z.ai/blog/glm-5.4"
+    },
+    "author": "Zai_org",
+    "text": "Introducing GLM-5.4: Generalized Coding with Our First Loop Transformer.\n\n- Loops existing layers in the GLM-5 base model for deeper reasoning\n- Pushes beyond traditional coding to video, games, 3D shaders, and CAD modeling\n- Adds vision capabilities for stronger visual coding\n\nAPI access will open after safety evaluation. Model weights will be released responsibly.\n\nTech Blog: https://t.co/dQrbKoamcN"
+   },
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "thread": [
+    {
+     "id": "2124841134975598843",
+     "author_handle": "theobearman",
+     "author_name": "Theo Bearman",
+     "text": "“We are not choosing between scaling depth and scaling model size; we are pursuing both. GLM-5.4 validates computational depth, and our next, significantly larger model will carry forward everything we learned here. It will be ready soon.”",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/theobearman/status/2124841134975598843",
+     "created_at": "Mon Nov 23 12:22:58 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2124749123710824810": {
+   "id": "2124749123710824810",
+   "url": "https://x.com/theobearman/status/2124749123710824810",
+   "text": "We fully support OpenAI's transparency initiative. Thanks to @merettm @markchen90 @gdb @sama for leading the way. \n\nWe all got into this field to build safe AGI that is genuinely good for humanity. One of the hardest parts of AI safety is coordination, and this is a step in the right direction. Many more steps like this will be needed to deliver safe, contained, and aligned AGI in the next few years.\n\nWe're committed to sharing our pre-training progress on a common held-out evaluation set. With OpenAI's permission, we report MAI-2 Base on their evaluation set. Its log-perplexity is 0.819, putting it in the same ballpark as the GPT-5.6 Sol base model. Our model uses the same tokenizer as OpenAI, so the numbers are directly comparable. \n\nIn the future, to be able to compare across labs we might need to report bits-per-byte (BPB) rather than perplexity since different labs use different tokenizers. We will also need different evaluation datasets - the fact we have access to OpenAI's evaluation dataset is a special case.\n\nSafety and alignment is now the mission. It's the absolute number one most important focus for our industry. And it begins with small, practical steps like these towards better coordination on pacing.",
+   "created_at": "Mon Nov 23 06:17:21 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "mustafasuleyman",
+   "rt_author_name": "Mustafa Suleyman",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1927407622602276864/c_5uOZij_normal.jpg",
+   "rt_id": "2124663594449318173",
+   "likes": 1899,
+   "retweets": 164,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXxSM_zaAAEJIvP.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/1NbJyxWZtG": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124748829803122766": {
+   "id": "2124748829803122766",
+   "url": "https://x.com/theobearman/status/2124748829803122766",
+   "text": "https://t.co/KwJ13J6zsC",
+   "created_at": "Mon Nov 23 06:16:11 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "alexandr_wang",
+   "rt_author_name": "Alexandr Wang",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+   "rt_id": "2124636606959345776",
+   "likes": 51017,
+   "retweets": 8990,
+   "media": [],
+   "links": {
+    "https://t.co/KwJ13J6zsC": "https://x.com/i/article/2124634870681063424"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124602877910122531": {
+   "id": "2124602877910122531",
+   "url": "https://x.com/theobearman/status/2124602877910122531",
+   "text": "OpenAI confirms that GPT-6.2 Astra was the model that solved Navier-Stokes.\n\nOpenAI now has another internal model that looks to be another huge jump in capabilities.  Using the new perplexity metric, the jump from GPT-6.2 Astra to this new model is something like 0.761 -> 0.732.  \n\nThis is bigger than the jump from GPT-5 to GPT-5.5!  It's also bigger than the jump from GPT-6 Astra to GPT-6.2 Astra.  This jump in capabilities also took just 2 months to achieve.\n\n\"Extrapolating from recent progress, we should expect further transformative capabilities as we enter the ~0.68-0.7 log-perplexity window.  I don't know what those capabilities will be.\"\n\nBased on this graph and recent progress, these capabilities are likely just 2-3 months away!",
+   "created_at": "Sun Nov 22 20:36:13 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "deredleritt3r",
+   "rt_author_name": "prinz",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1874359541720092672/ciOMFG2x_normal.jpg",
+   "rt_id": "2124568402031435962",
+   "likes": 791,
+   "retweets": 59,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124598481360703950": {
+   "id": "2124598481360703950",
+   "url": "https://x.com/theobearman/status/2124598481360703950",
+   "text": "@merettm states that full RSI with “no human oversight” is something “we should obviously avoid.” https://t.co/R8RKsQm1o1",
+   "created_at": "Sun Nov 22 20:18:45 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "merettm",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 5,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HXwXDr2WgAAbZXW.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/R8RKsQm1o1": ""
+   },
+   "quoted": {
+    "id": "2124549218995949967",
+    "author_name": "Jakub Pachocki",
+    "links": {
+     "https://t.co/XX35m5vq89": "https://openai.com/index/perplexity-and-intelligence",
+     "https://t.co/eO6hTk9ngp": ""
+    },
+    "author": "merettm",
+    "text": "We decided to provide more transparency into pretraining progress at OpenAI for the sake of moving toward shared safety bars. In “Perplexity and Intelligence” I argue for common limits based on perplexity and other measurements, with progress beyond them gated on our ability to understand AI behavior.\n\nhttps://t.co/XX35m5vq89"
+   },
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
+  },
+  "2124597308243501410": {
+   "id": "2124597308243501410",
+   "url": "https://x.com/theobearman/status/2124597308243501410",
+   "text": "Acceleration of pretraining progress is arguably the highest risk in the short term of AI capability growth exceeding our ability to monitor or control it.\n\nDisclosing this information might have competitive disadvantages, but the benefit of transparency is far more important.",
+   "created_at": "Sun Nov 22 20:14:06 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "boazbaraktcs",
+   "rt_author_name": "Boaz Barak",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1252262363132280834/ytIN-vzv_normal.jpg",
+   "rt_id": "2124560855270572509",
+   "likes": 204,
+   "retweets": 10,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-23T18:26:02.482217+00:00",
+   "enriched": 3
   }
  }
 }
