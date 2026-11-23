@@ -10022,6 +10022,30 @@
    },
    "fetched_at": "2026-11-23T18:26:02.482217+00:00",
    "enriched": 3
+  },
+  "2124988957637374147": {
+   "id": "2124988957637374147",
+   "url": "https://x.com/DKokotajlo/status/2124988957637374147",
+   "text": "Respectfully, we need more than a Committee. We need to Ban RSI and pause the march to ASI now.",
+   "created_at": "Mon Nov 23 22:10:22 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "AmbassadorRice",
+   "rt_author_name": "Susan Rice",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1359165964810649610/ag_FkiD9_normal.jpg",
+   "rt_id": "2124971145640218974",
+   "likes": 344,
+   "retweets": 67,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-23T22:39:11.622944+00:00",
+   "enriched": 3
   }
  }
 }

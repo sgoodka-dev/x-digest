@@ -2490,6 +2490,112 @@
    "quoted": null,
    "fetched_at": "2026-11-20T22:14:41.979640+00:00",
    "enriched": 3
+  },
+  "2124933245452136453": {
+   "id": "2124933245452136453",
+   "url": "https://x.com/alxndrdavies/status/2124933245452136453",
+   "text": "Labs use control evals to test if monitors would catch agents taking harmful actions. In our new eval, changing our attack policy took us from 0.2% to 23% FNR.  \n\nThe upshot for me is how hard it would be to use control evals to claim monitors will work…",
+   "created_at": "Mon Nov 23 18:28:59 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1895806890346508288/uTaw9IMv_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "c_j_griffin",
+   "rt_author_name": "Charlie Griffin",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2122773146109456385/BNNgGseA_normal.jpg",
+   "rt_id": "2124933001893019867",
+   "likes": 24,
+   "retweets": 4,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-23T22:39:11.622944+00:00",
+   "enriched": 3
+  },
+  "2124928892469391806": {
+   "id": "2124928892469391806",
+   "url": "https://x.com/alxndrdavies/status/2124928892469391806",
+   "text": "This point is simple, but the problem is endemic to current practice. We need better techniques here and—in their absence—more clarity on the limitations of current evals. Work by a great group led by @c_j_griffin! https://t.co/lRWqH8UHil",
+   "created_at": "Mon Nov 23 18:11:41 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": true,
+   "reply_to": "alxndrdavies",
+   "reply_to_id": "2124928888719737129",
+   "avatar": "https://pbs.twimg.com/profile_images/1895806890346508288/uTaw9IMv_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/lRWqH8UHil": "https://www.aisi.gov.uk/blog/attack-policy-selection-can-make-monitor-evaluations-misleading"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T22:39:11.622944+00:00",
+   "parent": {
+    "id": "2124928888719737129",
+    "author_handle": "alxndrdavies",
+    "author_name": "Xander Davies",
+    "text": "New @AISecurityInst: Monitor evals have several major problems that undermine their ability to provide confidence in monitors. Excited to share our work highlighting one—how you generate synthetic transcripts wildly sways estimates of monitor performance (0.2→23%)",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/alxndrdavies/status/2124928888719737129",
+    "created_at": "Mon Nov 23 18:11:40 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2124928888719737129": {
+   "id": "2124928888719737129",
+   "url": "https://x.com/alxndrdavies/status/2124928888719737129",
+   "text": "New @AISecurityInst: Monitor evals have several major problems that undermine their ability to provide confidence in monitors. Excited to share our work highlighting one—how you generate synthetic transcripts wildly sways estimates of monitor performance (0.2→23%)",
+   "created_at": "Mon Nov 23 18:11:40 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1895806890346508288/uTaw9IMv_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 43,
+   "retweets": 7,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2124919147041550676",
+    "author_name": "AI Security Institute (AISI)",
+    "links": {
+     "https://t.co/QoMfYVFSyo": ""
+    },
+    "author": "AISecurityInst",
+    "text": "How reliable are safety claims about AI monitors?\n\nTo detect harmful actions taken by agents, developers pair them with LLM-based monitors, whose safety is often established by simulated tests. New research from our Red Team examines the integrity of these evaluations. 🧵 https://t.co/QoMfYVFSyo"
+   },
+   "fetched_at": "2026-11-23T22:39:11.622944+00:00",
+   "thread": [
+    {
+     "id": "2124928892469391806",
+     "author_handle": "alxndrdavies",
+     "author_name": "Xander Davies",
+     "text": "This point is simple, but the problem is endemic to current practice. We need better techniques here and—in their absence—more clarity on the limitations of current evals. Work by a great group led by @c_j_griffin! https://t.co/lRWqH8UHil",
+     "links": {
+      "https://t.co/lRWqH8UHil": "https://www.aisi.gov.uk/blog/attack-policy-selection-can-make-monitor-evaluations-misleading"
+     },
+     "media": [],
+     "url": "https://x.com/alxndrdavies/status/2124928892469391806",
+     "created_at": "Mon Nov 23 18:11:41 +0000 2026"
+    }
+   ],
+   "enriched": 3
   }
  }
 }

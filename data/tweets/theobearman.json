@@ -14013,6 +14013,172 @@
    "quoted": null,
    "fetched_at": "2026-11-23T18:26:02.482217+00:00",
    "enriched": 3
+  },
+  "2124988624773263523": {
+   "id": "2124988624773263523",
+   "url": "https://x.com/theobearman/status/2124988624773263523",
+   "text": "We estimate that GPT-6.2 Astra has 4.9x the experimental research taste of our best human experts on TasteVal, the highest score we have measured. Fable 5.2 scores 2.5x. https://t.co/QYTSHaZQ3B",
+   "created_at": "Mon Nov 23 22:09:03 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "pzeroresearch",
+   "rt_author_name": "P-Zero Research",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2107242645936570368/6jFtJJax_normal.jpg",
+   "rt_id": "2124973722989957377",
+   "likes": 206,
+   "retweets": 17,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX1htTbWUAA9C-p.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/QYTSHaZQ3B": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T22:39:11.622944+00:00",
+   "enriched": 3
+  },
+  "2124987089746030686": {
+   "id": "2124987089746030686",
+   "url": "https://x.com/theobearman/status/2124987089746030686",
+   "text": "We’re introducing Shirudo, an open-source Linux runtime allowing agents to defend systems without downtime. It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll out patches. Built by @cisco together with OpenAI.\n\nShirudo is a first step toward self-defending infrastructure that can adapt to new threats while keeping services running. Our goal is for defenders to work with AI agents to find affected systems, test and share shields, and deploy them without disrupting workloads.\n\nhttps://t.co/0AqGmcbxWH",
+   "created_at": "Mon Nov 23 22:02:57 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "OpenAI",
+   "rt_author_name": "OpenAI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+   "rt_id": "2124980590717911527",
+   "likes": 4498,
+   "retweets": 480,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX1vOUNXwAESQQN.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/0AqGmcbxWH": "https://openai.com/index/introducing-shirudo/",
+    "https://t.co/FZRZ7O0A9X": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T22:39:11.622944+00:00",
+   "enriched": 3
+  },
+  "2124986113710268678": {
+   "id": "2124986113710268678",
+   "url": "https://x.com/theobearman/status/2124986113710268678",
+   "text": "The Commerce Department just placed Megaspeed on the Entity List. But shockingly, the rule omitted the key provision that would have banned Megaspeed from buying AI chips, so it has ZERO effect!  \n\nCommerce did not apply the foreign-produced direct product rule (FDPR)--which extends the export controls to products made in other countries with U.S. technology--to Megaspeed or any of its subsidiaries. All of Nvidia's chips are made in Taiwan, so without the FDPR, this rule does not ban the shipment of Nvidia chips to Megaspeed. Every other Chinese company that was added to the Entity List due to concerns about its access to AI chips had the FDPR applied. But not Megaspeed. \n\nTo be clear, the country-wide export controls on Southeast Asia that Commerce issued last week do already impose a license requirement on the export of chips to Malaysia. And generally we should be imposing country-wide license requirements, not playing whack-a-mole with Entity Listings. But what's the point of putting Megaspeed on the Entity List at all if you don't do it in a way that cuts it off from Nvidia chips? \n\nThe generous interpretation here is that Commerce intended this to be perceived as taking strong action against Megaspeed, and didn't realize that its rule had a drafting error that prevented the rule from having any impact--which just shows how incompetent Commerce has been at administering export controls. The less generous interpretation is that this Entity Listing was intentionally weakened--I don't know why Commerce would do that. Both are bad.",
+   "created_at": "Mon Nov 23 21:59:04 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ChrisRMcGuire",
+   "rt_author_name": "Chris McGuire",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2092284021472403456/pH5TCk8G_normal.jpg",
+   "rt_id": "2124982661521502676",
+   "likes": 205,
+   "retweets": 76,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-23T22:39:11.622944+00:00",
+   "enriched": 3
+  },
+  "2124978799703908462": {
+   "id": "2124978799703908462",
+   "url": "https://x.com/theobearman/status/2124978799703908462",
+   "text": "The Megaspeed complex (including Alibaba’s Singapore entity Apex Enterprise Solutions that lent money to Megaspeed’s Malaysian subsidiary) is added to entity list in a new BIS IFR today. “These additions are being made because of the significant risk of these entities being or becoming involved in the diversion of advanced computing commodities to unauthorized end uses or end users. These entities will be added with a license requirement for all items subject to the EAR and licenses will be reviewed under a presumption of denial.”\n\nhttps://t.co/camf5kyQiH",
+   "created_at": "Mon Nov 23 21:30:00 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX1w9IlWgAEWhE_.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX1w9IjW8AAES4V.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX1w9IqXwAAJPTP.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/camf5kyQiH": "https://www.federalregister.gov/public-inspection/2026-23999/additions-to-the-entity-list",
+    "https://t.co/II6UPiX04a": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T22:39:11.622944+00:00",
+   "enriched": 3
+  },
+  "2124958468729688432": {
+   "id": "2124958468729688432",
+   "url": "https://x.com/theobearman/status/2124958468729688432",
+   "text": ".@SenatorHick asked how I’d tackle AI risks as Leader. Here’s my plan:\n\n- Act NOW on safety, liability, export controls, financial transparency & electricity costs\n- A NEW committee to tackle urgent issues of RSI, kill switches, worker protection & more\n- Real OVERSIGHT\n\n& more ⬇️",
+   "created_at": "Mon Nov 23 20:09:13 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ChrisVanHollen",
+   "rt_author_name": "Senator Chris Van Hollen",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1207390627400441856/4WmM925x_normal.jpg",
+   "rt_id": "2124933526625849350",
+   "likes": 2490,
+   "retweets": 508,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX1HilTWgAAeJLJ.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX1HijkXwAA8w7H.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX1HijjXkAAXUtB.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/T06MyVzoZ9": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-23T22:39:11.622944+00:00",
+   "enriched": 3
   }
  }
 }
