@@ -14179,6 +14179,32 @@
    "quoted": null,
    "fetched_at": "2026-11-23T22:39:11.622944+00:00",
    "enriched": 3
+  },
+  "2125044566122184910": {
+   "id": "2125044566122184910",
+   "url": "https://x.com/theobearman/status/2125044566122184910",
+   "text": "Prosecutors say a former OpenAI staffer charged with bugging a conference room likely intercepted trade secrets and had a photo of what looks to be a term sheet for a “strategic partnership” between the ChatGPT maker and another company https://t.co/b4Ln9MueGX",
+   "created_at": "Tue Nov 24 01:51:20 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "business",
+   "rt_author_name": "Bloomberg",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+   "rt_id": "2125020367206981753",
+   "likes": 10,
+   "retweets": 1,
+   "media": [],
+   "links": {
+    "https://t.co/b4Ln9MueGX": "https://www.bloomberg.com/news/articles/2026-11-23/openai-staffer-likely-captured-secrets-on-hidden-bug-us-says?taid=6b04d70fea3e5e0001c014dc&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T02:14:04.279168+00:00",
+   "enriched": 3
   }
  }
 }

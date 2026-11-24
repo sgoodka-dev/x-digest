@@ -325,6 +325,41 @@
    "quoted": null,
    "fetched_at": "2026-11-17T16:12:22.579242+00:00",
    "enriched": 3
+  },
+  "2125020154849538447": {
+   "id": "2125020154849538447",
+   "url": "https://x.com/charnock_jacob/status/2125020154849538447",
+   "text": "📢New paper!\n\nThird-party risk evaluations will always be central to AI gov. But based on available evidence, there is little reason for the public to trust that risk evaluations reliably have impact via voluntary company action. https://t.co/dRvQRlXvT7",
+   "created_at": "Tue Nov 24 00:14:20 +0000 2026",
+   "author_handle": "charnock_jacob",
+   "author_name": "Jacob Charnock",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2118747676720132096/9V0aDMhq_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "StephenLCasper",
+   "rt_author_name": "Cas (Stephen Casper)",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2043825823753318400/DLZ3Rs-U_normal.jpg",
+   "rt_id": "2124963896788136123",
+   "likes": 57,
+   "retweets": 9,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX1f239WoAAdwsk.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX1f5GcXIAAVDuJ.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/dRvQRlXvT7": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T02:14:04.279168+00:00",
+   "enriched": 3
   }
  }
 }
