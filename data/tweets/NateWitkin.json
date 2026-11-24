@@ -6558,6 +6558,50 @@
     "created_at": "Mon Nov 23 18:13:18 +0000 2026"
    },
    "enriched": 3
+  },
+  "2125054373168582907": {
+   "id": "2125054373168582907",
+   "url": "https://x.com/NateWitkin/status/2125054373168582907",
+   "text": "This is not very vibe compliant, but we have a new post out today looking at what data on *impacts* of cyber attacks tells us about whether the cyber-pocalypse is here.\n\nTLDR: not yet?\n\nMay just be lagging data, or slow adoption of AI tools by cyber attackers. But another possibility is that a significant factor here is that attackers' incentives matter at least as much as their technical capabilities, and their incentives (to avoid retaliation/prison/etc) have not changed all that much.\n\nIf so, one implication is that attribution matters a lot in this new era - does AI make anonymity easier, and if so can we do anything about that?\n\nSome data below; more charts and more recommendations in the full piece.\nhttps://t.co/QL7b9Kxlvb",
+   "created_at": "Tue Nov 24 02:30:18 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "hlntnr",
+   "rt_author_name": "Helen Toner",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/986891120104718336/cVLwrL6u_normal.jpg",
+   "rt_id": "2124993076603256884",
+   "likes": 234,
+   "retweets": 53,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX19v_FW0AAXN33.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX194cYWAAAHzzS.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX194chXUAA8A_W.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX194ceXIAAF3TC.png"
+    }
+   ],
+   "links": {
+    "https://t.co/QL7b9Kxlvb": "https://cset.georgetown.edu/article/judge-the-cyber-apocalypse-by-the-data-not-the-headlines/",
+    "https://t.co/3MjNNzTnHd": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "enriched": 3
   }
  }
 }

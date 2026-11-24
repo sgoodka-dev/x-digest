@@ -14158,6 +14158,443 @@
    "quoted": null,
    "fetched_at": "2026-11-23T18:26:02.482217+00:00",
    "enriched": 3
+  },
+  "2125279793285668885": {
+   "id": "2125279793285668885",
+   "url": "https://x.com/robertwiblin/status/2125279793285668885",
+   "text": "@AlexAlarga @sjgadler Pausing is just a special case / subset of pacing where the pace is 0.",
+   "created_at": "Tue Nov 24 17:26:03 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "AlexAlarga",
+   "reply_to_id": "2125278840649916628",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "parent": {
+    "id": "2125278840649916628",
+    "author_handle": "AlexAlarga",
+    "author_name": "Alex Alarga ⏹️",
+    "text": "@robertwiblin @sjgadler Pausing. Not exactly pacing. Pausing.\nhttps://t.co/MalkflHCTC",
+    "links": {
+     "https://t.co/MalkflHCTC": "https://x.com/controlai/status/2125182715938939294?s=46&t=P_C-9CspuYFBuTHCVxhtoQ"
+    },
+    "media": [],
+    "url": "https://x.com/AlexAlarga/status/2125278840649916628",
+    "created_at": "Tue Nov 24 17:22:16 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125268708415185291": {
+   "id": "2125268708415185291",
+   "url": "https://x.com/robertwiblin/status/2125268708415185291",
+   "text": "Was great fun to rally in support of pacing the frontier of AI progress - an approach endorsed by:\n\n• Dario Amodei\n• Sam Altman\n• Elon Musk\n• Ilya Sutskever\n• Shane Legg (DeepMind co-founder)\n\nWith partial support from:\n\n• Demis Hassabis (\"points towards the right path forward\")\n• Satya Nadella (\"we welcome ... deliberate pacing needed to get alignment right as the design goal\")\n\nAnd fully endorsed by:\n\n• Anthropic as an organisation, plus cofounders Jared Kaplan, Jack Clark, Ben Mann and Chris Olah as individuals - as well as leading researchers Evan Hubinger, Jan Leike and Julian Schrittwieser.\n\n• OpenAI as an organisation, as well as Jakub Pachocki (Chief Scientist), Wojciech Zaremba (co-founder), Mark Chen (Chief Research Officer), Saachi Jain (Head of Safety), Dean Ball (Head of Strategic Futures), and Boaz Barak (MTS).\n\n• At Google DeepMind: Jasjeet Sekhon (Chief Strategy Officer), Anca Dragan (VP of AI Safety), Rohin Shah (AGI Safety lead) and Neel Nanda (mech interp lead).\n\n• And at Meta: Shengjia Zhao (Chief AI Scientist) and Dawn Song (VP of AI Research).\n\nThis is the most popular mainstream expert-endorsed position imaginable.\n\nWould be great to see more technical researchers and company staff at events like this reiterating their views.",
+   "created_at": "Tue Nov 24 16:42:00 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 59,
+   "retweets": 6,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2124225785464521134",
+    "author_name": "PauseAI UK",
+    "links": {
+     "https://t.co/vStPiG3DlL": ""
+    },
+    "author": "PauseAI_UK",
+    "text": "What. A. Day.\n\nOver 1,000 people marched against AI extinction, right through the heart of London.\n\nIf you made a sign, brought a friend or gave up your Saturday to help run the march, thank you. 🧡 https://t.co/vStPiG3DlL"
+   },
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "enriched": 3
+  },
+  "2125246471784063425": {
+   "id": "2125246471784063425",
+   "url": "https://x.com/robertwiblin/status/2125246471784063425",
+   "text": "Let me get this straight: we rushed AI along without regulating safeguards in order to stay ahead of China and at the same time, we sold China the very chips they’d need to get ahead of us. Smells of profit, corruption and perhaps worse.",
+   "created_at": "Tue Nov 24 15:13:38 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "MittRomney",
+   "rt_author_name": "Mitt Romney",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/964489716622966784/xbtCe2td_normal.jpg",
+   "rt_id": "2125232847396983273",
+   "likes": 34917,
+   "retweets": 6385,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "enriched": 3
+  },
+  "2125219364362170768": {
+   "id": "2125219364362170768",
+   "url": "https://x.com/robertwiblin/status/2125219364362170768",
+   "text": "@BogdanIonutCir2 Yeah that's my main disagreement with it.",
+   "created_at": "Tue Nov 24 13:25:55 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "BogdanIonutCir2",
+   "reply_to_id": "2125215792845169055",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "parent": {
+    "id": "2125215792845169055",
+    "author_handle": "BogdanIonutCir2",
+    "author_name": "Bogdan Ionut Cirstea ⏸️",
+    "text": "@robertwiblin only read the screenshot, but it seems like they might not be taking into account that the growth rate of cyberattacks might itself go up if AI automates (and thus strongly accelerates) AI development very soon; so the forecasts might be underestimates in this sense",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/BogdanIonutCir2/status/2125215792845169055",
+    "created_at": "Tue Nov 24 13:11:44 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125210879901749406": {
+   "id": "2125210879901749406",
+   "url": "https://x.com/robertwiblin/status/2125210879901749406",
+   "text": "Detailed discussion from a top superforecasting team on how bad cyber incidents will get in coming years - including the reasons for their forecasts.\n\nConsider Cyberarmageddon:\n\nhttps://t.co/IbXQD4TdVL\n\n\"By extrapolating current cyberattacks and their recent growth rates, we can easily conceive of scenarios where computer systems fail and become compromised throughout society, to terrible effect\"",
+   "created_at": "Tue Nov 24 12:52:12 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 39,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX5D52SXgAAXe7I.png"
+    }
+   ],
+   "links": {
+    "https://t.co/IbXQD4TdVL": "https://blog.sentinel-team.org/p/consider-cyberarmageddon",
+    "https://t.co/GZXuxkQTmq": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "enriched": 3
+  },
+  "2125169775416361117": {
+   "id": "2125169775416361117",
+   "url": "https://x.com/robertwiblin/status/2125169775416361117",
+   "text": "This is really really good:",
+   "created_at": "Tue Nov 24 10:08:52 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "sama",
+   "rt_author_name": "Sam Altman",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+   "rt_id": "2124894264564092952",
+   "likes": 4459,
+   "retweets": 346,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "enriched": 3
+  },
+  "2125169357387096426": {
+   "id": "2125169357387096426",
+   "url": "https://x.com/robertwiblin/status/2125169357387096426",
+   "text": "Dwarkesh Patel says the government should mandate public access to every model AI labs use internally.\n\n\"We don't wanna be in a situation where people are secretly doing intelligence explosions.\"\n\n\"If you don't trust your AI enough to let it be deployed publicly and be robust to people trying to use it to do very dangerous things, then you probably shouldn't be using it to develop future AI systems as well.\"\n\nSource: The Long Game podcast https://t.co/Ii2qIgolls",
+   "created_at": "Tue Nov 24 10:07:13 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "vitrupo",
+   "rt_author_name": "vitrupo",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1905435709407985666/RfAHID81_normal.jpg",
+   "rt_id": "2124935837267956073",
+   "likes": 545,
+   "retweets": 38,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2124935765985742848/img/aQocg44AtK9T5Zb8.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/Ii2qIgolls": "https://www.youtube.com/watch?v=Sq32DUozdSc&t=2660s",
+    "https://t.co/ggJ2N5sTTb": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "enriched": 3
+  },
+  "2125165634224832834": {
+   "id": "2125165634224832834",
+   "url": "https://x.com/robertwiblin/status/2125165634224832834",
+   "text": "📣 New paper!\n\nWhat happens after an independent evaluator reports a serious risk in a frontier AI model? \n\nI worked on this question during my @MATSprogram  program with mentor @StephenLCasper.\n\nOur results show that only 25 of 179 findings we classified as “significant-risk” (14%) received a proportionate public response from the developer. The remaining 86% of the findings received either partial response (company acknowledgment without specific action) or the response could not be located.",
+   "created_at": "Tue Nov 24 09:52:25 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "kunalssingh_",
+   "rt_author_name": "Kunal Singh",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2125169675193761792/DiTE4acb_normal.jpg",
+   "rt_id": "2124963387419639967",
+   "likes": 24,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX1f1S-bwAA3wyM.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX1f-rRb0AINlcD.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/9V7FMxoNa7": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "enriched": 3
+  },
+  "2125164961425207491": {
+   "id": "2125164961425207491",
+   "url": "https://x.com/robertwiblin/status/2125164961425207491",
+   "text": "https://t.co/vscrhiJjlC",
+   "created_at": "Tue Nov 24 09:49:45 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "robertwiblin",
+   "reply_to_id": "2125164957985546393",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 7,
+   "retweets": 1,
+   "media": [],
+   "links": {
+    "https://t.co/vscrhiJjlC": "https://www.lesswrong.com/posts/HE3Styo9vpk7m8zi4/evhub-s-shortform?commentId=7wDTwjeRuPfvukqWK"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "parent": {
+    "id": "2125164957985546393",
+    "author_handle": "robertwiblin",
+    "author_name": "Rob Wiblin",
+    "text": "The 2 pacing techniques I've liked the most are:\n\n1. compute-reallocation pacing\n2. internal-deployment-blocking pacing\n\nThe excellent @EvanHub (alignment lead at Anthropic) used to prefer 1.\n\nNow he prefers 2 for reasons he explains here:",
+    "links": {
+     "https://t.co/IfnGLGAuMn": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX4Z4E5WoAAPzDe.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX4Z4zYXAAAtZGH.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX4aGKrXUAAkLPa.jpg"
+     }
+    ],
+    "url": "https://x.com/robertwiblin/status/2125164957985546393",
+    "created_at": "Tue Nov 24 09:49:44 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125164957985546393": {
+   "id": "2125164957985546393",
+   "url": "https://x.com/robertwiblin/status/2125164957985546393",
+   "text": "The 2 pacing techniques I've liked the most are:\n\n1. compute-reallocation pacing\n2. internal-deployment-blocking pacing\n\nThe excellent @EvanHub (alignment lead at Anthropic) used to prefer 1.\n\nNow he prefers 2 for reasons he explains here:",
+   "created_at": "Tue Nov 24 09:49:44 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 143,
+   "retweets": 17,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX4Z4E5WoAAPzDe.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX4Z4zYXAAAtZGH.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX4aGKrXUAAkLPa.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/IfnGLGAuMn": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "thread": [
+    {
+     "id": "2125164961425207491",
+     "author_handle": "robertwiblin",
+     "author_name": "Rob Wiblin",
+     "text": "https://t.co/vscrhiJjlC",
+     "links": {
+      "https://t.co/vscrhiJjlC": "https://www.lesswrong.com/posts/HE3Styo9vpk7m8zi4/evhub-s-shortform?commentId=7wDTwjeRuPfvukqWK"
+     },
+     "media": [],
+     "url": "https://x.com/robertwiblin/status/2125164961425207491",
+     "created_at": "Tue Nov 24 09:49:45 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2125163007613538387": {
+   "id": "2125163007613538387",
+   "url": "https://x.com/robertwiblin/status/2125163007613538387",
+   "text": "I love that normies get it. It's honestly been *so* heartening over the past ~8 months. It turns out that you just explain \"imagine if your computer could make a smarter computer autonomously, and how that that might get out of hand\" and folks go \"yeah, that makes sense\".",
+   "created_at": "Tue Nov 24 09:41:59 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ptrschmdtnlsn",
+   "rt_author_name": "Peter Schmidt-Nielsen",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1452067572715638788/gAI-LVnu_normal.jpg",
+   "rt_id": "2124764052002132334",
+   "likes": 346,
+   "retweets": 16,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "enriched": 3
+  },
+  "2125151650650218543": {
+   "id": "2125151650650218543",
+   "url": "https://x.com/robertwiblin/status/2125151650650218543",
+   "text": "@ramez A minimum you'd do what they did in this paper where AI proposed bacteriophage genomes from scratch - just spam test hundreds or thousands of candidates all at once, expecting at least one to be viable. 16 of 300 were successful at killing bacteria: https://t.co/bruolkybRB\n\nBy then we'll have models like this, but much better, and they'll work on viruses that infect humans.\n\n(Unless you're iterating you don't even need to know which one is going to work, you can just release all the strains at once.)\n\n\"302 candidate genome designs were curated for experimental testing, of which 285 were successfully synthesised and assembled. Of those, 16 were viable.\n\nThe paper's own shorthand is that they screened roughly 300 genome designs to get 16 functional phages — so about a 5% hit rate on what was actually built. ...\n\nWorth noting for the funnel upstream of that: thousands of sequences were generated computationally and then filtered down — for the Evo 2 SFT model, 53.8% survived tropism filtering and 17.2% survived diversification filtering before the 302 were picked.\"\n\nhttps://t.co/bruolkybRB",
+   "created_at": "Tue Nov 24 08:56:51 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "ramez",
+   "reply_to_id": "2125029552548438026",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 11,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/bruolkybRB": "https://www.biorxiv.org/content/10.1101/2025.09.12.675911v1.full.pdf"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "parent": {
+    "id": "2125029552548438026",
+    "author_handle": "ramez",
+    "author_name": "Ramez Naam",
+    "text": "Biology is not simple. The odds that an AI could devise such a pathogen purely by thinking about it are very very low. AI biologists will need experimentation in cells, in mice, and probably human 'clinical' trials to know if their supervirus works.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/ramez/status/2125029552548438026",
+    "created_at": "Tue Nov 24 00:51:41 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125149068665962859": {
+   "id": "2125149068665962859",
+   "url": "https://x.com/robertwiblin/status/2125149068665962859",
+   "text": "Extremely excited about this! In my opinion, California urgently needs insight into labs' internal models and how they are being used to accelerate RSI—ideally coupled with the authority to block dangerous internal deployments.",
+   "created_at": "Tue Nov 24 08:46:35 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "EvanHub",
+   "rt_author_name": "Evan Hubinger",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/515578813095215104/8B_rLk5f_normal.png",
+   "rt_id": "2124880666953494534",
+   "likes": 276,
+   "retweets": 34,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "enriched": 3
   }
  }
 }

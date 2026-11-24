@@ -2596,6 +2596,40 @@
     }
    ],
    "enriched": 3
+  },
+  "2125186304426021273": {
+   "id": "2125186304426021273",
+   "url": "https://x.com/alxndrdavies/status/2125186304426021273",
+   "text": "@vvvincent_c @_robertkirk @AlexandraSouly Agree this is very important and we are hoping to share more on this topic soon!",
+   "created_at": "Tue Nov 24 11:14:33 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": true,
+   "reply_to": "vvvincent_c",
+   "reply_to_id": "2124982017121231263",
+   "avatar": "https://pbs.twimg.com/profile_images/1895806890346508288/uTaw9IMv_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "parent": {
+    "id": "2124982017121231263",
+    "author_handle": "vvvincent_c",
+    "author_name": "Vincent",
+    "text": "More details you can share would be very helpful! @_robertkirk @AlexandraSouly @alxndrdavies",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/vvvincent_c/status/2124982017121231263",
+    "created_at": "Mon Nov 23 21:42:47 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

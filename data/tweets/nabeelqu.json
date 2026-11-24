@@ -3135,6 +3135,30 @@
    "quoted": null,
    "fetched_at": "2026-11-23T18:26:02.482217+00:00",
    "enriched": 3
+  },
+  "2125262764667031636": {
+   "id": "2125262764667031636",
+   "url": "https://x.com/nabeelqu/status/2125262764667031636",
+   "text": "AI takeover risk is strongly related to concentration of power in AI, and is mitigated by AI market competition, open weights, adoption, and alignment with diverse users, which reduce the initial power concentration that e.g. a rogue future Claude version would take advantage of",
+   "created_at": "Tue Nov 24 16:18:23 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1857140980421668864/0prdKK32_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "jessi_cata",
+   "rt_author_name": "jessicat",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1685306838835675136/_5D67lxc_normal.jpg",
+   "rt_id": "2125011381661598205",
+   "likes": 265,
+   "retweets": 36,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "enriched": 3
   }
  }
 }

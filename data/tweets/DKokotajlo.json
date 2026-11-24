@@ -10046,6 +10046,41 @@
    "quoted": null,
    "fetched_at": "2026-11-23T22:39:11.622944+00:00",
    "enriched": 3
+  },
+  "2125252408792305799": {
+   "id": "2125252408792305799",
+   "url": "https://x.com/DKokotajlo/status/2125252408792305799",
+   "text": "https://t.co/49yQ8AaQBK",
+   "created_at": "Tue Nov 24 15:37:14 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "lxrjl",
+   "rt_author_name": "alex lawsen",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1915290249418465282/zjqLEVj2_normal.jpg",
+   "rt_id": "2125119459149164953",
+   "likes": 254,
+   "retweets": 25,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX3w4qWbAAAA0RN.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX3w4qWbAAAA0RN.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/49yQ8AaQBK": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "enriched": 3
   }
  }
 }

@@ -4567,6 +4567,62 @@
    "quoted": null,
    "fetched_at": "2026-11-23T18:26:02.482217+00:00",
    "enriched": 3
+  },
+  "2125264449988612381": {
+   "id": "2125264449988612381",
+   "url": "https://x.com/_achan96_/status/2125264449988612381",
+   "text": "For the last two years, California's approach to frontier AI governance has been firmly grounded in evidence-based policymaking. Passing and implementing SB 53 was designed to establish foundational safety measures and generate more evidence on AI capabilities and risks. The logic was that as we learned more about the technology and its development, policy would need to evolve with it.\n\nOver the last few months, the nature of frontier AI development has fundamentally changed. \n\nA disturbing rise in loss-of-control incidents has exposed the challenges of controlling today's models. At the same time, frontier AI companies are increasingly using AI to automate AI research and development. This feedback loop could become self-sustaining — a process known as recursive self-improvement (RSI) — creating unprecedented risks.\n\nLast week, the California Government Operations Agency published AI Safety in 2026 and Beyond, making recommendations to build on SB 53. Among its recommendations, the report argues that California must have the authority to:\n\n- Cap recursive self-improvement;\n- Order corrective action when a developer breaches its own thresholds for automated AI R&D;\n- Require large frontier AI developers to create independently verified Risk Containment Protocols demonstrating their ability to shut down their models in an emergency.\n\nIt was an honor to work with the State of California and @goldman, @ghadfield, @alondra, and @ElencticAI to help conceive, research, and draft this report in my individual, personal capacity.\n\nThe coming months could prove decisive for the trajectory of AI development. I believe this Report offers a productive roadmap to help California meet the moment.",
+   "created_at": "Tue Nov 24 16:25:05 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "Scott_R_Singer",
+   "rt_author_name": "Scott Singer",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1782319825634668544/0LE7q393_normal.jpg",
+   "rt_id": "2125260157202403791",
+   "likes": 27,
+   "retweets": 8,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "enriched": 3
+  },
+  "2125108451974037571": {
+   "id": "2125108451974037571",
+   "url": "https://x.com/_achan96_/status/2125108451974037571",
+   "text": "We’re introducing Shirudo, an open-source Linux runtime allowing agents to defend systems without downtime. It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll out patches. Built by @cisco together with OpenAI.\n\nShirudo is a first step toward self-defending infrastructure that can adapt to new threats while keeping services running. Our goal is for defenders to work with AI agents to find affected systems, test and share shields, and deploy them without disrupting workloads.\n\nhttps://t.co/0AqGmcbxWH",
+   "created_at": "Tue Nov 24 06:05:12 +0000 2026",
+   "author_handle": "_achan96_",
+   "author_name": "Alan Chan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2017566584789680128/PvrnyFwC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "OpenAI",
+   "rt_author_name": "OpenAI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+   "rt_id": "2124980590717911527",
+   "likes": 19396,
+   "retweets": 2420,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX1vOUNXwAESQQN.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/0AqGmcbxWH": "https://openai.com/index/introducing-shirudo/",
+    "https://t.co/FZRZ7O0A9X": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "enriched": 3
   }
  }
 }

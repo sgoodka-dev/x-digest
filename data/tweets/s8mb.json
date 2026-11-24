@@ -15248,6 +15248,235 @@
    "quoted": null,
    "fetched_at": "2026-11-23T22:39:11.622944+00:00",
    "enriched": 3
+  },
+  "2125171544540258396": {
+   "id": "2125171544540258396",
+   "url": "https://x.com/s8mb/status/2125171544540258396",
+   "text": "@rorywoodbridge I got it to find me tickets for the Bayeux Tapestry by scanning the British Museum page regularly and letting me know when some came available from cancellations. Bought tickets for this Friday on Saturday instead of having to wait until April.",
+   "created_at": "Tue Nov 24 10:15:54 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "rorywoodbridge",
+   "reply_to_id": "2125163775548362930",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "parent": {
+    "id": "2125163775548362930",
+    "author_handle": "rorywoodbridge",
+    "author_name": "Rory Woodbridge",
+    "text": "@s8mb Any great use cases that jump out for you? I want to try but also reluctant to add *another* tool into the mix",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/rorywoodbridge/status/2125163775548362930",
+    "created_at": "Tue Nov 24 09:45:02 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125171274208915586": {
+   "id": "2125171274208915586",
+   "url": "https://x.com/s8mb/status/2125171274208915586",
+   "text": "@gregmarsh Does it have that \"built in\" in, eg, Texas? I wouldn't have expected it to.",
+   "created_at": "Tue Nov 24 10:14:50 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "gregmarsh",
+   "reply_to_id": "2125168319783162002",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "parent": {
+    "id": "2125168319783162002",
+    "author_handle": "gregmarsh",
+    "author_name": "Greg Marsh",
+    "text": "@s8mb Striking is how little appears to have been done to adapt Muse to the UK market.\n\nI've been testing it this morning by asking it to find me a better energy deal and it appears to rely almost entirely on web search and the underlying model's general knowledge of the UK market.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/gregmarsh/status/2125168319783162002",
+    "created_at": "Tue Nov 24 10:03:05 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125159687767179442": {
+   "id": "2125159687767179442",
+   "url": "https://x.com/s8mb/status/2125159687767179442",
+   "text": "@twells_twit I think it's cute",
+   "created_at": "Tue Nov 24 09:28:47 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "twells_twit",
+   "reply_to_id": "2125152394459963875",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "parent": {
+    "id": "2125152394459963875",
+    "author_handle": "twells_twit",
+    "author_name": "Twistwell",
+    "text": "@s8mb Their marketing is vomit inducing.  \n\nZuckerberg's teletubby zombie army. https://t.co/yf1IBCACQ3",
+    "links": {
+     "https://t.co/yf1IBCACQ3": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX4OiWHX0AAtKl-.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX4OiWHX0AAtKl-.jpg"
+     }
+    ],
+    "url": "https://x.com/twells_twit/status/2125152394459963875",
+    "created_at": "Tue Nov 24 08:59:48 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125152394459963875": {
+   "id": "2125152394459963875",
+   "url": "https://x.com/twells_twit/status/2125152394459963875",
+   "text": "@s8mb Their marketing is vomit inducing.  \n\nZuckerberg's teletubby zombie army. https://t.co/yf1IBCACQ3",
+   "created_at": "Tue Nov 24 08:59:48 +0000 2026",
+   "author_handle": "twells_twit",
+   "author_name": "Twistwell",
+   "is_reply": true,
+   "reply_to": "",
+   "reply_to_id": "2125145856475025842",
+   "avatar": "https://pbs.twimg.com/profile_images/1654102595567230981/8UzO-G4F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX4OiWHX0AAtKl-.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/yf1IBCACQ3": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "parent": {
+    "id": "2125145856475025842",
+    "author_handle": "s8mb",
+    "author_name": "Sam Bowman",
+    "text": "Muse is good, I’ve been enjoying it for a few weeks. It’s simple like Instinct but with the power of Grok Bot. It is my “daily driver”.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/s8mb/status/2125145856475025842",
+    "created_at": "Tue Nov 24 08:33:50 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125146420550545416": {
+   "id": "2125146420550545416",
+   "url": "https://x.com/s8mb/status/2125146420550545416",
+   "text": "We love beautiful ads, and so do our readers! https://t.co/chKLIXfZTE",
+   "created_at": "Tue Nov 24 08:36:04 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 111,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX4JZ0rXsAAYhd2.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX4JZ0uXkAEQq9k.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/chKLIXfZTE": ""
+   },
+   "quoted": {
+    "id": "2124911474607079646",
+    "author_name": "Works in Progress",
+    "links": {
+     "https://t.co/CCF0ZHydrJ": ""
+    },
+    "author": "WorksInProgMag",
+    "text": "One of our favorite parts of putting together the print edition is partnering with teams whose products we use and love. If you’re building something WIP readers should know about and want to see it in beautiful print, reach out to us at partnerships@worksinprogress.co https://t.co/CCF0ZHydrJ"
+   },
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "enriched": 3
+  },
+  "2125145856475025842": {
+   "id": "2125145856475025842",
+   "url": "https://x.com/s8mb/status/2125145856475025842",
+   "text": "Muse is good, I’ve been enjoying it for a few weeks. It’s simple like Instinct but with the power of Grok Bot. It is my “daily driver”.",
+   "created_at": "Tue Nov 24 08:33:50 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 63,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2125113457628594293",
+    "author_name": "David Singleton",
+    "links": {
+     "https://t.co/L9qaul3d4e": "https://about.fb.com/news/2026/11/muse-now-available-in-the-uk-muse-does-the-work-you-stay-in-control/"
+    },
+    "author": "dps",
+    "text": "Finally get to say this: @Muse is in the UK! I've been eager to bring this to my peeps back home for ages. Properly chuffed today 🇬🇧🇬🇧🇬🇧.\n\nEvery Muse runs on its own computer in the cloud. A separate security agent (Sentinel) checks its actions against permissions you've given. We built it this way because an agent that can do things for you needs more than instructions about what it should and should not do.\n\nYou can see what Muse does and decide what it remembers. More on how we built it and how to manage your controls: https://t.co/L9qaul3d4e"
+   },
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "enriched": 3
   }
  }
 }

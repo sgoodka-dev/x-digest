@@ -15406,6 +15406,96 @@
    "quoted": null,
    "fetched_at": "2026-11-22T18:30:31.988254+00:00",
    "enriched": 3
+  },
+  "2125284964723835083": {
+   "id": "2125284964723835083",
+   "url": "https://x.com/deanwball/status/2125284964723835083",
+   "text": "I recommend the children’s books of Virginia Lee Burton, whose World War II-era stories are often also meditations on rapid technological and historical change. Her most famous, “The Little House,” is not pictured here but worth it too. https://t.co/JXMhpZp89e",
+   "created_at": "Tue Nov 24 17:46:36 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX6HaUHWkAARFCq.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX6HaT8XQAAHMkN.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/JXMhpZp89e": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "enriched": 3
+  },
+  "2125256059849711923": {
+   "id": "2125256059849711923",
+   "url": "https://x.com/deanwball/status/2125256059849711923",
+   "text": "The research field is a machine for uncovering knowledge. In the past, such machines required a set of fairly expensive and sometimes hard to acquire components: journals, researchers, conferences, parochial norms, and gradual “taste” curation.\n\nBy nature, this cognitive capex limited the set of viable fields. The knowledge domain needed sufficient value to attract funding and patronage. Individuals needed to find the areas worthy enough to contribute their time and energy. Institutions needed to offer their prestige and space for the field to congeal. You’d constitute a research field only if “worth it” across a wide range of metrics.\n\nBut what happens when the costs of uncovering knowledge drop precipitously? The impressiveness of the Riemann result blinds us to the fact that there are now many many more areas of exploration where machine intelligence can be incrementally advancing knowledge in a fundamentally “self-driving” way.\n\nThis unlocks an infinite horizon of “microfields”: organized areas of study that are now viable in a vast space of domains for which a formal research field would previously have been a ludicrous proposition. These might be enabled by small groups of researchers with niche interests, or progress with no humans at all: just people donating compute to incubate self-propagating fields and literatures.",
+   "created_at": "Tue Nov 24 15:51:44 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "timhwang",
+   "rt_author_name": "Tim Hwang",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2067787805036511233/K9FmDGmQ_normal.jpg",
+   "rt_id": "2125250607258759648",
+   "likes": 36,
+   "retweets": 6,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "enriched": 3
+  },
+  "2125206725875896429": {
+   "id": "2125206725875896429",
+   "url": "https://x.com/deanwball/status/2125206725875896429",
+   "text": "GPT-6.2 Astra sits nearly 5x above the past two years’ exponential trend on robot-control benchmarks.\n\nBenchmarks are saturating ~10x faster than over the prior year. If the pace since September holds, top policies will saturate nearly every task we track by the end of 2027. https://t.co/CxvZvtPuQb",
+   "created_at": "Tue Nov 24 12:35:42 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "withplayground",
+   "rt_author_name": "Playground",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2113337277401149440/z5OsGue6_normal.jpg",
+   "rt_id": "2125085282139508903",
+   "likes": 519,
+   "retweets": 56,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX3P3cuWMAAnTA8.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/CxvZvtPuQb": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "enriched": 3
   }
  }
 }

@@ -9122,6 +9122,40 @@
    "quoted": null,
    "fetched_at": "2026-11-22T14:42:07.931500+00:00",
    "enriched": 3
+  },
+  "2125127398656192992": {
+   "id": "2125127398656192992",
+   "url": "https://x.com/sethlazar/status/2125127398656192992",
+   "text": "A lot of insight here!! The related problem is spreading yourself too thinly over many of these things. I have personally been trying to say “no” to as much as possible (which aggravates FOMO! Cos what if people stop asking??) so that I can focus more on a few specific bets. But it’s hard. Also because all these things are so intrinsically interesting. Still, good advice even if hard to follow!",
+   "created_at": "Tue Nov 24 07:20:29 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 15,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2124938880000618719",
+    "author_name": "David",
+    "links": {
+     "https://t.co/Dw7mLylnTO": "https://davidafrica.substack.com/p/everyone-in-ai-safety-gets-fomo",
+     "https://t.co/yaDzBRwRDH": "https://www.lesswrong.com/posts/4eXof4KR6d4edmcJ2/everyone-in-ai-safety-gets-fomo",
+     "https://t.co/7vSVQCjmpT": ""
+    },
+    "author": "DavidDAfrica",
+    "text": "If you often get FOMO because you could be working on more advocacy / policy / theory research / empirical research / evals / etc., because it's the most impactful/urgent/long-term thing, this is a post for you. I'd like to reassure you that many people feel the same!\n\nSubstack: https://t.co/Dw7mLylnTO\nLW: https://t.co/yaDzBRwRDH"
+   },
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "enriched": 3
   }
  }
 }

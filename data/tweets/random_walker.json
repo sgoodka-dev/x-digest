@@ -4712,6 +4712,32 @@
     }
    ],
    "enriched": 3
+  },
+  "2125207907780178151": {
+   "id": "2125207907780178151",
+   "url": "https://x.com/random_walker/status/2125207907780178151",
+   "text": "I learned a lot from this. AI can do a good job of producing the visible outputs of management consultants — research, slide decks, and financial models — and yet it is so far from replacing them. \nManagement consulting is not a thin wrapper on intelligence by @RodMoshtagi and @sayashk  https://t.co/8xIHVPNPxX",
+   "created_at": "Tue Nov 24 12:40:24 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1650881612756942850/bZYjMyFU_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 173,
+   "retweets": 22,
+   "media": [],
+   "links": {
+    "https://t.co/8xIHVPNPxX": "https://www.normaltech.ai/p/management-consulting-is-not-a-thin"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T17:55:21.709260+00:00",
+   "enriched": 3
   }
  }
 }
