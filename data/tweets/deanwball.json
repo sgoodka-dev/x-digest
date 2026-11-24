@@ -15496,6 +15496,38 @@
    "quoted": null,
    "fetched_at": "2026-11-24T17:55:21.709260+00:00",
    "enriched": 3
+  },
+  "2125336956838039860": {
+   "id": "2125336956838039860",
+   "url": "https://x.com/deanwball/status/2125336956838039860",
+   "text": "We’re sharing a new preprint showing wet lab validation of intrinsic protein design capabilities of the GPT-6 family of models. \n\nOur models can design new protein shapes and sequences using reasoning and code, without calling specialized biology models to generate them.\n\nhttps://t.co/cFfB0QHXub",
+   "created_at": "Tue Nov 24 21:13:12 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "OpenAI",
+   "rt_author_name": "OpenAI",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+   "rt_id": "2125334383490105601",
+   "likes": 532,
+   "retweets": 65,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2125331261908717568/img/jrWnfbvTT7Sv4iSN.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/cFfB0QHXub": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+    "https://t.co/ov2t24sUCh": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T21:11:17.171296+00:00",
+   "enriched": 3
   }
  }
 }

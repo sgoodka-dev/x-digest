@@ -2630,6 +2630,59 @@
     "created_at": "Mon Nov 23 21:42:47 +0000 2026"
    },
    "enriched": 3
+  },
+  "2125325974971597097": {
+   "id": "2125325974971597097",
+   "url": "https://x.com/alxndrdavies/status/2125325974971597097",
+   "text": "@_jasonwei Cool! IIUC this seems to track something pretty different than pre-training perplexity? One natural test is whether points labelled with the same perplexity in OAI's plot land similarly here, but they don't generally seem to (hasty claude plot). https://t.co/jFZzPHGHRX",
+   "created_at": "Tue Nov 24 20:29:33 +0000 2026",
+   "author_handle": "alxndrdavies",
+   "author_name": "Xander Davies",
+   "is_reply": true,
+   "reply_to": "_jasonwei",
+   "reply_to_id": "2125294984949809309",
+   "avatar": "https://pbs.twimg.com/profile_images/1895806890346508288/uTaw9IMv_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX6qCfVWUAAOx0B.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX6qCfVWUAAOx0B.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/jFZzPHGHRX": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T21:11:17.171296+00:00",
+   "parent": {
+    "id": "2125294984949809309",
+    "author_handle": "_jasonwei",
+    "author_name": "Jason Wei",
+    "text": "In \"Perplexity and Intelligence\", Jakub argues for perplexity as a shared metric for intelligence. The post showed how the perplexity of OpenAI's models improved, but did not release a dataset for the community to use.\n\nIn this blog post we show that simply taking the average of six multiple-choice benchmarks gives results that are strongly correlated with OpenAI’s reported perplexity results. The six benchmarks cover a broad diversity of domains and are challenging: MMLU-Pro, GPQA-diamond, MedXpertQA-text, MedXpertQA-mm, BrowseComp-MCQ, and SimpleQA-verified-MCQ.\n\nMultiple choice benchmarks of this nature offer a strong proxy for perplexity because they require both world knowledge and some reasoning, which are correlated with compression and hence intelligence. We run these benchmarks using the lowest reasoning strength available, in order to be closest to how perplexity measurement does not use chain-of-thought reasoning.\n\nIn addition to being simple, our proposed proxy for perplexity is cheap to run. On a subset of 1,700 questions, running GPT-6.2 Astra costs just $7, with the full set costing $37.\n\nWe agree with Jakub that perplexity is a good shared metric for intelligence and we hope this proposed proxy provides a starting point for the community to measure it.\n\nhttps://t.co/xaoki5exCF",
+    "links": {
+     "https://t.co/xaoki5exCF": "https://www.mercor.com/blog/a-simple-proxy-for-perplexity/",
+     "https://t.co/m5YMx2GYCE": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX6QMkFbIAAbsTR.jpg"
+     }
+    ],
+    "url": "https://x.com/_jasonwei/status/2125294984949809309",
+    "created_at": "Tue Nov 24 18:26:25 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

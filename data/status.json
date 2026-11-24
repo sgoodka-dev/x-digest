@@ -1,11 +1,11 @@
 {
  "last_run": {
-  "started": "2026-11-24T17:55:21.709260+00:00",
+  "started": "2026-11-24T21:11:17.171296+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
-    "new": 2,
-    "total": 198
+    "new": 1,
+    "total": 199
    },
    "add_hawk": {
     "ok": true,
@@ -20,21 +20,21 @@
    "alxndrdavies": {
     "ok": true,
     "new": 1,
-    "total": 110
+    "total": 111
    },
    "curl_justin": {
     "ok": true,
-    "new": 0,
-    "total": 126
+    "new": 1,
+    "total": 127
    },
    "DaveRBanerjee": {
     "ok": true,
-    "new": 5,
-    "total": 237
+    "new": 2,
+    "total": 239
    },
    "DKokotajlo": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 387
    },
    "dwarkesh_sp": {
@@ -64,7 +64,7 @@
    },
    "sayashk": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 162
    },
    "testingham": {
@@ -79,42 +79,43 @@
    },
    "s8mb": {
     "ok": true,
-    "new": 6,
-    "total": 648
+    "new": 1,
+    "total": 649
    },
    "random_walker": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 193
    },
    "sethlazar": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 405
    },
    "robertwiblin": {
     "ok": true,
-    "new": 13,
-    "total": 527
+    "new": 4,
+    "total": 531
    },
    "deanwball": {
     "ok": true,
-    "new": 3,
-    "total": 680
+    "new": 1,
+    "total": 681
    },
    "nabeelqu": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 149
    },
    "theobearman": {
     "ok": true,
-    "new": 4,
-    "total": 501
+    "new": 2,
+    "total": 503
    },
    "peterwilderford": {
-    "ok": false,
-    "error": "twitterapi.io request failed after 3 tries: 503 Server Error: Service Unavailable for url: https://api.twitterapi.io/twitter/user/last_tweets?userName=peterwilderford&includeReplies=true"
+    "ok": true,
+    "new": 0,
+    "total": 0
    },
    "anton_d_leicht": {
     "ok": true,
@@ -123,12 +124,13 @@
    },
    "NateWitkin": {
     "ok": true,
-    "new": 1,
-    "total": 209
+    "new": 2,
+    "total": 211
    },
    "charnock_jacob": {
-    "ok": false,
-    "error": "twitterapi.io request failed after 3 tries: 503 Server Error: Service Unavailable for url: https://api.twitterapi.io/twitter/user/last_tweets?userName=charnock_jacob&includeReplies=true&cursor=DAADDAABCgABHX59MRabwU4KAAIdZ02nh1aR0AAIAAIAAAACCAADAAAAAAgABAAAAAAKAAUdfooUOoAnEAoABh1-ihQ6f9jwCwAHAAAA0EV"
+    "ok": true,
+    "new": 3,
+    "total": 12
    },
    "jasminewsun": {
     "ok": true,
@@ -136,7 +138,7 @@
     "total": 96
    }
   },
-  "new_tweets": 41,
-  "finished": "2026-11-24T17:58:48.460651+00:00"
+  "new_tweets": 18,
+  "finished": "2026-11-24T21:14:33.543530+00:00"
  }
 }

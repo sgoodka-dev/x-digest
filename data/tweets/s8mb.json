@@ -15477,6 +15477,38 @@
    },
    "fetched_at": "2026-11-24T17:55:21.709260+00:00",
    "enriched": 3
+  },
+  "2125297919243014555": {
+   "id": "2125297919243014555",
+   "url": "https://x.com/s8mb/status/2125297919243014555",
+   "text": "Come and make videos with us!",
+   "created_at": "Tue Nov 24 18:38:04 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 20,
+   "retweets": 3,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2125257174343356771",
+    "author_name": "Works in Progress",
+    "links": {
+     "https://t.co/So47k5gRE9": "https://body-next-64832997.figma.site/"
+    },
+    "author": "WorksInProgMag",
+    "text": "Works in Progress is hiring! \n\nWe’re looking for a freelance YouTube Producer to help us scale our long-form video content. Candidates must be based in NYC.\n\nhttps://t.co/So47k5gRE9"
+   },
+   "fetched_at": "2026-11-24T21:11:17.171296+00:00",
+   "enriched": 3
   }
  }
 }

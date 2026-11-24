@@ -14349,6 +14349,67 @@
    "quoted": null,
    "fetched_at": "2026-11-24T17:55:21.709260+00:00",
    "enriched": 3
+  },
+  "2125319218291769425": {
+   "id": "2125319218291769425",
+   "url": "https://x.com/theobearman/status/2125319218291769425",
+   "text": "I really like @EvanHub 's new pacing proposal here https://t.co/sglqFNVoAk",
+   "created_at": "Tue Nov 24 20:02:42 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "w01fe",
+   "rt_author_name": "Jason Wolfe",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1966534318077194240/NyhJ0EPD_normal.jpg",
+   "rt_id": "2125303856267657418",
+   "likes": 49,
+   "retweets": 6,
+   "media": [],
+   "links": {
+    "https://t.co/sglqFNVoAk": "https://www.lesswrong.com/posts/HE3Styo9vpk7m8zi4/evhub-s-shortform?commentId=7wDTwjeRuPfvukqWK"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T21:11:17.171296+00:00",
+   "enriched": 3
+  },
+  "2125305533611601987": {
+   "id": "2125305533611601987",
+   "url": "https://x.com/theobearman/status/2125305533611601987",
+   "text": "New post: Eval awareness remains an unsolved problem\n\nMany of our safety claims rely on behavioral audits/alignment evals, even though models are more eval-aware than ever, and we have ~no understanding of how eval awareness affects their behavior. I think we need to do better! https://t.co/XJRg04etDW",
+   "created_at": "Tue Nov 24 19:08:20 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "vvvincent_c",
+   "rt_author_name": "Vincent",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1785684220423307264/Vx5m6FCA_normal.jpg",
+   "rt_id": "2125272482915512406",
+   "likes": 63,
+   "retweets": 6,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX3us8Za4AAsCRp.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX3us8Za4AAsCRp.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/XJRg04etDW": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T21:11:17.171296+00:00",
+   "enriched": 3
   }
  }
 }

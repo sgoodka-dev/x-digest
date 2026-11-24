@@ -5628,6 +5628,84 @@
     "created_at": "Mon Nov 23 05:30:05 +0000 2026"
    },
    "enriched": 3
+  },
+  "2125329166102835236": {
+   "id": "2125329166102835236",
+   "url": "https://x.com/DaveRBanerjee/status/2125329166102835236",
+   "text": "When the Hugging Face incident happened, the independent investigators had only a few days to review 50 petabytes of data. A single human would have needed over 60 million years to get through it\n\nAs we automate larger and larger fractions of the government, oversight bodies will face the same impossible task. They will have petabytes of government data to review and nowhere near enough humans to review it\n\nBut the Hugging Face investigators used AIs to review the logs at a speed and scale that no team of humans could match. Oversight bodies can do the same\n\nDone right, we could equip the government's oversight bodies with automated AI auditors to help oversee an AI-run government\n\nIn other words, oversight bodies need to slopvestigationmaxx if they want to keep up in the automated era",
+   "created_at": "Tue Nov 24 20:42:14 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX6vknEX0AAwKan.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/9BAEiTDSCo": ""
+   },
+   "quoted": {
+    "id": "2125267078273974516",
+    "author_name": "Severin Field 🦅",
+    "links": {
+     "https://t.co/BzNwsi3vzM": ""
+    },
+    "author": "sevdeawesome",
+    "text": "We argue the government should log its own AI usage as automatically as it logs emails. Logs could then be shared with a sealed AI auditor, limited by design, so Congress can verify that AI-driven decisions followed the law without seeing every decision and log. https://t.co/BzNwsi3vzM"
+   },
+   "fetched_at": "2026-11-24T21:11:17.171296+00:00",
+   "enriched": 3
+  },
+  "2125313448548716586": {
+   "id": "2125313448548716586",
+   "url": "https://x.com/DaveRBanerjee/status/2125313448548716586",
+   "text": "AI researchers are sounding the alarm that human-level AI is just around the corner\n\nBut what happens when you staff the entire government with AIs?\n\nThis would obviously be the greatest achievement in state capacity in human history, but it's not hard to imagine how an AI-run government is ripe for abuse\n\n@sevdeawesome and I wrote \"The Legible Leviathan\" for @JoinFAI, on how to use AI to oversee an AI-run government, enabling the most transparent and accountable state ever imagined",
+   "created_at": "Tue Nov 24 19:39:47 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 11,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX6hRtdWwAAOG3_.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/pKxeANgWUk": ""
+   },
+   "quoted": {
+    "id": "2125267072712352090",
+    "author_name": "Severin Field 🦅",
+    "links": {
+     "https://t.co/zkZjiv0i6l": ""
+    },
+    "author": "sevdeawesome",
+    "text": "An AI-powered government would be the most powerful state in history: far more capable of abuse, and less likely to be caught.\n\n@DaveBanerjee and I wrote \"The Legible Leviathan\" for @JoinFAI on AI-enabled checks and balances to oversee an AI-run government.🧵 https://t.co/zkZjiv0i6l"
+   },
+   "fetched_at": "2026-11-24T21:11:17.171296+00:00",
+   "enriched": 3
   }
  }
 }
