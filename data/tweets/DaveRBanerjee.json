@@ -5706,6 +5706,43 @@
    },
    "fetched_at": "2026-11-24T21:11:17.171296+00:00",
    "enriched": 3
+  },
+  "2125347640917238200": {
+   "id": "2125347640917238200",
+   "url": "https://x.com/DaveRBanerjee/status/2125347640917238200",
+   "text": "@davidmanheim @sevdeawesome I think there is a meaningful difference between overseeing TED-AI and ASI. I agree that if you’re trying to set up an oversight mechanism for a USG-procured neuralese ASI, then you’d need to solve hard problems in scalable oversight. But if the USG legislates that the USG can only use monitorable models, then you’d only have to oversee CoT-visible AGI-\n\nI would read our article as assuming that you have a monitorable model in the first place (which isn’t that crazy of an assumption since governments are risk averse and might not want to procure a SOTA model that might be misaligned)",
+   "created_at": "Tue Nov 24 21:55:39 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "davidmanheim",
+   "reply_to_id": "2125335805317255385",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-24T23:54:45.726159+00:00",
+   "parent": {
+    "id": "2125335805317255385",
+    "author_handle": "davidmanheim",
+    "author_name": "David Manheim",
+    "text": "@DaveRBanerjee But meaningful oversight requires much more than just logging and post-hoc review. Labs can't do it, so I expect the government won't be able to either.\n(cc: @sevdeawesome)\n\nSee our paper: https://t.co/DlpYqoNizU\nOr the blog post:\nhttps://t.co/LEE7DhisxJ",
+    "links": {
+     "https://t.co/DlpYqoNizU": "https://arxiv.org/abs/2507.03525",
+     "https://t.co/LEE7DhisxJ": "https://x.com/davidmanheim/status/2103012903838458199"
+    },
+    "media": [],
+    "url": "https://x.com/davidmanheim/status/2125335805317255385",
+    "created_at": "Tue Nov 24 21:08:37 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

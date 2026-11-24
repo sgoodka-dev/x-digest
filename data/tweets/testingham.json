@@ -3452,6 +3452,209 @@
    "quoted": null,
    "fetched_at": "2026-11-22T18:30:31.988254+00:00",
    "enriched": 3
+  },
+  "2125376423754162528": {
+   "id": "2125376423754162528",
+   "url": "https://x.com/testingham/status/2125376423754162528",
+   "text": "We encourage other developers to share this information as well.\n\nIn a new update, we discuss possible interpretations of this trend, and additional data that would help us distinguish between them: https://t.co/2KcHr4MrUw",
+   "created_at": "Tue Nov 24 23:50:01 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2057221538160766976/KAtze74k_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "METR_Evals",
+   "rt_author_name": "METR",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2021827383431757824/AeVvT0rU_normal.jpg",
+   "rt_id": "2125372375676129621",
+   "likes": 18,
+   "retweets": 3,
+   "media": [],
+   "links": {
+    "https://t.co/2KcHr4MrUw": "https://metr.org/blog/2026-11-24-interpreting-a-recent-acceleration-in-pretraining-loss/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T23:54:45.726159+00:00",
+   "enriched": 3
+  },
+  "2125375851084841320": {
+   "id": "2125375851084841320",
+   "url": "https://x.com/testingham/status/2125375851084841320",
+   "text": "@adamascholl Wow 1928, only available as first edition for $100, intriguing!",
+   "created_at": "Tue Nov 24 23:47:45 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "adamascholl",
+   "reply_to_id": "2125375374372769893",
+   "avatar": "https://pbs.twimg.com/profile_images/2057221538160766976/KAtze74k_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-24T23:54:45.726159+00:00",
+   "parent": {
+    "id": "2125375374372769893",
+    "author_handle": "adamascholl",
+    "author_name": "Adam Scholl",
+    "text": "@testingham Most of the rest of the theory of measurement literature struck me as rather a dumpster fire",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/adamascholl/status/2125375374372769893",
+    "created_at": "Tue Nov 24 23:45:51 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125364242073473235": {
+   "id": "2125364242073473235",
+   "url": "https://x.com/testingham/status/2125364242073473235",
+   "text": "Very nice catechism in economic history",
+   "created_at": "Tue Nov 24 23:01:37 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2057221538160766976/KAtze74k_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2125314748392603858",
+    "author_name": "Basil Halperin",
+    "links": {
+     "https://t.co/Uh0IloQNSO": "https://basilhalperin.com/essays/macrohistory.html",
+     "https://t.co/PmOPkmwaUa": ""
+    },
+    "author": "BasilHalperin",
+    "text": "Macrohistory in Six Facts 🧵\nhttps://t.co/Uh0IloQNSO https://t.co/PmOPkmwaUa"
+   },
+   "fetched_at": "2026-11-24T23:54:45.726159+00:00",
+   "enriched": 3
+  },
+  "2125360491409326210": {
+   "id": "2125360491409326210",
+   "url": "https://x.com/testingham/status/2125360491409326210",
+   "text": "stevens 1946: https://t.co/6toUKLYc6D",
+   "created_at": "Tue Nov 24 22:46:43 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "testingham",
+   "reply_to_id": "2125359448390812112",
+   "avatar": "https://pbs.twimg.com/profile_images/2057221538160766976/KAtze74k_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 7,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX7MFSvaAAAi5m0.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX7MFSvaAAAi5m0.png"
+    }
+   ],
+   "links": {
+    "https://t.co/6toUKLYc6D": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T23:54:45.726159+00:00",
+   "parent": {
+    "id": "2125359448390812112",
+    "author_handle": "testingham",
+    "author_name": "tom cunningham",
+    "text": "everybody in bay area cracking this big boy open to figure out how to measure AI capability in a way that'll let you define an acceleration (ordinal, cardinal, interval &amp; ratio scales) https://t.co/CcayXj6Dod",
+    "links": {
+     "https://t.co/CcayXj6Dod": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX7KukSbkAArgIA.png"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX7KukSbkAArgIA.png"
+     }
+    ],
+    "url": "https://x.com/testingham/status/2125359448390812112",
+    "created_at": "Tue Nov 24 22:42:34 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125359448390812112": {
+   "id": "2125359448390812112",
+   "url": "https://x.com/testingham/status/2125359448390812112",
+   "text": "everybody in bay area cracking this big boy open to figure out how to measure AI capability in a way that'll let you define an acceleration (ordinal, cardinal, interval &amp; ratio scales) https://t.co/CcayXj6Dod",
+   "created_at": "Tue Nov 24 22:42:34 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2057221538160766976/KAtze74k_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 26,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX7KukSbkAArgIA.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX7KukSbkAArgIA.png"
+    }
+   ],
+   "links": {
+    "https://t.co/CcayXj6Dod": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T23:54:45.726159+00:00",
+   "thread": [
+    {
+     "id": "2125360491409326210",
+     "author_handle": "testingham",
+     "author_name": "tom cunningham",
+     "text": "stevens 1946: https://t.co/6toUKLYc6D",
+     "links": {
+      "https://t.co/6toUKLYc6D": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HX7MFSvaAAAi5m0.png"
+      }
+     ],
+     "url": "https://x.com/testingham/status/2125360491409326210",
+     "created_at": "Tue Nov 24 22:46:43 +0000 2026"
+    }
+   ],
+   "enriched": 3
   }
  }
 }

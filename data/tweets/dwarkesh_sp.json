@@ -5543,6 +5543,113 @@
     }
    ],
    "enriched": 3
+  },
+  "2125374882946949194": {
+   "id": "2125374882946949194",
+   "url": "https://x.com/dwarkesh_sp/status/2125374882946949194",
+   "text": ".@JoHenrich explains how the Catholic Church unintentionally caused the Industrial Revolution. \n\nThe Church wanted to acquire land and wealth that would otherwise remain within extended kinship networks.   \n\nSo they systematically dismantled these competing kin system of Early Medieval Europe.   \n\n\"By the high Middle Ages, you get the rise of guilds, which are voluntary groups of craftsmen and self-help societies, because people don't have their families to rely on.  \n\nPeople begin moving around, there's occupational sorting into different occupations, urbanization is rising, charter towns are on the rise, universities pop up, new kinds of monasteries pop up.\"",
+   "created_at": "Tue Nov 24 23:43:54 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1915048486505971712/H2jFRoW6_normal.jpg",
+   "rt_id": "2123823695210930379",
+   "likes": 30,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2122014169616519168/img/a281itSKFt3sHV2i.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/AL6v9s9ram": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T23:54:45.726159+00:00",
+   "enriched": 3
+  },
+  "2125345346465472528": {
+   "id": "2125345346465472528",
+   "url": "https://x.com/dwarkesh_sp/status/2125345346465472528",
+   "text": "I responded to the strongest objections that people had about the RSI essay.\n\nAlso available on YouTube and your podcasting app. https://t.co/D55V8zp8LO",
+   "created_at": "Tue Nov 24 21:46:32 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 196,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HX6_ImXWUAAN8E3.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HX6_ImXWUAAN8E3.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/D55V8zp8LO": ""
+   },
+   "quoted": {
+    "id": "2121311524409225611",
+    "author_name": "Dwarkesh Patel",
+    "links": {
+     "https://t.co/z5RsJgcWWc": "https://www.dwarkesh.com/p/rsi",
+     "https://t.co/Ud6MDxiADh": ""
+    },
+    "author": "dwarkesh_sp",
+    "text": "The avalanche that hit math is coming for AI development.\n\nhttps://t.co/z5RsJgcWWc https://t.co/Ud6MDxiADh"
+   },
+   "fetched_at": "2026-11-24T23:54:45.726159+00:00",
+   "enriched": 3
+  },
+  "2125341641510912184": {
+   "id": "2125341641510912184",
+   "url": "https://x.com/dwarkesh_sp/status/2125341641510912184",
+   "text": "Dwarkesh Patel says the government should mandate public access to every model AI labs use internally.\n\n\"We don't wanna be in a situation where people are secretly doing intelligence explosions.\"\n\n\"If you don't trust your AI enough to let it be deployed publicly and be robust to people trying to use it to do very dangerous things, then you probably shouldn't be using it to develop future AI systems as well.\"\n\nSource: The Long Game podcast https://t.co/Ii2qIgolls",
+   "created_at": "Tue Nov 24 21:31:48 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "vitrupo",
+   "rt_author_name": "vitrupo",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1905435709407985666/RfAHID81_normal.jpg",
+   "rt_id": "2124935837267956073",
+   "likes": 643,
+   "retweets": 50,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2124935765985742848/img/aQocg44AtK9T5Zb8.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/Ii2qIgolls": "https://www.youtube.com/watch?v=Sq32DUozdSc&t=2660s",
+    "https://t.co/ggJ2N5sTTb": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-24T23:54:45.726159+00:00",
+   "enriched": 3
   }
  }
 }

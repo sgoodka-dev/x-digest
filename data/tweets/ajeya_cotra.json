@@ -2621,6 +2621,49 @@
    "quoted": null,
    "fetched_at": "2026-11-23T18:26:02.482217+00:00",
    "enriched": 3
+  },
+  "2125373767237214391": {
+   "id": "2125373767237214391",
+   "url": "https://x.com/ajeya_cotra/status/2125373767237214391",
+   "text": "The 7x (!!) acceleration in pretraining loss reduction from the OpenAI chart is only more striking because that trend is supposed to bend the other direction. https://t.co/hzCTb58kV7",
+   "created_at": "Tue Nov 24 23:39:28 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1653845490885332995/GPWuOoqu_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 34,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX7YE6TbUAEvLRN.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX7YE6TbUAEvLRN.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/hzCTb58kV7": ""
+   },
+   "quoted": {
+    "id": "2125372372039741753",
+    "author_name": "METR",
+    "links": {
+     "https://t.co/IjS4SB5gWn": ""
+    },
+    "author": "METR_Evals",
+    "text": "OpenAI published the pretraining loss of all of its frontier models since GPT-3.5. They show log-perplexity falling ~7 times faster since early 2026 than over 2022-2025.\n\nWe think sharing pretraining loss is very valuable for improving public understanding of AI R&amp;D acceleration. https://t.co/IjS4SB5gWn"
+   },
+   "fetched_at": "2026-11-24T23:54:45.726159+00:00",
+   "enriched": 3
   }
  }
 }
