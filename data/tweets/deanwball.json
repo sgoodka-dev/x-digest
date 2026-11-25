@@ -15774,6 +15774,40 @@
    },
    "fetched_at": "2026-11-25T20:28:29.687688+00:00",
    "enriched": 3
+  },
+  "2125717027646324805": {
+   "id": "2125717027646324805",
+   "url": "https://x.com/deanwball/status/2125717027646324805",
+   "text": "@danrobinson @testingham @TomDavidsonX @basil @ramez @dwarkesh_sp @KelseyTuoc @TheZvi @peterwildeford @ChrisTonetti @tobyordoxford @tylercowen @slatestarcodex I basically agree with all of this.",
+   "created_at": "Wed Nov 25 22:23:27 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "danrobinson",
+   "reply_to_id": "2125699708559802741",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 26,
+   "retweets": 1,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-25T23:37:56.974457+00:00",
+   "parent": {
+    "id": "2125699708559802741",
+    "author_handle": "danrobinson",
+    "author_name": "Dan Robinson",
+    "text": "My median predictions for RSI in 2027 🧵\n\n(Informed by a few simple models and by reading @testingham, @TomDavidsonX, @basil, @ramez, @dwarkesh_sp, @KelseyTuoc, @TheZvi, @peterwildeford, @ChrisTonetti, @deanwball, @tobyordoxford, @tylercowen, @slatestarcodex, and many others)",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/danrobinson/status/2125699708559802741",
+    "created_at": "Wed Nov 25 21:14:38 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }
