@@ -14700,6 +14700,92 @@
    "quoted": null,
    "fetched_at": "2026-11-25T17:23:23.032605+00:00",
    "enriched": 3
+  },
+  "2125686888635768833": {
+   "id": "2125686888635768833",
+   "url": "https://x.com/theobearman/status/2125686888635768833",
+   "text": "Compute markets are finally here.\n\n@Polymarket now prices on-demand compute for @nvidia H100s, B200s, and B300s, out to 2028. More chips and terms soon. https://t.co/JAJHRcAk8N\n\nThink of it as a yield curve for the cost of compute: the forecasted $/hour price of each chip at every expiry, and whether it's trending up or down. The whole AI economy rides on these prices, and until today there was no public market for where they're going. Which is nuts. So Polymarket built it.\n\nThis will change how compute gets bought and financed. Every contract negotiation and every GPU loan will have a market price to check against.\n\nHundreds of billions of dollars are being committed to compute years in advance. Many of those deals are essentially a levered bet on what GPUs will rent for in the future (what could go wrong lol)\n\nAs AI financing sobers up, the labs buying compute, the providers selling it, and the lenders financing it will all need to hedge that risk.\n\nWe think compute could become one of the largest financial markets in the world. This launch is Polymarket's first step toward building it. \n\nIf you’re buying, selling, or financing compute, DM us with what markets you'd like to see.",
+   "created_at": "Wed Nov 25 20:23:42 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "shayne_coplan",
+   "rt_author_name": "Shayne Coplan 🦅",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1458132114105413633/youFcLMv_normal.jpg",
+   "rt_id": "2125653367640805799",
+   "likes": 1924,
+   "retweets": 222,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX_U_9KX0AI-RJh.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/JAJHRcAk8N": "http://polymarket.com/compute",
+    "https://t.co/eVSUfimblu": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-25T20:28:29.687688+00:00",
+   "enriched": 3
+  },
+  "2125681280050483591": {
+   "id": "2125681280050483591",
+   "url": "https://x.com/theobearman/status/2125681280050483591",
+   "text": "@iruletheworldmo Actually, yes.  I now think it's over 50% likely that we'll have Minimal AGI before 2028.  We're getting close now.",
+   "created_at": "Wed Nov 25 20:01:25 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ShaneLegg",
+   "rt_author_name": "Shane Legg",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1985344651583234049/-wzq2e0u_normal.jpg",
+   "rt_id": "2125665607840346357",
+   "likes": 367,
+   "retweets": 35,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-25T20:28:29.687688+00:00",
+   "enriched": 3
+  },
+  "2125660818012573966": {
+   "id": "2125660818012573966",
+   "url": "https://x.com/theobearman/status/2125660818012573966",
+   "text": "No, I do not believe that we should “surrender human free will” to AI systems, and it’s absurd to suggest that I do. I have written hundreds of pages of essays and a constant theme in them is the need for AI to be governed by legitimate democratic processes. For millennia (going all the way back to Greek and Roman philosophers), advocates of autocracy have claimed that it leads to better, faster, or more decisive decision-making than the messy process of democracy. Even if this were true (which I doubt!), we should never sacrifice legitimacy or self-determination at the altar of efficiency or security. This argument against autocracy applies word for word against governance by AI, and I feel equally strongly that turning over governance to AI is a bad idea.\n\nNo one who had carefully read my writing or my interviews could reasonably conclude that I believe anything different. For example in an interview on CBS a couple months ago, I specifically called for AI to be governed democratically. I call for the same in Policy on the AI Exponential, Machines of Loving Grace, and The Adolescence of Technology, and We Must Pace the Frontier. Machines of Loving Grace contains an extended section on using AI to revitalize democracy, and discusses the use of AI as an aid to citizens in their decision-making, \"aggregat[ing] opinions and driv[ing] consensus among citizens, resolving conflict, finding common ground, and seeking compromise.” The clear and obvious implication is that humans should remain the ones making political and governance decisions. The Adolescence of Technology has an entire section on fighting against AI-driven tyranny, and I even discuss the danger of AI labs usurping power and come out strongly against it — by implication, this definitely includes an AI lab usurping power and giving it to AI itself!\n\nIf I thought any of this was a good idea, I would be advocating for it in public, just as I have not been afraid to advocate for many, many unpopular views over the last few years. But I am not advocating for it, because I think turning over governance to AI is a terrible idea.\n\nSeparately, I think there is frequent conflation (including in this article) between the idea of “surrendering human free will” to AI in some grand sense of global governance, and the more prosaic idea that as AI systems advance, they become capable of doing specific tasks in a more automated way. This is not AI “running the world,” but AI driving a car, designing a cancer drug, or writing software end-to-end. Here, my view is mixed. AI doing more complete or larger tasks is economically valuable and can drive important advances in software, medicine, transportation, energy, etc. It is clearly desirable in many cases and will save a lot of lives. But it has downsides as well, and in some areas it may not be worth it.\n\nFor example, using AI too autonomously to build the next generation of AI systems (known as recursive self-improvement, or RSI) may cause AI to improve faster than we can control or adjust to it, so we may want limits on this process. As we said publicly in early November, we don’t expect it to be safe for Claude to build successive frontier models fully autonomously, without meaningful human supervision or understanding. Second, in some contexts, using AI in too end-to-end a manner may be a cause of serious job disruption, and it may make sense to slow or even stop some AI deployments to give people more time to adapt. Third, while the use of AI for alignment research is an incredibly valuable tool, it must be done with caution, because we may not be able to trust the work of the AI system. Finally, in many cases, humans would simply prefer to do some activities themselves, so they can stay deeply engaged in what matters to them, even if AI can do those activities better. There are countless other examples and hard cases. I don’t think there are any easy answers here, nor is there (nor should there be) any single decision-maker: some of these decisions will be made by society, some by government, some by AI companies, and some in a decentralized manner by individuals expressing their own preferences as consumers, which may differ from the preferences of others.\n\nI don't think that other AI leaders or AI companies have significantly different views from me on whether specific tasks should be automated. Certainly the products that they offer don’t differ materially in their orientation towards automation of tasks; every company seems to be releasing models more and more capable of task automation (as that’s been the general consequence of scaling up AI training), and every company claims to understand there are risks and downsides of such automation and to offer safeguards. If anything, Anthropic has been the most vocal and the most proactive about acknowledging these downsides and trying to address them. For instance, it’s fairly absurd to cite my statement that fully autonomous weapons might “one day be needed for the defense of democracy” as differing from that of other AI companies, when I was willing to risk Anthropic’s future as a company to refuse to allow our existing AI models to be used for autonomous weapons even in the face of legal sanctions, and no other AI company did the same.\n\nTo summarize, as applied to grand questions of how we govern increasingly capable AI, I have been vocal and consistent that AI needs to be governed by a legitimate, democratic process and that “surrendering human free will” to AI systems is a terrible idea. As applied to automation of specific tasks by or for people, my views are more mixed, but I don’t think they differ from those of other AI companies — most other companies seem to be offering similar products and confronting similar tradeoffs without having perfect answers to them. What is happening is that there’s a sort of vibes-based commercial and political positioning that some AI CEOs are engaging in, where they repeat slogans like “human control and agency,” or “AI should be just a tool,” without actually doing anything different in their products or taking seriously the difficult questions that lie behind these slogans.",
+   "created_at": "Wed Nov 25 18:40:06 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "DarioAmodei",
+   "rt_author_name": "Dario Amodei",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2015835742577012736/uOwdzrEz_normal.jpg",
+   "rt_id": "2125656399392690605",
+   "likes": 7921,
+   "retweets": 791,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2125532966340239395",
+    "author_name": "",
+    "links": {},
+    "author": "",
+    "text": ""
+   },
+   "fetched_at": "2026-11-25T20:28:29.687688+00:00",
+   "enriched": 3
   }
  }
 }

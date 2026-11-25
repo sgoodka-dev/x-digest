@@ -5779,6 +5779,30 @@
     "created_at": "Tue Nov 24 23:27:00 +0000 2026"
    },
    "enriched": 3
+  },
+  "2125658054674862088": {
+   "id": "2125658054674862088",
+   "url": "https://x.com/DaveRBanerjee/status/2125658054674862088",
+   "text": "It's striking how much more \"AI safety insiders\" updated from the recent METR report than other ppl\n\nI was thinking a bit about why\n\nFor me the situation was pretty crazy because, a cpl of years ago, I'd explicitly thought about how i'd interpret *the exact thing that METR found*\n\nI was thinking about how to do Responsible Scaling Policies for the intelligence explosion.\n\nI literally thought \"what about a threshold that fires when AI has made AI progress is 2x faster than it is today\"\n\nI recall being worried the threshold would trigger too late. By the time it triggered, we could be entering an intense intelligence explosion within a few months.\n\nI was worried it would be too late to implement the necessary security and safety measures.\n\nThis threshold is the exact thing that METR found to be plausible!\n\nThe fact that I'd done the calculation in advance made a big difference to how I interpreted the METR result.\n\nBy disposition I *feel* sceptical of crazy-seeming claims.\n\nIn 2020 my AGI timelines were in the 2050s. In 2023 they were in the 2040s.\n\nIf I hadn't done the calculation in advance, I would have *felt* sceptical of short timelines. I would have found a interpretation/argument that justified that feeling.\n\nThat's a v natural way to reason: \"I feel sceptical of ASI in 2027-8. And yes, that's totally consistent with the evidence from the METR report\"\n\nI think this is how the non-\"AI safety insiders\" have responded.\n\nBut I had done the calculation in advance.\n\nSo I knew that, from an unbiased perspective, a 2X acceleration in the pace of AI progress was an extremely big deal that happens late in the day.\n\nOf course, there are many possible reasons why we might not get ASI in 2027-8.\n\nBut still, I knew that the METR report was a big timelines update.\n\nAnd when you've done the calculation in advance, it's much harder for your gut feelings/instincts to override the objective evidence that's come in",
+   "created_at": "Wed Nov 25 18:29:07 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "TomDavidsonX",
+   "rt_author_name": "Tom Davidson",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1902304373084188674/2ET1vJg3_normal.jpg",
+   "rt_id": "2125651041794609439",
+   "likes": 67,
+   "retweets": 4,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-25T20:28:29.687688+00:00",
+   "enriched": 3
   }
  }
 }

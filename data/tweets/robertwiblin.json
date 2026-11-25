@@ -14894,6 +14894,42 @@
    "quoted": null,
    "fetched_at": "2026-11-25T17:23:23.032605+00:00",
    "enriched": 3
+  },
+  "2125644552740704383": {
+   "id": "2125644552740704383",
+   "url": "https://x.com/robertwiblin/status/2125644552740704383",
+   "text": "Run, don't walk, to a short-timelines-responsive AI safety role:\n\n\"If there's a year before ASI, then a month is ~8% of the time remaining...\"\n\nUnfortunately we need every hand on deck immediately.\n\nhttps://t.co/uqt7UXromi https://t.co/g32CUQCJWA",
+   "created_at": "Wed Nov 25 17:35:28 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 61,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX_OWvbXoAARBAz.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX_OWvbXoAARBAz.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/uqt7UXromi": "https://forum.effectivealtruism.org/posts/YRJfpYxvjhQTEaNwi/run-don-t-walk-to-a-short-timelines-responsive-ai-safety",
+    "https://t.co/g32CUQCJWA": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-25T20:28:29.687688+00:00",
+   "enriched": 3
   }
  }
 }

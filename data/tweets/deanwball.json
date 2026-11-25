@@ -15708,6 +15708,72 @@
    "quoted": null,
    "fetched_at": "2026-11-25T17:23:23.032605+00:00",
    "enriched": 3
+  },
+  "2125653230470492395": {
+   "id": "2125653230470492395",
+   "url": "https://x.com/deanwball/status/2125653230470492395",
+   "text": "@GovAmyKlobuchar Presumably you mean the weights, but I don’t think making model parameters downloadable really addresses the handover question. Other concentration of power questions, perhaps, but not this one",
+   "created_at": "Wed Nov 25 18:09:57 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "GovAmyKlobuchar",
+   "reply_to_id": "2125646804460966353",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-25T20:28:29.687688+00:00",
+   "parent": {
+    "id": "2125646804460966353",
+    "author_handle": "GovAmyKlobuchar",
+    "author_name": "will 🌱",
+    "text": "OpenAI could put its money where its mouth is and release its models or at least the previous generations",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/GovAmyKlobuchar/status/2125646804460966353",
+    "created_at": "Wed Nov 25 17:44:25 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125646852905116080": {
+   "id": "2125646852905116080",
+   "url": "https://x.com/deanwball/status/2125646852905116080",
+   "text": "you have to give Harper credit for having the chutzpah to drop this extraordinary clunker just a week after the mathematics pile on.",
+   "created_at": "Wed Nov 25 17:44:36 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 53,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2125617613640450374",
+    "author_name": "Tyler Austin Harper",
+    "links": {
+     "https://t.co/5aDUJ4DOvE": ""
+    },
+    "author": "Tyler_A_Harper",
+    "text": "I wrote about Grand Theft Auto VI, screens, and the grown men who treated the release of a murder-and-crime simulator like a national holiday. https://t.co/5aDUJ4DOvE"
+   },
+   "fetched_at": "2026-11-25T20:28:29.687688+00:00",
+   "enriched": 3
   }
  }
 }

@@ -4762,6 +4762,54 @@
    "quoted": null,
    "fetched_at": "2026-11-25T17:23:23.032605+00:00",
    "enriched": 3
+  },
+  "2125673018542407824": {
+   "id": "2125673018542407824",
+   "url": "https://x.com/random_walker/status/2125673018542407824",
+   "text": "Many discussions of AI’s economic impact assume that knowledge work is a “thin wrapper” on intelligence. In this view, the main job of a knowledge worker is to process information. Once AI can match the quality of expert responses in a domain, it should be able to take over most of the work in that domain.\n\nBut actually understanding how an industry creates value paints a very different picture. In a new essay, we conduct this analysis for management consulting. \n\nA summary of our arguments\n\n1. Apocalyptic predictions about consulting misunderstand what clients pay for.\n\nConsulting firms’ provide five different sources of value. Analysis is the most visible, but clients also pay for judgment, coordination, credibility, and accountability. AI has improved dramatically at analysis. But training AI to have judgment has proven harder. As AI capabilities improve, that might change.\n\nBut even if AI gets good at judgment, companies still need to persuade competing managers within the firm to agree on recommendations, especially when those recommendations negatively affect them. They need to give key decisions credibility with decision makers such as the board. And they need someone to answer for the results when things go wrong. Consulting firms provide the coordination, credibility, and accountability for all of these.\n\n2. Clients’ AI integration needs are creating demand for consulting.\n\nPast general-purpose technologies, such as business computing and the web, did not just make existing work cheaper. They changed the nature of what clients needed help with, and in the process, they created new work for outside experts, including consultants.\n\nEarly evidence shows that AI is doing the same. Realizing the benefits of AI requires organizational transformation, which is increasing the demand for consulting companies. Improvements in AI’s cybersecurity capabilities have also led to organizations taking cyber defense more seriously, and consulting firms are helping them strategize and implement defenses.\n\n3. For consulting firms to capture this demand, they need to change how they operate.\n\nOur analysis in the previous parts does not mean that today’s consulting firms are safe. Clients’ own teams will compete for some of the new demand that we predict will arise due to AI. AI companies are building deployment businesses of their own, even as they sign partnerships with consulting firms.\n\nFor consulting firms to successfully adapt to AI, they need to make changes to their operating model: building know-how that clients lack, developing in-house AI expertise and partnering with AI companies on deployment, and staying neutral across model providers.\n\n——\n\nMore broadly, one of our goals at @stabl_ai is to deeply understand how institutions can adapt to AI. When discussions of AI's impacts happen in a vacuum, they lead to poor mental models for how AI will impact the work. This essay is the latest in our work on better understanding AI's impacts, and we hope to do a lot more.",
+   "created_at": "Wed Nov 25 19:28:35 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1650881612756942850/bZYjMyFU_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "sayashk",
+   "rt_author_name": "Sayash Kapoor",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1521238232867946496/U_GCI43e_normal.jpg",
+   "rt_id": "2125654301687284006",
+   "likes": 58,
+   "retweets": 13,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX_XE2UawAAQOIg.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/vvwU7H5mir": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-25T20:28:29.687688+00:00",
+   "thread": [
+    {
+     "id": "2125655828774715548",
+     "author_handle": "sayashk",
+     "author_name": "Sayash Kapoor",
+     "text": "It was great working on the essay with @RodMoshtagi. \n\nLink to the essay: https://t.co/FNx9gWnTGu \n\nPrevious essays on understanding AI's impacts on specific domains:  \n\n- Science: https://t.co/VOLIITN3FT\n- Software engineering: https://t.co/XFfesRW6Z3\n- Legal services: https://t.co/kqfgQZpkyS",
+     "links": {
+      "https://t.co/FNx9gWnTGu": "https://normaltech.ai/p/management-consulting-is-not-a-thin",
+      "https://t.co/VOLIITN3FT": "https://normaltech.ai/p/could-ai-slow-science",
+      "https://t.co/XFfesRW6Z3": "https://normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+      "https://t.co/kqfgQZpkyS": "https://normaltech.ai/p/ai-wont-automatically-make-legal"
+     },
+     "media": [],
+     "url": "https://x.com/sayashk/status/2125655828774715548",
+     "created_at": "Wed Nov 25 18:20:17 +0000 2026"
+    }
+   ],
+   "enriched": 3
   }
  }
 }

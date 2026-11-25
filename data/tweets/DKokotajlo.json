@@ -10081,6 +10081,148 @@
    "quoted": null,
    "fetched_at": "2026-11-24T17:55:21.709260+00:00",
    "enriched": 3
+  },
+  "2125683589627220113": {
+   "id": "2125683589627220113",
+   "url": "https://x.com/DKokotajlo/status/2125683589627220113",
+   "text": "If it's not safe to release, then it isn't safe to train and you should perhaps stop talking to it  internally. https://t.co/FD4A4PbhBm",
+   "created_at": "Wed Nov 25 20:10:35 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "Turn_Trout",
+   "rt_author_name": "Alex Turner",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2117865069304500224/E5M7WJDU_normal.jpg",
+   "rt_id": "2125303895194763493",
+   "likes": 202,
+   "retweets": 25,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX6YoXEXoAAm_cv.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX6YoXEXoAAm_cv.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/FD4A4PbhBm": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-25T20:28:29.687688+00:00",
+   "enriched": 3
+  },
+  "2125677347882103084": {
+   "id": "2125677347882103084",
+   "url": "https://x.com/DKokotajlo/status/2125677347882103084",
+   "text": "Let me get this straight: we rushed AI along without regulating safeguards in order to stay ahead of China and at the same time, we sold China the very chips they’d need to get ahead of us. Smells of profit, corruption and perhaps worse.",
+   "created_at": "Wed Nov 25 19:45:47 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "MittRomney",
+   "rt_author_name": "Mitt Romney",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/964489716622966784/xbtCe2td_normal.jpg",
+   "rt_id": "2125232847396983273",
+   "likes": 75199,
+   "retweets": 13767,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-25T20:28:29.687688+00:00",
+   "enriched": 3
+  },
+  "2125646061977137605": {
+   "id": "2125646061977137605",
+   "url": "https://x.com/DKokotajlo/status/2125646061977137605",
+   "text": "@Noahpinion Noah, I'm sympathetic with your bottom line here, but I think your characterisation of the intelligence explosion debate is pretty inaccurate. \n\nYou paint the economic arguments as pointing against the intelligence explosion, and then the report from METR and Dwarkesh' post as being arguments in favour. \n\nBut in fact, the most sophisticated economic arguments suggest that an intelligence explosion is very plausible. \n\nI've rebutted the posts from Ramez and Alexander Imras at some length to argue this, and published a lot of economic modelling on the topic, as have the AI Futures Project.  \n\nAnd I published a working paper in NBER with Anton Korinek and others which, when calibrated, suggests an intelligence explosion will happen.\n\nRebutals to Ramez:\n- https://t.co/BYTYkAMst9\n- https://t.co/TmemhPfmKN\n- https://t.co/vQDd56EqoN\n\nRebutals to Alexander (he was v reasonable in discussion):\n- https://t.co/FkxRNdnqt3\n- https://t.co/a4Il2MyVuB\n\nNBER working paper:\n- https://t.co/APtj9JT9ld\n\nWhy does this matter? \n\nI don't agree that it is hopeless to stop an intelligence explosion.",
+   "created_at": "Wed Nov 25 17:41:28 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "TomDavidsonX",
+   "rt_author_name": "Tom Davidson",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1902304373084188674/2ET1vJg3_normal.jpg",
+   "rt_id": "2125528397770080540",
+   "likes": 64,
+   "retweets": 3,
+   "media": [],
+   "links": {
+    "https://t.co/BYTYkAMst9": "https://x.com/TomDavidsonX/status/2104880475890126923?a=IGsDpDBTJVkPVVRTRhs&s=20",
+    "https://t.co/TmemhPfmKN": "https://x.com/TomDavidsonX/status/2112524773724950868?a=Huv34SJHHxaOF1G5jKE&s=20",
+    "https://t.co/vQDd56EqoN": "https://x.com/TomDavidsonX/status/2119778310607577120?a=O8WYxoO_YtZphuPz98k&s=20",
+    "https://t.co/FkxRNdnqt3": "https://x.com/TomDavidsonX/status/2121631290835247493?a=ZfakWyMEibmdYejF_tg&s=20",
+    "https://t.co/a4Il2MyVuB": "https://x.com/TomDavidsonX/status/2121674261924323772?a=47oHhpgE0JIbqfz5YHc&s=20",
+    "https://t.co/APtj9JT9ld": "https://www.nber.org/papers/w35155"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-25T20:28:29.687688+00:00",
+   "linked": [
+    {
+     "id": "2104880475890126923",
+     "author_handle": "TomDavidsonX",
+     "author_name": "Tom Davidson",
+     "text": "The argument here has some big flaws:\n\n1. It points that that *at the moment* the AI-improving-AI feedback loop is much to weak to explode. But then erroneously infers that it probably won't explode in the future.\n\nThe jump from GPT-2 to GPT-3 increased AI researcher productivity by a *tiny tiny* amount. Probably much less than 0.1%. \n\nRamez would have concluded that there was absolutely no chance of an intelligence explosion. The feedback loop would need to increase in size by >1000X!\n\nBut the jump from GPT-5 to GPT-6 increased AI researcher productivity by much much more. By >1% and plausibly by >10%. \n\nRamez concludes there won't be an intelligence explosion bc the feedback loop would have to increase in strength by 5X. \n\nBut it's already increased in strength by a lot! When AI becomes more capable over the next year, it will increase in strength much more.  \n\n2. Ramez claims that \"Keeping Up the Pace Takes Exponentially More Resources\", as if this means progress is unsustainable. \n\nBut \"keeping up pace\" is delivering exponentially growing revenues. Exponential growth in inputs -> exponential growth in outputs. That's a feedback loop that can totally explode.\n\nTbc, @ramez  argument is made in good faith and is in many ways well informed and well argued. But I think his conclusion is wrong!",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/TomDavidsonX/status/2104880475890126923",
+     "created_at": "Tue Sep 29 10:26:26 +0000 2026"
+    },
+    {
+     "id": "2112524773724950868",
+     "author_handle": "TomDavidsonX",
+     "author_name": "Tom Davidson",
+     "text": "Great post.\n\nI agree with Ramez that a million parallel agents isn't the same thing as superintelligence. A big parallel-copy-only intelligence explosion is very unlikely.\n\nBut I disagree that this is a knock against an intelligence explosion:\n- A million parallel agents thinking 100x human speed could speed up AI progress an awful lot, though not infinitely.\n- Those expecting a big intelligence explosion have always thought it would be driven by increased intelligence, not by copies.\n\nMy view in more detail:\n\n1. In the limit, returns to more parallel copies go to 0. Tasks inherently require a certain number of sequential steps. Once you're already exploring every possible avenue, more labour doesn't help.\n\n2. What that limit is depends on the task. Generally, more complicated tasks can absorb more parallel labour. \n\n3. A task as open-ended as \"improve AI capabilities\" can likely absorb a *huge* amount of parallel labour. Much much more than the tasks Ramez looks at. The limit may be very far off indeed for the task that matters most.\n\n4. And once abundant cognitive labour is available, AI companies will invent new ways to use it. \n\nEg attributing strong performance to particular actions during an RL run, hand-crafting each gradient update based on interpretability analysis, analysis weak RL runs and create targeted SFT data to patch gaps\n\n5. Still, Ramez is right that in the absolute limit returns are worse than a power law. And many RSI models assume a power law for simplicity.\n\n6. But others don't. For example, in AIFP's takeoff model the intelligence explosion feedback loop is driven purely by increasing intelligence. Copies don't play any role. (Which I think is too conservative.)\n\n(And when I've made models expressed in terms of parallel copies, i've seen this as a proxy for increasing intelligence.)",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/TomDavidsonX/status/2112524773724950868",
+     "created_at": "Tue Oct 20 12:42:09 +0000 2026"
+    },
+    {
+     "id": "2119778310607577120",
+     "author_handle": "TomDavidsonX",
+     "author_name": "Tom Davidson",
+     "text": "It's funny to see posts like this doing so well.\n\nThe need for exponentially rising inputs to sustain AI progress has been known for years. It's baked into all the scaling laws.\n\nAnd all models of the intelligence explosion bake this in too. \n\nThere's no update here!",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/TomDavidsonX/status/2119778310607577120",
+     "created_at": "Mon Nov 09 13:05:07 +0000 2026"
+    },
+    {
+     "id": "2121631290835247493",
+     "author_handle": "TomDavidsonX",
+     "author_name": "Tom Davidson",
+     "text": "Agreed we're not *yet* above the threshold for an intelligence explosion. \n\nBut, to be clear, those expecting an IE next year don't think we're above it either\n\nThey think that we've moved *closer* to the threshold over the past year, and will cross it in the next 6 months\n\nI think they're plausibly right",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/TomDavidsonX/status/2121631290835247493",
+     "created_at": "Sat Nov 14 15:48:12 +0000 2026"
+    },
+    {
+     "id": "2121674261924323772",
+     "author_handle": "TomDavidsonX",
+     "author_name": "Tom Davidson",
+     "text": "Rereading Imas & Garicano's piece, I think it makes a significant mistake.\n\nThey make a surprising claim: we haven't got any closer to the threshold for an intelligence explosion over the last two years.\n\nOn their account, the ~2x faster progress METR found at Anthropic is mostly explained by R&D inputs growing about twice as fast.\n\nIf true, that's a big deal: the speed-up would be mostly money, not AI accelerating research, and should fade once spending growth slows. \n\nIt's also in tension with METR, who attributed most of the acceleration to AI.\n\nLet's back up.\n\nThe key idea in their model: each doubling of cumulative R&D buys a roughly fixed number of AECI points. \n\nSo if progress per year doubles, either (a) cumulative R&D started doubling twice as fast, or (b) each doubling started buying more points, meaning returns improved, bringing us closer to the threshold. \n\nThey say (a).\n\nBut I think that's because they're effectively using the wrong numbers for historical R&D spend.\n\nWith Anthropic's actual R&D [1], cumulative R&D grew ~3.3x/yr before Oct 2025 and ~4.4x/yr after, while progress went from ~15 to ~29 AECI points/yr. So each doubling of cumulative R&D bought ~9 points before and ~14 after. Returns rose. That brings us closer to an intelligence explosion.\n\nTheir fitted curve instead implies cumulative inputs grew ~2x/yr before and ~4x/yr after, so ~15 points per doubling in both periods. \n\nThe difference comes from their fit implicitly assuming ~$2–3B of R&D before 2024, more than the historical numbers. A bigger starting stock makes 2024–25 spending look like a smaller proportional increase, so early input growth looks slower, and the apparent 2026 spending surge appears to explain the speed-up.\n\nBut as I say, with the actual historical numbers this spending surge goes away. Spending still increases but it doesn't double more times than it did in the earlier period.\n\n(They also fit the two periods separately, letting the starting stock reset: the earlier fit implies ~$2B of pre-2024 R&D, the later one ~$0. \n\nIn terms of their returns parameter φ:\n-  their separate fits give ~0.55 in both periods. \n- With actual spending, it rises from ~0.45 to ~0.65.\n\nPossible I've missed something, and very happy to be corrected!\n\n But on the face of it one of their most surprising and important conclusions looks wrong.\n\n[1] S-1 figures: $0.4B in 2023, $2.3B in 2024, $6.3B in 2025, $19B in Jan–Sep 2026. I've added ~$0.2B for 2021–22, before the S-1 data starts.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/TomDavidsonX/status/2121674261924323772",
+     "created_at": "Sat Nov 14 18:38:57 +0000 2026"
+    }
+   ],
+   "enriched": 3
   }
  }
 }
