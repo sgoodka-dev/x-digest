@@ -9156,6 +9156,66 @@
    },
    "fetched_at": "2026-11-24T17:55:21.709260+00:00",
    "enriched": 3
+  },
+  "2125447926495494629": {
+   "id": "2125447926495494629",
+   "url": "https://x.com/sethlazar/status/2125447926495494629",
+   "text": "Anthropic published Claude Opus 4.5 exactly a year ago on Nov 24, 2025. For many people, that's the day programming underwent an absolute phase-shift, quantum-leap, pick your metaphor.\n\nSo, happy birthday to the release that changed everything. BC/CE.\nhttps://t.co/WylL1Zh3GD",
+   "created_at": "Wed Nov 25 04:34:09 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ShriramKMurthi",
+   "rt_author_name": "Shriram Krishnamurthi (primary: Bluesky)",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1117227919938654208/irKk8ECv_normal.png",
+   "rt_id": "2125294724420640782",
+   "likes": 194,
+   "retweets": 17,
+   "media": [],
+   "links": {
+    "https://t.co/WylL1Zh3GD": "https://www.anthropic.com/news/claude-opus-4-5"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-25T17:23:23.032605+00:00",
+   "enriched": 3
+  },
+  "2125446992629465280": {
+   "id": "2125446992629465280",
+   "url": "https://x.com/sethlazar/status/2125446992629465280",
+   "text": "@jonathanstray @AndreiParf49261 @KLdivergence There was def a lot of race and gender stuff; it was even the default. But that is also a pretty canonical site for the exercise of power (algorithms of *oppression*). The change is that now, power that was prev being exercised in an especially unjustified way wrt various minorities is now being felt by everyone else too. That doesn’t invalidate the earlier analyses; on the contrary. It’s similar to how WWI can be viewed as colonialism being turned inwards within Europe.\n\nThat said—I always argued for the need to look beyond identity politics when thinking about AI and power, and always found this specific focus to be very parochial to the US. Hence a central theme of Facct 2022 being labour organizing—which is very clearly abt power.",
+   "created_at": "Wed Nov 25 04:30:26 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": true,
+   "reply_to": "jonathanstray",
+   "reply_to_id": "2125430630280503494",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-25T17:23:23.032605+00:00",
+   "parent": {
+    "id": "2125430630280503494",
+    "author_handle": "jonathanstray",
+    "author_name": "Jonathan Stray",
+    "text": "@sethlazar @AndreiParf49261 @KLdivergence We had different experiences here, and also I suspect you are rightly being generous. \n\nThe flagship works in and around FAccT circa five years ago seemed to me very much about race and gender. Papers like GenderShares were big. Books like \"Algorithms of Oppression\" and \"Race After Technology\" were top of mind. When Kate gave her talks about power, racial and colonial oppression were the go-to examples. It seemed like half of talks were on how racist ML models are.\n\nPerhaps people are still talking about \"power\" and \"accountability\" and \"verification\"  but the substantive focus has greatly shifted. For the better, IMO.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/jonathanstray/status/2125430630280503494",
+    "created_at": "Wed Nov 25 03:25:25 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

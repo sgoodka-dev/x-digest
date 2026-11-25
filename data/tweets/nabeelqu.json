@@ -3159,6 +3159,32 @@
    "quoted": null,
    "fetched_at": "2026-11-24T17:55:21.709260+00:00",
    "enriched": 3
+  },
+  "2125594412831129644": {
+   "id": "2125594412831129644",
+   "url": "https://x.com/nabeelqu/status/2125594412831129644",
+   "text": "My excellent Conversation with Moxie Marlinspike of Signal: https://t.co/Zmo5ugwL6b",
+   "created_at": "Wed Nov 25 14:16:14 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1857140980421668864/0prdKK32_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "tylercowen",
+   "rt_author_name": "tylercowen",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1483290763056320512/oILN7yPo_normal.jpg",
+   "rt_id": "2125573859974009166",
+   "likes": 29,
+   "retweets": 3,
+   "media": [],
+   "links": {
+    "https://t.co/Zmo5ugwL6b": "https://conversationswithtyler.com/episodes/moxie-marlinspike/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-25T17:23:23.032605+00:00",
+   "enriched": 3
   }
  }
 }

@@ -15509,6 +15509,411 @@
    },
    "fetched_at": "2026-11-24T21:11:17.171296+00:00",
    "enriched": 3
+  },
+  "2125627536931467675": {
+   "id": "2125627536931467675",
+   "url": "https://x.com/s8mb/status/2125627536931467675",
+   "text": "We've already run one piece I thought was great, about the first MMORPG. I want more!  https://t.co/vdMlN9MhWB",
+   "created_at": "Wed Nov 25 16:27:51 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "s8mb",
+   "reply_to_id": "2125617611169767553",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/vdMlN9MhWB": "https://worksinprogress.co/issue/virtual-worlds/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-25T17:23:23.032605+00:00",
+   "parent": {
+    "id": "2125617611169767553",
+    "author_handle": "s8mb",
+    "author_name": "Sam Bowman",
+    "text": "I'd love some pieces on video games at Works in Progress. They're so important culturally and commercially, but writing about software is very difficult to do well (it's a big challenge and makes AI writing hard too). Pitch us below if you have ideas.\n\nhttps://t.co/alQO1MZ6dJ",
+    "links": {
+     "https://t.co/alQO1MZ6dJ": "https://worksinprogress.co/issue/how-to-write-for-works-in-progress/"
+    },
+    "media": [],
+    "url": "https://x.com/s8mb/status/2125617611169767553",
+    "created_at": "Wed Nov 25 15:48:25 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125625795276394999": {
+   "id": "2125625795276394999",
+   "url": "https://x.com/s8mb/status/2125625795276394999",
+   "text": "@lcthomas1212 I think without physicality there's not much you can say that makes the process of development feel tangible to people. When you read about, say, making an atomic bomb you can describe the physical processes in ways that readers can visualise and imagine. Not possible with software.",
+   "created_at": "Wed Nov 25 16:20:56 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "lcthomas1212",
+   "reply_to_id": "2125623239950958982",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 2,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-25T17:23:23.032605+00:00",
+   "parent": {
+    "id": "2125623239950958982",
+    "author_handle": "lcthomas1212",
+    "author_name": "Lauren Thomas",
+    "text": "@s8mb hmm, curious, why do you think writing about software is hard to do?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/lcthomas1212/status/2125623239950958982",
+    "created_at": "Wed Nov 25 16:10:47 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125617611169767553": {
+   "id": "2125617611169767553",
+   "url": "https://x.com/s8mb/status/2125617611169767553",
+   "text": "I'd love some pieces on video games at Works in Progress. They're so important culturally and commercially, but writing about software is very difficult to do well (it's a big challenge and makes AI writing hard too). Pitch us below if you have ideas.\n\nhttps://t.co/alQO1MZ6dJ",
+   "created_at": "Wed Nov 25 15:48:25 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 95,
+   "retweets": 5,
+   "media": [],
+   "links": {
+    "https://t.co/alQO1MZ6dJ": "https://worksinprogress.co/issue/how-to-write-for-works-in-progress/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-25T17:23:23.032605+00:00",
+   "thread": [
+    {
+     "id": "2125627536931467675",
+     "author_handle": "s8mb",
+     "author_name": "Sam Bowman",
+     "text": "We've already run one piece I thought was great, about the first MMORPG. I want more!  https://t.co/vdMlN9MhWB",
+     "links": {
+      "https://t.co/vdMlN9MhWB": "https://worksinprogress.co/issue/virtual-worlds/"
+     },
+     "media": [],
+     "url": "https://x.com/s8mb/status/2125627536931467675",
+     "created_at": "Wed Nov 25 16:27:51 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2125599531970564520": {
+   "id": "2125599531970564520",
+   "url": "https://x.com/s8mb/status/2125599531970564520",
+   "text": "@SCP_Hughes Some great shots here! https://t.co/vR2hz87vpN",
+   "created_at": "Wed Nov 25 14:36:34 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "SCP_Hughes",
+   "reply_to_id": "2125594429092245787",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 32,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX-lgREXgAAv6eK.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX-lgREXgAAv6eK.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/vR2hz87vpN": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-25T17:23:23.032605+00:00",
+   "parent": {
+    "id": "2125594429092245787",
+    "author_handle": "SCP_Hughes",
+    "author_name": "Samuel Hughes",
+    "text": "Buildings by the contemporary Pakistani architect Kamil Khan Mumtaz. When my colleague Ben first sent me some grainy pictures of Mumutaz’s work five years ago, I wondered if he might be the best architect in the world. But I couldn’t find any other images of his work.\n\nhttps://t.co/8RkAdoyDWn\n\nThen last year, I met Mumtaz’s assistant Sohaib Ahmed at a conference. I implored Sohaib to send us more pictures, and with Mutmaz’s support, he prepared a portfolio. Very few of these images have ever been seen before outside Pakistan.\n\nMumtaz was educated at the Architectural Association in London in the 1960s. After returning to Pakistan, he initially worked as a modernist, though one with a special interest in local context. But he was haunted by a ‘growing, nagging fear that I wasn’t communicating with my audience’. In 1980, he adopted a radically different approach, working to revive Pakistan’s own architectural traditions. He has continued ever since, and in Pakistan his work has been received with warmth and admiration.\n\nTraditional architecture often suffers from shortages of skilled craftspeople. This is also a problem in Pakistan, but less so, because later industrialisation meant that the last premodern traditions were still persisting when Mumtaz started work. ‘Immediately, [I came] into contact with very small remnants of these families, hereditary craftsmen’, Mumtaz remembered in an interview with the historian Chris Moffat.\n\nMumtaz’s practice has both drawn on these traditions and supported their development, so that it now features a standard of craftsmanship that virtually no Western work today can match.\n\nWe are proud that Mumtaz has allowed Works in Progress to showcase his work.",
+    "links": {
+     "https://t.co/8RkAdoyDWn": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+     "https://t.co/JEjtVMYOBb": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX-e5UBXoAA2R_x.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX-folEWAAEsAvo.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX-fsUfWgAAfRji.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX-f1A_XEAE5gZ6.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX-f4c6WcAA5r5k.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX-f5qpXEAE8qXP.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX-f6g1XQAETdtR.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX-f7WkXcAAY1Wp.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX-f8Z_XIAA7xT-.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX-f9O_WsAEn5oP.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX-f-MZXEAAASMI.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX-f_a4WAAARLcD.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX-gAXDWMAAqohc.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX-gBOuXIAE0787.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX-gCPjWcAAAag0.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX-gJKyXAAAHOsk.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX-gOQjW4AAGEhZ.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX-gQNyXAAA7jaK.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX-gWS-WIAAShfN.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX-gXmVXQAAqAzD.jpg"
+     }
+    ],
+    "url": "https://x.com/SCP_Hughes/status/2125594429092245787",
+    "created_at": "Wed Nov 25 14:16:18 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125597596446249321": {
+   "id": "2125597596446249321",
+   "url": "https://x.com/s8mb/status/2125597596446249321",
+   "text": "I thought this was interesting on Iran's magnificent brickwork, which is another style that forward-thinking Western architects might someday choose to emulate. https://t.co/6P3BXwogg4",
+   "created_at": "Wed Nov 25 14:28:53 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "s8mb",
+   "reply_to_id": "2125595758531641426",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 13,
+   "retweets": 1,
+   "media": [],
+   "links": {
+    "https://t.co/6P3BXwogg4": "https://thebaffler.com/salvos/brick-by-brick-batmanghelidj"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-25T17:23:23.032605+00:00",
+   "parent": {
+    "id": "2125595758531641426",
+    "author_handle": "s8mb",
+    "author_name": "Sam Bowman",
+    "text": "Some day, Western architects will move on from their preoccupation with 20th Century styles and begin to emulate the brilliant, boundary-pushing work like this that is going on in places like Pakistan and Iran.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/s8mb/status/2125595758531641426",
+    "created_at": "Wed Nov 25 14:21:35 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125595758531641426": {
+   "id": "2125595758531641426",
+   "url": "https://x.com/s8mb/status/2125595758531641426",
+   "text": "Some day, Western architects will move on from their preoccupation with 20th Century styles and begin to emulate the brilliant, boundary-pushing work like this that is going on in places like Pakistan and Iran.",
+   "created_at": "Wed Nov 25 14:21:35 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 131,
+   "retweets": 11,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2125594429092245787",
+    "author_name": "Samuel Hughes",
+    "links": {
+     "https://t.co/8RkAdoyDWn": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+     "https://t.co/JEjtVMYOBb": ""
+    },
+    "author": "SCP_Hughes",
+    "text": "Buildings by the contemporary Pakistani architect Kamil Khan Mumtaz. When my colleague Ben first sent me some grainy pictures of Mumutaz’s work five years ago, I wondered if he might be the best architect in the world. But I couldn’t find any other images of his work.\n\nhttps://t.co/8RkAdoyDWn\n\nThen last year, I met Mumtaz’s assistant Sohaib Ahmed at a conference. I implored Sohaib to send us more pictures, and with Mutmaz’s support, he prepared a portfolio. Very few of these images have ever been seen before outside Pakistan.\n\nMumtaz was educated at the Architectural Association in London in the 1960s. After returning to Pakistan, he initially worked as a modernist, though one with a special interest in local context. But he was haunted by a ‘growing, nagging fear that I wasn’t communicating with my audience’. In 1980, he adopted a radically different approach, working to revive Pakistan’s own architectural traditions. He has continued ever since, and in Pakistan his work has been received with warmth and admiration.\n\nTraditional architecture often suffers from shortages of skilled craftspeople. This is also a problem in Pakistan, but less so, because later industrialisation meant that the last premodern traditions were still persisting when Mumtaz started work. ‘Immediately, [I came] into contact with very small remnants of these families, hereditary craftsmen’, Mumtaz remembered in an interview with the historian Chris Moffat.\n\nMumtaz’s practice has both drawn on these traditions and supported their development, so that it now features a standard of craftsmanship that virtually no Western work today can match.\n\nWe are proud that Mumtaz has allowed Works in Progress to showcase his work."
+   },
+   "fetched_at": "2026-11-25T17:23:23.032605+00:00",
+   "thread": [
+    {
+     "id": "2125597596446249321",
+     "author_handle": "s8mb",
+     "author_name": "Sam Bowman",
+     "text": "I thought this was interesting on Iran's magnificent brickwork, which is another style that forward-thinking Western architects might someday choose to emulate. https://t.co/6P3BXwogg4",
+     "links": {
+      "https://t.co/6P3BXwogg4": "https://thebaffler.com/salvos/brick-by-brick-batmanghelidj"
+     },
+     "media": [],
+     "url": "https://x.com/s8mb/status/2125597596446249321",
+     "created_at": "Wed Nov 25 14:28:53 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2125575839857443092": {
+   "id": "2125575839857443092",
+   "url": "https://x.com/s8mb/status/2125575839857443092",
+   "text": "@mhudack (It's actually a good and reasonable piece.) https://t.co/M70oWJP0Gt",
+   "created_at": "Wed Nov 25 13:02:26 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "s8mb",
+   "reply_to_id": "2125561184464371970",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 5,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX-P6GYXMAAUnE4.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX-P6GYXMAAUnE4.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/M70oWJP0Gt": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-25T17:23:23.032605+00:00",
+   "parent": {
+    "id": "2125561184464371970",
+    "author_handle": "s8mb",
+    "author_name": "Sam Bowman",
+    "text": "@mhudack “Anthropic slumps to $1 trillion valuation after disappointing 1,200% YOY revenue growth.”",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/s8mb/status/2125561184464371970",
+    "created_at": "Wed Nov 25 12:04:12 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125561184464371970": {
+   "id": "2125561184464371970",
+   "url": "https://x.com/s8mb/status/2125561184464371970",
+   "text": "@mhudack “Anthropic slumps to $1 trillion valuation after disappointing 1,200% YOY revenue growth.”",
+   "created_at": "Wed Nov 25 12:04:12 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "mhudack",
+   "reply_to_id": "2125560566047449218",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 123,
+   "retweets": 3,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-25T17:23:23.032605+00:00",
+   "parent": {
+    "id": "2125560566047449218",
+    "author_handle": "mhudack",
+    "author_name": "Mike Hudack",
+    "text": "\"Anflopic\" is ridiculous.\n\nhttps://t.co/oFENZsZtWF",
+    "links": {
+     "https://t.co/oFENZsZtWF": "https://www.ft.com/content/1c62dcfe-826f-4638-a9ee-c3b3009bc45d"
+    },
+    "media": [],
+    "url": "https://x.com/mhudack/status/2125560566047449218",
+    "created_at": "Wed Nov 25 12:01:44 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

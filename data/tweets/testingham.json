@@ -3655,6 +3655,70 @@
     }
    ],
    "enriched": 3
+  },
+  "2125615190335213731": {
+   "id": "2125615190335213731",
+   "url": "https://x.com/testingham/status/2125615190335213731",
+   "text": "@tobyordoxford Agreed Toby! One important distinction here is two ways of defining acceleration in a time series:\n\n1. The second derivative.\n2. The progress relative to trend (e.g. \"two years' progress in one\")\n\nThe first, as you say, depends on the scale. The second approach require fitting a trend, but in ideal circumstances it's invariant to a smooth monotonic rescaling.\n\nThus when we say \"perplexity has accelerated 7x\", that's relative to a trend we've fitted in the data before the break. Ideally we'd fit basically the same trend on any rescaling, so would estimate the same acceleration; though in practice we have relatively few noisy datapoints so it's reasonable to take issue with the trend we've fitted here.",
+   "created_at": "Wed Nov 25 15:38:48 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": true,
+   "reply_to": "tobyordoxford",
+   "reply_to_id": "2125523320892187059",
+   "avatar": "https://pbs.twimg.com/profile_images/2057221538160766976/KAtze74k_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 12,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-25T17:23:23.032605+00:00",
+   "parent": {
+    "id": "2125523320892187059",
+    "author_handle": "tobyordoxford",
+    "author_name": "Toby Ord",
+    "text": "@testingham There is such a lack of awareness of measurement theory in AI.\nA major topic that keeps coming up is things that can be measured on either a scale allowing comparison of ratios or one allowing comparisons of intervals (which is the log of the former scale). Then people wonder why the logarithmic quantity is not growing exponentially like so many other quantities.\nOne example is Elo, which is the log of the underlying Bradley-Terry score. The linear growth in Elo has been exponential growth in the odds ratio of winning, which is the natural metric.\nAnother is ECI, which is the log of the odds of solving a randomly selected benchmark problem. The linear ECI improvement is exponential improvement in this odds ratio. (And this exponential improvement in odds ratio is arguably what drives the exponential improvements in time horizons.)\nOn the log scales linear trends show no acceleration. On the raw scales, the same data shows acceleration, jerk, jounce, and every higher derivative. So whether acceleration is occurring depends on the scale choice.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/tobyordoxford/status/2125523320892187059",
+    "created_at": "Wed Nov 25 09:33:44 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125408846164430868": {
+   "id": "2125408846164430868",
+   "url": "https://x.com/testingham/status/2125408846164430868",
+   "text": "Whatever else you think—and I’m still fairly skeptical of an imminent intelligence explosion—it is almost comical to reread this post from three months ago and see how many things that were flat or flat-ish have now jumped.",
+   "created_at": "Wed Nov 25 01:58:51 +0000 2026",
+   "author_handle": "testingham",
+   "author_name": "tom cunningham",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2057221538160766976/KAtze74k_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "GregHBurnham",
+   "rt_author_name": "Greg Burnham",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1125088192548474880/JvBpsnxg_normal.png",
+   "rt_id": "2125402945122406411",
+   "likes": 94,
+   "retweets": 6,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2089726551332122754",
+    "author_name": "",
+    "links": {},
+    "author": "",
+    "text": ""
+   },
+   "fetched_at": "2026-11-25T17:23:23.032605+00:00",
+   "enriched": 3
   }
  }
 }

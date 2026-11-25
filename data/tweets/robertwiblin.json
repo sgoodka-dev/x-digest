@@ -14759,6 +14759,141 @@
     "created_at": "Tue Nov 24 18:02:42 +0000 2026"
    },
    "enriched": 3
+  },
+  "2125636831618490399": {
+   "id": "2125636831618490399",
+   "url": "https://x.com/robertwiblin/status/2125636831618490399",
+   "text": "Good grief another update in favour of shorter timelines.\n\nAt least the interpretation is slightly debatable this time. Though not that debatable: \n\nhttps://t.co/kHQGLVxMBC https://t.co/Oh7edslrdZ",
+   "created_at": "Wed Nov 25 17:04:47 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 15,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX_HHnnWsAAXLGQ.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX_HHnnWsAAXLGQ.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/kHQGLVxMBC": "https://metr.org/blog/2026-11-24-interpreting-a-recent-acceleration-in-pretraining-loss/",
+    "https://t.co/Oh7edslrdZ": ""
+   },
+   "quoted": {
+    "id": "2125221407210512492",
+    "author_name": "Tyler John",
+    "links": {},
+    "author": "tyler_m_john",
+    "text": "After a couple days of reflection, this has significantly increased my odds of near-term RSI.\n\nI had expected most of the gains from automated R&D to come from accelerating post-training. But it's fairly clear to me now that pre-training progress is accelerating. This is important because I believe most of the increases in general intelligence have come from larger and better pre-training. In pre-training LLMs are forced to learn the cognitive skills that allow them to predict a wide variety of human behavior, requiring them to mimic the full range of human intelligence at the limit. In post-training, LLMs learn to solve a narrow domain, and the  evidence I have seen suggests that this doesn't transfer very well to other domains.\n\nIt's now pretty clear to me that pre-training is being accelerated by automated AI R&D in a pretty straightforward way. AI agents can test tons of optimization ideas in tiny models to see if they work, costing almost nothing. The ones that work mostly transfer successfully to larger pre-training runs. You also don't have to run a full GPT-6 pre-train from scratch in order to implement and test these improvements in a large model. You can just take an existing checkpoint and make these improvements. Still expensive, but much less so. This all leads to fast, cheap, verifiable feedback loops to improve pre-training loss by testing a litany of small improvements. In aggregate these small improvements lead to large overall improvements.\n\nThe number of base models listed here and the fact that OpenAI thinks the most important thing to track is pre-training loss is strong evidence that this paradigm is being implemented and it is working. That means progress on general capabilities is likely to continue to  accelerating and not just the progress on capabilities associated with verifiable domains.\n\nThere's an argument that this will stop once top human-level general intelligence is achieved, matching the intellectual prowess of every human intellect put together in one well-rounded genius. That is that pre-training is still aimed at predicting human data. But once we have achieved the ceiling on human intelligence and augmented that with reinforcement learning in verifiable domains it is hard to know what millions of such an AGI running in parallel at thousands of times the speed of a human mind could discover next.\n\nGrateful that OpenAI shared this with those of us on the outside who otherwise have no idea what is going on."
+   },
+   "fetched_at": "2026-11-25T17:23:23.032605+00:00",
+   "enriched": 3
+  },
+  "2125634086471639074": {
+   "id": "2125634086471639074",
+   "url": "https://x.com/robertwiblin/status/2125634086471639074",
+   "text": "After a couple days of reflection, this has significantly increased my odds of near-term RSI.\n\nI had expected most of the gains from automated R&D to come from accelerating post-training. But it's fairly clear to me now that pre-training progress is accelerating. This is important because I believe most of the increases in general intelligence have come from larger and better pre-training. In pre-training LLMs are forced to learn the cognitive skills that allow them to predict a wide variety of human behavior, requiring them to mimic the full range of human intelligence at the limit. In post-training, LLMs learn to solve a narrow domain, and the  evidence I have seen suggests that this doesn't transfer very well to other domains.\n\nIt's now pretty clear to me that pre-training is being accelerated by automated AI R&D in a pretty straightforward way. AI agents can test tons of optimization ideas in tiny models to see if they work, costing almost nothing. The ones that work mostly transfer successfully to larger pre-training runs. You also don't have to run a full GPT-6 pre-train from scratch in order to implement and test these improvements in a large model. You can just take an existing checkpoint and make these improvements. Still expensive, but much less so. This all leads to fast, cheap, verifiable feedback loops to improve pre-training loss by testing a litany of small improvements. In aggregate these small improvements lead to large overall improvements.\n\nThe number of base models listed here and the fact that OpenAI thinks the most important thing to track is pre-training loss is strong evidence that this paradigm is being implemented and it is working. That means progress on general capabilities is likely to continue to  accelerating and not just the progress on capabilities associated with verifiable domains.\n\nThere's an argument that this will stop once top human-level general intelligence is achieved, matching the intellectual prowess of every human intellect put together in one well-rounded genius. That is that pre-training is still aimed at predicting human data. But once we have achieved the ceiling on human intelligence and augmented that with reinforcement learning in verifiable domains it is hard to know what millions of such an AGI running in parallel at thousands of times the speed of a human mind could discover next.\n\nGrateful that OpenAI shared this with those of us on the outside who otherwise have no idea what is going on.",
+   "created_at": "Wed Nov 25 16:53:53 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "tyler_m_john",
+   "rt_author_name": "Tyler John",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2031125245084712960/OORFbzMI_normal.jpg",
+   "rt_id": "2125221407210512492",
+   "likes": 881,
+   "retweets": 60,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-25T17:23:23.032605+00:00",
+   "enriched": 3
+  },
+  "2125619082430988757": {
+   "id": "2125619082430988757",
+   "url": "https://x.com/robertwiblin/status/2125619082430988757",
+   "text": "@chrislakin Wow that's an amazing dataset.\n\nAre you including replies and retweets in there? I was just starting to build out this tool so was only including original posts at this point.\n\nDo you know what fraction of the actives on this are on the technical staff? I was mostly interested in tracking that group.",
+   "created_at": "Wed Nov 25 15:54:16 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "chrislakin",
+   "reply_to_id": "2125536798583689691",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-25T17:23:23.032605+00:00",
+   "parent": {
+    "id": "2125536798583689691",
+    "author_handle": "chrislakin",
+    "author_name": "Chris Lakin",
+    "text": "@robertwiblin yeah so I redid this with my data (6x larger sample) and found anthropic employees were the most concerned from IPO filing to listing https://t.co/vggKQzCGzH",
+    "links": {
+     "https://t.co/vggKQzCGzH": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX9ryHqaIAAmDo0.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX9ryHqaIAAmDo0.jpg"
+     }
+    ],
+    "url": "https://x.com/chrislakin/status/2125536798583689691",
+    "created_at": "Wed Nov 25 10:27:18 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125538761723294014": {
+   "id": "2125538761723294014",
+   "url": "https://x.com/robertwiblin/status/2125538761723294014",
+   "text": "We are crossing a threshold. Safety and alignment work is the only thing that matters.",
+   "created_at": "Wed Nov 25 10:35:06 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "mustafasuleyman",
+   "rt_author_name": "Mustafa Suleyman",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1927407622602276864/c_5uOZij_normal.jpg",
+   "rt_id": "2125446171909136630",
+   "likes": 3656,
+   "retweets": 482,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-25T17:23:23.032605+00:00",
+   "enriched": 3
   }
  }
 }

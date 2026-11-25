@@ -2520,6 +2520,204 @@
    },
    "fetched_at": "2026-11-24T21:11:17.171296+00:00",
    "enriched": 3
+  },
+  "2125641362632794272": {
+   "id": "2125641362632794272",
+   "url": "https://x.com/curl_justin/status/2125641362632794272",
+   "text": "We’re already in the most important policy window of our time. Come work with @CharlieBull0ck and me to help make the most of it.\n\nA thread on @law_ai_’s work, our goals, and how you can help. 🧵\n\nWe’re hiring for various roles, so check out the end of the thread for more details.",
+   "created_at": "Wed Nov 25 17:22:48 +0000 2026",
+   "author_handle": "curl_justin",
+   "author_name": "justin curl",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2072421779977699328/n3YQnb67_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "MackenZ_arnold",
+   "rt_author_name": "Mackenzie Arnold",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2080368473964695552/MTjeitm1_normal.jpg",
+   "rt_id": "2125592844081430591",
+   "likes": 40,
+   "retweets": 8,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-25T17:23:23.032605+00:00",
+   "thread": [
+    {
+     "id": "2125592844568068287",
+     "author_handle": "MackenZ_arnold",
+     "author_name": "Mackenzie Arnold",
+     "text": "Who are we? We’re LawAI, a bunch of lawyers who try to work out the practical, brass-tacks details of frontier AI policy.\n\nThere are a lot of great policy ideas out there, but they’re only valuable if “they write.” It’s our goal to turn vague wishlists and lost papers into immediately actionable, legally sound text.",
+     "links": {
+      "https://t.co/nhteD6Mg2Y": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HX7li56XsAAyhza.png"
+      }
+     ],
+     "url": "https://x.com/MackenZ_arnold/status/2125592844568068287",
+     "created_at": "Wed Nov 25 14:10:00 +0000 2026"
+    },
+    {
+     "id": "2125592845264318926",
+     "author_handle": "MackenZ_arnold",
+     "author_name": "Mackenzie Arnold",
+     "text": "To do that well we need to hold two very distinct impulses at the same time. \n\nWe need to take big ideas seriously, hunting out the most important new developments in the technology and surrounding ourselves with talented technologists who can help us see what’s coming next.\n\nBut we also have to be ruthlessly practical. Laws have to be administrable, hard to abuse, and set clear incentives.",
+     "links": {
+      "https://t.co/pUP7Eq5d1A": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HX7l8xlWcAAojqm.png"
+      },
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HX7l9V_WgAAE07u.png"
+      }
+     ],
+     "url": "https://x.com/MackenZ_arnold/status/2125592845264318926",
+     "created_at": "Wed Nov 25 14:10:00 +0000 2026"
+    },
+    {
+     "id": "2125592845864124692",
+     "author_handle": "MackenZ_arnold",
+     "author_name": "Mackenzie Arnold",
+     "text": "That’s where a lot of people give up. Or gravitate toward one of the poles. The practical people dismiss grand ideas and don’t want to work on them; the thinkers don’t spend enough time figuring out how to actually do the thing.\n\nOur greatest advantage is that we create a culture that prizes both of those things. Frequent mantras inside our walls are that “it’s important to be skeptical but not dismissive” and “we need to manage uncertainty, not ignore it.”",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/MackenZ_arnold/status/2125592845864124692",
+     "created_at": "Wed Nov 25 14:10:00 +0000 2026"
+    },
+    {
+     "id": "2125592846392516641",
+     "author_handle": "MackenZ_arnold",
+     "author_name": "Mackenzie Arnold",
+     "text": "We couple that with a very intense focus on actually achieving our goals. \n\nIt’s so easy for a think tank to write papers off into the void. If anything, that’s the default. We should assume that unless we keep our eye relentlessly on the prize, we’ll end up playing dress-up and won’t actually help solve the problems we want to address.\n\nThink Richard Hamming or Bell Labs “What is the most importantly problem? And why aren’t you working on it?”",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/MackenZ_arnold/status/2125592846392516641",
+     "created_at": "Wed Nov 25 14:10:00 +0000 2026"
+    },
+    {
+     "id": "2125592846723866705",
+     "author_handle": "MackenZ_arnold",
+     "author_name": "Mackenzie Arnold",
+     "text": "People here are also just very interesting, nice, and driven. It's the kind of place that is maximally flexible in all things that don't relate to the bottom line -- we want our staff to feel great and supported, so they can give their all to the most important 10% of their job.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/MackenZ_arnold/status/2125592846723866705",
+     "created_at": "Wed Nov 25 14:10:00 +0000 2026"
+    },
+    {
+     "id": "2125592847197917495",
+     "author_handle": "MackenZ_arnold",
+     "author_name": "Mackenzie Arnold",
+     "text": "So how do we make a difference?\n\nThe first key is focusing on people who actually have the pen: policymakers. And rather than trying to twist their arms or play politics we offer them a simple service: if we like your bill and think it’s important, we’ll send you a crack legal team to work out the kinks. \n\nWe know our place, it’s to help. And it just so happens that a lot of the most important details of bills (enforcement, rulemaking, definitions—all the stuff lawyers are good at) are often the pieces that are most in need of help.",
+     "links": {
+      "https://t.co/kPpwB8Flff": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HX7nTLFXUAA7Sj3.jpg"
+      },
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HX7nUhAXkAAwXHc.jpg"
+      },
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HX7n2oYX0AAd-UR.jpg"
+      },
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HX7oJyFWAAAUvcy.jpg"
+      }
+     ],
+     "url": "https://x.com/MackenZ_arnold/status/2125592847197917495",
+     "created_at": "Wed Nov 25 14:10:01 +0000 2026"
+    },
+    {
+     "id": "2125592847806058842",
+     "author_handle": "MackenZ_arnold",
+     "author_name": "Mackenzie Arnold",
+     "text": "To our partners: we offer confidentiality and speed. A lot of our researchers used to work at firms and know how to take care of their clients. And they know the importance of us being honest brokers—it’s our ticket in the door, and we have to earn it.\n\nThis has the added bonus of helping us work with a very wide range of offices and groups.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/MackenZ_arnold/status/2125592847806058842",
+     "created_at": "Wed Nov 25 14:10:01 +0000 2026"
+    },
+    {
+     "id": "2125592848347087195",
+     "author_handle": "MackenZ_arnold",
+     "author_name": "Mackenzie Arnold",
+     "text": "So what are we looking to do next?\n\nWe already have a great core product, and we expect to be super busy this coming year. \n\nWe’ll keep doing internal research to prepare our staff to answer the big questions (auditing, incident reporting, visibility into internal AI R&D and ensuring human oversight/control, standing up a new AI agency, surging talent into gov, overseeing AI-automated biological research, etc.). \n\nAnd we’ll use that knowledge to edit, draft, and advise on the most exciting proposals in AI policy.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/MackenZ_arnold/status/2125592848347087195",
+     "created_at": "Wed Nov 25 14:10:01 +0000 2026"
+    },
+    {
+     "id": "2125592848938512582",
+     "author_handle": "MackenZ_arnold",
+     "author_name": "Mackenzie Arnold",
+     "text": "How can you help?\n\nAs you might guess, we have more demand than we have hours in the day. That’s a great problem to have. I’m looking for a co-pilot to help @CharlieBull0ck and I grow our team, scale our quality control, and ensure we are getting the best advice to the best opportunities in 2027 and 2028.\n\nWe’re looking for an org-builder who can see our vision for the team, execute on it, and come up with the next big bets we’ll make as a team.\n\nThis is a leadership and special projects role, and you'd work exceptionally closely with me, coming up with priority projects and divvying them up between the two of us.\n\nhttps://t.co/j6jVVS0zgt",
+     "links": {
+      "https://t.co/j6jVVS0zgt": "https://law-ai.org/career/us-cos/",
+      "https://t.co/fp4Y7MDPsN": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HX7o76zXIAERjZk.png"
+      }
+     ],
+     "url": "https://x.com/MackenZ_arnold/status/2125592848938512582",
+     "created_at": "Wed Nov 25 14:10:01 +0000 2026"
+    },
+    {
+     "id": "2125592849399906349",
+     "author_handle": "MackenZ_arnold",
+     "author_name": "Mackenzie Arnold",
+     "text": "Importantly: you don't have to be a lawyer! We actually expect that some of the very best applicants will not be lawyers. https://t.co/swBgRdoh1o",
+     "links": {
+      "https://t.co/swBgRdoh1o": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HX7pLvzXYAA93mZ.png"
+      }
+     ],
+     "url": "https://x.com/MackenZ_arnold/status/2125592849399906349",
+     "created_at": "Wed Nov 25 14:10:01 +0000 2026"
+    },
+    {
+     "id": "2125592850209427857",
+     "author_handle": "MackenZ_arnold",
+     "author_name": "Mackenzie Arnold",
+     "text": "We’re also headhunting for someone to lead our talent development programs.\n\nThe short pitch: soon enough, we will go to simply ideating policy to implementing it. To do that, we will need a massive influx of talent. Many of the best positioned candidates to lead those projects will be lawyers. LawAI is good at finding those people and has the practical training opportunities and relationships to help those people enter the field.\n\nWe’ve already been very successful in this domain (finding and training some of the best legal talent now in AI policy) and we could arguably keep doing what we're doing. But we think a a strategic pivot is in order if we're really going to rise to the challenge.\n\nQuite simply, the world of AI policy talent has changed a lot in the last 6 months. We’ve quickly gone from trying to drum up interest in AI to having a massive overflow of top-tier lawyers interested in working with us or entering the field. \n\nWhat should we do with all that new interest? And how can we help prepare these talented lawyers to contribute to AI policy?\n\nOur offer to you: we’ve had a lot of success in the past, but the challenge has shifted with the influx of new talent. We’ve reduced our existing programs to a simmer, and would give you full runway to build something new, fit for the new reality. You’d build a team to execute that vision, supported by our existing funding and operational support.\n\nWe're not running a public round for this role at this time so that we can focus our attention on headhunting people with a track-record of success in similar programs. So if this sounds like a fit for you, please reach out and I'll share more information.",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/MackenZ_arnold/status/2125592850209427857",
+     "created_at": "Wed Nov 25 14:10:01 +0000 2026"
+    },
+    {
+     "id": "2125592850561638865",
+     "author_handle": "MackenZ_arnold",
+     "author_name": "Mackenzie Arnold",
+     "text": "Outside of those roles, I'm always on the lookout for new researchers and partners. If LawAI sounds like the place for you, or if you have a project that you think we can help with, please reach out!",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/MackenZ_arnold/status/2125592850561638865",
+     "created_at": "Wed Nov 25 14:10:01 +0000 2026"
+    }
+   ],
+   "enriched": 3
   }
  }
 }

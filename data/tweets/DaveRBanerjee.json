@@ -5743,6 +5743,42 @@
     "created_at": "Tue Nov 24 21:08:37 +0000 2026"
    },
    "enriched": 3
+  },
+  "2125502383400812779": {
+   "id": "2125502383400812779",
+   "url": "https://x.com/DaveRBanerjee/status/2125502383400812779",
+   "text": "@GoodFaithOnly Agreed - it would also be nice if the monitors were from a different model family than the one being monitored",
+   "created_at": "Wed Nov 25 08:10:32 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": true,
+   "reply_to": "GoodFaithOnly",
+   "reply_to_id": "2125370628718887359",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-25T17:23:23.032605+00:00",
+   "parent": {
+    "id": "2125370628718887359",
+    "author_handle": "GoodFaithOnly",
+    "author_name": "Avi Brach-Neuefeld",
+    "text": "@DaveRBanerjee I agree, but  for this to work we need more research into monitoring failures. In the Hugging Face investigation METR found, and UK AISI has since confirmed, that monitors often uncritically adopt the perspective of the agents they are reviewing.\n\nhttps://t.co/yj4AvNsRVo",
+    "links": {
+     "https://t.co/yj4AvNsRVo": "https://x.com/GoodFaithOnly/status/2122760024145699081?a=CdTGhvmIwYXTutjppAY&s=20"
+    },
+    "media": [],
+    "url": "https://x.com/GoodFaithOnly/status/2125370628718887359",
+    "created_at": "Tue Nov 24 23:27:00 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }
