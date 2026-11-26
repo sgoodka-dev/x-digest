@@ -1,6 +1,6 @@
 {
  "last_run": {
-  "started": "2026-11-26T17:03:28.364412+00:00",
+  "started": "2026-11-26T20:16:29.705743+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
@@ -14,7 +14,7 @@
    },
    "ajeya_cotra": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 135
    },
    "alxndrdavies": {
@@ -29,22 +29,22 @@
    },
    "DaveRBanerjee": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 243
    },
    "DKokotajlo": {
     "ok": true,
-    "new": 4,
+    "new": 0,
     "total": 394
    },
    "dwarkesh_sp": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 222
    },
    "jkcarlsmith": {
     "ok": true,
-    "new": 4,
+    "new": 0,
     "total": 102
    },
    "Lewis_Bollard": {
@@ -54,8 +54,8 @@
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 4,
-    "total": 209
+    "new": 2,
+    "total": 211
    },
    "ohlennart": {
     "ok": true,
@@ -69,17 +69,17 @@
    },
    "testingham": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 172
    },
    "slatestarcodex": {
     "ok": true,
-    "new": 4,
-    "total": 173
+    "new": 1,
+    "total": 174
    },
    "s8mb": {
     "ok": true,
-    "new": 11,
+    "new": 0,
     "total": 677
    },
    "random_walker": {
@@ -94,13 +94,13 @@
    },
    "robertwiblin": {
     "ok": true,
-    "new": 11,
+    "new": 0,
     "total": 547
    },
    "deanwball": {
     "ok": true,
-    "new": 4,
-    "total": 694
+    "new": 1,
+    "total": 695
    },
    "nabeelqu": {
     "ok": true,
@@ -109,7 +109,7 @@
    },
    "theobearman": {
     "ok": true,
-    "new": 4,
+    "new": 0,
     "total": 520
    },
    "peterwilderford": {
@@ -124,8 +124,8 @@
    },
    "NateWitkin": {
     "ok": true,
-    "new": 0,
-    "total": 216
+    "new": 2,
+    "total": 218
    },
    "charnock_jacob": {
     "ok": true,
@@ -138,7 +138,7 @@
     "total": 96
    }
   },
-  "new_tweets": 53,
-  "finished": "2026-11-26T17:05:40.248675+00:00"
+  "new_tweets": 6,
+  "finished": "2026-11-26T20:17:43.537376+00:00"
  }
 }

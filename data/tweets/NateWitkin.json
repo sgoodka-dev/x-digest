@@ -6809,6 +6809,74 @@
    "quoted": null,
    "fetched_at": "2026-11-25T20:28:29.687688+00:00",
    "enriched": 3
+  },
+  "2126021277630734759": {
+   "id": "2126021277630734759",
+   "url": "https://x.com/NateWitkin/status/2126021277630734759",
+   "text": "I've seen people sharing this new METR graph as evidence that \"progress on non-verifiable tasks is occurring at the same speed at verifiable tasks (just from a lower base)\".\n\nBut importantly, that is emphatically *not* what this graph is showing!\n\nThe two METR slopes in this graph are not \"verifiable\" and  \"non-verifiable\", but \"costly\" and \"cheap\", where \"costly\" is an estimated cost of turning that task into an RL environment.\n\nNotably, this means that the vast majority of the tasks even in the \"costly\" family (orange slope) are in fact verifiable.\n\nThis includes tasks such as hit videogame Slay the Spire, which is costly to run (because of high token spend), but easy to verify.\n\nAnd importantly, there's some evidence that Slay the Spire was directly trained on in the case of Astra - which drastically outperforms other models on the task (https://t.co/NXO9bqfW8H)   .\n\nOne could imagine this to be true of other \"costly\" tasks that make up this trendline.\n\n(I think it's still possibly the case that non-verifiable tasks are progressing at a fast rate, but I don't think we have good evidence on this)",
+   "created_at": "Thu Nov 26 18:32:26 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "mentalgeorge",
+   "rt_author_name": "Tom Reed",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "rt_id": "2125967253657014389",
+   "likes": 63,
+   "retweets": 5,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYDztHsaYAA9qa6.png"
+    }
+   ],
+   "links": {
+    "https://t.co/NXO9bqfW8H": "https://www.preferencemodel.com/blog/slay-the-spire/",
+    "https://t.co/eUcQlDL5YE": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T20:16:29.705743+00:00",
+   "thread": [
+    {
+     "id": "2126003370909647095",
+     "author_handle": "mentalgeorge",
+     "author_name": "Tom Reed",
+     "text": "\"emphatically not\" was probably too strongly worded - there is a definite correlation between costliness and hard-to-verifiability. \n\nbut i think its important to understand the degree to which even progress on \"costly\" tasks could be coming from training directly on such tasks",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/mentalgeorge/status/2126003370909647095",
+     "created_at": "Thu Nov 26 17:21:17 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2126008792651571379": {
+   "id": "2126008792651571379",
+   "url": "https://x.com/NateWitkin/status/2126008792651571379",
+   "text": "@TomDavidsonX Thanks Tom. My disagreement with this is that I don't think the METR report provided much evidence for an RSI-driven 2x speedup.\nI don't think their graph supports 2x overall speedup.\nOnce you account for the bigger pretrain I think it suggests a jump + 1.6x overall speedup. If you believe their 80% was RSI claim, then that is about 1.5x due to RSI.\nBut the evidence in the graph is quite weak, with very large error bars and systematic error between the data points (i.e. if unreleased model 3 is too high, unreleased model 4 probably is too). If they calculated a p-value or Bayes factor for it (which they should have), I don't think it would be very impressive. And they summarised this with their bounds of saying they wouldn't be surprised if the speedup was as low as 1.3x or as high as 3x. But we shouldn't be symmetrically uncertain across this range as our priors were that it was towards the low end.\nOn top of all of that, there is the fact that this was only observed for Anthropic. If you run the data for frontier labs the effect disappears. But Anthropic was gaining ECI slower than the frontier for most of the measured period, and this improvement just got them back to the frontier. So it could easily be a catch-up growth effect or just one of the many wobbles in the curves of ECI over time (which are larger at the individual lab level).\nSo I think the visible evidence from the METR report shouldn't update you to anywhere near 2x the ECI per year due to RSI.\nI don't have as much to say re the redacted aspects of the report, though I see these as very similar to trying to read the tea leaves of what researchers at the labs say. I already knew the Anthropic researchers feel things are taking off, so for me it was only a small update that METR researchers who live in the Bay and were embedded in Anthropic for a while ended up with the same view.",
+   "created_at": "Thu Nov 26 17:42:50 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "tobyordoxford",
+   "rt_author_name": "Toby Ord",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1235495700739379200/jtyKeQdP_normal.jpg",
+   "rt_id": "2125885144422572138",
+   "likes": 93,
+   "retweets": 11,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-26T20:16:29.705743+00:00",
+   "enriched": 3
   }
  }
 }

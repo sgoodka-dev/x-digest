@@ -16064,6 +16064,30 @@
    "quoted": null,
    "fetched_at": "2026-11-26T17:03:28.364412+00:00",
    "enriched": 3
+  },
+  "2126005756252369243": {
+   "id": "2126005756252369243",
+   "url": "https://x.com/deanwball/status/2126005756252369243",
+   "text": "people don't quite seem to be noticing, but we're entering an era where almost everything can be imbued with small sparks of intelligence. models aren't yet human-expert level at pushing the frontier of LLM development, but they *do* seem to be ~near superhuman at classical ML research. you can just *make neural networks that do things* these days, at levels of accuracy and ambition that would have been impossible even three years ago. apple and tesla releasing depth pro and third person view simultaneously are signs of this, but it's everywhere. people are making mini neural nets for webpages that syntax highlight arbitrary text or predict layouts to avoid pop-in. grainy webcams are getting hyper-accurate pose estimation. incredible speech to text and text to speech open source models that can run on a fuckin raspberry pi CPU or smart watch. if you're a gamedev and ask a frontier model, you can just get your own version of DLSS hyper-turned for your own game, and *for cheap*. your wifi network is a room scale presence detector, and you can just get a mini model turned on personal specifics of your space. it's all there at everyone's fingertips.\n\nfor so long neural networks, computer vision, etc have required expertise, been expensive and tough to wrangle, and especially recently cheap LLMs have just obviously been the way to go instead. but when you have a horde of experts happy to poke at individual weights, you can unlock things that just weren't even possible before.\n\nall forms of computer hardware are no longer depreciating assets. stop throwing them away, selling them, trading them in. every one will only exponentially increase in utility from here on out.",
+   "created_at": "Thu Nov 26 17:30:46 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "tenobrus",
+   "rt_author_name": "Tenobrus",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1640415225991282688/K0CmWWD6_normal.png",
+   "rt_id": "2125988610323468629",
+   "likes": 617,
+   "retweets": 31,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-26T20:16:29.705743+00:00",
+   "enriched": 3
   }
  }
 }

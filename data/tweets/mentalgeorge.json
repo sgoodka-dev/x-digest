@@ -5096,6 +5096,79 @@
    "quoted": null,
    "fetched_at": "2026-11-26T17:03:28.364412+00:00",
    "enriched": 3
+  },
+  "2126009244969570631": {
+   "id": "2126009244969570631",
+   "url": "https://x.com/mentalgeorge/status/2126009244969570631",
+   "text": "@mentalgeorge @danwilliamsphil Yes I’ve been arguing this. Seems like they didn’t contact any humans because they’d internalised the “ethical” injunction to not do social engineering — even though they thought it might help with the task (and hence reward). Okay, so why didn’t they internalise other ethical boundaries, like against hacking? Seems likely that the same myopia that caused them to not think about how humans would catch them when they were being loud on OpenAI’s cluster also caused them to not focus on what else humans would want; and so more capable agents would more capably adhere to what we’d want from them",
+   "created_at": "Thu Nov 26 17:44:37 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "_AashishReddy",
+   "rt_author_name": "Aashish Reddy",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1741839411958947840/beQQVba9_normal.jpg",
+   "rt_id": "2126007186514182349",
+   "likes": 7,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYEYRIOWUAEZPgj.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/WnVnrrwd6q": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T20:16:29.705743+00:00",
+   "enriched": 3
+  },
+  "2126003370909647095": {
+   "id": "2126003370909647095",
+   "url": "https://x.com/mentalgeorge/status/2126003370909647095",
+   "text": "\"emphatically not\" was probably too strongly worded - there is a definite correlation between costliness and hard-to-verifiability. \n\nbut i think its important to understand the degree to which even progress on \"costly\" tasks could be coming from training directly on such tasks",
+   "created_at": "Thu Nov 26 17:21:17 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "mentalgeorge",
+   "reply_to_id": "2125967253657014389",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-26T20:16:29.705743+00:00",
+   "parent": {
+    "id": "2125967253657014389",
+    "author_handle": "mentalgeorge",
+    "author_name": "Tom Reed",
+    "text": "I've seen people sharing this new METR graph as evidence that \"progress on non-verifiable tasks is occurring at the same speed at verifiable tasks (just from a lower base)\".\n\nBut importantly, that is emphatically *not* what this graph is showing!\n\nThe two METR slopes in this graph are not \"verifiable\" and  \"non-verifiable\", but \"costly\" and \"cheap\", where \"costly\" is an estimated cost of turning that task into an RL environment.\n\nNotably, this means that the vast majority of the tasks even in the \"costly\" family (orange slope) are in fact verifiable.\n\nThis includes tasks such as hit videogame Slay the Spire, which is costly to run (because of high token spend), but easy to verify.\n\nAnd importantly, there's some evidence that Slay the Spire was directly trained on in the case of Astra - which drastically outperforms other models on the task (https://t.co/NXO9bqfW8H)   .\n\nOne could imagine this to be true of other \"costly\" tasks that make up this trendline.\n\n(I think it's still possibly the case that non-verifiable tasks are progressing at a fast rate, but I don't think we have good evidence on this)",
+    "links": {
+     "https://t.co/NXO9bqfW8H": "https://www.preferencemodel.com/blog/slay-the-spire/",
+     "https://t.co/eUcQlDL5YE": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HYDztHsaYAA9qa6.png"
+     }
+    ],
+    "url": "https://x.com/mentalgeorge/status/2125967253657014389",
+    "created_at": "Thu Nov 26 14:57:46 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }

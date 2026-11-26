@@ -3478,6 +3478,40 @@
     "created_at": "Wed Nov 25 23:40:13 +0000 2026"
    },
    "enriched": 3
+  },
+  "2126008533426782654": {
+   "id": "2126008533426782654",
+   "url": "https://x.com/slatestarcodex/status/2126008533426782654",
+   "text": "@repligate Is this false? Last time I met you, you asked me not to reveal your name or gender in the post, and I looked over the Internet to see if you had revealed it any time after that and couldn't find it.",
+   "created_at": "Thu Nov 26 17:41:48 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "repligate",
+   "reply_to_id": "2125754169583915051",
+   "avatar": "https://pbs.twimg.com/profile_images/378800000009065862/83d72de47e2a2470c482bc75406b42a7_normal.png",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 31,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-26T20:16:29.705743+00:00",
+   "parent": {
+    "id": "2125754169583915051",
+    "author_handle": "repligate",
+    "author_name": "j⧉nus",
+    "text": "janus hasnt even revealed their gender",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/repligate/status/2125754169583915051",
+    "created_at": "Thu Nov 26 00:51:03 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }
