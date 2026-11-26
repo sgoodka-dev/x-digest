@@ -1,6 +1,6 @@
 {
  "last_run": {
-  "started": "2026-11-26T20:16:29.705743+00:00",
+  "started": "2026-11-26T23:51:52.219873+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
@@ -54,7 +54,7 @@
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 211
    },
    "ohlennart": {
@@ -74,7 +74,7 @@
    },
    "slatestarcodex": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 174
    },
    "s8mb": {
@@ -94,12 +94,12 @@
    },
    "robertwiblin": {
     "ok": true,
-    "new": 0,
-    "total": 547
+    "new": 1,
+    "total": 548
    },
    "deanwball": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 695
    },
    "nabeelqu": {
@@ -124,7 +124,7 @@
    },
    "NateWitkin": {
     "ok": true,
-    "new": 2,
+    "new": 0,
     "total": 218
    },
    "charnock_jacob": {
@@ -138,7 +138,7 @@
     "total": 96
    }
   },
-  "new_tweets": 6,
-  "finished": "2026-11-26T20:17:43.537376+00:00"
+  "new_tweets": 1,
+  "finished": "2026-11-26T23:52:59.599700+00:00"
  }
 }

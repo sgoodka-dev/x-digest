@@ -15288,6 +15288,41 @@
    "quoted": null,
    "fetched_at": "2026-11-26T17:03:28.364412+00:00",
    "enriched": 3
+  },
+  "2126090870143246672": {
+   "id": "2126090870143246672",
+   "url": "https://x.com/robertwiblin/status/2126090870143246672",
+   "text": "\"THERE'S NO WAY I ALONE CAN MAKE A DIFFERENCE. THAT WOULD REQUIRE COLLECTIVE ACTION\" https://t.co/FcMGVest3y",
+   "created_at": "Thu Nov 26 23:08:58 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "chrislakin",
+   "rt_author_name": "Chris Lakin",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1970708810437378048/StEILYQn_normal.jpg",
+   "rt_id": "2125949906812891348",
+   "likes": 182,
+   "retweets": 7,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYDkK8daEAA6IKC.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYDkK8daEAA6IKC.png"
+    }
+   ],
+   "links": {
+    "https://t.co/FcMGVest3y": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T23:51:52.219873+00:00",
+   "enriched": 3
   }
  }
 }
