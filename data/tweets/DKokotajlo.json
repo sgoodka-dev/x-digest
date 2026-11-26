@@ -10223,6 +10223,122 @@
     }
    ],
    "enriched": 3
+  },
+  "2125978521684291796": {
+   "id": "2125978521684291796",
+   "url": "https://x.com/DKokotajlo/status/2125978521684291796",
+   "text": "@yugastox My timelines views can be found on our blog: https://t.co/nsb9UXHQVd We update them several times a year.",
+   "created_at": "Thu Nov 26 15:42:32 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": true,
+   "reply_to": "yugastox",
+   "reply_to_id": "2125973778127896737",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/nsb9UXHQVd": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
+  },
+  "2125970931457876423": {
+   "id": "2125970931457876423",
+   "url": "https://x.com/DKokotajlo/status/2125970931457876423",
+   "text": "Same. Though I would describe it as mostly rationalist stuff, not EA stuff, back then.",
+   "created_at": "Thu Nov 26 15:12:23 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 57,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2125770655203237963",
+    "author_name": "Andy Masley",
+    "links": {},
+    "author": "AndyMasley",
+    "text": "Stumbling into reading a lot of EA stuff in 2013 remains one of the single most lucky things that's ever happened to me. Feel like I got a jump start on the AI debates of 2026 back in 2018."
+   },
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
+  },
+  "2125970046170304687": {
+   "id": "2125970046170304687",
+   "url": "https://x.com/DKokotajlo/status/2125970046170304687",
+   "text": "Here’s what I think the current default trajectory looks like, in \"good\" worlds without an AI pause:\n\n1. The labs (or the “leading lab”, by stipulation of a responsible actor) will race as hard as they can (likely via RSI) to right before the point of superintelligence.\n\n2. They unilaterally pause and “burn the lead”\n\n3. They use that time to do alignment research with their existing AIs until they’re ~kinda sure that alignment is solved, or the lagging actors (via a US competitor, or a foreign one) are too close\n\n4. The aligned (or “aligned”) AIs builds the AIs to build the AIs to build the AIs to…build aligned (or “aligned”) superintelligence.\n\n5. The aligned superintelligence is used to obtain “decisive strategic advantage” by disabling other competing AI efforts. \n\n6. The lab then hands the superintelligence and the world to a democratically elected government. (6a: In some other worlds, the gov't understandably seizes the lab before this point, which might be even scarier)\n\n7. The democratically elected government uses the superintelligence to solve non-alignment issues and then everybody lives happily ever after.\n\nImo this is an utterly insane plan. It has a shadow of a chance of working, but it's so ridiculously scary. It has like many different independent ways of failing and insanely reckless and undemocratic even if they do succeed at alignment, which is also dubious.\n\nWhen I asked around  forwhether the labs have a better plan in the no-pause/no-slowdown worlds, I've never heard of a compelling answer.\n\nSurely the labs have a better plan, right? Right?",
+   "created_at": "Thu Nov 26 15:08:52 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "LinchZhang",
+   "rt_author_name": "Linch",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2059747405889961984/kvkiarox_normal.jpg",
+   "rt_id": "2125477613858902348",
+   "likes": 369,
+   "retweets": 33,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
+  },
+  "2125969226745962635": {
+   "id": "2125969226745962635",
+   "url": "https://x.com/DKokotajlo/status/2125969226745962635",
+   "text": "ok so now that all lab leaders seem to agree that they don't want to do handoff or RSI, I'd appreciate some concrete plans since the incentives clearly push toward handing off.\n\nWe published about this earlier this week: https://t.co/H8MnHc65qD https://t.co/jQaGhnZmjX",
+   "created_at": "Thu Nov 26 15:05:36 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "MariusHobbhahn",
+   "rt_author_name": "Marius Hobbhahn",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1869511726552494080/F0D8HNja_normal.jpg",
+   "rt_id": "2125693845790941391",
+   "likes": 292,
+   "retweets": 45,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX_7REFX0AEuPDx.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX_7REFX0AEuPDx.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/H8MnHc65qD": "https://www.apolloresearch.ai/governance/handoff-at-frontier-ai-companies",
+    "https://t.co/jQaGhnZmjX": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
   }
  }
 }

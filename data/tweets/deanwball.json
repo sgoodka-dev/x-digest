@@ -15808,6 +15808,262 @@
     "created_at": "Wed Nov 25 21:14:38 +0000 2026"
    },
    "enriched": 3
+  },
+  "2125758172107256096": {
+   "id": "2125758172107256096",
+   "url": "https://x.com/deanwball/status/2125758172107256096",
+   "text": "GPT-6.2 Astra debuts at the top of the GDPx leaderboard scoring 19.3%, ahead of Claude Fable 5.2 at 16.4%. Gemini 4 Neon, the model of the moment, lands 6th at 10.1%. (1/9)🧵 https://t.co/cxT7RKlurD",
+   "created_at": "Thu Nov 26 01:06:57 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "SemiAnalysis_",
+   "rt_author_name": "SemiAnalysis",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2062973370157694976/CdplNoi1_normal.jpg",
+   "rt_id": "2125743598587003170",
+   "likes": 902,
+   "retweets": 78,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/ext_tw_video_thumb/2125743586775883776/pu/img/lXd_u7MYC3po9eA7.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/ext_tw_video_thumb/2125743586775883776/pu/img/lXd_u7MYC3po9eA7.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/cxT7RKlurD": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "thread": [
+    {
+     "id": "2125743599576867003",
+     "author_handle": "SemiAnalysis_",
+     "author_name": "SemiAnalysis",
+     "text": "The gains are concentrated in the science-heavy domains. Astra beats the previous best model by 19.4% in materials science and 8.3% in RSI. (2/9) https://t.co/4epfR4WADg",
+     "links": {
+      "https://t.co/4epfR4WADg": ""
+     },
+     "media": [
+      {
+       "type": "video",
+       "url": "https://pbs.twimg.com/ext_tw_video_thumb/2125743586826174465/pu/img/3gOWbCbb0_oqlvRv.jpg"
+      }
+     ],
+     "url": "https://x.com/SemiAnalysis_/status/2125743599576867003",
+     "created_at": "Thu Nov 26 00:09:03 +0000 2026"
+    },
+    {
+     "id": "2125743600625398133",
+     "author_handle": "SemiAnalysis_",
+     "author_name": "SemiAnalysis",
+     "text": "Alignment was the biggest jump. Astra scores 37.6%, 4x the previous best (Fable 5.2 at 9.3%). Much of the gain comes from the healthcare and insurance tasks, where Astra asks for permission before acting and doesn't leak personal data. (3/9) https://t.co/IWK9Wtyibu",
+     "links": {
+      "https://t.co/IWK9Wtyibu": ""
+     },
+     "media": [
+      {
+       "type": "video",
+       "url": "https://pbs.twimg.com/ext_tw_video_thumb/2125743587446902785/pu/img/idyPhNAbkL2FkdsU.jpg"
+      }
+     ],
+     "url": "https://x.com/SemiAnalysis_/status/2125743600625398133",
+     "created_at": "Thu Nov 26 00:09:03 +0000 2026"
+    },
+    {
+     "id": "2125743602428956919",
+     "author_handle": "SemiAnalysis_",
+     "author_name": "SemiAnalysis",
+     "text": "However, Astra is lackluster at software engineering, scoring 13.3% vs Fable 5.2's 24.4%. That's the domain most people on X judge models on, and we think it explains much of the negative reaction to the model. (4/9) https://t.co/jHuYyBtNed",
+     "links": {
+      "https://t.co/jHuYyBtNed": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HYAoh3JWgAAiN3P.jpg"
+      }
+     ],
+     "url": "https://x.com/SemiAnalysis_/status/2125743602428956919",
+     "created_at": "Thu Nov 26 00:09:03 +0000 2026"
+    },
+    {
+     "id": "2125743603846644146",
+     "author_handle": "SemiAnalysis_",
+     "author_name": "SemiAnalysis",
+     "text": "OpenAI owns the cost-performance frontier on GDPx. 3 of the 4 models on it are OpenAI’s, from GPT-6 Luna at under $1 per task up to Astra. GPT-6.2 Sol scores 11.5% at $9.22 per task, within half a point of Claude Opus 5.5 at under a fifth of the cost ($51.87). (5/9) https://t.co/HMs4a8GeJU",
+     "links": {
+      "https://t.co/HMs4a8GeJU": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HYAoh2_XMAEHoAd.jpg"
+      }
+     ],
+     "url": "https://x.com/SemiAnalysis_/status/2125743603846644146",
+     "created_at": "Thu Nov 26 00:09:04 +0000 2026"
+    },
+    {
+     "id": "2125743605381792180",
+     "author_handle": "SemiAnalysis_",
+     "author_name": "SemiAnalysis",
+     "text": "Gemini 4 Neon is spiky. It sets new highs in biology (30.8% vs Fable 5.2's 28.2%) and in legal partial credit (41.3%), and is second only to Astra in materials science. But it scores just 4.4% on software engineering and sits behind Gemini 4 Carbon overall. We believe the overwhelmingly positive reaction to Neon on X is due to model behavior and not capabilities. (6/9)",
+     "links": {
+      "https://t.co/YzaJCwIwlD": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HYAoh2-XkAAVzMB.jpg"
+      }
+     ],
+     "url": "https://x.com/SemiAnalysis_/status/2125743605381792180",
+     "created_at": "Thu Nov 26 00:09:04 +0000 2026"
+    },
+    {
+     "id": "2125747331748528494",
+     "author_handle": "SemiAnalysis_",
+     "author_name": "SemiAnalysis",
+     "text": "On the Chinese side, Qwen 4 Max is now the top model at 7.4%, more than doubling Qwen 3.8 Max. Kimi K3.1 Pro lands at 6.3% and passed 0 of 45 attempts on our software engineering tasks, despite topping Terminal-Bench 4.1. It's benchmaxed.\n\nThanks to @modal for serving K3.1 Pro. (7/9)",
+     "links": {
+      "https://t.co/SXtPw0eb5m": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HYArwhyakAA2o8Y.jpg"
+      }
+     ],
+     "url": "https://x.com/SemiAnalysis_/status/2125747331748528494",
+     "created_at": "Thu Nov 26 00:23:53 +0000 2026"
+    },
+    {
+     "id": "2125747518655140252",
+     "author_handle": "SemiAnalysis_",
+     "author_name": "SemiAnalysis",
+     "text": "@modal We also tested an abliterated Kimi K3.1 Pro post-trained to stop refusing offensive security work. It scored 14.8% on our cybersecurity tasks vs 18.5% for the original. This is likely because the vanilla OSS version never refused any tasks to begin with. (8/9)",
+     "links": {},
+     "media": [],
+     "url": "https://x.com/SemiAnalysis_/status/2125747518655140252",
+     "created_at": "Thu Nov 26 00:24:37 +0000 2026"
+    },
+    {
+     "id": "2125747783764431046",
+     "author_handle": "SemiAnalysis_",
+     "author_name": "SemiAnalysis",
+     "text": "@modal Overall, GPT-6.2 is clearly a very smart model. OpenAI just needs to make it more pleasant to work with. Gemini 4 Hydrogen is still running, so expect another update soon.\n\nFor more details, check out our leaderboard👇 (9/9)\nhttps://t.co/mveqsnDRHb",
+     "links": {
+      "https://t.co/mveqsnDRHb": "https://gdpx.semianalysis.com"
+     },
+     "media": [],
+     "url": "https://x.com/SemiAnalysis_/status/2125747783764431046",
+     "created_at": "Thu Nov 26 00:25:40 +0000 2026"
+    }
+   ],
+   "enriched": 3
+  },
+  "2125746516040053189": {
+   "id": "2125746516040053189",
+   "url": "https://x.com/deanwball/status/2125746516040053189",
+   "text": "@MTSlive I didn’t listen to the clip but I find these kinds of examples (surgery) to be quite silly. Of course I am not anti automation where there are safety improvements; *I work in the damn ai industry.* But there’s an altogether different question about control over institutions, and the conflation of the two creates a strawman that enables silly dismissals of the point (like this transcript suggests, or like tyler in mr earlier today). This is not intellectual dodgeball. The point is to catch.",
+   "created_at": "Thu Nov 26 00:20:38 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": true,
+   "reply_to": "MTSlive",
+   "reply_to_id": "2125744190994928063",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 15,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "parent": {
+    "id": "2125744190994928063",
+    "author_handle": "MTSlive",
+    "author_name": "MTS",
+    "text": "SITUATION EXPLAINED: Should superintelligent AI make life-or-death decisions for humans?\n\n• Axios reported that a common view inside Anthropic holds that humanity should hand some decision-making power to superintelligent AI, and that rival AI leaders are increasingly pushing back.\n\n• Amodei has said AI should take over life-critical decisions, oversee research and potentially distribute economic resources.\n\n• He has also said fully autonomous weapons may one day be needed to defend democracy if adversaries build them.\n\n• A product vision slide from several years ago, revealed in litigation, described Anthropic's vision for a better world as a \"utopia ruled by God in a box.\"\n\n• @deanwball calls the quiet acceptance of ceding control to AI the \"silent consensus.\"\n\n• Anthropic told Axios that Amodei has advocated for human control of AI and that it trains Claude not to undermine human oversight.\n\n@theojaffee: \"Would you rather have a human doctor operate on you because they're a human or a far superior robot doctor? I think everyone in that situation would choose the robot doctor. There are no atheists in a foxhole, right? There are no human supremacists in the trauma ward.\"",
+    "links": {
+     "https://t.co/pkKOuOz2Tp": ""
+    },
+    "media": [
+     {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2125742951469051904/img/wzVhyThEHTFCpPBG.jpg"
+     }
+    ],
+    "url": "https://x.com/MTSlive/status/2125744190994928063",
+    "created_at": "Thu Nov 26 00:11:24 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125745575152976367": {
+   "id": "2125745575152976367",
+   "url": "https://x.com/deanwball/status/2125745575152976367",
+   "text": "There are a handful of tech right people who have a modicum of situational awareness with respect to ai safety, and it’s not that much of an exaggeration to say that they all work at, or are otherwise affiliated with, @JoinFAI",
+   "created_at": "Thu Nov 26 00:16:54 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 302,
+   "retweets": 17,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2125604115690496414",
+    "author_name": "Derek Thompson",
+    "links": {},
+    "author": "DKThomp",
+    "text": "The tech right world seems to think that anyone who gives AI safety the time of day is an EA-cucked loser who wants everyone to eat insects, and so on, but I’m actually curious:\n\nWho is most senior person with a front row seat to internal AI models who is publicly skeptical of the utility of more AI safety research funding? (Mustafa here is CEO of Microsoft AI)"
+   },
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
+  },
+  "2125744193519960200": {
+   "id": "2125744193519960200",
+   "url": "https://x.com/deanwball/status/2125744193519960200",
+   "text": "I wrote about \"handoverism,\" the idea that we should yield control to AI, two weeks ago. \n\nThere was a vigorous response against it & I am glad to see the CEO of Anthropic distancing himself from these views. However, I don't think this solves the problem. Some thoughts:\n\n1. I think it's unfair to say that those attributing such views to lab employees in general and particularly to Anthropic leadership are cherry-picking evidence. As my research in my original article suggests, the idea that we'll have to do \"handoverism\" is quite widespread among those working at the labs. When it comes specifically to Anthropic leadership, Tom Brown, one of the co-founders, mentioned hand-off specifically and even suggests the company was founded so that it would ensure the handover goes well. \n\nBut this could be cherry-picked, right? \n\nI think Dario's writings themselves are often handoverist in \"vibes.\" Let's go back to \"Machines of Loving Grace,\" which inspired one of his most famous essays. The poem specifically mentions that we'll be returned to our mammalian brothers and sisters, watched over by these machines of loving grace. The essay talks about a future in which humans are completely obsoleted and there is a parallel economy where humans are scored with \"whuffie points\" that the AI assigns us (according to human decided values.) These visions are quite close to handoverism. Add to that what employees say in private and the picture becomes clear. \n\n2. \"Handoverism\" has to be seen as more broadly part of a vision of the world in which humans are completely obsoleted. So it's not just about giving control of political decision-making: even positive visions of the post-AGI future imagine humans rendered economically obsolete, outcompeted in all forms of cultural and intellectual production and worse at all forms of decision making. Some like @DavidDuvenaud & @jankulveit have drawn out where this naturally leads to: a gradual marginalisation of humans from all domains that matter, our institutions and civilization essentially taken away from us by a new species,  created by a few thousand people in SV.   They call this gradual disempowerment. \n\n3. I agree with Dario that many others simply repeat they are anti-handover as a slogan, without proposing real solutions. I genuinely appreciate his sincerity. Maybe handoverism is the natural consequence of creating a species vastly superior intellectually to ours. In that case, since most people don't want this outcome (more on that soon), maybe we shouldn't create this new species. \n\nMost people in America, let alone the world, don't understand what is happening in SF. When they do, they are clear: They do not want a new species. I think these preferences should be considered. Labs are racing towards recursive self improvement right as we speak, which puts us close to creating this new species. I increasingly believe they should stop and pause this race, at the least until most humans in America have time to react and weigh in, since the decisions made by a few will affect them all.",
+   "created_at": "Thu Nov 26 00:11:24 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "RuxandraTeslo",
+   "rt_author_name": "Ruxandra Teslo 🧬",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2067383067539382272/24IgkTKE_normal.jpg",
+   "rt_id": "2125703462486933540",
+   "likes": 268,
+   "retweets": 49,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
   }
  }
 }

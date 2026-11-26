@@ -14786,6 +14786,130 @@
    },
    "fetched_at": "2026-11-25T20:28:29.687688+00:00",
    "enriched": 3
+  },
+  "2125894379189768595": {
+   "id": "2125894379189768595",
+   "url": "https://x.com/theobearman/status/2125894379189768595",
+   "text": "Reuters reports that the launch of Zhipu AI’s 3-trillion-parameter GLM-5.5 could slip to Q1 2027 or later, with OpenAI and Anthropic’s crackdown on model distillation contributing to the delay.\n\nMoonshot AI, the company behind Kimi, estimates internally that the gap between major model releases could stretch from the usual six months to 12 months or more if new U.S. rules cut off its access to rented computing power overseas. Kimi K4 could slip to mid-2027. A person familiar with Moonshot’s operations said the computing capacity available in China wouldn’t be enough to make up the shortfall.\n\nhttps://t.co/7JarHv2CCd",
+   "created_at": "Thu Nov 26 10:08:11 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "jukan05",
+   "rt_author_name": "Jukan",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2113208994739433472/RG71j-sh_normal.jpg",
+   "rt_id": "2125887732035867002",
+   "likes": 569,
+   "retweets": 71,
+   "media": [],
+   "links": {
+    "https://t.co/7JarHv2CCd": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
+  },
+  "2125856984071319913": {
+   "id": "2125856984071319913",
+   "url": "https://x.com/theobearman/status/2125856984071319913",
+   "text": "FT Exclusive: The chipmaker has told its manufacturing partners to stop shipping servers to four south-east Asian countries, as the US steps up export controls to prevent Chinese access to AI computing power. https://t.co/q9hoD57lL2 https://t.co/RaFm5K4cWe",
+   "created_at": "Thu Nov 26 07:39:36 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "FT",
+   "rt_author_name": "Financial Times",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/931156393108885504/EqEMtLhM_normal.jpg",
+   "rt_id": "2125826480542290396",
+   "likes": 300,
+   "retweets": 122,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYBz6UEWUAA5uHl.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYBz6UEWUAA5uHl.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/q9hoD57lL2": "https://ft.trib.al/a1cwoqk",
+    "https://t.co/RaFm5K4cWe": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
+  },
+  "2125856576103964911": {
+   "id": "2125856576103964911",
+   "url": "https://x.com/theobearman/status/2125856576103964911",
+   "text": "New: Chinese AI model developers brace for a *dire future,* as U.S. curbs access to both chips and tokens. \n\"We're doomed,\" says a researcher of a leading Chinese lab. \nhttps://t.co/J1eNjieTBg\nvia @theinformation https://t.co/ZkdIpVoFyI",
+   "created_at": "Thu Nov 26 07:37:58 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "jingyanghk",
+   "rt_author_name": "Jing Yang",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2115759914295721984/VPgtF3Pq_normal.jpg",
+   "rt_id": "2125806501847781537",
+   "likes": 106,
+   "retweets": 30,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYBfQ00aQAAWqyr.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYBfQ00aQAAWqyr.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/J1eNjieTBg": "https://www.theinformation.com/articles/chinese-ai-firms-confront-dire-future-u-s-tightens-access-chips-tokens",
+    "https://t.co/ZkdIpVoFyI": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
+  },
+  "2125769047375741116": {
+   "id": "2125769047375741116",
+   "url": "https://x.com/theobearman/status/2125769047375741116",
+   "text": "NEWS: Pentagon officials were working on a plan to use Defense Production Act to nudge Nvidia to re-install Jensen Huang as CEO w/the argument it related to national security. Convo shows the lengths Trump administration was willing to go to intervene:\nhttps://t.co/nYx7G09hoc",
+   "created_at": "Thu Nov 26 01:50:10 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "nancook",
+   "rt_author_name": "Nancy Cook",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1336883253693837312/92tx0Nkx_normal.jpg",
+   "rt_id": "2125720907423621513",
+   "likes": 1180,
+   "retweets": 455,
+   "media": [],
+   "links": {
+    "https://t.co/nYx7G09hoc": "https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
   }
  }
 }

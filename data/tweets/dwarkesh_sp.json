@@ -5650,6 +5650,68 @@
    "quoted": null,
    "fetched_at": "2026-11-24T23:54:45.726159+00:00",
    "enriched": 3
+  },
+  "2125905845926101211": {
+   "id": "2125905845926101211",
+   "url": "https://x.com/dwarkesh_sp/status/2125905845926101211",
+   "text": ".@slatestarcodex uses SpaceX to illustrate the lower bound of what superintelligence could achieve:  \n\n\"We have something which is smarter than Elon Musk, better at optimizing things than Elon Musk.  \n\nWe have 10,000 parts in a rocket supply chain.  \n\nHow many of those parts can Elon personally yell at people to optimize?  \n\nWe could have a different copy of the superintelligence, optimizing every single part full time.”",
+   "created_at": "Thu Nov 26 10:53:45 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1915048486505971712/H2jFRoW6_normal.jpg",
+   "rt_id": "2123461306833355093",
+   "likes": 246,
+   "retweets": 8,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2122012991763755009/img/5D_JwROhpAL9GxKI.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/YYLp4RLXWG": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
+  },
+  "2125905725461328209": {
+   "id": "2125905725461328209",
+   "url": "https://x.com/dwarkesh_sp/status/2125905725461328209",
+   "text": "Ending factory farming isn't about making everyone vegetarian.  \n\nThe animal welfare movement made the same mistake as early environmentalists - turning a systems problem into a personal virtue test.  \n\nNo major social reform succeeded by first converting millions to change their habits. They changed the defaults - subsidies, procurement, regulations.  \n\nYou could have more impact on animal welfare while eating a burger than a vegan who believes they are doing their part.\n\n@Lewis_Bollard",
+   "created_at": "Thu Nov 26 10:53:17 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkeshpodcast",
+   "rt_author_name": "Dwarkesh Podcast",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1915048486505971712/H2jFRoW6_normal.jpg",
+   "rt_id": "2121649364498366823",
+   "likes": 329,
+   "retweets": 18,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2121244836757970944/img/7-VL80HG3chaQtAT.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/NIkRA7xq8a": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
   }
  }
 }

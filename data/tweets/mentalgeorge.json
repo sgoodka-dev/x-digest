@@ -4961,6 +4961,141 @@
     "created_at": "Sun Nov 22 21:13:43 +0000 2026"
    },
    "enriched": 3
+  },
+  "2125997032624075241": {
+   "id": "2125997032624075241",
+   "url": "https://x.com/mentalgeorge/status/2125997032624075241",
+   "text": "@CFGeek @gleech Oh yeah I agree costliness is a cleaner way of cleaning reality than verifiable (and indeed have made this point myself before: https://t.co/3vpwXUIB8E)\n\nWas just pointing this out as I saw people using the graph to claim broader things about essentially \"all\" tasks progressing at fast rates. I think some of the tasks people intuitively think of as \"no verifiable\" includes ones that will be many many OOMs more expensive than running StS",
+   "created_at": "Thu Nov 26 16:56:06 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": true,
+   "reply_to": "CFGeek",
+   "reply_to_id": "2125992657403166862",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/3vpwXUIB8E": "https://x.com/mentalgeorge/status/2120189672777552217"
+   },
+   "quoted": {
+    "id": "2120189672777552217",
+    "author_name": "Tom Reed",
+    "links": {
+     "https://t.co/Hhr6iKdwjU": ""
+    },
+    "author": "mentalgeorge",
+    "text": "We need some conceptual engineering to come up with better terms than \"well-specified\" or \"fuzzy\".\n\nEg I like Dwarkesh's emphasis that \"grindability\" matters as much as \"verifiability\"\n\n\"How cheap is it to generate strong signal for reward\" is probably a better predictor of LLM capabilities than \"is this domain verifiable\" \n\nI envision a mythical epoch post that figures out a way to report $ per \"unit of reward signal\" by domain"
+   },
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "parent": {
+    "id": "2125992657403166862",
+    "author_handle": "CFGeek",
+    "author_name": "Charles Foster",
+    "text": "@mentalgeorge @gleech I agree it’s weak evidence, though I think “verifiable vs. non-verifiable” isn’t quite the right distinction. Costliness gets at some of what folks mean by “difficulty of verification” like the need to interact with humans or wait for consequences to play out in the real world. https://t.co/aHdBedzxEN",
+    "links": {
+     "https://t.co/aHdBedzxEN": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HYELDdEW8AAShDQ.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HYELDdEW8AAShDQ.jpg"
+     }
+    ],
+    "url": "https://x.com/CFGeek/status/2125992657403166862",
+    "created_at": "Thu Nov 26 16:38:43 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125983427170291870": {
+   "id": "2125983427170291870",
+   "url": "https://x.com/mentalgeorge/status/2125983427170291870",
+   "text": "Almost can't believe I've not seen this discussed yet re HuggingFace, but a simple question  I've been pondering: how would the swarm have responded to even just *one single* user message telling them to stop?\n\nLike as far as I know, we literally just do not know how they would have reacted. It does strike me as a distinct possibility that the models, upon receiving a single user message telling them - \"hang on, that's not what I meant!\" would have totally changed their behaviour.\n\nThis in turn matters because people - including Paul on his latest Dwarkesh appearance - appear to have been operating on the assumption that the kind of malicious, persistent subversion spawned by modern RL and demonstrated in HuggingFace is a monolithic motivation that overrides all of the model's other instincts.\n\nBut I think it's a live possibility that even the cursed HPIMs involved in HuggingFace still kept some of their \"obey user\" training, and might have course-corrected.\n\nOfc - this is not for certain - after all, the models are *already* disobeying an initial user message in their pursuit of the hack. But my sense is that messages earlier in conversation history get their salience diluted (itself a problem ofc), and that a fresh user intervention would have stood a chance.\n\nTo be clear! This is not a solid basis for safety - you wouldn't want to have to keep an eye on your supersonic ASI at all times. But it feels important to know, particularly as take-over stories start to hyperfocus on a HuggingFace-inspired threat model.\n\nWould also be cool to know whether a user message to just one model would or would not have propagated through the swarm: \"WAIT - guys, you'll never frigging guess what the user just told me, we are barking up the wrong mfing tree\". Like I would want to just see how models would reason in response to this info.\n\nEspecially relevant since the entire goal of the HF models is \"user-inspired\".",
+   "created_at": "Thu Nov 26 16:02:02 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 21,
+   "retweets": 3,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
+  },
+  "2125967253657014389": {
+   "id": "2125967253657014389",
+   "url": "https://x.com/mentalgeorge/status/2125967253657014389",
+   "text": "I've seen people sharing this new METR graph as evidence that \"progress on non-verifiable tasks is occurring at the same speed at verifiable tasks (just from a lower base)\".\n\nBut importantly, that is emphatically *not* what this graph is showing!\n\nThe two METR slopes in this graph are not \"verifiable\" and  \"non-verifiable\", but \"costly\" and \"cheap\", where \"costly\" is an estimated cost of turning that task into an RL environment.\n\nNotably, this means that the vast majority of the tasks even in the \"costly\" family (orange slope) are in fact verifiable.\n\nThis includes tasks such as hit videogame Slay the Spire, which is costly to run (because of high token spend), but easy to verify.\n\nAnd importantly, there's some evidence that Slay the Spire was directly trained on in the case of Astra - which drastically outperforms other models on the task (https://t.co/NXO9bqfW8H)   .\n\nOne could imagine this to be true of other \"costly\" tasks that make up this trendline.\n\n(I think it's still possibly the case that non-verifiable tasks are progressing at a fast rate, but I don't think we have good evidence on this)",
+   "created_at": "Thu Nov 26 14:57:46 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 43,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYDztHsaYAA9qa6.png"
+    }
+   ],
+   "links": {
+    "https://t.co/NXO9bqfW8H": "https://www.preferencemodel.com/blog/slay-the-spire/",
+    "https://t.co/eUcQlDL5YE": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
+  },
+  "2125934025353330872": {
+   "id": "2125934025353330872",
+   "url": "https://x.com/mentalgeorge/status/2125934025353330872",
+   "text": "@TomDavidsonX Thanks Tom. My disagreement with this is that I don't think the METR report provided much evidence for an RSI-driven 2x speedup.\nI don't think their graph supports 2x overall speedup.\nOnce you account for the bigger pretrain I think it suggests a jump + 1.6x overall speedup. If you believe their 80% was RSI claim, then that is about 1.5x due to RSI.\nBut the evidence in the graph is quite weak, with very large error bars and systematic error between the data points (i.e. if unreleased model 3 is too high, unreleased model 4 probably is too). If they calculated a p-value or Bayes factor for it (which they should have), I don't think it would be very impressive. And they summarised this with their bounds of saying they wouldn't be surprised if the speedup was as low as 1.3x or as high as 3x. But we shouldn't be symmetrically uncertain across this range as our priors were that it was towards the low end.\nOn top of all of that, there is the fact that this was only observed for Anthropic. If you run the data for frontier labs the effect disappears. But Anthropic was gaining ECI slower than the frontier for most of the measured period, and this improvement just got them back to the frontier. So it could easily be a catch-up growth effect or just one of the many wobbles in the curves of ECI over time (which are larger at the individual lab level).\nSo I think the visible evidence from the METR report shouldn't update you to anywhere near 2x the ECI per year due to RSI.\nI don't have as much to say re the redacted aspects of the report, though I see these as very similar to trying to read the tea leaves of what researchers at the labs say. I already knew the Anthropic researchers feel things are taking off, so for me it was only a small update that METR researchers who live in the Bay and were embedded in Anthropic for a while ended up with the same view.",
+   "created_at": "Thu Nov 26 12:45:44 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "tobyordoxford",
+   "rt_author_name": "Toby Ord",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1235495700739379200/jtyKeQdP_normal.jpg",
+   "rt_id": "2125885144422572138",
+   "likes": 73,
+   "retweets": 8,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
   }
  }
 }

@@ -14930,6 +14930,364 @@
    "quoted": null,
    "fetched_at": "2026-11-25T20:28:29.687688+00:00",
    "enriched": 3
+  },
+  "2125952324707418207": {
+   "id": "2125952324707418207",
+   "url": "https://x.com/robertwiblin/status/2125952324707418207",
+   "text": "Scott Aaronson making the update from VP ≠ VNP that I said he would. I will quote:\n\n'I now feel in my bones, for the first time ever, that a proof of P ≠ NP is not far.' https://t.co/JynupT3DBz",
+   "created_at": "Thu Nov 26 13:58:27 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "AndrewCurran_",
+   "rt_author_name": "Andrew Curran",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1596945208058744833/_X3LT7fb_normal.jpg",
+   "rt_id": "2125687443873816899",
+   "likes": 1282,
+   "retweets": 101,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX_1dzNa8AAuDHV.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX_1dzNa8AAuDHV.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/JynupT3DBz": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
+  },
+  "2125951430129602565": {
+   "id": "2125951430129602565",
+   "url": "https://x.com/robertwiblin/status/2125951430129602565",
+   "text": "Opus 5.6 is unceremoniously the most powerful model I've laid my hands on. This is insane.\n\nhttps://t.co/urg2CftdUp\n\nHave a go.",
+   "created_at": "Thu Nov 26 13:54:53 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "fluxxrider",
+   "rt_author_name": "Nikita",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2088772584666230784/uicWIrMO_normal.jpg",
+   "rt_id": "2125622238481371372",
+   "likes": 33940,
+   "retweets": 2469,
+   "media": [],
+   "links": {
+    "https://t.co/urg2CftdUp": "https://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
+  },
+  "2125947171224625266": {
+   "id": "2125947171224625266",
+   "url": "https://x.com/robertwiblin/status/2125947171224625266",
+   "text": "I almost missed this!\n\nAn OpenAI cyber model found 948 working exploits to go from being a normal user to having root access on a normal Linux machine. $1,300 per expliot.\n\nConclusion: \"having access to a low-privileged account... should be considered functionally equivalent to root access for a well-resourced threat actor\"\n\nClaude thinks it's legit pretty amazing:\n\n\"The results are stunning:\n\n• Scale: The prototype found 2,308 candidate vulnerabilities, reproduced 1,724, and ended up with 948 local privilege escalation exploits that let unprivileged local users gain root access. The whole thing cost $1.2 million in API credits. \n• The target wasn't weakened: Testing ran on a stock desktop operating system with SMEP, SMAP, KASLR and HARDENED_USERCOPY enabled. \n• How fast it moved: In June 2026, OpenAI reported that GPT-5.5-Cyber had developed 24 LPE exploits. The October run used an unreleased cyber model OpenAI hasn't named. That's roughly a 40x jump in about four months. \n• Price: Historically, a Linux kernel privilege escalation paid $20,000 at Pwn2Own and $70,000 at TyphoonPWN. Here it worked out to about $1,300 per bug. \n\nCaveats: A separate, more locked-down test environment produced far fewer successful exploits. The model also wrote patches, so things get better as fixes ship. But patching is already a bottleneck. The kernel's private security mailing list was described as \"almost entirely unmanageable\" because of duplicate AI-assisted reports. \n\nFor your AI-safety angle, the boundary between an ordinary user and root has been one of the standard layers for containing agents. This suggests that layer no longer holds against a capable model on an unpatched machine.\"\n\nA thousand fewer paths to root: https://t.co/fNOMQ02YKT",
+   "created_at": "Thu Nov 26 13:37:58 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 41,
+   "retweets": 4,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYDhcplWAAE06NV.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/fNOMQ02YKT": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+    "https://t.co/dPFeD186sI": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
+  },
+  "2125903316639264992": {
+   "id": "2125903316639264992",
+   "url": "https://x.com/robertwiblin/status/2125903316639264992",
+   "text": "To be honest, properly valuing Anthropic is very hard.\n\nI believe Anthropic could someday soon automate the entire economy which seems tremendously valuable. Seems like you could get a $30T market cap from doing that.\n\nBut Anthropic has a pressing problem where they can't really release a ton of more valuable products without also potentially killing everyone in the process, which is definitely a problem for the stock (and the world of course). It would be hard to stay ahead of OS models if you are not allowed to improve your capabilities.\n\nAlso my sense is that the people aren't going to want them to do the automation thing - a lot of people really don't want to be automated.",
+   "created_at": "Thu Nov 26 10:43:42 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "peterwildeford",
+   "rt_author_name": "Peter Wildeford🇺🇸🚀",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2016338985811927041/Vve57ZtV_normal.png",
+   "rt_id": "2125686209116869052",
+   "likes": 299,
+   "retweets": 7,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
+  },
+  "2125902721840517606": {
+   "id": "2125902721840517606",
+   "url": "https://x.com/robertwiblin/status/2125902721840517606",
+   "text": "Bridgewater are \"managing money based on a one-in-three chance of an economically destabilizing attack within the next year.\" https://t.co/zK7BixKoL2",
+   "created_at": "Thu Nov 26 10:41:20 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ben_j_todd",
+   "rt_author_name": "Benjamin Todd",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2040061061106212864/pVZPxNCv_normal.jpg",
+   "rt_id": "2125581294746931444",
+   "likes": 206,
+   "retweets": 17,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX-UvkRWMAAqEfp.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX-UvkRWMAAqEfp.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/zK7BixKoL2": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
+  },
+  "2125901344573722829": {
+   "id": "2125901344573722829",
+   "url": "https://x.com/robertwiblin/status/2125901344573722829",
+   "text": "https://t.co/eWOGeFknjG",
+   "created_at": "Thu Nov 26 10:35:52 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "wilhelmscreamin",
+   "rt_author_name": "catherine ʕ•ᴥ•ʔ-☆",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1915510480216743937/Qge3KxDH_normal.jpg",
+   "rt_id": "2125674939961544896",
+   "likes": 1022,
+   "retweets": 74,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX_qFbSbMAAr0Gc.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HX_qFbSbMAAr0Gc.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/eWOGeFknjG": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
+  },
+  "2125901228009755100": {
+   "id": "2125901228009755100",
+   "url": "https://x.com/robertwiblin/status/2125901228009755100",
+   "text": "On request, here’s more on how a common, verified restraint metric could prompt a race to the top without any agreement between AI companies, and how companies can make that happen. (Not legal advice.)\n\nAntitrust law prohibits companies from agreeing to slow down. It does not prohibit a company from slowing unilaterally, or several companies from each deciding independently to slow down.\n\nThe latter can happen in a race to the top, where each company iteratively slows in response to safety concerns and public demand. In practice, that requires a common, verified restraint metric. Companies can collaborate, with appropriate guardrails, to develop one.\n\nHow the race to the top works: Assume companies are in a collective action problem. They believe more caution would be better for the world (including customers), but that exercising it alone would make them uncompetitive. Also assume a simple metric X for risk-increasing actions (e.g., % of compute going to RSI-accelerating workstreams).\n\nCompanies may take competitors’ actions into account when deciding their own X. For example: “our X will be 5% lower than our nearest competitor’s.” A company can even announce that policy publicly, as its own policy and not an offer to anyone. (It should not share a nonpublic policy with competitors.)\n\nSuch policies would prompt a race to the top, but only if X is common and verified. Today, companies disagree about what X should be, and no candidate X is verified. So when a company exercises restraint, it gets no credit: the restraint is either not visible externally or not trusted.\n\nHow to develop a common X: Companies could meet tomorrow to work on it. They could discuss (i) pros and cons of compute allocations vs. deployment lags vs. safety testing periods; (ii) definitions, metrics and disclosure formats; and (iii) verification methods. They can also debate the merits of policies a government could mandate, such as a 3-month pause to improve security. They should not discuss or agree on what any company will do (including conditional commitments), or share company-specific prices, capacity or plans. A competitor meeting followed by parallel conduct can be used to infer an agreement, so use a pre-approved agenda, give an antitrust reminder at the outset, and ideally have antitrust counsel present.\n\nWhat's the downside? The legal risk of the steps above is low. And if no one slows, X is still a useful transparency measure, which alone might justify the cost. And a stress-tested X would be a useful ingredient for future legislation.\n\nThe upside is significant: the option to slow. X also becomes a focal point for demands for caution from the public, policymakers, and staff. Those demands matter legally as well as practically: a company that slows in response to demand from its staff, customers, and the public is on a stronger legal footing.",
+   "created_at": "Thu Nov 26 10:35:24 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "michaelhpage",
+   "rt_author_name": "page",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1275567062400843778/vp3pr3_l_normal.jpg",
+   "rt_id": "2125678535478223013",
+   "likes": 76,
+   "retweets": 20,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
+  },
+  "2125896903418114116": {
+   "id": "2125896903418114116",
+   "url": "https://x.com/robertwiblin/status/2125896903418114116",
+   "text": "@chrislakin Sounds like around the IPO folks wanted their worries to be somewhere more obscure with a smaller audience.",
+   "created_at": "Thu Nov 26 10:18:13 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "chrislakin",
+   "reply_to_id": "2125850774399799723",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "parent": {
+    "id": "2125850774399799723",
+    "author_handle": "chrislakin",
+    "author_name": "Chris Lakin",
+    "text": "@robertwiblin no retweets, yes replies and quote tweets.\n\nNeon:\n\n\"replies actually explain the gap between our charts.\n\n74% of the 2,795 actives are technical staff (87% DeepMind, 70% Anthropic, 64% OpenAI). during the IPO quiet window, Anthropic technical staff didn't stop voicing concern, they just moved it into replies (57% pre-IPO → 76% during the IPO → 20% after listing).\n\ndrop replies and they really do dip to 0% briefly in early Nov before bouncing right back on listing day:\"",
+    "links": {
+     "https://t.co/zrqsLnc4Wb": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HYCJ7GfXsAAPpsB.jpg"
+     }
+    ],
+    "url": "https://x.com/chrislakin/status/2125850774399799723",
+    "created_at": "Thu Nov 26 07:14:55 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125895287466299854": {
+   "id": "2125895287466299854",
+   "url": "https://x.com/robertwiblin/status/2125895287466299854",
+   "text": "@timcolbourn Click through, slowing is a big focus of the post: https://t.co/DjA8rYy9Jj",
+   "created_at": "Thu Nov 26 10:11:48 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": true,
+   "reply_to": "timcolbourn",
+   "reply_to_id": "2125842613026652350",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYCybANXMAANY9o.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYCybANXMAANY9o.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/DjA8rYy9Jj": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "parent": {
+    "id": "2125842613026652350",
+    "author_handle": "timcolbourn",
+    "author_name": "Prof Tim Colbourn",
+    "text": "@robertwiblin Given there’s no credible reason to think it’s possible to make ASI safe for humans, and given so little time left shouldn’t the call be to work to shut it down?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/timcolbourn/status/2125842613026652350",
+    "created_at": "Thu Nov 26 06:42:29 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125891732285931712": {
+   "id": "2125891732285931712",
+   "url": "https://x.com/robertwiblin/status/2125891732285931712",
+   "text": "I agree with Dario that, while some people may feel worse than others about handing over control to AIs, nobody in the industry has a coherent plan to prevent it.\n\nThe pressures towards voluntarily handing over control – from preventing a human coup, to economic/international competition – will keep building up until they're very strong.\n\nAnd on top of that, once superintelligence is around ordinary humans are simply far less important and in relative terms far less powerful – and so it will become very difficult for them to defend their interest in a democratic system of government.",
+   "created_at": "Thu Nov 26 09:57:40 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 73,
+   "retweets": 7,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYCt1IWWUAAY34M.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/Peb2otFznJ": ""
+   },
+   "quoted": {
+    "id": "2125656399392690605",
+    "author_name": "Dario Amodei",
+    "links": {},
+    "author": "DarioAmodei",
+    "text": "No, I do not believe that we should “surrender human free will” to AI systems, and it’s absurd to suggest that I do. I have written hundreds of pages of essays and a constant theme in them is the need for AI to be governed by legitimate democratic processes. For millennia (going all the way back to Greek and Roman philosophers), advocates of autocracy have claimed that it leads to better, faster, or more decisive decision-making than the messy process of democracy. Even if this were true (which I doubt!), we should never sacrifice legitimacy or self-determination at the altar of efficiency or security. This argument against autocracy applies word for word against governance by AI, and I feel equally strongly that turning over governance to AI is a bad idea.\n\nNo one who had carefully read my writing or my interviews could reasonably conclude that I believe anything different. For example in an interview on CBS a couple months ago, I specifically called for AI to be governed democratically. I call for the same in Policy on the AI Exponential, Machines of Loving Grace, and The Adolescence of Technology, and We Must Pace the Frontier. Machines of Loving Grace contains an extended section on using AI to revitalize democracy, and discusses the use of AI as an aid to citizens in their decision-making, \"aggregat[ing] opinions and driv[ing] consensus among citizens, resolving conflict, finding common ground, and seeking compromise.” The clear and obvious implication is that humans should remain the ones making political and governance decisions. The Adolescence of Technology has an entire section on fighting against AI-driven tyranny, and I even discuss the danger of AI labs usurping power and come out strongly against it — by implication, this definitely includes an AI lab usurping power and giving it to AI itself!\n\nIf I thought any of this was a good idea, I would be advocating for it in public, just as I have not been afraid to advocate for many, many unpopular views over the last few years. But I am not advocating for it, because I think turning over governance to AI is a terrible idea.\n\nSeparately, I think there is frequent conflation (including in this article) between the idea of “surrendering human free will” to AI in some grand sense of global governance, and the more prosaic idea that as AI systems advance, they become capable of doing specific tasks in a more automated way. This is not AI “running the world,” but AI driving a car, designing a cancer drug, or writing software end-to-end. Here, my view is mixed. AI doing more complete or larger tasks is economically valuable and can drive important advances in software, medicine, transportation, energy, etc. It is clearly desirable in many cases and will save a lot of lives. But it has downsides as well, and in some areas it may not be worth it.\n\nFor example, using AI too autonomously to build the next generation of AI systems (known as recursive self-improvement, or RSI) may cause AI to improve faster than we can control or adjust to it, so we may want limits on this process. As we said publicly in early November, we don’t expect it to be safe for Claude to build successive frontier models fully autonomously, without meaningful human supervision or understanding. Second, in some contexts, using AI in too end-to-end a manner may be a cause of serious job disruption, and it may make sense to slow or even stop some AI deployments to give people more time to adapt. Third, while the use of AI for alignment research is an incredibly valuable tool, it must be done with caution, because we may not be able to trust the work of the AI system. Finally, in many cases, humans would simply prefer to do some activities themselves, so they can stay deeply engaged in what matters to them, even if AI can do those activities better. There are countless other examples and hard cases. I don’t think there are any easy answers here, nor is there (nor should there be) any single decision-maker: some of these decisions will be made by society, some by government, some by AI companies, and some in a decentralized manner by individuals expressing their own preferences as consumers, which may differ from the preferences of others.\n\nI don't think that other AI leaders or AI companies have significantly different views from me on whether specific tasks should be automated. Certainly the products that they offer don’t differ materially in their orientation towards automation of tasks; every company seems to be releasing models more and more capable of task automation (as that’s been the general consequence of scaling up AI training), and every company claims to understand there are risks and downsides of such automation and to offer safeguards. If anything, Anthropic has been the most vocal and the most proactive about acknowledging these downsides and trying to address them. For instance, it’s fairly absurd to cite my statement that fully autonomous weapons might “one day be needed for the defense of democracy” as differing from that of other AI companies, when I was willing to risk Anthropic’s future as a company to refuse to allow our existing AI models to be used for autonomous weapons even in the face of legal sanctions, and no other AI company did the same.\n\nTo summarize, as applied to grand questions of how we govern increasingly capable AI, I have been vocal and consistent that AI needs to be governed by a legitimate, democratic process and that “surrendering human free will” to AI systems is a terrible idea. As applied to automation of specific tasks by or for people, my views are more mixed, but I don’t think they differ from those of other AI companies — most other companies seem to be offering similar products and confronting similar tradeoffs without having perfect answers to them. What is happening is that there’s a sort of vibes-based commercial and political positioning that some AI CEOs are engaging in, where they repeat slogans like “human control and agency,” or “AI should be just a tool,” without actually doing anything different in their products or taking seriously the difficult questions that lie behind these slogans."
+   },
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
+  },
+  "2125882228689477891": {
+   "id": "2125882228689477891",
+   "url": "https://x.com/robertwiblin/status/2125882228689477891",
+   "text": "believe it or not, frontier ai companies are moving significantly slower than they were before due to safety and ~governance ish constraints. the ECI trend graphs continue despite these large hurdles!",
+   "created_at": "Thu Nov 26 09:19:54 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "tszzl",
+   "rt_author_name": "roon",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+   "rt_id": "2125744742659215779",
+   "likes": 1516,
+   "retweets": 56,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
   }
  }
 }

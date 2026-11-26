@@ -16305,6 +16305,391 @@
    "quoted": null,
    "fetched_at": "2026-11-25T23:37:56.974457+00:00",
    "enriched": 3
+  },
+  "2125991067505848713": {
+   "id": "2125991067505848713",
+   "url": "https://x.com/s8mb/status/2125991067505848713",
+   "text": "Pretty incredible that the the \"Renewable Transport Fuels Obligation\" adds ~£90 per household a year to petrol prices.",
+   "created_at": "Thu Nov 26 16:32:24 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 12,
+   "retweets": 2,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2125989345790193967",
+    "author_name": "Michael Hill",
+    "links": {
+     "https://t.co/daeGmIZJDs": "https://britishprogress.org/reports/cooking-the-books-reforming-renewable-transport-fu",
+     "https://t.co/Syxvq5N89c": ""
+    },
+    "author": "Michael_J_Hil",
+    "text": "Did you know that, this year, the UK has imported 1 million litres of “used cooking oil” from Taliban-run Afghanistan? \n\nAnd, furthermore, we are only making these imports because of an outdated policy that requires fuel suppliers to blend “low carbon” fuels into petrol and diesel?\n\nThe Renewable Transport Fuels Obligation (RTFO) adds more than £2 billion a year to pump prices. \n\nBut it turns out that it is a scam. There is mounting evidence that many of the supposedly “renewable” fuels are not what they say they are. There is no way of verifying that imported waste oil is in fact waste oil – some of them could even be adding to global carbon emissions, paid for by British households. We are playing whack-a-mole moving from one dodgy fuel to another. It needs to stop. \n\nIn a new paper for @BritishProgress, @taraprinja @patrickcook81, @liliaamesie & I make the case for removing or deeply reforming the RTFO, and propose that the money be spent instead on supporting electric vehicle infrastructure. We look at four alternatives – any of which would be better than the current system.\n\nThe RTFO was introduced before electric vehicles were a thing, and when the electricity grid was far less green. But today, the RTFO is too often a subsidy to dodgy foreign chains we’d best keeping well away from. Investment in UK EV infrastructure would keep this spending in the UK and actually help tackle climate change. \n\nRTFO needs to GTFO!\n\nRead the full paper here:  https://t.co/daeGmIZJDs \n\nWith thanks to @Sam_Dumitriu, @watt_direction, @matthewgstubbs, @pdmsero & @dc_lawrence for providing review & comment!"
+   },
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
+  },
+  "2125956533070553447": {
+   "id": "2125956533070553447",
+   "url": "https://x.com/s8mb/status/2125956533070553447",
+   "text": "This is bad framing that borders on misinformation. The paper was already corrected in 2024 - a tacit acknowledgement it did not meet academic standards. Once again, a university is declaring this paper does not need *further* corrections or retractions, not \"clearing\" Arday. https://t.co/v8HGQn9mAn",
+   "created_at": "Thu Nov 26 14:15:10 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "helenlewis",
+   "rt_author_name": "Helen Lewis",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1610618778743627782/_LMAdNKa_normal.jpg",
+   "rt_id": "2125928953764339896",
+   "likes": 1082,
+   "retweets": 181,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYDQ0jkWYAAEv8P.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYDQ0jkWYAAEv8P.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/v8HGQn9mAn": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
+  },
+  "2125922690251059235": {
+   "id": "2125922690251059235",
+   "url": "https://x.com/s8mb/status/2125922690251059235",
+   "text": "@mseebach Broadgate is open air though. Not cosy.",
+   "created_at": "Thu Nov 26 12:00:41 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "mseebach",
+   "reply_to_id": "2125915527511965779",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "parent": {
+    "id": "2125915527511965779",
+    "author_handle": "mseebach",
+    "author_name": "Martin Seebach",
+    "text": "@s8mb Broadgate near Liverpool St Station, and Coal Drop Yards/Granary Sq behind Kings Cross at least seem like attempts. Too polished, only PE chains there, etc, but an attempt.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/mseebach/status/2125915527511965779",
+    "created_at": "Thu Nov 26 11:32:14 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125922612773839185": {
+   "id": "2125922612773839185",
+   "url": "https://x.com/s8mb/status/2125922612773839185",
+   "text": "@surplustakes You've fully convinced me on this point.",
+   "created_at": "Thu Nov 26 12:00:23 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "surplustakes",
+   "reply_to_id": "2125911805608300574",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "parent": {
+    "id": "2125911805608300574",
+    "author_handle": "surplustakes",
+    "author_name": "David Algonquin",
+    "text": "@s8mb Note glazing bars https://t.co/HJrgdvWugf",
+    "links": {
+     "https://t.co/HJrgdvWugf": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HYDBgD0XQAExqLX.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HYDBgD0XQAExqLX.jpg"
+     }
+    ],
+    "url": "https://x.com/surplustakes/status/2125911805608300574",
+    "created_at": "Thu Nov 26 11:17:26 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125922567852601458": {
+   "id": "2125922567852601458",
+   "url": "https://x.com/s8mb/status/2125922567852601458",
+   "text": "@bswud Can't the ground floor of any office building be turned into one?",
+   "created_at": "Thu Nov 26 12:00:12 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "bswud",
+   "reply_to_id": "2125915689563131916",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "parent": {
+    "id": "2125915689563131916",
+    "author_handle": "bswud",
+    "author_name": "Ben Southwood",
+    "text": "@s8mb All the best locations are taken. We need to take over existing locations and spruce them up. I suggest 'super BIDs' or perhaps some sort of scheme for consolidating ownership",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/bswud/status/2125915689563131916",
+    "created_at": "Thu Nov 26 11:32:52 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125922453834563892": {
+   "id": "2125922453834563892",
+   "url": "https://x.com/s8mb/status/2125922453834563892",
+   "text": "@PlasFron 🥶 https://t.co/c8VgTVuTN2",
+   "created_at": "Thu Nov 26 11:59:45 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "PlasFron",
+   "reply_to_id": "2125921633080660050",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYDLIhZWYAEnJOh.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYDLMjrWYAEIfm4.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYDLIhZWYAEnJOh.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYDLMjrWYAEIfm4.png"
+    }
+   ],
+   "links": {
+    "https://t.co/c8VgTVuTN2": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "parent": {
+    "id": "2125921633080660050",
+    "author_handle": "PlasFron",
+    "author_name": "John Bell",
+    "text": "@s8mb Perhaps, because most of them are cold, soulless places..",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/PlasFron/status/2125921633080660050",
+    "created_at": "Thu Nov 26 11:56:29 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125914473961845145": {
+   "id": "2125914473961845145",
+   "url": "https://x.com/s8mb/status/2125914473961845145",
+   "text": "@worstall Can't wait to order my post-work pints from Amazon!",
+   "created_at": "Thu Nov 26 11:28:02 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "worstall",
+   "reply_to_id": "2125913636648763504",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 8,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "parent": {
+    "id": "2125913636648763504",
+    "author_handle": "worstall",
+    "author_name": "Tim Worstall",
+    "text": "@s8mb Ahem. https://t.co/im4U88opUz",
+    "links": {
+     "https://t.co/im4U88opUz": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HYDDLA5XMAAzzU2.png"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HYDDLA5XMAAzzU2.png"
+     }
+    ],
+    "url": "https://x.com/worstall/status/2125913636648763504",
+    "created_at": "Thu Nov 26 11:24:43 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125910858538643856": {
+   "id": "2125910858538643856",
+   "url": "https://x.com/s8mb/status/2125910858538643856",
+   "text": "Why don't many new shopping arcades seem to get built? Leadenhall Market seems heaving every evening and tourists like the shops there, but I can't think of any new ones.",
+   "created_at": "Thu Nov 26 11:13:40 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 39,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
+  },
+  "2125908535720517796": {
+   "id": "2125908535720517796",
+   "url": "https://x.com/s8mb/status/2125908535720517796",
+   "text": "@maxdubler The fact that it's a massive reduction in floorspace driven by the change of use triggering loads of new building regulations doesn't bother you?",
+   "created_at": "Thu Nov 26 11:04:27 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "maxdubler",
+   "reply_to_id": "2125871003700216120",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 8,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
+  },
+  "2125850678233088377": {
+   "id": "2125850678233088377",
+   "url": "https://x.com/s8mb/status/2125850678233088377",
+   "text": "@LexerLux That’s fine.",
+   "created_at": "Thu Nov 26 07:14:32 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": true,
+   "reply_to": "LexerLux",
+   "reply_to_id": "2125809976878989587",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 0,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "parent": {
+    "id": "2125809976878989587",
+    "author_handle": "LexerLux",
+    "author_name": "Lexer",
+    "text": "@s8mb I'd love to apply but what if we don't want to give our name or be published under our real name?",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/LexerLux/status/2125809976878989587",
+    "created_at": "Thu Nov 26 04:32:48 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2125850369737564433": {
+   "id": "2125850369737564433",
+   "url": "https://x.com/s8mb/status/2125850369737564433",
+   "text": "Your loved ones wake on Christmas morning. The house is warm and bright. All within it are filled with the joys of the season. Are they about to be CRUSHED by the pedestrian nature of your gifts, or ELATED to receive a beautifully wrapped WIP sub? The choice is yours!",
+   "created_at": "Thu Nov 26 07:13:19 +0000 2026",
+   "author_handle": "s8mb",
+   "author_name": "Sam Bowman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1713244259954937856/BnnCvI4S_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "Birdyword",
+   "rt_author_name": "Mike Bird",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2112608958162632704/tRPdOdVE_normal.jpg",
+   "rt_id": "2125789472449347774",
+   "likes": 47,
+   "retweets": 3,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
   }
  }
 }

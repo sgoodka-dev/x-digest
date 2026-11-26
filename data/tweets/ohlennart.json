@@ -2669,6 +2669,30 @@
    "quoted": null,
    "fetched_at": "2026-11-20T15:35:58.747413+00:00",
    "enriched": 3
+  },
+  "2125831109690925096": {
+   "id": "2125831109690925096",
+   "url": "https://x.com/ohlennart/status/2125831109690925096",
+   "text": "Everyone should read @kevinroose's The AGI Chronicles. It's astonishingly good. \n\nIt does three things. First, gives a great overview of the recent history of AI from the last 10 years, bringing you mostly up to speed on what's going on now.\n\nSecond, it provides non-experts with a good understanding of the technology without dumbing it down excessively.\n\nThird, it provides a characterization of the people driving the AI race and their culture at a level of detail previously reserved for friends of lab employees. Most obviously, Dario, Sam, and Demis.\n\nFor people with little background wondering what the hell is happening, it provides a natural one-stop-shop. For people who have been in the space for a while, it provides pretty essential information on the history and people that I didn't have, at least.\n\nHave recommended it to three friends so far and gotten better reviews than any non-fiction I have recommended so far. \n\n(Nobody took up my encouragement to read The Power Broker).",
+   "created_at": "Thu Nov 26 05:56:47 +0000 2026",
+   "author_handle": "ohlennart",
+   "author_name": "Lennart Heim",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1421449447482044420/_HX1YpJC_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "PReaulx",
+   "rt_author_name": "Paul de Font-Reaulx",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1412166213019615243/2wuJ3QC6_normal.jpg",
+   "rt_id": "2125820975711412593",
+   "likes": 22,
+   "retweets": 4,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
   }
  }
 }

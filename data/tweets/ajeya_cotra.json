@@ -2712,6 +2712,30 @@
    "quoted": null,
    "fetched_at": "2026-11-25T23:37:56.974457+00:00",
    "enriched": 3
+  },
+  "2125810259906429062": {
+   "id": "2125810259906429062",
+   "url": "https://x.com/ajeya_cotra/status/2125810259906429062",
+   "text": "A few more points on this post and plot:\n\n- We’re uncertain how large the trend change in loss is, what caused it, whether it’s a one-time jump that will start slowing down imminently or whether it will continue/accelerate, and what the implications are for future model capabilities. \n- The idea of the post is to point to this trend, say that it might be a big deal but that we’re uncertain how to interpret it, encourage other developers to share similar data, and mention some additional data that would be especially informative to make sense of it. \n- I agree that much of the acceleration, especially early on, could be due to overhang: starting to focus efforts on reducing PPL again, and scaling while trying a backlog of ideas for the first time in a while. To me this seems like a pretty good explanation for the beginning of the trend break, and for why it occurred when it occurred, though I’d be surprised if it accounted for all of it, especially later in 2026. \n- The graph was meant to show that PPL is falling clearly faster in 2026 than before, which is robust to a lot of different reasonable choices of baseline trends. This being said, I agree that the 7x number isn’t, and that the hinge fit could make it seem like OpenAI was prioritizing reducing PPL in all of 2024-2025, which according to the explanation above it wasn’t.",
+   "created_at": "Thu Nov 26 04:33:56 +0000 2026",
+   "author_handle": "ajeya_cotra",
+   "author_name": "Ajeya Cotra",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1653845490885332995/GPWuOoqu_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "datagenproc",
+   "rt_author_name": "jsd",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2005041127250919424/of7DNeiL_normal.jpg",
+   "rt_id": "2125761610358919444",
+   "likes": 67,
+   "retweets": 8,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
   }
  }
 }

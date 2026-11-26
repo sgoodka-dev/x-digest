@@ -1818,6 +1818,107 @@
     "text": "@davidmanheim I'm not saying the corrigible AIs I have in mind aren't optimizing hard -- they are. It's just that they aren't going rogue, because they reject options for rogue behavior with suitable robustness despite otherwise optimizing hard. It's like how you can try hard to make money but still not break the law (I'm aware of \"nearest unblocked neighbor\" concerns about this -- I discuss them in the essay)."
    },
    "fetched_at": "2026-11-19T15:53:10.855245+00:00"
+  },
+  "1989160351091552687": {
+   "id": "1989160351091552687",
+   "url": "https://x.com/jkcarlsmith/status/1989160351091552687",
+   "text": "@Mihonarium @ESYudkowsky @So8res Thanks Mikhail. I think it’s important to distinguish between two things, which I think MIRI-esque discussions of corrigibility too often conflate:\n\n1. A wide definition of corrigible AI as “a useful AI with imperfect values but which is somehow nevertheless safe.”\n2. A specific hypothesis about how to achieve this kind of safety, e.g. via an AI that “perceives itself as flawed and wants correction, as the goal that overrides all else.”\n\nI don’t think (2) is the only way to be corrigible in the sense at stake in (1), or even the only way to be “coherently” corrigible. Rather, as I discuss in the essay, I think you can be coherently corrigible, roughly, in the same way that you can be deontological or virtue-ethical in your ethics. That is, you can reject options for rogue behavior because these actions have properties (e.g., \"dishonest,\" \"disobeying the instructions,\" etc) that make you not want to do them. Believing you are \"flawed\" and \"wanting correction\" is only one way for this to happen.\n\nI’m also, separately, not convinced that only AIs with perfect values can safely do the alignment research required to ensure adequate safety and usefulness in the next generation, or that the main reason to want corrigible AI is to do some very limited/isolated task. But that’s a separate discussion (see my essays \"Can we safely automated alignment research?\" and “What is it to solve the alignment problem?” for more on my take here).\n\nhttps://t.co/4Lfxnrl5pT\nhttps://t.co/RPpPjARz8l",
+   "created_at": "Fri Nov 14 02:35:59 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": true,
+   "reply_to": "Mihonarium",
+   "reply_to_id": "1989102932722348324",
+   "avatar": "https://pbs.twimg.com/profile_images/1655705033248477185/3X7ZWjQ0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/4Lfxnrl5pT": "https://joecarlsmith.com/2025/04/30/can-we-safely-automate-alignment-research",
+    "https://t.co/RPpPjARz8l": "https://joecarlsmith.com/2025/02/13/what-is-it-to-solve-the-alignment-problem"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00"
+  },
+  "1972728736551473470": {
+   "id": "1972728736551473470",
+   "url": "https://x.com/jkcarlsmith/status/1972728736551473470",
+   "text": "This is the seventh essay in a series I'm calling \"How do we solve the alignment problem?\". I'm hoping that the individual essays can be read fairly well on their own, but see this introduction for summaries of the essays that have been released thus far: https://t.co/SAcf5JUg25",
+   "created_at": "Mon Sep 29 18:22:36 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": true,
+   "reply_to": "jkcarlsmith",
+   "reply_to_id": "1972728735263793616",
+   "avatar": "https://pbs.twimg.com/profile_images/1655705033248477185/3X7ZWjQ0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/SAcf5JUg25": "https://joecarlsmith.com/2025/02/13/how-do-we-solve-the-alignment-problem"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00"
+  },
+  "1972728735263793616": {
+   "id": "1972728735263793616",
+   "url": "https://x.com/jkcarlsmith/status/1972728735263793616",
+   "text": "Audio version (read by the author) here, or search for \"Joe Carlsmith Audio\" on your podcast app: https://t.co/LhJRzRkibS",
+   "created_at": "Mon Sep 29 18:22:36 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": true,
+   "reply_to": "jkcarlsmith",
+   "reply_to_id": "1972728734001332658",
+   "avatar": "https://pbs.twimg.com/profile_images/1655705033248477185/3X7ZWjQ0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/LhJRzRkibS": "https://joecarlsmithaudio.buzzsprout.com/2034731/episodes/17909401-controlling-the-options-ais-can-pursue"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00"
+  },
+  "1957551014955057419": {
+   "id": "1957551014955057419",
+   "url": "https://x.com/jkcarlsmith/status/1957551014955057419",
+   "text": "5/6 Full essay here: https://t.co/h4NTizuwdn",
+   "created_at": "Mon Aug 18 21:11:46 +0000 2025",
+   "author_handle": "jkcarlsmith",
+   "author_name": "Joe Carlsmith",
+   "is_reply": true,
+   "reply_to": "jkcarlsmith",
+   "reply_to_id": "1957551013730349524",
+   "avatar": "https://pbs.twimg.com/profile_images/1655705033248477185/3X7ZWjQ0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 5,
+   "retweets": 1,
+   "media": [],
+   "links": {
+    "https://t.co/h4NTizuwdn": "https://joecarlsmith.com/2025/08/18/giving-ais-safe-motivations"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00"
   }
  }
 }

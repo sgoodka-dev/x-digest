@@ -5803,6 +5803,38 @@
    "quoted": null,
    "fetched_at": "2026-11-25T20:28:29.687688+00:00",
    "enriched": 3
+  },
+  "2125816679158702117": {
+   "id": "2125816679158702117",
+   "url": "https://x.com/DaveRBanerjee/status/2125816679158702117",
+   "text": "this is a pretty cool graph - I'd be interested to see a similar graph from redwood",
+   "created_at": "Thu Nov 26 04:59:26 +0000 2026",
+   "author_handle": "DaveRBanerjee",
+   "author_name": "Dave Banerjee",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1999598045214760970/zfHzQwG0_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 14,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": {
+    "id": "2125739043178860606",
+    "author_name": "Rob Bensinger ⏹️",
+    "links": {
+     "https://t.co/GV88lpoyv7": ""
+    },
+    "author": "robbensinger",
+    "text": "Updates: \"Yudkowsky considered deep learning a relatively promising approach in 2010, when he introduced DeepMind's co-founders to Peter Thiel 'with the only compliment on any AI project he ever heard from me'...\"\n\n... And \"if current trends continue, we've got 6-18 months left\". https://t.co/GV88lpoyv7"
+   },
+   "fetched_at": "2026-11-26T17:03:28.364412+00:00",
+   "enriched": 3
   }
  }
 }
