@@ -10339,6 +10339,30 @@
    "quoted": null,
    "fetched_at": "2026-11-26T17:03:28.364412+00:00",
    "enriched": 3
+  },
+  "2126135727872467449": {
+   "id": "2126135727872467449",
+   "url": "https://x.com/DKokotajlo/status/2126135727872467449",
+   "text": "OpenAI and Anthropic are each power-seeking coalitions of humans and AIs.\n\nOver time, each coalition will likely become less human-controlled, and more AI-controlled.\n\nThere won’t be a clear line between “humans using AIs to grab power” and “AIs using humans to grab power”.",
+   "created_at": "Fri Nov 27 02:07:13 +0000 2026",
+   "author_handle": "DKokotajlo",
+   "author_name": "Daniel Kokotajlo",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1797990060878356480/G2zm1i8G_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "RichardMCNgo",
+   "rt_author_name": "Richard Ngo",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1767420324487090176/EofNUGW2_normal.jpg",
+   "rt_id": "2126124966110536083",
+   "likes": 621,
+   "retweets": 45,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-27T16:48:15.013166+00:00",
+   "enriched": 3
   }
  }
 }

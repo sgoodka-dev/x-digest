@@ -3209,6 +3209,195 @@
    "quoted": null,
    "fetched_at": "2026-11-25T20:28:29.687688+00:00",
    "enriched": 3
+  },
+  "2126345204127195588": {
+   "id": "2126345204127195588",
+   "url": "https://x.com/nabeelqu/status/2126345204127195588",
+   "text": "\"You can't judge us according to logic. You accountants! You have to understand! You can only judge us according to the laws of religion...\" https://t.co/jPvfh69RzW",
+   "created_at": "Fri Nov 27 15:59:36 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": true,
+   "reply_to": "nabeelqu",
+   "reply_to_id": "2126325005638414638",
+   "avatar": "https://pbs.twimg.com/profile_images/1857140980421668864/0prdKK32_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 5,
+   "retweets": 0,
+   "media": [],
+   "links": {
+    "https://t.co/jPvfh69RzW": "https://x.com/moxie/status/2126343980158009716?a=4F5D5kZxUyz0dsfSqMc&s=20"
+   },
+   "quoted": {
+    "id": "2126343980158009716",
+    "author_name": "Moxie Marlinspike",
+    "links": {
+     "https://t.co/AQV84fmDqD": ""
+    },
+    "author": "moxie",
+    "text": "@nabeelqu I thought this guy — for whom losing his CP membership was what he considered the worst thing about ending up in the camps during the purges (!) — was amazing. “You accountants!” https://t.co/AQV84fmDqD"
+   },
+   "fetched_at": "2026-11-27T16:48:15.013166+00:00",
+   "parent": {
+    "id": "2126325005638414638",
+    "author_handle": "nabeelqu",
+    "author_name": "Nabeel S. Qureshi",
+    "text": "This book really convinced me there was such a thing as “the Russian soul”, everyone in it is just so incredibly Russian: https://t.co/U0GzIChY9c",
+    "links": {
+     "https://t.co/U0GzIChY9c": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HYI5Up4WsAA85Ny.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HYI5Up4WsAA85Ny.jpg"
+     }
+    ],
+    "url": "https://x.com/nabeelqu/status/2126325005638414638",
+    "created_at": "Fri Nov 27 14:39:21 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2126344791659258343": {
+   "id": "2126344791659258343",
+   "url": "https://x.com/nabeelqu/status/2126344791659258343",
+   "text": "@moxie Omg, yes. Also the guy earlier on who fought against the Finns then got punished for surviving, is sent to a labor camp in Siberia for ten years, and comes back and is like \"yeah, well, that's life, I still love the State\"",
+   "created_at": "Fri Nov 27 15:57:58 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": true,
+   "reply_to": "moxie",
+   "reply_to_id": "2126343980158009716",
+   "avatar": "https://pbs.twimg.com/profile_images/1857140980421668864/0prdKK32_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-27T16:48:15.013166+00:00",
+   "parent": {
+    "id": "2126343980158009716",
+    "author_handle": "moxie",
+    "author_name": "Moxie Marlinspike",
+    "text": "@nabeelqu I thought this guy — for whom losing his CP membership was what he considered the worst thing about ending up in the camps during the purges (!) — was amazing. “You accountants!” https://t.co/AQV84fmDqD",
+    "links": {
+     "https://t.co/AQV84fmDqD": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HYJKkcYaQAA0Wd3.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HYJKkcYaQAA0Wd3.jpg"
+     }
+    ],
+    "url": "https://x.com/moxie/status/2126343980158009716",
+    "created_at": "Fri Nov 27 15:54:45 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2126338523687202816": {
+   "id": "2126338523687202816",
+   "url": "https://x.com/nabeelqu/status/2126338523687202816",
+   "text": "@Daniel_Kalish_ Right, this is a very common sentiment expressed by speakers in the book as well. Lots of \"they sold out the country for sausages and blue jeans\"",
+   "created_at": "Fri Nov 27 15:33:04 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": true,
+   "reply_to": "Daniel_Kalish_",
+   "reply_to_id": "2126337562721849439",
+   "avatar": "https://pbs.twimg.com/profile_images/1857140980421668864/0prdKK32_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 4,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-27T16:48:15.013166+00:00",
+   "parent": {
+    "id": "2126337562721849439",
+    "author_handle": "Daniel_Kalish_",
+    "author_name": "Daniel Kalish",
+    "text": "@nabeelqu My father, who grew up in the Soviet Union, said that many Russians would rather eat borscht in an unheated wooden house but know they’re in an empire than live a comfortable middle class life in an unimportant country.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/Daniel_Kalish_/status/2126337562721849439",
+    "created_at": "Fri Nov 27 15:29:15 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2126325005638414638": {
+   "id": "2126325005638414638",
+   "url": "https://x.com/nabeelqu/status/2126325005638414638",
+   "text": "This book really convinced me there was such a thing as “the Russian soul”, everyone in it is just so incredibly Russian: https://t.co/U0GzIChY9c",
+   "created_at": "Fri Nov 27 14:39:21 +0000 2026",
+   "author_handle": "nabeelqu",
+   "author_name": "Nabeel S. Qureshi",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1857140980421668864/0prdKK32_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 89,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYI5Up4WsAA85Ny.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYI5Up4WsAA85Ny.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/U0GzIChY9c": ""
+   },
+   "quoted": {
+    "id": "2125983572230353347",
+    "author_name": "Moxie Marlinspike",
+    "links": {},
+    "author": "moxie",
+    "text": "I just finished reading Secondhand Time. It is really good, and the saddest book I’ve ever read. \n\nAt one point a friend asked what I was reading. To try to explain, I started reading the page I was on out loud w/ no other context. She started crying after the first paragraph."
+   },
+   "fetched_at": "2026-11-27T16:48:15.013166+00:00",
+   "thread": [
+    {
+     "id": "2126345204127195588",
+     "author_handle": "nabeelqu",
+     "author_name": "Nabeel S. Qureshi",
+     "text": "\"You can't judge us according to logic. You accountants! You have to understand! You can only judge us according to the laws of religion...\" https://t.co/jPvfh69RzW",
+     "links": {
+      "https://t.co/jPvfh69RzW": "https://x.com/moxie/status/2126343980158009716?a=4F5D5kZxUyz0dsfSqMc&s=20"
+     },
+     "media": [],
+     "url": "https://x.com/nabeelqu/status/2126345204127195588",
+     "created_at": "Fri Nov 27 15:59:36 +0000 2026"
+    }
+   ],
+   "enriched": 3
   }
  }
 }

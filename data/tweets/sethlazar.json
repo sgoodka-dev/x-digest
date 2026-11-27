@@ -9216,6 +9216,65 @@
     "created_at": "Wed Nov 25 03:25:25 +0000 2026"
    },
    "enriched": 3
+  },
+  "2126163963700469792": {
+   "id": "2126163963700469792",
+   "url": "https://x.com/sethlazar/status/2126163963700469792",
+   "text": "I've been reading about efforts to reduce the Alpöge proof of the Riemann hypothesis to something understandable, and the accounts make me laugh a lot. \n\nNot at the people doing the reduction, no. They're doing good work. I'm laughing with them, and a bit at myself. Because I should have seen some of this coming. \n\nSo, like, Lean is a formal language for traversing the space of all formulas using valid proof steps. A proof is in a strong sense a program. LLMs are good at generating program code, but at least at the current state of the art they are deficient in architectural sense. They have a tendency to produce code that is functional, but a huge untidy pile of cruft. \n\nIt is possible to control out this tendency. I do it by keeping robot friend on a pretty tight leash, specifying small steps. Alpöge didn't do this. Possibly, he couldn't have done it. Exploring formula space is not *exactly* analogous to programming, after all. And he has roughly an order of magnitude less experience working with LLMs than I have as a software engineer.\n\nSo of course. The proof needs to be...refactored! This is where I start giggling helplessly, because mathematicians are now discovering, in their new world, that proofs need to be...maintained. AI assisted proofs have achieved the complexity of really large codebases, and here we are.\n\nI think we're seeing the shape of future mathematics here. Combinations of exceptional human mathematicians with AIs breaking trail, steamrolling their way to key results, often generating massive ugly proofs.\n\nThen, ordinary working mathematicians simplifying and refactoring and polishing trailblazing proofs. In the process, assimilating their insights into the common knowledge of the wider mathematical community.\n\nMaybe understanding this will pull the petulant children at the so-called \"Association for Human Mathematics\" back into the game. Because when they say that an essential part of a mathematician's job is actually understanding proofs rather than simply genuflecting before them they're not actually wrong, even if they are being snotty and entitled about it.\n\nYes, I know. We're in the Singularity; another jump in the capability of the models could change the rules again. But for now, I think I see the new mathematics settling into a shape that humans can live in.",
+   "created_at": "Fri Nov 27 03:59:25 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "esrtweet",
+   "rt_author_name": "Eric S. Raymond",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/925069606/ecsllogo2_normal.png",
+   "rt_id": "2126090326263697915",
+   "likes": 1396,
+   "retweets": 152,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-27T16:48:15.013166+00:00",
+   "enriched": 3
+  },
+  "2126120233769525553": {
+   "id": "2126120233769525553",
+   "url": "https://x.com/sethlazar/status/2126120233769525553",
+   "text": "I personally find this intolerable. Hearing the same voice everywhere, under different faces, is maddening. https://t.co/yy1G1HQ1BI",
+   "created_at": "Fri Nov 27 01:05:39 +0000 2026",
+   "author_handle": "sethlazar",
+   "author_name": "Seth Lazar",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2043196110211297280/5OawgmNQ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "zetalyrae",
+   "rt_author_name": "Fernando Borretti",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1872144664268320768/RS2GONQo_normal.jpg",
+   "rt_id": "2125795174496501964",
+   "likes": 6111,
+   "retweets": 647,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYBXHq7bwAATbUU.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYBXHq7bwAATbUU.png"
+    }
+   ],
+   "links": {
+    "https://t.co/yy1G1HQ1BI": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-27T16:48:15.013166+00:00",
+   "enriched": 3
   }
  }
 }

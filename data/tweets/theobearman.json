@@ -14910,6 +14910,207 @@
    "quoted": null,
    "fetched_at": "2026-11-26T17:03:28.364412+00:00",
    "enriched": 3
+  },
+  "2126306964061712793": {
+   "id": "2126306964061712793",
+   "url": "https://x.com/theobearman/status/2126306964061712793",
+   "text": "British Parliament’s Business, Innovation, Science and Trade Committee has written to Anthropic demanding the “full and underacted version” of METR’s report from earlier this month. https://t.co/hb8ZqihZ7w",
+   "created_at": "Fri Nov 27 13:27:39 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "discoplomacy",
+   "rt_author_name": "sam",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2125424524816756737/gTSe--W7_normal.jpg",
+   "rt_id": "2126300492653613373",
+   "likes": 225,
+   "retweets": 29,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYIjBwCbMAADTY6.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYIjBwCbMAADTY6.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/hb8ZqihZ7w": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-27T16:48:15.013166+00:00",
+   "enriched": 3
+  },
+  "2126290099969388979": {
+   "id": "2126290099969388979",
+   "url": "https://x.com/theobearman/status/2126290099969388979",
+   "text": "A pair of Chinese firms installed Nvidia’s Blackwell semiconductors in a Shanghai data center linked to Alice Huang https://t.co/p3dykMGNje",
+   "created_at": "Fri Nov 27 12:20:39 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "business",
+   "rt_author_name": "Bloomberg",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+   "rt_id": "2126282417560232189",
+   "likes": 507,
+   "retweets": 211,
+   "media": [],
+   "links": {
+    "https://t.co/p3dykMGNje": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang?taid=6b096e6fea3e5e0001e1e4f3&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-27T16:48:15.013166+00:00",
+   "enriched": 3
+  },
+  "2126216224220590420": {
+   "id": "2126216224220590420",
+   "url": "https://x.com/theobearman/status/2126216224220590420",
+   "text": "I conservatively estimate that OpenAI scaled has scaled base model *effective compute* by around four orders of magnitude (10,000x) in 2026. Physical compute scaling can't account for all of this, implying software efficiency has grown much faster than historical estimates. 🧵 https://t.co/8PHOBPOhMS",
+   "created_at": "Fri Nov 27 07:27:05 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "bphalstead",
+   "rt_author_name": "Brendan Halstead",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2075257656193994753/agO5gkbh_normal.jpg",
+   "rt_id": "2126180913671188694",
+   "likes": 437,
+   "retweets": 40,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYG1hQlXEAA2JBu.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYG1hQlXEAA2JBu.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/8PHOBPOhMS": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-27T16:48:15.013166+00:00",
+   "thread": [
+    {
+     "id": "2126181658932240602",
+     "author_handle": "bphalstead",
+     "author_name": "Brendan Halstead",
+     "text": "For a model with loss L on OpenAI’s validation set, its *effective compute* with respect to a given scaling recipe refers to the amount of compute the scaling recipe would require to reach the same loss L. (Loss is the same as log-perplexity). https://t.co/AuipQBJOTR",
+     "links": {
+      "https://t.co/AuipQBJOTR": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HYG260BW8AAvx2d.jpg"
+      }
+     ],
+     "url": "https://x.com/bphalstead/status/2126181658932240602",
+     "created_at": "Fri Nov 27 05:09:44 +0000 2026"
+    },
+    {
+     "id": "2126182602180645049",
+     "author_handle": "bphalstead",
+     "author_name": "Brendan Halstead",
+     "text": "To understand how much progress OpenAI made in 2026, we’d ideally use the scaling law of OpenAI’s best recipe at the beginning of 2026 as the reference. We don’t have this, but the info released by MAI lets us make conservative estimates of effective compute under the MAI-2 scaling recipe. For one, we know what loss MAI-2 and MAI-1 got on OpenAI’s codebase.",
+     "links": {
+      "https://t.co/tVX07G4E9D": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HYG3xVdW0AAPMOl.jpg"
+      }
+     ],
+     "url": "https://x.com/bphalstead/status/2126182602180645049",
+     "created_at": "Fri Nov 27 05:13:29 +0000 2026"
+    },
+    {
+     "id": "2126182909065228387",
+     "author_handle": "bphalstead",
+     "author_name": "Brendan Halstead",
+     "text": "We also know that the MAI-2 scaling recipe achieves MAI-1’s loss on *MAI’s codebase* with 48x less compute than MAI-2. On other datasets, the gap is smaller, 24x in the lowest case. This data is from https://t.co/dAloGwQSSC https://t.co/acEnZxI1b5",
+     "links": {
+      "https://t.co/dAloGwQSSC": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
+      "https://t.co/acEnZxI1b5": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HYG4FJPX0AArXmJ.jpg"
+      }
+     ],
+     "url": "https://x.com/bphalstead/status/2126182909065228387",
+     "created_at": "Fri Nov 27 05:14:42 +0000 2026"
+    },
+    {
+     "id": "2126183262766690314",
+     "author_handle": "bphalstead",
+     "author_name": "Brendan Halstead",
+     "text": "We don’t know what the scaling law of the MAI-2 recipe would look like on OAI’s internal codebase. But reaching MAI-1’s loss probably requires around 24–48x less compute than MAI-2. And it’s safe to assume that achieving the same factor reduction to MAI-2’s loss would require a larger scale-up as you approach the irreducible loss of the dataset. So we can lower-bound the compute required with a straight line.",
+     "links": {
+      "https://t.co/ZVX56lXPg1": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HYG4Ys4WoAE43t2.jpg"
+      }
+     ],
+     "url": "https://x.com/bphalstead/status/2126183262766690314",
+     "created_at": "Fri Nov 27 05:16:07 +0000 2026"
+    },
+    {
+     "id": "2126183495756128320",
+     "author_handle": "bphalstead",
+     "author_name": "Brendan Halstead",
+     "text": "Here’s what this looks like if we mark the losses of all the OpenAI models. The models completed in 2026 span around four orders of magnitude of effective compute on the straight-line scaling law. https://t.co/qKSd8WGhU4",
+     "links": {
+      "https://t.co/qKSd8WGhU4": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HYG4nUZWUAA2fGm.jpg"
+      }
+     ],
+     "url": "https://x.com/bphalstead/status/2126183495756128320",
+     "created_at": "Fri Nov 27 05:17:02 +0000 2026"
+    },
+    {
+     "id": "2126183708067824034",
+     "author_handle": "bphalstead",
+     "author_name": "Brendan Halstead",
+     "text": "Here we plot these effective compute estimates over time. For the models farther from the MAI-1 to MAI-2 interval, this should be thought of as a conservative lower bound. https://t.co/w8w0HoJuJP",
+     "links": {
+      "https://t.co/w8w0HoJuJP": ""
+     },
+     "media": [
+      {
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HYG4y3VWgAAkxTP.jpg"
+      }
+     ],
+     "url": "https://x.com/bphalstead/status/2126183708067824034",
+     "created_at": "Fri Nov 27 05:17:53 +0000 2026"
+    }
+   ],
+   "enriched": 3
   }
  }
 }

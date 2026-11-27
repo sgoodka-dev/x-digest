@@ -15323,6 +15323,42 @@
    "quoted": null,
    "fetched_at": "2026-11-26T23:51:52.219873+00:00",
    "enriched": 3
+  },
+  "2126240093795184779": {
+   "id": "2126240093795184779",
+   "url": "https://x.com/robertwiblin/status/2126240093795184779",
+   "text": "Funny - Fable 5.2 is the only case where a model is wildly better or worse at one of math/SWE/cyber than you'd expect from its overall capability level:\n\nhttps://t.co/ih2lCqquN0 https://t.co/ZrjJ0vVLN9",
+   "created_at": "Fri Nov 27 09:01:56 +0000 2026",
+   "author_handle": "robertwiblin",
+   "author_name": "Rob Wiblin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1890364551423504384/VSUxxPid_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 33,
+   "retweets": 2,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYHr0BIXEAAE03M.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYHr0BIXEAAE03M.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/ih2lCqquN0": "https://epoch.ai/eci?view=graph&tab=scatter&showFrontierTrend=true&eciPreset=math",
+    "https://t.co/ZrjJ0vVLN9": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-27T16:48:15.013166+00:00",
+   "enriched": 3
   }
  }
 }

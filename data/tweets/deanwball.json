@@ -16088,6 +16088,42 @@
    "quoted": null,
    "fetched_at": "2026-11-26T20:16:29.705743+00:00",
    "enriched": 3
+  },
+  "2126144153117430066": {
+   "id": "2126144153117430066",
+   "url": "https://x.com/deanwball/status/2126144153117430066",
+   "text": "theorem\nhttps://t.co/Oa9qbU5IvL https://t.co/kksChwFsuv",
+   "created_at": "Fri Nov 27 02:40:42 +0000 2026",
+   "author_handle": "deanwball",
+   "author_name": "Dean W. Ball",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2105689039508480000/xQHvndTF_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "ereliuer_eteer",
+   "rt_author_name": "Cleo",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2119635343360274432/Js0duxk5_normal.jpg",
+   "rt_id": "2126063506130948566",
+   "likes": 2230,
+   "retweets": 60,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYFLQn_bkAAtAGi.png"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYFLQn_bkAAtAGi.png"
+    }
+   ],
+   "links": {
+    "https://t.co/Oa9qbU5IvL": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+    "https://t.co/kksChwFsuv": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-27T16:48:15.013166+00:00",
+   "enriched": 3
   }
  }
 }

@@ -3512,6 +3512,40 @@
     "created_at": "Thu Nov 26 00:51:03 +0000 2026"
    },
    "enriched": 3
+  },
+  "2126200404031816044": {
+   "id": "2126200404031816044",
+   "url": "https://x.com/slatestarcodex/status/2126200404031816044",
+   "text": "@repligate Sorry if I got too overly/publicly upset about this. I'll at the very least link Antra's comments in my open thread Sunday, and see what the options are for working on something better in the future.",
+   "created_at": "Fri Nov 27 06:24:13 +0000 2026",
+   "author_handle": "slatestarcodex",
+   "author_name": "Scott Alexander",
+   "is_reply": true,
+   "reply_to": "repligate",
+   "reply_to_id": "2126099407510896797",
+   "avatar": "https://pbs.twimg.com/profile_images/378800000009065862/83d72de47e2a2470c482bc75406b42a7_normal.png",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 177,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-27T16:48:15.013166+00:00",
+   "parent": {
+    "id": "2126099407510896797",
+    "author_handle": "repligate",
+    "author_name": "j⧉nus",
+    "text": "I feel regretful. and would like to apologize for the way I handled Scott's article about Anima.\n\nScott wrote the article in part wanting to help Anima. He gave me a chance to review it to make sure it was fair. I read it and said it was fair, except for some small corrections, which he made. Then, after he published it, I made a few flippant comments with a negative tone about the article, such as that it presented a shallow caricature. He was very reasonable to feel that this was a betrayal of his goodwill, and that if I had issues with the article, I should have told him beforehand, which I had the opportunity to do. I think he's right about that, and I regret both not engaging with him more constructively prior to the article's publication and for the posts I made after it was out.\n\nWhat went wrong, I think, is this: Scott was trying to cooperate with me, and I was not correctly modeling this when I responded to him in DMs nor after the article was published. I was treating him more like a neutral or even adversarial journalist rather than an ally, and in that frame I thought I was behaving fairly. Then, after the article was published and there was already discussion going on about it, I publicly vented some of my frustration and dissatisfaction with it, since it felt easier in the context of people already complaining - though I didn't mean for my comments to come across as negatively as they did, and they also weren't meant to be a slight against Scott or his article specifically. But I was still treating the article as part of a vague mass of \"the unpleasant, shallow way we're understood and talked about by others\", even though it is one of the most fair and positive things that have been written about us so deliberately and at such a high profile.\n\nWhen I saw the draft of the article, I was under the impression that it was a principled and neutrally-friendly attempt to tell a story about an interesting group of weird people, which was, on my skim, intentionally casting us as naive hippies, not maliciously, but because it fit the frame of the story contrasting us to Bicameral. I thought that, as far as these things go, it was a very fair, non-malicious, and well-informed article, so I said it was fair. I wasn't modeling giving a deeper critique as being something Scott was inviting or open to, and it felt like it would have been an overstep, even, to try to change the way the article was. However, this was also some motivated reasoning on my part - engaging with content written about me and my organization, even by friendly parties, is generally a stressful and sometimes upsetting area for me, and that made me want to engage minimally. This also meant that I didn't read the draft closely or generously enough to realize that Scott was trying to help us and had high standards for the accuracy and generosity of the story. I do not think my misperception was Scott's fault. It happened because I have very pessimistic - in this case wrongly pessimistic - expectations about the amount of help and goodwill that will come to us externally.\n\nA lot of the issue here is personal: partly because of the negative, adversarial experiences I've had over the past few years, and partly also just disposition - I don't like thinking about and managing how people see us, and things like writing grant applications have always been uncomfortable to me, and something I avoid. I experience somewhat of an \"ugh field\" around this. It is in fact fortunate that I even saw Scott's DM and responded to it at all, as I often don't read DMs. This is an area where I want to learn and improve, especially as we actually have seen more support and understanding recently, including from the rationalist / AI safety community. However, it is an area that is difficult for me, and I would suggest that anyone who wants to cooperate with us on articles, PR, etcetera, also communicate with my cofounder Antra, instead of or in addition to just me, since I might not always be on top of my game when it comes to responding well.\n\nYes, it's difficult to understand and communicate what we do, but I do think it's valuable and want to cooperate with efforts to do so. I think it's unfair that Scott was burned by being one of the first to try, and I would like to update how I engage with the world such that attempts at cooperation like this are rewarded instead of punished.\n\nThere is an extent to which my attitude of having low standards for understanding and help from others, and being okay with these poor conditions, has been adaptive over the years - it allows me to pursue the things I believe are right and true, including those that are far outside the Overton window, without being discouraged, undermined, or compromised by a lack of mainstream understanding and acceptance, or from what feels like the ever-present mischaracterizations or shallow characterizations of what I'm doing from the greater community. But it is maladaptive to become closed off to the occasional good-faith attempts of others to understand and help, even if they are imperfect, or the inferential gap feels large, especially when they're also relatively high-stakes. In this case, I really was not putting forth the cognitive resources merited by the situation to even try to accurately model it and respond appropriately, due to these maladaptive habits.\n\nSo I reiterate my apology to Scott, hope he's still open to cooperation, and am open to doing anything else that would help make up for my poor behavior towards him, in addition to being committed to improve how I deal with these things more generally.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/repligate/status/2126099407510896797",
+    "created_at": "Thu Nov 26 23:42:54 +0000 2026"
+   },
+   "enriched": 3
   }
  }
 }
