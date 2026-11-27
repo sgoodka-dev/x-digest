@@ -4810,6 +4810,30 @@
     }
    ],
    "enriched": 3
+  },
+  "2126435073562177678": {
+   "id": "2126435073562177678",
+   "url": "https://x.com/random_walker/status/2126435073562177678",
+   "text": "my timeline is full of folks who would rather believe that Claude is sabotaging their ML experiments and not simply that frontier agents are still disappointingly unreliable at sustained goal-oriented work",
+   "created_at": "Fri Nov 27 21:56:43 +0000 2026",
+   "author_handle": "random_walker",
+   "author_name": "Arvind Narayanan",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1650881612756942850/bZYjMyFU_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "lateinteraction",
+   "rt_author_name": "Omar Khattab",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1613558765764374528/aZQB6U4b_normal.jpg",
+   "rt_id": "2126057001964704241",
+   "likes": 1705,
+   "retweets": 74,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-27T23:27:58.315280+00:00",
+   "enriched": 3
   }
  }
 }

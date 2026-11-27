@@ -1,6 +1,6 @@
 {
  "last_run": {
-  "started": "2026-11-27T19:57:21.906882+00:00",
+  "started": "2026-11-27T23:27:58.315280+00:00",
   "accounts": {
    "_achan96_": {
     "ok": true,
@@ -40,7 +40,7 @@
    "dwarkesh_sp": {
     "ok": true,
     "new": 4,
-    "total": 226
+    "total": 230
    },
    "jkcarlsmith": {
     "ok": true,
@@ -54,7 +54,7 @@
    },
    "mentalgeorge": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 215
    },
    "ohlennart": {
@@ -79,17 +79,17 @@
    },
    "s8mb": {
     "ok": true,
-    "new": 8,
-    "total": 707
+    "new": 3,
+    "total": 710
    },
    "random_walker": {
     "ok": true,
-    "new": 0,
-    "total": 195
+    "new": 1,
+    "total": 196
    },
    "sethlazar": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 410
    },
    "robertwiblin": {
@@ -109,8 +109,8 @@
    },
    "theobearman": {
     "ok": true,
-    "new": 0,
-    "total": 523
+    "new": 4,
+    "total": 527
    },
    "peterwilderford": {
     "ok": true,
@@ -119,12 +119,12 @@
    },
    "anton_d_leicht": {
     "ok": true,
-    "new": 0,
-    "total": 141
+    "new": 1,
+    "total": 142
    },
    "NateWitkin": {
     "ok": true,
-    "new": 1,
+    "new": 0,
     "total": 219
    },
    "charnock_jacob": {
@@ -138,7 +138,7 @@
     "total": 96
    }
   },
-  "new_tweets": 15,
-  "finished": "2026-11-27T19:58:18.764743+00:00"
+  "new_tweets": 13,
+  "finished": "2026-11-27T23:29:08.788706+00:00"
  }
 }

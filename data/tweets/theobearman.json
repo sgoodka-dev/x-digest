@@ -15111,6 +15111,123 @@
     }
    ],
    "enriched": 3
+  },
+  "2126432900048736617": {
+   "id": "2126432900048736617",
+   "url": "https://x.com/theobearman/status/2126432900048736617",
+   "text": "The discussion about \"AI handoverism\" is basically confused. The truth is that you will be hard-pressed to find someone who defends \"handing society over to AI and having AI run things.\" There might be a few people who believe something like that and live around the Bay Area, but that view is obviously not going to be a social or political winner.\n\nWhat's actually happening is that people all over the world are handing important things over to AI because it's efficient and makes their lives easier; just look at the increasing number of AI slop articles in any newspaper, or the number of political speeches written by AI, or the number of legislative bills written by AI. In doing so, they are disempowering themselves and eroding human capacity: they are handing society over to AI. That is what \"gradual disempowerment\" actually looks like: it happens without anyone needing to advocate for it.\n\nActually figuring out what we should and should not hand over to AI, and how we avoid disempowering ourselves in the process, is more important than arguing against an idea that 99 percent of people intuitively oppose.",
+   "created_at": "Fri Nov 27 21:48:05 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "davideoks",
+   "rt_author_name": "David Oks",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/2088686629242507264/eFLmQKyS_normal.jpg",
+   "rt_id": "2126425483013132755",
+   "likes": 141,
+   "retweets": 23,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-27T23:27:58.315280+00:00",
+   "enriched": 3
+  },
+  "2126425868280954885": {
+   "id": "2126425868280954885",
+   "url": "https://x.com/theobearman/status/2126425868280954885",
+   "text": "@mustafasuleyman @pangram ai?",
+   "created_at": "Fri Nov 27 21:20:08 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": true,
+   "reply_to": "mustafasuleyman",
+   "reply_to_id": "2126412600816943385",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-27T23:27:58.315280+00:00",
+   "parent": {
+    "id": "2126412600816943385",
+    "author_handle": "mustafasuleyman",
+    "author_name": "Mustafa Suleyman",
+    "text": "https://t.co/DNvO44MOfr",
+    "links": {
+     "https://t.co/DNvO44MOfr": "https://x.com/i/article/2126402686388256768"
+    },
+    "media": [],
+    "url": "https://x.com/mustafasuleyman/status/2126412600816943385",
+    "created_at": "Fri Nov 27 20:27:25 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2126424445644353876": {
+   "id": "2126424445644353876",
+   "url": "https://x.com/theobearman/status/2126424445644353876",
+   "text": "New podcast episode between @DKokotajlo and @EgeErdil2. I thought this was going to be a debate, but they ended up agreeing on a lot more than I expected.\n\nTheir main point of disagreement is how likely it is that we get some intelligence explosion that gives us AIs more competent than any human expert before 2029. Ege puts this possibility at around 20%, whereas Daniel thinks it's higher than 50%.\n\nThey agree that there is not a huge difference in probability, and that, in either case, the situation is crazy enough that our civilization really needs to grapple with how the world might be transformed, and we need a plan that actually makes sense.\n\nIn particular, we should stop antagonizing China if we think some kind of global treaty will be needed to make superintelligence go well.\n\nThere was another important crux about how well we should expect future AIs (that swamp humans in population size and cognitive power) to treat us, and how relevant it is that current AIs, by and large, seem to be pretty nice.\n\nWe close off with predictions for 2027. Daniel, of course, expects superintelligence next year. Ege’s median for full automation is 2040, but by next year he expects AIs that can beat any video game on Steam, and which can control robots to get simple physical tasks (like folding laundry) done at roughly human speed.",
+   "created_at": "Fri Nov 27 21:14:29 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dwarkesh_sp",
+   "rt_author_name": "Dwarkesh Patel",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "rt_id": "2126384053444288995",
+   "likes": 588,
+   "retweets": 47,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HYJvM_nXwAAD9D8.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/QAdvPfU0Ao": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-27T23:27:58.315280+00:00",
+   "enriched": 3
+  },
+  "2126412713404645512": {
+   "id": "2126412713404645512",
+   "url": "https://x.com/theobearman/status/2126412713404645512",
+   "text": "https://t.co/kYjntmWva2",
+   "created_at": "Fri Nov 27 20:27:52 +0000 2026",
+   "author_handle": "theobearman",
+   "author_name": "Theo Bearman",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2104113659844718592/_0f8KHM2_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "jackclarkSF",
+   "rt_author_name": "Jack Clark",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_normal.jpg",
+   "rt_id": "2126380579512057911",
+   "likes": 982,
+   "retweets": 161,
+   "media": [],
+   "links": {
+    "https://t.co/kYjntmWva2": "https://x.com/i/article/2126379730517864448"
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-27T23:27:58.315280+00:00",
+   "enriched": 3
   }
  }
 }

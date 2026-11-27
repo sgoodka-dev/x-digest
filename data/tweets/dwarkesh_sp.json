@@ -5857,6 +5857,139 @@
    "quoted": null,
    "fetched_at": "2026-11-27T19:57:21.906882+00:00",
    "enriched": 3
+  },
+  "2126435587867426866": {
+   "id": "2126435587867426866",
+   "url": "https://x.com/dwarkesh_sp/status/2126435587867426866",
+   "text": "“Let’s say the US wins. We get our superintelligence. Then what?\n\nDo we do some crazy operation to try to overthrow the Chinese government?\n\nAnd if they think that’s what the US is going to do, what are they going to think of any attempt to try to coordinate with them to get a slowdown?\n\nAny prospects of coordination with them, I think, are being severely damaged by the policy of the US government towards China, and also, to some extent, of Anthropic towards China.”\n\n- @EgeErdil2",
+   "created_at": "Fri Nov 27 21:58:46 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 71,
+   "retweets": 14,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2126435350360797184/img/N-fT_Tx5WHEHTrv3.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/Aco3Hdbl2e": ""
+   },
+   "quoted": {
+    "id": "2126384053444288995",
+    "author_name": "Dwarkesh Patel",
+    "links": {
+     "https://t.co/QAdvPfU0Ao": ""
+    },
+    "author": "dwarkesh_sp",
+    "text": "New podcast episode between @DKokotajlo and @EgeErdil2. I thought this was going to be a debate, but they ended up agreeing on a lot more than I expected.\n\nTheir main point of disagreement is how likely it is that we get some intelligence explosion that gives us AIs more competent than any human expert before 2029. Ege puts this possibility at around 20%, whereas Daniel thinks it's higher than 50%.\n\nThey agree that there is not a huge difference in probability, and that, in either case, the situation is crazy enough that our civilization really needs to grapple with how the world might be transformed, and we need a plan that actually makes sense.\n\nIn particular, we should stop antagonizing China if we think some kind of global treaty will be needed to make superintelligence go well.\n\nThere was another important crux about how well we should expect future AIs (that swamp humans in population size and cognitive power) to treat us, and how relevant it is that current AIs, by and large, seem to be pretty nice.\n\nWe close off with predictions for 2027. Daniel, of course, expects superintelligence next year. Ege’s median for full automation is 2040, but by next year he expects AIs that can beat any video game on Steam, and which can control robots to get simple physical tasks (like folding laundry) done at roughly human speed."
+   },
+   "fetched_at": "2026-11-27T23:27:58.315280+00:00",
+   "enriched": 3
+  },
+  "2126433471514231110": {
+   "id": "2126433471514231110",
+   "url": "https://x.com/dwarkesh_sp/status/2126433471514231110",
+   "text": "This was a good discussion. One point Ege makes is about verification costs. You can check math proofs on a laptop, but checking ML research ideas at scale requires a lot of compute. So recent fast progress on math tells us less than you might think about AI research.",
+   "created_at": "Fri Nov 27 21:50:21 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "tamaybes",
+   "rt_author_name": "Tamay Besiroglu",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1919244153449553920/ABOfcb-s_normal.jpg",
+   "rt_id": "2126433370829910334",
+   "likes": 47,
+   "retweets": 5,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-27T23:27:58.315280+00:00",
+   "enriched": 3
+  },
+  "2126418179639386424": {
+   "id": "2126418179639386424",
+   "url": "https://x.com/dwarkesh_sp/status/2126418179639386424",
+   "text": "Google DeepMind researcher Ege Erdil explained on Dwarkesh why he doesn't expect superintelligence within the next two years.\n\nHe thinks the labs will run into so many serious incidents internally once they deploy these systems for AI research that progress simply can't go that fast. His guess is that this is already happening at OpenAI, where they struggle to deploy their systems because they can't align them.\n\nHe puts less weight on the classic scenario where an AI acts aligned until it has enough power and then stages a coup. More likely the models just stay misaligned, make up information and ignore instructions, and the companies have to slow down internally because of it.\n\nOverall he gives RSI only 10-20% over the next three years. Daniel Kokotajlo is above 50%.",
+   "created_at": "Fri Nov 27 20:49:35 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "dummerspast39",
+   "rt_author_name": "Binkg",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1954538487845203968/IxBPGAtt_normal.jpg",
+   "rt_id": "2126386262705619253",
+   "likes": 487,
+   "retweets": 37,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2126386179364810752/img/NdvUd9x0bLWPDkdm.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/tFlJloGy2a": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-27T23:27:58.315280+00:00",
+   "enriched": 3
+  },
+  "2126410263117394392": {
+   "id": "2126410263117394392",
+   "url": "https://x.com/dwarkesh_sp/status/2126410263117394392",
+   "text": "\"There’s this quote from Nietzsche. He wrote, ‘God is dead, but given the way of man, for many thousands of years there may be caves in which his shadow will be shown, and we have to vanquish his shadow too.’\n\nI think that is what AI is doing. We have all these almost quasi-religious beliefs about the human mind, and all of them are going to be undermined.\n\nSome people already realize God is dead in this sense. But his shadow is just the things we believe that are left over from our religious view of humanity. That’s going to have to go away.”\n\n- @EgeErdil2",
+   "created_at": "Fri Nov 27 20:18:08 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 236,
+   "retweets": 14,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/amplify_video_thumb/2126409418380091392/img/-HJcSWCkEtR97I23.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/93Y0k0Ixn2": ""
+   },
+   "quoted": {
+    "id": "2126384053444288995",
+    "author_name": "Dwarkesh Patel",
+    "links": {
+     "https://t.co/QAdvPfU0Ao": ""
+    },
+    "author": "dwarkesh_sp",
+    "text": "New podcast episode between @DKokotajlo and @EgeErdil2. I thought this was going to be a debate, but they ended up agreeing on a lot more than I expected.\n\nTheir main point of disagreement is how likely it is that we get some intelligence explosion that gives us AIs more competent than any human expert before 2029. Ege puts this possibility at around 20%, whereas Daniel thinks it's higher than 50%.\n\nThey agree that there is not a huge difference in probability, and that, in either case, the situation is crazy enough that our civilization really needs to grapple with how the world might be transformed, and we need a plan that actually makes sense.\n\nIn particular, we should stop antagonizing China if we think some kind of global treaty will be needed to make superintelligence go well.\n\nThere was another important crux about how well we should expect future AIs (that swamp humans in population size and cognitive power) to treat us, and how relevant it is that current AIs, by and large, seem to be pretty nice.\n\nWe close off with predictions for 2027. Daniel, of course, expects superintelligence next year. Ege’s median for full automation is 2040, but by next year he expects AIs that can beat any video game on Steam, and which can control robots to get simple physical tasks (like folding laundry) done at roughly human speed."
+   },
+   "fetched_at": "2026-11-27T23:27:58.315280+00:00",
+   "enriched": 3
   }
  }
 }
