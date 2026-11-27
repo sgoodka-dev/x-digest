@@ -5712,6 +5712,151 @@
    "quoted": null,
    "fetched_at": "2026-11-26T17:03:28.364412+00:00",
    "enriched": 3
+  },
+  "2126399509223948497": {
+   "id": "2126399509223948497",
+   "url": "https://x.com/dwarkesh_sp/status/2126399509223948497",
+   "text": "@andy_matuschak @michael_nielsen I agree that we should pause before you get 100x in progress.\n\nBut it seemed like Michael was arguing that if we had paused or gone slower over the last few years, then much more safety and adaptation work could have be done. Otherwise, it's not clear why it's bad that OpenAI and Anthropic have been racing.  \n\nBut it doesn't seem likely to me that the world would be any more prepared for superintelligence if we got to GPT-6 in 2028 instead.",
+   "created_at": "Fri Nov 27 19:35:24 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "andy_matuschak",
+   "reply_to_id": "2126395720664334593",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 1,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-27T19:57:21.906882+00:00",
+   "parent": {
+    "id": "2126395720664334593",
+    "author_handle": "andy_matuschak",
+    "author_name": "Andy Matuschak",
+    "text": "@dwarkesh_sp @michael_nielsen One simple intuition pump might be: 2026 gave us X progress (with Y unrealized overhang). Also, it created Z safety-provisioning work: a bunch of marginal alarm, new technical investigation, new legislative action, new organizing, new institutions, etc.\n\nIf 2027 gives the same constant X progress—because, say, we paused, and 2027's X is coming from 2026's Y overhang plus leaks—the same safety-provisioning work might have some chance of keeping apace.\n\nBy contrast, if 2027 gets 100X, we probably won't get 100Z.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/andy_matuschak/status/2126395720664334593",
+    "created_at": "Fri Nov 27 19:20:20 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2126390810757206388": {
+   "id": "2126390810757206388",
+   "url": "https://x.com/dwarkesh_sp/status/2126390810757206388",
+   "text": "@PageLyndon @DKokotajlo @EgeErdil2 Neither of them, I think, would claim that there's a deep model that's outputting these numbers. My interpretation is that these are the odds at which they would make a bet with somebody (based on their own subjective judgment).",
+   "created_at": "Fri Nov 27 19:00:50 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "PageLyndon",
+   "reply_to_id": "2126386951330951530",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 3,
+   "retweets": 0,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-27T19:57:21.906882+00:00",
+   "parent": {
+    "id": "2126386951330951530",
+    "author_handle": "PageLyndon",
+    "author_name": "I am Gaius Julius Caesar",
+    "text": "@dwarkesh_sp @DKokotajlo @EgeErdil2 I feel like the %ages don't really mean much. There is too much craziness and unknowns. A neat trick could essentially flip a switch in a matter of weeks.",
+    "links": {},
+    "media": [],
+    "url": "https://x.com/PageLyndon/status/2126386951330951530",
+    "created_at": "Fri Nov 27 18:45:30 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2126390433617949123": {
+   "id": "2126390433617949123",
+   "url": "https://x.com/dwarkesh_sp/status/2126390433617949123",
+   "text": "@michael_nielsen I think your view is very plausible (that we might get 100 years of technological progress in a single year after ASI, and this might be catastrophic for biological humans). \n\nBut I'm not sure how pausing now would help us adapt to technologies that don't even exist yet. \n\nEspecially given that (at the current level of capability) the overwhelming majority of the world just doesn't buy that the world is going to be radically transformed, and so are not doing any adapting work.\n\nOf course, we might be in a terrible epistemic position where, because of fast takeoff, we don't get evidence about radical transformation that's persuasive to the whole world until we're only a year or two away from the 22nd century's equivalent of a nuclear bomb. In that world, it's just not clear to me what we should do. And it's not obvious that unilaterally stopping a single company or country would do much to change the situation.",
+   "created_at": "Fri Nov 27 18:59:20 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": true,
+   "reply_to": "michael_nielsen",
+   "reply_to_id": "2126359767362748777",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 67,
+   "retweets": 3,
+   "media": [],
+   "links": {},
+   "quoted": null,
+   "fetched_at": "2026-11-27T19:57:21.906882+00:00",
+   "parent": {
+    "id": "2126359767362748777",
+    "author_handle": "michael_nielsen",
+    "author_name": "Michael Nielsen",
+    "text": "I took down my old book on neural nets: https://t.co/bISCsIZe6g https://t.co/WBXNa6Hnia",
+    "links": {
+     "https://t.co/bISCsIZe6g": "https://neuralnetworksanddeeplearning.com",
+     "https://t.co/WBXNa6Hnia": ""
+    },
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HYJX1LDXwAAslux.jpg"
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HYJX1LDXwAAslux.jpg"
+     }
+    ],
+    "url": "https://x.com/michael_nielsen/status/2126359767362748777",
+    "created_at": "Fri Nov 27 16:57:29 +0000 2026"
+   },
+   "enriched": 3
+  },
+  "2126384053444288995": {
+   "id": "2126384053444288995",
+   "url": "https://x.com/dwarkesh_sp/status/2126384053444288995",
+   "text": "New podcast episode between @DKokotajlo and @EgeErdil2. I thought this was going to be a debate, but they ended up agreeing on a lot more than I expected.\n\nTheir main point of disagreement is how likely it is that we get some intelligence explosion that gives us AIs more competent than any human expert before 2029. Ege puts this possibility at around 20%, whereas Daniel thinks it's higher than 50%.\n\nThey agree that there is not a huge difference in probability, and that, in either case, the situation is crazy enough that our civilization really needs to grapple with how the world might be transformed, and we need a plan that actually makes sense.\n\nIn particular, we should stop antagonizing China if we think some kind of global treaty will be needed to make superintelligence go well.\n\nThere was another important crux about how well we should expect future AIs (that swamp humans in population size and cognitive power) to treat us, and how relevant it is that current AIs, by and large, seem to be pretty nice.\n\nWe close off with predictions for 2027. Daniel, of course, expects superintelligence next year. Ege’s median for full automation is 2040, but by next year he expects AIs that can beat any video game on Steam, and which can control robots to get simple physical tasks (like folding laundry) done at roughly human speed.",
+   "created_at": "Fri Nov 27 18:33:59 +0000 2026",
+   "author_handle": "dwarkesh_sp",
+   "author_name": "Dwarkesh Patel",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 290,
+   "retweets": 24,
+   "media": [
+    {
+     "type": "video",
+     "url": "https://pbs.twimg.com/media/HYJvM_nXwAAD9D8.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/QAdvPfU0Ao": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-27T19:57:21.906882+00:00",
+   "enriched": 3
   }
  }
 }

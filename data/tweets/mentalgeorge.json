@@ -5279,6 +5279,41 @@
     "created_at": "Fri Nov 27 10:47:02 +0000 2026"
    },
    "enriched": 3
+  },
+  "2126359654758588417": {
+   "id": "2126359654758588417",
+   "url": "https://x.com/mentalgeorge/status/2126359654758588417",
+   "text": "Another curious observation from the appendix on swarms in METR's time-horizon 2 post:\n\nOpenAI models talk to themselves A LOT. The **majority** of Astra's messages are intended for itself. Fable 5.1 writes just 1% of messages to itself.\n\n(The post does not specify the tasks) https://t.co/hDG9Cvv5dB",
+   "created_at": "Fri Nov 27 16:57:02 +0000 2026",
+   "author_handle": "mentalgeorge",
+   "author_name": "Tom Reed",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "is_retweet": false,
+   "rt_author": "",
+   "rt_author_name": "",
+   "rt_avatar": "",
+   "rt_id": "",
+   "likes": 14,
+   "retweets": 1,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYJY1mnasAILwbX.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYJY1mnasAILwbX.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/hDG9Cvv5dB": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-27T19:57:21.906882+00:00",
+   "enriched": 3
   }
  }
 }

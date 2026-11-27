@@ -6877,6 +6877,41 @@
    "quoted": null,
    "fetched_at": "2026-11-26T20:16:29.705743+00:00",
    "enriched": 3
+  },
+  "2126373612340887976": {
+   "id": "2126373612340887976",
+   "url": "https://x.com/NateWitkin/status/2126373612340887976",
+   "text": "This went under the radar but there's an interesting  section in METR's \"Time Horizon 2\" on returns to swarm-scaling across different tasks\n\nNotably, they get mixed results from using swarms. They find that:\n\n1. The only task in their suite that experienced consistent swarm uplift was nanoGPT. METR speculate that swarms are helpful on tasks that \"are verifiable and amenable to decomposition\".\n\n2. Using swarms - or scaling swarm sizes - occasionally *decreases* performance. This appears to happen particularly on tasks \"that require agents to create their own feedback loops\". (Creating a bot that can play Minecraft by itself is one such example).\n\nOn these kinds of tasks, \"swarms seem prone to making incorrect assumptions and getting caught in local traps\". Eg, they would often end up ruthlessly optimising a metric \"they decided was correct early on\", without considering whether this metric generalised to the actual goal of the task.\n\nIn the figure below, you can see that Astra with 40 agents does far worse than a swarm with just 2 agents on the \"Train a Program\" task. This is because the test set constructed and optimised for by the 40-agent-swarm (the dotted line) does a poor job of capturing real accuracy (the solid line).\n\n3. Using swarms for tasks that require serial progress and coordination have mixed, unclear effects. In Slay the Spire, for instance, further increases in swarm size typically decreased performance. This is in part because \"teammates sometimes encouraged obvious misplays or propagated misinformation\" 🤣",
+   "created_at": "Fri Nov 27 17:52:29 +0000 2026",
+   "author_handle": "NateWitkin",
+   "author_name": "Nathan Witkin",
+   "is_reply": false,
+   "reply_to": "",
+   "reply_to_id": "",
+   "avatar": "https://pbs.twimg.com/profile_images/2009427954858692609/C7BUdjhB_normal.jpg",
+   "is_retweet": true,
+   "rt_author": "mentalgeorge",
+   "rt_author_name": "Tom Reed",
+   "rt_avatar": "https://pbs.twimg.com/profile_images/1810244508061249537/KtVReF2F_normal.jpg",
+   "rt_id": "2126345821956481509",
+   "likes": 32,
+   "retweets": 3,
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYJMQMYaoAAgEuo.jpg"
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HYJMQbUagAA1Bb8.jpg"
+    }
+   ],
+   "links": {
+    "https://t.co/4bp3FBcJGn": ""
+   },
+   "quoted": null,
+   "fetched_at": "2026-11-27T19:57:21.906882+00:00",
+   "enriched": 3
   }
  }
 }
